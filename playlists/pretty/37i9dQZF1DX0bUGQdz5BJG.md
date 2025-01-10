@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: The Castellows
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,818 likes - 230 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,857 likes - 230 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

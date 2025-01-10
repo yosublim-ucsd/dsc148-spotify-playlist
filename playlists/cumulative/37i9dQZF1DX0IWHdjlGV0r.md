@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-200 songs - 10 hr 19 min
+201 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,8 +140,9 @@
 | [Non mi chiami mai](https://open.spotify.com/track/5EpObrDHnggPuYUVl7IiJ0) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [Lacrime](https://open.spotify.com/album/15c6QehX6DCG353ITVkqTn) | 4:07 | 2022-05-03 | 2022-06-20 |
 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-08-28 | 2023-09-08 |
 | [Nun è mai fernut](https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:47 | 2024-08-29 | 2024-12-19 |
+| [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 | 2025-01-10 |  |
 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 | 2022-05-03 | 2024-07-05 |
-| [Parole di ghiaccio](https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva](https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH) | 3:51 | 2022-05-03 |  |
+| [Parole di ghiaccio](https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [L'erba cattiva](https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH) | 3:51 | 2022-05-03 | 2025-01-10 |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |
 | [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 | 2024-01-12 | 2024-07-05 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-03 | 2024-07-05 |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=on\-xw2v0S\_C7V\_xtXVBeAw">Porcelain Moon</a>
 
-973 songs - 2 day 7 hr 15 min
+975 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Paper Planes](https://open.spotify.com/track/4iTyAQ2QxKbU1crRidu4QA) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N), [Patrick Sampson](https://open.spotify.com/artist/16z03LbZVOCJixvwiYIIb5) | [Paper Planes](https://open.spotify.com/album/4VM562qVxAWsocBIeGTDLa) | 3:50 | 2024-07-18 | 2024-08-24 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-11-18 |
 | [Parasite](https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Parasite](https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw) | 2:26 | 2023-06-22 | 2023-08-05 |
+| [Part of Your Kind](https://open.spotify.com/track/1h83MOXEOMdH3XqhUan5cz) | [Ys Van Die Koud](https://open.spotify.com/artist/2BIUeAfAunTs5fAsR1xaef) | [Ys Up My Sleeve](https://open.spotify.com/album/2i27DOFkKmjWVB5gRYU1vk) | 3:40 | 2025-01-09 |  |
 | [Past days](https://open.spotify.com/track/3R4hurXS5JEjYkAjk0dq6X) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Past days](https://open.spotify.com/album/2IkMNo1ZNepoPCd2u7ya16) | 2:28 | 2024-02-15 | 2024-03-09 |
 | [Past Midnight \(Acoustic\)](https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Past Midnight \(Acoustic\)](https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW) | 3:12 | 2023-12-08 | 2024-01-12 |
 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2024-12-05 |  |
@@ -779,7 +780,7 @@
 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 | 2023-09-15 | 2023-12-08 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-09-07 |
 | [Still Here](https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Still Here](https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF) | 2:33 | 2023-09-07 | 2023-12-01 |
-| [Still You](https://open.spotify.com/track/2ptbWiicXwkNjNczrUn9EL) | [Ben Dey](https://open.spotify.com/artist/1rFahc69M1LAHTSpwej3c5) | [Still You](https://open.spotify.com/album/47Cdt2xqyvUJ4oFvFMCRo4) | 3:54 | 2024-10-04 |  |
+| [Still You](https://open.spotify.com/track/2ptbWiicXwkNjNczrUn9EL) | [Ben Dey](https://open.spotify.com/artist/1rFahc69M1LAHTSpwej3c5) | [Still You](https://open.spotify.com/album/47Cdt2xqyvUJ4oFvFMCRo4) | 3:54 | 2024-10-04 | 2025-01-10 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-02-01 | 2024-07-05 |
 | [Stranger](https://open.spotify.com/track/2NggrkJnz1hFOV3uXSI1m8) | [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Stranger](https://open.spotify.com/album/7a3hMYwWTJRxnvw3JLrBAK) | 3:45 | 2023-08-24 | 2023-09-08 |
 | [Strangers](https://open.spotify.com/track/478FDZYiDhJGGAwM0oWbPv) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Good Morning Dreamer](https://open.spotify.com/album/6KMXFgGH8vb8rn6bQzYdWu) | 4:35 | 2023-08-11 | 2023-11-10 |
@@ -851,12 +852,13 @@
 | [The Woods](https://open.spotify.com/track/2sS8cVwz9TmUsREMLBzLcq) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:34 | 2024-01-11 | 2024-02-02 |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-18 | 2024-09-07 |
 | [There's More To Life](https://open.spotify.com/track/4sFPL29s9eQoeDbdmIlSS0) | [Simone Govender](https://open.spotify.com/artist/4g4b9Qx7XMrxzhQizhD2zz) | [There's More To Life](https://open.spotify.com/album/5kVWaKlgGJGCRJZrNBAcFg) | 3:09 | 2024-10-10 |  |
+| [These Days](https://open.spotify.com/track/16yf9o2BvqFl1qCuXfj0ML) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [These Days](https://open.spotify.com/album/4B0El0eVNpFfRfSZgVuAZv) | 2:39 | 2025-01-09 |  |
 | [These Four Walls](https://open.spotify.com/track/7B9HQGF0JH49JYhFZClEM9) | [Alexx ONell](https://open.spotify.com/artist/4nUGqAzV4AQgwmIbD499xV) | [These Four Walls](https://open.spotify.com/album/6RqWWFYizLsT3eGEHUvyKy) | 3:12 | 2023-07-13 | 2023-08-25 |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-21 |  |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-02 | 2023-07-07 |
 | [Thorns](https://open.spotify.com/track/1PP9T1txg5vSHHemsLNd38) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE) | [Thorns](https://open.spotify.com/album/2ICkFGFVJph7qkwqaGeNPR) | 2:47 | 2023-02-23 | 2023-05-06 |
 | [Three Famous Words](https://open.spotify.com/track/0tJMQ6hUEhq03JwU7yJ5Ef) | [Hannah Hunter](https://open.spotify.com/artist/575FsY9RM9NcTZnOo5qCf0) | [Three Famous Words](https://open.spotify.com/album/4TKIxP4VikzP4YbiCroA2B) | 5:26 | 2023-11-09 | 2023-12-22 |
-| [Thriftstore](https://open.spotify.com/track/2emZx1XCX4Cls2mvTBKbF8) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [Thriftstore](https://open.spotify.com/album/3Lj40XdTq39lqLZBm2lRjI) | 2:57 | 2024-10-04 |  |
+| [Thriftstore](https://open.spotify.com/track/2emZx1XCX4Cls2mvTBKbF8) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [Thriftstore](https://open.spotify.com/album/3Lj40XdTq39lqLZBm2lRjI) | 2:57 | 2024-10-04 | 2025-01-10 |
 | [Through The Misty With You \- From “The Score”](https://open.spotify.com/track/2yhH4M2YAc2jzFhOYDQ6K5) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Through The Misty With You \(From “The Score”\)](https://open.spotify.com/album/5HDG7vBlkkzyLAAJVq0Fxk) | 4:11 | 2022-08-04 | 2022-11-18 |
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-09 | 2023-04-22 |
 | [Tide](https://open.spotify.com/track/7mWKrNLup11lwdvhokBl6U) | [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [Tide](https://open.spotify.com/album/1BOf6GT4iZ0dwJqerSsFdn) | 3:08 | 2024-10-10 |  |

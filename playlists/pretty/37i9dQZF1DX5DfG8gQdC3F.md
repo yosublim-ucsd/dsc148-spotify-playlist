@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Morgan Wallen, Lil Baby, Little Simz, young friend and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,692 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,689 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 11 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
 | 12 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 13 | [Triple Impacto](https://open.spotify.com/track/28uKuAQpVIB9mTr3BLGu66) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Champions Street League](https://open.spotify.com/album/5gsFiJs2GV01e3EqvsgPYg) | 3:18 |
-| 14 | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |
+| 14 | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |
 | 15 | [Fling It Up](https://open.spotify.com/track/4LBJYf4wRu2S9yg7uBgOko) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fling It Up](https://open.spotify.com/album/20sDXgZMVIHxyQUXZ5X0Rn) | 2:39 |
 | 16 | [Watch Out](https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Watch Out](https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73) | 2:22 |
 | 17 | [Out Here All Alone](https://open.spotify.com/track/08mtRy496sowM6ddLDXwvE) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Out Here All Alone](https://open.spotify.com/album/304ysj85BewkBVK6XOzt8E) | 2:41 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Colectivo Da Silva.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178532,
       "name": "Chico Bueno",
       "url": "https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk"
@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/0RRbTLs0RM9MhoRiFaUBrw"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217612,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/0AL28serWfdor08HKJxYxt"
+    },
+    {
+      "album": {
         "name": "Hileta Kantu Nafarra",
         "url": "https://open.spotify.com/album/3zMqegOQxv66TAHfh6dBLe"
       },
@@ -2589,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "D\u00c9JATE CAER",
+        "url": "https://open.spotify.com/album/6f5W3JldEcdI13scNXc3z9"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154450,
+      "name": "Japi Mil",
+      "url": "https://open.spotify.com/track/0MeQAdqiHE9BAxAEIlUpVO"
+    },
+    {
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf"
       },
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 189036,
       "name": "Karaoke espa\u00f1ol",
       "url": "https://open.spotify.com/track/3i97XSAj6jDO0k4x4AcStN"
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206666,
       "name": "La Ceniza (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
@@ -2846,6 +2882,24 @@
       "duration_ms": 147895,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
+    },
+    {
+      "album": {
+        "name": "Las Ganas",
+        "url": "https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm"
+      },
+      "artists": [
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174343,
+      "name": "Las Ganas",
+      "url": "https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6"
     },
     {
       "album": {
@@ -3700,7 +3754,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 204955,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/5IM7yXx4B65vDnuGipiZs2"
@@ -4504,7 +4558,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225000,
       "name": "Rayito de Luz",
       "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
@@ -4659,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "sentimentalmente",
+        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198860,
+      "name": "sentimentalmente",
+      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
+    },
+    {
+      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -4804,6 +4876,24 @@
       "duration_ms": 186040,
       "name": "So payaso",
       "url": "https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X"
+    },
+    {
+      "album": {
+        "name": "Solo Quer\u00eda Probar",
+        "url": "https://open.spotify.com/album/0keWXIkbDuB1e5XSFD1TLX"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "Solo Quer\u00eda Probar",
+      "url": "https://open.spotify.com/track/4YGUjmT1iK1cxQ1mtjd23z"
     },
     {
       "album": {
@@ -5444,7 +5534,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195980,
       "name": "Volver",
       "url": "https://open.spotify.com/track/1ubGWQwG6ojX2L5uBIxcnX"
@@ -5556,6 +5646,24 @@
       "duration_ms": 161986,
       "name": "YE YE",
       "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
+    },
+    {
+      "album": {
+        "name": "YERBABUENA",
+        "url": "https://open.spotify.com/album/0EhdOLT75A27wDXTT7YCgj"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "YERBABUENA",
+      "url": "https://open.spotify.com/track/74ujIumBc7STBhR0kL1rwP"
     },
     {
       "album": {

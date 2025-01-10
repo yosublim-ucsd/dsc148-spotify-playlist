@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Aleyna Tilki",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Afra",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164210,
       "name": "1053 km",
       "url": "https://open.spotify.com/track/0s5ldmbye05lSpabpCpfmc"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151000,
       "name": "Anlatamam",
       "url": "https://open.spotify.com/track/6DvmF8iireotLfNH5oouqV"
@@ -486,6 +486,24 @@
       "duration_ms": 192217,
       "name": "Bi Polar",
       "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
+    },
+    {
+      "album": {
+        "name": "Bi Sal Gideyim",
+        "url": "https://open.spotify.com/album/4an6rlKTkhoJuFQx4jmrUZ"
+      },
+      "artists": [
+        {
+          "name": "Siyam",
+          "url": "https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158210,
+      "name": "Bi Sal Gideyim",
+      "url": "https://open.spotify.com/track/0tfDoNxb20jitxnVIbvuq9"
     },
     {
       "album": {
@@ -1348,6 +1366,24 @@
       "duration_ms": 149987,
       "name": "Koca D\u00fcnya",
       "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
+    },
+    {
+      "album": {
+        "name": "Konsun Bir Ku\u015f Gibi",
+        "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148461,
+      "name": "Konsun Bir Ku\u015f Gibi",
+      "url": "https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9"
     },
     {
       "album": {
@@ -2593,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "\u00d6z\u00fcr Dilerim",
+        "url": "https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "\u00d6z\u00fcr Dilerim",
+      "url": "https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61"
+    },
+    {
+      "album": {
         "name": "\u00dczg\u00fcn\u00fcm",
         "url": "https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh"
       },
@@ -2622,7 +2676,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 274922,
       "name": "\u00dc\u015f\u00fcd\u00fcm",
       "url": "https://open.spotify.com/track/48y31axyctQLxNHbQP0y7z"

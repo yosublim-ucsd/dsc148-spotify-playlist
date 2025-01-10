@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: YoRI",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Jaz Rowe",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 173400,
       "name": "5150",
       "url": "https://open.spotify.com/track/13clE6hDehgCxDEG58Pyw6"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 263866,
       "name": "Aku Pasti Pulang",
       "url": "https://open.spotify.com/track/3QS1nKq5erNuzX1bTJhIIR"
@@ -4108,7 +4108,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 215424,
       "name": "Angin",
       "url": "https://open.spotify.com/track/5tXEA88Nx3mR7RTDedNRDS"
@@ -13306,7 +13306,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 272309,
       "name": "Cintaku Runtuh",
       "url": "https://open.spotify.com/track/09iB7snkdDtnCU8XLsaqpj"
@@ -16538,7 +16538,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 170145,
       "name": "Dia Hilang",
       "url": "https://open.spotify.com/track/4W7BhHaY9VSCY2eG9MTDPE"
@@ -16618,7 +16618,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 250000,
       "name": "DIANA",
       "url": "https://open.spotify.com/track/1tNb7a12FVr0K6bxj3ycbH"
@@ -25450,7 +25450,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176332,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0BuCY0GJ3HmCbeSeI4SMHU"
@@ -32952,7 +32952,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 287179,
       "name": "Jangan Datang Untuk Pergi",
       "url": "https://open.spotify.com/track/3Mdkiar1ohIpmRwtpggKBW"
@@ -33468,7 +33468,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 189000,
       "name": "Jatuh Sendiri",
       "url": "https://open.spotify.com/track/0c4VHJ92tbul0Z2sidYl1y"
@@ -33486,7 +33486,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 276770,
       "name": "Jatuh Tujuh Bangun Delapan",
       "url": "https://open.spotify.com/track/3pANGVVDeEwutSBP5URK1F"
@@ -34036,6 +34036,24 @@
       "duration_ms": 229285,
       "name": "Jodoh",
       "url": "https://open.spotify.com/track/1FYWiSSJVVJdBwurRS5HPh"
+    },
+    {
+      "album": {
+        "name": "Jodoh Yang Tersimpan",
+        "url": "https://open.spotify.com/album/1N6BOgGJ1e3XpjUskB1WA6"
+      },
+      "artists": [
+        {
+          "name": "Varcella",
+          "url": "https://open.spotify.com/artist/66K39JdQiJfyFbETGEyvjQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240003,
+      "name": "Jodoh Yang Tersimpan",
+      "url": "https://open.spotify.com/track/5VVmbrbSkodSG48URY73N0"
     },
     {
       "album": {
@@ -34800,7 +34818,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 221142,
       "name": "Kalut",
       "url": "https://open.spotify.com/track/1rJEW0ckegQxhLZGC5syIW"
@@ -37892,6 +37910,24 @@
       "duration_ms": 208000,
       "name": "L.U.I",
       "url": "https://open.spotify.com/track/4svavNUCjZhNJORDO5qVr0"
+    },
+    {
+      "album": {
+        "name": "LA DA DI",
+        "url": "https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Najla",
+          "url": "https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154315,
+      "name": "LA DA DI",
+      "url": "https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL"
     },
     {
       "album": {
@@ -41789,6 +41825,24 @@
     },
     {
       "album": {
+        "name": "Lovers Remorse",
+        "url": "https://open.spotify.com/album/5YFyvhvYIqm8y2iD0l1b0P"
+      },
+      "artists": [
+        {
+          "name": "Dhanisya",
+          "url": "https://open.spotify.com/artist/0erHlLa1SCdRzgC8O8NAJz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181547,
+      "name": "Lovers Remorse",
+      "url": "https://open.spotify.com/track/5FF93xbgT0QhZFb7LZ4sIx"
+    },
+    {
+      "album": {
         "name": "Lovin' You",
         "url": "https://open.spotify.com/album/51Q2lF0plg75F8gvAoJzG5"
       },
@@ -41818,7 +41872,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213450,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/46huTyawSCeP8sgWanrB0R"
@@ -42126,7 +42180,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164057,
       "name": "Lupa Waktu",
       "url": "https://open.spotify.com/track/18wnHTq1NgJJTQFt9GZLhT"
@@ -52667,6 +52721,24 @@
     },
     {
       "album": {
+        "name": "Perawan atau Janda",
+        "url": "https://open.spotify.com/album/5f7EQNFpwhyDleUy3bPfai"
+      },
+      "artists": [
+        {
+          "name": "Dellu Uyee",
+          "url": "https://open.spotify.com/artist/6IoF4fiDMEcyPKpvXzW1LH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175176,
+      "name": "Perawan atau Janda",
+      "url": "https://open.spotify.com/track/07KTdG1gASKwqLl2KMC6YU"
+    },
+    {
+      "album": {
         "name": "PERAYAAN",
         "url": "https://open.spotify.com/album/7JQRjjuiRWslyDLwCQMQhT"
       },
@@ -53814,6 +53886,24 @@
       "duration_ms": 284727,
       "name": "Pindah Ke Bulan",
       "url": "https://open.spotify.com/track/0r5V3uZKPhEIX7In5AsdDG"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/0AWQ6xN0FFGkUsfRefhS1j"
+      },
+      "artists": [
+        {
+          "name": "Deandra Nadira",
+          "url": "https://open.spotify.com/artist/5Tbnj0VCn83fNZgQa4MJxi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174606,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/5DGTm6KGCegqOVGk4Q7NUD"
     },
     {
       "album": {
@@ -60466,7 +60556,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 181900,
       "name": "Selebrasi Cinta",
       "url": "https://open.spotify.com/track/64Hdf6j7SJTwJTAYYn67uS"
@@ -66576,7 +66666,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 141284,
       "name": "sugar rush",
       "url": "https://open.spotify.com/track/1Ylq0uuLcY9BIfTLpJ5e2K"
@@ -67894,6 +67984,24 @@
       "duration_ms": 151160,
       "name": "Tak Bertepi",
       "url": "https://open.spotify.com/track/1J7AGAxqTA1zWA1C67eZWm"
+    },
+    {
+      "album": {
+        "name": "Tak Biasa",
+        "url": "https://open.spotify.com/album/3Wq5E0BDvyKL2glh1mHfRq"
+      },
+      "artists": [
+        {
+          "name": "Jaz Rowe",
+          "url": "https://open.spotify.com/artist/5OawJtVhHaAxoXkotlKpbI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204239,
+      "name": "Tak Biasa",
+      "url": "https://open.spotify.com/track/0eOERo9bi3NKqaFz4zz4II"
     },
     {
       "album": {
@@ -69906,7 +70014,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 245000,
       "name": "Tentang Dirinya",
       "url": "https://open.spotify.com/track/2XrdGhmFBN2DRZnEZuY36H"
@@ -69996,7 +70104,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 348000,
       "name": "Tentangmu",
       "url": "https://open.spotify.com/track/7IWyryhyXEtNoet8BSab80"
@@ -73039,6 +73147,28 @@
     },
     {
       "album": {
+        "name": "Toast to Those Days",
+        "url": "https://open.spotify.com/album/5unIruhbSL2xCPnbH3dEGP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Jonathan",
+          "url": "https://open.spotify.com/artist/1vNzfNaaBW5seGFJn0IYbG"
+        },
+        {
+          "name": "Rexa Buyung",
+          "url": "https://open.spotify.com/artist/2zfyxpdCcnpgQwJaapDaXE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258747,
+      "name": "Toast to Those Days",
+      "url": "https://open.spotify.com/track/6irIltxYE4Exl8Mf6LyWeB"
+    },
+    {
+      "album": {
         "name": "Tobat Kagok",
         "url": "https://open.spotify.com/album/3pFShUEYx0fWxo0EogoaPU"
       },
@@ -73664,7 +73794,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 245280,
       "name": "Tuhan Pasti Tahu",
       "url": "https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS"
@@ -74388,7 +74518,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 205034,
       "name": "Under Substance - Demo",
       "url": "https://open.spotify.com/track/2Im8lLCVDqCt0YoeBjl4SZ"
@@ -75878,7 +76008,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191147,
       "name": "Warteg",
       "url": "https://open.spotify.com/track/3xfwlIpdiUzHVvaY1Io6hY"
@@ -76996,7 +77126,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 202685,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/1qwgLpop13oATcbAUvlMUY"
@@ -78838,6 +78968,24 @@
       "duration_ms": 210319,
       "name": "You Were in My Dream",
       "url": "https://open.spotify.com/track/2GoysPtdjnRV9CNmTG56f8"
+    },
+    {
+      "album": {
+        "name": "You Were The Moonlight",
+        "url": "https://open.spotify.com/album/0Cn62bXtlfePVAnq5Il7ao"
+      },
+      "artists": [
+        {
+          "name": "Wijayakusuma",
+          "url": "https://open.spotify.com/artist/5KgRQdSlhcqrxKOREfyIIN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125873,
+      "name": "You Were The Moonlight",
+      "url": "https://open.spotify.com/track/43xdAmUc5olyh2c3yxOJEX"
     },
     {
       "album": {

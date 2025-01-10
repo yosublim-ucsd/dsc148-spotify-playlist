@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n"
+    },
+    {
+      "album": {
         "name": "Royalty (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
       },
@@ -2298,6 +2316,24 @@
       "duration_ms": 167960,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/5jl4mrAV1rEm384440ZAib"
+    },
+    {
+      "album": {
+        "name": "SOON",
+        "url": "https://open.spotify.com/album/7LJcMoHVgDfxBAQc1I23pp"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172853,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2a3eFJTsaGznDp3wPsX9pr"
     },
     {
       "album": {
@@ -4400,6 +4436,24 @@
       "duration_ms": 165096,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/3ASbbtjnSJrhQTxK2EbxPm"
+    },
+    {
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/63hWg5bbsZRO9aF6nCnDWy"
+      },
+      "artists": [
+        {
+          "name": "Violent J",
+          "url": "https://open.spotify.com/artist/02WFRlMwbZO6QfBJgZRNFa"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/488Ft5MwlFrsBTCpBfSSRj"
     },
     {
       "album": {

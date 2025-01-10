@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 87 | [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 |
 | 88 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `AbmWcgAAAACKuqZyVGK8U9s/PHEWy7Ar`
+Snapshot ID: `Abmb1gAAAACnPLyHADC6rC3+UXfqGSyd`

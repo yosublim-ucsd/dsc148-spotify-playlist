@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Influential",
+        "url": "https://open.spotify.com/album/39tf2KHZoFF5RSSLO9skMO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/3PAiNWEyXdq6ChAMefSST5"
+    },
+    {
+      "album": {
         "name": "Vibe Creator",
         "url": "https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98"
       },
@@ -1849,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Ready To Love",
+        "url": "https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy"
+      },
+      "artists": [
+        {
+          "name": "Just Kiddin",
+          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "Ready To Love",
+      "url": "https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss"
+    },
+    {
+      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -1926,6 +1962,24 @@
       "duration_ms": 148571,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/5sRjSBt7feBd03mXz4xatE"
+    },
+    {
+      "album": {
+        "name": "Romeo (VIP)",
+        "url": "https://open.spotify.com/album/4yXEFz70S3BTe8dksFqdrw"
+      },
+      "artists": [
+        {
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Romeo - VIP",
+      "url": "https://open.spotify.com/track/4CPXJ9WD0ieVFaqGSaJAwY"
     },
     {
       "album": {
@@ -2638,6 +2692,24 @@
       "duration_ms": 240526,
       "name": "Untold Business",
       "url": "https://open.spotify.com/track/6t0kYXM5ng8Pc4twDZjHoF"
+    },
+    {
+      "album": {
+        "name": "Vicinity",
+        "url": "https://open.spotify.com/album/2sjmYViZu84cgiJz1sbEw4"
+      },
+      "artists": [
+        {
+          "name": "Kudu Blue",
+          "url": "https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Vicinity",
+      "url": "https://open.spotify.com/track/5EJENkTrInunJAVBKYtt9D"
     },
     {
       "album": {

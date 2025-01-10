@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2729591,
+  "num_followers": 2730361,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-01-03 04:00:07",
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 126066,
+      "name": "Due 4A Win",
+      "url": "https://open.spotify.com/track/6xL8V1ArJD5CSDcWyWvFJ7"
+    },
+    {
+      "added_at": "2025-01-03 04:00:07",
+      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2025-01-03 04:00:07",
-      "album": {
-        "name": "WHAM",
-        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 126066,
-      "name": "Due 4A Win",
-      "url": "https://open.spotify.com/track/6xL8V1ArJD5CSDcWyWvFJ7"
     },
     {
       "added_at": "2025-01-03 04:00:07",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2025-01-03 04:00:07",
       "album": {
+        "name": "NAUJOUR",
+        "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Pull Up (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
+    },
+    {
+      "added_at": "2025-01-03 04:00:07",
+      "album": {
         "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
         "url": "https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 159600,
       "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
       "url": "https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl"
-    },
-    {
-      "added_at": "2025-01-03 04:00:07",
-      "album": {
-        "name": "NAUJOUR",
-        "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Pull Up (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
     },
     {
       "added_at": "2025-01-03 04:00:07",

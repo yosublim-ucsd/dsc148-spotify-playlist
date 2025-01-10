@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 211784,
+  "num_followers": 211802,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zy3QMwAAAAC9VSVxmvFr7QDbZQngbMJk",
   "tracks": [
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 277400,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Blue Magic",
         "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
       },
@@ -407,38 +423,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2024-07-03 15:11:44",

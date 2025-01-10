@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 274796,
+  "num_followers": 274839,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "Los Tragos",
-        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Los Tragos",
-      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
+        "name": "Los Tragos",
+        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Los Tragos",
+      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "Machu Picchu",
-        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 179004,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
+        "name": "Machu Picchu",
+        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 179004,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "Fuego de Noche, Nieve de D\u00eda",
-        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 282565,
-      "name": "Fuego de Noche, Nieve de D\u00eda",
-      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
+      "duration_ms": 226840,
+      "name": "Amor Loco",
+      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+        "name": "Fuego de Noche, Nieve de D\u00eda",
+        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 226840,
-      "name": "Amor Loco",
-      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
+      "duration_ms": 282565,
+      "name": "Fuego de Noche, Nieve de D\u00eda",
+      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
         "name": "Hasta El Alma",
         "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 188000,
       "name": "Siesta De Verano",
       "url": "https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
+        "name": "El d\u00eda menos pensado",
+        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 224675,
+      "name": "El d\u00eda menos pensado",
+      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 213948,
       "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
       "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
-        "name": "El d\u00eda menos pensado",
-        "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 224675,
-      "name": "El d\u00eda menos pensado",
-      "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
     },
     {
       "added_at": "2024-11-14 17:24:51",

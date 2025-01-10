@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,052 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,048 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 52 | [Burn](https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Burn](https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY) | 3:21 |
 | 53 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
 | 54 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
-| 55 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
+| 55 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
 | 56 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 |
-| 57 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
+| 57 | [Quite Like Me](https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [2 Sides of a Rose](https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn) | 2:26 |
 | 58 | [Sunshine](https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Sunshine](https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB) | 2:32 |
 | 59 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 60 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |

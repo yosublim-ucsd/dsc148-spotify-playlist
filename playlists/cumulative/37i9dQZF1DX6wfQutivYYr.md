@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Olly in cover della più grande playlist in Italia! 🏆
+> Gracie Abrams in cover della più grande playlist in Italia! 🏆
 
-131 songs - 6 hr 40 min
+133 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-06-28 | 2024-11-22 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-12-09 |  |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-10-17 |  |
+| [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 | 2025-01-09 |  |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-26 |  |
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-08-29 | 2024-09-06 |
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-28 | 2024-12-19 |
@@ -83,9 +84,10 @@
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 | 2024-12-06 |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-06-28 | 2024-10-18 |
-| [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-04 |  |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-09 |  |
+| [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-04 | 2025-01-10 |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-06-28 | 2024-07-05 |
-| [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 | 2024-10-24 |  |
+| [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 | 2024-10-24 | 2025-01-10 |
 | [MIU MIU](https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:27 | 2024-06-28 | 2024-09-11 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-11 |  |
 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-11 |  |

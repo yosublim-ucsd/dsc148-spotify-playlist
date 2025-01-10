@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,022 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,074 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 13 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 14 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 15 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
-| 16 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
-| 17 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
-| 18 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
+| 16 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
+| 17 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
+| 18 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
 | 19 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 20 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
 | 21 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 26 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 27 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
 | 28 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
-| 29 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
-| 30 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
+| 29 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
+| 30 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
 | 31 | [Madness](https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:45 |
 | 32 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 33 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 39 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 | 40 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
 | 41 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 42 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
-| 43 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
+| 42 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
+| 43 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 44 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 |
 | 45 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 46 | [Tribute to Sundar](https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 4:15 |

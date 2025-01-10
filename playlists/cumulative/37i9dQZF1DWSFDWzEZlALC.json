@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: frytz, BRUCKNER",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1660,6 +1660,24 @@
       "duration_ms": 208212,
       "name": "aus meiner haut",
       "url": "https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq"
+    },
+    {
+      "album": {
+        "name": "auseinander",
+        "url": "https://open.spotify.com/album/7hFmmMgBR0C01ICxlXaKwA"
+      },
+      "artists": [
+        {
+          "name": "GRETA",
+          "url": "https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138900,
+      "name": "auseinander",
+      "url": "https://open.spotify.com/track/2OVOpWliEj74Zh82sfOyzB"
     },
     {
       "album": {
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 92592,
       "name": "Deluxe 1A",
       "url": "https://open.spotify.com/track/02CR2UpqSHSRxvalgVpAB8"
@@ -5951,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/4KNNa0ubbkgP6Np8l50671"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143649,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/3ArSZ8nngQl7g2bcDAPBN1"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer Fr\u00fchling",
         "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
       },
@@ -7508,7 +7544,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191500,
       "name": "Ich hasse dich Silvester",
       "url": "https://open.spotify.com/track/5GkgV8ayLlMjsXDsBDruuX"
@@ -8938,7 +8974,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151500,
       "name": "Klippe",
       "url": "https://open.spotify.com/track/19oeuoABlMypVTxWKx5OXN"
@@ -12646,7 +12682,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172320,
       "name": "redest",
       "url": "https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw"
@@ -13396,6 +13432,24 @@
       "duration_ms": 168845,
       "name": "Schlaflied (feat. MELLER)",
       "url": "https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO"
+    },
+    {
+      "album": {
+        "name": "Schnee von morgen",
+        "url": "https://open.spotify.com/album/3ywFR8ZscNRvrtCQjnjX8m"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Schnee von morgen",
+      "url": "https://open.spotify.com/track/1s6cXY4Fx1GcAMEDHuU0cJ"
     },
     {
       "album": {
@@ -17830,6 +17884,24 @@
       "duration_ms": 123500,
       "name": "Zufall",
       "url": "https://open.spotify.com/track/1i3jx0VFvXwhSWySMhy1zn"
+    },
+    {
+      "album": {
+        "name": "Zuhaus // Daheim",
+        "url": "https://open.spotify.com/album/1qOTV1vZiIBhpgauFK9Lts"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141756,
+      "name": "Zuhaus // Daheim",
+      "url": "https://open.spotify.com/track/2Hge9XUvcIXn2NDp4B91by"
     },
     {
       "album": {

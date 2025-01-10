@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: Circa Waves",
+  "description": "Nieuwe alternative en rock songs. Cover: The Vices (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
   "name": "New Alternative",
   "tracks": [
     {
@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr"
+      },
+      "artists": [
+        {
+          "name": "Dull Boy Johnny",
+          "url": "https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF"
       },
@@ -1512,6 +1530,42 @@
       "duration_ms": 237573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/55M33FStlWwOPvp3ut8IoR"
+    },
+    {
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161158,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204699,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1"
     },
     {
       "album": {
@@ -2268,6 +2322,24 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "album": {
+        "name": "Mortal Wound",
+        "url": "https://open.spotify.com/album/0VoEuoEmDUKasGhdKngXLH"
+      },
+      "artists": [
+        {
+          "name": "The Veils",
+          "url": "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Mortal Wound",
+      "url": "https://open.spotify.com/track/3wktXpE9T9jtIkyNQyUMBr"
     },
     {
       "album": {
@@ -3450,6 +3522,24 @@
       "duration_ms": 203912,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb"
+    },
+    {
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
     },
     {
       "album": {

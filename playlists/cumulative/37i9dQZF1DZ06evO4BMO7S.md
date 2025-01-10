@@ -4,7 +4,7 @@
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 13 min
+43 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Maybes \- RAC Mix](https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Too Real \(Remixes\)](https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7) | 3:54 | 2023-05-02 |  |
 | [Moon on the Bath](https://open.spotify.com/track/27sHOCHpJ0G0bm0sn2bTWj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:29 | 2023-05-02 | 2023-07-17 |
 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 | 2023-05-02 |  |
+| [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-10 |  |
 | [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2023-05-02 |  |
 | [Planetary Ambience](https://open.spotify.com/track/4RRRkSm8RiIDGRDeUSdO4q) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 1:17 | 2023-05-02 | 2024-05-29 |
 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 | 2023-05-02 | 2023-09-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Come closer and see... into the dark. The Cure on cover.",
+  "description": "He is coming. Cover: Nosferatu",
   "name": "Dark & Gothic",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 297330,
       "name": "A Failure",
       "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 354933,
       "name": "A Forest - 2006 Remaster",
       "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 214935,
       "name": "Alice",
       "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 285257,
       "name": "Astr\u00f3nomo Insumiso",
       "url": "https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 247800,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 227276,
       "name": "Blood Be Fluid",
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Nosferatu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
+      },
+      "artists": [
+        {
+          "name": "Robin Carolan",
+          "url": "https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121320,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/5j2UiZuZD1McC4NLjUTMMB"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/1aMjqS4T9NdrNsYyjx9oOg"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/4ijNab1GM0JSZoe0I2KCOd"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Dark Entries",
       "url": "https://open.spotify.com/track/3tuaOXGEQ8FigsBxCVs6ym"
@@ -1193,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Deer Stop",
+      "url": "https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ"
+    },
+    {
+      "album": {
         "name": "Greatest Hits, Remixes & More",
         "url": "https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl"
       },
@@ -1240,7 +1276,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 369400,
       "name": "Do You Take This Man?",
       "url": "https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172869,
       "name": "Ekpyrosis",
       "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
@@ -1737,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "One Breath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ixmOG2s5O1SKh8E2KSECL"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Ghost Rider - Strange Weather EP",
+      "url": "https://open.spotify.com/track/1BUHxOwNPXsk4eThHzEcm6"
+    },
+    {
+      "album": {
         "name": "Everything!",
         "url": "https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i"
       },
@@ -1820,7 +1874,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 268546,
       "name": "Gothic Girl",
       "url": "https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG"
@@ -1964,7 +2018,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 204000,
       "name": "Hex",
       "url": "https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV"
@@ -2180,7 +2234,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 285160,
       "name": "Incubus Succubus II",
       "url": "https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK"
@@ -2234,7 +2288,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185146,
       "name": "Is Vic There?",
       "url": "https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X"
@@ -2306,7 +2360,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 466506,
       "name": "Just a Lifetime",
       "url": "https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK"
@@ -2454,6 +2508,24 @@
       "duration_ms": 232426,
       "name": "Laura",
       "url": "https://open.spotify.com/track/7CGJ8bX9yCRYaBjECFs4QY"
+    },
+    {
+      "album": {
+        "name": "Lesbian Vampyres From Outer Space",
+        "url": "https://open.spotify.com/album/4LzNXDB14FzfvQ0DzxX0VU"
+      },
+      "artists": [
+        {
+          "name": "Scary Bitches",
+          "url": "https://open.spotify.com/artist/5jKvhXUMiw1OXFEtLNlk1w"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Lesbian Vampyres From Outer Space",
+      "url": "https://open.spotify.com/track/3lDZlK0YCWCIkI4y9OVboy"
     },
     {
       "album": {
@@ -2724,6 +2796,24 @@
       "duration_ms": 295250,
       "name": "Lucretia My Reflection - Vinyl Version",
       "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+    },
+    {
+      "album": {
+        "name": "First and Last and Always Collection",
+        "url": "https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343133,
+      "name": "Marian - Version",
+      "url": "https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ"
     },
     {
       "album": {
@@ -3098,10 +3188,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 289173,
       "name": "North, South, East and West",
       "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
+    },
+    {
+      "album": {
+        "name": "Nosferatu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
+      },
+      "artists": [
+        {
+          "name": "Robin Carolan",
+          "url": "https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41155,
+      "name": "Once Upon a Time",
+      "url": "https://open.spotify.com/track/5OAP8HJDeVklrpLhHn7eIz"
     },
     {
       "album": {
@@ -3152,7 +3260,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 217333,
       "name": "Pale Empress",
       "url": "https://open.spotify.com/track/0MpED5lINAluPXp1zoS0Zq"
@@ -3242,7 +3350,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
@@ -3264,6 +3372,24 @@
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
+    },
+    {
+      "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
       "album": {
@@ -3548,7 +3674,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 235080,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
@@ -3869,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Burning from the Inside",
+        "url": "https://open.spotify.com/album/7oaHUMs14oldwahz1WaVaR"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346200,
+      "name": "She's in Parties",
+      "url": "https://open.spotify.com/track/2RQkcg3BPdm8wJDVbrFRzr"
+    },
+    {
+      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/7z7Q623XMKn7w6K6BWzOtO"
       },
@@ -3898,7 +4042,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197960,
       "name": "Shimmering, Warm & Bright",
       "url": "https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n"
@@ -3916,7 +4060,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 231613,
       "name": "Shining Road",
       "url": "https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK"
@@ -4532,7 +4676,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "The Passion of Lovers",
       "url": "https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ"
@@ -4953,6 +5097,60 @@
     },
     {
       "album": {
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/2Sz2tzGre41AKQQPCcw8YG"
+      },
+      "artists": [
+        {
+          "name": "Mica",
+          "url": "https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161179,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/2NLfaNEbc4uH0L5S4cPHx3"
+    },
+    {
+      "album": {
+        "name": "Anthology XV",
+        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252579,
+      "name": "Vampyre Girl (2014)",
+      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
+    },
+    {
+      "album": {
+        "name": "Belladonna & Aconite 2011 Digital Remaster",
+        "url": "https://open.spotify.com/album/4zcd6nEpQl5o7rKleGQHcB"
+      },
+      "artists": [
+        {
+          "name": "Inkubus Sukkubus",
+          "url": "https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Vampyres",
+      "url": "https://open.spotify.com/track/64eMRy4wA7f5guLIS2VL52"
+    },
+    {
+      "album": {
         "name": "Gods Own Medicine",
         "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
       },
@@ -5108,7 +5306,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 261866,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL"
@@ -5234,7 +5432,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 202845,
       "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"

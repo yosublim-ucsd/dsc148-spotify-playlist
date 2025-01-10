@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152326,
+  "num_followers": 152332,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAACYPDHBKTCZUjCXU/NNFSAR",
+  "snapshot_id": "Z33AAAAAAAARfPoWbHULnUJW6xOuv2YK",
   "tracks": [
     {
       "added_at": null,
@@ -622,15 +622,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -702,11 +698,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,
@@ -747,26 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 462000,
-      "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
-      "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
     },
     {
       "added_at": null,
@@ -831,22 +827,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
+      "duration_ms": 462000,
+      "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
+      "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
     },
     {
       "added_at": null,

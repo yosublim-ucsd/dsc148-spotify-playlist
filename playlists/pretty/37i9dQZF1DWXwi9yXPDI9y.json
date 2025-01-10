@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 140621,
+  "num_followers": 140748,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 164066,
       "name": "Show Me The Way To Go Home",
       "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Jazz 'Round Midnight: Ballads",
         "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 222666,
       "name": "I'm Through With Love",
       "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Amoureusement V\u00f4tre",
         "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 186506,
       "name": "Misty",
       "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Jazz 'N' Samba",
         "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "Steppin'Out: Astaire Sings",
+        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -851,34 +867,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Steppin'Out: Astaire Sings",
-        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
       "artists": [
         {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 167560,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -895,6 +895,22 @@
       "duration_ms": 166573,
       "name": "Lover Man (Oh Where Can You Be)",
       "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -935,22 +951,6 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -999,26 +999,6 @@
       "duration_ms": 237800,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 371960,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "Comin' On",
+        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -1207,18 +1207,34 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Comin' On",
-        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 377933,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
+      "duration_ms": 467626,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1235,22 +1251,6 @@
       "duration_ms": 154933,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
     },
     {
       "added_at": "2024-06-03 15:00:13",

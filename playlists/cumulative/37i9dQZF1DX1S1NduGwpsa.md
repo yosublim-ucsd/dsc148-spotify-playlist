@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Tom Misch
+> The best jazz new releases\. Cover: Lila May
 
-681 songs - 2 day 0 hr 41 min
+682 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Night Life \(with Mickey Raphael\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Night Life \(with Mickey Raphael\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/1s1hg0fDxYubOCjG5dJT4s) | 3:43 | 2023-07-06 | 2023-09-15 |
 | [No Better Time](https://open.spotify.com/track/1gElwot1Kfi8qeMbl4fwEd) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo), [The J.O\. Big Band](https://open.spotify.com/artist/2EewOSv6Ed3n2I2WLRC6ip) | [Judith Owen Swings Christmas](https://open.spotify.com/album/443pS65hhIU4j4BDdfbmnB) | 3:03 | 2024-12-19 |  |
 | [No Moon At All](https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [No Moon At All](https://open.spotify.com/album/1wJ5GS7rxZVnsWt0AqMf74) | 2:18 | 2024-10-17 |  |
-| [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2024-09-26 |  |
+| [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2024-09-26 | 2025-01-10 |
 | [No, No, No Pt\. 2](https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Jonathan Mones](https://open.spotify.com/artist/1eLGtP5vWAvZuBmL51J1gD) | [No, No, No Pt\. 2](https://open.spotify.com/album/2giHV2PIregp4L6fJdwR85) | 4:44 | 2023-12-07 | 2024-01-19 |
 | [Nobody Else But Me](https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Nobody Else But Me](https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G) | 3:39 | 2023-03-23 | 2023-07-07 |
 | [Nobody's fault but mine](https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 2:39 | 2023-05-25 | 2023-09-22 |
@@ -660,6 +660,7 @@
 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/23EYzUDHSg24UfDRDnDES3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 3:56 | 2023-12-14 | 2024-02-09 |
 | [What Of Your Eyes](https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:30 | 2022-05-19 | 2022-10-14 |
 | [When I First Saw Your Face](https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [When I First Saw Your Face](https://open.spotify.com/album/5i418SDGYSxHe7EzabsK9F) | 4:01 | 2022-04-14 | 2022-05-06 |
+| [When The Magic Happens \- Derrière le soleil](https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX) | [Adrien Soleiman](https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [When The Magic Happens \(Derrière le soleil\)](https://open.spotify.com/album/68T3YhVXO8gzbVz2gW9gwy) | 4:20 | 2025-01-09 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Composure](https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu) | 4:45 | 2023-05-11 | 2023-09-08 |
 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2024-07-18 | 2024-09-13 |
 | [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 | 2023-03-16 | 2023-06-09 |

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 不平靜水域
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: andro
 
-1,286 songs - 3 day 0 hr 36 min
+1,288 songs - 3 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [上載中](https://open.spotify.com/track/0B8WoUBod351rAw8zzgANQ) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [上載中](https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs) | 3:21 | 2023-05-11 | 2023-07-14 |
 | [下一世つづく](https://open.spotify.com/track/7pWmBawvTAqFZUFv2svJHG) | [YEAHS](https://open.spotify.com/artist/4rEbdV57iPrc1Y1tWxh0te) | [下一世つづく](https://open.spotify.com/album/4JEuRPOXhMI1PJ2OwnzZTb) | 3:34 | 2023-06-01 | 2023-09-01 |
 | [下一站](https://open.spotify.com/track/77kgT7lCbnXI5YJmewC7N7) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [下一站](https://open.spotify.com/album/2k8ybNsk4yNWqlv89K2ME9) | 3:44 | 2024-01-05 | 2024-05-10 |
+| [下個更可愛](https://open.spotify.com/track/4326tquO6XPOUbEF5vmu2I) | [andro](https://open.spotify.com/artist/6VOy4BVdEayacAuvHkYCv5) | [下個更可愛](https://open.spotify.com/album/5keJWEHC7QUH03BEwgViMY) | 3:20 | 2025-01-09 |  |
 | [下雨的瞬間](https://open.spotify.com/track/7jgLHmHySzZbLZCf1cIr5d) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/3CKdp6n2D977N3AhN71W82) | 3:38 | 2022-08-04 | 2022-08-24 |
 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 | 2022-08-18 | 2022-11-04 |
 | [不可](https://open.spotify.com/track/7LhM9z4A6p5u0Mvh7aVWHn) | [srx](https://open.spotify.com/artist/1NaPPojIvTCnhJCz0GQeL8) | [不可](https://open.spotify.com/album/5iM4Yd0nDMSbFzbzxnsJyn) | 5:00 | 2023-09-07 | 2023-11-03 |
@@ -1150,6 +1151,7 @@
 | [派對動物](https://open.spotify.com/track/2xspUoodDwx880AIrjYgtP) | [Ryan's Bucket List](https://open.spotify.com/artist/4eBKRt82Hdn471MeTmOFFt) | [派對動物](https://open.spotify.com/album/4ouL0GZ331poV5oRu80u1m) | 2:41 | 2023-05-04 | 2023-09-01 |
 | [流逝](https://open.spotify.com/track/5qi16YhAfALFLd98lvFvAG) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [流逝](https://open.spotify.com/album/6VwHHTX2HEtpweIJ4bGw7R) | 5:31 | 2023-07-27 | 2023-11-03 |
 | [海](https://open.spotify.com/track/6WRmnuCmMkhNsNh4YMFtH4) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [海](https://open.spotify.com/album/63G6P8TO1nh0OFuhnFlqHB) | 3:47 | 2022-06-28 | 2022-09-09 |
+| [海連茶樓](https://open.spotify.com/track/6t4eZthvZCgHyQQOlwk2kx) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [海連茶樓](https://open.spotify.com/album/3arbSusbFLL3YRBYU7DuEw) | 3:27 | 2025-01-09 |  |
 | [淚滴](https://open.spotify.com/track/52jPcpCLX9gCpyk3uZHMym) | [dlwindle](https://open.spotify.com/artist/1UNh3VR67drIdOJaau0wOH) | [re](https://open.spotify.com/album/0ZilItnu4eIzaBdCz8CEsr) | 1:57 | 2022-07-28 | 2022-11-04 |
 | [深呼吸](https://open.spotify.com/track/5vpeK7Q8Xq56x27iTyOw4p) | [Kawa Sounds](https://open.spotify.com/artist/7xczi40zpPZ4Ef9Lxka6xP) | [深呼吸](https://open.spotify.com/album/5JOERPtFUKRzMFhiKhLXw1) | 3:16 | 2024-01-11 | 2024-05-10 |
 | [深夜之後](https://open.spotify.com/track/4KPVvdXUECWemNy0GB40NR) | [Rosy Sea](https://open.spotify.com/artist/0YST7KLN9Qt4qxBTXQM6c2) | [深夜之後](https://open.spotify.com/album/2eWm1O3MyfAk2NB4T4gQsQ) | 3:30 | 2022-08-12 | 2022-11-04 |

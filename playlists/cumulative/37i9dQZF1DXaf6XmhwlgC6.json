@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194401,
       "name": "All the Terrain Between Us",
       "url": "https://open.spotify.com/track/5TOq8IWv7NgsF9XOiII77x"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177200,
       "name": "Astral Winds",
       "url": "https://open.spotify.com/track/1Tn3gza73aoSVxocpBLsrC"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 121529,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/5VCLOtscJZjl1lXqLI7KUH"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 260564,
       "name": "Bortom Tr\u00e4den",
       "url": "https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "collage",
+        "url": "https://open.spotify.com/album/3icCZhLMvsoowzOi4rKAh3"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169087,
+      "name": "collage",
+      "url": "https://open.spotify.com/track/4h3THOUz7DguxlQwBPGGVH"
+    },
+    {
+      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e"
       },
@@ -1205,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/55E8hkQ079zjb5ET1ZO7ba"
+      },
+      "artists": [
+        {
+          "name": "Magnus Hartman",
+          "url": "https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162280,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/0w6yRMdjXPiRYFzbkKi27h"
+    },
+    {
+      "album": {
         "name": "Diamond Days",
         "url": "https://open.spotify.com/album/5hiPbSHfaHT0b1NrNsf8vr"
       },
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 281608,
       "name": "Diaphanous",
       "url": "https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M"
@@ -1342,7 +1378,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 163750,
       "name": "Distance",
       "url": "https://open.spotify.com/track/01PU5WIqYi1ub9gZ4ZnBag"
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169411,
       "name": "Entering Orbit",
       "url": "https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs"
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 228571,
       "name": "etymology",
       "url": "https://open.spotify.com/track/2NbY7s4JILJHmSpSv9hYT7"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 218835,
       "name": "Falling Rivers",
       "url": "https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq"
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 142186,
       "name": "farewells",
       "url": "https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW"
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226693,
       "name": "Finally You Needed Me",
       "url": "https://open.spotify.com/track/402eCegPnC05HLdbx6Ds3r"
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 198750,
       "name": "Haze on the Sea",
       "url": "https://open.spotify.com/track/1ul3sO72SOw0uGEbQcvS4b"
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 171500,
       "name": "Higher Realms",
       "url": "https://open.spotify.com/track/4bKefzbtwIfqa3HWOgXB5e"
@@ -2646,7 +2682,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184500,
       "name": "In The Ether",
       "url": "https://open.spotify.com/track/1et2Fg7dQYWumbZfLMlxMN"
@@ -3258,7 +3294,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 143001,
       "name": "lessly",
       "url": "https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp"
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 170769,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb"
@@ -3748,7 +3784,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 130179,
       "name": "Mind games",
       "url": "https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z"
@@ -3802,7 +3838,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 141904,
       "name": "Modeling Structures",
       "url": "https://open.spotify.com/track/5j69T9lwivG9Uf452qRu6l"
@@ -3874,7 +3910,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 150174,
       "name": "moon in motion",
       "url": "https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM"
@@ -3968,6 +4004,24 @@
       "duration_ms": 147635,
       "name": "Morning Mist",
       "url": "https://open.spotify.com/track/0uYhBh51wIcnaJSBlnqyT7"
+    },
+    {
+      "album": {
+        "name": "Morning Song",
+        "url": "https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc"
+      },
+      "artists": [
+        {
+          "name": "Cijon",
+          "url": "https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157409,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j"
     },
     {
       "album": {
@@ -4217,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/66lyZsgpXQ7QjN5wzIPu0r"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ellinia",
+          "url": "https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124477,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3umWVESQAMH0rKgczQUsbU"
+    },
+    {
+      "album": {
         "name": "meadows",
         "url": "https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT"
       },
@@ -4344,6 +4416,24 @@
       "duration_ms": 162169,
       "name": "On the Go",
       "url": "https://open.spotify.com/track/3BPVDKcWmTkJeiycr7NEtw"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/6onTIpnacbssI6yd7oYhgh"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8sk Skriner",
+          "url": "https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167279,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/18lgEXvI7GSkOyzaVEIYSe"
     },
     {
       "album": {
@@ -4509,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Passing By",
+        "url": "https://open.spotify.com/album/5SnWjQio7EaoEnONR2ZpiQ"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151516,
+      "name": "Passing By",
+      "url": "https://open.spotify.com/track/3a2I3Qdw7uJ47x4sLNhs4a"
+    },
+    {
+      "album": {
         "name": "Lifenotes",
         "url": "https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4"
       },
@@ -4520,7 +4628,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 131000,
       "name": "Past the Pasture and Beyond The Hill",
       "url": "https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK"
@@ -5021,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "royale",
+        "url": "https://open.spotify.com/album/43o9aBPUb9W0LUrxiOI3vN"
+      },
+      "artists": [
+        {
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149665,
+      "name": "royale",
+      "url": "https://open.spotify.com/track/2O687UwFNBI21RZ7OHtjYi"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/6NttMwDGTU9pOIZYrK3Z0k"
       },
@@ -5318,10 +5444,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 160243,
       "name": "Silent Relief",
       "url": "https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq"
+    },
+    {
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/5lU1KRe0gLFlY3X600b98E"
+      },
+      "artists": [
+        {
+          "name": "Serene Skies",
+          "url": "https://open.spotify.com/artist/3S0qJncVtbLRcrgcVflyY9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159696,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5yHYbTZQ91fAFqgCkXWcNB"
     },
     {
       "album": {
@@ -5516,7 +5660,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177230,
       "name": "space cadet academy",
       "url": "https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT"
@@ -5844,6 +5988,24 @@
       "duration_ms": 129455,
       "name": "Swirl",
       "url": "https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/5OXkVJD6PGWukMmbA0dQEB"
+      },
+      "artists": [
+        {
+          "name": "amaron",
+          "url": "https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127631,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/1WVxcxCR9pgVTl4Q3I3mHJ"
     },
     {
       "album": {
@@ -6200,7 +6362,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 196513,
       "name": "The Second Sun",
       "url": "https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J"
@@ -6398,7 +6560,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185899,
       "name": "time capsule",
       "url": "https://open.spotify.com/track/6GudNU6xYNwIGgDO7igfUY"
@@ -6830,7 +6992,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206000,
       "name": "Vast Ocean View",
       "url": "https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo"

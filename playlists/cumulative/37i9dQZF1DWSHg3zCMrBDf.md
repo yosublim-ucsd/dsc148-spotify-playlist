@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: Stonebwoy
+> The hottest tracks in Ghana\. Cover: Joey B
 
-319 songs - 16 hr 22 min
+320 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-05-27 |
 | [MY STORY](https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [MY STORY](https://open.spotify.com/album/5j0aGzyIav244lIvycbjVI) | 2:27 | 2024-05-31 | 2024-09-20 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 | 2023-06-23 |
-| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-09-27 |  |
+| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-09-27 | 2025-01-10 |
 | [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 | 2024-10-14 |  |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-05-26 | 2023-09-28 |
 | [Nominate](https://open.spotify.com/track/2o6NdaL5oOYeDWNCkqrXZS) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Anloga Junction](https://open.spotify.com/album/71EHdMFakvUYoX3dmOz6Mv) | 4:14 | 2021-02-22 | 2023-04-21 |
@@ -240,6 +240,7 @@
 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 | 2021-06-11 | 2023-05-27 |
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-26 | 2023-06-03 |
 | [Pressure](https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Pressure](https://open.spotify.com/album/3h5WutoKmXdjQ1SZqVtqPt) | 2:38 | 2022-11-25 | 2023-01-17 |
+| [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-09 |  |
 | [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 | 2024-11-22 |  |
 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 | 2024-04-03 |  |
 | [reason](https://open.spotify.com/track/4tX2xt8g17C6Kyv4EAnsYw) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone: Deluxe Edition](https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq) | 2:27 | 2024-04-19 | 2024-05-15 |

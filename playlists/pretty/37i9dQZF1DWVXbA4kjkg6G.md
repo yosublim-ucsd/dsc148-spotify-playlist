@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,334 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,482 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 6 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 |
 | 7 | [Kemuri](https://open.spotify.com/track/2mxTWNaUEHwdedwdS9KYcW) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [The Man From Mo’ Wax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/522WXUW4LHX4uc3TZhJCdZ) | 4:50 |
 | 8 | [The Truth](https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG) | 5:37 |
-| 9 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
-| 10 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
+| 9 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
+| 10 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
 | 11 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 12 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
 | 13 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 50 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
 | 51 | [Dirt](https://open.spotify.com/track/4LOBq70NlI97iJ5wKwJW1D) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Dead Elvis](https://open.spotify.com/album/0sIneyoFWF20AD3YcWYZOn) | 5:52 |
 | 52 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
-| 53 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
-| 54 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 53 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
+| 54 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 | 55 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 56 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 57 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |

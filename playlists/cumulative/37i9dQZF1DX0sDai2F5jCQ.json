@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Doechii",
+  "description": "Your shortcut to the best new Hip Hop. Cover: The 046",
   "name": "A1",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/54Bi619M9xPiUXfet1uGWM"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258191,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7DG8pcC5vSmElPX9H0vmuK"
+    },
+    {
+      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176100,
       "name": "ANOTHA LATE NITE (with 454)",
       "url": "https://open.spotify.com/track/5hz0QFBGVqUr96RMJzgJxr"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 210803,
       "name": "BAD TIME",
       "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
@@ -1525,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "BURR",
+        "url": "https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "BURR",
+      "url": "https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/59IAVKrvJdKsahe0vMa81s"
       },
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201720,
       "name": "CRASH DUMMY MUZIK",
       "url": "https://open.spotify.com/track/3DIgMO31zNSpR2wOZT7JcD"
@@ -2375,6 +2411,32 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
+    {
+      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3"
       },
@@ -2394,6 +2456,28 @@
       "duration_ms": 297290,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/45ToxCOLDheXXRvU5q31ke"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        },
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191289,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7MeaeQ0ANQ8k85bsM5U4sL"
     },
     {
       "album": {
@@ -2670,7 +2754,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203496,
       "name": "Fake Can't Stay - ft.JAE5",
       "url": "https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3"
@@ -2808,7 +2892,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -3122,7 +3206,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180880,
       "name": "Gang Ties (feat. Headie One)",
       "url": "https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6"
@@ -3498,7 +3582,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184186,
       "name": "He Is There (feat. Faith Sosene)",
       "url": "https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH"
@@ -4256,7 +4340,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 174315,
       "name": "IDK",
       "url": "https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR"
@@ -4580,7 +4664,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 99906,
       "name": "Keep it 600",
       "url": "https://open.spotify.com/track/3sDxvOsvgg4Y00t48YQQUs"
@@ -4726,6 +4810,32 @@
       "duration_ms": 179226,
       "name": "LAVISH",
       "url": "https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH"
+    },
+    {
+      "album": {
+        "name": "Lead You On",
+        "url": "https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        },
+        {
+          "name": "Jvyden",
+          "url": "https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o"
+        },
+        {
+          "name": "Jayden Waaka",
+          "url": "https://open.spotify.com/artist/1Ec0Xi4kKoKJ1jAPJ2I3T3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253951,
+      "name": "Lead You On",
+      "url": "https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L"
     },
     {
       "album": {
@@ -6018,7 +6128,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
@@ -6282,6 +6392,24 @@
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
+    },
+    {
+      "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
       "album": {
@@ -6761,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Red Rims",
+        "url": "https://open.spotify.com/album/6Diq15Po4HNcdNwwOf9JBA"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153134,
+      "name": "Red Rims",
+      "url": "https://open.spotify.com/track/1rKqiXfu0wcp6Dfcz7ZWk2"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -6980,7 +7126,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 262573,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
@@ -7116,6 +7262,24 @@
       "duration_ms": 144204,
       "name": "Scary (feat. Aitch)",
       "url": "https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo"
+    },
+    {
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/5685DJYcwsH01tMwSkxsYh"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Selena",
+      "url": "https://open.spotify.com/track/37SR66nUcBynhOqSmZx3Xt"
     },
     {
       "album": {
@@ -7480,6 +7644,32 @@
       "duration_ms": 161353,
       "name": "SPINNIN",
       "url": "https://open.spotify.com/track/6V6RQJ85Xx7ebMGamKv4X3"
+    },
+    {
+      "album": {
+        "name": "SPINNIN (Segway Remix)",
+        "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Segway",
+          "url": "https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "SPINNIN (Segway Remix)",
+      "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
     },
     {
       "album": {
@@ -8074,7 +8264,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 132266,
       "name": "The Largest",
       "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
@@ -8696,7 +8886,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -8958,7 +9148,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 136062,
       "name": "Want U",
       "url": "https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk"

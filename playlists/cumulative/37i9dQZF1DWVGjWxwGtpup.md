@@ -2,9 +2,9 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Bad Bunny
+> Tous les hits latino du moment sont ici\. Photo : Daddy Yankee
 
-181 songs - 9 hr 35 min
+182 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-04-25 | 2024-08-30 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-25 | 2024-08-30 |
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-09-06 |  |
+| [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-09 |  |
 | [ALOHA](https://open.spotify.com/track/5WwBpc6NYJ4wN8IPDP6laT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2023-11-23 | 2024-01-26 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2024-04-25 | 2024-09-07 |
 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 | 2023-12-07 | 2024-02-09 |
@@ -169,7 +170,7 @@
 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 | 2024-02-15 | 2024-03-22 |
 | [Sola](https://open.spotify.com/track/4GMWmVcQDMrwCKDviAoA1O) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Sola](https://open.spotify.com/album/5aIqERPJ7rBLvfyqiF7Yzf) | 3:32 | 2023-09-28 | 2023-12-08 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 |  |
-| [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-06 |  |
+| [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-06 | 2025-01-10 |
 | [Tacos Gucci](https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Tacos Gucci](https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5) | 3:27 | 2024-02-15 | 2024-03-08 |
 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 | 2024-09-06 |  |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-23 | 2024-06-21 |

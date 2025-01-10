@@ -12864,7 +12864,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
@@ -13294,7 +13294,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -13396,7 +13396,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 229842,
       "name": "GIVE ME LOVE - Master Edition",
       "url": "https://open.spotify.com/track/6NOXos5w6dBAdt9BkEic0j"
@@ -16058,7 +16058,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -19984,7 +19984,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -23518,6 +23518,24 @@
       "duration_ms": 171642,
       "name": "Nu-mi pas\u0103",
       "url": "https://open.spotify.com/track/12qwyJBYW8uiq0YJpvkgCO"
+    },
+    {
+      "album": {
+        "name": "NUMAI FEMEI",
+        "url": "https://open.spotify.com/album/4rlHboi2MwBCUXhakiGshB"
+      },
+      "artists": [
+        {
+          "name": "Adrian Norocel",
+          "url": "https://open.spotify.com/artist/07iLLfYlRMf49LJvRu85cD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "NUMAI FEMEI",
+      "url": "https://open.spotify.com/track/3yLZ0xg3XoEwnl773q9Ymc"
     },
     {
       "album": {
@@ -31815,6 +31833,28 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Stuff (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -32470,7 +32510,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -37564,7 +37604,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -38266,7 +38306,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 141268,
       "name": "Zi-mi cine",
       "url": "https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI"

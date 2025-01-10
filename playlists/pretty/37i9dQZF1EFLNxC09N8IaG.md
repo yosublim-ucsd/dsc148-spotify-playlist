@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,656 likes - 186 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,657 likes - 187 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 80 | [Sneaky Link](https://open.spotify.com/track/2AkLgC32I2v5zulaaQVHO4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:42 |
 | 81 | [Fake Love \(feat\. Queen Naija\)](https://open.spotify.com/track/3el29CrkUoLu2GmWrTMIqN) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [TM104: The Legend of the Snowman](https://open.spotify.com/album/3eYmN6spICNGH3gmdPpDtm) | 3:14 |
 | 82 | [Love Spent](https://open.spotify.com/track/2XgQ6j5jDxf8bQ3hFrIJU5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:45 |
-| 83 | [No Signal](https://open.spotify.com/track/5FnIT6GbLmsBQJ907StE5P) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:43 |
-| 84 | [DON’T DESERVE \(feat Muni Long\)](https://open.spotify.com/track/3e5Hzj05PYJKvNHd5gBuRc) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:52 |
+| 83 | [DON’T DESERVE \(feat Muni Long\)](https://open.spotify.com/track/3e5Hzj05PYJKvNHd5gBuRc) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:52 |
+| 84 | [No Signal](https://open.spotify.com/track/5FnIT6GbLmsBQJ907StE5P) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:43 |
 | 85 | [Neva Neva](https://open.spotify.com/track/3kkTirqEG0FgeCSZLYXgut) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 3:18 |
 | 86 | [Just Beginning](https://open.spotify.com/track/2Y28t3gwCloTFI3pmZ84YW) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:00 |
 | 87 | [The Flood](https://open.spotify.com/track/78vhO9k0vcok9qm2ixTmUh) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:55 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 141 | [Late Night Nigga](https://open.spotify.com/track/2pDyTMcoVT3d13jbbrpSrL) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:48 |
 | 142 | [Hummingbird](https://open.spotify.com/track/37DUsZ2LqrWtBjRuNFoMvj) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:10 |
 | 143 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 |
-| 144 | [Plot Twist \(Interlude\)](https://open.spotify.com/track/5YMJz74nu9v0DNtv3YMTH8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 1:33 |
-| 145 | [Bessie](https://open.spotify.com/track/0lioD2CwKJ6SNJiWuTgtUC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:43 |
+| 144 | [Bessie](https://open.spotify.com/track/0lioD2CwKJ6SNJiWuTgtUC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:43 |
+| 145 | [Plot Twist \(Interlude\)](https://open.spotify.com/track/5YMJz74nu9v0DNtv3YMTH8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 1:33 |
 | 146 | [Played Yourself](https://open.spotify.com/track/6OQsm0MFwDmxbg4XHat3xN) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:46 |
 | 147 | [Kiss and Make Up](https://open.spotify.com/track/4697oapmLUDJScrvSiU9PO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Think Like a Man Too \(Music from and Inspired by the Film\)](https://open.spotify.com/album/6Bvizrnjft6JCqMWSQbJTA) | 3:31 |
 | 148 | [Waste No Time](https://open.spotify.com/track/3seKCddphT37p1CwflkMjq) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:53 |
@@ -185,14 +185,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 175 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
 | 176 | [Different Color](https://open.spotify.com/track/4szP6ScOP2FSm14Zask3II) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:03 |
 | 177 | [You Shaped Box](https://open.spotify.com/track/43a3MpvnkjagLlyYiLF5fA) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:47 |
-| 178 | [Land of the Free](https://open.spotify.com/track/0U6CHJWiERNgOgRfc8Infn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 5:07 |
-| 179 | [Crazy Queen](https://open.spotify.com/track/387fhMqT1iPfUaJcMbfFSW) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [a girl a bottle a boat \(Japan Version\)](https://open.spotify.com/album/31zRd2FLpDk5AjknKd5Ys2) | 3:16 |
-| 180 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
-| 181 | [I Still Believe](https://open.spotify.com/track/0a8L216lriftGVDLUhv2Oj) | [John F\. Klaver](https://open.spotify.com/artist/3DucFQMQZsqOiU1zvnpEfy) | [The Edge](https://open.spotify.com/album/48nilW9rVuGWdPZRZQk3OL) | 6:30 |
-| 182 | [Good As Gold](https://open.spotify.com/track/1SyX9JVlQzq20Ghz5CdYEF) | [J Breeze212](https://open.spotify.com/artist/1rozAIxl6lh1cPcs2t8qVK), [Trump Wong](https://open.spotify.com/artist/6sqYc7yVG8iyhgwPkrw3K8) | [Good As Gold](https://open.spotify.com/album/2ndTr1MBGsOJajsj9sgAWA) | 3:05 |
-| 183 | [Je veux chanter / Réflection](https://open.spotify.com/track/021xtR1qq7nSkMOz0Bleq5) | [Nicole Martin](https://open.spotify.com/artist/34FvDxviSSJGPpSYDbqJpK) | [Laissez moi chanter](https://open.spotify.com/album/4zqprAtgtImMGqg8YDxKi2) | 7:54 |
-| 184 | [Bi Polar](https://open.spotify.com/track/7bGpmO50tBC3pRBl4iIjly) | [Phillips](https://open.spotify.com/artist/0fGlytfhhIc0FpMtADAf2K) | [Up the Bass](https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ) | 5:51 |
-| 185 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
-| 186 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
+| 178 | [Westside Finale](https://open.spotify.com/track/7gGLdZDCA6UatSsbCEUExD) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 7:12 |
+| 179 | [Land of the Free](https://open.spotify.com/track/0U6CHJWiERNgOgRfc8Infn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 5:07 |
+| 180 | [Crazy Queen](https://open.spotify.com/track/387fhMqT1iPfUaJcMbfFSW) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [a girl a bottle a boat \(Japan Version\)](https://open.spotify.com/album/31zRd2FLpDk5AjknKd5Ys2) | 3:16 |
+| 181 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
+| 182 | [I Still Believe](https://open.spotify.com/track/0a8L216lriftGVDLUhv2Oj) | [John F\. Klaver](https://open.spotify.com/artist/3DucFQMQZsqOiU1zvnpEfy) | [The Edge](https://open.spotify.com/album/48nilW9rVuGWdPZRZQk3OL) | 6:30 |
+| 183 | [Good As Gold](https://open.spotify.com/track/1SyX9JVlQzq20Ghz5CdYEF) | [J Breeze212](https://open.spotify.com/artist/1rozAIxl6lh1cPcs2t8qVK), [Trump Wong](https://open.spotify.com/artist/6sqYc7yVG8iyhgwPkrw3K8) | [Good As Gold](https://open.spotify.com/album/2ndTr1MBGsOJajsj9sgAWA) | 3:05 |
+| 184 | [Je veux chanter / Réflection](https://open.spotify.com/track/021xtR1qq7nSkMOz0Bleq5) | [Nicole Martin](https://open.spotify.com/artist/34FvDxviSSJGPpSYDbqJpK) | [Laissez moi chanter](https://open.spotify.com/album/4zqprAtgtImMGqg8YDxKi2) | 7:54 |
+| 185 | [Bi Polar](https://open.spotify.com/track/7bGpmO50tBC3pRBl4iIjly) | [Phillips](https://open.spotify.com/artist/0fGlytfhhIc0FpMtADAf2K) | [Up the Bass](https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ) | 5:51 |
+| 186 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
+| 187 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbmWSgAAAAAcmBvaqbZerusfdvnvUzRo`
+Snapshot ID: `Abmb1gAAAAA00tGfEaDIuhPXkpe/jHEV`

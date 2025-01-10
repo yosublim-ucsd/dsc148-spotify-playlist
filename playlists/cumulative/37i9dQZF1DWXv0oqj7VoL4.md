@@ -4,7 +4,7 @@
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-57 songs - 3 hr 18 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Be The Adam and Eve Of This Stone World](https://open.spotify.com/track/0fhWJh6F16d5sI1NDJLeZf) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:28 | 2023-09-28 |  |
 | [Beginning](https://open.spotify.com/track/36vm5CGxaMdd7NQHFpLlAU) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:39 | 2023-09-28 |  |
 | [BLADES OF SCIENCE](https://open.spotify.com/track/4LHFiWwNMGJq2mp2S1scD8) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 2:36 | 2023-09-28 |  |
+| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-01-09 |  |
 | [Cunning \- 堤博明](https://open.spotify.com/track/7Dp7Zb8vfYRe6JDKyGsGCp) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:20 | 2023-09-28 |  |
 | [Get Exited!!](https://open.spotify.com/track/2SXFwTCSToTgJOLZSO5RkR) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック](https://open.spotify.com/album/7rphokb5ngFoll2nGwvcEY) | 2:12 | 2023-09-28 |  |
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2023-09-28 |  |
@@ -36,6 +37,7 @@
 | [One Small Step \- EP24 Mix](https://open.spotify.com/track/28bbfgQVUgNFELnAyKTHQ1) | [リリアン・ワインバーグ\(Song Performed by Laura Pitt\-Pulford\)](https://open.spotify.com/artist/1JyA4TFld3mybh8Viy3Nmc), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 3:19 | 2023-09-28 |  |
 | [Operation Treasure Island \- YUKI KANESAKA](https://open.spotify.com/track/34H6BJU1y9ijMDjSSFPgAf) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0), [Paranom](https://open.spotify.com/artist/0ktM7PMneJlD9FdEX9SSpZ), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:55 | 2023-09-28 |  |
 | [People Under The Tree](https://open.spotify.com/track/5GBZ3NIxRsHPwLaggiUBCN) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 1:47 | 2023-09-28 |  |
+| [Rolling Stone](https://open.spotify.com/track/1mQWgJxQZOO1ifq4QJ3x4s) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [Rolling Stone](https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY) | 3:24 | 2025-01-09 |  |
 | [Senku and Ryusui \- 加藤達也](https://open.spotify.com/track/2E0yEt3BctYu7iPUIhkXjI) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 3:09 | 2023-09-28 |  |
 | [Senku's Story](https://open.spotify.com/track/4onIZsZS9gEONQGSobmfiX) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』オリジナル・サウンドトラック 3](https://open.spotify.com/album/0RhXuxpS9QBdLWzsgspYyB) | 4:34 | 2023-09-28 | 2024-04-19 |
 | [Senku's Story](https://open.spotify.com/track/6EkpPOPV5AISKpyo5YgpUv) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』オリジナル・サウンドトラック 3](https://open.spotify.com/album/3m1q6GK4ffKeuvm1aLSFfb) | 4:34 | 2023-11-21 |  |

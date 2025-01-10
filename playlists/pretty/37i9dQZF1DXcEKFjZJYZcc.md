@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,318 likes - 189 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,373 likes - 189 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

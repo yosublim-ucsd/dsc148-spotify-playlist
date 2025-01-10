@@ -85,6 +85,144 @@
     },
     {
       "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Bang Bang Bang (feat. MNDR)",
+      "url": "https://open.spotify.com/track/44AL9Xok81qGEOZdPQpUnM"
+    },
+    {
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/2jyLfy0xg7ZmRNVGdZ9oVg"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        },
+        {
+          "name": "The Count & Sinden",
+          "url": "https://open.spotify.com/artist/2x9iApQbBtvc4mbVN8DO1N"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321853,
+      "name": "Bang Bang Bang (feat. MNDR) - Count And Sinden Remix",
+      "url": "https://open.spotify.com/track/7idtsVn0m2wq1tFZlFTjxN"
+    },
+    {
+      "album": {
+        "name": "Beds Are Burning",
+        "url": "https://open.spotify.com/album/5V46iqNGtPhFZtf0duIQ4F"
+      },
+      "artists": [
+        {
+          "name": "Via Tania",
+          "url": "https://open.spotify.com/artist/42ehE3fzvCFajKppIxdUa2"
+        },
+        {
+          "name": "Casxio",
+          "url": "https://open.spotify.com/artist/3RLCEro2tK5xFxmIOORWMU"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Brazilian Girls",
+          "url": "https://open.spotify.com/artist/6HdYUuBeK3g2MA2wGVCDcn"
+        },
+        {
+          "name": "Dan Black",
+          "url": "https://open.spotify.com/artist/5kW3q7Vywlw24apaeufin6"
+        },
+        {
+          "name": "Desmond Tutu",
+          "url": "https://open.spotify.com/artist/4YBHaih829EeU3MZ1bp9i7"
+        },
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Jamie Burke",
+          "url": "https://open.spotify.com/artist/2M4HyhQGxa2Gmab8oDyeY7"
+        },
+        {
+          "name": "Marion Cotillard",
+          "url": "https://open.spotify.com/artist/264YmdiSc68XVog9LYQ8na"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "M\u00e9lanie Laurent",
+          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
+        },
+        {
+          "name": "Milla Jovovich",
+          "url": "https://open.spotify.com/artist/3w2iSjoJcBtAiUummUzhzv"
+        },
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        },
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "Beds Are Burning - Dry Riverbed Version",
+      "url": "https://open.spotify.com/track/6hGkMWTPHxZhF3LtS9NpTN"
+    },
+    {
+      "album": {
         "name": "Bird Calling",
         "url": "https://open.spotify.com/album/4WmMR5EMxXuxojG65W1DDU"
       },
@@ -250,6 +388,24 @@
       "duration_ms": 207173,
       "name": "Dancin' In Circles",
       "url": "https://open.spotify.com/track/0lqcnnclUdVbPPboOldEPp"
+    },
+    {
+      "album": {
+        "name": "Arthur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5znfgOFlcJhAnbYUZNc5Id"
+      },
+      "artists": [
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/7IEnm0zgcJYEjdAT9MDJcS"
     },
     {
       "album": {
@@ -571,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Glass Mountain Trust",
+      "url": "https://open.spotify.com/track/1ozHpSkGN7mTzd9QPWhkZ9"
+    },
+    {
+      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -586,6 +764,32 @@
       "duration_ms": 180466,
       "name": "Grigio Girls",
       "url": "https://open.spotify.com/track/6Xxvdy1m9TX9HTxOzQcfuV"
+    },
+    {
+      "album": {
+        "name": "Mortdecai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gAsQ5aHvDtQQNLbN1g3oV"
+      },
+      "artists": [
+        {
+          "name": "Geoff Zanelli",
+          "url": "https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Rose Elinor Dougall",
+          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Heart's a Liar",
+      "url": "https://open.spotify.com/track/7mQEtlUgNDHLu1MWnvvOR0"
     },
     {
       "album": {
@@ -829,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/6Vri3uhFkZTyFFT7SceFqC"
+      },
+      "artists": [
+        {
+          "name": "Andy Burrows",
+          "url": "https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157480,
+      "name": "Keep on Moving On",
+      "url": "https://open.spotify.com/track/251AGu65HDV4oqbikOandE"
+    },
+    {
+      "album": {
         "name": "Keep Reachin' (feat. Chaka Khan)",
         "url": "https://open.spotify.com/album/6YY0fKK086S5hGfJh3XpqW"
       },
@@ -953,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187413,
+      "name": "Littlest Things",
+      "url": "https://open.spotify.com/track/16tU7M0qquqkou1MnipA9h"
+    },
+    {
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ"
       },
@@ -990,10 +1230,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 157586,
       "name": "Love Came Down",
       "url": "https://open.spotify.com/track/1B2amGFcCiluKPYy97epQ2"
+    },
+    {
+      "album": {
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Mama Told Me",
+      "url": "https://open.spotify.com/track/1t52HllJZSahQ2b71IopOy"
     },
     {
       "album": {
@@ -1070,6 +1328,24 @@
       "duration_ms": 244899,
       "name": "Million Reasons - Andrelli Remix",
       "url": "https://open.spotify.com/track/0zf56ykB0pVddnwcQkWSlK"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228573,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4KqOYNpmqcsptsEliWnCJE"
     },
     {
       "album": {
@@ -1413,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Record Collection",
+      "url": "https://open.spotify.com/track/5FTs7Yq1HUPvJDNVoUo11Q"
+    },
+    {
+      "album": {
         "name": "Soulsville",
         "url": "https://open.spotify.com/album/2FhIa0Dtpy6S5rEklsjuBo"
       },
@@ -1489,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297933,
+      "name": "Somebody to Love Me",
+      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
+    },
+    {
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -1556,6 +1876,28 @@
       "duration_ms": 187293,
       "name": "Summer Breaking (feat. Kevin Parker)",
       "url": "https://open.spotify.com/track/3hoh1AoKwuC3VZ8CYj6YA9"
+    },
+    {
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263266,
+      "name": "The Bike Song",
+      "url": "https://open.spotify.com/track/5vt3kZ9so8g4PGIaRvvcFa"
     },
     {
       "album": {

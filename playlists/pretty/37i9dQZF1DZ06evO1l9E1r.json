@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2331,
+  "num_followers": 2335,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAACCCPHfDhxu6jiOy7ue7zC",
+  "snapshot_id": "Z33AAAAAAABZeS4i0EDXyqdhrAretIGx",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 284052,
+      "name": "Bridge of Death",
+      "url": "https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 121813,
+      "name": "Young Penny",
+      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -399,38 +431,6 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 121813,
-      "name": "Young Penny",
-      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 284052,
-      "name": "Bridge of Death",
-      "url": "https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU"
     },
     {
       "added_at": null,
@@ -527,42 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00eda II",
-        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+        "name": "rpm",
+        "url": "https://open.spotify.com/album/1qnrFmnRtmIaoG7wJKxUWC"
       },
       "artists": [
         {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Eyvind Kang",
-          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
-        },
-        {
-          "name": "David Thor",
-          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
         },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Amedeo",
-          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
-        },
-        {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
+      "duration_ms": 220626,
+      "name": "I Measure Every Grief I Meet",
+      "url": "https://open.spotify.com/track/0w5tSEtyvNPX7bYGWaQs1t"
     },
     {
       "added_at": null,
@@ -603,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rpm",
-        "url": "https://open.spotify.com/album/1qnrFmnRtmIaoG7wJKxUWC"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "I Measure Every Grief I Meet",
-      "url": "https://open.spotify.com/track/0w5tSEtyvNPX7bYGWaQs1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
@@ -635,6 +595,46 @@
       "duration_ms": 74153,
       "name": "Old Neighborhood",
       "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
     },
     {
       "added_at": null,
@@ -716,9 +716,45 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 169504,
-      "name": "It's Showtime",
-      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -739,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
       "artists": [
         {
@@ -748,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+      "duration_ms": 109675,
+      "name": "There Is No Joker",
+      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
     },
     {
       "added_at": null,
@@ -775,42 +811,6 @@
       "duration_ms": 95520,
       "name": "He Died for All of Us",
       "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 109675,
-      "name": "There Is No Joker",
-      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
+      "duration_ms": 169504,
+      "name": "It's Showtime",
+      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
     },
     {
       "added_at": null,
@@ -963,6 +963,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "David Wiebe",
+          "url": "https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Heyr Himnasmi\u00f0ur",
+      "url": "https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -1003,28 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "David Wiebe",
-          "url": "https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Heyr Himnasmi\u00f0ur",
-      "url": "https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
@@ -1032,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     },
     {
       "added_at": null,
@@ -1055,22 +1071,6 @@
       "duration_ms": 152413,
       "name": "Battlefield 2042",
       "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     },
     {
       "added_at": null,

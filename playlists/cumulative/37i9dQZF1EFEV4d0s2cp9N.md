@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 3 hr 2 min
+63 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All About](https://open.spotify.com/track/7fGJlTEISWp6IPxEAH0wVP) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All About](https://open.spotify.com/album/3nxJ6K2jlR1eYh1Gc4VsZ2) | 3:10 | 2024-05-01 |  |
 | [All My Friends](https://open.spotify.com/track/4eT4pfmDVBLzW3x3jY6AMx) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/4rZ78okqiuoeLyOTBZE23R) | 2:24 | 2024-05-01 |  |
 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 | 2024-05-01 |  |
+| [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 | 2025-01-09 |  |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/31OchL4Z3abIvoywvCaXmI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 2:39 | 2024-11-25 |  |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/4wiaFodiDW7oug9P3Xz7Rc) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [BORN TO BREAK YOUR HEART](https://open.spotify.com/album/4fKw1At9ArifrcL94AdsdS) | 2:39 | 2024-05-01 | 2024-11-25 |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/5FrZVlOIhhA2j733LLOIRI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/2usQC6dMqygYaTWUaO0UGk) | 2:39 | 2024-11-24 | 2024-11-26 |
@@ -45,6 +46,7 @@
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2024-05-01 |  |
 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 | 2024-05-01 |  |
 | [Nine](https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Nine](https://open.spotify.com/album/5CUQHXJ3gW7Dw30QlZPsN2) | 2:39 | 2024-05-01 |  |
+| [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 | 2025-01-09 |  |
 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 | 2024-05-01 |  |
 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 | 2024-05-01 |  |
 | [Over](https://open.spotify.com/track/5Mhud1HfHAEiZRxWogpiJt) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:49 | 2024-09-29 |  |

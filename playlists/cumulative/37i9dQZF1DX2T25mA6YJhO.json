@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Vicente Calder\u00f3n, Samantha Hudson.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "Dientes rotos",
+        "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "Dientes rotos",
+      "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
+    },
+    {
+      "album": {
         "name": "Dime baby",
         "url": "https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g"
       },
@@ -1064,10 +1086,28 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176625,
       "name": "Dime baby",
       "url": "https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn"
+    },
+    {
+      "album": {
+        "name": "Donde caben 2",
+        "url": "https://open.spotify.com/album/1jVfBdJLNBeAFrAdxTQsMo"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133493,
+      "name": "Donde caben 2",
+      "url": "https://open.spotify.com/track/3o4c7V9homHR3wFow99KS1"
     },
     {
       "album": {
@@ -1566,7 +1606,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 271750,
       "name": "F\u00fatbol",
       "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
@@ -1592,6 +1632,24 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "album": {
+        "name": "Gormiti",
+        "url": "https://open.spotify.com/album/7g9mPxfuhtAJHVSorqShDK"
+      },
+      "artists": [
+        {
+          "name": "El Gavira",
+          "url": "https://open.spotify.com/artist/1UvQwGhNMpOK3fqW1kBW8s"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "Gormiti",
+      "url": "https://open.spotify.com/track/40kItumDEImsTETv6umVOg"
     },
     {
       "album": {
@@ -1978,7 +2036,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 158870,
       "name": "La fiesta",
       "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
@@ -2684,6 +2742,24 @@
       "duration_ms": 137237,
       "name": "Nacho Fern\u00e1ndez",
       "url": "https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k"
+    },
+    {
+      "album": {
+        "name": "Nadie Se Muere De Amor",
+        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
+      },
+      "artists": [
+        {
+          "name": "Talleres Molina",
+          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Nadie Se Muere De Amor",
+      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
     },
     {
       "album": {
@@ -3654,7 +3730,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234819,
       "name": "Si se muere tu perro",
       "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
@@ -4128,7 +4204,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 139923,
       "name": "ULTRASUR",
       "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
@@ -4377,6 +4453,24 @@
     },
     {
       "album": {
+        "name": "Vivo En Las Nubes",
+        "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192888,
+      "name": "Vivo En Las Nubes",
+      "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
+    },
+    {
+      "album": {
         "name": "Vuelta a casa",
         "url": "https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH"
       },
@@ -4562,6 +4656,24 @@
       "duration_ms": 184200,
       "name": "Yo-me-mi",
       "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
+    },
+    {
+      "album": {
+        "name": "Zero Az\u00facar",
+        "url": "https://open.spotify.com/album/1GOJQzYOLN0KKtIYjSMHsp"
+      },
+      "artists": [
+        {
+          "name": "Zero Az\u00facar",
+          "url": "https://open.spotify.com/artist/6h4QOpvocAGfthRjmeVyeT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174451,
+      "name": "Zero Az\u00facar",
+      "url": "https://open.spotify.com/track/24HHvn8ptcD54cBDOubRFx"
     },
     {
       "album": {

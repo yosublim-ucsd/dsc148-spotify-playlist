@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-163 songs - 9 hr 35 min
+164 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Boomerang](https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:23 | 2024-06-11 |  |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2024-06-11 |  |
 | [Cafe Malibú](https://open.spotify.com/track/6uL89TPiBHaiIEhqK4sohb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 4:20 | 2024-06-11 |  |
+| [Cafecito](https://open.spotify.com/track/00GEGVGTD3gB4ZMawC5CB9) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:34 | 2025-01-09 |  |
 | [Caracol](https://open.spotify.com/track/1QDXGLJaZKFYLSCk6MM1rn) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 3:02 | 2024-06-11 |  |
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2024-06-11 |  |
 | [Champagne](https://open.spotify.com/track/76mejIXXyEr7Q19iE8YvJS) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:10 | 2024-06-11 |  |

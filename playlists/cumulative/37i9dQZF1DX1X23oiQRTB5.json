@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -3191,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "Le Plan",
+        "url": "https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Le Plan",
+      "url": "https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm"
+    },
+    {
+      "album": {
         "name": "Leo Messi",
         "url": "https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml"
       },
@@ -4326,7 +4348,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 181016,
       "name": "Only You",
       "url": "https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1"
@@ -5167,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "SENTIMENTS BILLETS DE 100",
+        "url": "https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "SENTIMENTS BILLETS DE 100",
+      "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
+    },
+    {
+      "album": {
         "name": "Shavkat",
         "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
       },
@@ -5898,7 +5938,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149000,
       "name": "Vrais salauds (feat. Gazo & Kore)",
       "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating the power of amazing female pop artists who soundtracked 2024.  Cover: Chappell Roan",
-  "num_followers": 2592367,
+  "num_followers": 2592214,
   "original_name": "Women of Pop 2024",
   "owner": {
     "name": "Spotify",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-09-20 14:34:58",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Messy",
@@ -223,6 +207,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-09-20 14:34:58",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Spot a Fake",
-        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Spot a Fake",
-      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Safety Net",
         "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Spot a Fake",
+        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Spot a Fake",
+      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "One Eye Open",
-        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "One Eye Open",
-      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 142752,
       "name": "Busy Girl",
       "url": "https://open.spotify.com/track/3CtAgFwiMPdKaX7caXldRV"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "jesus christ in a mini skirt",
         "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180992,
       "name": "jesus christ in a mini skirt",
       "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-12-04 12:15:00",

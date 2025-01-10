@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,863 songs - 1 day 14 hr 9 min
+1,864 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [Orlando's Bloom](https://open.spotify.com/track/2tf0u3pAmrKiJdjiDAtiDm) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Orlando's Bloom](https://open.spotify.com/album/2j28BID7Ma6pZo5Wpjg5qw) | 2:25 | 2022-01-12 | 2023-04-09 |
 | [Our Contemplations](https://open.spotify.com/track/1R1L07hGUn0wBedRsLs4Qh) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Our Contemplations](https://open.spotify.com/album/7f9GIwRqpFSzMpAUOAMwi8) | 1:02 | 2023-04-19 | 2024-02-13 |
 | [Our Contemplations Arr\. For Cello And Felt Piano](https://open.spotify.com/track/55iTFgV44G8RPYwOeCloDh) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Evening Cello Preludes](https://open.spotify.com/album/3wgd7Qtc89NsHPujTsMrAH) | 1:02 | 2023-04-19 | 2024-02-13 |
+| [Our Home](https://open.spotify.com/track/2bZjRjb1ZzbJVtKRyz6fJu) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Our Home](https://open.spotify.com/album/2HnB7anXFk38EyaGGSZodK) | 1:00 | 2025-01-09 |  |
 | [Our Hope](https://open.spotify.com/track/5WRURK4pSM0zW2KAYRVpnd) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 1:03 | 2022-10-26 |  |
 | [Our Life \- Grand Piano Version](https://open.spotify.com/track/2vrhkDp8gLMWzQcg9wGj4Q) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Our Life](https://open.spotify.com/album/4geK44LV3BgMO4WtPp3pkS) | 1:00 | 2024-07-14 |  |
 | [Our Light](https://open.spotify.com/track/3FC1uK5HktLKW6U7Ac3IZb) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Our Light](https://open.spotify.com/album/5KoRMii4p6PxSZVblslk2d) | 1:00 | 2024-09-18 |  |

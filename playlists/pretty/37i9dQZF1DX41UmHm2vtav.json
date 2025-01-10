@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 476613,
+  "num_followers": 476708,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -519,26 +523,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
       "artists": [
         {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Low (feat. Victor Perry)",
         "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 145952,
       "name": "Low (feat. Victor Perry)",
       "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        },
-        {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 175204,
       "name": "Youngr",
       "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Os Paralamas Do Sucesso - 10 Remixes",
-        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "O Beco - (Tropkillaz Remix)",
-      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1391,6 +1371,26 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Os Paralamas Do Sucesso - 10 Remixes",
+        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "O Beco - (Tropkillaz Remix)",
+      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1531,22 +1531,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+        "name": "Olhos Coloridos (Rap Singulares)",
+        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         },
         {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+          "name": "MarVixx",
+          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
+        },
+        {
+          "name": "Simone Malafaia",
+          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
         }
       ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+      "duration_ms": 277565,
+      "name": "Olhos Coloridos (Rap Singulares)",
+      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     }
   ],
   "unique_name": "Festa na Praia",

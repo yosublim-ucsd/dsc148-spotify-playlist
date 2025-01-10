@@ -3855,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
+    },
+    {
+      "album": {
         "name": "Soil",
         "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
       },
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207685,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/44MRKShx562b6moPwz1wI8"
@@ -5076,7 +5094,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 240532,
       "name": "\u3044\u3064\u3057\u304b",
       "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
@@ -6032,7 +6050,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 342133,
       "name": "\u30b3\u30eb\u30c6\u30aa\u3000\uff5e\u884c\u5217\uff5e",
       "url": "https://open.spotify.com/track/0ReowEiUlgn1BeVHcq6S1a"
@@ -7138,6 +7156,24 @@
       "duration_ms": 295899,
       "name": "\u606f\u7d99\u304e",
       "url": "https://open.spotify.com/track/2kgovYj0rviDMAm3NsB54t"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a (NightTime Version)",
+        "url": "https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252928,
+      "name": "\u60aa\u5922\u306e\u3088\u3046\u306a - Acoustic",
+      "url": "https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn"
     },
     {
       "album": {
@@ -8830,7 +8866,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 257328,
       "name": "\u98fd\u548c",
       "url": "https://open.spotify.com/track/71LllVsHZOatMDsxHxNZ30"

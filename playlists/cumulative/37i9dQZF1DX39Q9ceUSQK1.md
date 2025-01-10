@@ -2,9 +2,9 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative en rock songs\. Cover: Circa Waves
+> Nieuwe alternative en rock songs\. Cover: The Vices \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-234 songs - 13 hr 27 min
+239 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Down Under Distractions](https://open.spotify.com/track/1PHVBgWKEv2XdXSJ49cG4u) | [The Awkward](https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci) | [Down Under Distractions](https://open.spotify.com/album/6y5qDNEHN6wrvVbjxPvjl7) | 0:58 | 2024-06-24 | 2024-08-31 |
 | [Downwards](https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Downwards](https://open.spotify.com/album/5UHRcOCp0VYzkNOfOg4WXw) | 2:53 | 2024-07-11 | 2024-09-06 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-10-04 | 2025-01-07 |
+| [Dynamite](https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [Dynamite](https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr) | 3:25 | 2025-01-09 |  |
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-09 | 2024-10-23 |
 | [Faint Of Heart](https://open.spotify.com/track/2csUY4IGUWm8b8mWbBybjc) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Faint Of Heart](https://open.spotify.com/album/3mpkO4KFbEzzz0lFJxY2IH) | 6:05 | 2024-07-26 | 2024-09-25 |
 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-11-07 |  |
@@ -91,6 +92,8 @@
 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 | 2024-10-04 | 2025-01-07 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-06-24 | 2024-09-25 |
 | [Hold On](https://open.spotify.com/track/55M33FStlWwOPvp3ut8IoR) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Changing Colors](https://open.spotify.com/album/06PybWg0oAKzDJ2zY7GL13) | 3:57 | 2024-10-22 | 2025-01-07 |
+| [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-09 |  |
+| [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-01-09 |  |
 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-27 | 2024-11-08 |
 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-11-07 | 2024-11-23 |
 | [I Want It All](https://open.spotify.com/track/0xOqlgHD7UKRGB2TM6Tthw) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [I Want It All](https://open.spotify.com/album/3WDpCrcxGaat5ExupeTV1c) | 2:19 | 2024-09-05 | 2024-11-08 |
@@ -133,6 +136,7 @@
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-24 | 2024-11-23 |
 | [MMMami Mami](https://open.spotify.com/track/54CzAk7fpqqOGVgkQTCs7M) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [MMMami Mami](https://open.spotify.com/album/084uPuidGS0aaLFZ654bAb) | 2:33 | 2024-06-24 | 2024-07-27 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-24 | 2024-09-25 |
+| [Mortal Wound](https://open.spotify.com/track/3wktXpE9T9jtIkyNQyUMBr) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Mortal Wound](https://open.spotify.com/album/0VoEuoEmDUKasGhdKngXLH) | 3:16 | 2025-01-09 |  |
 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-19 |  |
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-26 | 2024-10-05 |
 | [Natural Woman](https://open.spotify.com/track/4bxQ6UOYDxTkhzjO25b9sB) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Natural Woman](https://open.spotify.com/album/6zT7gulN4APadlmslo2UHI) | 3:05 | 2024-11-07 |  |
@@ -198,6 +202,7 @@
 | [Stray Dog \- Session 388](https://open.spotify.com/track/1TmUHwM2umXy3JF6Sz1vTG) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Stray Dog \(Session 388\)](https://open.spotify.com/album/4SJ0GH4mcLsSpiKxrNR1nd) | 3:38 | 2024-09-05 | 2024-10-23 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 | 2024-10-18 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-22 |  |
+| [T&A](https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw) | 3:45 | 2025-01-09 |  |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-26 | 2024-10-23 |
 | [Tata's Lie](https://open.spotify.com/track/6KEbPvohiPRqky2TcYFwQG) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Tata's Lie](https://open.spotify.com/album/0u0r2SIoz7i5dgD5Ctw9LF) | 4:20 | 2024-06-24 | 2024-07-12 |
 | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/album/1OHKmjvGBdmlj6hZDiYCON) | 3:14 | 2024-09-27 | 2024-12-19 |

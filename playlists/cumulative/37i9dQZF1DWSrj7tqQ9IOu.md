@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : Oscar Anton
 
-565 songs - 1 day 6 hr 46 min
+568 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-22 |
 | [De ta faute](https://open.spotify.com/track/5oj0j8VDbNscUAfv7acteK) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [De ta faute](https://open.spotify.com/album/7Ggkx1UE9wCQ0vFu4h80Mo) | 2:53 | 2023-08-24 | 2024-02-09 |
 | [Des Choses](https://open.spotify.com/track/1zvmRYVcCbdr2ml6U9cqxw) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Des Choses](https://open.spotify.com/album/6HSL1XRfNmkBkPWJ4Ix5YH) | 3:12 | 2024-11-14 |  |
+| [Des fleurs](https://open.spotify.com/track/2jNeR1QAIvikSfvpImES6f) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [Des fleurs](https://open.spotify.com/album/350HmeclApbU0aOtqWtkjh) | 2:53 | 2025-01-09 |  |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 | 2022-07-07 | 2022-10-28 |
 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 | 2022-05-19 | 2022-06-24 |
@@ -144,7 +145,7 @@
 | [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 | 2022-09-23 |
 | [Désamour](https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy) | [Rêve Blanc](https://open.spotify.com/artist/6bQE7tlwfDdiBAAdo4EKyL) | [Désamour](https://open.spotify.com/album/4dIh0BBJ9ODCLY2Sy3pK7x) | 3:44 | 2022-11-17 | 2022-12-24 |
 | [Echo](https://open.spotify.com/track/7aQfuGKbdDyTK1JCYzK4NJ) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Echo](https://open.spotify.com/album/45E0UFc4udoOaeNiPN4eOB) | 3:18 | 2024-12-05 |  |
-| [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 |  |
+| [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 | 2024-10-03 | 2025-01-10 |
 | [Empathie](https://open.spotify.com/track/738mF4MLie3fFqTrWIP4RC) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Empathie](https://open.spotify.com/album/6ih5L57o7ap7pEamgPKwI3) | 3:20 | 2022-12-08 | 2023-01-20 |
 | [En ce moment](https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En ce moment](https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D) | 2:16 | 2022-09-15 | 2023-01-13 |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
@@ -262,6 +263,7 @@
 | [L'imbécile](https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Carambolages](https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp) | 2:40 | 2023-10-26 | 2024-06-28 |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-10-27 |
 | [L'ÉTÉ](https://open.spotify.com/track/0rwsEAo5cS4jMcPOznBEpo) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH) | [CONTREPOINTS](https://open.spotify.com/album/7IQfExwIGb8PpwbFkR4awD) | 3:27 | 2022-04-07 | 2022-07-01 |
+| [L.S.D](https://open.spotify.com/track/2D8d2wso2j57esWEt3Hchy) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [L.S.D](https://open.spotify.com/album/3y8FpdJmunDxKFcfi8bRxd) | 3:10 | 2025-01-09 |  |
 | [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 | 2022-03-10 | 2022-04-08 |
 | [La carioca](https://open.spotify.com/track/6w4Mc2Twjlm1gu6G4Qrqhd) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [La carioca](https://open.spotify.com/album/7p45gGfcSoETX1sww3bcNH) | 3:46 | 2021-12-16 | 2022-01-28 |
 | [La caïpi](https://open.spotify.com/track/5oiE5RVpzoqLGnnN3ljPP1) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7), [Pierre Grizzli](https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3) | [La caïpi](https://open.spotify.com/album/3S575RwsrSzbqrXr5RNaVl) | 3:31 | 2024-12-05 |  |
@@ -396,7 +398,7 @@
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
 | [Party](https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Party](https://open.spotify.com/album/0f2HZdtQPt1ngVO56RZfYq) | 2:54 | 2024-11-21 |  |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |
-| [Pas vraiment](https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:17 | 2024-09-12 |  |
+| [Pas vraiment](https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:17 | 2024-09-12 | 2025-01-10 |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
 | [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 | 2022-05-07 |
 | [Petit son doux](https://open.spotify.com/track/0ajRm6fH78Pd3IhndVxOvn) | [Olga Kiav](https://open.spotify.com/artist/0SbgqOJyJPlo0nENeZEOXJ), [TABULÅ RØNDA](https://open.spotify.com/artist/4N8M9pfc4T0TEDfyyXDiWD), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Petit son doux](https://open.spotify.com/album/5MMuZfpAx056SJ0YmHGqFe) | 3:17 | 2023-05-25 | 2023-06-02 |
@@ -485,7 +487,7 @@
 | [SUR LE COEUR](https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SUR LE COEUR](https://open.spotify.com/album/55x88wSRtzOdANenONxpHI) | 2:35 | 2023-01-05 | 2023-06-02 |
 | [Sweet Life](https://open.spotify.com/track/2cJ2LCRO3UNbf3F20CaUh8) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Chambre Noire, Vol\. 1](https://open.spotify.com/album/4pam5MIIbElV9WVZibgJJi) | 3:27 | 2023-09-21 | 2024-02-09 |
 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 | 2023-03-09 | 2023-07-07 |
-| [T PAS SI BO](https://open.spotify.com/track/2vA0ne4qtPRdQelgpOd33j) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [T PAS SI BO](https://open.spotify.com/album/7lkIqJwjswavQGu4eW0KNz) | 2:11 | 2024-12-05 |  |
+| [T PAS SI BO](https://open.spotify.com/track/2vA0ne4qtPRdQelgpOd33j) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [T PAS SI BO](https://open.spotify.com/album/7lkIqJwjswavQGu4eW0KNz) | 2:11 | 2024-12-05 | 2025-01-10 |
 | [T'étais pas là](https://open.spotify.com/track/46OzY465Q9H3j1OQ0l8UCO) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Grande](https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7) | 3:46 | 2023-03-30 | 2023-04-21 |
 | [Tactile](https://open.spotify.com/track/4mhQB2RbdTafiNaw6mIYnX) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p), [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Tactile](https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6) | 3:37 | 2022-11-17 | 2022-12-02 |
 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 | 2022-04-28 | 2022-11-11 |
@@ -535,6 +537,7 @@
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-25 | 2022-09-16 |
 | [United](https://open.spotify.com/track/7mYRC0kv4oI7ipqoPT8aXM) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [United](https://open.spotify.com/album/3yJ1VIZjUuXHdkE7ECLcWz) | 3:48 | 2021-12-16 | 2022-01-21 |
 | [Valencia](https://open.spotify.com/track/0YM0eV5uAlAyv2LPiqWiuV) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Valencia](https://open.spotify.com/album/0EErwInSDJNkOkkhqVOkgS) | 3:57 | 2024-04-18 | 2024-07-05 |
+| [Vendredi](https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:14 | 2025-01-09 |  |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-02 | 2022-09-16 |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 |  |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-21 | 2023-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,715 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,698 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 96 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 |
 | 97 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
 | 98 | [I'll Be Home For Christmas](https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:40 |
-| 99 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 |
-| 100 | [I'll Be Thinking of You](https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN) | [I'll Be Thinking of You](https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5) | 4:45 |
+| 99 | [I'll Be Thinking of You](https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN) | [I'll Be Thinking of You](https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5) | 4:45 |
+| 100 | [Little Drummer Boy](https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 2:46 |
 | 101 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
 | 102 | [Let There Be Peace on Earth](https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Let There Be Peace on Earth](https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv) | 3:36 |
 | 103 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 117 | [Emmanuel is Here](https://open.spotify.com/track/0DDNfG9ZxThYp79QSsp36H) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Emmanuel is Here](https://open.spotify.com/album/7MLDmQxZUyRAtVQ8cSLbmf) | 5:31 |
 | 118 | [Let Us Adore Him](https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 3:39 |
 | 119 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
-| 120 | [O What A Night \(with Vision\)](https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Rejoice \(with Vision\)](https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97) | 5:40 |
-| 121 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
+| 120 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
+| 121 | [O What A Night \(with Vision\)](https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Rejoice \(with Vision\)](https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97) | 5:40 |
 | 122 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0KAERzL7Izhd5Knm9EDsnM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Christmas With Shirley Caesar](https://open.spotify.com/album/2qyAawhIrl41sHRVG7Zwzy) | 5:17 |
 | 123 | [Mary, Did You Know?](https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Mary, Did You Know?](https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR) | 4:17 |
 | 124 | [What Child Is This](https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC) | [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Black Nativity: A Gospel Christmas Musical Experience](https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X) | 3:14 |

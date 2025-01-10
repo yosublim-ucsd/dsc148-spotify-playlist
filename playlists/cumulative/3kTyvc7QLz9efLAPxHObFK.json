@@ -29049,6 +29049,24 @@
     },
     {
       "album": {
+        "name": "Ready For It",
+        "url": "https://open.spotify.com/album/1yOLpXWXNBujcGx93E8S4S"
+      },
+      "artists": [
+        {
+          "name": "X-Cursion",
+          "url": "https://open.spotify.com/artist/4ihqnGOCry0RFLnGuP6Wcz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217057,
+      "name": "Ready For It",
+      "url": "https://open.spotify.com/track/3MGTpnhmgUQ3UGQrKGTdOp"
+    },
+    {
+      "album": {
         "name": "Ready To Rage",
         "url": "https://open.spotify.com/album/3jjIRRKqHiJAC6iU7xZlVY"
       },

@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-692 songs - 21 hr 4 min
+693 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [The Dollhouse Sleeps](https://open.spotify.com/track/774AtBbCtOjcMI9qLPEbFM) | [Amelia Caan](https://open.spotify.com/artist/7EIBRUAZQh8IQzssDoiv4Y) | [The Dollhouse Sleeps](https://open.spotify.com/album/72H3uFskLSX1mB5p7Hv3Ji) | 1:09 | 2021-10-07 | 2022-10-08 |
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
 | [The farmer in the dell](https://open.spotify.com/track/47dfnROFpFJJDD6oCWWbSj) | [Sophie Eichmann](https://open.spotify.com/artist/2kzsfr4PAIwyoSPrBq9Xdx) | [The farmer in the dell](https://open.spotify.com/album/6odz7oeiLNgklTnDTx0psg) | 1:00 | 2021-10-07 | 2022-12-10 |
+| [The Garden Gnome](https://open.spotify.com/track/76UrUwppRDeVai7AiWa1HF) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [The Garden Gnome](https://open.spotify.com/album/26M1pxdbrva0aZKKI1CXe2) | 2:09 | 2025-01-09 |  |
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-02-10 |  |
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-07 | 2022-10-29 |
 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 | 2023-12-08 |  |

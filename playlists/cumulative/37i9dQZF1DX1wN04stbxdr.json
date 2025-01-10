@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "album": {
         "name": "aldri mer dans",
         "url": "https://open.spotify.com/album/7atYKU4YBHxUfDkIIxjYzp"
       },
@@ -352,6 +378,36 @@
       "duration_ms": 156163,
       "name": "Elsk meg",
       "url": "https://open.spotify.com/track/1kS07kYvOYl9EXvsjTC1mG"
+    },
+    {
+      "album": {
+        "name": "Elven (feat. Aksel Hennie & Beharie)",
+        "url": "https://open.spotify.com/album/5gkjyqbKfaDBRMcPr666zo"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Aksel Hennie",
+          "url": "https://open.spotify.com/artist/6YnLf3qP1gupTgd6AjupC7"
+        },
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203339,
+      "name": "Elven (feat. Aksel Hennie & Beharie)",
+      "url": "https://open.spotify.com/track/0mPg11BKNCsRmqzGgaqJ8Q"
     },
     {
       "album": {
@@ -797,6 +853,28 @@
     },
     {
       "album": {
+        "name": "La den mannen vere",
+        "url": "https://open.spotify.com/album/4fZD65Zw7QYGZwm96ALmS4"
+      },
+      "artists": [
+        {
+          "name": "Kjartan Lauritzen",
+          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195189,
+      "name": "La den mannen vere",
+      "url": "https://open.spotify.com/track/3gwOlol1hbBGAFSExWART8"
+    },
+    {
+      "album": {
         "name": "Lily",
         "url": "https://open.spotify.com/album/2QBiw2guG8CLLxnPsc9zhd"
       },
@@ -981,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "N\u00e5de",
+        "url": "https://open.spotify.com/album/1SyAaDEjU3XsYGsvh3GH00"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "N\u00e5de",
+      "url": "https://open.spotify.com/track/4B0evgCHWmFmtRkC0T5dmk"
+    },
+    {
+      "album": {
         "name": "ok jeg lover",
         "url": "https://open.spotify.com/album/5dvJFEvL2HVipJpcOlZj9k"
       },
@@ -1000,6 +1100,28 @@
       "duration_ms": 238550,
       "name": "ok jeg lover",
       "url": "https://open.spotify.com/track/63toIh9OgvWV32FAUMYiTO"
+    },
+    {
+      "album": {
+        "name": "One Day You\u00b4ll Dance For Me, New York City",
+        "url": "https://open.spotify.com/album/73cI9NfBju6sZU3JYuXODE"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182059,
+      "name": "One Day You\u00b4ll Dance For Me, New York City",
+      "url": "https://open.spotify.com/track/78Tl4mJ6HZd2dQqyS91MqG"
     },
     {
       "album": {
@@ -1382,6 +1504,28 @@
       "duration_ms": 235032,
       "name": "wow",
       "url": "https://open.spotify.com/track/1DyvQsMh6ZMWTuH0PGmpOD"
+    },
+    {
+      "album": {
+        "name": "Zoe",
+        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191379,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr"

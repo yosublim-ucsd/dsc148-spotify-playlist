@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy en met karakter\. cover: Sticks
+> edgy en met karakter\. cover: Dio
 
-172 songs - 9 hr 13 min
+174 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-28 | 2024-07-12 |
 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 | 2023-03-31 | 2024-05-10 |
 | [Begrijpen](https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Begrijpen](https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd) | 3:16 | 2024-07-11 |  |
+| [Bigger Than Life](https://open.spotify.com/track/6iDGxdeHkAE0fGlvulxDee) | [NOAH](https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy) | [Bigger Than Life / 2 Glazen](https://open.spotify.com/album/4CfFThU8YJfJ0tJ0cf2nQo) | 3:02 | 2025-01-09 |  |
 | [Binary](https://open.spotify.com/track/3gUUMVRtNe9hxD2JzJ6J4v) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Binary](https://open.spotify.com/album/6kZmUW4IoAWfZDcTr0nXaK) | 3:46 | 2023-02-23 | 2023-08-25 |
 | [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 | 2023-05-05 | 2024-05-10 |
 | [Blokke Gepikt](https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:29 | 2024-06-25 |  |
@@ -114,6 +115,7 @@
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 | 2024-02-16 |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 | 2024-07-12 |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 | 2024-03-08 |
+| [PIJNSTILLERS](https://open.spotify.com/track/7mNXDtOxk8XTx9o73FXySS) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [PIJNSTILLERS / BLAKKA BOY](https://open.spotify.com/album/1gVkIkZN6xBqPhBK72CnHG) | 2:53 | 2025-01-09 |  |
 | [Piramide](https://open.spotify.com/track/0vUfd8TGyDlK8lTa9mxywv) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:51 | 2024-11-14 |  |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 | 2024-09-10 |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 | 2024-10-25 |

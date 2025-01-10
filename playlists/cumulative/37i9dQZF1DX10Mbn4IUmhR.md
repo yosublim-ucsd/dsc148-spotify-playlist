@@ -2,9 +2,9 @@
 
 ### [i <3 pop](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=HA3mFB0rSQu1a8S7yT5qSw">Will Linley</a>
+> The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi?si=8qAf3MaYSQODbI4Vns1YKA">Dominic Neill</a>
 
-230 songs - 11 hr 35 min
+233 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cigarettes](https://open.spotify.com/track/3RU8NyQwkwPIw4L3kR7I4a) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Cigarettes](https://open.spotify.com/album/4IjxbjGFR6SfCW46ZgQVdk) | 2:29 | 2024-08-23 | 2024-10-19 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-11 | 2024-11-08 |
 | [Cocaine Kisses](https://open.spotify.com/track/2eIvCJ0Fe47ihAq8FQy6cd) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Cocaine Kisses](https://open.spotify.com/album/0Rt3EXbUHOvhD26EnoYwEo) | 3:13 | 2024-11-21 | 2024-11-29 |
+| [Coming Home](https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Coming Home](https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS) | 4:25 | 2025-01-09 |  |
 | [Common Things](https://open.spotify.com/track/2h6cKVFurOfEBB4GewcGOI) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Common Things](https://open.spotify.com/album/2xuJei4z9I237JoWuR9gbE) | 5:36 | 2024-07-18 | 2024-10-11 |
 | [COMMUNION](https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC) | [cooogi](https://open.spotify.com/artist/4zEjmKFibpJouP3yVumP3d) | [COMMUNION](https://open.spotify.com/album/3hbvNmZmxQbqVCQo2jaJ1H) | 1:20 | 2024-08-02 | 2024-08-16 |
 | [Connected](https://open.spotify.com/track/2XFG1Qwv5IHqWNG2NucpSg) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Connected](https://open.spotify.com/album/5qUET0VOV6QFplvQZ9wbKe) | 3:32 | 2024-08-09 | 2024-08-24 |
@@ -72,6 +73,7 @@
 | [Fake A Smile](https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:39 | 2024-11-21 |  |
 | [Fall Asleep](https://open.spotify.com/track/4NHaWaro8WSRoYJVpU7joq) | [Tristan Cole Boltman](https://open.spotify.com/artist/1gzoSdXYXUh5v1j8qB9QOv) | [Fall Asleep](https://open.spotify.com/album/5RxmvLXckds8tQARMaQtXS) | 2:37 | 2024-08-15 | 2024-08-30 |
 | [fall into place](https://open.spotify.com/track/2sFHw6ZJaxqL56CuOtXqAt) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [oh haven](https://open.spotify.com/artist/454F3LMjDK0L51zDLsQDMe) | [fall into place](https://open.spotify.com/album/52yws9V4uJtcfwg98W8fap) | 1:57 | 2024-08-23 | 2024-08-30 |
+| [Falling](https://open.spotify.com/track/1K7Cdvi2IZ1wdDtYLpGCo6) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:42 | 2025-01-09 |  |
 | [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 | 2024-06-27 | 2024-08-16 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 |  |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-11-07 | 2024-11-16 |
@@ -229,6 +231,7 @@
 | [When I'm With You](https://open.spotify.com/track/6VUupbPVzQc9KsAnUECeP2) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [When I'm With You](https://open.spotify.com/album/27FX6DWdFHstVDi6ZK2Aaa) | 2:21 | 2024-06-27 | 2024-07-27 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-25 | 2024-08-03 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-11-16 |
+| [Wild for the Night](https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Wild for the Night](https://open.spotify.com/album/2LlX6jiXRlwc0FgIaNde96) | 2:51 | 2025-01-09 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-19 |  |
 | [With You](https://open.spotify.com/track/79LggjXGWmOdad69uxByNI) | [Joss Austin](https://open.spotify.com/artist/2NKDYt1C1JET13SHsFYXbv) | [With You](https://open.spotify.com/album/2rKoC3qq6soseMbHedF07S) | 2:31 | 2024-06-27 | 2024-07-12 |
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-11-07 | 2024-11-16 |

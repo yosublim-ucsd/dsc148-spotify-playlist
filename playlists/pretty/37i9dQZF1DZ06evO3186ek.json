@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 153546,
+  "num_followers": 153607,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAABuUeCOpGCdnAgsQH/qDWj2",
+  "snapshot_id": "Z33AAAAAAACnMBl/tb1BKWXBo9VCBWXK",
   "tracks": [
     {
       "added_at": null,
@@ -91,34 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need Help",
-        "url": "https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Taylor Hill",
-          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 168998,
-      "name": "I Need Help",
-      "url": "https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Constant",
         "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
       },
@@ -143,6 +115,34 @@
       "duration_ms": 292185,
       "name": "Constant (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Need Help",
+        "url": "https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 168998,
+      "name": "I Need Help",
+      "url": "https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0"
     },
     {
       "added_at": null,
@@ -447,30 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 203061,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 203061,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
-  "num_followers": 142164,
+  "num_followers": 142187,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -435,38 +435,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Registrado",
-        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
-      },
-      "artists": [
-        {
-          "name": "Catedral",
-          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
-        }
-      ],
-      "duration_ms": 136083,
-      "name": "O Perfeito Mundo Imperfeito",
-      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Nas Chagas",
-        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 256390,
-      "name": "Nas Chagas",
-      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Nas Chagas",
+        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 256390,
+      "name": "Nas Chagas",
+      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Registrado",
+        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
+      },
+      "artists": [
+        {
+          "name": "Catedral",
+          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
+        }
+      ],
+      "duration_ms": 136083,
+      "name": "O Perfeito Mundo Imperfeito",
+      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Band",
-          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Band",
+          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2025-01-03 03:01:06",

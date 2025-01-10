@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Remi Wolf ",
-  "num_followers": 600524,
+  "num_followers": 600588,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 139086,
+      "name": "Die Your Daughter",
+      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Fetch The Bolt Cutters",
-        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 201352,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 353732,
       "name": "Movies",
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Fetch The Bolt Cutters",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 201352,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Woo!",
-      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 228760,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Woo!",
+      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "feel like home",
         "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
       },
@@ -1399,22 +1383,6 @@
       "duration_ms": 160320,
       "name": "feel like home",
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 180850,
-      "name": "Slugger",
-      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1447,6 +1415,38 @@
       "duration_ms": 196348,
       "name": "Glad He's Gone",
       "url": "https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 180850,
+      "name": "Slugger",
+      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-09-30 17:25:14",

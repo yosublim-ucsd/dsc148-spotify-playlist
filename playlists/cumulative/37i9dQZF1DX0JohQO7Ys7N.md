@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-209 songs - 11 hr 36 min
+210 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Nguga Ii \(I Will Say Yes\)](https://open.spotify.com/track/72HaDS9HmlpQHVbdxeEHsa) | [Valerie Kimani](https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW) | [Baisikeli](https://open.spotify.com/album/0WlhQndUMa5fgiYWgEWyAi) | 4:24 | 2021-12-28 | 2022-11-11 |
 | [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 | 2022-06-30 | 2024-11-22 |
 | [Nice Car](https://open.spotify.com/track/1m7tvMnLjtzNiFxj5QKBTP) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Shift Happens](https://open.spotify.com/album/1kxF3nkx9EbPqT3p5g6dCC) | 3:48 | 2021-12-28 | 2022-09-23 |
-| [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-29 |  |
+| [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-29 | 2025-01-10 |
 | [Niko Majuu](https://open.spotify.com/track/07QYwSudjP24RbXeuug0Gk) | [PHY](https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c) | [Niko Majuu](https://open.spotify.com/album/33YGxj8PKaXbKMsESxHiFn) | 3:13 | 2023-10-06 | 2024-05-11 |
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 | 2022-09-29 |
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 | 2023-07-28 |
@@ -184,6 +184,7 @@
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 | 2024-11-08 |
 | [Sunshine State of Mind](https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Sunshine State of Mind](https://open.spotify.com/album/7oENnLSMaD5MLj1TG4bJh3) | 3:16 | 2023-05-18 | 2023-07-08 |
+| [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 | 2025-01-09 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 |  |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-18 | 2024-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26575,
+  "num_followers": 26579,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAACXCVTRgD8eMndSzbI9j2Bn",
+  "snapshot_id": "Z33AAAAAAADxQgHW3gFjaJx8tt3hS69Z",
   "tracks": [
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship And Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus, Firm Foundation: Hymns of Worship",
         "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
       },
@@ -891,26 +871,6 @@
       "duration_ms": 255320,
       "name": "Holy, Holy, Holy (God With Us)",
       "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Faithfulness (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
     },
     {
       "added_at": null,
@@ -935,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "Worship And Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
       },
       "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+      "duration_ms": 210666,
+      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
     },
     {
       "added_at": null,
@@ -983,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship EP",
-        "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 221280,
-      "name": "How Great (Single Mix)",
-      "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,
@@ -1015,6 +995,26 @@
       "duration_ms": 256066,
       "name": "Burning Heart of God",
       "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship EP",
+        "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "How Great (Single Mix)",
+      "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
     }
   ],
   "unique_name": "This Is Matt Maher",

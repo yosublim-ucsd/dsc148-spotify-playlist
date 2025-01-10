@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Georgie Riot
 
-268 songs - 17 hr 45 min
+269 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Ghosts](https://open.spotify.com/track/6LWjwXoGxkMN9yxOSrguMJ) | [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Ghosts](https://open.spotify.com/album/60u3yj7sNhQ7mPDSZA2mIj) | 4:23 | 2022-05-06 | 2022-07-20 |
 | [Girlz \- L\-Side Intro Remix](https://open.spotify.com/track/2qEMJBxBGOIZeMLj3UPFAL) | [Potential Badboy](https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n), [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Yush](https://open.spotify.com/artist/6vG5fLQGKPnMzSbxV4diFH) | [Girlz \(L\-Side Remix\)](https://open.spotify.com/album/6b4eS6SGoK1Oyf7hLrPSUM) | 5:17 | 2022-05-06 | 2022-07-19 |
 | [Golem](https://open.spotify.com/track/6j7y5o77r2wUyA7QhimFEZ) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Golem](https://open.spotify.com/album/4AoRYyYWIVM41kQdkaIqiT) | 5:08 | 2023-12-27 | 2024-01-12 |
+| [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 | 2024-12-06 |  |
 | [Got Beef](https://open.spotify.com/track/7ic3l3gvHqbp6a37kulofU) | [Jinx](https://open.spotify.com/artist/0hxLX6nWxNoBi2parGYEUc) | [Got Beef](https://open.spotify.com/album/7LhiHUOBStZOmtOl69yBHv) | 4:50 | 2022-05-06 | 2023-10-21 |
 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 | 2022-05-06 | 2023-09-22 |
 | [Hands In The Air \- VIP](https://open.spotify.com/track/1dun0VY9nR77M758yHdMzS) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [VIP](https://open.spotify.com/album/0fSCtb3g63qTiWCdWZXw9g) | 3:06 | 2023-12-27 | 2024-01-12 |
@@ -185,7 +186,7 @@
 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 | 2024-02-02 |  |
 | [Playing With Fire \(feat\. Zac Pajak\)](https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Zac Pajak](https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R) | [Playing With Fire \(feat\. Zac Pajak\)](https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K) | 2:50 | 2024-05-10 | 2024-10-28 |
 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 | 2022-05-06 |  |
-| [Polygon \(Circadian Remix\)](https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Polygon \(Circadian Remix\)](https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm) | 4:39 | 2024-09-12 |  |
+| [Polygon \(Circadian Remix\)](https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Polygon \(Circadian Remix\)](https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm) | 4:39 | 2024-09-12 | 2025-01-10 |
 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 | 2024-02-23 |  |
 | [Protection](https://open.spotify.com/track/5lTxWs9bkL7d35kqdPDOXd) | [Kendrick](https://open.spotify.com/artist/70mqJs2YSPZndK6UuHh4PO) | [Protection / Nothin Like](https://open.spotify.com/album/2I3A1kmhu1DYHaPJX9Lzle) | 4:28 | 2022-05-06 | 2022-08-13 |
 | [Psychedelic](https://open.spotify.com/track/207FRBC32g3LXf0EP0a2qQ) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [The Platinum Shadows EP](https://open.spotify.com/album/17tAD0zbPQ0TCUTeRkjDSB) | 5:31 | 2023-12-27 | 2024-01-12 |

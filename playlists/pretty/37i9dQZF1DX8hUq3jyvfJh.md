@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,171 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,192 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 |
 | 35 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
 | 36 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
-| 37 | [Baby, Não Te Quero Mais](https://open.spotify.com/track/1KrBKi5glPeBJ3YqiBmEuC) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Baby, Não Te Quero Mais](https://open.spotify.com/album/6wnIkiAHscXTIObMWMTNwM) | 2:38 |
+| 37 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
 | 38 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
-| 39 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
+| 39 | [Baby, Não Te Quero Mais](https://open.spotify.com/track/1KrBKi5glPeBJ3YqiBmEuC) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Baby, Não Te Quero Mais](https://open.spotify.com/album/6wnIkiAHscXTIObMWMTNwM) | 2:38 |
 | 40 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 41 | [Cremosa](https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:40 |
 | 42 | [Caju](https://open.spotify.com/track/4cjnawLGOAa0v7oKWjT9Dg) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Cangaço Novo \(Música da Série Original Amazon\)](https://open.spotify.com/album/4GnKIthBVmjojdsC0uc7BV) | 2:36 |

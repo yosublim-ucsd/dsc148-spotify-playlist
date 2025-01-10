@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: Lola Young",
+  "description": "All new music with an Indie twist. Cover: Hiqpy",
   "name": "Indie Update",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184070,
       "name": "Closing Time (feat. Cape Sleep)",
       "url": "https://open.spotify.com/track/7rKMKQJEibx6CID2EJ8gtk"
@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "DRIVING ROUND LOOKING FOR UNKNOWN",
+        "url": "https://open.spotify.com/album/3ChbjsgjF44aQgFoVCf8ND"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "DRIVING ROUND LOOKING FOR UNKNOWN",
+      "url": "https://open.spotify.com/track/3txBitwkcz82GCgYsAIPDn"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/5QakQ4plBNqVLff9B2eLFY"
       },
@@ -1245,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "eYeSiGht",
+        "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "eYeSiGht",
+      "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
+    },
+    {
+      "album": {
         "name": "F*cked Again",
         "url": "https://open.spotify.com/album/2NTC0GVpIHrcrDNOb6fMaT"
       },
@@ -1292,7 +1332,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 251653,
       "name": "Figurine",
       "url": "https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW"
@@ -1404,7 +1444,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207400,
       "name": "Give Her Time",
       "url": "https://open.spotify.com/track/7koCSEmBosBAjbFqNZmD5n"
@@ -1592,6 +1632,24 @@
       "duration_ms": 185038,
       "name": "House Down",
       "url": "https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204699,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1"
     },
     {
       "album": {
@@ -1978,7 +2036,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 143407,
       "name": "Keep On Calling",
       "url": "https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj"
@@ -2018,6 +2076,24 @@
       "duration_ms": 248344,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+    },
+    {
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220488,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
     },
     {
       "album": {
@@ -2781,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Orlando in Love",
+        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Orlando in Love",
+      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
+    },
+    {
+      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/2ykUyBsX93ruS03b21aZpT"
       },
@@ -3109,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Roman Soldiers",
+        "url": "https://open.spotify.com/album/1wtkBfhAnvHREITuFxiUnH"
+      },
+      "artists": [
+        {
+          "name": "MICH",
+          "url": "https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150106,
+      "name": "Roman Soldiers",
+      "url": "https://open.spotify.com/track/6Fbo57vqtT3VECmZM5jkGL"
+    },
+    {
+      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/3ZLxjDtyvcGe6AlANLGpXi"
       },
@@ -3160,6 +3272,24 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
+        "name": "Automatic (Preview)",
+        "url": "https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB"
     },
     {
       "album": {
@@ -3268,6 +3398,24 @@
       "duration_ms": 211665,
       "name": "Somehow/Somewhere",
       "url": "https://open.spotify.com/track/4Uh25olyNzbWPBm5IELAhy"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261677,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4"
     },
     {
       "album": {
@@ -3632,7 +3780,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 170039,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2RUHd81HLVFhRZmd4uMQ74"
@@ -4166,6 +4314,60 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
+    },
+    {
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
+    },
+    {
+      "album": {
+        "name": "\u00ddparxi",
+        "url": "https://open.spotify.com/album/0EH5cwD63ze3t3lOVncImW"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "\u00ddparxi",
+      "url": "https://open.spotify.com/track/7gUCQf72nxrbkWypZpGkuF"
+    },
+    {
+      "album": {
+        "name": "Just As \u00cf Remember",
+        "url": "https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186113,
+      "name": "\ud83d\udc94 - broken heart",
+      "url": "https://open.spotify.com/track/47KJiVDgC1BvA1HDy6GnXz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR"

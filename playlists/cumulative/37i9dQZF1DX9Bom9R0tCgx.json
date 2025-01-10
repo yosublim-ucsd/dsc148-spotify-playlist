@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Body Move (Hardwell Edit)",
+        "url": "https://open.spotify.com/album/3GflBh1GlyZnJciPDsGwph"
+      },
+      "artists": [
+        {
+          "name": "MatricK",
+          "url": "https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "Body Move - Hardwell Edit",
+      "url": "https://open.spotify.com/track/0UeG9M5O1rs2cSXnaz8ZKl"
+    },
+    {
+      "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
       },
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 181787,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
@@ -2728,7 +2750,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 105639,
       "name": "FAKE ID - Techno",
       "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
@@ -3773,6 +3795,32 @@
     },
     {
       "album": {
+        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee] [Hard Techno Edit]",
+        "url": "https://open.spotify.com/album/0bmazmY6hzT0dLZ8ONrjlU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Still Loud",
+          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135821,
+      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee] - Hard Techno Edit",
+      "url": "https://open.spotify.com/track/56bdkg6j80beNS74lRcGYa"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
       },
@@ -3788,6 +3836,32 @@
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "album": {
+        "name": "I'm an Albatraoz (Remixes)",
+        "url": "https://open.spotify.com/album/4cRPUQsd84NNWZl8QOtJYq"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
+        {
+          "name": "REMAZE",
+          "url": "https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "I'm an Albatraoz - REMAZE Remix",
+      "url": "https://open.spotify.com/track/7MNvJc3pHbOsNH3Emk9g3B"
     },
     {
       "album": {
@@ -3850,7 +3924,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179653,
       "name": "Imagine (feat. Carbonne) [Timmy Trumpet Remix]",
       "url": "https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3"
@@ -4320,6 +4394,32 @@
       "duration_ms": 163832,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
+    },
+    {
+      "album": {
+        "name": "Kaboom (feat. Maikki)",
+        "url": "https://open.spotify.com/album/1XpDYJLv3xTZHHZIuZpplF"
+      },
+      "artists": [
+        {
+          "name": "Renaissance",
+          "url": "https://open.spotify.com/artist/2IhkOK8OITflaDHPkGOunx"
+        },
+        {
+          "name": "ONESOLO",
+          "url": "https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Kaboom (feat. Maikki)",
+      "url": "https://open.spotify.com/track/4EjKXV4n0OZ2DUkcFU0Pz7"
     },
     {
       "album": {
@@ -4938,7 +5038,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 170465,
       "name": "Love Is Techno",
       "url": "https://open.spotify.com/track/48bsnzGIKH0UIRvSSSA3L1"
@@ -5118,6 +5218,28 @@
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
+    },
+    {
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/0BBJeh8FNbTA7SrZ46lnwL"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182892,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/3XDMzgyn93dezeGvfWG0Ov"
     },
     {
       "album": {
@@ -5412,7 +5534,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183967,
       "name": "Monster - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/27vl3TEItJk29fllQ3LD9V"
@@ -5474,7 +5596,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
@@ -6784,7 +6906,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 131400,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7DdRHtOmjYHhOglkxxHFRT"
@@ -7705,6 +7827,36 @@
     },
     {
       "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/72rd2BuA02ostVJFBP8RNl"
+      },
+      "artists": [
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "AMBERLIND",
+          "url": "https://open.spotify.com/artist/0g5HtpcRYsOQKGocoiZPjr"
+        },
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148503,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/736pytC97qVeEMqHkKv5Rd"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/7zlXRLMuLPoYOQwPLrtvsj"
       },
@@ -8152,7 +8304,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 130539,
       "name": "Snack",
       "url": "https://open.spotify.com/track/3hsvgP3uE8WoehQzf6fTBx"

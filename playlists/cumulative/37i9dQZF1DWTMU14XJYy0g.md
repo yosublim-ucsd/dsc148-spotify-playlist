@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: El Plan De La Mariposa.
+> Más vivo que nunca, más nuestro que siempre\. Foto: Airbag
 
-338 songs - 21 hr 0 min
+339 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 | 2023-08-25 | 2024-08-17 |
 | [Buena Pipa](https://open.spotify.com/track/1fohzzs0G5mDdAmNoVHq4d) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 4:05 | 2023-09-08 | 2023-09-27 |
 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 | 2022-06-24 | 2023-09-21 |
-| [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 | 2024-04-12 |  |
+| [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 | 2024-04-12 | 2025-01-10 |
 | [Buena Vida](https://open.spotify.com/track/0m4uBVdlN7w7UF3EUwl5p1) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Buena Vida](https://open.spotify.com/album/0xp6ySI30uaOndjR1oX4qx) | 2:18 | 2024-12-20 |  |
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [C.R.A.S.H.N.E.B.U.L.A](https://open.spotify.com/track/4f6W5leSBoW1EmfpuyTSr7) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Duotone](https://open.spotify.com/album/7D9rYWfKsvyLjijCWn3Zow) | 8:12 | 2024-12-27 |  |
@@ -142,6 +142,7 @@
 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 | 2024-05-10 |  |
 | [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 | 2024-04-27 |
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
+| [Hay Un Tirano Que Es para Vos](https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/album/6iQsETOWDbUaRrvnoIKXL9) | 4:03 | 2025-01-09 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Himno de Mi Corazón](https://open.spotify.com/track/34IdqsIJU7LvCOZbxMkmdt) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Himno de Mi Corazón](https://open.spotify.com/album/486m3Z1LXcVvDl3uRZNE38) | 4:11 | 2023-12-08 | 2024-11-23 |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 | 2024-09-13 |

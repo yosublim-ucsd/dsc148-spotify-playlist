@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Bad Bunny",
+  "description": "Tous les hits latino du moment sont ici. Photo : Daddy Yankee",
   "name": "Caliente",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
+    },
+    {
+      "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "album": {
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"

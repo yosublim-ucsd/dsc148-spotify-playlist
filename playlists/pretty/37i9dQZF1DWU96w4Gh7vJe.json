@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 576915,
+  "num_followers": 576952,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,18 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
+        "name": "What U Need",
+        "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
       },
       "artists": [
         {
-          "name": "Lipip",
-          "url": "https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2"
-        },
-        {
-          "name": "Asiong De Luna",
-          "url": "https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW"
-        },
-        {
-          "name": "esseca",
-          "url": "https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr"
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
         }
       ],
-      "duration_ms": 259569,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
+      "duration_ms": 169565,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -703,18 +695,26 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "What U Need",
-        "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
       "artists": [
         {
-          "name": "Justin Vasquez",
-          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+          "name": "Lipip",
+          "url": "https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2"
+        },
+        {
+          "name": "Asiong De Luna",
+          "url": "https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW"
+        },
+        {
+          "name": "esseca",
+          "url": "https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr"
         }
       ],
-      "duration_ms": 169565,
-      "name": "What U Need",
-      "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
+      "duration_ms": 259569,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
     },
     {
       "added_at": "2024-12-16 05:11:53",

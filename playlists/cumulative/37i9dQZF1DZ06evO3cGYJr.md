@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 39 min
+55 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Evelyne](https://open.spotify.com/track/00BJEkcmSmHb1vDquJbWc0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Evelyne](https://open.spotify.com/album/75ugIcYphd6hEbEICzLwIO) | 3:17 | 2024-12-14 |  |
 | [Eyes](https://open.spotify.com/track/0YnyPvMnShXzMVFG5oCabe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 | 2024-12-14 |  |
 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 | 2024-12-14 |  |
-| [Feel Alive](https://open.spotify.com/track/5OabzNT40lkFdWNwuzx4EW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:51 | 2024-12-14 | 2024-12-20 |
+| [Feel Alive](https://open.spotify.com/track/5OabzNT40lkFdWNwuzx4EW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:51 | 2024-12-14 |  |
 | [Filter](https://open.spotify.com/track/4PafYT8SHOTEGag0tLgglQ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 2:53 | 2024-12-14 |  |
 | [Fool \- 2021 Version](https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [w.hateverm](https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:01 | 2024-12-14 | 2025-01-06 |
 | [fragments of your presence](https://open.spotify.com/track/0mYw7Se3zNLlTVQwwWrCdq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [fragments of your presence](https://open.spotify.com/album/1dv9nkQRXLJOwLShUvxuiP) | 2:52 | 2024-12-14 |  |
@@ -45,6 +45,7 @@
 | [Need to know \(interlude\)](https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs) | 2:17 | 2024-12-14 |  |
 | [nine forty\-five](https://open.spotify.com/track/2QgWTuCGjygT6O6EpTBqqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-14 |  |
 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 | 2024-12-14 |  |
+| [Outlaw \- 2021 Version](https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:40 | 2025-01-10 |  |
 | [Racing](https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:39 | 2025-01-07 |  |
 | [Racing](https://open.spotify.com/track/6TkXn1xvss49UOIWT5MTRG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:39 | 2024-12-14 | 2025-01-07 |
 | [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 | 2025-01-06 |  |
@@ -59,8 +60,8 @@
 | [Temporary Forever](https://open.spotify.com/track/4wr5A8NEiMN2ZjFXD7ZxUh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:56 | 2024-12-14 |  |
 | [The End of the World As We Know](https://open.spotify.com/track/3NQr6KHpxUEpT4OKQccgfM) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [GARAGE MEMORY: HALCYON PT\. II](https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av) | 5:32 | 2024-12-14 |  |
 | [This Far](https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:00 | 2024-12-14 |  |
-| [Time To Spare](https://open.spotify.com/track/6OMHX8v3S3P8fEEAWXx3ne) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-19 |  |
+| [Time To Spare](https://open.spotify.com/track/6OMHX8v3S3P8fEEAWXx3ne) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-19 | 2025-01-10 |
 | [Wings!!!](https://open.spotify.com/track/6gPt5C0jGGI97i7TzxHrOg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Wings!!!](https://open.spotify.com/album/3JQhE583coEBImqn82h1Du) | 3:42 | 2024-12-14 |  |
-| [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 | 2024-12-14 |  |
+| [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 | 2024-12-14 | 2025-01-10 |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

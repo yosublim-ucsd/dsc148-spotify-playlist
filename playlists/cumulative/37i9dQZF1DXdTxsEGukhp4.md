@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Kvi Baba
 
-470 songs - 1 day 2 hr 57 min
+471 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 | 2024-02-15 | 2024-04-19 |
 | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 | 2024-04-18 |  |
 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 | 2024-01-18 | 2024-04-02 |
-| [MOTTAI](https://open.spotify.com/track/59kkHKD21U2A0zoQwkq2Kd) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:41 | 2024-04-01 |  |
+| [MOTTAI](https://open.spotify.com/track/59kkHKD21U2A0zoQwkq2Kd) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:41 | 2024-04-01 | 2025-01-10 |
 | [Motto](https://open.spotify.com/track/1Y6YzmcAplb3PJVql7vHd4) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [May Dream](https://open.spotify.com/album/5b4Ch2PIXd1p3ve5CT1nYk) | 4:50 | 2023-06-29 | 2023-08-18 |
 | [Mrs\. Right](https://open.spotify.com/track/4N4CHJqFZHyB7SBUuSFu1y) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA), [Diggy Simmons](https://open.spotify.com/artist/28ABOA2akZrXN9kQpqwvVg) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 4:08 | 2023-02-16 | 2023-03-31 |
 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 | 2023-08-01 | 2023-09-02 |
@@ -331,6 +331,7 @@
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-26 | 2023-02-10 |
 | [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 | 2024-11-01 |  |
 | [もう恋なんてしない \- 2012 Remaster](https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 4:33 | 2023-09-14 | 2023-12-15 |
+| [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 | 2025-01-09 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-27 | 2023-09-02 |
 | [アスファルト](https://open.spotify.com/track/2AY2OGoQXTbMfabn4otEnG) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [アスファルト](https://open.spotify.com/album/4HI9ukQpXnLrZQFvFWtVF7) | 2:49 | 2024-04-18 | 2024-04-26 |
 | [アドベンチャー](https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドベンチャー](https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi) | 3:19 | 2023-02-16 | 2023-03-31 |

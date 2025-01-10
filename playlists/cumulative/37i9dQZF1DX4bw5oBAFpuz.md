@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-504 songs - 1 day 5 hr 1 min
+506 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-17 | 2023-12-30 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2023-02-23 |  |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2023-02-23 |  |
-| [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 |  |
+| [Greatest Hits \- Acoustic](https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/50Bra1PwyvsuYrsYVAY0fc) | 3:23 | 2024-11-08 | 2025-01-10 |
 | [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 | 2024-01-29 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-11-04 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2023-02-23 |  |
@@ -331,6 +331,7 @@
 | [Playlist](https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:19 | 2024-03-21 | 2024-04-19 |
 | [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 | 2024-11-08 |  |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 | 2024-05-31 | 2024-12-21 |
+| [Put A Little Hurt On Me](https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 2:47 | 2025-01-09 |  |
 | [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 | 2024-02-27 |
 | [Queen Of Elba](https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT) | 3:57 | 2024-04-11 |  |
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2024-03-19 |  |
@@ -379,7 +380,7 @@
 | [Slave To The Music](https://open.spotify.com/track/5IZznaqrDUgDWXYcjBxgCV) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [The Awakening](https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN) | 3:23 | 2023-02-23 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2023-02-23 | 2024-03-27 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-11-04 |  |
-| [SNAP](https://open.spotify.com/track/0yhcyd1iJHUPMBzufc6SiF) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:59 | 2024-12-20 |  |
+| [SNAP](https://open.spotify.com/track/0yhcyd1iJHUPMBzufc6SiF) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:59 | 2024-12-20 | 2025-01-10 |
 | [So Good To Me \- Radio Edit](https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me](https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD) | 2:38 | 2023-02-23 |  |
 | [so i let you \(15th of june \- evening\)](https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [so i let you \(15th of june \- evening\)](https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h) | 3:19 | 2024-04-11 |  |
 | [So Maybe](https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [So Maybe](https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F) | 2:56 | 2023-02-23 | 2024-08-06 |
@@ -396,6 +397,7 @@
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-26 |  |
 | [Starship Fantasy](https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd) | [Christian Kratzsch](https://open.spotify.com/artist/3c8IBhwIzheO7S7AfMfNqt), [Vinny G.](https://open.spotify.com/artist/7vN5IWvscJYNUzlNEBUZDL) | [Starship Fantasy](https://open.spotify.com/album/45ac94aq4QwSvQ0Q5DotFO) | 3:10 | 2023-04-25 |  |
 | [Start Again](https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Start Again](https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O) | 3:37 | 2023-02-23 |  |
+| [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2025-01-09 |  |
 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 | 2024-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-03-21 | 2024-04-19 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2024-03-26 | 2024-09-25 |

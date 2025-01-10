@@ -2,9 +2,9 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Current indie tunes from Asia and around the world\. Cover: Club 8
+> Current indie tunes from Asia and around the world\. Cover: Franz Ferdinand
 
-1,948 songs - 4 day 21 hr 13 min
+1,955 songs - 4 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2022-12-16 | 2023-01-28 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-05-26 | 2022-06-25 |
 | [BLONDE](https://open.spotify.com/track/75N877K375q1iE3S1mEcHB) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [BLONDE](https://open.spotify.com/album/1fObqVmcM8zZFZg4Jr8VzH) | 2:57 | 2022-03-24 | 2022-04-08 |
+| [Blondie](https://open.spotify.com/track/6LAxNhtgLMtn22KdC2d9QY) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Blondie](https://open.spotify.com/album/6gZzERVr69PE2bYngpD4w6) | 3:24 | 2025-01-10 |  |
 | [Blood And Butter](https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Blood And Butter](https://open.spotify.com/album/3dedSM3XVmO5P5cSxXdU7K) | 4:27 | 2023-02-03 | 2023-02-18 |
 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2024-11-22 |  |
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-04-21 | 2023-06-10 |
@@ -561,6 +562,7 @@
 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-04-28 | 2024-06-07 |
 | [Fangs and Blood](https://open.spotify.com/track/7MFcx5levoqurJ5vDC9pkd) | [Dogwhine](https://open.spotify.com/artist/1FSgtpQxpDGSudn1tzBN6K) | [Fangs and Blood](https://open.spotify.com/album/7052wlfYPMINz28nFqiRzn) | 5:26 | 2022-04-07 | 2022-04-15 |
 | [Fantasy](https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Fantasy](https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP) | 3:31 | 2023-12-06 | 2024-02-16 |
+| [Fanzine Made Of Flesh](https://open.spotify.com/track/2hS2ztz2o1CEd1zWCz09HM) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Fanzine Made of Flesh](https://open.spotify.com/album/2xqnlP610pBeKmgIlVfRpJ) | 4:34 | 2025-01-10 |  |
 | [Fare Thee Well My Dearest Dear](https://open.spotify.com/track/13PyP4V5A44QVPlLZ9a2wk) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Archangel Hill](https://open.spotify.com/album/3D1ay6vbbFAhpaZcDnKFDp) | 3:16 | 2023-05-26 | 2023-07-01 |
 | [Faultline](https://open.spotify.com/track/0wssiCpBengvOADco2G3GI) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Faultline](https://open.spotify.com/album/2ivM0FlRjtPUuLcHNh64MK) | 4:11 | 2021-12-16 | 2022-01-29 |
 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 | 2022-01-20 | 2022-04-01 |
@@ -772,6 +774,7 @@
 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 | 2024-02-08 | 2024-03-31 |
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-05-31 | 2024-07-05 |
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-09-02 | 2024-10-05 |
+| [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-10 |  |
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-28 | 2023-06-10 |
 | [Hopelessly In Love](https://open.spotify.com/track/6v9aa1FPwDYW34YIbDsDaF) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Hopelessly In Love](https://open.spotify.com/album/6kk6khyB7eI5Rc1VKM0fZv) | 2:46 | 2024-11-08 |  |
 | [Hoping](https://open.spotify.com/track/6HkIp5X5kfiMTF5RcFrlVn) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [From Capelton Hill](https://open.spotify.com/album/62FBD0LfoeSsvII9n3YeMo) | 3:18 | 2022-05-26 | 2022-06-25 |
@@ -1246,6 +1249,7 @@
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-26 | 2023-06-18 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-16 | 2023-07-01 |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-26 | 2024-09-28 |
+| [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-10 |  |
 | [Oscillating In Imaginary Butterflies](https://open.spotify.com/track/0lukljBfDuvj3I1HPe5zIE) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Oscillating In Imaginary Butterflies](https://open.spotify.com/album/5uMwDNV9ZIhzUCiofmqXMM) | 1:07 | 2023-05-05 | 2023-06-10 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-08-12 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 | 2022-09-23 |
@@ -1407,6 +1411,7 @@
 | [RunRun](https://open.spotify.com/track/1SBlTvVNZ4UeKHVKWW91sx) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 2:46 | 2022-08-04 | 2022-08-27 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-12-16 | 2022-02-18 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2024-11-16 |
+| [S.N.C](https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [S.N.C](https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj) | 5:55 | 2025-01-10 |  |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-24 | 2022-04-08 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2023-10-21 |
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-18 | 2023-09-01 |
@@ -1706,6 +1711,7 @@
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 | 2023-02-18 |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-19 | 2024-09-14 |
 | [The World Is Full of Strangers](https://open.spotify.com/track/5gplTfUC3mOQPNFjdsnqNH) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Making Money \(4AD B\-Sides and Rarities\)](https://open.spotify.com/album/7y9ILmRJUNgwYj1MMmWD9P) | 3:08 | 2022-05-12 | 2022-06-25 |
+| [the world is so small](https://open.spotify.com/track/6vNFrDK6pAhZQHvJRrURAe) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [the world is so small](https://open.spotify.com/album/3nVxQBsLWZfRABwkMG6zsL) | 4:02 | 2025-01-10 |  |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-07-30 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-09-01 | 2022-10-29 |
 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-13 | 2022-01-29 |
@@ -1936,6 +1942,7 @@
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-06-09 | 2023-07-07 |
 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2021-12-16 | 2022-01-21 |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-14 | 2023-06-17 |
+| [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 |  |
 | [Your Room](https://open.spotify.com/track/1Ys4oRpVBdVoU0VxSghpVa) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Your Room](https://open.spotify.com/album/2NE4Oqe55M7rQW7i2FMvzl) | 3:21 | 2023-07-21 | 2023-08-26 |
 | [Yours](https://open.spotify.com/track/49pMAJwZxDKFo4yquBV8wS) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Yours](https://open.spotify.com/album/2HO2vf7krlDq7MFPsx5c8F) | 4:11 | 2022-02-17 | 2022-04-01 |
 | [Yêu Nhất \(feat\. RPT PhongKhin\)](https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo), [RPT PhongKhin](https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc) | [Yêu Nhất](https://open.spotify.com/album/31sXIpSQbyU0OcIEHXCMBF) | 2:37 | 2022-04-07 | 2022-04-29 |

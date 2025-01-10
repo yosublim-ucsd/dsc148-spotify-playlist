@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,127 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,143 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
 | 50 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 |
 
-Snapshot ID: `Z3xugAAAAABfd5OCzhgJM11qd1G1UkWa`
+Snapshot ID: `Z33AAAAAAACz2XW1MdyRh996iCZfAAl6`

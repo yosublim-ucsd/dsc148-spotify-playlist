@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,975 likes - 75 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,998 likes - 75 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 64 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 65 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
 | 66 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
-| 67 | [Pull Up](https://open.spotify.com/track/7pIeTocmZUoqW9HWakeWSI) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Pull Up](https://open.spotify.com/album/4AzsiPM6LkbOdGy8FR9wlE) | 2:32 |
-| 68 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
+| 67 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
+| 68 | [Pull Up](https://open.spotify.com/track/7pIeTocmZUoqW9HWakeWSI) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Pull Up](https://open.spotify.com/album/4AzsiPM6LkbOdGy8FR9wlE) | 2:32 |
 | 69 | [Under The Influence \(Jersey Club\)](https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [DJ Taj](https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY) | [Under The Influence \(Jersey Club\)](https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp) | 2:19 |
 | 70 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 71 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |

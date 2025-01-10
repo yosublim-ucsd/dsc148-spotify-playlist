@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Bad Bunny
 
-695 songs - 1 day 14 hr 30 min
+696 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-26 | 2022-11-04 |
 | [KIKI](https://open.spotify.com/track/30fCM2GlTrfuUmbykt5kKV) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [KIKI](https://open.spotify.com/album/7By5G1IIwAeDDfkznZq8u5) | 2:55 | 2023-06-23 | 2023-07-12 |
 | [Kilerito](https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Kilerito](https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm) | 3:45 | 2024-04-22 | 2024-09-24 |
+| [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 | 2025-01-09 |  |
 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 | 2024-03-22 | 2024-04-05 |
 | [Kylie](https://open.spotify.com/track/0kEzXFFV67dHKCy2gcwom2) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4) | [Kylie](https://open.spotify.com/album/5saw6V2HHmKicxJ6tuBgK8) | 4:04 | 2024-08-05 | 2024-09-10 |
 | [KÁRMIKA](https://open.spotify.com/track/3mFNc5EQn30irR983Wg9OD) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:56 | 2023-02-24 | 2023-04-11 |
@@ -481,7 +482,7 @@
 | [Perreándote](https://open.spotify.com/track/4cDQww3uOWSzIsFuomZbi0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Perreándote](https://open.spotify.com/album/4e5N2epYMuOoWDu11UrkwV) | 3:26 | 2023-02-28 | 2023-04-11 |
 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 | 2023-10-13 | 2024-04-23 |
 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 | 2024-06-27 | 2024-07-13 |
-| [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-12-02 |  |
+| [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-12-02 | 2025-01-10 |
 | [Piedritas En Los Dientes](https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Piedritas En Los Dientes](https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A) | 2:36 | 2023-08-04 | 2023-08-22 |
 | [Piel de Cordero](https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf) | 3:33 | 2022-07-26 | 2022-11-15 |
 | [Piel de Cordero](https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH) | 3:33 | 2022-02-10 | 2022-07-29 |

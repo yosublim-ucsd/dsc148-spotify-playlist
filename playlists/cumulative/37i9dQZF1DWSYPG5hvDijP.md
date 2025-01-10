@@ -2,7 +2,7 @@
 
 ### [New Rap Hindi](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover: Farhan Khan
+> Taaza Hip Hop Hindi\. Cover: Farhan Khan
 
 650 songs - 1 day 8 hr 57 min
 

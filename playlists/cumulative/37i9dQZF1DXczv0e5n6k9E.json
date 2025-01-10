@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Bossikan",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Dirty Harry ",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -1873,6 +1873,32 @@
     },
     {
       "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/7yviWP3S1VUzDFHaokxFGd"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Dj Paris",
+          "url": "https://open.spotify.com/artist/2SPcc674zxWa2igyUZCASd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "FAST LIFE",
+      "url": "https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp"
+    },
+    {
+      "album": {
         "name": "Fernw Trap",
         "url": "https://open.spotify.com/album/1QOASIAga97R98RB7aHM6r"
       },
@@ -2225,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Gia Na Gemiso To Piatto",
+        "url": "https://open.spotify.com/album/1Vu8D3m1OMkJI9RMILxrjc"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Gia Na Gemiso To Piatto",
+      "url": "https://open.spotify.com/track/5Z0KerziePqaj1Z7BiuWCC"
+    },
+    {
+      "album": {
         "name": "GIA SENA",
         "url": "https://open.spotify.com/album/7KXUrhBDgWGARi4ehXKTFM"
       },
@@ -2416,7 +2460,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151125,
       "name": "HELLO KITTY",
       "url": "https://open.spotify.com/track/0gfgnxJBDGfKWUf4pSVbtE"
@@ -2464,7 +2508,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226595,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
@@ -3245,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "LV",
+        "url": "https://open.spotify.com/album/6bPFRDMVItr8507RKDZq2r"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155604,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/4f4x3kOLWIEn274ynz5Fh4"
+    },
+    {
+      "album": {
         "name": "EGO THERAPY",
         "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
       },
@@ -3264,7 +3326,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -3779,6 +3841,28 @@
     },
     {
       "album": {
+        "name": "Napalm",
+        "url": "https://open.spotify.com/album/42wXZ455NS0XxFT7mH6M0M"
+      },
+      "artists": [
+        {
+          "name": "Pindos Atletico",
+          "url": "https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck"
+        },
+        {
+          "name": "Half Quickie",
+          "url": "https://open.spotify.com/artist/1sVr6APAAM9iJKccymeKwg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Napalm",
+      "url": "https://open.spotify.com/track/33drGybPLf91WVPj6dj2yx"
+    },
+    {
+      "album": {
         "name": "NEGAN",
         "url": "https://open.spotify.com/album/4ZoFf16ze8cPPMnPrt5Ato"
       },
@@ -3846,6 +3930,24 @@
       "duration_ms": 147840,
       "name": "NO COMPETITION",
       "url": "https://open.spotify.com/track/4eVLHEcnNHs8F21hmF3Smq"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/0bTE9qjXIHrX9swhkMGGvi"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/51Tml3ct9q8cSQsegHWpdt"
     },
     {
       "album": {
@@ -4760,7 +4862,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233009,
       "name": "Romanzo Criminale",
       "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
@@ -5268,7 +5370,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 148571,
       "name": "TANAPU",
       "url": "https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP"
@@ -5448,7 +5550,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190129,
       "name": "Trap",
       "url": "https://open.spotify.com/track/4TzuhUQ81vpZAs5V3Yk0Wi"
@@ -5713,6 +5815,28 @@
     },
     {
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/5NTyi9fUg3xexp8sa5plfL"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153722,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/1MzSOhTWEPzy18WT0hzcK9"
+    },
+    {
+      "album": {
         "name": "VLEMMA",
         "url": "https://open.spotify.com/album/7JQtiXFRV1UvS21AIPkOf4"
       },
@@ -5970,6 +6094,28 @@
       "duration_ms": 186437,
       "name": "Year Two",
       "url": "https://open.spotify.com/track/2r3QYEBTNxw0WJ51601l9l"
+    },
+    {
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/0H2OcU8iHmCb4MAeICINxZ"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/6meGnEPDmxdQR8fFflL4HK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E"

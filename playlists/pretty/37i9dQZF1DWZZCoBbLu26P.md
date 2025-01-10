@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,753 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,758 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 11 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 |
 | 12 | [Break Up Bye Bye \- Frock Destroyers Version](https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS) | [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc), [Frock Destroyers](https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1) | [Break Up Bye Bye \(Frock Destroyers Version\)](https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6) | 2:31 |
 | 13 | [Hello Hello](https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:36 |
-| 14 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
-| 15 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
+| 14 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
+| 15 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
 | 16 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
 | 17 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
 | 18 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 28 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 29 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
 | 30 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
-| 31 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |
-| 32 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 31 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 32 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |
 | 33 | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3) | 3:25 |
 | 34 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 35 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 |

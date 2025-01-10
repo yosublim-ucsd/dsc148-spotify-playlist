@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-75 songs - 3 hr 46 min
+76 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2023-07-13 |  |
 | [Crown Chakra](https://open.spotify.com/track/7e4VVEtuJaR31tAihmuASY) | [J.S\. Epperson](https://open.spotify.com/artist/6TszRl42IkrELc7p9a611Y) | [Splendor \(432hz Chakra Meditations\)](https://open.spotify.com/album/5zq3f6Cdg9rDBXnx6WwvsH) | 9:00 | 2023-07-13 | 2023-12-01 |
 | [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2023-07-13 | 2023-12-01 |
-| [Crown Chakra \- Higher Spirit](https://open.spotify.com/track/3bag1Rn2GUjhY3bWqhLCrK) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg) | [Chakra Healing](https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O) | 7:39 | 2023-07-13 |  |
+| [Crown Chakra \- Higher Spirit](https://open.spotify.com/track/3bag1Rn2GUjhY3bWqhLCrK) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg) | [Chakra Healing](https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O) | 7:39 | 2023-07-13 | 2025-01-10 |
 | [Crown Chakra Sahasrara Balancer](https://open.spotify.com/track/1ay4icpyVLgldNG8FbuhUA) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 2:06 | 2023-07-13 |  |
 | [Crown Chakra Singing Bowl](https://open.spotify.com/track/3rGpsgObsOHHO5pCG6t4r6) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:30 | 2023-07-13 |  |
 | [Crown Solfeggio 963 Hz](https://open.spotify.com/track/7EFfT9fSZNRjHHHOMaVpkJ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:50 | 2023-11-30 |  |
@@ -66,11 +66,12 @@
 | [oneness 963 Hz](https://open.spotify.com/track/7E2SLBUBKXxlaDfLgjfGVC) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:44 | 2023-07-13 |  |
 | [Orange Waves 963 hz](https://open.spotify.com/track/7puC3J72XiYjIrlAPsg4YP) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:40 | 2023-07-13 |  |
 | [Point Cabrillo](https://open.spotify.com/track/7BMhMh3hJl6zbduaOg963j) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Point Cabrillo](https://open.spotify.com/album/7JBETB6yPPZKETdNJZi3dy) | 3:10 | 2023-07-13 |  |
-| [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-07-13 |  |
+| [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-07-13 | 2025-01-10 |
 | [Sahasrara](https://open.spotify.com/track/3LQ5r6MRxZExt0yPNlrE1X) | [Fred Westra](https://open.spotify.com/artist/3xoBnkqEXHqY8Kl6s2oWHG) | [Your Inner Truth](https://open.spotify.com/album/03t6k8klrxcAPZeRcZl9hK) | 4:23 | 2023-07-13 |  |
 | [Sahasrara](https://open.spotify.com/track/4hWbarYpaaoocu6cBABwyP) | [Mirjam van der Beek](https://open.spotify.com/artist/6jZqatz7q7xZsu3yFNPVeo) | [Singing Bowls Chakra Healing](https://open.spotify.com/album/6PmChvlXD2EG17H2cCqm49) | 4:03 | 2023-07-13 |  |
 | [Schumann 432\-7 Crown Chakra](https://open.spotify.com/track/38VUED3x2xdXRyTTX3mscG) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:59 | 2023-07-13 | 2023-12-01 |
 | [settledown](https://open.spotify.com/track/3BI9RpTqlOwDWtd07DwwTG) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [eight gates](https://open.spotify.com/album/4Am2qvDvSMGEsezSLsUH0z) | 2:43 | 2023-07-13 |  |
+| [Seven Dimensions \- 963Hz](https://open.spotify.com/track/7hNQgBNm55Ot40FuRA0KRZ) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Seven Dimensions \- 963Hz](https://open.spotify.com/album/4iuAqV1cfUjjoxCG9HZspl) | 2:50 | 2025-01-09 |  |
 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 | 2023-07-13 |  |
 | [Solfeggio Frequencies 963 Hz](https://open.spotify.com/track/2gHFh7SkAwBy3ORnk3TCqv) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [963 Hz Returning to Oneness](https://open.spotify.com/album/4sOv6RfJastljQWgYeLFzW) | 2:38 | 2023-07-13 |  |
 | [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 | 2024-05-11 |  |

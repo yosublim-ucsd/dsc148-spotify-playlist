@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa KIKI.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Karim B ja TUULI.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Ajatuksissani",
+        "url": "https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Music Group",
+          "url": "https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183546,
+      "name": "Ajatuksissani",
+      "url": "https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1"
+    },
+    {
+      "album": {
         "name": "Ake, Make, Pera ja m\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/5w3ICiuxlbWZW2ksy66Aog"
       },
@@ -368,7 +386,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 253301,
       "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
       "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195573,
       "name": "Autiomaa",
       "url": "https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 189080,
       "name": "Ennen kun s\u00e4 meet",
       "url": "https://open.spotify.com/track/2MKR7OmHQ2NoqhFbl4tdmZ"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184434,
       "name": "Ensimm\u00e4inen rodeo",
       "url": "https://open.spotify.com/track/63bOA2aqFlPVof4vsRgClw"
@@ -1424,6 +1442,24 @@
       "duration_ms": 167720,
       "name": "Hei kuski (feat. Elias Gould)",
       "url": "https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ"
+    },
+    {
+      "album": {
+        "name": "Hitaammin hautaan",
+        "url": "https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178457,
+      "name": "Hitaammin hautaan",
+      "url": "https://open.spotify.com/track/56gErvTUBhx82XqEauET28"
     },
     {
       "album": {
@@ -2090,6 +2126,24 @@
       "duration_ms": 181417,
       "name": "J\u00e4rvi",
       "url": "https://open.spotify.com/track/1VU75DWLqlY0htSemLfXHL"
+    },
+    {
+      "album": {
+        "name": "J\u00e4t\u00e4 mut",
+        "url": "https://open.spotify.com/album/0EhOeNcSFPOFwHCWeE4R36"
+      },
+      "artists": [
+        {
+          "name": "Mariska",
+          "url": "https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208483,
+      "name": "J\u00e4t\u00e4 mut",
+      "url": "https://open.spotify.com/track/4uzfJQ2P4m9fClDGixOTUx"
     },
     {
       "album": {
@@ -2806,6 +2860,24 @@
       "duration_ms": 211687,
       "name": "Kukapa ei",
       "url": "https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau"
+    },
+    {
+      "album": {
+        "name": "Kuningasidea",
+        "url": "https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW"
+      },
+      "artists": [
+        {
+          "name": "Kuningasidea",
+          "url": "https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205740,
+      "name": "Kuningasidea",
+      "url": "https://open.spotify.com/track/3bmM0j4a1IstLoo09CX75d"
     },
     {
       "album": {
@@ -3633,6 +3705,36 @@
     },
     {
       "album": {
+        "name": "Mieti mit\u00e4 s\u00e4 teet",
+        "url": "https://open.spotify.com/album/6zEQv7lCTAOzvVnbGzZ37w"
+      },
+      "artists": [
+        {
+          "name": "RODEO",
+          "url": "https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ"
+        },
+        {
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+        },
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230096,
+      "name": "Mieti mit\u00e4 s\u00e4 teet",
+      "url": "https://open.spotify.com/track/7iyaHDzzroBgzYahnMSPFI"
+    },
+    {
+      "album": {
         "name": "MILJON\u00c4\u00c4RI",
         "url": "https://open.spotify.com/album/7yOYxbuq2YIpgMfB8bW1o7"
       },
@@ -3648,6 +3750,24 @@
       "duration_ms": 174014,
       "name": "MILJON\u00c4\u00c4RI",
       "url": "https://open.spotify.com/track/7qt5YH5RsODXqq5q8k0ijJ"
+    },
+    {
+      "album": {
+        "name": "Miljoona",
+        "url": "https://open.spotify.com/album/1sXCFKPdwPZAAQh79Vthrz"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160619,
+      "name": "Miljoona",
+      "url": "https://open.spotify.com/track/4c6GQUHarKXDAzcUxTg7bH"
     },
     {
       "album": {
@@ -4246,7 +4366,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 181308,
       "name": "Odota Remix",
       "url": "https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq"
@@ -4678,7 +4798,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 175208,
       "name": "Pikatie",
       "url": "https://open.spotify.com/track/4XGR0bFoP8VPNOSCd3PnrM"
@@ -4884,7 +5004,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 166440,
       "name": "P\u00e4\u00e4henkil\u00f6",
       "url": "https://open.spotify.com/track/0GAhnbTVdovWR7jeYtmrba"
@@ -5442,7 +5562,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 214866,
       "name": "Se Mit\u00e4 S\u00e4 Oot",
       "url": "https://open.spotify.com/track/4NvEbMve0zfhiOcGWQS4hA"
@@ -6088,7 +6208,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169534,
       "name": "Talviuni",
       "url": "https://open.spotify.com/track/1g1SPkB4o2RYpoHrD6TNjA"
@@ -6158,6 +6278,24 @@
       "duration_ms": 212688,
       "name": "The Islander (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/78qcak7x9dVCapzlxt0yDG"
+    },
+    {
+      "album": {
+        "name": "Tili tuli, tili meni",
+        "url": "https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153628,
+      "name": "Tili tuli, tili meni",
+      "url": "https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX"
     },
     {
       "album": {
@@ -6588,7 +6726,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193549,
       "name": "T\u00e4ysikuu",
       "url": "https://open.spotify.com/track/6S6puJe1fAQf6jo7fSbi8Y"
@@ -6972,7 +7110,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191020,
       "name": "Viimeinen kuulutus",
       "url": "https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7"
@@ -7088,7 +7226,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197786,
       "name": "Virheist\u00e4 t\u00e4rkein",
       "url": "https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu"

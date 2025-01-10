@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Noh Salleh
 
-604 songs - 1 day 13 hr 59 min
+605 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2024-01-24 | 2024-10-10 |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-08-08 |  |
 | [Angkasa](https://open.spotify.com/track/0RH4euHK2FHSgoMA8bzi7V) | [Diandra Arjunaidi](https://open.spotify.com/artist/5K8T2JyTGWyELw74e8JMPD) | [Diandra Arjunaidi \- EP](https://open.spotify.com/album/4N65Gs3WBxCBDwUpKaXMBb) | 4:13 | 2024-01-24 | 2024-03-14 |
-| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi](https://open.spotify.com/artist/2T8TMZQUb7ZnI7Hd8nNmlR) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-01-08 |  |
+| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi Fly](https://open.spotify.com/artist/7mD52v53akklSZpbv10j4s) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-01-08 |  |
 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 | 2024-12-25 |  |
 | [Anyam Kayangan \- From "Kayangan"](https://open.spotify.com/track/6PaIOQqdA0qJRauamRUGQq) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Anyam Kayangan \(From "Kayangan"\)](https://open.spotify.com/album/78Vy1J9ThMw9skDM21Fjm6) | 3:42 | 2024-10-23 | 2024-11-21 |
 | [Apa Artinya Aku](https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Apa Artinya Aku](https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP) | 4:02 | 2024-12-18 |  |
@@ -177,6 +177,7 @@
 | [Gagal Bersembunyi](https://open.spotify.com/track/3uVXx4FZU0TawfkyQznFBr) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh), [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Gagal Bersembunyi](https://open.spotify.com/album/7a9TXUUA5It9Cv5uyrdoVJ) | 4:02 | 2023-06-28 | 2023-09-21 |
 | [Gala bunga matahari](https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:29 | 2024-07-24 | 2024-09-12 |
 | [Gambar Dan Kenangan](https://open.spotify.com/track/4wbrkz0CyQhMFVTXpGGwo8) | [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [Gambar Dan Kenangan](https://open.spotify.com/album/0agOzLYAiWUbo36rCzaEzy) | 4:35 | 2024-07-17 | 2024-08-15 |
+| [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 | 2025-01-09 |  |
 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 | 2022-08-04 |
 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 | 2023-10-04 | 2024-07-11 |
 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 | 2024-09-04 | 2024-09-26 |

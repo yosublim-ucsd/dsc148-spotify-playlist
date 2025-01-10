@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-279 songs - 20 hr 20 min
+280 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [رقم واحد في الجراح](https://open.spotify.com/track/0XgVRCUMm6hNjQuxMbkHPZ) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [رقم واحد في الجراح](https://open.spotify.com/album/50DzYdnPjLu83s33XW7dzc) | 3:03 | 2024-01-02 | 2024-04-19 |
 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 | 2024-04-22 |  |
 | [زمن](https://open.spotify.com/track/1NE0yaKgeucwaWvBbFOehu) | [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [زمن](https://open.spotify.com/album/3YXBs3n5PDf1rLjayi8C9Z) | 3:46 | 2023-02-16 | 2023-05-12 |
+| [زى الافاعى](https://open.spotify.com/track/5po2SgGLYfRtcd6Lqa70mZ) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [زى الافاعى](https://open.spotify.com/album/5a4RpOzIAk1gNrFKCPjpxx) | 4:17 | 2025-01-09 |  |
 | [سبع طبقات](https://open.spotify.com/track/6c0Yv0sPKts7NTP1O5iZKz) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [AMEENAH](https://open.spotify.com/artist/4CvhaDfMtFJGsnBcqZIrCA) | [سبع طبقات](https://open.spotify.com/album/5oeIXy0J7lQzsFZakpq5y3) | 3:29 | 2024-02-01 | 2024-02-23 |
 | [ست البنات \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7zdtpoc0FZHIhIGByD4bvP) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [ست البنات \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/2oxlsSucqhSky72BZ9Iff2) | 3:11 | 2024-01-26 | 2024-02-02 |
 | [ست الدار](https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr) | 2:35 | 2022-07-14 | 2023-05-12 |
@@ -246,7 +247,7 @@
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2022-02-01 |  |
 | [طابور الجدعنة](https://open.spotify.com/track/3ChHrwhRJ1eyqLTLNRNIGq) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [طابور الجدعنة](https://open.spotify.com/album/47MTnxgxWYp4aWPKIKTGeS) | 4:28 | 2021-12-16 | 2022-07-29 |
 | [طابور الجدعنة](https://open.spotify.com/track/5P6KYvgRmnGk4jMEk2w8Jf) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [طابور الجدعنة](https://open.spotify.com/album/2MR8813MfOxcLhTCKF1A9y) | 4:28 | 2022-07-14 | 2023-05-12 |
-| [طبع الرجال](https://open.spotify.com/track/28wr7LAUuC6z3jcsNEG7ud) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/3fNR0i4ribDgYFfuucdVvI) | 4:22 | 2021-12-16 |  |
+| [طبع الرجال](https://open.spotify.com/track/28wr7LAUuC6z3jcsNEG7ud) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/3fNR0i4ribDgYFfuucdVvI) | 4:22 | 2021-12-16 | 2025-01-10 |
 | [طبع الرجال](https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA) | 4:22 | 2022-07-14 | 2024-04-19 |
 | [عاش يا وحش](https://open.spotify.com/track/4HmbpWe6dQomZWJASOIez4) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [عاش يا وحش](https://open.spotify.com/album/6YcJiA7eS8bWIB2hPLj6Jy) | 3:54 | 2021-12-16 | 2022-07-24 |
 | [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-03 | 2023-06-07 |

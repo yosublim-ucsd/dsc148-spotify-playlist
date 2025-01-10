@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Tsew The Kid
+> Photo : Fredz
 
-70 songs - 3 hr 18 min
+72 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [DANS TES RUES](https://open.spotify.com/track/4vJdZc7ZbgKCH8YK8Ww7ML) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [DANS TES RUES](https://open.spotify.com/album/3hsBRFKDiYAtI7ckbRP7nH) | 2:25 | 2024-11-21 |  |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2024-07-18 |  |
 | [DOMMAGE](https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DOMMAGE](https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb) | 2:33 | 2024-06-20 | 2024-07-19 |
-| [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 | 2024-06-20 |  |
+| [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 | 2024-06-20 | 2025-01-10 |
 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 | 2024-06-20 | 2024-12-06 |
 | [DÉFILER](https://open.spotify.com/track/418PYoHwSC86tbCsrI0FW1) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [MYLNUI](https://open.spotify.com/album/1DzGhihFI8X8Bt4TAvlHzC) | 2:48 | 2024-12-05 |  |
 | [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 | 2024-06-20 | 2024-11-22 |
@@ -36,6 +36,7 @@
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-20 | 2024-12-06 |
 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 | 2024-06-20 | 2024-10-18 |
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-06-20 |  |
+| [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-09 |  |
 | [Joue le jeu](https://open.spotify.com/track/6yXEFxfrBRGooBzNMkUSV3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Joue le jeu](https://open.spotify.com/album/4ZsLmiGSWPRBEIBNPBUvNr) | 1:49 | 2024-11-07 |  |
 | [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 | 2024-07-19 |
 | [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 | 2024-11-22 |
@@ -55,8 +56,9 @@
 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 | 2024-06-20 | 2024-12-06 |
 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 | 2024-11-08 |
 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 | 2024-06-20 |  |
-| [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 | 2024-06-20 |  |
+| [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 | 2024-06-20 | 2025-01-10 |
 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 | 2024-06-20 |  |
+| [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 | 2025-01-09 |  |
 | [Pansement](https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Pansement](https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ) | 2:06 | 2024-06-20 | 2024-09-13 |
 | [PAS CHEZ MOI](https://open.spotify.com/track/5IBwwAbYOhgXoOu8CgeQAV) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [PAS CHEZ MOI](https://open.spotify.com/album/0LwEw2LjM9mEVbENVdQ3eE) | 2:56 | 2024-10-17 |  |
 | [Petite Geek](https://open.spotify.com/track/6AuSytl7mxC6qM9ObcxJHO) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Petite Geek](https://open.spotify.com/album/2ol7vjjSEBz5IUxMvyiySL) | 2:16 | 2024-06-20 |  |

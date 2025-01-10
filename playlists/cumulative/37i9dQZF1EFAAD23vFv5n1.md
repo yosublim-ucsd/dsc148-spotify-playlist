@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 6 hr 26 min
+139 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,11 @@
 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 | 2024-05-19 |  |
 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 | 2024-04-29 |  |
 | [Crocefisso](https://open.spotify.com/track/1QcuCNj4hNFyRNaqvazuSN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:54 | 2024-04-29 |  |
+| [Danni](https://open.spotify.com/track/3KwoAuN6UEOUzWitQV27wy) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Danni](https://open.spotify.com/album/5vj96ceh2cnUVDKk8GsC8K) | 3:22 | 2025-01-09 |  |
 | [Direzione](https://open.spotify.com/track/11t5LWMbPP6uNxxw5mFzfh) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:53 | 2024-12-11 |  |
 | [Disobbedisco](https://open.spotify.com/track/4GvkPq3xIcX1UoAVMjGJVG) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Disobbedisco](https://open.spotify.com/album/4yhNHgYzSssaWqzRCgacgM) | 1:46 | 2024-04-29 |  |
 | [DNA](https://open.spotify.com/track/2MJAVrhgJRMK0ONG3N9vpv) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:09 | 2024-04-29 |  |
+| [Domenica](https://open.spotify.com/track/2lQGFIpD5MRghyrjW91LoR) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Domenica](https://open.spotify.com/album/6Lky0qtNKsTwtyBLFfS3Im) | 3:34 | 2025-01-09 |  |
 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 | 2024-04-29 |  |
 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 | 2024-04-29 |  |
 | [Elettrico](https://open.spotify.com/track/7FqHLZTVJgElu0CEv6L7q3) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:56 | 2024-06-06 |  |
@@ -78,6 +80,7 @@
 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 | 2024-09-22 |  |
 | [Lasciatemi Piangere](https://open.spotify.com/track/2z0CYJsv2779T7I82bazKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 | 2024-04-29 |  |
 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 | 2024-04-29 |  |
+| [Londra](https://open.spotify.com/track/3f8Afp4ayOM9UPAwSYTkWE) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Londra](https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW) | 3:23 | 2025-01-09 |  |
 | [Male](https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Male](https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW) | 2:27 | 2024-09-11 |  |
 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 | 2024-04-29 |  |
 | [MARGHERITA v11](https://open.spotify.com/track/3rsFDYxfupH9kXBnHSZJsx) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:31 | 2024-04-29 |  |
@@ -87,6 +90,7 @@
 | [Millennial](https://open.spotify.com/track/06xEGpk906h4bzVQNqacP1) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:45 | 2024-04-29 |  |
 | [MIOPIA v3](https://open.spotify.com/track/6r8xo3wi5lt0AHR7daLlaF) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:59 | 2024-04-29 |  |
 | [Mommy](https://open.spotify.com/track/7uZc3XPxJgJj1eOFFNIuyN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 1:59 | 2024-04-29 |  |
+| [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 | 2025-01-09 |  |
 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 | 2024-04-29 |  |
 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 | 2024-06-06 |  |
 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 | 2024-05-25 |  |

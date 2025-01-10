@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Money Can't Buy Happiness",
+        "url": "https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Back to Basics",
+      "url": "https://open.spotify.com/track/4or9opxT7BGioeiZHFdZu9"
+    },
+    {
+      "album": {
         "name": "Belly of the Beast",
         "url": "https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI"
       },
@@ -252,6 +270,24 @@
       "duration_ms": 209345,
       "name": "House Invasions",
       "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
+    },
+    {
+      "album": {
+        "name": "Money Can't Buy Happiness",
+        "url": "https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "I Miss",
+      "url": "https://open.spotify.com/track/1WCC7KfzalilcV9cFnvYSx"
     },
     {
       "album": {

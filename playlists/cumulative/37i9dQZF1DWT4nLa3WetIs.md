@@ -2,7 +2,7 @@
 
 ### [Timeless Afro ](https://open.spotify.com/playlist/37i9dQZF1DWT4nLa3WetIs)
 
-> Timeless sounds of modern Afrobeats\. Celebrating 10 years of Wizkid's Ojuelegba
+> Timeless sounds of modern Afrobeats\. Cover: Wande Coal
 
 309 songs - 20 hr 34 min
 
@@ -55,7 +55,7 @@
 | [Boom Boom Tah](https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3) | [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Skob](https://open.spotify.com/artist/3Pyjqc00tBElP4O9VUpyNY), [Kwamz N Flava](https://open.spotify.com/artist/4xvJi4sfP4v2ab7nH3utp8) | [Full Vim](https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu) | 4:20 | 2020-11-06 | 2024-04-20 |
 | [Bootycall](https://open.spotify.com/track/0kX03hm5QJJDFR6X3B0tvG) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51 Lex Records Presents Carnizelas Vol\. 4](https://open.spotify.com/album/0gObfLol83lf99kC3nSaC4) | 5:16 | 2023-03-21 | 2023-08-12 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2024-03-21 |  |
-| [Bumper To Bumper](https://open.spotify.com/track/07ANhZt44fsOCbHYq3MYPc) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/6SThqj5TS5t7ekYnq4vbE7) | 3:45 | 2020-11-06 | 2022-07-29 |
+| [Bumper To Bumper](https://open.spotify.com/track/07ANhZt44fsOCbHYq3MYPc) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/6SThqj5TS5t7ekYnq4vbE7) | 3:45 | 2020-11-06 |  |
 | [Bumper To Bumper](https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 3:45 | 2020-11-06 | 2024-02-28 |
 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 | 2020-11-06 | 2024-07-19 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-08-30 |  |
@@ -111,7 +111,7 @@
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2024-03-21 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2024-03-21 | 2024-04-19 |
 | [First of All](https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [YBNL](https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX) | 3:06 | 2020-11-06 | 2024-07-19 |
-| [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2024-07-19 |  |
+| [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2024-07-19 | 2025-01-10 |
 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 | 2024-02-22 |  |
 | [Gaga Crazy](https://open.spotify.com/track/7eqfsttE4EWgDFixwIIwJ8) | [Chuddy K](https://open.spotify.com/artist/2GOqGFrbvtO7nRZzsc5gEK) | [Chuddy K](https://open.spotify.com/album/4sDOa4ahtlEZwR8hUV0X8Z) | 3:59 | 2023-03-21 | 2023-06-22 |
 | [Gentleman](https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 14:41 | 2023-06-21 | 2023-08-12 |
@@ -129,7 +129,7 @@
 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 | 2024-07-19 |  |
 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 | 2020-11-06 | 2022-07-29 |
 | [Holla at Your Boy](https://open.spotify.com/track/4gn99f9Yv3FpMd9UuElz6g) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:21 | 2020-11-06 | 2024-02-23 |
-| [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2024-03-21 |  |
+| [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2024-03-21 | 2025-01-10 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2024-04-19 | 2024-07-19 |
 | [I Sing Feat\. Utter Once & Muyiwa](https://open.spotify.com/track/33qUqDe23SGvprJxf8YisA) | [Victizzle](https://open.spotify.com/artist/26ysY3T9kQzZGDsESHl7fS) | [In My World](https://open.spotify.com/album/117J6DzOZv8mSiJW94pxvv) | 4:56 | 2020-11-06 | 2024-04-20 |
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2023-03-21 | 2023-10-25 |
@@ -312,7 +312,7 @@
 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 | 2020-11-06 | 2024-04-19 |
 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 | 2020-11-06 |  |
 | [You Bad](https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7) | [Wande Coal](https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh) | [Selection](https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco) | 4:06 | 2020-11-06 | 2022-10-25 |
-| [You Bad](https://open.spotify.com/track/0hjNPLAN4ZRG57yqOvCL02) | [Wande Coal Ft D'Banj](https://open.spotify.com/artist/7tmpexALmQ8dt4wqdkMPZo) | [51 Lex Records Presents Carnizelas Vol.2](https://open.spotify.com/album/7m0aN5VlRJypUuyeczLGh9) | 4:08 | 2020-11-06 | 2022-07-28 |
+| [You Bad](https://open.spotify.com/track/0hjNPLAN4ZRG57yqOvCL02) | [Wande Coal Ft D'Banj](https://open.spotify.com/artist/7tmpexALmQ8dt4wqdkMPZo) | [51 Lex Records Presents Carnizelas Vol.2](https://open.spotify.com/album/7m0aN5VlRJypUuyeczLGh9) | 4:08 | 2020-11-06 |  |
 | [You Bad \(feat\. D'banj\)](https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Mushin 2 Mo' Hits](https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG) | 4:02 | 2020-11-06 | 2024-04-19 |
 | [Your Number](https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4) | [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Your Number](https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN) | 3:24 | 2020-11-06 |  |
 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2023-10-13 | 2023-10-25 |

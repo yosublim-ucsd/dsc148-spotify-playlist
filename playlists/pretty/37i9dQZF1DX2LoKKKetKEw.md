@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,502 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,574 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

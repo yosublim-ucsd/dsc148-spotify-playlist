@@ -1,61 +1,13 @@
 {
   "description": "El Dembow que ta subiendo. Foto: El Alfa",
-  "num_followers": 125881,
+  "num_followers": 125941,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3YN9wAAAAAIIex74FoZHm3k56EPNbJG",
+  "snapshot_id": "Z3/mWwAAAADs1kr4s+hZICeGu42ZWI7/",
   "tracks": [
-    {
-      "added_at": "2025-01-02 03:54:31",
-      "album": {
-        "name": "Silla",
-        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "Silla",
-      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
-    },
-    {
-      "added_at": "2024-09-19 19:45:05",
-      "album": {
-        "name": "Con Sonido",
-        "url": "https://open.spotify.com/album/7rwsVPRfcq886nwJsnDEvP"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Alofoke Music",
-          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "Breyco En Producidera",
-          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
-        }
-      ],
-      "duration_ms": 122528,
-      "name": "Con Sonido",
-      "url": "https://open.spotify.com/track/2AGfk7IjFHZLJldj5v4FAC"
-    },
     {
       "added_at": "2025-01-02 03:54:31",
       "album": {
@@ -97,42 +49,6 @@
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
     },
     {
-      "added_at": "2024-11-21 20:33:03",
-      "album": {
-        "name": "TU QUIERE BAILAR",
-        "url": "https://open.spotify.com/album/3V0VfbPq775O3a0tNK2FIX"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 123250,
-      "name": "TU QUIERE BAILAR",
-      "url": "https://open.spotify.com/track/2E402UKUx9geWqtRpMj5oX"
-    },
-    {
-      "added_at": "2025-01-02 03:54:31",
-      "album": {
-        "name": "Que Cobarde",
-        "url": "https://open.spotify.com/album/38JqSZsfHn3blynly0prCH"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 92540,
-      "name": "Que Cobarde",
-      "url": "https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo"
-    },
-    {
       "added_at": "2024-11-14 20:01:44",
       "album": {
         "name": "Bing Bong",
@@ -151,6 +67,26 @@
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+    },
+    {
+      "added_at": "2025-01-02 03:54:31",
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -225,26 +161,6 @@
       "url": "https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF"
     },
     {
-      "added_at": "2024-12-12 22:17:42",
-      "album": {
-        "name": "Cadenita",
-        "url": "https://open.spotify.com/album/5UVNQxz8qpJDbnuPRWrlds"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        }
-      ],
-      "duration_ms": 113789,
-      "name": "Cadenita",
-      "url": "https://open.spotify.com/track/2EXcYu19tIO30QVD5qNDcD"
-    },
-    {
       "added_at": "2024-07-18 20:05:48",
       "album": {
         "name": "Vivela",
@@ -305,6 +221,34 @@
       "url": "https://open.spotify.com/track/6ZlZRuUYpOxR9LoR2SgBPR"
     },
     {
+      "added_at": "2024-09-19 19:45:05",
+      "album": {
+        "name": "Con Sonido",
+        "url": "https://open.spotify.com/album/7rwsVPRfcq886nwJsnDEvP"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
+        }
+      ],
+      "duration_ms": 122528,
+      "name": "Con Sonido",
+      "url": "https://open.spotify.com/track/2AGfk7IjFHZLJldj5v4FAC"
+    },
+    {
       "added_at": "2025-01-02 03:54:31",
       "album": {
         "name": "Me Ta Subiendo",
@@ -345,68 +289,24 @@
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
-      "added_at": "2024-12-03 17:08:52",
+      "added_at": "2025-01-09 15:08:11",
       "album": {
-        "name": "Nebuleo",
-        "url": "https://open.spotify.com/album/4QiiGcyXv82us3jBjQFFc4"
+        "name": "Dale Deo",
+        "url": "https://open.spotify.com/album/6frforxfBIdnzQ3RplKcfG"
       },
       "artists": [
         {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
         },
         {
-          "name": "BeezyRD",
-          "url": "https://open.spotify.com/artist/4b3VZrCZqpNSVt9aO9nWll"
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
         }
       ],
-      "duration_ms": 125145,
-      "name": "Nebuleo",
-      "url": "https://open.spotify.com/track/5pL8cRJokayv8nXGDMjmWj"
-    },
-    {
-      "added_at": "2024-12-26 17:50:40",
-      "album": {
-        "name": "Selena",
-        "url": "https://open.spotify.com/album/0SlkkxrgJGA5qcj70y4j1j"
-      },
-      "artists": [
-        {
-          "name": "Brazil21",
-          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 155809,
-      "name": "Selena",
-      "url": "https://open.spotify.com/track/1i2UBLvHOUnYlpn69luJRy"
-    },
-    {
-      "added_at": "2024-11-21 20:33:03",
-      "album": {
-        "name": "Esa Mala (Remix)",
-        "url": "https://open.spotify.com/album/12IbOAQ64DwLiZd7EMZiuZ"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "La Demente",
-          "url": "https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o"
-        },
-        {
-          "name": "Mapa Negro",
-          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
-        }
-      ],
-      "duration_ms": 131311,
-      "name": "Esa Mala - Remix",
-      "url": "https://open.spotify.com/track/2klNlswnZsfKO4zwet9Vxr"
+      "duration_ms": 113538,
+      "name": "Dale Deo",
+      "url": "https://open.spotify.com/track/3vCSiNJWsO6WxwPamnZPFE"
     },
     {
       "added_at": "2025-01-02 03:54:31",
@@ -469,26 +369,6 @@
       "url": "https://open.spotify.com/track/3jlm4PFYTr8ct4HcZU0O5M"
     },
     {
-      "added_at": "2024-12-26 17:46:50",
-      "album": {
-        "name": "Booty Boom Boom",
-        "url": "https://open.spotify.com/album/59BOYvpxPtmcapNQ8Kobsj"
-      },
-      "artists": [
-        {
-          "name": "Cheiq",
-          "url": "https://open.spotify.com/artist/5UhiTkbd0p7l0N52PN7XLL"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 118752,
-      "name": "Booty Boom Boom",
-      "url": "https://open.spotify.com/track/3mrBbsYAFuKghi9sEy7P4j"
-    },
-    {
       "added_at": "2024-05-02 15:24:48",
       "album": {
         "name": "NEW AIR'S",
@@ -547,6 +427,22 @@
     {
       "added_at": "2025-01-02 03:54:31",
       "album": {
+        "name": "Que Cobarde",
+        "url": "https://open.spotify.com/album/38JqSZsfHn3blynly0prCH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 92540,
+      "name": "Que Cobarde",
+      "url": "https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo"
+    },
+    {
+      "added_at": "2025-01-02 03:54:31",
+      "album": {
         "name": "Zakuza",
         "url": "https://open.spotify.com/album/7soJxCeLfA5nsFdlii4lo1"
       },
@@ -583,6 +479,22 @@
       "duration_ms": 176186,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ"
+    },
+    {
+      "added_at": "2025-01-09 15:08:11",
+      "album": {
+        "name": "MODO SPORT",
+        "url": "https://open.spotify.com/album/7McuirnzBYlqwJWY7jbRAH"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 117005,
+      "name": "MODO SPORT",
+      "url": "https://open.spotify.com/track/37vbeqIw7vdx8ucXce9i8w"
     },
     {
       "added_at": "2024-11-14 20:01:44",
@@ -797,24 +709,28 @@
       "url": "https://open.spotify.com/track/0H62ltcrmOg1SJDKkZD95P"
     },
     {
-      "added_at": "2024-12-03 17:08:52",
+      "added_at": "2025-01-09 15:08:11",
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/61ODk0F7060joWJLorY5zJ"
+        "name": "MI Vaso",
+        "url": "https://open.spotify.com/album/3RVXqEhOE2PespnwBPMQr4"
       },
       "artists": [
         {
-          "name": "Capiry",
-          "url": "https://open.spotify.com/artist/4dSDyLZEErLgy92wliptIn"
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
         },
         {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
         }
       ],
-      "duration_ms": 100485,
-      "name": "Contento",
-      "url": "https://open.spotify.com/track/0yGw8fESDi7JdyzXnBlnGS"
+      "duration_ms": 129047,
+      "name": "MI Vaso",
+      "url": "https://open.spotify.com/track/65SGZ1AWQekuRMRGLa7Rq3"
     },
     {
       "added_at": "2024-12-12 22:17:42",
@@ -919,30 +835,6 @@
       "duration_ms": 212830,
       "name": "De Tiguere",
       "url": "https://open.spotify.com/track/1LMHMi3Ko0LpOvjDiGFRLp"
-    },
-    {
-      "added_at": "2024-03-28 14:23:32",
-      "album": {
-        "name": "Fulete",
-        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Fulete",
-      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
     },
     {
       "added_at": "2024-05-02 15:49:40",

@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 222990,
       "name": "Cool Down (Ice Cream Donut)",
       "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 262318,
       "name": "El arca de Mima",
       "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
@@ -3683,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Me Hiciste Quedar Mal",
+        "url": "https://open.spotify.com/album/48MMRe2STtIarxvTJ76Qdv"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Me Hiciste Quedar Mal",
+      "url": "https://open.spotify.com/track/440BwaPaJ1FsW2tCxdN6ea"
+    },
+    {
+      "album": {
         "name": "Me mandaron por tortillas",
         "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
       },
@@ -4812,6 +4830,24 @@
       "duration_ms": 223404,
       "name": "Paraguaya - En Vivo",
       "url": "https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf"
+    },
+    {
+      "album": {
+        "name": "Paranavigar - Single",
+        "url": "https://open.spotify.com/album/0IAWnphvCGFvIc6RGSrePm"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Paranavigar",
+      "url": "https://open.spotify.com/track/77Nq3oiFKPbT3rYEBKSlYA"
     },
     {
       "album": {
@@ -6511,6 +6547,28 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187507,
+      "name": "WELTiTA",
+      "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
+    },
+    {
+      "album": {
         "name": "wepa (Eggglub Remix)",
         "url": "https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub"
       },
@@ -6746,7 +6804,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 187430,
       "name": "\u00d1e \u00d1e \u00d1\u00e9",
       "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"

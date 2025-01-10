@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,974 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,987 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
 | 50 | [Tell Mama \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/5cSLT6bJti7KpIQGEzA1Si) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 6:32 |
 
-Snapshot ID: `Z3xugAAAAACZHDbiKhkH6RSuq6iE+DE9`
+Snapshot ID: `Z33AAAAAAADchsEGZQCGAO/xFQRHS0qF`

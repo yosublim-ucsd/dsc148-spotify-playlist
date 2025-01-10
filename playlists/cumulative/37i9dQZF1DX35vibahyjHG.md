@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [Best of EQUAL Africa 2024](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
+### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Our editor's top picks from EQUAL 2024 from across Africa\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=cTjRP8DZTvqno9a\_zB\_M3w"> Ayra Starr</a>
+> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=cTjRP8DZTvqno9a\_zB\_M3w"> Ayra Starr</a>
 
 396 songs - 22 hr 14 min
 

@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 75697,
       "name": "ACIDO",
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 231800,
       "name": "Elle t\u2019a tu\u00e9",
       "url": "https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 237093,
       "name": "Est-ce que tu m'aimes ? - Pilule bleue",
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
@@ -3462,6 +3462,24 @@
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231626,
+      "name": "FANTASTIC BABY - Japanese ver.",
+      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
     },
     {
       "album": {
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -5900,6 +5918,24 @@
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "album": {
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238160,
+      "name": "Impacto",
+      "url": "https://open.spotify.com/track/0zNeZTy7nLEWCRrBgjrBx5"
     },
     {
       "album": {
@@ -6554,7 +6590,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 112083,
       "name": "lazit po stenam",
       "url": "https://open.spotify.com/track/4Ro4O1feGQwjPGqYocrjVj"
@@ -7138,7 +7174,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 142222,
       "name": "Madam",
       "url": "https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj"
@@ -7485,6 +7521,32 @@
     },
     {
       "album": {
+        "name": "MI MAMI FUNK, Vol. 2",
+        "url": "https://open.spotify.com/album/1XqQiDsPvBUiOOjDu7ZA2a"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "DJ-JY12",
+          "url": "https://open.spotify.com/artist/5opiOfmWLFeHTjI3dL6alu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100263,
+      "name": "MI MAMI FUNK, Vol. 2 - Ultra Slowed",
+      "url": "https://open.spotify.com/track/4gAjWKO67qLFrWHZmuK5h6"
+    },
+    {
+      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
       },
@@ -7652,6 +7714,24 @@
       "duration_ms": 135789,
       "name": "Money Flow",
       "url": "https://open.spotify.com/track/18k2AFlxug21i2oKYJmIBy"
+    },
+    {
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3CH9NrFVqJLJNeaBETkAVq"
+      },
+      "artists": [
+        {
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264656,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/4T1oZ3UAFKbraSp5JAISWW"
     },
     {
       "album": {
@@ -10388,7 +10468,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 114882,
       "name": "SHAKE THAT",
       "url": "https://open.spotify.com/track/0sUSbOXNnBVDHH84Gbc0Nn"
@@ -14046,7 +14126,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 148272,
       "name": "\u0430\u0434\u0440\u0435\u043d\u0430\u043b\u0438\u043d",
       "url": "https://open.spotify.com/track/5ceS5Kb2YFnWFdkSR34muY"
@@ -14220,7 +14300,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 103043,
       "name": "\u0410\u0440\u0438\u0442\u043c\u0438\u044f",
       "url": "https://open.spotify.com/track/6yU6ko4AlNiZrUZfmHKrv4"
@@ -16872,7 +16952,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168228,
       "name": "\u041a\u043b\u0430\u043d\u043e\u0432\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
       "url": "https://open.spotify.com/track/2SoPP5d6pOjzKWbWF0LFma"
@@ -18105,6 +18185,32 @@
     },
     {
       "album": {
+        "name": "\u041b\u043e\u0432\u0438 \u043c\u043e\u0439 \u0441\u0442\u0438\u043b\u044c",
+        "url": "https://open.spotify.com/album/1Ll2d747YYwq1sAbMDreMv"
+      },
+      "artists": [
+        {
+          "name": "Vostochny Okrug",
+          "url": "https://open.spotify.com/artist/4tS0YU2IuEm03xyKxsxeOm"
+        },
+        {
+          "name": "Vitya AK",
+          "url": "https://open.spotify.com/artist/0ZOwmYD7AAgJd3b6jcyik8"
+        },
+        {
+          "name": "\u041a\u0435\u043d\u0434\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2kag7zrnMcaJ6JuGAcsDZF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236095,
+      "name": "\u041d\u0435 \u043b\u0435\u0447\u0438 \u043c\u0435\u043d\u044f (feat. \u0412\u0438\u0442\u044f \u0410\u041a & \u041a\u0435\u043d\u0434\u0440\u0430)",
+      "url": "https://open.spotify.com/track/4a3iWuyzghSUF65tFgfb5B"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u0438\u0440\u0443\u0439",
         "url": "https://open.spotify.com/album/5b8xCVRBVV8OpeetQ6VBaB"
       },
@@ -18981,6 +19087,24 @@
     },
     {
       "album": {
+        "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u21161",
+        "url": "https://open.spotify.com/album/0Gqm6HMIjm5T1MtofiLrh9"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0442\u0438\u0446\u044b",
+          "url": "https://open.spotify.com/artist/43KN8eFDOaY1MMVM1cv1JJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242318,
+      "name": "\u041e\u0441\u043a\u043e\u043b\u043a\u0438",
+      "url": "https://open.spotify.com/track/5suQ7W2Grbk2yVJ33Aff6F"
+    },
+    {
+      "album": {
         "name": "\u041a\u0410\u0427",
         "url": "https://open.spotify.com/album/6FSybQCiCMmB5Q01sfIQbo"
       },
@@ -19238,7 +19362,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 69473,
       "name": "\u043f\u0430\u043a\u043e\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/1WTxGDV3rlRSvR2mogTDy1"
@@ -19256,7 +19380,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 253000,
       "name": "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430",
       "url": "https://open.spotify.com/track/1ucsBUEWBNEObyW4KBlsfo"
@@ -21730,7 +21854,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 132480,
       "name": "\u0424\u0443\u0431\u043b\u044f",
       "url": "https://open.spotify.com/track/3wY7F7TJ4hrLhrrMhMbR7o"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssoupha",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 200296,
       "name": "10h du mat'",
       "url": "https://open.spotify.com/track/1haWmfk43cAfj6M4O3t7NY"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149354,
       "name": "50 piges",
       "url": "https://open.spotify.com/track/4qK7AT3mb1J5oLyALf5i8j"
@@ -290,6 +290,46 @@
       "duration_ms": 192847,
       "name": "Avec des mots",
       "url": "https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ"
+    },
+    {
+      "album": {
+        "name": "BIZON",
+        "url": "https://open.spotify.com/album/4Iqqdec5r2TZNVf1WTfxX7"
+      },
+      "artists": [
+        {
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "BIZON",
+      "url": "https://open.spotify.com/track/6RXI00qwaWjm35oBsVNRx2"
+    },
+    {
+      "album": {
+        "name": "LA BOHEME",
+        "url": "https://open.spotify.com/album/6iPE5EhqCDwC9ShJusaKmI"
+      },
+      "artists": [
+        {
+          "name": "Beeby",
+          "url": "https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "BLE$$$",
+      "url": "https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v"
     },
     {
       "album": {
@@ -545,6 +585,46 @@
     },
     {
       "album": {
+        "name": "Dernier shift",
+        "url": "https://open.spotify.com/album/2EJo4LgEoJJn0pSIfcjqVH"
+      },
+      "artists": [
+        {
+          "name": "Primero",
+          "url": "https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7"
+        },
+        {
+          "name": "CRC",
+          "url": "https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170945,
+      "name": "Dernier shift",
+      "url": "https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE"
+    },
+    {
+      "album": {
+        "name": "DIEU EST GRANDE",
+        "url": "https://open.spotify.com/album/75akm23oaHhtzextLCN2zz"
+      },
+      "artists": [
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "DIEU EST GRANDE",
+      "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
+    },
+    {
+      "album": {
         "name": "Dyonysos",
         "url": "https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2"
       },
@@ -622,7 +702,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 209946,
       "name": "FABRICS (feat. Jungle Jack)",
       "url": "https://open.spotify.com/track/3fwjyWXsDiTFnyNpbheCf8"
@@ -786,6 +866,28 @@
       "duration_ms": 165191,
       "name": "Hakim",
       "url": "https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0"
+    },
+    {
+      "album": {
+        "name": "Hip-hop Acad\u00e9mie",
+        "url": "https://open.spotify.com/album/35RPjksDCO0XNnMVClejAQ"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00f6dash",
+          "url": "https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu"
+        },
+        {
+          "name": "DJ Rolxx",
+          "url": "https://open.spotify.com/artist/6F3rbxyy8bOUkv6QEWcLfV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Hip-hop Acad\u00e9mie",
+      "url": "https://open.spotify.com/track/6mmZ7mcSAJ1fOXog7uYLnF"
     },
     {
       "album": {
@@ -1312,7 +1414,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 170295,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/5l9LW7OIwaNsptOOc1KbeR"
@@ -2028,7 +2130,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 157037,
       "name": "Vache \u00e0 lait (MilkTape)",
       "url": "https://open.spotify.com/track/0gLzoAnO25TcTLhLnsYELi"

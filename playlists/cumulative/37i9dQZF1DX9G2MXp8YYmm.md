@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Afra
+> Popun sevilen isimleri\. Kapak: Ahmet Hatipoğlu
 
-190 songs - 9 hr 23 min
+191 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 |  |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 |  |
 | [Koca Dünya](https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Koca Dünya](https://open.spotify.com/album/5LFciOK381uamGyiw52mgF) | 2:29 | 2024-10-24 | 2024-12-20 |
+| [Konsun Bir Kuş Gibi](https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Konsun Bir Kuş Gibi](https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75) | 2:28 | 2025-01-09 |  |
 | [Kopmuyorum Senden](https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Synth City](https://open.spotify.com/album/60jlFQE1KtA3e3WU09ustD) | 2:20 | 2024-12-05 | 2024-12-21 |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
 | [Kül Kedisi](https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Kül Kedisi](https://open.spotify.com/album/4K9UrtRb8BGdTHrXDZAxgk) | 3:03 | 2024-11-07 |  |
@@ -158,7 +159,7 @@
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |
 | [Teselli](https://open.spotify.com/track/5k43UsKtxkZNaHHBnqNk1R) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Teselli](https://open.spotify.com/album/6z6X2q7CXRAm3YAj44oLHf) | 3:06 | 2024-10-24 | 2024-12-02 |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
-| [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 |  |
+| [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 | 2025-01-10 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-08-01 | 2024-12-26 |
 | [Uyan](https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Uyan](https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3) | 3:20 | 2024-09-26 | 2024-11-16 |
 | [Uzun Lafın Kısası](https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC) | 3:39 | 2024-06-27 |  |

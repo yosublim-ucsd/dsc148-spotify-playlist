@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,555 likes - 72 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,629 likes - 72 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 32 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 33 | [Shukran Allah](https://open.spotify.com/track/3nKEiJUeaWn8q2O9I1xwlB) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Kurbaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5) | 4:50 |
 | 34 | [O Re](https://open.spotify.com/track/1yrpoh26DVmRqMrXpQsnou) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio Season 9: Sound of the Nation](https://open.spotify.com/album/4X5hkWWjsoqKNeDimjWF5L) | 5:21 |
-| 35 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 |
+| 35 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 |
 | 36 | [Ainay](https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Tehzeeb Hafi](https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o) | [Ainay](https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL) | 5:28 |
 | 37 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
 | 38 | [Rabba Ho](https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:57 |

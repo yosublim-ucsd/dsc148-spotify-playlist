@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-244 songs - 12 hr 53 min
+247 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All The Time](https://open.spotify.com/track/19GhAhZTkpC0FXuL8n5NQQ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:28 | 2024-07-12 |  |
 | [All The Time](https://open.spotify.com/track/20k8E1XXdBdBJPQJq0G5YI) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 | 2024-06-14 |  |
+| [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 | 2025-01-09 |  |
 | [Anyway \(feat\. Tayla Parx\)](https://open.spotify.com/track/02yRHV9Cgk8CUS2fx9lKVC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:31 | 2024-06-14 |  |
 | [Asleep](https://open.spotify.com/track/0dMf8FEScSs8ieHPFlunxn) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:49 | 2024-06-14 |  |
 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 | 2024-06-14 |  |
@@ -128,6 +129,7 @@
 | [Justified \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/7q1wxV2QkDLBzFF0ULN0fh) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:24 | 2024-06-14 |  |
 | [Lakshmi](https://open.spotify.com/track/5CqKqUCdNFokseAt9KhvDg) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Lakshmi](https://open.spotify.com/album/4XlgYZiY45DumQpau4dSh8) | 7:50 | 2024-06-14 |  |
 | [Last Words](https://open.spotify.com/track/5jl4mrAV1rEm384440ZAib) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:47 | 2024-06-14 |  |
+| [Let Me Go](https://open.spotify.com/track/2a3eFJTsaGznDp3wPsX9pr) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [SOON](https://open.spotify.com/album/7LJcMoHVgDfxBAQc1I23pp) | 2:52 | 2025-01-09 |  |
 | [Let Me Help You](https://open.spotify.com/track/3LiHCDh5fNDpZx7iPgwgsv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:54 | 2024-06-14 |  |
 | [Lie to Me](https://open.spotify.com/track/5i0OHpGf0sBnQhxdpxHjwC) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [Flip](https://open.spotify.com/artist/0AvGQF1hbRypYmo5TJDwgY) | [Coke Boys Tour](https://open.spotify.com/album/5OAG6xARCduo9svbhzuF0s) | 4:11 | 2024-06-14 |  |
 | [Like I Do \(feat\. GoldLink\)](https://open.spotify.com/track/7hYUoA7Z4mtlDwXyq3s1Gz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:49 | 2024-06-14 |  |
@@ -235,6 +237,7 @@
 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 | 2024-06-14 |  |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2024-06-14 | 2024-07-27 |
 | [Vibin](https://open.spotify.com/track/3ASbbtjnSJrhQTxK2EbxPm) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/4YJsp9hQw0EXztLD4YBRPj) | 2:45 | 2024-07-26 |  |
+| [Wake Up](https://open.spotify.com/track/488Ft5MwlFrsBTCpBfSSRj) | [Violent J](https://open.spotify.com/artist/02WFRlMwbZO6QfBJgZRNFa) | [The Shining](https://open.spotify.com/album/63hWg5bbsZRO9aF6nCnDWy) | 3:50 | 2025-01-09 |  |
 | [WALLFLOWER](https://open.spotify.com/track/28TABHQXT7l17BZSR3qF1k) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 2:56 | 2024-06-14 |  |
 | [We Need To Talk](https://open.spotify.com/track/4KXrNQAEEtCaSzceiAtAaR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 | 2024-06-14 |  |
 | [What Can I Say \- Interlude](https://open.spotify.com/track/0osC0o9ffcCqlAG0Clypds) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:30 | 2024-06-14 |  |

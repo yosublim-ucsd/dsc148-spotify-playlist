@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All You Really Need \(Is Love\)](https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [All You Really Need \(Is Love\)](https://open.spotify.com/album/0jTFFMgI7O1Mf9qZW87ON8) | 3:14 |
-| 2 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi](https://open.spotify.com/artist/2T8TMZQUb7ZnI7Hd8nNmlR) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
+| 1 | [Perfume](https://open.spotify.com/track/500GXMNlTFf5svfcoI2xqn) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Perfume](https://open.spotify.com/album/6RHMObrUock4mrbpMemwPh) | 3:40 |
+| 2 | [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi Fly](https://open.spotify.com/artist/7mD52v53akklSZpbv10j4s) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 |
 | 3 | [The Key](https://open.spotify.com/track/31zhJnJpDIA5jutqQ1pN72) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [The Key](https://open.spotify.com/album/6N5WhWGEWi2LMv5fmjBpTp) | 2:40 |
 | 4 | [Terbang](https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Terbang](https://open.spotify.com/album/56rpGrle11kagKmui260fu) | 3:45 |
 | 5 | [None Of My Business](https://open.spotify.com/track/5kzkaGnTqBFnUoGbNYhJ8s) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Bisik Hati](https://open.spotify.com/track/5ET93zHVW4qh4sv9ZOUAQN) | [Isyariana](https://open.spotify.com/artist/4OjAZGjr75Lcoej9PvkhMQ) | [Bisik Hati](https://open.spotify.com/album/0pqMy7XxSctlqqjA7Ycoof) | 4:22 |
 | 50 | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc) | 4:28 |
 
-Snapshot ID: `Z31PiAAAAAAefA/bmTPXb1sZxQhS6WQj`
+Snapshot ID: `Z3/ylwAAAAByCvIoLpSs0NNOeNE9uWDe`

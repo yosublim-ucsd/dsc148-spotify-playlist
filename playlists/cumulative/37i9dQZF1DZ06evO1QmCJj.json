@@ -507,32 +507,6 @@
     },
     {
       "album": {
-        "name": "Ego (feat. GIMS & Lola Indigo)",
-        "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
-      },
-      "artists": [
-        {
-          "name": "Emkal",
-          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "date_added": "2025-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208094,
-      "name": "Ego (feat. GIMS & Lola Indigo)",
-      "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
-    },
-    {
-      "album": {
         "name": "EL CONDENAO",
         "url": "https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib"
       },
@@ -1806,6 +1780,32 @@
       "duration_ms": 144424,
       "name": "YO TENGO UN NOVIO",
       "url": "https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX"
+    },
+    {
+      "album": {
+        "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
+        "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208094,
+      "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
+      "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj"

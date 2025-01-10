@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-192 songs - 10 hr 0 min
+195 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 | 2023-12-30 |  |
 | [Drama Queen](https://open.spotify.com/track/11QeiHjd4600PBx7n85hlA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:08 | 2023-12-30 |  |
 | [Evil Twin](https://open.spotify.com/track/49OsRGWTYgGPtZSRsSuNCa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:12 | 2023-12-30 |  |
+| [Eyes Roll](https://open.spotify.com/track/4xU71Cm2Qtfy9znMtXsS3r) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/1hB3iV5P0TWzpdxreKH4sT) | 3:17 | 2025-01-09 |  |
 | [Fernando](https://open.spotify.com/track/39NvoDhGU8aOAf6rASsw6l) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Replay \(The Album\) \- Spotify Edition](https://open.spotify.com/album/3JZYrdSso4KOft8hnLg5Lc) | 4:01 | 2023-12-30 |  |
 | [Final Breath](https://open.spotify.com/track/22HxXTUuXM2jHtHMcu4V7o) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:25 | 2023-12-30 |  |
 | [Flava](https://open.spotify.com/track/2aLb1SLgY71VyLBT8ZRcmj) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Flava](https://open.spotify.com/album/0VNwFtFuVSviiJbroZde1z) | 3:03 | 2023-12-30 |  |
@@ -70,12 +71,14 @@
 | [Friends](https://open.spotify.com/track/25NFp9ulrdE3oj8Y0r69NG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:30 | 2023-12-30 |  |
 | [Funk](https://open.spotify.com/track/68qpjOo2mKJ7TVxFF4rEXW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:11 | 2023-12-30 |  |
 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2023-12-30 |  |
+| [Genetics \(feat\. Pussycat Dolls\)](https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:57 | 2025-01-09 |  |
 | [Get Some](https://open.spotify.com/track/3jvLOq1pFRGjD2cn9WOYDr) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Get Some](https://open.spotify.com/album/3Lj2MiaSUpmy5ahGGS6VAT) | 2:49 | 2023-12-30 |  |
 | [Good Mornin' \(feat\. Gary Trainor\)](https://open.spotify.com/track/4hJ66Ebt5fh6xSWoqGrZCC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Gary Trainor](https://open.spotify.com/artist/5keCYPArJwg1eu4rdMKFL8) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:26 | 2023-12-30 |  |
 | [Good To Be Alive](https://open.spotify.com/track/7ntZyhD4hguDJicIokQ9xW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:48 | 2023-12-30 |  |
 | [Goosebumps](https://open.spotify.com/track/0ARJ4NYM8yxmT09U8mTSfp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:41 | 2023-12-30 |  |
 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 | 2023-12-30 |  |
 | [Guilty Pleasure](https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Guilty Pleasure](https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI) | 2:35 | 2024-08-07 |  |
+| [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5dp6w04qEvpgthExVg8kyG) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 3:03 | 2025-01-09 |  |
 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 | 2024-06-15 |  |
 | [Have You Now](https://open.spotify.com/track/63y6MYLjCpnUV4EVYawZA4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:46 | 2023-12-30 |  |
 | [Here To Stay](https://open.spotify.com/track/34z8lt0220mD5i159EpuEm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 | 2023-12-30 |  |

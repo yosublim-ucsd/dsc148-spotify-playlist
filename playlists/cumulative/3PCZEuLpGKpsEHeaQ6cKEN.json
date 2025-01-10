@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  D.O.D",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  ARTY, Louis III",
   "name": "Armada Today",
   "tracks": [
     {
@@ -8143,6 +8143,28 @@
     },
     {
       "album": {
+        "name": "slash 011 - Getting Ready For The Party",
+        "url": "https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        },
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Getting Ready For The Party",
+      "url": "https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd"
+    },
+    {
+      "album": {
         "name": "Gimme Back Your Love",
         "url": "https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz"
       },
@@ -9834,6 +9856,32 @@
       "duration_ms": 167045,
       "name": "Hide And Seek - Melodic Mix",
       "url": "https://open.spotify.com/track/3D9wIUikn1gdz1s20nO784"
+    },
+    {
+      "album": {
+        "name": "Hide U",
+        "url": "https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG"
+      },
+      "artists": [
+        {
+          "name": "Kosheen",
+          "url": "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+        },
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "Isidoros",
+          "url": "https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228099,
+      "name": "Hide U",
+      "url": "https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI"
     },
     {
       "album": {
@@ -14032,6 +14080,28 @@
       "duration_ms": 232161,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6nKyPZ2y9SQWqpoEIRomyp"
+    },
+    {
+      "album": {
+        "name": "Lost In Loving You",
+        "url": "https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Lost In Loving You",
+      "url": "https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv"
     },
     {
       "album": {
@@ -18520,6 +18590,24 @@
       "duration_ms": 148364,
       "name": "PYRO",
       "url": "https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/1mpX7fXkoQUgGOcitvre0p"
+      },
+      "artists": [
+        {
+          "name": "Cost\u00e9",
+          "url": "https://open.spotify.com/artist/2H8Bskbve5zh75jQUbDnrT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/0h9XlTKWtJaML5fhVKvpgM"
     },
     {
       "album": {
@@ -23694,6 +23782,32 @@
       "duration_ms": 208406,
       "name": "The Records",
       "url": "https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo"
+    },
+    {
+      "album": {
+        "name": "The Robot Test",
+        "url": "https://open.spotify.com/album/1uKkbVAofqf4jbnXj46JJh"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        },
+        {
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282253,
+      "name": "The Robot Test",
+      "url": "https://open.spotify.com/track/4iSV9BcfUYPdVj3oe1voOQ"
     },
     {
       "album": {

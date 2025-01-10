@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 82004,
+  "num_followers": 82025,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Amniotic",
-        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Return to Oz",
-      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 397266,
       "name": "Famous Monsters",
       "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "Amniotic",
+        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Return to Oz",
+      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "XTASIS CARNAL",
-        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
-      },
-      "artists": [
-        {
-          "name": "SITA",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
-        },
-        {
-          "name": "Cardopusher",
-          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "XTASIS CARNAL",
-      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "XTASIS CARNAL",
+        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
+      },
+      "artists": [
+        {
+          "name": "SITA",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+        },
+        {
+          "name": "Cardopusher",
+          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "XTASIS CARNAL",
+      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Avoid",
-        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
-      },
-      "artists": [
-        {
-          "name": "mra",
-          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
-        }
-      ],
-      "duration_ms": 202223,
-      "name": "Avoid",
-      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "Delicate Limbs (feat. serpentwithfeet)",
         "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 198626,
       "name": "Delicate Limbs (feat. serpentwithfeet)",
       "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "Avoid",
+        "url": "https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU"
+      },
+      "artists": [
+        {
+          "name": "mra",
+          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
+        }
+      ],
+      "duration_ms": 202223,
+      "name": "Avoid",
+      "url": "https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Rock To The Beat",
+      "url": "https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
         "name": "E",
         "url": "https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 238222,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Rock To The Beat",
-      "url": "https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+        "name": "LOFF IS ALL YOU SPEED",
+        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
       },
       "artists": [
         {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "SITA",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+      "duration_ms": 183936,
+      "name": "LOFF IS ALL YOU SPEED",
+      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
     }
   ],
   "unique_name": "Runway",

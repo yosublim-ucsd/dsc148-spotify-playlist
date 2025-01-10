@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: shazza
 
-1,332 songs - 3 day 5 hr 2 min
+1,333 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [All Of Our Friends Know](https://open.spotify.com/track/4s5Ec6AXXnG8Wuk1pPucPU) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [All Of Our Friends Know](https://open.spotify.com/album/03IMBlqrJHVtG5cziUuFVZ) | 3:19 | 2024-10-02 | 2024-11-06 |
 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 | 2022-05-03 | 2022-09-07 |
 | [All You Had To Do](https://open.spotify.com/track/2fXJIXFwPZd1ikOWO0s1xC) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [All You Had To Do](https://open.spotify.com/album/5zvuBhjoffN1OW1ElmwBGX) | 3:30 | 2024-02-06 | 2025-01-08 |
-| [All You Really Need \(Is Love\)](https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [All You Really Need \(Is Love\)](https://open.spotify.com/album/0jTFFMgI7O1Mf9qZW87ON8) | 3:14 | 2024-03-05 |  |
+| [All You Really Need \(Is Love\)](https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [All You Really Need \(Is Love\)](https://open.spotify.com/album/0jTFFMgI7O1Mf9qZW87ON8) | 3:14 | 2024-03-05 | 2025-01-10 |
 | [ALLY](https://open.spotify.com/track/133e7Bezma3HhZYbtyIDpD) | [Preetipls](https://open.spotify.com/artist/11p9ZAAzj0eUeP1FycC04K) | [ALLY](https://open.spotify.com/album/6Ugs0ZHuI1hfyyiQik6svN) | 2:34 | 2023-07-04 | 2023-08-02 |
 | [Always You](https://open.spotify.com/track/3ZZgj5kjvmpdbjcmUQmsiO) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [Always You](https://open.spotify.com/album/48LgBY5Gd1ljhjH3Mj7GeC) | 2:50 | 2023-06-06 | 2023-08-02 |
 | [Amaran](https://open.spotify.com/track/4V3r3notILGGas3WTrWxqP) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Amaran](https://open.spotify.com/album/0TRreoUhzNVgjHGnemP16l) | 3:24 | 2021-12-07 | 2024-04-03 |
@@ -56,7 +56,7 @@
 | [Andai Itu Takdirnya](https://open.spotify.com/track/2e29ATpJHbDSGpqYuecT6H) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Andai Itu Takdirnya \(OST "Andai Itu Takdirnya"\)](https://open.spotify.com/album/2lTfaYfYZVu3mLc5PWh6FM) | 3:43 | 2023-09-05 | 2023-11-11 |
 | [Andai Tiada Dia](https://open.spotify.com/track/6WW5CDNf9VttXhFrgMX7Bx) | [Isyariana](https://open.spotify.com/artist/4OjAZGjr75Lcoej9PvkhMQ) | [Andai Tiada Dia](https://open.spotify.com/album/3w7RP3QBl4dX9WAxGX6eSv) | 3:17 | 2025-01-07 |  |
 | [Angkara](https://open.spotify.com/track/4Kr2q6yVRiGtAajt5LepXi) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Angkara](https://open.spotify.com/album/6Bx5yyTDzldzGwT1C2rCmb) | 4:01 | 2022-03-07 | 2022-04-06 |
-| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi](https://open.spotify.com/artist/2T8TMZQUb7ZnI7Hd8nNmlR) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-01-07 |  |
+| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimi Fly](https://open.spotify.com/artist/7mD52v53akklSZpbv10j4s) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-01-07 |  |
 | [Anima](https://open.spotify.com/track/2TQrM33JSaia5Xjl5y4kds) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima](https://open.spotify.com/album/3eFxOn1n7n7KDLMJhjLE10) | 3:14 | 2021-12-07 | 2022-01-05 |
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-09-06 | 2022-10-05 |
 | [annoy me](https://open.spotify.com/track/5BFNbxMvVDoRhryMn7WQDl) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [annoy me](https://open.spotify.com/album/35YE47o93yFlrtk1nWxbGI) | 2:40 | 2023-05-02 | 2023-06-07 |
@@ -788,6 +788,7 @@
 | [Perang Atau Cinta](https://open.spotify.com/track/5p94wK3LXXpfGArg5amHv9) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Maharani](https://open.spotify.com/album/3zh9pWIGJxPLUh5Thf2o89) | 3:19 | 2021-12-07 | 2022-01-05 |
 | [Percayakan Hati Kita \(Original Motion Picture Soundtrack From "Kalla"\)](https://open.spotify.com/track/100rHRuhOPbKPRRg8NVinF) | [Noryn Aziz](https://open.spotify.com/artist/0LPAQeGNpm2SiTUBkQfC1r), [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Percayakan Hati Kita \(Original Motion Picture Soundtrack From "Kalla"\)](https://open.spotify.com/album/4jkak2dWOwKKR6WdjSyXvp) | 4:04 | 2023-09-05 | 2023-10-05 |
 | [PEREMPUAN](https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [PEREMPUAN](https://open.spotify.com/album/36RXsb86wBFDKuXzl9NcjP) | 4:00 | 2022-08-02 | 2022-12-01 |
+| [Perfume](https://open.spotify.com/track/500GXMNlTFf5svfcoI2xqn) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Perfume](https://open.spotify.com/album/6RHMObrUock4mrbpMemwPh) | 3:40 | 2025-01-09 |  |
 | [Perisai Cinta \- From "Ternyata Sebuah Bahagia"](https://open.spotify.com/track/0YvQzesddOJRj4w6v1JSC8) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Perisai Cinta \(From "Ternyata Sebuah Bahagia"\)](https://open.spotify.com/album/0Ek3JFr8W6TB4OcxDFEz9n) | 3:28 | 2024-12-04 | 2025-01-08 |
 | [Permaisuri](https://open.spotify.com/track/4BxT13J5fQBYOEXPOrbagF) | [LOCA B](https://open.spotify.com/artist/63PZAg9EDmsVpftrqz1uih), [Nina Nadira](https://open.spotify.com/artist/3GBvIrLpmlRtvq0sjyZ4g4) | [Permaisuri](https://open.spotify.com/album/3gxQ4s8ainX93aZgy577jY) | 3:58 | 2023-01-03 | 2023-11-11 |
 | [Pernah Bahagia](https://open.spotify.com/track/0jhYlVTWwmXMNrBrBxtGTd) | [Sharifah Zarina](https://open.spotify.com/artist/7fl0brUCCK9ZH8secN0rxB) | [Pernah Bahagia](https://open.spotify.com/album/7e189lQBmXWlUvzdxZfc2a) | 3:31 | 2024-08-06 | 2024-09-04 |

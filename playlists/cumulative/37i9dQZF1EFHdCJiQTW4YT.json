@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/2SSmrVPvK9lRwPDl7u0SFQ"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Notion",
+          "url": "https://open.spotify.com/artist/4gl2ekrsituE0Su8peEc36"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "90 Days",
+      "url": "https://open.spotify.com/track/5MWcqbM0fYiZB2cRKZdcUV"
+    },
+    {
+      "album": {
         "name": "Hurts 2B Human",
         "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
       },
@@ -2040,6 +2058,28 @@
       "duration_ms": 202941,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps"
+    },
+    {
+      "album": {
+        "name": "Moon Rider",
+        "url": "https://open.spotify.com/album/6x8tJc5ZIuvr0OUplLMNP8"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Moon Rider",
+      "url": "https://open.spotify.com/track/0ggzakC1aHUgXHqeD5g7kW"
     },
     {
       "album": {

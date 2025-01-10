@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: In\u00e9s Errandonea.",
-  "num_followers": 128078,
+  "num_followers": 128113,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
         }
       ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
       "artists": [
         {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -359,22 +359,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "No supe verme",
-        "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
+        "name": "Tercero A",
+        "url": "https://open.spotify.com/album/52JMhDsjt7PQJn6CZFfACq"
       },
       "artists": [
         {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        },
-        {
-          "name": "Miguelichi L\u00f3pez",
-          "url": "https://open.spotify.com/artist/6IX6MVQxwe14jYiIJUIVzn"
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
         }
       ],
-      "duration_ms": 211459,
-      "name": "No supe verme",
-      "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
+      "duration_ms": 210400,
+      "name": "Tercero A",
+      "url": "https://open.spotify.com/track/6vnucslFa2I4sltfiA48tW"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -427,18 +423,22 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Tercero A",
-        "url": "https://open.spotify.com/album/52JMhDsjt7PQJn6CZFfACq"
+        "name": "No supe verme",
+        "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
       },
       "artists": [
         {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        },
+        {
+          "name": "Miguelichi L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6IX6MVQxwe14jYiIJUIVzn"
         }
       ],
-      "duration_ms": 210400,
-      "name": "Tercero A",
-      "url": "https://open.spotify.com/track/6vnucslFa2I4sltfiA48tW"
+      "duration_ms": 211459,
+      "name": "No supe verme",
+      "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 312368,
-      "name": "Algo tiene que estar mal",
-      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
       },
       "artists": [
         {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
+      "duration_ms": 312368,
+      "name": "Algo tiene que estar mal",
+      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -967,6 +947,26 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -987,22 +987,22 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "El Cosechero",
-        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
         },
         {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 197826,
-      "name": "El Cosechero",
-      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "Regresar\u00e9",
+        "url": "https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls"
+      },
+      "artists": [
+        {
+          "name": "Gabo Ferro",
+          "url": "https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT"
+        },
+        {
+          "name": "Sergio Ch.",
+          "url": "https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf"
+        }
+      ],
+      "duration_ms": 368163,
+      "name": "Regresar\u00e9",
+      "url": "https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Aquarela",
         "url": "https://open.spotify.com/album/4zVEN1MIcPu74mj1WnCD7C"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 267173,
       "name": "Esta Noche de Luna",
       "url": "https://open.spotify.com/track/0fQn5ev528PioMqZeykdom"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "Regresar\u00e9",
-        "url": "https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls"
-      },
-      "artists": [
-        {
-          "name": "Gabo Ferro",
-          "url": "https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT"
-        },
-        {
-          "name": "Sergio Ch.",
-          "url": "https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf"
-        }
-      ],
-      "duration_ms": 368163,
-      "name": "Regresar\u00e9",
-      "url": "https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Ma\u00f1ana es tarde",
-        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
       "artists": [
         {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
       ],
-      "duration_ms": 199070,
-      "name": "Ma\u00f1ana es tarde",
-      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1447,34 +1447,34 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "Ma\u00f1ana es tarde",
+        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+      "duration_ms": 199070,
+      "name": "Ma\u00f1ana es tarde",
+      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
     },
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
         }
       ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
       },
       "artists": [
         {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Naranjas Al Mar",
-        "url": "https://open.spotify.com/album/1bd58EjzJ7keLlwtsR61Vi"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "Marala",
-          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
-        }
-      ],
-      "duration_ms": 186789,
-      "name": "Naranjas Al Mar",
-      "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "Naranjas Al Mar",
+        "url": "https://open.spotify.com/album/1bd58EjzJ7keLlwtsR61Vi"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "Marala",
+          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
+        }
+      ],
+      "duration_ms": 186789,
+      "name": "Naranjas Al Mar",
+      "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Qu\u00e9 Bonito Es Tu Mirar",
         "url": "https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 285581,
       "name": "Qu\u00e9 Bonito Es Tu Mirar",
       "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1715,6 +1695,42 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Todo palante ya",
+        "url": "https://open.spotify.com/album/0J4pHbmkeVEEolJ1YhIjB5"
+      },
+      "artists": [
+        {
+          "name": "Lino Suricato",
+          "url": "https://open.spotify.com/artist/2B3pogaficYqwZ3DwaKH47"
+        }
+      ],
+      "duration_ms": 214197,
+      "name": "Todo palante ya",
+      "url": "https://open.spotify.com/track/4yu3fWLvZRvyjyOrGIUPfF"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Que te parta un rayo",
-        "url": "https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu"
-      },
-      "artists": [
-        {
-          "name": "Pauline En La Playa",
-          "url": "https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe"
-        }
-      ],
-      "duration_ms": 254847,
-      "name": "Que te parta un rayo",
-      "url": "https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Herba de Namorar",
         "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
       },
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Mu\u00e9rdeme la vida",
-        "url": "https://open.spotify.com/album/35l8xqCQ8nZaw0SHS8DdBs"
+        "name": "Que te parta un rayo",
+        "url": "https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Ojuelos",
-          "url": "https://open.spotify.com/artist/2qw2bM2FOqesfaWJybn7M5"
+          "name": "Pauline En La Playa",
+          "url": "https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Mu\u00e9rdeme la vida",
-      "url": "https://open.spotify.com/track/37hP2T2zaVHf5ahQP0PGMQ"
+      "duration_ms": 254847,
+      "name": "Que te parta un rayo",
+      "url": "https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1795,6 +1795,22 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Mu\u00e9rdeme la vida",
+        "url": "https://open.spotify.com/album/35l8xqCQ8nZaw0SHS8DdBs"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Ojuelos",
+          "url": "https://open.spotify.com/artist/2qw2bM2FOqesfaWJybn7M5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Mu\u00e9rdeme la vida",
+      "url": "https://open.spotify.com/track/37hP2T2zaVHf5ahQP0PGMQ"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1867,34 +1883,6 @@
       "duration_ms": 225462,
       "name": "Sonqollay",
       "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Nacho Rodriguez",
-          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "Por ejemplo ahora",
-          "url": "https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy"
-        }
-      ],
-      "duration_ms": 233385,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
     }
   ],
   "unique_name": "Cancionistas",

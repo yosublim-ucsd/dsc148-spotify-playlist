@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Imagine Dragons",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Franz Ferdinand",
   "name": "Rock The World",
   "tracks": [
     {
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 173350,
       "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
       "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
@@ -10813,6 +10813,24 @@
     },
     {
       "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
+    },
+    {
+      "album": {
         "name": "The Beatles 1967 \u2013 1970 (2023 Edition)",
         "url": "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP"
       },
@@ -11232,6 +11250,24 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161158,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA"
     },
     {
       "album": {
@@ -14756,7 +14792,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 372805,
       "name": "Luckiest Man In The World",
       "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
@@ -19242,7 +19278,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169659,
       "name": "Puppet Stringers",
       "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"

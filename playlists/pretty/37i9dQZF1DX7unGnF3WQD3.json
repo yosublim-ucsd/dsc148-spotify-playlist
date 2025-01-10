@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 5568,
+  "num_followers": 5619,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "LINDA",
-      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG PASSA PASSA PRA EU SARRAR",
         "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Efeitos",
-        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "LELIS",
-          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "MTG Efeitos",
-      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG - Base da Maldade",
         "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 116538,
       "name": "MTG - Base da Maldade",
       "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Efeitos",
+        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "LELIS",
+          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "MTG Efeitos",
+      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "DOMPERI",
-        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "AXL",
-          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
-        }
-      ],
-      "duration_ms": 125747,
-      "name": "DOMPERI",
-      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Sweet Karma Compilation 2020",
         "url": "https://open.spotify.com/album/1SSXLsNfuXPjz3f2i0Emop"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 240000,
       "name": "Ense\u00f1ame a So\u00f1ar",
       "url": "https://open.spotify.com/track/7uGDi5xCAu1rGjLhpXDCrh"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "DOMPERI",
+        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "AXL",
+          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
+        }
+      ],
+      "duration_ms": 125747,
+      "name": "DOMPERI",
+      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1827,30 +1827,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Infarto",
-        "url": "https://open.spotify.com/album/1Whvjbd1ElCTFMC2VYV6r4"
+        "name": "Prende La Fiesta",
+        "url": "https://open.spotify.com/album/7D7qSQMZ9FVceWy2BtkK6O"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Dj Dasten",
+          "url": "https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0"
         },
         {
-          "name": "DJ LG PROD",
-          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
-        },
-        {
-          "name": "DJ JZ",
-          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
-        },
-        {
-          "name": "Mc Mininin",
-          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
         }
       ],
-      "duration_ms": 166217,
-      "name": "MTG Infarto",
-      "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
+      "duration_ms": 186000,
+      "name": "Prende La Fiesta",
+      "url": "https://open.spotify.com/track/0ecNQwI7XCZzZitraDt9IC"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1879,22 +1871,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Prende La Fiesta",
-        "url": "https://open.spotify.com/album/7D7qSQMZ9FVceWy2BtkK6O"
+        "name": "MTG Infarto",
+        "url": "https://open.spotify.com/album/1Whvjbd1ElCTFMC2VYV6r4"
       },
       "artists": [
         {
-          "name": "Dj Dasten",
-          "url": "https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         },
         {
-          "name": "Fumaratto",
-          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+          "name": "DJ LG PROD",
+          "url": "https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA"
+        },
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Mc Mininin",
+          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Prende La Fiesta",
-      "url": "https://open.spotify.com/track/0ecNQwI7XCZzZitraDt9IC"
+      "duration_ms": 166217,
+      "name": "MTG Infarto",
+      "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2075,30 +2075,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG PIRA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
-      },
-      "artists": [
-        {
-          "name": "Kak\u00e1 e Pedrinho",
-          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
-        },
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "DJ JO\u00c3O PEREIRA",
-          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "MTG PIRA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -2123,6 +2099,30 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG PIRA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
+      },
+      "artists": [
+        {
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "MTG PIRA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2523,26 +2523,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Mtg Alibi",
-        "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
       },
       "artists": [
         {
-          "name": "Dj W-Beatz",
-          "url": "https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS"
+          "name": "Chapa & Castelo",
+          "url": "https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH"
         },
         {
-          "name": "DJ Katrip",
-          "url": "https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 133740,
-      "name": "Mtg Alibi",
-      "url": "https://open.spotify.com/track/3JTuZvqu7bWkQj1oDDM9AQ"
+      "duration_ms": 330000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2567,22 +2563,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
+        "name": "Mtg Alibi",
+        "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
       },
       "artists": [
         {
-          "name": "Chapa & Castelo",
-          "url": "https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH"
+          "name": "Dj W-Beatz",
+          "url": "https://open.spotify.com/artist/1359cXd992MwCyGCgbPDcS"
         },
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "DJ Katrip",
+          "url": "https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
+      "duration_ms": 133740,
+      "name": "Mtg Alibi",
+      "url": "https://open.spotify.com/track/3JTuZvqu7bWkQj1oDDM9AQ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2703,26 +2703,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "PLYBOY",
-        "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 192658,
-      "name": "PLYBOY",
-      "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "La Bebe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
       },
@@ -2747,22 +2727,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Sax To Me",
-        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+        "name": "PLYBOY",
+        "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
       },
       "artists": [
         {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Joseph Qas",
-          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 364971,
-      "name": "Sax To Me",
-      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+      "duration_ms": 192658,
+      "name": "PLYBOY",
+      "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2795,6 +2775,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG - YOUR LOVE",
         "url": "https://open.spotify.com/album/7CiHMxcZBjczZrg8S0D1qF"
       },
@@ -2811,30 +2811,6 @@
       "duration_ms": 106495,
       "name": "MTG - YOUR LOVE",
       "url": "https://open.spotify.com/track/7IOfvsZ09en7DO6RT4OGI4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG Manda Um Oi",
-        "url": "https://open.spotify.com/album/08YvYAIuFvs7Z5AXEtZ0Jk"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        },
-        {
-          "name": "Hyago Gomes",
-          "url": "https://open.spotify.com/artist/4RxoNU65Os6pHkmuEzSlTg"
-        }
-      ],
-      "duration_ms": 133138,
-      "name": "MTG Manda Um Oi",
-      "url": "https://open.spotify.com/track/1tXdYQEmJ141Qt4uwHOsqQ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2863,18 +2839,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vamo a Jugar Al Goloso",
-        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
+        "name": "MTG Manda Um Oi",
+        "url": "https://open.spotify.com/album/08YvYAIuFvs7Z5AXEtZ0Jk"
       },
       "artists": [
         {
-          "name": "Guaracha",
-          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        },
+        {
+          "name": "Hyago Gomes",
+          "url": "https://open.spotify.com/artist/4RxoNU65Os6pHkmuEzSlTg"
         }
       ],
-      "duration_ms": 153808,
-      "name": "Vamo a Jugar Al Goloso",
-      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
+      "duration_ms": 133138,
+      "name": "MTG Manda Um Oi",
+      "url": "https://open.spotify.com/track/1tXdYQEmJ141Qt4uwHOsqQ"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2899,6 +2883,22 @@
       "duration_ms": 194000,
       "name": "Buenos Aires (en la cara)",
       "url": "https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Vamo a Jugar Al Goloso",
+        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
+      },
+      "artists": [
+        {
+          "name": "Guaracha",
+          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
+        }
+      ],
+      "duration_ms": 153808,
+      "name": "Vamo a Jugar Al Goloso",
+      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Nosso Xote",
-        "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
-      },
-      "artists": [
-        {
-          "name": "Lukkas",
-          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
-        },
-        {
-          "name": "Janayna Pereira",
-          "url": "https://open.spotify.com/artist/38ziaICZZXwwjVLBdFAC55"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "MTG Nosso Xote",
-      "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "El Mariachi",
         "url": "https://open.spotify.com/album/1IDoRaTAdiGxOGQvPxhUdG"
       },
@@ -2975,6 +2955,26 @@
       "duration_ms": 195802,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/4lvgZsyJZIYn6QRMZvlt3O"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Nosso Xote",
+        "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
+      },
+      "artists": [
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        },
+        {
+          "name": "Janayna Pereira",
+          "url": "https://open.spotify.com/artist/38ziaICZZXwwjVLBdFAC55"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "MTG Nosso Xote",
+      "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3075,30 +3075,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
-        "url": "https://open.spotify.com/album/6voF5crlfYDAIeC3lMAQhD"
-      },
-      "artists": [
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "KELNER",
-          "url": "https://open.spotify.com/artist/3EQDZuafzVuNqWlTxS8QXA"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 115183,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
-      "url": "https://open.spotify.com/track/6HC2oHUAbDJmffYKPZKtTg"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Perdiendo El Control",
         "url": "https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4"
       },
@@ -3119,70 +3095,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Sin Dormir (Ya Se Arm\u00f3)",
-        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+        "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
+        "url": "https://open.spotify.com/album/6voF5crlfYDAIeC3lMAQhD"
       },
       "artists": [
         {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "KELNER",
+          "url": "https://open.spotify.com/artist/3EQDZuafzVuNqWlTxS8QXA"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 160150,
-      "name": "Sin Dormir (Ya Se Arm\u00f3)",
-      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Derecha la Flecha",
-        "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Derecha la Flecha",
-      "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "El Merengue (HUGEL Remix)",
-        "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 168153,
-      "name": "El Merengue - HUGEL Remix",
-      "url": "https://open.spotify.com/track/3qMimm5bezPaKIISP9f7mu"
+      "duration_ms": 115183,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a (Me Tira Do S\u00e9rio) - MTG",
+      "url": "https://open.spotify.com/track/6HC2oHUAbDJmffYKPZKtTg"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3219,6 +3151,74 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Sin Dormir (Ya Se Arm\u00f3)",
+        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "El Merengue (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/11XlVWabaJZbSWaKipFp9k"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 168153,
+      "name": "El Merengue - HUGEL Remix",
+      "url": "https://open.spotify.com/track/3qMimm5bezPaKIISP9f7mu"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Derecha la Flecha",
+        "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Derecha la Flecha",
+      "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Vem Ni Mim Dodge Ram",
         "url": "https://open.spotify.com/album/2DDoUUCBYW50xvx9MST0SQ"
       },
@@ -3243,22 +3243,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Modo St1ngy",
-        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Modo St1ngy",
-      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "NO MIENTEN",
         "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
       },
@@ -3271,6 +3255,22 @@
       "duration_ms": 147395,
       "name": "NO MIENTEN",
       "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
     }
   ],
   "unique_name": "los prohibidos",

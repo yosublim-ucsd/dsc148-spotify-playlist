@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d2\u05f3\u05d9\u05e8\u05e4\u05d5\u05ea ",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 159516,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Down for a Moment",
+        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+      },
+      "artists": [
+        {
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Shelly Archer",
+          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Down for a Moment",
+      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+    },
+    {
+      "album": {
         "name": "DUMB (AATM) [Live]",
         "url": "https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM"
       },
@@ -272,6 +294,28 @@
       "duration_ms": 149043,
       "name": "DUMB (AATM) - Live",
       "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
+    },
+    {
+      "album": {
+        "name": "Elle M'a Dit (\u05d4\u05d5\u05e4\u05e2\u05d5\u05ea \u05d1\u05de\u05e4\u05e2\u05dc \u05d4\u05e4\u05d9\u05e1)",
+        "url": "https://open.spotify.com/album/3Po407wTDSSjePe8eESiOp"
+      },
+      "artists": [
+        {
+          "name": "Odelly",
+          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
+        },
+        {
+          "name": "\u05d0\u05e7\u05d5\u05d5\u05e8\u05d9\u05d5\u05dd",
+          "url": "https://open.spotify.com/artist/6x8Gx0QsD24sAezBuKzXoA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168014,
+      "name": "Elle M'a Dit - \u05d4\u05d5\u05e4\u05e2\u05d5\u05ea \u05d1\u05de\u05e4\u05e2\u05dc \u05d4\u05e4\u05d9\u05e1",
+      "url": "https://open.spotify.com/track/66Kl8wtDzXleeD5SJFAqXy"
     },
     {
       "album": {
@@ -720,7 +764,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
@@ -898,7 +942,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
@@ -1823,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d5\u05e9\u05dc\u05de\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/0cqZpntWMsPS3q4E40a6lk"
+      },
+      "artists": [
+        {
+          "name": "Ofiri",
+          "url": "https://open.spotify.com/artist/4d0qotNvTkO3McH3WWpUg6"
+        },
+        {
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "\u05d8\u05e4\u05d5 \u05d8\u05e4\u05d5",
+      "url": "https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5"
+    },
+    {
+      "album": {
         "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
         "url": "https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK"
       },
@@ -1892,7 +1958,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 212439,
       "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
       "url": "https://open.spotify.com/track/50aKr7sZqlf7Im2noj9P5K"
@@ -1976,6 +2042,24 @@
       "duration_ms": 223540,
       "name": "\u05db\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
+        "url": "https://open.spotify.com/album/2ummjP9nMAduQFBjtQoF6P"
+      },
+      "artists": [
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223274,
+      "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
+      "url": "https://open.spotify.com/track/0BhB8dOpl7STuLZOMYvfHb"
     },
     {
       "album": {
@@ -2330,7 +2414,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197866,
       "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
@@ -2356,6 +2440,24 @@
       "duration_ms": 199176,
       "name": "\u05de\u05d4 \u05e9\u05e6\u05e8\u05d9\u05da \u05e2\u05db\u05e9\u05d9\u05d5",
       "url": "https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408830,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "album": {
@@ -2886,7 +2988,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 232000,
       "name": "\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d4\u05d5\u05d1",
       "url": "https://open.spotify.com/track/7BNMlLhlsC1BejJU0IBOGU"
@@ -3094,7 +3196,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 146673,
       "name": "\u05ea\u05d7\u05d6\u05d5\u05e8",
       "url": "https://open.spotify.com/track/1gSLXmVaqxaVxhgZhYg2fV"

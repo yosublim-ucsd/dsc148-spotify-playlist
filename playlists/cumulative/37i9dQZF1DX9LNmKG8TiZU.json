@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "Des titres pop, tout en douceur. Photo : Teddy Swims",
+  "description": "Des titres pop, tout en douceur. Photo : Gracie Abrams",
   "name": "Douceur Pop",
   "tracks": [
     {
@@ -38,6 +38,32 @@
       "duration_ms": 172653,
       "name": "10/10",
       "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+    },
+    {
+      "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "album": {
@@ -673,6 +699,24 @@
     },
     {
       "album": {
+        "name": "By Your Side (In My Mind)",
+        "url": "https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177148,
+      "name": "By Your Side (In My Mind)",
+      "url": "https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
@@ -1010,7 +1054,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183475,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
@@ -1534,6 +1578,24 @@
       "duration_ms": 200787,
       "name": "Good Torture (with Elyanna)",
       "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
+    },
+    {
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
     },
     {
       "album": {
@@ -2706,7 +2768,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194000,
       "name": "Pages",
       "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
@@ -2778,7 +2840,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 290727,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uFZ8VQC12xSEmJlpYLVYd"
@@ -3070,6 +3132,28 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145622,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
     },
     {
       "album": {
@@ -3416,7 +3500,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180713,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"

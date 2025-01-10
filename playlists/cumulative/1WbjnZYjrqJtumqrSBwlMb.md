@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,037 songs - 2 day 15 hr 42 min
+1,041 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Girlie](https://open.spotify.com/track/76cqRw0ed5YdOFaQhrwkxE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 3:22 | 2021-12-14 |  |
 | [Give Up](https://open.spotify.com/track/14g719b4V34B2m1zEpjOAj) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Forget Who You Are \(Deluxe\)](https://open.spotify.com/album/6PIetyBEKsmM07PS0PIEr7) | 2:45 | 2022-10-20 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-03-04 |  |
+| [Glass in the park](https://open.spotify.com/track/5OHbgQbHzTjolHzWffSrvn) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:59 | 2025-01-09 |  |
 | [Glimmer](https://open.spotify.com/track/1unBUyjeQUDiJ8N89XiDrr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 2:08 | 2020-02-13 |  |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-06 |  |
 | [gloria \(with sza\)](https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:47 | 2024-11-24 |  |
@@ -386,6 +387,7 @@
 | [HERMANOS](https://open.spotify.com/track/4BFteJu5Hv7XStDXghJbQ7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 4:25 | 2023-07-11 |  |
 | [hesitation](https://open.spotify.com/track/1QwYL1JmXingJ2UQeLEeBH) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [hesitation](https://open.spotify.com/album/2O1vUJU8wqdnoUDOUdllIi) | 2:57 | 2022-04-07 |  |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2024-11-01 |  |
+| [Hiding tonight](https://open.spotify.com/track/3UKy1X3nGe5diFqN5swaFz) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:06 | 2025-01-09 |  |
 | [HiFi \(True Light\)](https://open.spotify.com/track/6W2pDHqWoU81UsvMSFN6pz) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:22 | 2024-05-17 |  |
 | [High For This](https://open.spotify.com/track/2ye9iWj5V4g6k6HFeTTAKa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:09 | 2022-12-17 |  |
 | [History](https://open.spotify.com/track/5PkNAc7ecD8Rk8ieuXCfQr) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:50 | 2022-06-05 |  |
@@ -459,6 +461,7 @@
 | [It Might Be Time](https://open.spotify.com/track/558ubozatFQlweufvHa3Ip) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:33 | 2020-02-13 |  |
 | [It Was A Good Day](https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Greatest Hits](https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ) | 4:20 | 2022-09-19 |  |
 | [it's enough](https://open.spotify.com/track/3sov0aaTgk8kTZYpZH7x6A) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:40 | 2022-07-29 |  |
+| [It's hard to get around the wind](https://open.spotify.com/track/5kZD0TTSYAgRzciBtKCmgT) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 4:07 | 2025-01-09 |  |
 | [It’s All a Game](https://open.spotify.com/track/7s3w5QnCyPYD4xIbOrB8XB) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:51 | 2021-04-15 |  |
 | [IVE OFFICIALLY LOST ViSiON!!!!](https://open.spotify.com/track/4PXuZYWhkyGXQzfSRy2PW1) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:22 | 2023-01-29 |  |
 | [Jack Harlow Combo Meal](https://open.spotify.com/track/3nYRRPC3un32wq7bbHDitX) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:18 | 2023-03-24 |  |
@@ -670,6 +673,7 @@
 | [Pet Cheetah](https://open.spotify.com/track/7daBwTiPNOVgoMUG4SICgh) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:18 | 2022-03-15 |  |
 | [Photobook/Easy Listening](https://open.spotify.com/track/56odYTD71HSDrNbaQHbxhb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 3:59 | 2023-06-29 |  |
 | [picking up hands](https://open.spotify.com/track/2xierjLR7uw06LgO6eETwN) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:59 | 2022-11-11 |  |
+| [Piledriver waltz](https://open.spotify.com/track/3s5ogvexUgA6XjNj37zpnP) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:24 | 2025-01-09 |  |
 | [Piledriver Waltz](https://open.spotify.com/track/4Ai0ANRDYwx6mCD4Uty1WS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:23 | 2019-11-03 |  |
 | [Pink as Floyd](https://open.spotify.com/track/03GSskFw5AAKkwlOfiUMpR) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Pink as Floyd / Your Eyes Girl](https://open.spotify.com/album/582BvSmU6StxTJ4PmTR79j) | 4:53 | 2023-09-16 |  |
 | [Please Don’t Wake Me Up](https://open.spotify.com/track/6Oy0oLJUbZC7FTay0OLyGn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:01 | 2021-11-03 |  |

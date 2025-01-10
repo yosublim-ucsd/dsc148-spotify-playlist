@@ -1,6 +1,6 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 35982,
+  "num_followers": 35983,
   "original_name": "Kauneimmat rakkauslaulut",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-12-13 12:26:25",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe"
       },
       "artists": [
         {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
         }
       ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+      "duration_ms": 242733,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
     },
     {
       "added_at": "2024-12-13 12:26:25",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-12-13 12:26:25",
       "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2024-12-13 12:26:25",
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-12-13 12:26:25",
-      "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
     },
     {
       "added_at": "2024-12-13 12:26:25",

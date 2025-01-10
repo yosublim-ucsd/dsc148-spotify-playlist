@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103540,
+  "num_followers": 103547,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADOZ2NjdEQIHcQgKC8Jvv+t",
+  "snapshot_id": "Z33AAAAAAABHA2vkBn/wCZNFqiDsPhZJ",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "La Mejor Versi\u00f3n de M\u00ed",
-      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 186306,
       "name": "Buena Se\u00f1al",
       "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "La Mejor Versi\u00f3n de M\u00ed",
+      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 263429,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 263429,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
     },
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
       "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
       "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 258480,
-      "name": "Si Quieres - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -659,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct"
+        "name": "Merecemos Perdonarnos (En Vivo)",
+        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
       },
       "artists": [
         {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN"
+      "duration_ms": 195000,
+      "name": "Merecemos Perdonarnos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merecemos Perdonarnos (En Vivo)",
-        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Merecemos Perdonarnos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
+      "duration_ms": 176786,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN"
     },
     {
       "added_at": null,

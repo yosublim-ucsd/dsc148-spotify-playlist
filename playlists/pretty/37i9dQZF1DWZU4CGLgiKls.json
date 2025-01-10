@@ -1,6 +1,6 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 552952,
+  "num_followers": 552945,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Mujer Amante",
-      "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "pa quererte",
         "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 167272,
       "name": "pa quererte",
       "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 363120,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
+        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
-        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
     },
     {
       "added_at": "2024-06-14 18:12:30",

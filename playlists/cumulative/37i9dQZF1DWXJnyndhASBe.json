@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Igi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -3582,6 +3582,28 @@
       "duration_ms": 206693,
       "name": "Felga",
       "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
+    },
+    {
+      "album": {
+        "name": "Fioletowy rok",
+        "url": "https://open.spotify.com/album/4IM4Gfvm4QKcByBFthrxQY"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "VAE VISTIC",
+          "url": "https://open.spotify.com/artist/5mHmKPBFWx5DZWUtb2xGJg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175462,
+      "name": "Fioletowy rok",
+      "url": "https://open.spotify.com/track/71ZFriu82lLJQRtcOCREO0"
     },
     {
       "album": {
@@ -9022,7 +9044,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213517,
       "name": "PINEZKA",
       "url": "https://open.spotify.com/track/4brp8oXYkKJtkJWYuUaZ5T"
@@ -9324,6 +9346,32 @@
       "duration_ms": 188478,
       "name": "POMALUJ M\u00d3J \u015aWIAT",
       "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
+    },
+    {
+      "album": {
+        "name": "Art Brut 1 RemiXed",
+        "url": "https://open.spotify.com/album/5NxRbvAAcbwZnpkxz5wItO"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        },
+        {
+          "name": "Duit",
+          "url": "https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199889,
+      "name": "Posz\u0142a i nie wr\u00f3ci - Duit remix",
+      "url": "https://open.spotify.com/track/09hZhguptMEJ1PiFq9M5l7"
     },
     {
       "album": {
@@ -11724,7 +11772,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 138854,
       "name": "Wady",
       "url": "https://open.spotify.com/track/5eSTrrtre6XKmEdK3dxZwK"

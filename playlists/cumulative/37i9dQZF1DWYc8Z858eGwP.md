@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYc8Z858eGwP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYc8Z858eGwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYc8Z858eGwP)
 
-### [RADAR Africa Presents Best of 2024](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
+### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> Editors' picks: The most exciting new artists of 2024 from the African continent & diaspora\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
+> Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
 397 songs - 20 hr 59 min
 

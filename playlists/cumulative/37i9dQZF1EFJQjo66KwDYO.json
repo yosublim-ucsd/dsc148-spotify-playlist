@@ -559,6 +559,42 @@
     },
     {
       "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/7tPGLotaxutfrmlxKy6Qkd"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148758,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/6WQMfDvUncSGq3qYwCs0wn"
+    },
+    {
+      "album": {
+        "name": "Smoke Kills",
+        "url": "https://open.spotify.com/album/7MnbExqdv85VbBJOBDbYTw"
+      },
+      "artists": [
+        {
+          "name": "Tobacco Trey",
+          "url": "https://open.spotify.com/artist/36vZUnajbnvuj0xnCIUiUG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142703,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/72PZSpg5Cmf3lhwFg2iRq2"
+    },
+    {
+      "album": {
         "name": "Fifth Harmony",
         "url": "https://open.spotify.com/album/506tSgFO28YCEALMLihVPB"
       },
@@ -596,6 +632,24 @@
       "duration_ms": 188523,
       "name": "Lose Me (feat. Buddy)",
       "url": "https://open.spotify.com/track/6xRA0uWn06G0A5oPddcQmF"
+    },
+    {
+      "album": {
+        "name": "I TRIED.",
+        "url": "https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
     },
     {
       "album": {
@@ -1228,6 +1282,28 @@
       "duration_ms": 219133,
       "name": "With You",
       "url": "https://open.spotify.com/track/5vw3u4jT9DTaWyTLkiZO3K"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "album": {

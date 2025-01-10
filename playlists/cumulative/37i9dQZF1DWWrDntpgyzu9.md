@@ -4,7 +4,7 @@
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-193 songs - 11 hr 54 min
+194 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amor Da Sua Cama](https://open.spotify.com/track/2cwFhwT6L2D4Olc25nhyZo) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/53tp3z7z5S8g03ihD8Lxdo) | 3:08 | 2021-09-22 | 2022-07-27 |
 | [Amor de Que](https://open.spotify.com/track/7yYsyXQa2JgbyL9fkEiUNt) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Amor de Que](https://open.spotify.com/album/7l33nvkUCKtJnGCoeFCChf) | 2:37 | 2021-09-22 | 2022-07-16 |
 | [Anna Júlia \- Ao Vivo](https://open.spotify.com/track/3vGvMhuNgM3KVuwHEwZWwI) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Los Hermanos Na Fundição Progresso \- 09 De Junho De 2007](https://open.spotify.com/album/5O0RXUfsKQONx3HPuQK0Pj) | 3:46 | 2021-09-22 | 2022-07-29 |
+| [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2024-09-17 |  |
 | [Ar\-Condicionado No 15 \- Ao Vivo](https://open.spotify.com/track/5ac0YTpOaDX9wEYYyGCglL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/508PwdK7nipXn6CL20PWkb) | 2:48 | 2021-09-22 | 2022-07-28 |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2021-09-22 |  |
 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 | 2021-09-22 | 2024-04-19 |
@@ -64,7 +65,7 @@
 | [Evidências](https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Do Tamanho do Nosso Amor](https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077) | 4:39 | 2021-09-22 | 2022-07-29 |
 | [Exagerado](https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado](https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX) | 3:43 | 2021-09-22 | 2022-07-29 |
 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 | 2024-08-02 | 2024-11-01 |
-| [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 | 2024-09-17 |  |
+| [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 | 2024-09-17 | 2025-01-10 |
 | [Fazer Falta](https://open.spotify.com/track/6pSYjx66rlqRmGGTHhnjCo) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/12SX4VJ6rdQQpMGHVBl1oe) | 3:30 | 2021-09-22 | 2022-03-21 |
 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 | 2021-09-22 | 2022-07-29 |
 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 | 2021-09-22 | 2022-07-06 |

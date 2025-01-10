@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26369,
+  "num_followers": 26382,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -303,30 +303,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 163804,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 196214,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Late Night Feelings (feat. Lykke Li)",
-        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Late Night Feelings (feat. Lykke Li)",
+        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Let You Love Me",
         "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 190000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1215,22 +1231,6 @@
       "duration_ms": 177669,
       "name": "Love Me Less (feat. Quinn XCII)",
       "url": "https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 171898,
       "name": "Problems",
       "url": "https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
     },
     {
       "added_at": "2024-07-03 14:32:39",

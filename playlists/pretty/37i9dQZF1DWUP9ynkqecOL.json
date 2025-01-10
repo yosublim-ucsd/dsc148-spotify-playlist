@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23707,
+  "num_followers": 23710,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Wal\u00fcng II",
-        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
-      },
-      "artists": [
-        {
-          "name": "El Extravagante",
-          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
-        },
-        {
-          "name": "Camilo Zanetti",
-          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Baile De M\u00e1scaras",
-      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Wal\u00fcng II",
+        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
+      },
+      "artists": [
+        {
+          "name": "El Extravagante",
+          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
+        },
+        {
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Baile De M\u00e1scaras",
+      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        },
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        },
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
     },
     {
       "added_at": "2024-10-22 19:09:15",

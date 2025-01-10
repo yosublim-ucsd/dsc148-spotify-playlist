@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,457 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,442 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 73 | [Assome](https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:00 |
 | 74 | [SAFADIN GOXTOZIN](https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:02 |
 | 75 | [Sussurro](https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Sussurro](https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95) | 3:10 |
-| 76 | [PELADA](https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PELADA](https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW) | 2:50 |
-| 77 | [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 |
+| 76 | [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 |
+| 77 | [PELADA](https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PELADA](https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW) | 2:50 |
 | 78 | [Mensagem](https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [Mensagem](https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy) | 2:28 |
 | 79 | [Bora pra praia](https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [BORABAEZ](https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj) | [Bora pra praia](https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa) | 3:48 |
 | 80 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 86 | [INFAME](https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Cena 1](https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx) | 3:22 |
 | 87 | [pdv](https://open.spotify.com/track/6F1GOxswjLVcpUfC9CkowQ) | [TMJ](https://open.spotify.com/artist/1kI5Fhk2S8mHOEdTcGu6Yn), [Laudz](https://open.spotify.com/artist/7yrw5KX85FJ6aKdMfBSa9T) | [glitchfunk](https://open.spotify.com/album/6URVDClAwhEMLm1fGdgDsP) | 1:29 |
 | 88 | [7AM](https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [7AM](https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn) | 2:47 |
-| 89 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 |
-| 90 | [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 |
+| 89 | [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 |
+| 90 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 |
 
 Snapshot ID: `Z2m8KAAAAACEzoHvGgnT9W0NFYuvAymw`

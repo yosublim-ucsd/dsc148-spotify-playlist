@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-148 songs - 7 hr 54 min
+149 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-06-27 |  |
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-06-27 | 2024-09-02 |
-| [AIR FORCE TWO](https://open.spotify.com/track/1g6sgy0wgjMlYdeeQdBdPz) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 1:39 | 2024-11-21 |  |
+| [AIR FORCE TWO](https://open.spotify.com/track/1g6sgy0wgjMlYdeeQdBdPz) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 1:39 | 2024-11-21 | 2025-01-10 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2024-06-27 |  |
 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 | 2024-06-27 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
@@ -38,7 +38,7 @@
 | [Bones Shake](https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Bones Shake](https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk) | 3:46 | 2024-06-27 |  |
 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2024-08-22 | 2024-09-06 |
 | [Börja Om](https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Börja Om](https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ) | 2:56 | 2024-06-27 | 2024-08-13 |
-| [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 |  |
+| [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 | 2025-01-10 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2024-06-27 |  |
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-06-27 | 2024-07-22 |
 | [December](https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [December](https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2) | 2:41 | 2024-11-21 |  |
@@ -46,6 +46,7 @@
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-11-15 |
 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2024-06-27 |  |
+| [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 | 2025-01-09 |  |
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-06-27 | 2024-08-07 |
 | [Dina läppar](https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:06 | 2024-06-27 |  |
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-22 |  |
@@ -87,7 +88,7 @@
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2024-10-25 |
 | [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-06-27 | 2024-09-14 |
 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 | 2024-06-27 |  |
-| [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 | 2024-06-27 | 2025-01-07 |
+| [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 | 2024-06-27 |  |
 | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/track/5107Vxr0Cz7tNWf5lY2n6O) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/album/2k9ErKiTKBZZEOszz2g49C) | 3:24 | 2024-08-08 | 2024-10-15 |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2024-06-27 |  |
 | [It's a Beautiful Dream](https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 2:53 | 2024-06-27 | 2024-10-16 |

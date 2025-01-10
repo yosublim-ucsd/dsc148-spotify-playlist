@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: あっこゴリラ
 
-2,065 songs - 5 day 8 hr 46 min
+2,067 songs - 5 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 | 2024-10-08 | 2025-01-08 |
 | [Hitohito](https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Hitohito](https://open.spotify.com/album/4azrBZDRfk6pT59gYODhv6) | 4:21 | 2023-12-05 | 2023-12-27 |
 | [Hitsujigumo](https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Hitsujigumo](https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg) | 3:37 | 2024-04-02 | 2024-04-10 |
+| [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 | 2025-01-09 |  |
 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 | 2024-01-23 | 2024-01-31 |
 | [Holiday Coffee](https://open.spotify.com/track/1t657PdwYCNvJ9BqIt7imn) | [Dreamcast](https://open.spotify.com/artist/7l0f04RlI76FMqgXTOIJWI), [Koichiro Toyoda](https://open.spotify.com/artist/6fvMrUiC0ToUVL7BqZU8H1) | [Holiday Coffee](https://open.spotify.com/album/4cJxiAuV9TiBNwJuEDozUf) | 3:55 | 2023-01-12 | 2023-01-18 |
 | [Hollow \- Side\-A](https://open.spotify.com/track/453RJe34QIQ2ijFkdnv9qg) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Hollow \(Side\-A\)](https://open.spotify.com/album/5rjioNM3SnzKpGgwE8whoS) | 3:28 | 2023-11-29 | 2023-12-06 |
@@ -735,6 +736,7 @@
 | [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2023-01-12 | 2023-01-18 |
 | [My Elephant](https://open.spotify.com/track/1njrebnIL2lhICQ5z1xa2p) | [DFI](https://open.spotify.com/artist/1Y7Wv5L3nj2OVtLpMNLNKK) | [My Elephant](https://open.spotify.com/album/3Ika8JhOHH94DCMWHUkiUg) | 2:30 | 2024-01-16 | 2024-01-24 |
 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 | 2023-01-24 | 2023-02-22 |
+| [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 | 2025-01-09 |  |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-03-28 | 2024-09-18 |
 | [MY SUPER GOOD FRIEND](https://open.spotify.com/track/4w1FBbT277yKyz8kDAE6I1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [MY SUPER GOOD FRIEND](https://open.spotify.com/album/12DsIJ7IylirWgRfeL6c5F) | 3:47 | 2023-07-25 | 2023-10-25 |
 | [my sweet empousa](https://open.spotify.com/track/60VNp9USPkSIQ53Bk3Ltzc) | [The Earth Earth](https://open.spotify.com/artist/4dbb5ZNqbO2NW0JeFYjvSj) | [my sweet empousa](https://open.spotify.com/album/2M5VSMEXMaRDgxMX2v09FQ) | 6:08 | 2024-01-02 | 2024-01-10 |
@@ -1312,7 +1314,7 @@
 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 | 2024-01-11 | 2024-05-08 |
 | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/track/1kTDi3VNS16kDChrTftuM4) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/album/6mYcCx374J3fHWVKo8pWFt) | 3:07 | 2024-05-28 | 2024-06-12 |
 | [あいしてる](https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [あいしてる](https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4) | 5:39 | 2024-11-13 |  |
-| [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 | 2024-12-24 |  |
+| [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 | 2024-12-24 | 2025-01-10 |
 | [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 | 2023-06-29 | 2023-07-01 |
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2023-12-15 |
 | [あたしぐらいは願うたび](https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [あたしぐらいは願うたび](https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ) | 4:20 | 2024-01-09 | 2024-01-25 |
@@ -1749,7 +1751,7 @@
 | [夕陽](https://open.spotify.com/track/50LOQDfaIwCDXWor7PkyS3) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [夕陽](https://open.spotify.com/album/5R5PTG0i4VEoeOE3YXMHKM) | 3:24 | 2023-12-12 | 2023-12-20 |
 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 | 2024-01-23 | 2024-01-31 |
 | [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 | 2023-07-20 |
-| [夜だけが知っている](https://open.spotify.com/track/2oBiYXYJLcUWhTG5obSKY7) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [夜だけが知っている](https://open.spotify.com/album/6C6NRCjaSzC2zBj2KQnR7B) | 4:47 | 2025-01-07 |  |
+| [夜だけが知っている](https://open.spotify.com/track/2oBiYXYJLcUWhTG5obSKY7) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [夜だけが知っている](https://open.spotify.com/album/6C6NRCjaSzC2zBj2KQnR7B) | 4:47 | 2025-01-07 | 2025-01-10 |
 | [夜のららら](https://open.spotify.com/track/6IltMqjzbV2jgcIbhvKwp1) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [夜のららら](https://open.spotify.com/album/6ic6zXC7FmvmKZ7yi8Ezth) | 4:02 | 2024-04-16 | 2024-04-24 |
 | [夜のドライブ](https://open.spotify.com/track/0ll580m9IDvoBQhNW0R9Ey) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [夜のドライブ](https://open.spotify.com/album/4JzdbI9bXhsBYvPBg59m2G) | 3:17 | 2023-08-15 | 2023-08-23 |
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-23 |

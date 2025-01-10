@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Amelia Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,475 likes - 150 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,480 likes - 150 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

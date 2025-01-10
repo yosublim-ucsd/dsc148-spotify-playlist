@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,828 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,832 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 24 | [Luar](https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Luar](https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk) | 3:14 |
 | 25 | [PEGA PEGA](https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Biuw](https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv) | [PILULA DO DIA SEGUINTE](https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy) | 2:30 |
 | 26 | [Chá](https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Chá](https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y) | 2:35 |
-| 27 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [VGNL](https://open.spotify.com/artist/6auZy2TITJClAy9JiCNwHT), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
-| 28 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
+| 27 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
+| 28 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [VGNL](https://open.spotify.com/artist/6auZy2TITJClAy9JiCNwHT), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
 | 29 | [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 |
 | 30 | [Saia Rodada](https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Saia Rodada](https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4) | 4:09 |
 | 31 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |

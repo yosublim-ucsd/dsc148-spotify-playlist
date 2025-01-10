@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "A 64 East Saga",
+        "url": "https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "Far From St. Louis",
+      "url": "https://open.spotify.com/track/6k9Tz7m0Mp1EzjoN84aKXM"
+    },
+    {
+      "album": {
         "name": "TYRON",
         "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },

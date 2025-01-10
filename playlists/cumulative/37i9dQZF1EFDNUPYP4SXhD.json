@@ -2763,6 +2763,32 @@
     },
     {
       "album": {
+        "name": "Matricula",
+        "url": "https://open.spotify.com/album/0brb9CPoH9CKWHo6uthZIv"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Matricula",
+      "url": "https://open.spotify.com/track/3qoJowHPbi2Kamj3MBxvul"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -4426,13 +4452,13 @@
       },
       "artists": [
         {
-          "name": "Natti Natasha",
+          "name": "NATTI NATASHA",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Toca Toca",
       "url": "https://open.spotify.com/track/1kXHxzxshJHE19SVepP21q"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 6 hr 14 min
+112 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,12 +56,13 @@
 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 | 2024-06-13 |  |
 | [Keep Me Young](https://open.spotify.com/track/1SO0bZ6XxtXlnRMx5UIFp2) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Keep Me Young](https://open.spotify.com/album/6uXuhIaOMfOb3eX0eMViFW) | 2:55 | 2024-06-13 |  |
 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 | 2024-06-13 |  |
-| [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 | 2024-06-13 |  |
+| [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 | 2024-06-13 | 2025-01-10 |
 | [Light Up](https://open.spotify.com/track/4nwsFIIP3YmIVRpReo0JrC) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:04 | 2024-06-13 |  |
 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 | 2024-06-13 |  |
 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 | 2024-06-13 |  |
 | [Losing Me](https://open.spotify.com/track/0JvrNx0h9vHzwQpip0vx2m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:19 | 2024-06-13 |  |
 | [Lost \(Never Enough\)](https://open.spotify.com/track/68l89zTMSlOXFdDKTqSFaL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:05 | 2024-06-13 |  |
+| [Lost with You](https://open.spotify.com/track/73gVOooT9hkJZ3DgVMFmGT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Blinded Hearts](https://open.spotify.com/artist/5uiEF5htEqJgHcOajZ25ns), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Lost with You](https://open.spotify.com/album/3kwEN1xTAsOICvBzSujLkB) | 2:45 | 2025-01-09 |  |
 | [Love Language](https://open.spotify.com/track/5RuUO9oLyJkgJMR5Vttn5G) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Love Language](https://open.spotify.com/album/2NAHu9dxwtIzNonKlFkiLQ) | 2:41 | 2024-06-13 |  |
 | [Love's Dying](https://open.spotify.com/track/6w5rPrAbxyszX8avoRc8p9) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:17 | 2024-07-04 |  |
 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 | 2024-06-13 |  |

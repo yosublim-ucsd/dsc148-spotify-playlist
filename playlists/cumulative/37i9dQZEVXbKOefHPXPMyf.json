@@ -2289,6 +2289,52 @@
     },
     {
       "album": {
+        "name": "AL 100",
+        "url": "https://open.spotify.com/album/46t6d9yRVjMMG2s8yz2QV4"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Robin Rouse",
+          "url": "https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Sherdon1zone",
+          "url": "https://open.spotify.com/artist/08seIsg0pTDGeRhEfMGrpU"
+        },
+        {
+          "name": "Debon",
+          "url": "https://open.spotify.com/artist/3oa4tsnOXuvY9IUav3sv8z"
+        },
+        {
+          "name": "Danhy",
+          "url": "https://open.spotify.com/artist/2Uzaci0eiU8QM88hz0A172"
+        },
+        {
+          "name": "Frxndi",
+          "url": "https://open.spotify.com/artist/27KY4V8VWZ3iZHu33aCurN"
+        },
+        {
+          "name": "Brayy",
+          "url": "https://open.spotify.com/artist/4hAfSF8bntewloh9PSe8OS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380264,
+      "name": "AL 100",
+      "url": "https://open.spotify.com/track/7DDn9fPFyPen5lnl1gewdl"
+    },
+    {
+      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -11120,7 +11166,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164880,
       "name": "Cobro",
       "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
@@ -14024,7 +14070,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "Deportivo",
       "url": "https://open.spotify.com/track/5uYAJlNp8ZmGPdkrhMwmLM"
@@ -23150,7 +23196,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -23906,6 +23952,40 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
     },
     {
       "album": {
@@ -25898,7 +25978,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 266200,
       "name": "Jugo De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
@@ -30366,7 +30446,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "LUCETE (EL JAY x EL YEYO PP)",
       "url": "https://open.spotify.com/track/5GH8Hrm6abcX9AFUTExX2f"
@@ -36104,7 +36184,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -36336,7 +36416,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
@@ -36688,7 +36768,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"

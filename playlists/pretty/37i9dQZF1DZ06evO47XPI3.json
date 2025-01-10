@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12046,
+  "num_followers": 12045,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAAUwTelQ6cofxwa3hKZk+rG",
+  "snapshot_id": "Z33AAAAAAAC/6G7OTMGrD7gKR9RZL1bm",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 277780,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw"
+      "duration_ms": 260295,
+      "name": "Start All Over Again",
+      "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 260295,
-      "name": "Start All Over Again",
-      "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
+      "duration_ms": 277780,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Everytime I See My Baby - Remastered",
+      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La La Means I Love You (Expanded Version)",
         "url": "https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM"
       },
@@ -451,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Everytime I See My Baby - Remastered",
-      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
+      "duration_ms": 261456,
+      "name": "Seventeen (And In Love)",
+      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
     },
     {
       "added_at": null,
@@ -560,25 +576,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 261456,
-      "name": "Seventeen (And In Love)",
-      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
+      "duration_ms": 186466,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -647,6 +631,38 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Best Vol. 1",
+        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 223082,
+      "name": "Didn't I Blow Your Mind - Re-Record",
+      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
     },
     {
       "added_at": null,
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of The Delfonics",
-        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 210558,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q"
+      "duration_ms": 176306,
+      "name": "Face It Girl, It's Over - Remastered",
+      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+        "name": "The Best of The Delfonics",
+        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
       },
       "artists": [
         {
@@ -712,25 +728,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 176306,
-      "name": "Face It Girl, It's Over - Remastered",
-      "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of The Best Vol. 1",
-        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 223082,
-      "name": "Didn't I Blow Your Mind - Re-Record",
-      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
+      "duration_ms": 210558,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Delfonics",
-        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "How Long Will You Stay - Re-Recorded In Stereo",
-      "url": "https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182306,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of Delfonics",
+        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "How Long Will You Stay - Re-Recorded In Stereo",
+      "url": "https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d"
     },
     {
       "added_at": null,

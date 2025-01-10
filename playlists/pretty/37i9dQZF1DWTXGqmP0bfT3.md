@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,651 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,884 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 119 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
 | 120 | [In Another Life \(feat\. Courtney LaPlante\)](https://open.spotify.com/track/5F2L2phmZw5dZZY72VpFM2) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:45 |
 | 121 | [FUHAI](https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [FUHAI](https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g) | 3:13 |
-| 122 | [Mama Said Knock You Out](https://open.spotify.com/track/3EhGmExUtvaa15OueF2kvC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 2:47 |
-| 123 | [Alestorm](https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [No Grave but the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS) | 3:56 |
+| 122 | [Alestorm](https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [No Grave but the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS) | 3:56 |
+| 123 | [Mama Said Knock You Out](https://open.spotify.com/track/3EhGmExUtvaa15OueF2kvC) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 2:47 |
 | 124 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
 | 125 | [Rapture](https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:34 |
 | 126 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 |
@@ -146,9 +146,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 136 | [L'enfant sauvage](https://open.spotify.com/track/5lOUVddyItbbzMTB1PqISs) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage](https://open.spotify.com/album/2WrU1VLLBaZy4k5s0p5jzt) | 4:17 |
 | 137 | [The Anomaly](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Unseen Empire](https://open.spotify.com/album/0cZkE6WaTMF97XjoidD8FZ) | 3:50 |
 | 138 | [Call My Name](https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, the Mask](https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7) | 3:33 |
-| 139 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 |
+| 139 | [Get That Done](https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS) | 4:17 |
 | 140 | [Dumptruck](https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W) | [Wilson](https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s) | [Tasty Nasty](https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd) | 3:37 |
-| 141 | [Get That Done](https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS) | 4:17 |
+| 141 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 |
 | 142 | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 |
 | 143 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 144 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 |

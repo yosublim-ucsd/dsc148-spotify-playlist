@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 207028,
+  "num_followers": 207036,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Cu\u00eddamela Bien",
-        "url": "https://open.spotify.com/album/4dJ1jkHv0md3zBVBRd1LtU"
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 223442,
-      "name": "Cu\u00eddamela Bien",
-      "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+        "name": "Cu\u00eddamela Bien",
+        "url": "https://open.spotify.com/album/4dJ1jkHv0md3zBVBRd1LtU"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+      "duration_ms": 223442,
+      "name": "Cu\u00eddamela Bien",
+      "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Nuestro Camino",
         "url": "https://open.spotify.com/album/4mDn0pCJ5eepwk8zJ218ov"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 205500,
       "name": "Nuestro Camino",
       "url": "https://open.spotify.com/track/75ABFQC2lxBmgQ5kqE0Q0u"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "\u00bfSer\u00e1 Prudente?",
+        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "\u00bfSer\u00e1 Prudente?",
+      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "El Malo (Remix)",
         "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 259910,
       "name": "El Malo - Remix",
       "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "\u00bfSer\u00e1 Prudente?",
-        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "\u00bfSer\u00e1 Prudente?",
-      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Quiero Un Amor",
+      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176146,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Quiero Un Amor",
-      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 187848,
       "name": "Eran De Azucar Sus Labios",
       "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Lo que no fue no ser\u00e1",
         "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 217693,
       "name": "Lo que no fue no ser\u00e1",
       "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
     },
     {
       "added_at": "2025-01-05 18:34:10",

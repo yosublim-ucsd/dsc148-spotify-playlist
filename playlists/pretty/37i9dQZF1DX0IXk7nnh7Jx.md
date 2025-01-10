@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Antoine Bradford
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,826 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,863 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 35 | [I’ll Be Here Fighting](https://open.spotify.com/track/4Q4lcXwZkVBkV9AOslPPRz) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [I’ll Be Here Fighting](https://open.spotify.com/album/4SsuwQpcrZhFhMz7B7vWbX) | 3:04 |
 | 36 | [If You'd Let Me](https://open.spotify.com/track/7e7hrWeelNbBriL9CA2IyH) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [If You'd Let Me](https://open.spotify.com/album/1A4zDUktNtWc5XDCivUbzE) | 2:47 |
 | 37 | [next stop](https://open.spotify.com/track/24bl0zMAhxb5T4fWMsg7UY) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [next stop](https://open.spotify.com/album/1HbOaKKbUNO5mprqldtGek) | 2:12 |
-| 38 | [Goodbye Yesterday](https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Gracey Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Goodbye Yesterday](https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI) | 3:16 |
+| 38 | [Goodbye Yesterday](https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Grace Coleman](https://open.spotify.com/artist/6ke5t9KlrOfS3K4rM8SgJB), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Goodbye Yesterday](https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI) | 3:16 |
 | 39 | [When I Looked Up](https://open.spotify.com/track/0wM8ra8O540qHZZdMiPJGV) | [Holy Gather](https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR) | [When I Looked Up](https://open.spotify.com/album/49QqCs9pocCe9QphNi5r1g) | 2:44 |
 | 40 | [What A Time To Be Alive](https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process \(Deluxe\) \[Clean\]](https://open.spotify.com/album/4nPlzTW356DylMSmm22dxI) | 2:48 |
 | 41 | [Sometimes I Dream](https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Sometimes I Dream](https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf) | 3:24 |

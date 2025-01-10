@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,907 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,937 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 28 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 |
 | 29 | [DISCOTHEQUE \- Cover](https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 30 | [独創収差](https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:36 |
-| 31 | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 |
+| 31 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
 | 32 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
 | 33 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
-| 34 | [コハク](https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:40 |
+| 34 | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 |
 | 35 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 |
 | 36 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
 | 37 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 39 | [DEAD HEAT BEAT](https://open.spotify.com/track/70oZ9paZhQYkYAd5nganwI) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 4:11 |
 | 40 | [気まぐれロマンティック \- Cover](https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 41 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
-| 42 | [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 |
+| 42 | [青のすみか \- Cover](https://open.spotify.com/track/1BbOzFxKZlcxino1a8NVk9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [青のすみか \(Cover\)](https://open.spotify.com/album/2bTyv063SUF4J8E06aGi14) | 3:17 |
 | 43 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 44 | [えがお、み～っけた!](https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH) | 4:29 |
 | 45 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 |

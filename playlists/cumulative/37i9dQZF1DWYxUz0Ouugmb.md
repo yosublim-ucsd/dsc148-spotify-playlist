@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggis Devaki
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nyoman Paul
 
-235 songs - 15 hr 9 min
+236 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aku Mengerti](https://open.spotify.com/track/4w7cRm8psY5CMKv6qQT9mx) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Aku Mengerti](https://open.spotify.com/album/7x8ERxSmiCigSd8vLKCI7s) | 4:44 | 2024-01-25 | 2024-03-29 |
 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-25 | 2024-03-29 |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
+| [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 | 2025-01-09 |  |
 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 | 2023-10-08 | 2024-03-29 |
 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 | 2023-10-11 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |

@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc
+> The world's biggest Drum 'n' Bass playlist! Cover: Luude, KiLLOWEEN, Songer
 
-814 songs - 2 day 1 hr 6 min
+815 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [I Got You](https://open.spotify.com/track/5MexmPWHh8caUNsEAPpVfE) | [Polygon](https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF), [bvd kult](https://open.spotify.com/artist/0rP3c0AHpXNvqpVxfQMF13) | [I Got You](https://open.spotify.com/album/6qZ82DeV8C756F5GcaKaCw) | 2:50 | 2022-04-08 | 2022-07-11 |
 | [I Like](https://open.spotify.com/track/6GIM6CIe3VEI8Qp1CtL759) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3), [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [I Like](https://open.spotify.com/album/1TxcRcTrxPg3mUsYZw0MCL) | 2:01 | 2023-08-24 | 2024-02-09 |
 | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz) | 2:42 | 2024-09-26 |  |
-| [I Luv DnB](https://open.spotify.com/track/4Lj9JlpOpH9iQcDyNQLwOa) | [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [MC Funsta](https://open.spotify.com/artist/78Vgc3JMAu6pz37eMpJi1P) | [I LUV DNB](https://open.spotify.com/album/1IQqGvT3YkUp7U2jvrFBnb) | 2:47 | 2024-06-28 |  |
+| [I Luv DnB](https://open.spotify.com/track/4Lj9JlpOpH9iQcDyNQLwOa) | [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [MC Funsta](https://open.spotify.com/artist/78Vgc3JMAu6pz37eMpJi1P) | [I LUV DNB](https://open.spotify.com/album/1IQqGvT3YkUp7U2jvrFBnb) | 2:47 | 2024-06-28 | 2025-01-10 |
 | [I Miss The Old Macky](https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [I Miss The Old Macky](https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca) | 2:35 | 2024-09-05 |  |
 | [I Need To Feel](https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Need To Feel](https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM) | 3:36 | 2022-04-08 | 2022-09-24 |
 | [I See You](https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [I See You](https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8) | 3:20 | 2024-09-12 |  |
@@ -804,6 +804,7 @@
 | [Why](https://open.spotify.com/track/6gK1cexnehRletQSMQugpK) | [Scar](https://open.spotify.com/artist/3h1BGAVAPHZV1PYAOPOyDm) | [Why \- EP](https://open.spotify.com/album/2e7DdztVwRtocwwnfHf7aD) | 5:14 | 2022-04-08 | 2022-04-21 |
 | [Wicked](https://open.spotify.com/track/1z2R2oYSbfQQYW4CI4Fh1c) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wicked](https://open.spotify.com/album/08d5NodqOXXHofa4dzkWK9) | 3:16 | 2023-05-26 | 2023-06-17 |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-15 |  |
+| [Wicked \(In Real Life\)](https://open.spotify.com/track/43csRkkwox3LX3wozzKKXC) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Wicked \(In Real Life\)](https://open.spotify.com/album/7Jcs8N5oVsluCTaiOWvpfp) | 3:06 | 2025-01-10 |  |
 | [Wicked Man](https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Wicked Man](https://open.spotify.com/album/5izVDkfJltrhQDuDSvwhhQ) | 3:18 | 2023-08-18 | 2024-01-26 |
 | [Wild](https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Wild](https://open.spotify.com/album/6immkKGjqExbs6Q4XjF4Sa) | 2:38 | 2024-03-01 | 2024-06-21 |
 | [Wilderness](https://open.spotify.com/track/14ydzyswp520PKHJOWc2Ro) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [Shena](https://open.spotify.com/artist/5FhRI8UpmCQzY1yJM4rWVL) | [Wilderness](https://open.spotify.com/album/04CgfcGic7ucnsQ5tx2trQ) | 3:18 | 2024-11-22 |  |

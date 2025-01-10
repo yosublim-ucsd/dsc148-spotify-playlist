@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "EL 3ARAB",
+        "url": "https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gun",
+          "url": "https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l"
+        },
+        {
+          "name": "Lil Noby",
+          "url": "https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184196,
+      "name": "333",
+      "url": "https://open.spotify.com/track/4UBQg7ZxU1hrAaNFvzS10C"
+    },
+    {
+      "album": {
         "name": "3amel Ala2 (Freedom Music)",
         "url": "https://open.spotify.com/album/1QOLfTFqxsJ75cBmfNvLzA"
       },
@@ -814,7 +840,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 306361,
       "name": "Aleb Fel Dafater",
       "url": "https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby"
@@ -13978,7 +14004,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 216000,
       "name": "\u0627\u062d\u0646\u0627 \u0635\u064a\u0639 \u0645\u0646\u062d\u0631\u0641\u064a\u0646",
       "url": "https://open.spotify.com/track/1knAwiRcTrsScBYDFPXLlw"
@@ -15804,7 +15830,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 189818,
       "name": "\u0632\u0645\u0627\u0646\u064a \u0635\u0627\u0628\u0646\u064a \u0639\u064a\u0627\u0631",
       "url": "https://open.spotify.com/track/0zyAjQxKKcs5UAdctKc0xR"

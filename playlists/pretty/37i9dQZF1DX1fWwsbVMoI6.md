@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,144 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,175 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 21 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 22 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 23 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
-| 24 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
-| 25 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 24 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 25 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
 | 26 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
 | 27 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 | 28 | [AYAYAY!](https://open.spotify.com/track/4ZPCNMnfJ61hpuq5tjvTtV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Spiritual](https://open.spotify.com/artist/7dJnUKfWyG3iYsPFyo5HpQ) | [AYAYAY!](https://open.spotify.com/album/2zDCDoc0avgic2BKapvtvj) | 2:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 37 | [Me Emborracharé](https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Me Emborracharé](https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR) | 3:41 |
 | 38 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 |
 | 39 | [Cerveza](https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Cerveza](https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez) | 3:09 |
-| 40 | [Julio Jaramillo](https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [Julio Jaramillo](https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9) | 2:23 |
-| 41 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 |
+| 40 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 |
+| 41 | [Julio Jaramillo](https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [Julio Jaramillo](https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9) | 2:23 |
 | 42 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 43 | [Luna Bonita](https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Solo Hay Una...!](https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW) | 3:33 |
 | 44 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 |

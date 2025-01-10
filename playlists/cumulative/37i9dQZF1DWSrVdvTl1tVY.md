@@ -4,10 +4,11 @@
 
 > The biggest house bangers popping off in the UK, let's go! Patrick Topping
 
-934 songs - 2 day 5 hr 42 min
+935 songs - 2 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(This Is A\) Warning](https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Mahalia Fontaine](https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il) | [\(This Is A\) Warning](https://open.spotify.com/album/64Y1ELBGERSq1vXMkhQlGg) | 2:56 | 2025-01-10 |  |
 | [0121 Do One](https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Do One EP](https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl) | 3:09 | 2023-11-10 | 2024-03-22 |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-02-18 | 2022-05-06 |
 | [101010101 \(3D\)](https://open.spotify.com/track/1yhijEkkmMwl147cwwvKQa) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [101010101 \(3D\)](https://open.spotify.com/album/2IFMYjtdNgjkZCZD625Wo0) | 2:41 | 2022-10-13 | 2022-12-17 |
@@ -193,7 +194,7 @@
 | [Deep Deep Down \- Radio Edit](https://open.spotify.com/track/0as4kO2ITP4MIsQSXcm9b7) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Deep Deep Down](https://open.spotify.com/album/0mgOvOm270LZfacLHsAxZb) | 3:08 | 2023-04-27 | 2023-08-25 |
 | [Deep Inside Of Me](https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Deep Inside Of Me](https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA) | 3:07 | 2023-09-15 | 2024-01-26 |
 | [Deeper Love](https://open.spotify.com/track/2LgCE2RDlkqxXmJzdJx6lw) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Valntna](https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn) | [Deeper Love](https://open.spotify.com/album/3xXEPcM9asl2xphtVKiDKa) | 2:15 | 2023-06-02 | 2023-11-10 |
-| [Delirious](https://open.spotify.com/track/0tDud9azAnl7lhFXhM0GGs) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Delirious](https://open.spotify.com/album/6dmREXN04pF5pkfSmMQNFL) | 3:03 | 2024-05-17 |  |
+| [Delirious](https://open.spotify.com/track/0tDud9azAnl7lhFXhM0GGs) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Delirious](https://open.spotify.com/album/6dmREXN04pF5pkfSmMQNFL) | 3:03 | 2024-05-17 | 2025-01-10 |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2022-11-25 | 2023-04-28 |
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-02-09 | 2024-08-16 |
 | [Desire](https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Desire](https://open.spotify.com/album/20zG6Tg485owXOyMzL2YND) | 3:23 | 2024-05-17 |  |

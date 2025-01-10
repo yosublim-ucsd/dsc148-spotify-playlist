@@ -3497,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Westside: The Music (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru"
+      },
+      "artists": [
+        {
+          "name": "Westside Cast",
+          "url": "https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432591,
+      "name": "Westside Finale",
+      "url": "https://open.spotify.com/track/7gGLdZDCA6UatSsbCEUExD"
+    },
+    {
+      "album": {
         "name": "The Definition Of...",
         "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
       },

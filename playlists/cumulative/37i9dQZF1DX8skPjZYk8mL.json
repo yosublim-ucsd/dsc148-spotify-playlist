@@ -14542,7 +14542,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 119109,
       "name": "Snoozie",
       "url": "https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT"
@@ -15694,7 +15694,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 135208,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk"
@@ -16364,6 +16364,24 @@
       "duration_ms": 88000,
       "name": "The Frog and the Panda Bear",
       "url": "https://open.spotify.com/track/0JPJXVfmlm7ObdFgicspTz"
+    },
+    {
+      "album": {
+        "name": "The Garden Gnome",
+        "url": "https://open.spotify.com/album/26M1pxdbrva0aZKKI1CXe2"
+      },
+      "artists": [
+        {
+          "name": "Cory Andon",
+          "url": "https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129636,
+      "name": "The Garden Gnome",
+      "url": "https://open.spotify.com/track/76UrUwppRDeVai7AiWa1HF"
     },
     {
       "album": {
@@ -19042,7 +19060,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 103525,
       "name": "Whispers of Peace",
       "url": "https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p"

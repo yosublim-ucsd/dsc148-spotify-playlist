@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : THÉA
+> La scène française branchée sur courant alternatif\. Photo : Lescop
 
-238 songs - 12 hr 59 min
+240 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
 | [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 | 2024-10-24 |  |
-| [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 |  |
+| [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 | 2025-01-10 |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
@@ -129,7 +129,7 @@
 | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY) | 4:12 | 2024-09-12 |  |
 | [Le sang de papa et maman](https://open.spotify.com/track/3ylbP2pqUzfm1j2mPwERmi) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [C'est à moi ça](https://open.spotify.com/album/4iLRvl9FFLhnXfXDSRITNj) | 3:23 | 2024-10-03 |  |
 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 | 2024-03-28 | 2024-04-26 |
-| [Le silence](https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Le silence](https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU) | 3:25 | 2024-04-04 |  |
+| [Le silence](https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Le silence](https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU) | 3:25 | 2024-04-04 | 2025-01-10 |
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
@@ -143,6 +143,7 @@
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 |  |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
 | [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 |  |
+| [Message acide](https://open.spotify.com/track/5Q3NP8mMJVcvQnpefNi3P9) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Message acide](https://open.spotify.com/album/48ivlI5AuvWGRp1EaphL6M) | 3:33 | 2025-01-09 |  |
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 | 2023-12-22 |
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
 | [Modern Love](https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Modern Love](https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA) | 3:54 | 2024-05-30 |  |
@@ -163,6 +164,7 @@
 | [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 | 2023-11-23 | 2024-09-06 |
 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 | 2023-09-28 | 2023-10-06 |
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 | 2024-01-19 |
+| [Où va la chance \- Françoise Hardy Cover](https://open.spotify.com/track/6pEPwhRR8kiwKY3mw3vjEb) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Où va la chance \(Françoise Hardy Cover\)](https://open.spotify.com/album/2mr2BtUoxYHL15s4AXorev) | 3:55 | 2025-01-09 |  |
 | [Pala](https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y) | [igee](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [DiRTYPOP!](https://open.spotify.com/album/3TgAVNiAN1Me3iWV8fGEor) | 2:27 | 2024-06-06 | 2024-06-14 |
 | [Papier cigarette](https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Papier cigarette](https://open.spotify.com/album/6X0woy9fNpjofxlARrsc76) | 3:33 | 2023-11-16 | 2024-06-14 |
 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 | 2023-09-28 | 2024-04-19 |

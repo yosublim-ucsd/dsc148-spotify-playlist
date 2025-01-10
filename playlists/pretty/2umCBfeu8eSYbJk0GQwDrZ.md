@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,683 likes - 60 songs - 3 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,681 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 8 | [RELIEF](https://open.spotify.com/track/2HJ8itVHbsC39Db8Z4hWY1) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Angel Eyes](https://open.spotify.com/album/6uwVdwC6WlqNqp7NzgSDWb) | 3:08 |
 | 9 | [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 |
 | 10 | [Kill Box](https://open.spotify.com/track/4PnC5Xl61850mV54pTG2hH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Kill Box](https://open.spotify.com/album/3gIbGJG1DgL319wNk1ZTpL) | 2:39 |
-| 11 | [Let You Down](https://open.spotify.com/track/5SK5l7djtZDe9MewdLIMXr) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Let You Down](https://open.spotify.com/album/6uiunl5y2aOAftXeWXpsok) | 3:32 |
+| 11 | [Let You Down](https://open.spotify.com/track/5SK5l7djtZDe9MewdLIMXr) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Let You Down](https://open.spotify.com/album/6uiunl5y2aOAftXeWXpsok) | 3:34 |
 | 12 | [Indifferent](https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Sprig](https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS) | 3:00 |
 | 13 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 |
 | 14 | [Bullet Train](https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Bullet Train](https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV) | 2:45 |

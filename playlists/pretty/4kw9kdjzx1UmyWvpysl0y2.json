@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125526,
+  "num_followers": 125525,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATfOWMjK3Y3x63uYUe0jtafwK6aXBj",
+  "snapshot_id": "AAATflTftscCC3+XsdblOZfFV5DiJR7q",
   "tracks": [
+    {
+      "added_at": "2025-01-09 15:19:05",
+      "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok"
+    },
     {
       "added_at": "2025-01-08 14:45:08",
       "album": {
@@ -1115,58 +1131,6 @@
       "duration_ms": 179040,
       "name": "Somebody With You",
       "url": "https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC"
-    },
-    {
-      "added_at": "2024-10-02 16:34:24",
-      "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "XYSM",
-          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX"
-    },
-    {
-      "added_at": "2024-10-01 13:30:20",
-      "album": {
-        "name": "Este",
-        "url": "https://open.spotify.com/album/67RvEFugxevmYfrHVRiyUt"
-      },
-      "artists": [
-        {
-          "name": "Etza",
-          "url": "https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "Este",
-      "url": "https://open.spotify.com/track/7jGOUkaWlFj9zPEM0u9gHx"
-    },
-    {
-      "added_at": "2024-09-30 14:46:04",
-      "album": {
-        "name": "Believe What You Want",
-        "url": "https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Believe What You Want",
-      "url": "https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

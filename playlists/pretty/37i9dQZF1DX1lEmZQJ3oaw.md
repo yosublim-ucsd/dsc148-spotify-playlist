@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,883 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 12 | [Behka](https://open.spotify.com/track/0prCd0oIexRBiok6kBOeLp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 5:11 |
 | 13 | [Dooriyan Hain Zaroori](https://open.spotify.com/track/0VgggdMuIsDLjOlEFS6WQU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Monica Dogra](https://open.spotify.com/artist/39EjzNKNNzzSvtyHJHzFSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Break Ke Baad](https://open.spotify.com/album/3R2nfXGgY4PD6kf52GeEzc) | 4:09 |
 | 14 | [Eena Meena Deeka \- Mikey Mccleary Mix \- Teaser](https://open.spotify.com/track/7KRWiMVTRWpfFA7EYdJFFL) | [Rachel Varghese](https://open.spotify.com/artist/2ze4daRTNBfPdpZJnIACef) | [Shaandaar \- Eena Meena Deeka](https://open.spotify.com/album/3w3NVVRTcCjLoz3xDlHeVH) | 3:06 |
-| 15 | [Rehna Tu](https://open.spotify.com/track/5RZbS87YI2wd87SWuO0YAX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 6:49 |
+| 15 | [Rehna Tu](https://open.spotify.com/track/5RZbS87YI2wd87SWuO0YAX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 6:49 |
 | 16 | [Tu Bole .Main Boloon](https://open.spotify.com/track/73m0ROzv1B86iNvuo8rh8z) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jaane Tu..\. Ya Jaane Na](https://open.spotify.com/album/7J5iE51Mk97Mf0BjjwYXUZ) | 4:33 |
 | 17 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 |
 | 18 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 |

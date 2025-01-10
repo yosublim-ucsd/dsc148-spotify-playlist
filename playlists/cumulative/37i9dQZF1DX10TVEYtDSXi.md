@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-103 songs - 5 hr 26 min
+104 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aldrei of seint](https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Þórunn Antonía](https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4) | [Stórasta plata í heimi](https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq) | 2:15 | 2024-10-21 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [Andvaka](https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Andvaka](https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9) | 2:26 | 2024-08-16 |  |
+| [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-10 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-06-21 | 2024-10-11 |
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-25 |  |
 | [bad bitch í RVK](https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9) | [ClubDub](https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7) | [Risa Tilkynning](https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt) | 2:10 | 2024-06-21 |  |
@@ -41,7 +42,7 @@
 | [FRÆG GELLA](https://open.spotify.com/track/3HEwjmSwSV7YEVF1RL1zBP) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL), [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6) | [FRÆG GELLA](https://open.spotify.com/album/4tQprC8v0x4O6FwwijuJJD) | 2:09 | 2024-09-13 |  |
 | [Gemmér Gemmér](https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Gemmér Gemmér](https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP) | 3:01 | 2024-07-26 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-26 |  |
-| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 |  |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 | 2025-01-10 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-21 | 2024-09-06 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 |  |

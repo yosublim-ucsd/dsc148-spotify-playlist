@@ -2,7 +2,7 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
+> Yo Hai Haryanvi Hip\-Hop! Cover: RB Gujjar & Perry Venus
 
 331 songs - 17 hr 3 min
 

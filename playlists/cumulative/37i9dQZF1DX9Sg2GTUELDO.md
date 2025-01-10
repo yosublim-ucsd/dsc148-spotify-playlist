@@ -2,7 +2,7 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Sica
+> 感受超級女聲力量。Cover: J.Arie 雷深如
 
 434 songs - 1 day 1 hr 55 min
 

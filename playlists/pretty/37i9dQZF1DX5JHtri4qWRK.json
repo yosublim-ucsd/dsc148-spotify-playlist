@@ -1,6 +1,6 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8483,
+  "num_followers": 8484,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Pretty Dreamer / Petty Lover",
-        "url": "https://open.spotify.com/album/1puQ890qwK8OdXB1kDQyDD"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 160654,
-      "name": "Petty Lover",
-      "url": "https://open.spotify.com/track/0SBjNhOuMeUM9nwanocvsm"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "I Wanna Go There",
         "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Pretty Dreamer / Petty Lover",
+        "url": "https://open.spotify.com/album/1puQ890qwK8OdXB1kDQyDD"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 160654,
+      "name": "Petty Lover",
+      "url": "https://open.spotify.com/track/0SBjNhOuMeUM9nwanocvsm"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 324280,
       "name": "Soon as I Get Home",
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Hard",
-        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
       "artists": [
         {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 270880,
-      "name": "Walked Outta Heaven",
-      "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
+      "duration_ms": 218466,
+      "name": "Almost Doesn't Count",
+      "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
       },
       "artists": [
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Almost Doesn't Count",
-      "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
+      "duration_ms": 270880,
+      "name": "Walked Outta Heaven",
+      "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 266287,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Next Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4e0MOgtJeKQXt0MQGzFVcY"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "I Don't Wanna",
-      "url": "https://open.spotify.com/track/4h7wUvVV8Ff8UL7JqAByiL"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 232053,
       "name": "Better in Time - Single Mix",
       "url": "https://open.spotify.com/track/6SiNUkoEBM3FE0QLEidrnS"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Next Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4e0MOgtJeKQXt0MQGzFVcY"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "I Don't Wanna",
+      "url": "https://open.spotify.com/track/4h7wUvVV8Ff8UL7JqAByiL"
     },
     {
       "added_at": "2024-04-05 09:59:10",

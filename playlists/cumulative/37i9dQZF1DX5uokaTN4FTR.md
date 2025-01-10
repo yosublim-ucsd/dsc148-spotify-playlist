@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Chrystal
+> The UK's biggest dance playlist! Cover: Sub Focus, Katy B
 
 637 songs - 1 day 9 hr 18 min
 

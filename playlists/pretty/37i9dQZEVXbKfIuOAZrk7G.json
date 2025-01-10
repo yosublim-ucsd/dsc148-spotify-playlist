@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55016,
+  "num_followers": 55013,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LxM5SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Derik Fein Essentials",
         "url": "https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3"
@@ -77,7 +77,27 @@
       "url": "https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "BOLO (feat. YDG)",
+      "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Peggy",
         "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
@@ -121,27 +141,7 @@
       "url": "https://open.spotify.com/track/2g8J25mESnMa9jseFrvDE1"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "BOLO (feat. YDG)",
-      "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Im Doing Fine",
         "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
@@ -177,23 +177,7 @@
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Broken Girl",
-        "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
-      },
-      "artists": [
-        {
-          "name": "Julie Doiron",
-          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -209,7 +193,23 @@
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "Broken Girl",
+        "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Weathervane",
         "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
@@ -241,7 +241,27 @@
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
@@ -301,43 +321,7 @@
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
-      },
-      "artists": [
-        {
-          "name": "Derik Fein",
-          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
-        }
-      ],
-      "duration_ms": 200446,
-      "name": "Don't Matter",
-      "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
@@ -361,7 +345,39 @@
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "duration_ms": 200446,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "I Got A New One",
         "url": "https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922"
@@ -413,7 +413,23 @@
       "url": "https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -433,23 +449,23 @@
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+        "name": "keep steady",
+        "url": "https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
         }
       ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+      "duration_ms": 99705,
+      "name": "keep steady",
+      "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -469,23 +485,23 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "keep steady",
-        "url": "https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/2tKkmzs0HcOUgQ5nbYjjMF"
       },
       "artists": [
         {
-          "name": "sosocamo",
-          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+          "name": "GIO DARA",
+          "url": "https://open.spotify.com/artist/1YTaNEf5juixP1n71yQcLr"
         }
       ],
-      "duration_ms": 99705,
-      "name": "keep steady",
-      "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
+      "duration_ms": 170076,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4vB4e8oopvmeARMW9na82S"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "OVER AND OVER",
         "url": "https://open.spotify.com/album/1poXwkdW8nx8E53gxhZ9Sy"
@@ -505,23 +521,7 @@
       "url": "https://open.spotify.com/track/7IU3w87VCx7qiar56GQ5OI"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/2tKkmzs0HcOUgQ5nbYjjMF"
-      },
-      "artists": [
-        {
-          "name": "GIO DARA",
-          "url": "https://open.spotify.com/artist/1YTaNEf5juixP1n71yQcLr"
-        }
-      ],
-      "duration_ms": 170076,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4vB4e8oopvmeARMW9na82S"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
         "url": "https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Saaheem",
         "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
@@ -561,7 +561,23 @@
       "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
@@ -593,19 +609,15 @@
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
           "name": "Stromae",
@@ -617,11 +629,11 @@
         }
       ],
       "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
@@ -637,23 +649,27 @@
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 221173,
-      "name": "BANG BANG BANG - KR Ver.",
-      "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
@@ -669,39 +685,7 @@
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "4 Kamp\u00e9",
-        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 214971,
-      "name": "4 Kamp\u00e9",
-      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153911,
-      "name": "Scorsese Baby Daddy",
-      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Best Buds",
         "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
@@ -717,23 +701,71 @@
       "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "Well Dude Here's My Thing",
-        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
         {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 146986,
-      "name": "The Cup",
-      "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
+      "duration_ms": 153911,
+      "name": "Scorsese Baby Daddy",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 205214,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Chill Guy",
         "url": "https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4"
@@ -761,39 +793,39 @@
       "url": "https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 205214,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "SPINNIN (Segway Remix)",
         "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
@@ -817,79 +849,23 @@
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 459766,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
-    },
-    {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -909,23 +885,39 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/3k3lBgSzva1P7XqfqxzmIj"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+      "duration_ms": 108798,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
+      "album": {
+        "name": "Well Dude Here's My Thing",
+        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "The Cup",
+      "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
+    },
+    {
+      "added_at": "2025-01-09 14:27:24",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -941,20 +933,24 @@
       "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
     },
     {
-      "added_at": "2025-01-08 13:54:48",
+      "added_at": "2025-01-09 14:27:24",
       "album": {
-        "name": "POOKIE'S REQUIEM",
-        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 108791,
-      "name": "POOKIE'S REQUIEM",
-      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
     }
   ],
   "unique_name": "Viral 50 - Canada",

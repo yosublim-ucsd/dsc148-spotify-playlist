@@ -1,13 +1,85 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Lil Baby)",
-  "num_followers": 447512,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Mac Miller)",
+  "num_followers": 447555,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3dc9wAAAADHw25bCDv7d1MtG0624tJ9",
+  "snapshot_id": "Z4CPBAAAAADT2GXlVPxx6TQef5TeldC1",
   "tracks": [
+    {
+      "added_at": "2025-01-09 17:00:30",
+      "album": {
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+    },
+    {
+      "added_at": "2025-01-09 17:00:30",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+    },
+    {
+      "added_at": "2025-01-09 17:00:30",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 156111,
+      "name": "Frontiers",
+      "url": "https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR"
+    },
+    {
+      "added_at": "2025-01-09 17:00:30",
+      "album": {
+        "name": "New Era (feat. Subnet & R\u00e9jizz)",
+        "url": "https://open.spotify.com/album/6l40o1bbK1YRUuhRFr7uyv"
+      },
+      "artists": [
+        {
+          "name": "Dandee",
+          "url": "https://open.spotify.com/artist/3JPhyZ3dKMQaM7ttTKdzu2"
+        },
+        {
+          "name": "Subnet",
+          "url": "https://open.spotify.com/artist/0BXtjAzsXGrxBEJiFkOuFj"
+        },
+        {
+          "name": "R\u00e9jizz",
+          "url": "https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "New Era (feat. Subnet & R\u00e9jizz)",
+      "url": "https://open.spotify.com/track/5dNvficz1nGKh8FyHiBgm5"
+    },
     {
       "added_at": "2025-01-02 17:00:20",
       "album": {
@@ -79,6 +151,22 @@
       "duration_ms": 113286,
       "name": "Squid Game (\uc624\uc9d5\uc5b4 \uac8c\uc784)",
       "url": "https://open.spotify.com/track/7LaXiOmyEDqjiOzhLSXnlm"
+    },
+    {
+      "added_at": "2025-01-09 17:00:30",
+      "album": {
+        "name": "KITTY",
+        "url": "https://open.spotify.com/album/2Pqx9DuUoSqwk4RuI3xjLy"
+      },
+      "artists": [
+        {
+          "name": "BABY FREEZE",
+          "url": "https://open.spotify.com/artist/4BQ84eYGgqG80ToE0F5rBQ"
+        }
+      ],
+      "duration_ms": 60923,
+      "name": "KITTY",
+      "url": "https://open.spotify.com/track/4QkQ7JqbrGOsu1dkVKGn2a"
     },
     {
       "added_at": "2024-12-27 03:36:31",
@@ -1795,158 +1883,6 @@
       "duration_ms": 247666,
       "name": "ZERI IN PI\u00d9 (LOCURA) (feat. Laura Pausini)",
       "url": "https://open.spotify.com/track/0X4vgF6kbeFhfASKj0PXOd"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Saturday Mornings (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Saturday Mornings (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "TTSO.",
-        "url": "https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 180965,
-      "name": "TTSO.",
-      "url": "https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "YMTK",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
-        }
-      ],
-      "duration_ms": 225196,
-      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Bring Your Lungs (feat. Smoke DZA)",
-        "url": "https://open.spotify.com/album/2cJt7TdxGyYN1AGgQNwBmV"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        }
-      ],
-      "duration_ms": 186313,
-      "name": "Bring Your Lungs - feat. Smoke DZA",
-      "url": "https://open.spotify.com/track/7DWxJBtfOCs5WORaya45MV"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "AWE",
-        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188702,
-      "name": "HOWLING",
-      "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Where's The Daddy?",
-        "url": "https://open.spotify.com/album/2m4Dup07tsQ28K3qWylAw0"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 172859,
-      "name": "Where's The Daddy?",
-      "url": "https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
     }
   ],
   "unique_name": "Beats & Rhymes",

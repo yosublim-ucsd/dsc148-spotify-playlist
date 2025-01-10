@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,392 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,419 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 | 2 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 |
 | 3 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 4 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 |
-| 5 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
+| 4 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
+| 5 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 |
 | 6 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
 | 7 | [A la Orilla de la Chimenea](https://open.spotify.com/track/6NQvRUIZZ2z5EUaFd9OloQ) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 4:08 |
 | 8 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 59 | [Trapecistas \- En Vivo](https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Bernardo Quesada](https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T) | [20 Años de Viaje, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL) | 4:44 |
 | 60 | [Para una Imaginaria María del Carmen](https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE) | [Noel Nicola](https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR), [Santiago Feliú](https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns) | [Colección Nos Queda Su Canción, Vol\. 8: Entre Otros](https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR) | 3:26 |
 | 61 | [La Flor Y El Abejorro](https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Flor Y El Abejorro](https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6) | 4:09 |
-| 62 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
-| 63 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
+| 62 | [Norte](https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Norte](https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk) | 4:40 |
+| 63 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
 | 64 | [Esther homenaje](https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO) | [Vicente Feliú](https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT) | [Vicente Feliú](https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX) | 3:21 |
 | 65 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 |
 | 66 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |

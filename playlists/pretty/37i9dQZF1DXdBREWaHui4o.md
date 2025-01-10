@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Best Anime Songs in 2024! 2024年にプレイリスト「Anime Now」で聴かれた楽曲を総まとめ。cover: SPYAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,130 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,215 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 | 15 | [SOULSOUP](https://open.spotify.com/track/7sc873fPEG8xnU3r1CDDhI) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rejoice](https://open.spotify.com/album/66azqlrT0IYzfh3621YClv) | 5:13 |
 | 16 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
 | 17 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
-| 18 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
+| 18 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 19 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 20 | [青のすみか](https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 3:16 |
 | 21 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |

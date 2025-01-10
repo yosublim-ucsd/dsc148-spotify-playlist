@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 389938,
+  "num_followers": 389984,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u304b\u3051\u8db3\u65cf",
-        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 224767,
-      "name": "\u304b\u3051\u8db3\u65cf",
-      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "\u304b\u3051\u8db3\u65cf",
+        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 224767,
+      "name": "\u304b\u3051\u8db3\u65cf",
+      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "SCIENCE FICTION",
-        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 308695,
-      "name": "traveling - Re-Recording",
-      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "RED OUT",
         "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 151626,
       "name": "RED OUT",
       "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "SCIENCE FICTION",
+        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 308695,
+      "name": "traveling - Re-Recording",
+      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "Stay With Me (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 172085,
       "name": "Stay With Me (feat. Hikaru Utada)",
       "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "KJ SEASON2",
         "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "SF\u6771\u4eac",
+        "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "SF\u6771\u4eac",
+      "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "CHEESE CAKE",
         "url": "https://open.spotify.com/album/5bCs6T5NIVD23cUC7tKiPg"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 124933,
       "name": "CHEESE CAKE",
       "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "SF\u6771\u4eac",
-        "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "SF\u6771\u4eac",
-      "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 267401,
-      "name": "Get Back To \u4eba\u751f",
-      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "FORGIVE ME",
         "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 143240,
       "name": "FORGIVE ME",
       "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Get Back To \u4eba\u751f",
+      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "NEW ERA",
-        "url": "https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 185555,
-      "name": "NEW ERA",
-      "url": "https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "Better Days (Japanese Edition)",
         "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 182500,
       "name": "Every Second - Japanese Version",
       "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "NEW ERA",
+        "url": "https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 185555,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn"
     },
     {
       "added_at": "2025-01-08 09:47:05",

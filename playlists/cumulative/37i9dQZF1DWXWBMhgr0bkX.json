@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Sebastian Schub",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Olly Alexander",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 152497,
       "name": "Are You Waiting?",
       "url": "https://open.spotify.com/track/0zTpfz7u6BQ7RUnP0ZbgSu"
+    },
+    {
+      "album": {
+        "name": "Attachment Theory",
+        "url": "https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Attachment Theory",
+      "url": "https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT"
     },
     {
       "album": {
@@ -538,7 +556,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213569,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/0C2zLP42AKkoTmXGASh7HK"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190060,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
@@ -1481,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "If I Die Tomorrow",
+        "url": "https://open.spotify.com/album/1gi1gEiZJKXErFBTJ87kqY"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0ybFLlfjdXg0ZYGceAJEwJ"
+    },
+    {
+      "album": {
         "name": "If U Leave Me",
         "url": "https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh"
       },
@@ -1532,6 +1568,24 @@
       "duration_ms": 198680,
       "name": "in for the kill",
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
+    },
+    {
+      "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
     },
     {
       "album": {
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 212426,
       "name": "Late to the World",
       "url": "https://open.spotify.com/track/3duHt1lSXBP7OnyWnVbhJG"
@@ -1946,7 +2000,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203400,
       "name": "oh my",
       "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
@@ -2241,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
+    },
+    {
+      "album": {
         "name": "Chloe Qisha",
         "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
       },
@@ -2364,7 +2436,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
@@ -2454,7 +2526,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180713,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
@@ -2667,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "When We Kiss",
+        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "When We Kiss",
+      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
+    },
+    {
+      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
       },
@@ -2776,6 +2866,24 @@
       "duration_ms": 153348,
       "name": "You Got The Thing",
       "url": "https://open.spotify.com/track/5grSq7F9QB6u2rtXgUbvuT"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5ACLv4gC6phkXw8NcQ83Fd"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126794,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5jp3CfoQLxLSRKhscLqb1p"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19696,
+  "num_followers": 19697,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAABM5Yqjne+LNOw8Lh9Cu9hd",
+  "snapshot_id": "Z33AAAAAAACeL9OZ40TT4yIcD4CEXT1V",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 195908,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 281704,
       "name": "No Way",
       "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 195908,
-      "name": "Never Fold",
-      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
     },
     {
       "added_at": null,
@@ -730,11 +730,15 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Quicktrip",
+          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
         }
       ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+      "duration_ms": 202000,
+      "name": "Wyb Quan",
+      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
     },
     {
       "added_at": null,
@@ -798,15 +802,11 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Quicktrip",
-          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Wyb Quan",
-      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Robbie Williams
 
-556 songs - 1 day 8 hr 19 min
+557 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Brothers And Sisters](https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Brothers And Sisters](https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o) | 3:55 | 2024-02-08 | 2024-02-21 |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2023-05-10 |
 | [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 | 2023-03-02 | 2023-08-18 |
+| [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-01-09 |  |
 | [California Lover](https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [California Lover](https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x) | 2:21 | 2024-01-29 | 2024-06-08 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-29 | 2024-09-13 |
 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-10-03 | 2024-11-15 |
@@ -204,7 +205,7 @@
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-24 | 2024-08-30 |
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-02-08 | 2024-06-28 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-06-08 | 2024-02-03 |
-| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-08-29 |  |
+| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2024-08-29 | 2025-01-10 |
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-24 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-13 | 2024-03-15 |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-03 | 2024-01-26 |

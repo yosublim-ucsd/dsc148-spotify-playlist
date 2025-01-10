@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "\u4e0e\u5149\u540c\u884c",
+        "url": "https://open.spotify.com/album/0oLmCnFPwPfb2rLa3OBoi1"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u9756\u96ef",
+          "url": "https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241302,
+      "name": "\u4e0e\u5149\u540c\u884c",
+      "url": "https://open.spotify.com/track/2K4LqCjZ6AkFx24FNmVN9I"
+    },
+    {
+      "album": {
         "name": "\u4e1f\u4e86\u4f60",
         "url": "https://open.spotify.com/album/282oSPesGvG26ELE7UMFpo"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 273266,
       "name": "\u4e5f\u53ef\u4ee5",
       "url": "https://open.spotify.com/track/1JqaW41fDKBFyVPQwmsoar"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 217906,
       "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
@@ -2625,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "\u5206\u958b\u6216\u8a31\u59b3\u6703\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/5DRUHOeHWJrvh889WkgqHr"
+      },
+      "artists": [
+        {
+          "name": "Homeless Scholars",
+          "url": "https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228482,
+      "name": "\u5206\u958b\u6216\u8a31\u59b3\u6703\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/3qk5oktdpbCHUEDQUNStGm"
+    },
+    {
+      "album": {
         "name": "\u5225\u4f86\u6709\u6059",
         "url": "https://open.spotify.com/album/6o02ti4hIe3bJBoijnnlcg"
       },
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234978,
       "name": "\u5230\u5f8c\u4f86\u9084\u662f\u5931\u53bb\u4e86\u4e00\u5207",
       "url": "https://open.spotify.com/track/32tUGRT5H22EEQAyywr9Fp"
@@ -3304,7 +3340,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 200000,
       "name": "\u552f\u611b (\u5287\u96c6\u300a\u4e03\u6642\u5409\u7965\u300b\u71c3\u611b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/2rKPlSH0u775wNadl5cIQy"
@@ -4198,7 +4234,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225829,
       "name": "\u5b64\u7368\u4e0d\u662f\u7f6a",
       "url": "https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z"
@@ -4642,6 +4678,24 @@
       "duration_ms": 292765,
       "name": "\u5f26\u4e0a\u751f\u82b1",
       "url": "https://open.spotify.com/track/2vNZ6cI6U6Yl3DC6YvJvNV"
+    },
+    {
+      "album": {
+        "name": "\u5f52\u96f6",
+        "url": "https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Loo",
+          "url": "https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277241,
+      "name": "\u5f52\u96f6",
+      "url": "https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv"
     },
     {
       "album": {
@@ -6029,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u7684\u62e5\u62b1\u4f60\u7684\u56da\u7262",
+        "url": "https://open.spotify.com/album/7kTzA0Cn2XoUMuFXqb4Zkq"
+      },
+      "artists": [
+        {
+          "name": "\u4e8e\u51ac\u7136",
+          "url": "https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "\u6211\u7684\u62e5\u62b1\u4f60\u7684\u56da\u7262",
+      "url": "https://open.spotify.com/track/7n4gY6czLKgfw2Ga3T7TNC"
+    },
+    {
+      "album": {
         "name": "\u6211\u7684\u9019\u5834\u6162\u821e",
         "url": "https://open.spotify.com/album/5MoQDc94zIaDvmHnwKx55a"
       },
@@ -6300,6 +6372,24 @@
       "duration_ms": 244000,
       "name": "\u63a5\u4f4f\u6211 - \u96fb\u5f71\u300a\u4e52\u4e53\u7537\u5b69\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5BgyTzuTBrYjx8cEPCpjIR"
+    },
+    {
+      "album": {
+        "name": "\u642d\u7a4d\u6728\u7684\u4eba",
+        "url": "https://open.spotify.com/album/7DCkj2By3OQvqQxpyuEjo5"
+      },
+      "artists": [
+        {
+          "name": "\u7b80\u5f18\u4ea6",
+          "url": "https://open.spotify.com/artist/3uZusDWkeRroyeQeX6DV8w"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255008,
+      "name": "\u642d\u7a4d\u6728\u7684\u4eba",
+      "url": "https://open.spotify.com/track/6s7UIOrNSMAYoDZ7vYPqOl"
     },
     {
       "album": {
@@ -9762,6 +9852,28 @@
       "duration_ms": 249523,
       "name": "\u9519\u8fc7\u5c31\u522b\u8054\u7edc",
       "url": "https://open.spotify.com/track/08QoB1iuHWNIeTh2noQhFe"
+    },
+    {
+      "album": {
+        "name": "\u9577\u5927\u5f8c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/5t8US7d6Abr8RQ0jh4i82t"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        },
+        {
+          "name": "Leo Ku",
+          "url": "https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295811,
+      "name": "\u9577\u5927\u5f8c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/1qo5uP83lkihnUiXX9F7ER"
     },
     {
       "album": {

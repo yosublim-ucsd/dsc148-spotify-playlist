@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [Best of EQUAL Africa 2024](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
+### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Our editor's top picks from EQUAL 2024 from across Africa\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=cTjRP8DZTvqno9a\_zB\_M3w"> Ayra Starr</a>
+> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=cTjRP8DZTvqno9a\_zB\_M3w"> Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,105 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,301 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 49 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 50 | [Everyday \(I Dey Pray\)](https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [no PITY](https://open.spotify.com/album/6hkdE1QM4zUBloZsI9RxKi) | 2:57 |
 
-Snapshot ID: `Z1BHxAAAAAA920rBLq/IVEpgxl4YHuYX`
+Snapshot ID: `Z3+jXgAAAADWtTctLURh4lvCn5ucyKud`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: ABY iO",
+  "description": "The best new music by independent artists in the Nordics. Cover: Venus Anon",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1nTunof0h6rRsRb7S0fxcZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226478,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1DJxgr5EBDty2LY1HP089Z"
+    },
+    {
+      "album": {
         "name": "ARKHAM",
         "url": "https://open.spotify.com/album/79HlhyXbpNRyODAsjzDwdj"
       },
@@ -836,6 +854,28 @@
       "duration_ms": 133746,
       "name": "As I Do",
       "url": "https://open.spotify.com/track/1FjvoTI8zCgCyMyh0W3mOB"
+    },
+    {
+      "album": {
+        "name": "asphodel",
+        "url": "https://open.spotify.com/album/5bJz0OPoRIIKnl2Jx0gxt8"
+      },
+      "artists": [
+        {
+          "name": "grasior",
+          "url": "https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly"
+        },
+        {
+          "name": "melon",
+          "url": "https://open.spotify.com/artist/6HOWP6H5KoPrJxOlt1USmM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121043,
+      "name": "asphodel",
+      "url": "https://open.spotify.com/track/7wckMTidt2HYAk4kjlXd3r"
     },
     {
       "album": {
@@ -4007,6 +4047,28 @@
     },
     {
       "album": {
+        "name": "Filthy (Lover's Skit RMX)",
+        "url": "https://open.spotify.com/album/49wlDFpcWkmNvyj3HHmpkD"
+      },
+      "artists": [
+        {
+          "name": "alga",
+          "url": "https://open.spotify.com/artist/6H8RIWF0g63MqXyNqJWXIC"
+        },
+        {
+          "name": "Lover's Skit",
+          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259090,
+      "name": "Filthy - Lover's Skit RMX",
+      "url": "https://open.spotify.com/track/19XJ9lnIMUji9julcrADaB"
+    },
+    {
+      "album": {
         "name": "FIND",
         "url": "https://open.spotify.com/album/2m1odjbvZs1jY2W1eOwDDT"
       },
@@ -4699,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/3RtGC6H7j6cGRtQ5GWwQDo"
+      },
+      "artists": [
+        {
+          "name": "jazzygold",
+          "url": "https://open.spotify.com/artist/5Qq8xrlwbzl6jaK7qjUl7m"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186937,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/6uDuzoyy5dRTIiB5RHcs4E"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7CDrzr6ft8cfrcWpTv4h5v"
       },
@@ -4892,6 +4972,24 @@
       "duration_ms": 128240,
       "name": "gr\u00f8nne \u00f8yne",
       "url": "https://open.spotify.com/track/44TnKPd4gIuZ6beA2pFrkd"
+    },
+    {
+      "album": {
+        "name": "Guess I,",
+        "url": "https://open.spotify.com/album/7hvyDppfPfzxhEQcdBjvzU"
+      },
+      "artists": [
+        {
+          "name": "Isac Halldin",
+          "url": "https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212111,
+      "name": "Guess I,",
+      "url": "https://open.spotify.com/track/5pFjLqzkpREUeG2FJLyDz6"
     },
     {
       "album": {
@@ -5156,6 +5254,28 @@
       "duration_ms": 251712,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3jUOFLZ5MJvNrf022LKsDL"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN"
+      },
+      "artists": [
+        {
+          "name": "dark0wa",
+          "url": "https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53"
+        },
+        {
+          "name": "spr1te",
+          "url": "https://open.spotify.com/artist/7cpwHwxd59M9Y7d5xjg3n9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215849,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe"
     },
     {
       "album": {
@@ -5595,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1pGYo34rLagvzXEYG4yZBt"
+      },
+      "artists": [
+        {
+          "name": "NINA FAY",
+          "url": "https://open.spotify.com/artist/4H7ZhBJN5rxaoc0IHQHIKB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/1UiIN0hFSH3HoM2VT8UkcS"
+    },
+    {
+      "album": {
         "name": "hypothermia",
         "url": "https://open.spotify.com/album/4k4HqK3CCfjECreNDFAm5x"
       },
@@ -5924,6 +6062,32 @@
       "duration_ms": 76384,
       "name": "i win",
       "url": "https://open.spotify.com/track/64XQVX4dMJiMrgso3vHn0o"
+    },
+    {
+      "album": {
+        "name": "I WON'T",
+        "url": "https://open.spotify.com/album/3umr3VtXHa8HrSC8kjgK1j"
+      },
+      "artists": [
+        {
+          "name": "sindr",
+          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
+        },
+        {
+          "name": "BASHI",
+          "url": "https://open.spotify.com/artist/07QJwDYIjFFW2RhRUO3DPg"
+        },
+        {
+          "name": "Nick Bonin",
+          "url": "https://open.spotify.com/artist/6kFCeHJQ1sK1fgBrqMK3G9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I WON'T",
+      "url": "https://open.spotify.com/track/48FSlw3vp5GkqrsqXYCwcd"
     },
     {
       "album": {
@@ -7545,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Loud with you (Angel)",
+        "url": "https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W"
+      },
+      "artists": [
+        {
+          "name": "tibia",
+          "url": "https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Loud with you (Angel)",
+      "url": "https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell"
+    },
+    {
+      "album": {
         "name": "Love Is A Trap",
         "url": "https://open.spotify.com/album/60z4drZtyVUax17b1P9mUm"
       },
@@ -8729,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Nothing's Really Over, Not With Anyone",
+      "url": "https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY"
+    },
+    {
+      "album": {
         "name": "noxium",
         "url": "https://open.spotify.com/album/2KuNckwNrg6QWn3SqHNAAx"
       },
@@ -9837,6 +10037,24 @@
     },
     {
       "album": {
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175183,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
+    },
+    {
+      "album": {
         "name": "1:M",
         "url": "https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw"
       },
@@ -10488,6 +10706,24 @@
       "duration_ms": 218181,
       "name": "SAMESAME",
       "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
+      "album": {
+        "name": "San Miguel",
+        "url": "https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc"
+      },
+      "artists": [
+        {
+          "name": "Van Dame",
+          "url": "https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234875,
+      "name": "San Miguel",
+      "url": "https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp"
     },
     {
       "album": {
@@ -11240,6 +11476,24 @@
       "duration_ms": 173920,
       "name": "Somewhere Else Than Here",
       "url": "https://open.spotify.com/track/100nbUWfWV6GABt0sGx6zx"
+    },
+    {
+      "album": {
+        "name": "PURR",
+        "url": "https://open.spotify.com/album/5PdoNuA4Ub8rZGGEGRZVfX"
+      },
+      "artists": [
+        {
+          "name": "Marcus Cardello",
+          "url": "https://open.spotify.com/artist/0cDMOBsQAiNdrEsQXrtqXp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "son of a G",
+      "url": "https://open.spotify.com/track/6SAjgKODYBwPk56p6RdbTI"
     },
     {
       "album": {
@@ -12294,6 +12548,28 @@
       "duration_ms": 179055,
       "name": "THINK TWICE BEFORE I GO",
       "url": "https://open.spotify.com/track/4ZDAmI0BkSFluqrRpdk5pT"
+    },
+    {
+      "album": {
+        "name": "Limitensions",
+        "url": "https://open.spotify.com/album/4po199MxfiNIlYrkEXzN3K"
+      },
+      "artists": [
+        {
+          "name": "O. Martin",
+          "url": "https://open.spotify.com/artist/2Rm5frqCFKe3ZMuNuXRORb"
+        },
+        {
+          "name": "Mia Berg",
+          "url": "https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "This House Is Haunted",
+      "url": "https://open.spotify.com/track/5ie4XYqvHsNXL3m6NAmWMU"
     },
     {
       "album": {

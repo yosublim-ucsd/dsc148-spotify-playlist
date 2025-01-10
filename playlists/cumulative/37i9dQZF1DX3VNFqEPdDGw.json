@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 189544,
       "name": "Kadar",
       "url": "https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9"
@@ -2830,6 +2830,32 @@
       "duration_ms": 158857,
       "name": "Notaan Wang",
       "url": "https://open.spotify.com/track/4PJXW4T7BKL5h4nPpQYdBP"
+    },
+    {
+      "album": {
+        "name": "Note",
+        "url": "https://open.spotify.com/album/2xRAT8SUxKRGgkbG3qDG26"
+      },
+      "artists": [
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Note",
+      "url": "https://open.spotify.com/track/1AicLE0XHpoHgtnzYIcIH6"
     },
     {
       "album": {

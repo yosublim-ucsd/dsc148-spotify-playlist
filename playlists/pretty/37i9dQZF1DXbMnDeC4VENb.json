@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 181663,
+  "num_followers": 181709,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 181924,
-      "name": "M\u00edrame Ma",
-      "url": "https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 181924,
+      "name": "M\u00edrame Ma",
+      "url": "https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -931,26 +931,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "No estes triste",
-        "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
+        "name": "Necesitaba Estar Hecho",
+        "url": "https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
         }
       ],
-      "duration_ms": 198750,
-      "name": "No Est\u00e9s Triste",
-      "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
+      "duration_ms": 186000,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -971,18 +963,26 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Necesitaba Estar Hecho",
-        "url": "https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr"
+        "name": "No estes triste",
+        "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
       },
       "artists": [
         {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt"
+      "duration_ms": 198750,
+      "name": "No Est\u00e9s Triste",
+      "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Oye Cantinero",
         "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 196111,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+        "name": "Portarnos Mal",
+        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+      "duration_ms": 198260,
+      "name": "Portarnos Mal",
+      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1711,22 +1715,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Portarnos Mal",
-        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Portarnos Mal",
-      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Bajo Sustancias",
+        "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "BAD BEHAVIORS",
         "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
       },
@@ -1783,22 +1803,6 @@
       "duration_ms": 190589,
       "name": "BAD BEHAVIORS",
       "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1819,26 +1823,6 @@
       "duration_ms": 221750,
       "name": "Polic\u00edas y Ladrones",
       "url": "https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Bajo Sustancias",
-        "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Confundido",
         "url": "https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "No Entiendo Nada",
-        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "No Entiendo Nada",
-      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Bonita T\u00fa",
         "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 191000,
       "name": "Bonita T\u00fa",
       "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "No Entiendo Nada",
+        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "No Entiendo Nada",
+      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "T\u00e9 Con Miel",
-        "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
-      },
-      "artists": [
-        {
-          "name": "Aerstame",
-          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 213940,
-      "name": "T\u00e9 Con Miel",
-      "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Ya Sabes Como Soy",
         "url": "https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 176786,
       "name": "Ya Sabes Como Soy",
       "url": "https://open.spotify.com/track/4cWIAA9Ua0eEEoZDq8T0Ti"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "T\u00e9 Con Miel",
+        "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
+      },
+      "artists": [
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 213940,
+      "name": "T\u00e9 Con Miel",
+      "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -2483,26 +2483,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Archivo Mudo",
-        "url": "https://open.spotify.com/album/6xAf2bmlcP5Wm885HiTEP9"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Tino El Ping\u00fcino",
-          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
-        }
-      ],
-      "duration_ms": 228211,
-      "name": "Archivo Mudo",
-      "url": "https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/6pGKNM53b4PH1v015cjZfs"
       },
@@ -2519,6 +2499,26 @@
       "duration_ms": 173500,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/4xC6hpXVqIfUkiHswrI8Vr"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Archivo Mudo",
+        "url": "https://open.spotify.com/album/6xAf2bmlcP5Wm885HiTEP9"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "duration_ms": 228211,
+      "name": "Archivo Mudo",
+      "url": "https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -2815,6 +2815,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Nuestro Amor Vol\u00e1til",
+        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lee",
+          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
+        }
+      ],
+      "duration_ms": 132732,
+      "name": "Nuestro Amor Vol\u00e1til",
+      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Me Haces Bien",
         "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
@@ -2839,22 +2855,6 @@
       "duration_ms": 207499,
       "name": "Me Haces Bien",
       "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Nuestro Amor Vol\u00e1til",
-        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lee",
-          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
-        }
-      ],
-      "duration_ms": 132732,
-      "name": "Nuestro Amor Vol\u00e1til",
-      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Vete Ya",
-        "url": "https://open.spotify.com/album/3ZuG3qNOTdepji3ltj0nhh"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        }
-      ],
-      "duration_ms": 149117,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/28M8uorPccxkeuwdQqotFd"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Te Voy a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 198971,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Vete Ya",
+        "url": "https://open.spotify.com/album/3ZuG3qNOTdepji3ltj0nhh"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        }
+      ],
+      "duration_ms": 149117,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/28M8uorPccxkeuwdQqotFd"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 182913,
-      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "T\u00fa, Mija",
         "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 148235,
       "name": "Sin Etiquetas",
       "url": "https://open.spotify.com/track/04K2EiRnHz4UtEHxvrx4k5"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 182913,
+      "name": "Perd\u00f3n, Perd\u00f3n, Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -3271,6 +3271,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        }
+      ],
+      "duration_ms": 266448,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Flakita",
         "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
       },
@@ -3291,22 +3307,6 @@
       "duration_ms": 171050,
       "name": "Flakita",
       "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz"
-      },
-      "artists": [
-        {
-          "name": "Astrid Cruz",
-          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
-        }
-      ],
-      "duration_ms": 266448,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -3499,26 +3499,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Lucifer",
-        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
-      },
-      "artists": [
-        {
-          "name": "Fierros Mancilla",
-          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 267558,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "El Hijo de Norma",
         "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
@@ -3535,6 +3515,26 @@
       "duration_ms": 195800,
       "name": "Monte de Venus",
       "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+      },
+      "artists": [
+        {
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -3839,6 +3839,26 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 282697,
+      "name": "Stupid Love Story",
+      "url": "https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Desde Que Te Bese",
         "url": "https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17"
       },
@@ -3859,26 +3879,6 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Apa y Can",
-        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 282697,
-      "name": "Stupid Love Story",
-      "url": "https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -3915,26 +3915,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 160449,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "1000 KM",
         "url": "https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO"
       },
@@ -3963,6 +3943,26 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 160449,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7"
     },
     {
       "added_at": "2025-01-03 06:00:19",

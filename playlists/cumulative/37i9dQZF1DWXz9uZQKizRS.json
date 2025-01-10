@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: asl33p",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Mikromusic",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -1219,6 +1219,42 @@
     },
     {
       "album": {
+        "name": "Co z Tob\u0105?",
+        "url": "https://open.spotify.com/album/51bve2usGV2q99QTKHGIKs"
+      },
+      "artists": [
+        {
+          "name": "Julia Rover",
+          "url": "https://open.spotify.com/artist/70zXFyFXCecgOndjLIbQ1P"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Co z Tob\u0105?",
+      "url": "https://open.spotify.com/track/3wulbqoJ42OkShHGkXrSuN"
+    },
+    {
+      "album": {
+        "name": "Co Ze Mn\u0105",
+        "url": "https://open.spotify.com/album/6ttrJhwHzWoEWQD4Zn8LxT"
+      },
+      "artists": [
+        {
+          "name": "GAYA",
+          "url": "https://open.spotify.com/artist/50GdbX0ugTIjZ15kc5lBie"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166052,
+      "name": "Co Ze Mn\u0105",
+      "url": "https://open.spotify.com/track/7n12vTc3dxUdDeH1TmjYsv"
+    },
+    {
+      "album": {
         "name": "Cokolwiek powiesz",
         "url": "https://open.spotify.com/album/5Z12iRWCYhohPxj7mvOxWZ"
       },
@@ -1446,7 +1482,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 266453,
       "name": "Decision",
       "url": "https://open.spotify.com/track/1EmDi8X1q2vwLVQ3mcKNVt"
@@ -2121,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Gdzie Chcesz Biec?",
+        "url": "https://open.spotify.com/album/6wpIjOTahabrCz4lMDKjmP"
+      },
+      "artists": [
+        {
+          "name": "Bibobit",
+          "url": "https://open.spotify.com/artist/30nbDQcIKNaKHQFCE97DBX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342806,
+      "name": "Gdzie Chcesz Biec?",
+      "url": "https://open.spotify.com/track/1sSJJhT5erbfW4Hla7xHiF"
+    },
+    {
+      "album": {
         "name": "Gdzie jeste\u015b?",
         "url": "https://open.spotify.com/album/3voZHXvAISl9CcTrlKmkKI"
       },
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183880,
       "name": "GOTIK LOLITA",
       "url": "https://open.spotify.com/track/0Xxgk9nnMhIFu5zwm6XPRW"
@@ -2470,6 +2524,28 @@
       "duration_ms": 183000,
       "name": "Inny \u015bwiat",
       "url": "https://open.spotify.com/track/27gBDIYrJBfs66WzwcOYkE"
+    },
+    {
+      "album": {
+        "name": "INSTYNKT",
+        "url": "https://open.spotify.com/album/0YqrRng4HZJZojbAy3bKJ3"
+      },
+      "artists": [
+        {
+          "name": "shane.",
+          "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
+        },
+        {
+          "name": "didi",
+          "url": "https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211735,
+      "name": "INSTYNKT",
+      "url": "https://open.spotify.com/track/4PqHKDz8hzjZZaG36HZzN9"
     },
     {
       "album": {
@@ -2792,7 +2868,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 211026,
       "name": "JOMO",
       "url": "https://open.spotify.com/track/4nomjBYQT8Lp2EiC8rjE0p"
@@ -3243,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Krok St\u0105d",
+        "url": "https://open.spotify.com/album/5ombVxTHNtHARJDqlbFKd9"
+      },
+      "artists": [
+        {
+          "name": "Jagoda Kret",
+          "url": "https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Krok St\u0105d",
+      "url": "https://open.spotify.com/track/0XPK8vCdJSUjrmMBXrJWWp"
+    },
+    {
+      "album": {
         "name": "kropelki",
         "url": "https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI"
       },
@@ -3320,6 +3414,28 @@
       "duration_ms": 206446,
       "name": "Kto pokocha?",
       "url": "https://open.spotify.com/track/3WkL7CwHF9ixWf2SNPEyRU"
+    },
+    {
+      "album": {
+        "name": "Kto tam?",
+        "url": "https://open.spotify.com/album/7ne41apFpMSVBr6ynD6qhE"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244949,
+      "name": "Kto tam?",
+      "url": "https://open.spotify.com/track/7G7gVuizxb7NON7DdWJkgi"
     },
     {
       "album": {
@@ -4769,6 +4885,28 @@
     },
     {
       "album": {
+        "name": "Nic",
+        "url": "https://open.spotify.com/album/18ToHCJG3jhpyV9pIS5t84"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Nic",
+      "url": "https://open.spotify.com/track/4HK1oowEpGl1v478pOWKaL"
+    },
+    {
+      "album": {
         "name": "Nic na zawsze nie jest dane",
         "url": "https://open.spotify.com/album/7dUFwPiDCBnCovpwyhbYZx"
       },
@@ -4878,7 +5016,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194378,
       "name": "Nie chc\u0119 Ci\u0119 straci\u0107",
       "url": "https://open.spotify.com/track/0yPAxMk5uY3gawWM6lNfny"
@@ -5001,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "Nie umiem ta\u0144czy\u0107",
+        "url": "https://open.spotify.com/album/7l6SipYzqvZTthSEmalhjU"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Nie umiem ta\u0144czy\u0107",
+      "url": "https://open.spotify.com/track/1Iy8pt0HXtTNblnNIkEygc"
+    },
+    {
+      "album": {
         "name": "600 Lat Samotno\u015bci",
         "url": "https://open.spotify.com/album/0a2ceno5j7BykP4mwf979O"
       },
@@ -5074,7 +5230,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203757,
       "name": "Niemi\u0142osny",
       "url": "https://open.spotify.com/track/1z4PbnE6ez7F4hhiy0v4HK"
@@ -6082,7 +6238,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 181761,
       "name": "Po co mi to?",
       "url": "https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr"
@@ -6838,7 +6994,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 214730,
       "name": "Rutyna nie ma z nami szans",
       "url": "https://open.spotify.com/track/5XQTa9vVndRolWsxH2GJqP"
@@ -6878,7 +7034,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234567,
       "name": "Rzeka kt\u00f3ra p\u0142ynie w dw\u00f3ch kierunkach",
       "url": "https://open.spotify.com/track/1HNWsc23Iv10syDf6qdZmY"
@@ -7120,7 +7276,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190893,
       "name": "Simona",
       "url": "https://open.spotify.com/track/3G0Jbrym87oRSiCXm89g4E"
@@ -7146,6 +7302,28 @@
       "duration_ms": 381843,
       "name": "Siwa zezulejko",
       "url": "https://open.spotify.com/track/522TdZ2Xy1mwlzKPSlQJPE"
+    },
+    {
+      "album": {
+        "name": "si\u00f3dme \u2013 nie kradnij",
+        "url": "https://open.spotify.com/album/1uqf7Jx4Jpw9z3Y09jQlAT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186069,
+      "name": "si\u00f3dme \u2013 nie kradnij",
+      "url": "https://open.spotify.com/track/0RIlA05vDlIoEmz6R3Mlpg"
     },
     {
       "album": {

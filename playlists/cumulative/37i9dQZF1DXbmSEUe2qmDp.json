@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Descontar na cama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2O9nnOa6RwWN2bS0RMlZcp"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Giovanni",
+          "url": "https://open.spotify.com/artist/4CaDrzxO4pBphvG8nc1mnz"
+        },
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183805,
+      "name": "Descontar na cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/43LB4NoPGpoPL3rfn08p6G"
+    },
+    {
+      "album": {
         "name": "Desidratado (Ao Vivo)",
         "url": "https://open.spotify.com/album/5V1p1drcHq90K0lmmr0MqX"
       },
@@ -2124,6 +2146,24 @@
       "duration_ms": 217750,
       "name": "Minha Loucura de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG"
+    },
+    {
+      "album": {
+        "name": "Moleque De Barba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3FzmIP0agWi3Rmn5N2jXSb"
+      },
+      "artists": [
+        {
+          "name": "Igor & Walace",
+          "url": "https://open.spotify.com/artist/7GZIUnkqn8wTG3FjZ5wy0T"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174041,
+      "name": "Moleque De Barba - Ao Vivo",
+      "url": "https://open.spotify.com/track/57HYMyY8m9V0grgOsRAOuo"
     },
     {
       "album": {
@@ -3864,6 +3904,24 @@
       "duration_ms": 180520,
       "name": "Vestidinho",
       "url": "https://open.spotify.com/track/1wzG9CS0wqQyk5mcQa5sfk"
+    },
+    {
+      "album": {
+        "name": "Vibe Boa",
+        "url": "https://open.spotify.com/album/74wD5kmPQwzM8rXuAxIS3M"
+      },
+      "artists": [
+        {
+          "name": "Tyago e Gabriel",
+          "url": "https://open.spotify.com/artist/0kaUBrs0r3rulhBhjWtTlj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157054,
+      "name": "Vibe Boa",
+      "url": "https://open.spotify.com/track/6FXYBB12u2pGXCHvHZaFuI"
     },
     {
       "album": {

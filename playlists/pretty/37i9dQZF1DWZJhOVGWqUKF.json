@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: The Haunt",
-  "num_followers": 340842,
+  "num_followers": 340904,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -639,8 +639,8 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 185346,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
+      "duration_ms": 193552,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -815,8 +815,8 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 193552,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
+      "duration_ms": 185346,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
-        "name": "Forever Cold",
-        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
         }
       ],
-      "duration_ms": 283714,
-      "name": "Forever Cold",
-      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
         "name": "KILLING ME",
         "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 223375,
       "name": "KILLING ME",
       "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
-    },
-    {
-      "added_at": "2025-01-02 23:00:03",
-      "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 159155,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
         "name": "7 Minutes in Hell",
         "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 186000,
       "name": "7 Minutes in Hell",
       "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
-    },
-    {
-      "added_at": "2025-01-02 23:00:03",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 159155,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
         "name": "Crack Cocaine",
         "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 241426,
       "name": "Crack Cocaine",
       "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
-    },
-    {
-      "added_at": "2025-01-02 23:00:03",
-      "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
-        "name": "Searching for Tomorrow",
-        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Searching for Tomorrow",
-      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
-    },
-    {
-      "added_at": "2025-01-02 23:00:03",
-      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
     },
     {
       "added_at": "2025-01-02 23:00:03",

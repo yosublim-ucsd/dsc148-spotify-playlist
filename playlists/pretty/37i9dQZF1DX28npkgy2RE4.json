@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 420940,
+  "num_followers": 420958,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 242266,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Jacket",
-        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Everything Is Simple",
-      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "The Jacket",
+        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1071,34 +1067,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
         }
       ],
-      "duration_ms": 369116,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 369116,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Stranger Danger",
         "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 281880,
       "name": "Stranger Danger",
       "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+        "name": "Fish Pond Fish",
+        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
       "artists": [
         {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+      "duration_ms": 231066,
+      "name": "A Light On In The Dark",
+      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Fish Pond Fish",
-        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
         }
       ],
-      "duration_ms": 231066,
-      "name": "A Light On In The Dark",
-      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Third Way",
-      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Third Way",
+      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "pak it in // mama",
         "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 283518,
       "name": "pak it in",
       "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Wisteria",
         "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
       },
@@ -1819,22 +1803,34 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Black Eyed Dog",
-        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
       },
       "artists": [
         {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 168779,
-      "name": "Black Eyed Dog",
-      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1855,18 +1851,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+        "name": "Black Eyed Dog",
+        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
       "artists": [
         {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         }
       ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+      "duration_ms": 168779,
+      "name": "Black Eyed Dog",
+      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Storm Queen",
-        "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
       "artists": [
         {
-          "name": "Grace Cummings",
-          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Raglan",
-      "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2063,6 +2047,22 @@
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Storm Queen",
+        "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
+      },
+      "artists": [
+        {
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Raglan",
+      "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
+      },
+      "artists": [
+        {
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Mouth (feat. Luke Krutzke)",
         "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 236032,
       "name": "Mouth (feat. Luke Krutzke)",
       "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "We Cannot Resist",
         "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 193000,
       "name": "We Cannot Resist - Edit",
       "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Turn Away",
-        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Turn Away",
-      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Green to Gold",
         "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Turn Away",
+        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
     },
     {
       "added_at": "2024-09-13 04:00:00",

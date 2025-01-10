@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kybba",
+  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 120254,
       "name": "Fanm kapab",
       "url": "https://open.spotify.com/track/5hmiTNxm6RbyO3mfeAJ89x"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164558,
       "name": "F\u00f4wf\u00e8",
       "url": "https://open.spotify.com/track/1f7l8jgNRV8wBxJNuR8OYc"
@@ -6258,10 +6258,36 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 122670,
       "name": "More",
       "url": "https://open.spotify.com/track/3SqKXyhcRvt5MQaA3njYw2"
+    },
+    {
+      "album": {
+        "name": "Mwen An Sa",
+        "url": "https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi"
+      },
+      "artists": [
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        },
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179823,
+      "name": "Mwen An Sa",
+      "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
     },
     {
       "album": {
@@ -8407,6 +8433,28 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1TpW3Ni3TGuxhBCRARm1uC"
+      },
+      "artists": [
+        {
+          "name": "Rak-Su",
+          "url": "https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB"
+        },
+        {
+          "name": "Late Checkout",
+          "url": "https://open.spotify.com/artist/1P7ciW7WWQWZnbS1aJdvdu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7fRkug5XauvNUSdD8IGTxm"
+    },
+    {
+      "album": {
         "name": "Siddung",
         "url": "https://open.spotify.com/album/6UQ67xY1VdSiuQTJFR3Hf1"
       },
@@ -10210,6 +10258,32 @@
       "duration_ms": 157935,
       "name": "Whippin",
       "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"
+    },
+    {
+      "album": {
+        "name": "Whole A Dem",
+        "url": "https://open.spotify.com/album/5RVoJwYaNFZMZiiSxDbngD"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120510,
+      "name": "Whole A Dem",
+      "url": "https://open.spotify.com/track/0DMjeJ6CRJUSOWcMwgtdAZ"
     },
     {
       "album": {

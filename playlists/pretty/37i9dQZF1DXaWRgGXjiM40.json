@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 951052,
+  "num_followers": 951116,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-12-13 03:03:17",
       "album": {
-        "name": "Identidade, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+        "name": "Surto De Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 165000,
-      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
+      "duration_ms": 157202,
+      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
+      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
     },
     {
       "added_at": "2024-12-13 03:03:17",
@@ -567,22 +571,18 @@
     {
       "added_at": "2024-12-13 03:03:17",
       "album": {
-        "name": "Surto De Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 157202,
-      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
-      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
     },
     {
       "added_at": "2024-12-13 03:03:17",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-12-13 03:03:17",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2024-12-13 03:03:17",
-      "album": {
         "name": "Tchau Brigado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
+    },
+    {
+      "added_at": "2024-12-13 03:03:17",
+      "album": {
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Algo Mais (Amante) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
     },
     {
       "added_at": "2024-12-13 03:03:17",

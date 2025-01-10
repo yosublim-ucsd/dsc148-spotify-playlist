@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Khalid
 
-437 songs - 21 hr 57 min
+438 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Black Mona Lisa](https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:00 | 2023-11-17 | 2024-04-13 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-05-31 | 2024-08-24 |
 | [Blue Days](https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Blue Days](https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG) | 2:41 | 2023-01-27 | 2023-04-25 |
+| [Body Favors](https://open.spotify.com/track/51QUz7oGI38mc5uAy85OqW) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT](https://open.spotify.com/album/2vIxH1jwz9e2JB6aDlxRSS) | 2:56 | 2025-01-09 |  |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-05-31 | 2024-08-10 |
 | [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 | 2024-04-12 | 2024-08-10 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-01-27 | 2023-02-18 |
@@ -441,7 +442,7 @@
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-19 | 2024-01-13 |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-08-09 |  |
 | [yeaaa](https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [yeaaa](https://open.spotify.com/album/1Qgi155gfjdPrtV7xaauqB) | 2:03 | 2024-03-01 | 2024-06-15 |
-| [You Ain’t For Me](https://open.spotify.com/track/7hd8IUeTsLnyEr9b2RquoG) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [You Ain’t For Me](https://open.spotify.com/album/6Psiq5uxpznB6jNgwGiKfK) | 2:37 | 2024-08-09 |  |
+| [You Ain’t For Me](https://open.spotify.com/track/7hd8IUeTsLnyEr9b2RquoG) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [You Ain’t For Me](https://open.spotify.com/album/6Psiq5uxpznB6jNgwGiKfK) | 2:37 | 2024-08-09 | 2025-01-10 |
 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 | 2022-03-11 | 2023-01-28 |
 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 | 2022-02-04 | 2023-01-28 |
 | [Yummy Yummy \(Get Yummy\)](https://open.spotify.com/track/1SZ1TubSGxGXqA4uNzyNTW) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Yummy Yummy \(Get Yummy\)](https://open.spotify.com/album/4bvq5s0WRgcEshUotY62WK) | 1:24 | 2022-03-11 | 2022-04-16 |

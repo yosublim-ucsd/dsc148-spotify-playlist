@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
-  "num_followers": 30332,
+  "num_followers": 30339,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
+        "name": "Keep on Going",
+        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Keep on Going",
+      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
+    },
+    {
+      "added_at": "2025-01-08 09:58:46",
+      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 205480,
       "name": "Slow Motion Town",
       "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
-    },
-    {
-      "added_at": "2025-01-08 09:58:46",
-      "album": {
-        "name": "Keep on Going",
-        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Keep on Going",
-      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
     },
     {
       "added_at": "2025-01-08 09:58:46",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-01-08 09:58:46",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2025-01-08 09:58:46",
@@ -511,8 +511,8 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2025-01-08 09:58:46",
@@ -659,8 +659,8 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2025-01-08 09:58:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-08 09:58:46",
       "album": {
-        "name": "Oneself Likeness",
-        "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
-      },
-      "artists": [
-        {
-          "name": "Quasimode",
-          "url": "https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD"
-        }
-      ],
-      "duration_ms": 390680,
-      "name": "Down In The Village",
-      "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
-    },
-    {
-      "added_at": "2025-01-08 09:58:46",
-      "album": {
         "name": "Defying",
         "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208026,
       "name": "Sol Levante",
       "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
+    },
+    {
+      "added_at": "2025-01-08 09:58:46",
+      "album": {
+        "name": "Oneself Likeness",
+        "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
+      },
+      "artists": [
+        {
+          "name": "Quasimode",
+          "url": "https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD"
+        }
+      ],
+      "duration_ms": 390680,
+      "name": "Down In The Village",
+      "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
     },
     {
       "added_at": "2025-01-08 09:58:46",

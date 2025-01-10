@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 618752,
+  "num_followers": 618810,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "Nuestro Amanecer",
+      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "Nuestro Amanecer",
-      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
         "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 194093,
       "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
       "url": "https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Vientos De Octubre",
         "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 202409,
       "name": "Vientos De Octubre",
       "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Caf\u00e9 Con Chocolate",
-      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Caf\u00e9 Con Chocolate",
+      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Domingo De Extra\u00f1arte",
-        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 153596,
-      "name": "Domingo De Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+        "name": "Domingo De Extra\u00f1arte",
+        "url": "https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+      "duration_ms": 153596,
+      "name": "Domingo De Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
       "artists": [
         {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+      "duration_ms": 134613,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
       },
       "artists": [
         {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
         }
       ],
-      "duration_ms": 134613,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Vernos Crecer",
+        "url": "https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        }
+      ],
+      "duration_ms": 175445,
+      "name": "Vernos Crecer",
+      "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Vernos Crecer",
-        "url": "https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY"
-      },
-      "artists": [
-        {
-          "name": "Andrea Cruz",
-          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
-        }
-      ],
-      "duration_ms": 175445,
-      "name": "Vernos Crecer",
-      "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Con Tu Nombre",
-        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 246250,
-      "name": "Con Tu Nombre",
-      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "El Solitario Amor",
         "url": "https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 175786,
       "name": "El Solitario Amor",
       "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Con Tu Nombre",
+        "url": "https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 246250,
+      "name": "Con Tu Nombre",
+      "url": "https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2339,18 +2339,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+        "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+      "duration_ms": 198917,
+      "name": "Un Beso M\u00e1s - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2371,22 +2375,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l"
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 198917,
-      "name": "Un Beso M\u00e1s - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2547,6 +2547,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "La Fortuna",
+        "url": "https://open.spotify.com/album/4QUUUIiRzrs9pQYRbckcTT"
+      },
+      "artists": [
+        {
+          "name": "Diana Fuentes",
+          "url": "https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 208611,
+      "name": "La Fortuna",
+      "url": "https://open.spotify.com/track/1fHp293tqlQYfAU7vDWIFc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Parte de Mi",
         "url": "https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz"
       },
@@ -2623,26 +2643,6 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 241264,
-      "name": "Sin Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q"
     },
     {
       "added_at": "2024-10-18 04:00:00",

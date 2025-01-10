@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=8VV0BsjvQGuPnIV33IU6sQ"> بهاء سلطان </a>
 
-350 songs - 20 hr 23 min
+351 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 | 2024-07-27 | 2024-09-10 |
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-04-24 |  |
 | [عم المجال \- يبني أنا في الشغله دي عمها](https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/72ggotxJU02kj6Anb7WKcV) | 4:15 | 2024-07-04 | 2024-08-21 |
+| [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-09 |  |
 | [فيها إيه](https://open.spotify.com/track/1EjWf609wyNxHwlq1kuug8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أنا جامد كده كده](https://open.spotify.com/album/3Lk8CFHLrKlAv9cd4Cyi5v) | 3:26 | 2024-09-09 | 2024-12-12 |
 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 | 2023-06-06 | 2024-05-17 |
 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-05-18 | 2023-06-24 |
@@ -312,7 +313,7 @@
 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-25 |  |
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-09-01 | 2023-10-03 |
 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 | 2024-04-24 | 2024-12-06 |
-| [كنت فاكرك](https://open.spotify.com/track/7smW6V6oHCmWDvk5ec9ukS) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كنت فاكرك](https://open.spotify.com/album/7qxc6MjDtRvHJIpviokcgq) | 2:47 | 2024-12-16 |  |
+| [كنت فاكرك](https://open.spotify.com/track/7smW6V6oHCmWDvk5ec9ukS) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كنت فاكرك](https://open.spotify.com/album/7qxc6MjDtRvHJIpviokcgq) | 2:47 | 2024-12-16 | 2025-01-10 |
 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-07-01 |  |
 | [لسه شوفتوا حاجه](https://open.spotify.com/track/0V6UZDdkqatuBp96nyyUew) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [لسه شوفتوا حاجه](https://open.spotify.com/album/03XpqW1KW0zGsVovuosHNk) | 3:35 | 2024-01-16 | 2024-06-22 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-04 |  |

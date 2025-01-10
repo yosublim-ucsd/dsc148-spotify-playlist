@@ -10377,6 +10377,24 @@
     },
     {
       "album": {
+        "name": "The Garden Gnome",
+        "url": "https://open.spotify.com/album/26M1pxdbrva0aZKKI1CXe2"
+      },
+      "artists": [
+        {
+          "name": "Cory Andon",
+          "url": "https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129636,
+      "name": "The Garden Gnome",
+      "url": "https://open.spotify.com/track/76UrUwppRDeVai7AiWa1HF"
+    },
+    {
+      "album": {
         "name": "The Ghost That Couldn't Scare",
         "url": "https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8"
       },

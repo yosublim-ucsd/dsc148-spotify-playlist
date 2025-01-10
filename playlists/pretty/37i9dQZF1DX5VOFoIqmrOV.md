@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,534 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,666 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 58 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 |
 | 59 | [Vachinde](https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY), [Ramky](https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 5:24 |
 | 60 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
-| 61 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
-| 62 | [Mandaara](https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhaagamathie](https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun) | 4:49 |
+| 61 | [Mandaara](https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhaagamathie](https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun) | 4:49 |
+| 62 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
 | 63 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
 | 64 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |
-| 65 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
-| 66 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
+| 65 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
+| 66 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
 | 67 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz , Shreya Ghoshal](https://open.spotify.com/artist/0SrOoISCcqWMq27CrEA5vo) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
 | 68 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
 | 69 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |

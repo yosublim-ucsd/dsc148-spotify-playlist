@@ -2,7 +2,7 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Paper Planes, JOEY PHUWASIT
+> เพลย์ลิสต์พิเศษวันเด็ก ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: GEMINI
 
 110 songs - 6 hr 33 min
 

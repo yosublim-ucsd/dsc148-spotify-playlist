@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 9 hr 49 min
+91 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Super Natural \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/1tODhJU9HBb1ScNMXxZY1A) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Super Natural \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/album/1CToOlSzLaga4ZVcI0OvXI) | 3:43 | 2024-05-01 |  |
 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2024-05-01 |  |
 | [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 | 2024-05-01 |  |
+| [The Gate \- Extended Mix](https://open.spotify.com/track/3znTSbFie2bjuijsZml7tu) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [The Gate \(Extended Mix\)](https://open.spotify.com/album/7juJuCAJ4F7wOs1uYKL0T6) | 10:00 | 2025-01-09 |  |
 | [The Model Gospel](https://open.spotify.com/track/0z6EJctuK2ZjoIv8yZbcMY) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:48 | 2024-05-01 |  |
 | [The Things They Did for Me Out of Love](https://open.spotify.com/track/2QriXzI1vNbV0dXEJkO8x1) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:44:00 | 2024-05-01 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-02 |  |

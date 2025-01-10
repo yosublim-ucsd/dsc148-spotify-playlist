@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 750287,
+  "num_followers": 750457,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 296066,
       "name": "Llegaste A Mi",
       "url": "https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Pa' Otro La 'o",
-        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 292773,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Pa' Otro La 'o",
+        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
     }
   ],
   "unique_name": "Salsa: Los 90s",

@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203600,
       "name": "Greatest Hits - Acoustic",
       "url": "https://open.spotify.com/track/29nQhFJZAQdxZqrwh8H1Ak"
@@ -6015,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "What Do You Believe In? (Deluxe)",
+        "url": "https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167382,
+      "name": "Put A Little Hurt On Me",
+      "url": "https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl"
+    },
+    {
+      "album": {
         "name": "Elba",
         "url": "https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ"
       },
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0yhcyd1iJHUPMBzufc6SiF"
@@ -7218,6 +7236,24 @@
       "duration_ms": 217974,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB"
+    },
+    {
+      "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
     },
     {
       "album": {

@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 132624,
       "name": "528 Hz Clarity Vibrations",
       "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 161859,
       "name": "528 Hz Deep Rain.",
       "url": "https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg"
@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/169F874BHCrBzYYordSZAe"
+      },
+      "artists": [
+        {
+          "name": "Drew Morrison",
+          "url": "https://open.spotify.com/artist/31YMTuzX6SccnRYcWrQVJe"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171038,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/3bTIrATW4lqsYtOasWHHNq"
+    },
+    {
+      "album": {
         "name": "Collected Focus Waves 528hz",
         "url": "https://open.spotify.com/album/5I5rz2opgHqhiMSjoIhvsT"
       },
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167088,
       "name": "Dream Point",
       "url": "https://open.spotify.com/track/3dvk6zdpRyL44x8opSvNHc"
@@ -3821,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Serenade of the Deep 528Hz",
+        "url": "https://open.spotify.com/album/7ow74PEiFVua1DxAUMUupB"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160368,
+      "name": "Serenade of the Deep 528Hz",
+      "url": "https://open.spotify.com/track/6jsJ0Cz6JI70v7dL1X71cp"
+    },
+    {
+      "album": {
         "name": "Serenity Repose 528 Hz",
         "url": "https://open.spotify.com/album/2k4UbXKZJ4AKoB2qvYwowo"
       },
@@ -4239,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "The minor pause",
+        "url": "https://open.spotify.com/album/5U3pPIzyNmwZE75DmkZMWf"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Sievert",
+          "url": "https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "The minor pause",
+      "url": "https://open.spotify.com/track/4gDdm4aeylDxyDiPkiOc1N"
+    },
+    {
+      "album": {
         "name": "The Solar Plexus: Manipura Meditation, Unblock Third Chakra for Personal Power",
         "url": "https://open.spotify.com/album/0qGNtgX2DdPIWYzVObBfGV"
       },
@@ -4448,7 +4502,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153611,
       "name": "Warm Light 528 Hz",
       "url": "https://open.spotify.com/track/0K63aGIdMRvLiODv0Joaxe"
@@ -4470,6 +4524,24 @@
       "duration_ms": 190117,
       "name": "Wonder 528 Hz",
       "url": "https://open.spotify.com/track/7j5Wcm2ZV4UPnkl7aPGBvY"
+    },
+    {
+      "album": {
+        "name": "Zien 528 Hz",
+        "url": "https://open.spotify.com/album/2e62tV5ADnywsF0GSWCRSS"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188656,
+      "name": "Zien 528 Hz",
+      "url": "https://open.spotify.com/track/0Kdfep65PEw4SOQxmWjlLQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC"

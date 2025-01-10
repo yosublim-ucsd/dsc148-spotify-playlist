@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "2 Stepper Freestyle",
+        "url": "https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200916,
+      "name": "2 Stepper Freestyle",
+      "url": "https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N"
+    },
+    {
+      "album": {
         "name": "2 The Moon",
         "url": "https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ"
       },
@@ -419,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+    },
+    {
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
       },
@@ -514,7 +558,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153026,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
@@ -684,7 +728,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176000,
       "name": "Bundle By Bundle",
       "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
@@ -746,7 +790,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 204411,
       "name": "California Sober (Feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
@@ -880,7 +924,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
@@ -1092,7 +1136,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
@@ -1172,7 +1216,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 157937,
       "name": "Darkerside",
       "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
@@ -1368,7 +1412,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -1386,7 +1430,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -1466,7 +1510,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
@@ -1648,7 +1692,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 198498,
       "name": "Ego",
       "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
@@ -1775,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "Even (with Cat Burns)",
+        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "Even (with Cat Burns)",
+      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -1837,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "album": {
         "name": "fancy / xvideos",
         "url": "https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge"
       },
@@ -1848,7 +1932,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 125943,
       "name": "fancy",
       "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
@@ -1913,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Filthy Rich",
+        "url": "https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172712,
+      "name": "Filthy Rich",
+      "url": "https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM"
+    },
+    {
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
@@ -1928,7 +2030,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
@@ -2082,6 +2184,24 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
+        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
     },
     {
       "album": {
@@ -2358,7 +2478,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 216471,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
@@ -2420,10 +2540,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "GORGEOUS (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170208,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
     },
     {
       "album": {
@@ -2558,7 +2696,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 132626,
       "name": "Heartbreaker From Tennessee",
       "url": "https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay"
@@ -2594,7 +2732,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
@@ -3062,7 +3200,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
@@ -3182,7 +3320,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
@@ -3258,7 +3396,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
@@ -3492,7 +3630,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
@@ -3591,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "Lonely (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "Lonely (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
+    },
+    {
+      "album": {
         "name": "Look Who's Laughing Now",
         "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
       },
@@ -3624,7 +3784,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 173193,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
@@ -3984,7 +4144,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
@@ -4108,7 +4268,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -4198,7 +4358,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
@@ -4256,7 +4416,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
@@ -4390,7 +4550,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179266,
       "name": "One By One",
       "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
@@ -4456,7 +4616,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
@@ -4474,7 +4634,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 247666,
       "name": "Panther City",
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
@@ -4568,7 +4728,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 261420,
       "name": "Pretty Slowly",
       "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
@@ -4644,7 +4804,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 208163,
       "name": "Raketter",
       "url": "https://open.spotify.com/track/18aEfFyZAkkyCJ4PqIOFCR"
@@ -4662,7 +4822,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
@@ -4778,7 +4938,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
@@ -5312,7 +5472,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 185352,
       "name": "Take Me to the Beach (feat. Baker Boy)",
       "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
@@ -5392,10 +5552,28 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "album": {
@@ -5482,7 +5660,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 175466,
       "name": "The Karate Kid",
       "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
@@ -5580,7 +5758,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
@@ -5792,7 +5970,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203500,
       "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
       "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
@@ -5912,7 +6090,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
@@ -6026,7 +6204,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -6062,7 +6240,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 198146,
       "name": "What This Could Be",
       "url": "https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7"
@@ -6156,7 +6334,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
@@ -6232,7 +6410,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 234886,
       "name": "You Go Your Way",
       "url": "https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe"
@@ -6272,7 +6450,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 196190,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"

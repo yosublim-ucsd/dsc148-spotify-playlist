@@ -1,29 +1,13 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 513178,
+  "num_followers": 513277,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADdg+G3I3gWESD7dMJ++HRN",
+  "snapshot_id": "Z33AAAAAAABzDTpCtuuT2vLF2+GnQby8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Freak On a Leash",
-      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 199773,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Freak On a Leash",
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "Got the Life",
-      "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See You On the Other Side",
         "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 188933,
       "name": "Twisted Transistor",
       "url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "Got the Life",
+      "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 276573,
-      "name": "Clown",
-      "url": "https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff"
+      "duration_ms": 322133,
+      "name": "Shoots and Ladders",
+      "url": "https://open.spotify.com/track/3ezGIgTmk2BZy9C3j0x1h9"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 322133,
-      "name": "Shoots and Ladders",
-      "url": "https://open.spotify.com/track/3ezGIgTmk2BZy9C3j0x1h9"
+      "duration_ms": 276573,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Path of Totality (Special Edition)",
-        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Get Up! (feat. Skrillex)",
-      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 232600,
       "name": "Children of the Korn (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Get Up! (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
     },
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 240546,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 235946,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
+      "duration_ms": 241146,
+      "name": "Black Is the Soul",
+      "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Black Is the Soul",
-      "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
+      "duration_ms": 235946,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
     },
     {
       "added_at": null,

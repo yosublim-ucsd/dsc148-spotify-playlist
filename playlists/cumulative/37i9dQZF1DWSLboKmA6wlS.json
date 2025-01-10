@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 242. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 180239,
       "name": "1+1",
       "url": "https://open.spotify.com/track/6YjFl582grW7C2W0eYm5oa"
+    },
+    {
+      "album": {
+        "name": "1+1 = \u0e40\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/6CXks8njtgiL8CMCShCF5Y"
+      },
+      "artists": [
+        {
+          "name": "N.ORI",
+          "url": "https://open.spotify.com/artist/1nXagGdWqZ33v6gMabB8u3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "1+1 = \u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/1WVqZ30UFs4eE3oHkzqmbE"
     },
     {
       "album": {
@@ -308,7 +326,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191278,
       "name": "A song of u",
       "url": "https://open.spotify.com/track/4bsoxCdP51W7dy8y8qjkOP"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151657,
       "name": "Capture",
       "url": "https://open.spotify.com/track/676xBYgvkeJb1c3gqi91NR"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151304,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/6zTPJubIqIwiYDwholY5Ma"
@@ -3420,6 +3438,24 @@
       "duration_ms": 181937,
       "name": "Loop",
       "url": "https://open.spotify.com/track/1M10WL8DJvXVlMOaAHOfp4"
+    },
+    {
+      "album": {
+        "name": "Lost.",
+        "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
+      },
+      "artists": [
+        {
+          "name": "Intoverse",
+          "url": "https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240821,
+      "name": "Lost.",
+      "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
     },
     {
       "album": {
@@ -6014,7 +6050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 291515,
       "name": "Take your time",
       "url": "https://open.spotify.com/track/6wtoDK1ZWmcEEqM3G1x9JX"
@@ -7707,6 +7743,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e47\u0e1e\u0e2d",
+        "url": "https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "\u0e01\u0e47\u0e1e\u0e2d",
+      "url": "https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e47\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d",
         "url": "https://open.spotify.com/album/0ChgEhbYtiNjh20d5AoZuH"
       },
@@ -8714,6 +8768,24 @@
       "duration_ms": 213601,
       "name": "\u0e04\u0e07\u0e1d\u0e31\u0e19\u0e14\u0e35 (Sweet Dream)",
       "url": "https://open.spotify.com/track/0tWqMnkzXjEPTbLi3LNxu6"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 [Why]",
+        "url": "https://open.spotify.com/album/66TomtXNfnARFIpTVTGcwZ"
+      },
+      "artists": [
+        {
+          "name": "Matmee Marisa",
+          "url": "https://open.spotify.com/artist/2HzTZemgrUxAu1W1ym8tyC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "\u0e04\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 [Why]",
+      "url": "https://open.spotify.com/track/7w3fCDsaJeWuOLHMPoxvss"
     },
     {
       "album": {
@@ -14265,6 +14337,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
+        "url": "https://open.spotify.com/album/12yy7hyQFfcNpuaYFv7fbr"
+      },
+      "artists": [
+        {
+          "name": "REDBONEZ",
+          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236103,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
+      "url": "https://open.spotify.com/track/6Fe4pi68WZDZDqnBf6hI57"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (CHAINED)",
         "url": "https://open.spotify.com/album/4YLRhLrgRfnXqLxrnMsApu"
       },
@@ -14550,6 +14640,24 @@
       "duration_ms": 238421,
       "name": "\u0e17\u0e22\u0e2d\u0e22\u0e04\u0e37\u0e19",
       "url": "https://open.spotify.com/track/1oZiIFevQEhHzR7z56OfdL"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e30\u0e40\u0e25\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0FYlzggEQxrCQsbVgyfDO1"
+      },
+      "artists": [
+        {
+          "name": "Youth Brush",
+          "url": "https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326197,
+      "name": "\u0e17\u0e30\u0e40\u0e25\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/7hJ3WaX8Uedn1K5xPy0p58"
     },
     {
       "album": {
@@ -14932,7 +15040,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190416,
       "name": "\u0e17\u0e33\u0e44\u0e21\u0e17\u0e33\u0e44\u0e21 (Why are you so cute?)",
       "url": "https://open.spotify.com/track/7ENimcb9CCFsyqH6Uwb7fz"
@@ -16523,6 +16631,24 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
+        "url": "https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo"
+      },
+      "artists": [
+        {
+          "name": "SYDNEYS",
+          "url": "https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227619,
+      "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
+      "url": "https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e25\u0e07\u0e43\u0e08",
         "url": "https://open.spotify.com/album/2GOsu2mZxgdOPIm1iYtDmy"
       },
@@ -17026,7 +17152,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 188400,
       "name": "\u0e1c\u0e39\u0e49\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e20\u0e31\u0e22\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e07\u0e32",
       "url": "https://open.spotify.com/track/0dPO36P7a6lyyOtotX0eLi"
@@ -17776,7 +17902,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 186064,
       "name": "\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b (Lend Me a Good Night)",
       "url": "https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt"
@@ -18810,6 +18936,24 @@
     {
       "album": {
         "name": "\u0e22\u0e2d\u0e21",
+        "url": "https://open.spotify.com/album/4zkG8nL98tqnv6WuJZ6RuL"
+      },
+      "artists": [
+        {
+          "name": "Cake Keeratirat",
+          "url": "https://open.spotify.com/artist/6cAZvK6kxmFEMlpfx66ZV3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e22\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/5QzQAdZELx0auTL3l7LECH"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e2d\u0e21",
         "url": "https://open.spotify.com/album/1CgvU0sZZSOaJNeHWSFc90"
       },
       "artists": [
@@ -19250,6 +19394,24 @@
       "duration_ms": 218880,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e44\u0e1b\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/5YqBnVW43y0VLb5L26Gofb"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secrect)",
+        "url": "https://open.spotify.com/album/3MCECfaTGH2bURQertUwAC"
+      },
+      "artists": [
+        {
+          "name": "OCD",
+          "url": "https://open.spotify.com/artist/0eYxMYMXZjPPELmQ4AuFZS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270166,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 - Secrect",
+      "url": "https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW"
     },
     {
       "album": {
@@ -25902,7 +26064,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 242000,
       "name": "\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e43\u0e08",
       "url": "https://open.spotify.com/track/7vfNewUSsp4oPt0EdRARWu"
@@ -29932,7 +30094,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179047,
       "name": "\u0e41\u0e04\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e37\u0e19",
       "url": "https://open.spotify.com/track/1GTEnUDEHAEWZ1Y1dP5NVZ"
@@ -31508,7 +31670,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 230526,
       "name": "\u0e43\u0e08\u0e14\u0e27\u0e07\u0e08\u0e34\u0e4b\u0e27 (Tiny Little Heart)",
       "url": "https://open.spotify.com/track/5IjNZrDgO5Odbko74Hqpnm"
@@ -31606,6 +31768,24 @@
       "duration_ms": 291428,
       "name": "\u0e43\u0e08\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e35\u0e09\u0e31\u0e19",
       "url": "https://open.spotify.com/track/0svqgK7Vacxce7WmBNdSgK"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e40\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/1TuZcT5fMAduzRTNvMyObd"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e37\u0e2d\u0e07\u0e24\u0e17\u0e18\u0e34\u0e4c \u0e1a\u0e38\u0e0d\u0e23\u0e2d\u0e14",
+          "url": "https://open.spotify.com/artist/6kt0QCOfdf29ZtxVTezJqm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189888,
+      "name": "\u0e43\u0e08\u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/1tDrEocJ9S7Tvcql48LtPa"
     },
     {
       "album": {
@@ -31722,6 +31902,24 @@
       "duration_ms": 213156,
       "name": "\u0e43\u0e19\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21 (Superfan)",
       "url": "https://open.spotify.com/track/7uTdbysVO32qxF0ufM7VfV"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19..\u0e2b\u0e32\u0e22\u0e44\u0e1b (\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/0gB0gFE0aaRZ6izmYtoz4J"
+      },
+      "artists": [
+        {
+          "name": "Chanom",
+          "url": "https://open.spotify.com/artist/1PRysXimdri49HvpxhcRXV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313012,
+      "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19..\u0e2b\u0e32\u0e22\u0e44\u0e1b (\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/5tvrACCoHESfnpFOj94PmN"
     },
     {
       "album": {
@@ -33658,7 +33856,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179290,
       "name": "\u0e44\u0e2d\u0e2b\u0e19\u0e32\u0e27",
       "url": "https://open.spotify.com/track/552r5LUwmIkm1UVNJvC87x"

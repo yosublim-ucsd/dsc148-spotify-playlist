@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164363,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/2NwhnLbGudUmHVNIUqZ3IM"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
@@ -338,6 +338,32 @@
       "duration_ms": 144000,
       "name": "Iron Lion Zion",
       "url": "https://open.spotify.com/track/0ZwJlSQ41Pys44mY6F5MVD"
+    },
+    {
+      "album": {
+        "name": "It's So Hard",
+        "url": "https://open.spotify.com/album/3Nk6oEVn6jQl29Eb5DVT9i"
+      },
+      "artists": [
+        {
+          "name": "Red Band",
+          "url": "https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs"
+        },
+        {
+          "name": "Moran Aharoni",
+          "url": "https://open.spotify.com/artist/4gGJEwNPz197Aa5KjB6JIA"
+        },
+        {
+          "name": "\u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05d1\u05d0",
+          "url": "https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "It's So Hard",
+      "url": "https://open.spotify.com/track/0g8AjHiTKGUrJbcfpsAnkO"
     },
     {
       "album": {
@@ -696,7 +722,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 230988,
       "name": "\u05d0\u05d9\u05da \u05d1\u05e1\u05d5\u05e3",
       "url": "https://open.spotify.com/track/65H1TsXpVBiBaxgsjmtlqe"
@@ -866,10 +892,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 165000,
       "name": "\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e0\u05d9 \u05d1\u05ea \u05d9\u05dd",
+        "url": "https://open.spotify.com/album/056gaA8pwp8bk9WvTjyGiB"
+      },
+      "artists": [
+        {
+          "name": "Eti Romano",
+          "url": "https://open.spotify.com/artist/2yvqGZ419gauBgCGXyx64E"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194316,
+      "name": "\u05d0\u05e0\u05d9 \u05d1\u05ea \u05d9\u05dd",
+      "url": "https://open.spotify.com/track/31XRsx1qOS2fnPKFSTExWq"
     },
     {
       "album": {
@@ -1098,7 +1142,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151111,
       "name": "\u05d1\u05d7\u05d5\u05e8\u05d4 \u05d1\u05dc\u05d9\u05d2\u05d4",
       "url": "https://open.spotify.com/track/35oe04zAI29qWh4PDALaA5"
@@ -1347,6 +1391,28 @@
     },
     {
       "album": {
+        "name": "\u05d2\u05dc\u05d2\u05d5\u05dc \u05e0\u05e9\u05de\u05d4",
+        "url": "https://open.spotify.com/album/1fmSFJPJZhqmACqLhyxWCg"
+      },
+      "artists": [
+        {
+          "name": "\u05d2\u05d9\u05d0 \u05d0\u05de\u05e8",
+          "url": "https://open.spotify.com/artist/0FMlZ5r0VSyb1xsdCZonDs"
+        },
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179587,
+      "name": "\u05d2\u05dc\u05d2\u05d5\u05dc \u05e0\u05e9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/6CC7qsyB7J9Jc0tqpiUhJs"
+    },
+    {
+      "album": {
         "name": "\u05d2\u05dc\u05d9\u05dd \u05d2\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3DI0vAaS7ZrhbvEC4JZkga"
       },
@@ -1470,6 +1536,28 @@
       "duration_ms": 236266,
       "name": "\u05d3\u05d9",
       "url": "https://open.spotify.com/track/1gBpxZfkiD8TSqAigvHkhW"
+    },
+    {
+      "album": {
+        "name": "\u05d3\u05e8\u05d9\u05e9\u05ea \u05e9\u05dc\u05d5\u05dd \u05de\u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd (\u05de\u05d9\u05dc\u05d9) [Drishat Shalom Me'Chaim Acherim (Mili)]",
+        "url": "https://open.spotify.com/album/0rh2sxfvoJdBZqqJJSvBJI"
+      },
+      "artists": [
+        {
+          "name": "Idan Raichel",
+          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
+        },
+        {
+          "name": "\u05e9\u05d9\u05e8\u05d4 \u05d1\u05df \u05e9\u05de\u05d7\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/3KzDBlFWWc5PMOLDnGnGnS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u05d3\u05e8\u05d9\u05e9\u05ea \u05e9\u05dc\u05d5\u05dd \u05de\u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd (\u05de\u05d9\u05dc\u05d9) [Drishat Shalom Me'Chaim Acherim (Mili)]",
+      "url": "https://open.spotify.com/track/2xtGFPXdUnH7Kqfw9sbIZQ"
     },
     {
       "album": {
@@ -1626,7 +1714,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 259453,
       "name": "\u05d4\u05db\u05dc \u05e2\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/6o2XPcnkxM9m9TPWozkQXn"
@@ -2441,6 +2529,40 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
+        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        },
+        {
+          "name": "\u05e8\u05d5\u05ea\u05dd \u05e1\u05dc\u05e2",
+          "url": "https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3"
+        },
+        {
+          "name": "\u05d3\u05e0\u05d9 \u05e7\u05d5\u05e9\u05de\u05e8\u05d5",
+          "url": "https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN"
+        },
+        {
+          "name": "\u05d0\u05d5\u05e8\u05d9 \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc",
+          "url": "https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0"
+        },
+        {
+          "name": "\u05d0\u05e1\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d5\u05e3",
+          "url": "https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
+      "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d4\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC"
       },
@@ -2549,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05de\u05d4 \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e8\u05d5\u05e6\u05d4",
+        "url": "https://open.spotify.com/album/2DyWU7cSDkPMIZsTJ2HQxq"
+      },
+      "artists": [
+        {
+          "name": "Cookie Levanna",
+          "url": "https://open.spotify.com/artist/39hTcjXHjg9XAGWO5ubNCD"
+        },
+        {
+          "name": "\u05d9\u05dc\u05d3.",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "\u05dc\u05de\u05d4 \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e8\u05d5\u05e6\u05d4",
+      "url": "https://open.spotify.com/track/3k6pkkpcd4nyS1a4AVKPUi"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05de\u05d5\u05ea \u05e2\u05dc\u05d9\u05d9",
         "url": "https://open.spotify.com/album/2OtWdaSXhz6TL2SrolkYMm"
       },
@@ -2608,6 +2752,24 @@
       "duration_ms": 191255,
       "name": "\u05dc\u05e4\u05e2\u05de\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0CoCNhbhXZyCljWgQtAZP6"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
+        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
     },
     {
       "album": {
@@ -2800,6 +2962,24 @@
       "duration_ms": 196000,
       "name": "\u05de\u05d9 \u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/7iUnzejFz9gHmuqU8Ymolj"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408830,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
+      "url": "https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix"
     },
     {
       "album": {
@@ -3130,7 +3310,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 175967,
       "name": "\u05e0\u05e9\u05d9\u05e7\u05d4",
       "url": "https://open.spotify.com/track/1qd8zHuyoZhZTHQm1flcmm"
@@ -3184,7 +3364,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 250066,
       "name": "\u05e0\u05e9\u05de\u05ea \u05db\u05dc \u05d7\u05d9",
       "url": "https://open.spotify.com/track/20tqKCoVZNJgs1Ihc5paF3"
@@ -3206,6 +3386,24 @@
       "duration_ms": 289813,
       "name": "\u05e1\u05d5\u05d5\u05d8\u05e9\u05d9\u05e8\u05d8\u05d9\u05dd \u05d1\u05d0\u05d5\u05d2\u05d5\u05e1\u05d8",
       "url": "https://open.spotify.com/track/0oyOmp2KzT1TfEmfVdYMtZ"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d5\u05e3 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/1Oh4uuL9soqlm90trQiFq0"
+      },
+      "artists": [
+        {
+          "name": "Yoni Bloch",
+          "url": "https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "\u05e1\u05d5\u05e3 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/7vTdkSSvhpMXih7Db35is5"
     },
     {
       "album": {
@@ -3256,7 +3454,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 138980,
       "name": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05de\u05dc\u05de\u05e2\u05dc\u05d4",
       "url": "https://open.spotify.com/track/09pchIRVARhn5CncJ0ovH1"
@@ -3328,7 +3526,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 139427,
       "name": "\u05e2\u05d8\u05dc\u05e3",
       "url": "https://open.spotify.com/track/196lkHGqjAKd2gwAGGt9XG"
@@ -3702,7 +3900,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 118095,
       "name": "\u05e7\u05d5\u05de\u05e0\u05d3\u05d5",
       "url": "https://open.spotify.com/track/5HZ1LedZCchX1utwTggBGe"
@@ -3988,6 +4186,28 @@
       "duration_ms": 173333,
       "name": "\u05e9\u05e7\u05e8\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2KPcdrTVHHNMtD0H9w4pRZ"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05e8\u05e9\u05e8\u05ea",
+        "url": "https://open.spotify.com/album/0E8mbGH6rSqOodhec9JrY3"
+      },
+      "artists": [
+        {
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Eliad",
+          "url": "https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167205,
+      "name": "\u05e9\u05e8\u05e9\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/1htDAjSVuHM9jMW34c0NZB"
     },
     {
       "album": {

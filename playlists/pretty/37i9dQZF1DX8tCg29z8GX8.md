@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,463 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,468 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 55 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 |
 | 56 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 |
 | 57 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
-| 58 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
-| 59 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
+| 58 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
+| 59 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
 | 60 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
 | 61 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
 | 62 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 75 | [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 |
 | 76 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 77 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 |
-| 78 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
-| 79 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 |
-| 80 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 |
+| 78 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 |
+| 79 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
+| 80 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 |
 
 Snapshot ID: `Z1/zuAAAAABpmdNpiOmVlpFlhjQl5NCL`

@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 637852,
+  "num_followers": 638200,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Armada Collected: Aly & Fila",
+        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Jwaydan",
+          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
+        }
+      ],
+      "duration_ms": 226673,
+      "name": "We Control The Sunlight",
+      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Out Of The Blue (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Armada Collected: Aly & Fila",
-        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Jwaydan",
-          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
-        }
-      ],
-      "duration_ms": 226673,
-      "name": "We Control The Sunlight",
-      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
     },
     {
       "added_at": "2024-07-23 09:55:55",

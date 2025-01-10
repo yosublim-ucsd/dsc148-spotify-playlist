@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > "the realization that each random passerby is living a life as vivid and complex as your own."
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,848 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,965 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 23 | [blurred moon](https://open.spotify.com/track/1M9Ggvu2gYRB37UBJ4letX) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [blurred moon](https://open.spotify.com/album/2YQYY4ppF7KKozYBEE2Ees) | 1:22 |
 | 24 | [Idea 22](https://open.spotify.com/track/1FCsK0oKWCtDOYRPYSrYgO) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 22](https://open.spotify.com/album/7rr9rPuCY2EaPCnyrUXevZ) | 2:32 |
 | 25 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 |
-| 26 | [Karen 3](https://open.spotify.com/track/5IOWHUbaTuug1aRYQiPZLx) | [Småland](https://open.spotify.com/artist/3BO4JkxShK8cpvXoVLZUAs) | [Ljudspårsmusik Vol\. 1](https://open.spotify.com/album/7kaYzHl5Ly3r6BiRvUqAnK) | 2:08 |
+| 26 | [Karen 3](https://open.spotify.com/track/5IOWHUbaTuug1aRYQiPZLx) | [Småland](https://open.spotify.com/artist/3BO4JkxShK8cpvXoVLZUAs) | [Ljudspårsmusik, Vol\. 1](https://open.spotify.com/album/7kaYzHl5Ly3r6BiRvUqAnK) | 2:08 |
 | 27 | [In Cold Light](https://open.spotify.com/track/140jZx69WlaEovptyTYevr) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:52 |
 | 28 | [Infinite Love](https://open.spotify.com/track/6SIUbcqmVn4zTVDLeY5mMC) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Kajillionaire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38G8GhPunzg9S6xCa7Eupb) | 2:25 |
 | 29 | [Ballerina](https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 1 \- Streams](https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a) | 1:11 |

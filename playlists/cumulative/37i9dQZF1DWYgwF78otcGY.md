@@ -4,7 +4,7 @@
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-177 songs - 8 hr 56 min
+178 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 | 2019-02-28 |  |
 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 | 2019-02-28 | 2024-04-19 |
 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 | 2019-02-28 | 2024-06-17 |
-| [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 | 2019-02-28 |  |
+| [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 | 2019-02-28 | 2025-01-10 |
 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 | 2019-02-28 | 2024-04-19 |
 | [Eloise](https://open.spotify.com/track/1cmdyYqbzc8fvHsmtErxx0) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/51qel3QBboYlXlQlmM1KaY) | 3:09 | 2019-02-28 | 2022-07-29 |
 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 | 2019-02-28 |  |
@@ -78,6 +78,7 @@
 | [Hallå hela pressen](https://open.spotify.com/track/27PplQBwDNIfESCPuesKMV) | [Chattanooga](https://open.spotify.com/artist/3lrKNIrsY4AgDHoyhHniPY) | [Stoppa pressarna](https://open.spotify.com/album/42k7vfRfapsRTT26RnDsyT) | 2:48 | 2019-02-28 | 2022-07-28 |
 | [Hero](https://open.spotify.com/track/55XpXSN77QyoudQmlg8j8q) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Hero](https://open.spotify.com/album/5BetHKLCNWv0iC6OTOd125) | 2:55 | 2019-02-28 | 2022-07-29 |
 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 | 2019-02-28 |  |
+| [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 |  |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2024-01-18 |  |
 | [Hold On \- D&B Version](https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Hold On \(D&B Version\)](https://open.spotify.com/album/2qQfXNZu1v5I4fjCbX6UVq) | 3:18 | 2019-02-28 | 2023-02-01 |
 | [Hon Kommer Med Solsken](https://open.spotify.com/track/35XGYEpPPJ4hyRHNmfVfwL) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Maria](https://open.spotify.com/album/4XxuoKPR8pndmPRbhNy2GB) | 2:53 | 2019-02-28 | 2022-07-29 |

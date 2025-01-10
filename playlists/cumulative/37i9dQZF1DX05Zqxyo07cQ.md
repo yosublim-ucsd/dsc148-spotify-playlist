@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-629 songs - 1 day 6 hr 52 min
+630 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Fairy Lullaby](https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c) | [STRIATUMS](https://open.spotify.com/artist/0dR1oYqupK4QCBlp1xmLJy) | [Inner Dimension](https://open.spotify.com/album/5fsahxvJhOsvHr7i2mDF3P) | 2:24 | 2023-03-23 | 2024-02-09 |
 | [Familiar Hemisphere](https://open.spotify.com/track/79QDfGlwn1LjdNyHPJuucN) | [Adrien Magnusen](https://open.spotify.com/artist/4GjMz4ePaiqSI3rOWIiLir) | [Familiar Hemisphere](https://open.spotify.com/album/0LhQd7xIBY0Dbg62mbvVe2) | 2:09 | 2025-01-08 |  |
 | [Far Away](https://open.spotify.com/track/1JulU97PHmutg1nTEZrRgR) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Rising](https://open.spotify.com/album/6L2Zy4AGt4Js9crCKuPwnQ) | 2:56 | 2023-03-23 | 2024-07-10 |
-| [Feel](https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Feel](https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS) | 2:51 | 2024-05-04 |  |
+| [Feel](https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Feel](https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS) | 2:51 | 2024-05-04 | 2025-01-10 |
 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 | 2023-03-23 | 2024-01-18 |
 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 | 2023-03-23 | 2024-01-18 |
 | [Floating Above and Beyond](https://open.spotify.com/track/028js7t7KIEFlXvW4lmdhG) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Floating Above and Beyond](https://open.spotify.com/album/3dQYr3qyPPQCxM8dvCYDx6) | 3:36 | 2023-03-23 | 2024-05-05 |
@@ -623,6 +623,7 @@
 | [Vrangø](https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Vrangø](https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs) | 2:58 | 2024-03-06 |  |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2023-03-23 | 2024-01-18 |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2023-03-23 | 2024-02-09 |
+| [Waves of Eternity](https://open.spotify.com/track/4rin1uFnoE4y6NhM2YQylb) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Waves of Eternity](https://open.spotify.com/album/2msrHKpBqJ4BGr1Vs4yEH9) | 2:40 | 2025-01-08 |  |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-03-23 | 2023-10-05 |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-03-23 | 2023-05-06 |

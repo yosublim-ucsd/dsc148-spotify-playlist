@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Machine Head",
-  "num_followers": 1294218,
+  "num_followers": 1294552,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 258586,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+      },
+      "artists": [
+        {
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 247599,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 247599,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2155,6 +2155,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Marching in Time",
+        "url": "https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "duration_ms": 250598,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "M\u00e6re",
+        "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
+      },
+      "artists": [
+        {
+          "name": "Harakiri for the Sky",
+          "url": "https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq"
+        }
+      ],
+      "duration_ms": 324170,
+      "name": "Song to Say Goodbye",
+      "url": "https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Shrine (Deluxe Version)",
         "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
       },
@@ -2187,34 +2219,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Marching in Time",
-        "url": "https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe"
+        "name": "Devoured by the Mouth of Hell",
+        "url": "https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l"
       },
       "artists": [
         {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
         }
       ],
-      "duration_ms": 250598,
-      "name": "If Not for You",
-      "url": "https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "M\u00e6re",
-        "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
-      },
-      "artists": [
-        {
-          "name": "Harakiri for the Sky",
-          "url": "https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq"
-        }
-      ],
-      "duration_ms": 324170,
-      "name": "Song to Say Goodbye",
-      "url": "https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx"
+      "duration_ms": 201466,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2251,18 +2267,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Devoured by the Mouth of Hell",
-        "url": "https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l"
+        "name": "Endtime Signals",
+        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
       },
       "artists": [
         {
-          "name": "Heriot",
-          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 201466,
-      "name": "Opaline",
-      "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
+      "duration_ms": 208640,
+      "name": "Wayward Eyes",
+      "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2279,22 +2295,6 @@
       "duration_ms": 359746,
       "name": "WIERSZALIN III",
       "url": "https://open.spotify.com/track/6TsQ3SN7pVyIzZQklB7V46"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Endtime Signals",
-        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Wayward Eyes",
-      "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "\u00a71 (Radio Edit)",
-        "url": "https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "\u00a71 - Radio Edit",
-      "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Armada",
         "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 243000,
       "name": "Armada",
       "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "\u00a71 (Radio Edit)",
+        "url": "https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "\u00a71 - Radio Edit",
+      "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heavy Metal Viking",
-        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Metal",
-          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
-        }
-      ],
-      "duration_ms": 231356,
-      "name": "Heavy Metal Viking",
-      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Bring Out Your Dead",
         "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 242172,
       "name": "Crossing Over",
       "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Heavy Metal Viking",
+        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "duration_ms": 231356,
+      "name": "Heavy Metal Viking",
+      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Nanna's Fate",
-        "url": "https://open.spotify.com/album/4vn0doSOq7GLSeOgiEzsST"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Metal",
-          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
-        }
-      ],
-      "duration_ms": 286082,
-      "name": "Nanna's Fate",
-      "url": "https://open.spotify.com/track/36XLmStMavCHsJzfzyWYRt"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 233624,
       "name": "Mammoth's Hand",
       "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Nanna's Fate",
+        "url": "https://open.spotify.com/album/4vn0doSOq7GLSeOgiEzsST"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "duration_ms": 286082,
+      "name": "Nanna's Fate",
+      "url": "https://open.spotify.com/track/36XLmStMavCHsJzfzyWYRt"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2835,22 +2835,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Presence of Mind",
-        "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Presence of Mind",
-      "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Dreadbringer",
         "url": "https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v"
       },
@@ -2871,34 +2855,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Out Of The Shadows 2.0",
-        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+        "name": "Presence of Mind",
+        "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 219195,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+      "duration_ms": 255986,
+      "name": "Presence of Mind",
+      "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2919,6 +2887,38 @@
       "duration_ms": 205440,
       "name": "NOTHING TO SOME [Feat. Corey Taylor]",
       "url": "https://open.spotify.com/track/4CQH8JIwp62Qy5EMnfNK1c"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Out Of The Shadows 2.0",
+        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 219195,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Stargate",
-        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 500080,
-      "name": "The Stargate [Tablet I]",
-      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Guess Who's Back",
         "url": "https://open.spotify.com/album/4bfZCNIZkasFV5Aa1LurE0"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 274240,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/1kHUi1NRlaHVo4NpfAjHJA"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Stargate",
+        "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 500080,
+      "name": "The Stargate [Tablet I]",
+      "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/3Mn9er1figGVbRb4FwMCyw"
-      },
-      "artists": [
-        {
-          "name": "Masterplan",
-          "url": "https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx"
-        }
-      ],
-      "duration_ms": 224015,
-      "name": "Rise Again",
-      "url": "https://open.spotify.com/track/6kgOc5TPo8T6Ten4MByNDp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Neon Inferno",
         "url": "https://open.spotify.com/album/75k7eiWA8rEGhmViParevn"
       },
@@ -3299,18 +3283,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Burning Heart",
-        "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/3Mn9er1figGVbRb4FwMCyw"
       },
       "artists": [
         {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+          "name": "Masterplan",
+          "url": "https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx"
         }
       ],
-      "duration_ms": 355778,
-      "name": "Burning Heart",
-      "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
+      "duration_ms": 224015,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/6kgOc5TPo8T6Ten4MByNDp"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3347,6 +3331,22 @@
       "duration_ms": 252333,
       "name": "Greedy Bastards",
       "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Burning Heart",
+        "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 355778,
+      "name": "Burning Heart",
+      "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
     }
   ],
   "unique_name": "Heavy Metal",

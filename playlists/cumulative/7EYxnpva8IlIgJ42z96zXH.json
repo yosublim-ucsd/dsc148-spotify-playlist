@@ -8957,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "album": {
         "name": "It Was You",
         "url": "https://open.spotify.com/album/1Rj8NnCRP0ZbWh1JLJV498"
       },
@@ -9318,6 +9336,28 @@
       "duration_ms": 140852,
       "name": "Ki-Ki",
       "url": "https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD"
+    },
+    {
+      "album": {
+        "name": "Kick The Nation",
+        "url": "https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Kick The Nation",
+      "url": "https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K"
     },
     {
       "album": {
@@ -10278,7 +10318,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 230012,
       "name": "Look My Way",
       "url": "https://open.spotify.com/track/0lM0EOabMO2HIx9x9WOnkg"
@@ -15128,7 +15168,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164296,
       "name": "Save Me Now",
       "url": "https://open.spotify.com/track/17cQgt5GjDN2lqCrArNbYM"

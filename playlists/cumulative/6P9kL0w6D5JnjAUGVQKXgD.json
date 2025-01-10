@@ -16456,7 +16456,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -26740,6 +26740,28 @@
       "duration_ms": 144000,
       "name": "Silver Screen (Shower Scene)",
       "url": "https://open.spotify.com/track/4XEB5jCq8c8Sfq0sVUvAiO"
+    },
+    {
+      "album": {
+        "name": "Since You Were Here",
+        "url": "https://open.spotify.com/album/2vuVQbM4FKX0WFkSaqgrHX"
+      },
+      "artists": [
+        {
+          "name": "Hechmann",
+          "url": "https://open.spotify.com/artist/47EbO9KG9g9bIa3ZXn0pwk"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185035,
+      "name": "Since You Were Here",
+      "url": "https://open.spotify.com/track/3dwNe8FCkdvY9eDDxsiZyL"
     },
     {
       "album": {

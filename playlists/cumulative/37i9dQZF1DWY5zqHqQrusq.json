@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 198709,
       "name": "2025",
       "url": "https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 136192,
       "name": "Ambia",
       "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183711,
       "name": "Asali",
       "url": "https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 132490,
       "name": "Bright Outside",
       "url": "https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq"
@@ -762,6 +762,28 @@
       "duration_ms": 177370,
       "name": "Jane",
       "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
+    },
+    {
+      "album": {
+        "name": "Jua Tua",
+        "url": "https://open.spotify.com/album/78jUt3tL1Vnm5M7I9qQvpY"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Zawadi Mukami",
+          "url": "https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107294,
+      "name": "Jua Tua",
+      "url": "https://open.spotify.com/track/0h8qRIECcUeHdGIlTviijb"
     },
     {
       "album": {

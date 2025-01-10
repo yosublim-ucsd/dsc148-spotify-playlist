@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,576 songs - 3 day 10 hr 53 min
+1,577 songs - 3 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,7 +748,7 @@
 | [Keep On Movin'](https://open.spotify.com/track/5iHZOZvz4xaNJMT22D3U60) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Keep On Movin'](https://open.spotify.com/album/3BTTxAl6yqQY58I30Z2XA1) | 2:38 | 2021-07-24 | 2021-10-12 |
 | [KIDS](https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [KIDS](https://open.spotify.com/album/2o9v5fIWqt0P0aeKtBnzxE) | 3:04 | 2020-06-30 |  |
 | [Kids \(feat\. MKLA\)](https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Kids \(feat\. MKLA\)](https://open.spotify.com/album/3iYUmg1PpY33KH7QW0goe1) | 3:04 | 2021-03-01 | 2021-07-31 |
-| [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2020-11-14 |  |
+| [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2020-11-14 | 2025-01-10 |
 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 | 2021-07-26 | 2021-08-04 |
 | [Kill My Lonely](https://open.spotify.com/track/2q8RX9TJ5Il8qjM9kqvJfo) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Kill My Lonely](https://open.spotify.com/album/6vSlk7NGJkHUoU7O5YPZmk) | 2:57 | 2022-03-14 | 2022-05-25 |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-04-06 |  |
@@ -1215,6 +1215,7 @@
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-02-26 | 2023-03-06 |
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-02-09 | 2023-01-07 |
 | [Silver Screen \(Shower Scene\)](https://open.spotify.com/track/4XEB5jCq8c8Sfq0sVUvAiO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [Silver Screen \(Shower Scene\)](https://open.spotify.com/album/0EFe9GlKaRf2NgyNTxkni1) | 2:24 | 2022-03-12 | 2022-12-13 |
+| [Since You Were Here](https://open.spotify.com/track/3dwNe8FCkdvY9eDDxsiZyL) | [Hechmann](https://open.spotify.com/artist/47EbO9KG9g9bIa3ZXn0pwk), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Since You Were Here](https://open.spotify.com/album/2vuVQbM4FKX0WFkSaqgrHX) | 3:05 | 2025-01-10 |  |
 | [Sing For Me \(with Mary N'diaye\)](https://open.spotify.com/track/2U5fAT4kBBbrHAFp6UseoH) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mary N'diaye](https://open.spotify.com/artist/0AMCPHyPTxIV2J2HthnnX4) | [Sing For Me \(with Mary N'diaye\)](https://open.spotify.com/album/2XbqubiXTSQ5VkAdQxQJKo) | 3:08 | 2020-05-27 | 2023-06-10 |
 | [Sing It](https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Sing It](https://open.spotify.com/album/5W2EOrLc1lKKPZwu6Hmc20) | 3:04 | 2023-03-17 | 2023-06-04 |
 | [Sing Me to Sleep](https://open.spotify.com/track/6UcTHiP25meOD9ox8Rspgx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Sing Me to Sleep](https://open.spotify.com/album/6v6EzwVvKfFZfThip9675y) | 3:09 | 2021-09-15 | 2021-09-24 |

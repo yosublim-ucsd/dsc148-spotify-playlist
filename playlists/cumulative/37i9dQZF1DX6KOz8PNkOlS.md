@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-197 songs - 12 hr 0 min
+198 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 | 2023-09-25 |  |
 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 | 2024-10-18 |  |
 | [Awake](https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK) | 3:06 | 2021-10-15 | 2024-02-05 |
+| [B.P.E](https://open.spotify.com/track/0AvHKpI768IrIR6QC6Irue) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [anaiis & Grupo Cosmo](https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi) | 3:40 | 2025-01-09 |  |
 | [Baby Blu](https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 4:41 | 2021-10-15 | 2023-12-30 |
 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 | 2023-06-02 |  |
 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 | 2022-01-13 | 2024-12-25 |
@@ -160,7 +161,7 @@
 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 | 2023-11-23 |  |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-10-05 |  |
 | [Signs](https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 2:59 | 2021-10-15 | 2024-04-19 |
-| [Sinking](https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4) | [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Srigala](https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a) | [Sinking](https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ) | 3:12 | 2021-10-15 |  |
+| [Sinking](https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4) | [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Srigala](https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a) | [Sinking](https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ) | 3:12 | 2021-10-15 | 2025-01-10 |
 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 | 2023-02-21 |  |
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-22 |  |
 | [So Pacific](https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [So Pacific](https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh) | 3:33 | 2024-01-03 |  |

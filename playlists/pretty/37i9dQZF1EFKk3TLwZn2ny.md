@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 56 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 18 | [Him Too](https://open.spotify.com/track/1jC4rFGFCNK1CqODO7xe3i) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:09 |
 | 19 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
 | 20 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 |
-| 21 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
-| 22 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
+| 21 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
+| 22 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
 | 23 | [Selfish \- Dark Heart Remix](https://open.spotify.com/track/2Rr0HRl8VWsYoLsCEoNsxh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Selfish \(Dark Heart Remix\)](https://open.spotify.com/album/5ikB04cjs9WA5u3hZbRie6) | 4:06 |
 | 24 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 |
 | 25 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
@@ -54,14 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 44 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
 | 45 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
 | 46 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
-| 47 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
-| 48 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
-| 49 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
-| 50 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
-| 51 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 |
-| 52 | [Green Light](https://open.spotify.com/track/7fhdizjor9wMZ5J0rIbMWA) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:03 |
-| 53 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
-| 54 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
-| 55 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
+| 47 | [Makings of a Man](https://open.spotify.com/track/0OpJOkPJtkrx3sF7NpJFwn) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Fisticuffs](https://open.spotify.com/artist/4vm80uLtL6Q7IQ4FoGJKRD) | [CLARITY](https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS) | 1:51 |
+| 48 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
+| 49 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
+| 50 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
+| 51 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
+| 52 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 |
+| 53 | [Green Light](https://open.spotify.com/track/7fhdizjor9wMZ5J0rIbMWA) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:03 |
+| 54 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
+| 55 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
+| 56 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `AbmWSgAAAAAiuFsObacAs1VTFD7QhSBr`
+Snapshot ID: `Abmb/gAAAABz3xJRKgNWNsghGzMHOjPZ`

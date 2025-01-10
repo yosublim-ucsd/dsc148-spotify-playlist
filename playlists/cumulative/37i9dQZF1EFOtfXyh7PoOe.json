@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "After Love (feat. Delilah Montagu)",
+      "url": "https://open.spotify.com/track/4v9YQDXd0Jn85CFBQQb6Xk"
+    },
+    {
+      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -495,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4AtWVGzEHWvq7kXtUYuP2e"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -690,6 +730,24 @@
       "duration_ms": 178187,
       "name": "Dance in the Dark",
       "url": "https://open.spotify.com/track/3i5jKbMOcBqgnKlx5UyH9d"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/2wqxcctWptasX4VnP2sRvV"
     },
     {
       "album": {
@@ -1712,7 +1770,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK"
@@ -1752,6 +1810,24 @@
       "duration_ms": 149200,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/31xqlEutnJGeu9vwkE3P6v"
+    },
+    {
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "album": {
@@ -1930,6 +2006,42 @@
       "duration_ms": 155053,
       "name": "Porn Lied To Us",
       "url": "https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce"
+    },
+    {
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
+    },
+    {
+      "album": {
+        "name": "zero experience",
+        "url": "https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133860,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/5Uj2k2TrnpsLVX73s8Cqs4"
     },
     {
       "album": {
@@ -2202,6 +2314,24 @@
     {
       "album": {
         "name": "The Night",
+        "url": "https://open.spotify.com/album/6G0WSQeCvxZJzPBnByqux5"
+      },
+      "artists": [
+        {
+          "name": "Owen Norton",
+          "url": "https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/0N0NC1efHb304JX93dPltf"
+    },
+    {
+      "album": {
+        "name": "The Night",
         "url": "https://open.spotify.com/album/09Dh008JIjlMSaRJIHxMPB"
       },
       "artists": [
@@ -2394,6 +2524,36 @@
       "duration_ms": 153817,
       "name": "Won't Forget You",
       "url": "https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz"
+    },
+    {
+      "album": {
+        "name": "Won't Forget You (Donk Edit Featuring The Blackout Crew)",
+        "url": "https://open.spotify.com/album/4L55NyxwQbWNzerZaxhaZt"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "The Blackout Crew",
+          "url": "https://open.spotify.com/artist/2wM4w5wKzgAOBd0cDyBbsi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156329,
+      "name": "Won't Forget You (Donk Edit Featuring The Blackout Crew)",
+      "url": "https://open.spotify.com/track/0SDeRncYFKK7Q0taUn6KNk"
     },
     {
       "album": {

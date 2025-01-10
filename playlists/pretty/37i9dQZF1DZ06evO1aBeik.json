@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2744035,
+  "num_followers": 2744252,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAB4UH1OtZc5LF+9KAQYTLrR",
+  "snapshot_id": "Z33AAAAAAACKTLY0euTTbhCczkXansYB",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cooped Up / Return Of The Mack",
-        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
@@ -300,17 +300,13 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 127253,
-      "name": "Cooped Up / Return Of The Mack",
-      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
+      "duration_ms": 221440,
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
     },
     {
       "added_at": null,
@@ -367,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+        "name": "Cooped Up / Return Of The Mack",
+        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
       },
       "artists": [
         {
@@ -376,13 +372,17 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Psycho (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
+      "duration_ms": 127253,
+      "name": "Cooped Up / Return Of The Mack",
+      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
     },
     {
       "added_at": null,

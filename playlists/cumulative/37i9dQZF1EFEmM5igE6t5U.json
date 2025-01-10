@@ -4119,6 +4119,28 @@
     },
     {
       "album": {
+        "name": "650Luc",
+        "url": "https://open.spotify.com/album/2GWs9OtDFK6iduo8I8CpS3"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193228,
+      "name": "Want It All (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/0VCt3BmmQhU6DxY35Kqopo"
+    },
+    {
+      "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
       },

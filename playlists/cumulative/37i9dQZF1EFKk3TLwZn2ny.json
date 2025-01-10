@@ -513,6 +513,28 @@
     },
     {
       "album": {
+        "name": "CLARITY",
+        "url": "https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Fisticuffs",
+          "url": "https://open.spotify.com/artist/4vm80uLtL6Q7IQ4FoGJKRD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Makings of a Man",
+      "url": "https://open.spotify.com/track/0OpJOkPJtkrx3sF7NpJFwn"
+    },
+    {
+      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
       },

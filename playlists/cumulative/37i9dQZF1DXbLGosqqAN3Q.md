@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbLGosqqAN3Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbLGosqqAN3Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbLGosqqAN3Q)
 
-### [Genesis of Aquarion \-創聖のアクエリオン\-](https://open.spotify.com/playlist/37i9dQZF1DXbLGosqqAN3Q)
+### [Genesis of Aquarion](https://open.spotify.com/playlist/37i9dQZF1DXbLGosqqAN3Q)
 
-> Music From "Genesis of Aquarion"!「創聖のアクエリオン」公式プレイリスト！\(C\)2004 河森正治・サテライト/Project AQUARION
+> Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-43 songs - 2 hr 34 min
+45 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,12 @@
 | [CyberFolk Music](https://open.spotify.com/track/7g665Ymmh9flUEd6AvMIHC) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 5:38 | 2021-05-26 |  |
 | [First love Final love](https://open.spotify.com/track/7k3ijRhL6TdiNvnf3mmWAB) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 4:13 | 2021-05-26 |  |
 | [Genesis of Aquarion](https://open.spotify.com/track/181bsdntzBTdBYHruUkY96) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 3:10 | 2021-05-26 |  |
+| [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/track/4QEbKsh9obULVHFdokmrVa) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd), [Yoshiki Fukuyama](https://open.spotify.com/artist/2f0GgEXy1Yzapzsat45lHH) | [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/album/1M4oMeMg7jqJeYpLBv8WXD) | 4:35 | 2025-01-09 |  |
 | [Go Tight！](https://open.spotify.com/track/2UXpJFbON25WljtSE3HctS) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 4:40 | 2021-05-26 |  |
 | [Go Tight！](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　Go Tight！](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 | 2021-05-26 |  |
 | [Heavens Gate](https://open.spotify.com/track/2a3ZzrwpGKTJLG4hKFkV9A) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 3:14 | 2021-05-26 |  |
 | [high spirit](https://open.spotify.com/track/23DG3tHYEc6NBPQzVoEPvY) | [YOKO KANNO SEATBELTS](https://open.spotify.com/artist/0e1lnS4EKtBWYdiv1prf0u) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 3:06 | 2021-05-26 |  |
+| [Kokuhaku](https://open.spotify.com/track/6fRg8NJCM5x73BVXWA91Mh) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd) | [Kokuhaku](https://open.spotify.com/album/6FIRSr3PGANcWH5vB1tiCp) | 4:11 | 2025-01-09 |  |
 | [Michelle](https://open.spotify.com/track/6xRUanpuUIb68m3sGbGkQQ) | [Michelle](https://open.spotify.com/artist/6anoIgfYqRkLCox6LwAgEZ) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 4:25 | 2021-05-26 |  |
 | [sal](https://open.spotify.com/track/1qiH8Sb3fYZmh2YIR3gjv3) | [warsaw chorus](https://open.spotify.com/artist/0gWjGDFaWnukgwCRmNMWoC) | [「創聖のアクエリオン」オリジナル・サウンドトラック](https://open.spotify.com/album/1Z47a2PIPGGzOUtzEccCuV) | 2:03 | 2021-05-26 |  |
 | [Vector Return](https://open.spotify.com/track/6pKKDIqm4nNy9nBc3lRvTe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「創聖のアクエリオン」オリジナル・サウンドトラック 2](https://open.spotify.com/album/3d49t92IjYwhsbEkmf0JPW) | 4:27 | 2021-05-26 |  |

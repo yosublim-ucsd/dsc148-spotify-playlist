@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153277,
       "name": "Bloq no Ex",
       "url": "https://open.spotify.com/track/6CihQXZLRV08VQQSEA5LfB"
@@ -6046,6 +6046,40 @@
       "duration_ms": 192015,
       "name": "Inimigo Do Love",
       "url": "https://open.spotify.com/track/3SYVPlDCBwnl56yq5DtkYN"
+    },
+    {
+      "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139605,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
     },
     {
       "album": {

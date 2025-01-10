@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/0hCWr70mtHIJKOfyfYWQ8h"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Delete",
+          "url": "https://open.spotify.com/artist/5ba4f3qddeYRq7BQcAtFBS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244645,
+      "name": "Salvation - Delete Remix",
+      "url": "https://open.spotify.com/track/4g9BaAM9iBmlbeL74bQSFZ"
+    },
+    {
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,396 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,390 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 18 | [TOKYO BLACK HOLE](https://open.spotify.com/track/2OIo2bL2wQxzzW3MCIuxf4) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:33 |
 | 19 | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/album/2T8j6iR7DYVhSnZdy74RN3) | 3:46 |
 | 20 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
-| 21 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
-| 22 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
+| 21 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
+| 22 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
 | 23 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
-| 24 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
-| 25 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |
+| 24 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |
+| 25 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 | 26 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 |
-| 27 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
-| 28 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
+| 27 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
+| 28 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
 | 29 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
 | 30 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |
 | 31 | [Crazy Crazy](https://open.spotify.com/track/0KJfi6Wp1rO41CxlJNuXc2) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 43 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 |
 | 44 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 |
 | 45 | [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 |
-| 46 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 |
+| 46 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
 | 47 | [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 |
 | 48 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
-| 49 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
+| 49 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 |
 | 50 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 |
 
 Snapshot ID: `Z31BlAAAAAC4LbTLwQVFbebDkrr+g/C/`

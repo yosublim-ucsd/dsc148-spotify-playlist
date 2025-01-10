@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "all i ever wanted",
+        "url": "https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "all i ever wanted",
+      "url": "https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
       },
@@ -5998,6 +6016,24 @@
       "duration_ms": 213750,
       "name": "I'll Come Your Way",
       "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
+    },
+    {
+      "album": {
+        "name": "I'll Go Blue",
+        "url": "https://open.spotify.com/album/4VOdzk1r22HBXINbA1IIfQ"
+      },
+      "artists": [
+        {
+          "name": "FRENCHGRL",
+          "url": "https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160774,
+      "name": "I'll Go Blue",
+      "url": "https://open.spotify.com/track/0qmBUgIi4sz3E3CKk0Yarz"
     },
     {
       "album": {
@@ -13719,6 +13755,24 @@
     },
     {
       "album": {
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/7JeDyjvd3xQHx9m9Zd83sG"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185984,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/6wEzOR4qkz6sx3HDZecvtR"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/0Ab0PjaCYh6ioeQBLD3Nkk"
       },
@@ -13752,6 +13806,28 @@
       "duration_ms": 244285,
       "name": "V\u00e5rs\u00e5ng",
       "url": "https://open.spotify.com/track/2rQXc2wcbx7p0QeShvwFhq"
+    },
+    {
+      "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     },
     {
       "album": {
@@ -14408,6 +14484,32 @@
       "duration_ms": 170909,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/3THBemwaSfnFaXWgYc1t2s"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go (6am Mix)",
+        "url": "https://open.spotify.com/album/1cyObAy69PI2pKuwhauDcC"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Where Did You Go - 6am Mix",
+      "url": "https://open.spotify.com/track/19Oh3XgCWMvtIpad8vnlpE"
     },
     {
       "album": {

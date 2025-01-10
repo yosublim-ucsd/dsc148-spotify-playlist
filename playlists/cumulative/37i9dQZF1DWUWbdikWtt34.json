@@ -1921,6 +1921,28 @@
     },
     {
       "album": {
+        "name": "Lumpur Dan Berlian",
+        "url": "https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm"
+      },
+      "artists": [
+        {
+          "name": "Fida AP",
+          "url": "https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK"
+        },
+        {
+          "name": "James AP",
+          "url": "https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365759,
+      "name": "Lumpur Dan Berlian",
+      "url": "https://open.spotify.com/track/1FC12nTDCjIomyOpAbN7Yy"
+    },
+    {
+      "album": {
         "name": "Madu Merah (Cover)",
         "url": "https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo"
       },

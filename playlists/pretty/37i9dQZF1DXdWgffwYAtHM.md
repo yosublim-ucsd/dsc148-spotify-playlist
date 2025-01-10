@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0QukQs0ML5vk7MvOh05bth">Até aí, ok!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811 likes - 12 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,810 likes - 12 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

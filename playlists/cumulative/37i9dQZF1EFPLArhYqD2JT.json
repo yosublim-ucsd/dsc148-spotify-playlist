@@ -7768,10 +7768,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 229760,
       "name": "Whisper It",
       "url": "https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/2lWCxmTP5N1QOqHw6X4nBx"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4NOGVu1s68b0p2SGImYAIH"
     },
     {
       "album": {

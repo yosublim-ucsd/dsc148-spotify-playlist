@@ -2,9 +2,9 @@
 
 ### [Hits Banget](https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o)
 
-> Kumpulan lagu populer dari dalam negeri dan mancanegara\. Cover: POTRET
+> Kumpulan lagu populer dari dalam negeri dan mancanegara\. Cover: Hindia
 
-201 songs - 12 hr 27 min
+202 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [bloodline](https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:36 | 2024-01-26 | 2024-04-19 |
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-08 | 2024-12-12 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2024-02-23 | 2024-08-29 |
+| [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2025-01-09 |  |
 | [Cinta Pertama Dan Terakhir](https://open.spotify.com/track/4TomVy5zx50p9boc8FqYnT) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Gemini](https://open.spotify.com/album/5UUq5EZYAvCFD0ZMNankvF) | 4:35 | 2024-07-05 | 2024-08-29 |
 | [Cinta Terakhir](https://open.spotify.com/track/7gB98EWp4p9VKxOToaqrhM) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Selalu Ada](https://open.spotify.com/album/1WuTbzN9znyO2Bs0HpeaDq) | 3:57 | 2024-01-22 | 2024-06-06 |
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-25 | 2024-02-01 |
@@ -148,7 +149,7 @@
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-06-15 | 2023-07-07 |
 | [say i'm sorry](https://open.spotify.com/track/1fZOLWE0Oy4mZ6lOx65mXt) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:55 | 2023-03-22 | 2023-05-19 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2023-03-22 | 2025-01-06 |
-| [Seandainya](https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN) | 4:23 | 2024-10-07 |  |
+| [Seandainya](https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN) | 4:23 | 2024-10-07 | 2025-01-10 |
 | [Seandainya](https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/7uPbMJWPcITRuvfcllfQ5O) | 4:23 | 2024-08-30 |  |
 | [Sedih Tak Berujung](https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 3:48 | 2024-03-21 | 2024-05-03 |
 | [Sekuat Hatimu](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:43 | 2024-10-07 |  |

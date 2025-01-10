@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,999 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,053 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 34 | [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 |
 | 35 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 |
 | 36 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 |
-| 37 | [Demulcere](https://open.spotify.com/track/5X8xwH6pXJ9r6xzyFm7Vyc) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Demulcere](https://open.spotify.com/album/6He0HD7ZAhwrOFHWYUw7OE) | 3:24 |
-| 38 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
+| 37 | [Sandscape](https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Sandscape](https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga) | 2:48 |
+| 38 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
 | 39 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
-| 40 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
+| 40 | [Demulcere](https://open.spotify.com/track/5X8xwH6pXJ9r6xzyFm7Vyc) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Demulcere](https://open.spotify.com/album/6He0HD7ZAhwrOFHWYUw7OE) | 3:24 |
 | 41 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 |
 | 42 | [Free of Charge](https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Free of Charge](https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6) | 2:18 |
 | 43 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 |
-| 44 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
-| 45 | [Petal](https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Petal](https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI) | 2:39 |
+| 44 | [Petal](https://open.spotify.com/track/5unOU1NabCBv04wxyWwoCe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Petal](https://open.spotify.com/album/27h5GuP3utJANajWzjhuKI) | 2:39 |
+| 45 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
 | 46 | [Kadunud Taevasse](https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU) | [Kikolu](https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5) | [Kadunud Taevasse](https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA) | 3:00 |
 | 47 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 |
 | 48 | [Prevision](https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Prevision](https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ) | 2:26 |
@@ -83,16 +83,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 73 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 |
 | 74 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
 | 75 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
-| 76 | [Descanso](https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Descanso](https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u) | 2:54 |
-| 77 | [Whispers of the forest](https://open.spotify.com/track/1HQJzi7Ra2AaCxfPxPJaG8) | [Ms DuPlessis](https://open.spotify.com/artist/1scZrPuK5Gtsrrd8jepruk) | [Whispers of the forest](https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH) | 2:59 |
+| 76 | [Whispers of the forest](https://open.spotify.com/track/1HQJzi7Ra2AaCxfPxPJaG8) | [Ms DuPlessis](https://open.spotify.com/artist/1scZrPuK5Gtsrrd8jepruk) | [Whispers of the forest](https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH) | 2:59 |
+| 77 | [Descanso](https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Descanso](https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u) | 2:54 |
 | 78 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 |
 | 79 | [Ali](https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p) | [Caleufu](https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4) | [Caleufu](https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12) | 2:07 |
 | 80 | [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 |
-| 81 | [Armonía Serena](https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Armonía Serena](https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD) | 2:38 |
-| 82 | [Would I Bother](https://open.spotify.com/track/52k9R9dNiac9kik66wod1g) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Would I Bother](https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2) | 2:40 |
-| 83 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 |
-| 84 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
-| 85 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 |
+| 81 | [Would I Bother](https://open.spotify.com/track/52k9R9dNiac9kik66wod1g) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Would I Bother](https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2) | 2:40 |
+| 82 | [Armonía Serena](https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Armonía Serena](https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD) | 2:38 |
+| 83 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
+| 84 | [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 |
+| 85 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 |
 | 86 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 |
 | 87 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
 | 88 | [The Shed](https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Shed](https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4) | 2:30 |

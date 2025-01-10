@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover:  Nafeesisboujee
 
-245 songs - 12 hr 48 min
+246 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bungee Jumping](https://open.spotify.com/track/43nNz6JNOYX2M3YsGq8hnc) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Bungee Jumping](https://open.spotify.com/album/28AsumDieTMMaUEB4wRoqu) | 3:49 | 2021-11-10 | 2022-06-21 |
 | [Butterfly](https://open.spotify.com/track/6gghFJue7lX0QrKNGikNpa) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z) | [Butterfly](https://open.spotify.com/album/5fB4RDu0qMrdKvP3tnNYQf) | 3:27 | 2024-01-12 |  |
 | [Buy The Water](https://open.spotify.com/track/5949k1CknzZivTbpT2pinW) | [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY), [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu) | [Buy The Water](https://open.spotify.com/album/2ehNjrd9Ay7gJLjAXsg77d) | 2:56 | 2021-11-10 | 2022-01-21 |
+| [Chai and Sunshine](https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Chai and Sunshine](https://open.spotify.com/album/5FaDco89rs2DQjsaY0ugLR) | 2:25 | 2025-01-09 |  |
 | [Chance on We](https://open.spotify.com/track/3dcpIrXjCCE7bfIFOE8jEY) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [Hansini](https://open.spotify.com/artist/15uvmvuAAPHIt3LfaccBTm) | [Chance on We](https://open.spotify.com/album/00ELulTJmsikMHAWdWnLCX) | 3:08 | 2022-05-26 | 2022-07-19 |
 | [Chasin M's](https://open.spotify.com/track/5labhgEWJVHdSFaV2lFHbq) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Dj Rob Mista DMV](https://open.spotify.com/artist/0iaMgxQqEcbMtu9bu9lkYR) | [Chasin M's](https://open.spotify.com/album/58Ofpkh7xXrtngf6cxgtuB) | 3:35 | 2022-10-06 |  |
 | [Cheena Cheena](https://open.spotify.com/track/28XqTDMK7TLrIDpXBmxRIm) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Sadia Ali](https://open.spotify.com/artist/4D3gsyp6PkhaWkXrZvVBdN) | [Cheena Cheena](https://open.spotify.com/album/0xOOIsSNltxuUGYkMbL0tR) | 3:38 | 2022-07-18 | 2022-10-07 |

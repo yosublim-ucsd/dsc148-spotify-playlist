@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe en portada.",
-  "num_followers": 175146,
+  "num_followers": 175176,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "La Brabus",
+        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 209018,
+      "name": "La Brabus",
+      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "La Brabus",
-        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 209018,
-      "name": "La Brabus",
-      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "TUPAC",
-        "url": "https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 114139,
-      "name": "TUPAC",
-      "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "TUPAC",
+        "url": "https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 114139,
+      "name": "TUPAC",
+      "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
     },
     {
       "added_at": "2024-12-06 06:00:00",

@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 154000,
       "name": "Binaural Delta Waves 90-91 Hz",
       "url": "https://open.spotify.com/track/3ue9kzU2jjGDnIFOtzoTLh"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 173684,
       "name": "Deep Sleep Delta Binaural 82.8Hz - 84.3Hz",
       "url": "https://open.spotify.com/track/13XtUIisqIt3ZRtF92yK1W"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Oceans of Delta 4 Hz",
+        "url": "https://open.spotify.com/album/6uqc1SZZjgDrbZ5ZarevUV"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154198,
+      "name": "Oceans of Delta 4 Hz",
+      "url": "https://open.spotify.com/track/1ZSCa6fvav5lBI5PZzedlP"
+    },
+    {
+      "album": {
         "name": "One Day 80Khz-85Khz",
         "url": "https://open.spotify.com/album/72YXtCCAAPmaf8rDh5pHjv"
       },
@@ -2307,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Shimmering (Delta Sleep Edit)",
+        "url": "https://open.spotify.com/album/29V7wNPnpBB9faF7Mdirdp"
+      },
+      "artists": [
+        {
+          "name": "Manolakas",
+          "url": "https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173804,
+      "name": "Shimmering - Delta Sleep Edit",
+      "url": "https://open.spotify.com/track/1aIgwb9yv0KEns1vccIVwo"
+    },
+    {
+      "album": {
         "name": "sinewave party",
         "url": "https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3"
       },
@@ -2394,6 +2430,24 @@
       "duration_ms": 182400,
       "name": "Slow Delta Soothe 96Hz - 98Hz",
       "url": "https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn"
+    },
+    {
+      "album": {
+        "name": "Smooth Sailing Delta 86 Hz - 88 Hz",
+        "url": "https://open.spotify.com/album/5QjgkhOnm3wzE5TvKvKRYD"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172301,
+      "name": "Smooth Sailing Delta 86 Hz - 88 Hz",
+      "url": "https://open.spotify.com/track/5CJijPm0eKKvT6ybT964Mg"
     },
     {
       "album": {

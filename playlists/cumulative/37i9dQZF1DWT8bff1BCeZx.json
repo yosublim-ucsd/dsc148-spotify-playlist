@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Doing Of The Lord",
+        "url": "https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Doing Of The Lord",
+      "url": "https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY"
+    },
+    {
+      "album": {
         "name": "E Dey Flow",
         "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
       },
@@ -1228,6 +1250,28 @@
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
+    },
+    {
+      "album": {
+        "name": "Gba Jesu",
+        "url": "https://open.spotify.com/album/53AWo7Q3b3LRmk8Eob6Dgp"
+      },
+      "artists": [
+        {
+          "name": "Princewill Agbazue",
+          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132471,
+      "name": "Gba Jesu",
+      "url": "https://open.spotify.com/track/7MDMV5Pnu6SVWzVJa2UxuX"
     },
     {
       "album": {
@@ -2034,7 +2078,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 252048,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy"
@@ -2658,7 +2702,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195446,
       "name": "Omo Baba",
       "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"

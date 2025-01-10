@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-420 songs - 21 hr 22 min
+421 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [Where Is My Little Old New York?](https://open.spotify.com/track/0Aep5qUHdkg0CSgU8jpQAK) | [Yvonne Roome](https://open.spotify.com/artist/2pGlSKSMxcjy2uTUW7IaFc) | [Something Cool](https://open.spotify.com/album/6GnnK22e2UyJkEJ0MaTyg4) | 3:29 | 2024-07-26 |  |
 | [Where Is the Song of Songs for Me](https://open.spotify.com/track/6vt4SPesfCCQywLGbelFWK) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Lupé Velez](https://open.spotify.com/artist/1xwrF7P4vEez0D7IPyNCrZ), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [Vintage Hollywood Classics, Vol\. 13: The Glamour & Glitter Days \(Recorded 1929–1946\)](https://open.spotify.com/album/7wpfNBLv3c3o9M0Z3yUwVJ) | 2:39 | 2024-07-26 |  |
 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 | 2024-07-26 |  |
-| [Whisper It](https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ) | [Glory Crampton](https://open.spotify.com/artist/3YcgIXrZUpOir8AMlniUFg), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:49 | 2024-07-26 | 2024-12-28 |
+| [Whisper It](https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ) | [Glory Crampton](https://open.spotify.com/artist/3YcgIXrZUpOir8AMlniUFg), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:49 | 2024-07-26 |  |
+| [White Christmas](https://open.spotify.com/track/4NOGVu1s68b0p2SGImYAIH) | [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC) | [Merry Christmas](https://open.spotify.com/album/2lWCxmTP5N1QOqHw6X4nBx) | 3:11 | 2025-01-09 |  |
 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2024-09-22 | 2024-11-18 |
 | [White Christmas](https://open.spotify.com/track/1MpKGgRIxf1zJ7Y36jaUlw) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby](https://open.spotify.com/album/4M7PvgdNMk93puZlG5hrA8) | 3:03 | 2024-12-18 | 2024-12-20 |
 | [White Christmas](https://open.spotify.com/track/3hScEmuagcQ0TvoJa5oFyI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:06 | 2024-07-26 | 2024-09-23 |

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-376 songs - 22 hr 14 min
+378 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 | 2023-05-01 | 2023-08-26 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2022-08-08 | 2024-12-12 |
 | [Secrets](https://open.spotify.com/track/7Kw1g2prIMcE3aOWd0TBMp) | [王品怡](https://open.spotify.com/artist/47rcMBPKWgIt6pDglkNrFn), [Kevin Liao](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [為你唱情歌 \- Secrets](https://open.spotify.com/album/0QdXaHp7mskkExLDZwhRAW) | 2:17 | 2022-09-26 | 2022-12-06 |
+| [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 | 2025-01-09 |  |
 | [So Lucky feat\. 鼓鼓 呂思緯](https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:11 | 2022-08-08 | 2022-09-15 |
 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 | 2023-06-19 | 2024-01-11 |
 | [TA](https://open.spotify.com/track/3SEpoQd1OutcbIfiZQ05PK) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/15ZulOUygGKb0Y5LEYUd5T) | 3:55 | 2023-01-30 | 2024-04-19 |
@@ -95,6 +96,7 @@
 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 | 2022-06-06 | 2023-05-23 |
 | [不完美的我](https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [不完美的我](https://open.spotify.com/album/4Zvf8FWGGJdlu58nMkYIML) | 2:26 | 2024-01-15 | 2024-03-02 |
 | [不營業的日常](https://open.spotify.com/track/7D0L9OU2vaI45hUj4is66b) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [不營業的日常](https://open.spotify.com/album/46K9h6nOjRiNNNiwoC8wce) | 4:04 | 2022-06-06 | 2022-07-10 |
+| [不能沒有你](https://open.spotify.com/track/0jf5deCV5s4aE5V2oOg7hp) | [OPENsi](https://open.spotify.com/artist/55JbScEpVThYXkh1GH7vAW) | [不能沒有你](https://open.spotify.com/album/0te9oEPWuqe4NvaKGtIAs6) | 3:17 | 2025-01-09 |  |
 | [世界末日後的浪漫](https://open.spotify.com/track/4gl6kFLDAY24hJlKywPQ0l) | [Four Pens](https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY) | [世界末日後的浪漫](https://open.spotify.com/album/3GrNmGLzo2sgSoyhcvaQwT) | 3:10 | 2022-08-15 | 2022-09-06 |
 | [久等了，亲爱的](https://open.spotify.com/track/6KlxdtC8h0i5DbvM7GqBpH) | [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [久等了，亲爱的](https://open.spotify.com/album/3HKLf05VUYXUTsShq0yLXV) | 3:37 | 2024-10-17 |  |
 | [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 | 2022-06-06 |  |
@@ -303,7 +305,7 @@
 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 | 2022-06-27 |  |
 | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/track/3Uz0ZMWL9iWY6HTrJZwkoJ) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/album/2yHyMPwLu8OuQW68iJ80I0) | 2:48 | 2022-07-18 | 2022-07-29 |
 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 | 2024-04-15 |  |
-| [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/track/58OKa3g5rRVpFer06Z1Ahw) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/album/5VWDiAI2suDaU34y5xnJsu) | 4:09 | 2024-03-04 |  |
+| [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/track/58OKa3g5rRVpFer06Z1Ahw) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [猜（电影《热辣滚烫》热辣心动曲）](https://open.spotify.com/album/5VWDiAI2suDaU34y5xnJsu) | 4:09 | 2024-03-04 | 2025-01-10 |
 | [环岛飞行](https://open.spotify.com/track/5ZuCZbdb0aK2RaHfY5ZTlc) | [朱主爱](https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6) | [环岛飞行](https://open.spotify.com/album/2iHZAFuUcZKXju9s0PpdaK) | 2:21 | 2023-05-08 | 2023-05-16 |
 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 | 2022-07-25 |  |
 | [甜蜜小星球](https://open.spotify.com/track/0QEeCSK675dipNrE4bVaHJ) | [金莎](https://open.spotify.com/artist/0wK3rMwogVowmeXArZN29T) | [甜蜜小星球](https://open.spotify.com/album/0sjJ0N30YtSJqIexmWpW2z) | 3:05 | 2022-06-06 | 2022-07-20 |
@@ -313,7 +315,7 @@
 | [畫沙](https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [袁詠琳Cindy](https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP) | 4:33 | 2022-07-25 | 2024-01-08 |
 | [當你孤單你會想起誰](https://open.spotify.com/track/3e23FThGTaBt5rEnxIPMJu) | [Alina Cheng](https://open.spotify.com/artist/0afEdGty8N3VzTdFwtPydj), [劉書宏](https://open.spotify.com/artist/3RtuGWS4Axo9dC7vCPVNEo) | [當你孤單你會想起誰](https://open.spotify.com/album/0i67BnNKZXN5nObLW2rM5i) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [當你孤單你會想起誰](https://open.spotify.com/track/1qBwJa1vOvIUyD3dlLU03P) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [當你孤單你會想起誰](https://open.spotify.com/album/4WyfVslftjtq0Q7aarCGgl) | 3:11 | 2022-06-06 | 2022-07-28 |
-| [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 |  |
+| [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2025-01-10 |
 | [直到有天我们都变老](https://open.spotify.com/track/4Qr0teCIBWVknFZ6tGpBK0) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [直到有天我们都变老](https://open.spotify.com/album/4DQtG5hkx5r32CoyQaj4QU) | 3:37 | 2023-01-09 | 2023-01-17 |
 | [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 | 2024-09-13 |
 | [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 | 2024-10-11 |

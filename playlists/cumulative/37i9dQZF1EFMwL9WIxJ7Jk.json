@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/1hB3iV5P0TWzpdxreKH4sT"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Eyes Roll",
+      "url": "https://open.spotify.com/track/4xU71Cm2Qtfy9znMtXsS3r"
+    },
+    {
+      "album": {
         "name": "Replay (The Album) - Spotify Edition",
         "url": "https://open.spotify.com/album/3JZYrdSso4KOft8hnLg5Lc"
       },
@@ -1177,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177816,
+      "name": "Genetics (feat. Pussycat Dolls)",
+      "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
+    },
+    {
+      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/3Lj2MiaSUpmy5ahGGS6VAT"
       },
@@ -1286,6 +1326,28 @@
       "duration_ms": 155960,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn"
+    },
+    {
+      "album": {
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183022,
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5dp6w04qEvpgthExVg8kyG"
     },
     {
       "album": {

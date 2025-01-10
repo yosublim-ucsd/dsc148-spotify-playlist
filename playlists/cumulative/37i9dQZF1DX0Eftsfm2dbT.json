@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 192733,
       "name": "Answer",
       "url": "https://open.spotify.com/track/3KJ8iXIr2eUztbfNtk1Zg4"
@@ -2807,6 +2807,32 @@
     },
     {
       "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/6dBKtCRfEvdCzMm5x12qzF"
+      },
+      "artists": [
+        {
+          "name": "TIGHT a.k.a. REKKO",
+          "url": "https://open.spotify.com/artist/0vVNQoHRf2dVhdgJG6X32u"
+        },
+        {
+          "name": "\u30dd\u30c1\u30e7\u30e0\u30ad\u30f3",
+          "url": "https://open.spotify.com/artist/78LQTGvsYuY1rzBiWqJrpp"
+        },
+        {
+          "name": "Eito",
+          "url": "https://open.spotify.com/artist/32QmJ5obSke8YKDbQvVPUx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270734,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/0nb59pe2awtBKta064QUkb"
+    },
+    {
+      "album": {
         "name": "Y.L.F. EP",
         "url": "https://open.spotify.com/album/2cOXs0vcXtZaqkeSqVPBCZ"
       },
@@ -3492,7 +3518,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180693,
       "name": "Blood Line",
       "url": "https://open.spotify.com/track/3vKaxnlNG8VVHF7gbxHHZz"
@@ -5854,7 +5880,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
@@ -14685,6 +14711,32 @@
     },
     {
       "album": {
+        "name": "MOGURA Hadashi no mama de",
+        "url": "https://open.spotify.com/album/2DudQSNTVA4xU50XvH7ejr"
+      },
+      "artists": [
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/42ptkP1SS9arSLyX0ECcQF"
+        },
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "MOGURA Hadashi no mama de",
+      "url": "https://open.spotify.com/track/573CfyEhiPFe5Qmw2syuls"
+    },
+    {
+      "album": {
         "name": "MOMENT",
         "url": "https://open.spotify.com/album/30B59RcwXiGlk4CH6asZy2"
       },
@@ -14920,7 +14972,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 126335,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C"
@@ -21983,6 +22035,24 @@
     },
     {
       "album": {
+        "name": "South Side",
+        "url": "https://open.spotify.com/album/3Qfis0z5k27DsL8MLBxb9f"
+      },
+      "artists": [
+        {
+          "name": "YZERR",
+          "url": "https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173212,
+      "name": "South Side",
+      "url": "https://open.spotify.com/track/2mtcDNgCXpgIHfla9flfsB"
+    },
+    {
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR"
       },
@@ -25700,7 +25770,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 210149,
       "name": "Who?",
       "url": "https://open.spotify.com/track/75Oa0p1FJ31i6yZlufxB8n"

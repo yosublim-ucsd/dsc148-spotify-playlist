@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,127 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,135 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 20 | [trippin'](https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
 | 21 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
 | 22 | [Two Truths And A Lie](https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Two Truths And A Lie](https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb) | 2:13 |
-| 23 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
-| 24 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
+| 23 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
+| 24 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
 | 25 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 |
 | 26 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 |
-| 27 | [shy boy](https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:39 |
-| 28 | [u should feel special](https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:37 |
+| 27 | [u should feel special](https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:37 |
+| 28 | [shy boy](https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:39 |
 | 29 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 30 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
 | 31 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 34 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 |
 | 35 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:48 |
 | 36 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
-| 37 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
+| 37 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
 | 38 | [attention](https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:57 |
-| 39 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
-| 40 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
+| 39 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
+| 40 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
 | 41 | [fresh white tee](https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:47 |
 | 42 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
 | 43 | [Tied Down](https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Tied Down](https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 | 50 | [Options](https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Options](https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4) | 2:04 |
 
-Snapshot ID: `Z3xugAAAAABk1vhSCCNTakmy2T3QSbTi`
+Snapshot ID: `Z33AAAAAAAAop9osb+WyEKq0/eI3gF0c`

@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Joé Dwèt Filé
+> Les hits zouk du moment\. Photo : Slaï x Emma'a
 
 197 songs - 10 hr 33 min
 

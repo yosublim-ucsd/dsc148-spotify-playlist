@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Sabi",
+          "url": "https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "(Drop Dead) Beautiful (feat. Sabi)",
+      "url": "https://open.spotify.com/track/5Zvzva2gweeEU46XEeeFSa"
+    },
+    {
+      "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Laza Morgan",
+          "url": "https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232640,
+      "name": "21 (feat. Laza Morgan)",
+      "url": "https://open.spotify.com/track/6E0ULwUN3Aj8sfB2e8QPvR"
+    },
+    {
+      "album": {
         "name": "Trigga Reloaded",
         "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
       },
@@ -125,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Passion, Pain & Pleasure (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "Already Taken",
+      "url": "https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC"
+    },
+    {
+      "album": {
         "name": "Bigger Love",
         "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
       },
@@ -210,6 +272,28 @@
       "duration_ms": 238288,
       "name": "At Night (feat. Liz Elias and Akon)",
       "url": "https://open.spotify.com/track/2rkkvOdTrl3IY4ma1OqjeU"
+    },
+    {
+      "album": {
+        "name": "Back To The Crib",
+        "url": "https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264920,
+      "name": "Back To The Crib",
+      "url": "https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd"
     },
     {
       "album": {
@@ -347,6 +431,28 @@
     },
     {
       "album": {
+        "name": "In A Perfect World...",
+        "url": "https://open.spotify.com/album/5Ol7UcvxuzeE34MqGivc0o"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294346,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1hmOmridaq4f59CtrgiOdE"
+    },
+    {
+      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
@@ -380,6 +486,24 @@
       "duration_ms": 212400,
       "name": "Coulda Been Me",
       "url": "https://open.spotify.com/track/2aQBZVVkmbmPu7TepMFVOo"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/0tmaWVKVoYNa9m4ctwSsmb"
     },
     {
       "album": {
@@ -513,6 +637,46 @@
     },
     {
       "album": {
+        "name": "Drop It Low",
+        "url": "https://open.spotify.com/album/3cWwVCtRlg4oovREWxjAYf"
+      },
+      "artists": [
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Drop It Low",
+      "url": "https://open.spotify.com/track/77FVM2m7DYptj1geNF8PMm"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212186,
+      "name": "Drunk On Love",
+      "url": "https://open.spotify.com/track/5ZrkuMtSWlsg8pLN06bVFg"
+    },
+    {
+      "album": {
         "name": "Central Park Season Three - The Central Track Sound Park (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2tRJZTVZnUfgFvwziDYgfb"
       },
@@ -580,6 +744,24 @@
       "duration_ms": 256506,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/7dBwdlk3s6BSEtm2GuijHO"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
     },
     {
       "album": {
@@ -681,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Get In My Car (feat. Bun B)",
+      "url": "https://open.spotify.com/track/4ImEeJ5Fsdg4ULiBCOKEPG"
+    },
+    {
+      "album": {
         "name": "Get My Dough",
         "url": "https://open.spotify.com/album/18ICs54AuTOWxRcLJDRLxh"
       },
@@ -775,6 +979,24 @@
     },
     {
       "album": {
+        "name": "I Remember Me",
+        "url": "https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/6IspWUM69PbwPIZ0DDPtSL"
+    },
+    {
+      "album": {
         "name": "Gooder Than A Mother [From \u201cStar (Season 1)\" Soundtrack]",
         "url": "https://open.spotify.com/album/2ufivU0ojZVt7CLq0o0k5R"
       },
@@ -798,6 +1020,24 @@
       "duration_ms": 116013,
       "name": "Gooder Than A Mother - From \u201cStar (Season 1)\" Soundtrack",
       "url": "https://open.spotify.com/track/10JigDWurMYwXpbtGOrZzd"
+    },
+    {
+      "album": {
+        "name": "Graffiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "Gotta Be Ur Man",
+      "url": "https://open.spotify.com/track/4Yt9SWPPXcxJbIq9GTtIFF"
     },
     {
       "album": {
@@ -921,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/74q6SppUb5vWXAltV7B6bA"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1xbedvhPI40imakpR920NE"
+    },
+    {
+      "album": {
         "name": "Hero (From \"Songland\")",
         "url": "https://open.spotify.com/album/64dn4OFxLhJY0KYtHBZy04"
       },
@@ -987,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Hot Tottie (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/1Vot6YSxInL52SGTN0XN9n"
+    },
+    {
+      "album": {
         "name": "BABY GIRL",
         "url": "https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf"
       },
@@ -1023,6 +1303,64 @@
     },
     {
       "album": {
+        "name": "Stronger withEach Tear",
+        "url": "https://open.spotify.com/album/2iy4MXWRu0roV5N7u2GBZk"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/0a4HnQAiD08Yg8z30yfPhI"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144160,
+      "name": "I Hate Boys",
+      "url": "https://open.spotify.com/track/2MzmobpruYSw7n93RdEWGU"
+    },
+    {
+      "album": {
+        "name": "Battle Of The Sexes (Deluxe)",
+        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "I Know You Got A Man",
+      "url": "https://open.spotify.com/track/1lI4FCVQfNuR0VVEfDyQgR"
+    },
+    {
+      "album": {
         "name": "The Pinkprint (Deluxe)",
         "url": "https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu"
       },
@@ -1056,6 +1394,24 @@
       "duration_ms": 304146,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/6pdIwUDwQzoz9ENNsPKqDM"
+    },
+    {
+      "album": {
+        "name": "Graffiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/6KRSYQhzAVRTY0U87xIKqn"
     },
     {
       "album": {
@@ -1110,6 +1466,24 @@
       "duration_ms": 227000,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/6GciucEjChWvkyxUGlN09o"
+    },
+    {
+      "album": {
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6bC54Ww0MIXovvpLWlXrWa"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "I'm Dat Chick",
+      "url": "https://open.spotify.com/track/7aE7msshKq32k65mRR1PyN"
     },
     {
       "album": {
@@ -1273,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "King Of Hearts (Deluxe)",
+        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240106,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
+    },
+    {
+      "album": {
         "name": "Here I Am",
         "url": "https://open.spotify.com/album/7tZP2PF0RgWx5sOIaEckty"
       },
@@ -1325,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Let's Get It In",
+        "url": "https://open.spotify.com/album/3XNtSb094rFcoYuS0b5Tqc"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Let's Get It In",
+      "url": "https://open.spotify.com/track/3FBHLtgXcjbBua0LB35KR2"
+    },
+    {
+      "album": {
         "name": "Letter To My Son",
         "url": "https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT"
       },
@@ -1344,6 +1758,28 @@
       "duration_ms": 240480,
       "name": "Letter To My Son",
       "url": "https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi"
+    },
+    {
+      "album": {
+        "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf"
     },
     {
       "album": {
@@ -1373,6 +1809,28 @@
     },
     {
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "Lil Freak (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2sdarYql1R0GAdFsdb4LDM"
+    },
+    {
+      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -1388,6 +1846,32 @@
       "duration_ms": 195081,
       "name": "Long & Lost",
       "url": "https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K"
+    },
+    {
+      "album": {
+        "name": "5.0 Deluxe",
+        "url": "https://open.spotify.com/album/17T8wyeiIcfNg7wYfSSqZq"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/6s7ph2jBAK0TcHPdjXOZsn"
     },
     {
       "album": {
@@ -1424,6 +1908,24 @@
       "duration_ms": 161967,
       "name": "Lookin' Up (From \"Songland\")",
       "url": "https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177"
+    },
+    {
+      "album": {
+        "name": "No Boys Allowed (All International Partners Deluxe Version)",
+        "url": "https://open.spotify.com/album/7r8oxL7DEEvRGnuKxEKsGe"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289480,
+      "name": "Lose Control / Let Me Down",
+      "url": "https://open.spotify.com/track/4ymZUCAf5qTenKxeOfRSB5"
     },
     {
       "album": {
@@ -1529,6 +2031,28 @@
     },
     {
       "album": {
+        "name": "Disc-Overy",
+        "url": "https://open.spotify.com/album/5vfUKFja5yx8a3TlrxjsjW"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247693,
+      "name": "Love Suicide (feat. Ester Dean)",
+      "url": "https://open.spotify.com/track/6WVXYeXd1O0bCEKxaEh6Si"
+    },
+    {
+      "album": {
         "name": "Lovin' So Hard",
         "url": "https://open.spotify.com/album/3TeV2AlhkVndwTUafUjmfQ"
       },
@@ -1580,6 +2104,42 @@
       "duration_ms": 148092,
       "name": "Lying (Next To You) (From \"Songland\")",
       "url": "https://open.spotify.com/track/1Af0BvG8ATUwOuONIvXgFs"
+    },
+    {
+      "album": {
+        "name": "In A Perfect World...",
+        "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322093,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/3jeGhWZm6sUuRO0wvSMMJ5"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/2Ex3XGL3nP6ROFua8NsrOH"
     },
     {
       "album": {
@@ -1637,6 +2197,28 @@
     },
     {
       "album": {
+        "name": "Fantasy Ride",
+        "url": "https://open.spotify.com/album/6TpQvLoBuLgVM2XDSJ1VF9"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272613,
+      "name": "Never Ever (feat. Jeezy)",
+      "url": "https://open.spotify.com/track/4pFST1TizXzxezYLFFTcYn"
+    },
+    {
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
       },
@@ -1664,6 +2246,68 @@
       "duration_ms": 237720,
       "name": "No Money No Love (feat. Elliphant & Ms. Dynamite)",
       "url": "https://open.spotify.com/track/5I1QXv0dEydyRIPOo2MO9l"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Not Myself Tonight",
+      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
+    },
+    {
+      "album": {
+        "name": "Outta Here (International Version)",
+        "url": "https://open.spotify.com/album/2qhJWYrgBn0oqSIlutu5xh"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e Denters",
+          "url": "https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/4qiTM5v9HzIUj0KZMod8GG"
+    },
+    {
+      "album": {
+        "name": "Patron Tequila",
+        "url": "https://open.spotify.com/album/7zJLscLT19x9844pKq3XLZ"
+      },
+      "artists": [
+        {
+          "name": "Paradiso Girls",
+          "url": "https://open.spotify.com/artist/0Ll05d44isngmRZHZEjfIY"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256253,
+      "name": "Patron Tequila",
+      "url": "https://open.spotify.com/track/3im8vluqbDsafyWEwBJdme"
     },
     {
       "album": {
@@ -1779,6 +2423,32 @@
     },
     {
       "album": {
+        "name": "Pitch Perfect Soundtrack",
+        "url": "https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        },
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "The Bu Harmonics",
+          "url": "https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
+      "url": "https://open.spotify.com/track/6Gds0xbRf66IPJ3Qo0pmPL"
+    },
+    {
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -1837,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+    },
+    {
+      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -1852,6 +2540,24 @@
       "duration_ms": 187000,
       "name": "Second Guessing - From Songland",
       "url": "https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj"
+    },
+    {
+      "album": {
+        "name": "Sex Therapy: The Session",
+        "url": "https://open.spotify.com/album/4Gm2OtBvivEPpoDIZSvA8o"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275146,
+      "name": "Sex Therapy",
+      "url": "https://open.spotify.com/track/6MmxDAqXSxFS9dLQs1l7DT"
     },
     {
       "album": {
@@ -1877,6 +2583,28 @@
     },
     {
       "album": {
+        "name": "Sex Therapy: The Experience",
+        "url": "https://open.spotify.com/album/0NrP6lZ1RSuqE7xpmeKlNa"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231720,
+      "name": "Shakin' It 4 Daddy",
+      "url": "https://open.spotify.com/track/7pDspyYIg0enIIvDWelaw8"
+    },
+    {
+      "album": {
         "name": "Tremaine the Album",
         "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
       },
@@ -1892,6 +2620,24 @@
       "duration_ms": 189080,
       "name": "She Lovin It",
       "url": "https://open.spotify.com/track/1jQjQZXwyPfwimdPRMm7MB"
+    },
+    {
+      "album": {
+        "name": "Graffiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6XLqWHfm6t1WsB1S3sGslQ"
     },
     {
       "album": {
@@ -2019,6 +2765,42 @@
     },
     {
       "album": {
+        "name": "King Of Hearts (Deluxe)",
+        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263213,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7cDZPGTKFqnnvdpZ6jxf3i"
+    },
+    {
+      "album": {
+        "name": "Stronger withEach Tear",
+        "url": "https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw"
+    },
+    {
+      "album": {
         "name": "Stick Around",
         "url": "https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG"
       },
@@ -2038,6 +2820,46 @@
       "duration_ms": 210285,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251240,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi"
+    },
+    {
+      "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "album": {
@@ -2147,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "The Beautiful People - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0uSHKgNOrllkfSki78JMBK"
+    },
+    {
+      "album": {
         "name": "The Pinkprint (Deluxe)",
         "url": "https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu"
       },
@@ -2180,6 +3020,28 @@
       "duration_ms": 227560,
       "name": "The Night Is Still Young",
       "url": "https://open.spotify.com/track/75u9uswC5UMdtv4SQ3xSYf"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GXpfuIGY411TO168GbVyf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "The One - Main",
+      "url": "https://open.spotify.com/track/3h3GCDFiFOdLu3aKGF48tU"
     },
     {
       "album": {
@@ -2256,6 +3118,28 @@
       "duration_ms": 188653,
       "name": "This Time",
       "url": "https://open.spotify.com/track/015u66hoqqhwIPyKGGFItg"
+    },
+    {
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/5kcwxjSYHuuafWqUflsSsu"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Turn It Up (feat. Usher)",
+      "url": "https://open.spotify.com/track/2aupzXVfgAkI4nnVR8dDMe"
     },
     {
       "album": {
@@ -2346,6 +3230,24 @@
       "duration_ms": 183560,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261613,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/1eu6Yn99jNWZ7T9hQa38mZ"
     },
     {
       "album": {
@@ -2457,6 +3359,50 @@
     },
     {
       "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263173,
+      "name": "What's My Name?",
+      "url": "https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"
+    },
+    {
+      "album": {
+        "name": "Doll Domination (Deluxe)",
+        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228106,
+      "name": "Whatcha Think About That",
+      "url": "https://open.spotify.com/track/6ZjWRbQFROL0o48hesFmK9"
+    },
+    {
+      "album": {
         "name": "When You Fall In Love (From \"Songland\")",
         "url": "https://open.spotify.com/album/58UrRTge25YbRpOW1xYbIJ"
       },
@@ -2530,6 +3476,28 @@
       "duration_ms": 218596,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/1EW5E4ZXhoQTUBV7gjttJL"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328280,
+      "name": "Woohoo (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/3b7jMtkPU3aPulz6AvBGBD"
     },
     {
       "album": {

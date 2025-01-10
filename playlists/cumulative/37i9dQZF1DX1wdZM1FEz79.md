@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: LIM KIM & Kim Chang\-Wan\(림킴 & 김창완\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-548 songs - 1 day 8 hr 33 min
+549 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 | 2021-12-10 |  |
 | [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 | 2024-05-10 | 2024-06-01 |
 | [First dance](https://open.spotify.com/track/6f7r1qCJBPZo5NubaKPipP) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 3:43 | 2022-03-31 | 2022-04-18 |
+| [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 |  |
 | [Flashback](https://open.spotify.com/track/48IH46gTbuyXsL5EjtRHxo) | [권결](https://open.spotify.com/artist/0jy3BB8xJVu7fuBeD9OolD) | [Flashback](https://open.spotify.com/album/5ZOFISUwly1UlG4k0dBL7i) | 2:40 | 2022-03-31 | 2022-04-16 |
 | [For a Long Time 오래도록 반짝이게](https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [For Lovers who Hesitate](https://open.spotify.com/track/7DvYdIOzC25BqAucmEMa7K) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Adolescence](https://open.spotify.com/album/079llPxFVYSKxxOM4vbczw) | 3:44 | 2022-03-31 | 2022-04-21 |
@@ -331,7 +332,7 @@
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |
-| [Perhaps](https://open.spotify.com/track/4pawkVuIEMJX1NMQjZq2Al) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Perhaps](https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT) | 3:03 | 2025-01-02 |  |
+| [Perhaps](https://open.spotify.com/track/4pawkVuIEMJX1NMQjZq2Al) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Perhaps](https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT) | 3:03 | 2025-01-02 | 2025-01-10 |
 | [PET](https://open.spotify.com/track/4ENLJt3lo1gHeCwzas8om1) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:41 | 2022-03-31 | 2022-04-21 |
 | [Petal](https://open.spotify.com/track/1eozcOVAxDUMuDKWrkcmXR) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/3ePGY33BivCQUdDcBKqWKx) | 4:04 | 2022-03-31 | 2022-04-11 |
 | [Petals on the Wind](https://open.spotify.com/track/6DX22kxAkmAXIsml8xuPv0) | [WABLE](https://open.spotify.com/artist/4gQewA50oTupuaVOVhFExE) | [Petals on the Wind](https://open.spotify.com/album/7nGDkeAohJaHt7wzETUaHL) | 3:25 | 2022-03-31 | 2022-04-12 |

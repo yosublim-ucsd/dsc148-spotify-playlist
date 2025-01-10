@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-411 songs - 1 day 3 hr 52 min
+412 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Pay](https://open.spotify.com/track/4QzzbrZXW7JZlZEvSEO4BZ) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Ramsey](https://open.spotify.com/album/62zvqJzG1V3VFViiVl7R4D) | 3:19 | 2022-10-23 | 2022-11-01 |
 | [Persuader \- Edit](https://open.spotify.com/track/65ALVBNugTdp4jdVUl4Jok) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Persuader](https://open.spotify.com/album/2gojRx2zeAeXtmZstFSE6L) | 2:45 | 2021-11-01 | 2022-11-09 |
 | [Persuader \- Edit](https://open.spotify.com/track/7J3T5PQLhtDMCJVO8IacUB) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Persuader](https://open.spotify.com/album/2nzr3TOPYwp6JK8inj5JUZ) | 2:45 | 2022-11-01 | 2023-10-30 |
+| [Perverts](https://open.spotify.com/track/15mQvNeL3jFWwaklufPVWP) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 12:04 | 2025-01-10 |  |
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2022-09-13 |  |
 | [Piano Tuner Song 2000 AD](https://open.spotify.com/track/49W71e4IOKSWkofyJw3oIQ) | [Ivor Cutler](https://open.spotify.com/artist/60SKMJ5AgD6DuxTNbVrrSQ) | [Dandruff](https://open.spotify.com/album/2gBdIkbOIEcC6XPLMJiJlR) | 1:17 | 2024-10-28 | 2024-11-05 |
 | [Piece and Pound Coins](https://open.spotify.com/track/0s3pPnQrytADGrGw1UWP5m) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [Piece and Pound Coins](https://open.spotify.com/album/4Rpy1s4ACE9bAJYaQdc9KM) | 2:23 | 2021-11-01 | 2022-09-15 |
@@ -270,7 +271,7 @@
 | [Prototype / Limit to Your Love](https://open.spotify.com/track/6gjQwd0yaseqxwPDHRmAUz) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Prototype / Limit to Your Love](https://open.spotify.com/album/0eKwPKBEpEwPZtX5cIqAPo) | 4:39 | 2021-11-01 | 2022-10-16 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2023-10-30 | 2023-11-04 |
 | [Ptolemaea](https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 6:23 | 2022-09-25 | 2024-04-19 |
-| [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 |  |
+| [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 | 2025-01-10 |
 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 | 2024-02-05 | 2025-01-06 |
 | [Revenge Song](https://open.spotify.com/track/4Gzdj36KxmzsmA2FNbvqJv) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Mourn](https://open.spotify.com/album/33hGrLt8Dj5WP6Iv4MK8uz) | 3:47 | 2022-10-23 | 2022-11-01 |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2023-10-30 |  |

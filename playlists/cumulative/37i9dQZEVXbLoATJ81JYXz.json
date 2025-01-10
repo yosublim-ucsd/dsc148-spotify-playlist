@@ -9873,6 +9873,24 @@
     },
     {
       "album": {
+        "name": "Egotrip",
+        "url": "https://open.spotify.com/album/5kmFeXcbPXCP5iFnJ571HA"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "Egotrip",
+      "url": "https://open.spotify.com/track/6C3zo1ZwpVX8J5WTRr3j9l"
+    },
+    {
+      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/4FiLLOOiVRAlcdoxEbJn81"
       },
@@ -13174,7 +13192,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 255045,
       "name": "F\u00f6rsent",
       "url": "https://open.spotify.com/track/1U49LNwMAgAwlLMQxeqWL6"
@@ -13302,6 +13320,24 @@
       "duration_ms": 200345,
       "name": "F\u00f6rutom dig",
       "url": "https://open.spotify.com/track/2hJp0IL3ESDXhlyXNAC2US"
+    },
+    {
+      "album": {
+        "name": "G & P",
+        "url": "https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111470,
+      "name": "G & P",
+      "url": "https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW"
     },
     {
       "album": {
@@ -17024,7 +17060,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 114124,
       "name": "Humlehum",
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
@@ -21224,6 +21260,28 @@
       "duration_ms": 196960,
       "name": "K\u00e4rleksriddaren",
       "url": "https://open.spotify.com/track/7egQOZcXlv5xVrCxKB9ugP"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
       "album": {
@@ -29230,7 +29288,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178118,
       "name": "P\u00e5 M\u00e5ndag",
       "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
@@ -38352,7 +38410,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193853,
       "name": "tystnar i luren",
       "url": "https://open.spotify.com/track/5IZGN81VVgBv1lPrjXzOD6"
@@ -39888,7 +39946,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -40358,7 +40416,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
@@ -40376,7 +40434,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3xNvgP5eZ49TIhcpCe28pu"

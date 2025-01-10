@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-149 songs - 8 hr 16 min
+150 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Freak Pilla](https://open.spotify.com/track/1oaApC2ZrcPGBN2ElEjCH4) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR) | [Rose Day Special](https://open.spotify.com/album/2WTkfR52IqbmEj9gySNNdH) | 3:20 | 2021-06-24 | 2022-08-13 |
 | [Freak Pilla](https://open.spotify.com/track/529gQ4C2Ny0Rnm16HQSoAa) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR), [Neethu Naduvathettu](https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs) | [Lovers Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lPSEpV0fElpEuwWktYWhW) | 3:21 | 2021-06-24 | 2022-07-29 |
 | [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/track/0PvmPyJUbKxIqCkHF6KhTO) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/album/1yK88UGCRnCd0rlCmJ5R12) | 1:38 | 2024-11-12 |  |
+| [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 | 2025-01-09 |  |
 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 | 2024-08-23 |  |
 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 | 2021-06-24 | 2024-08-24 |
 | [Gudilo Badilo Madilo \- From "D.J."](https://open.spotify.com/track/6YbsnZyosLQW36DJsFNMqO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Gudilo Badilo Madilo \(From "D.J."\)](https://open.spotify.com/album/5ss7H6y8hbyUEmJoZmFKFn) | 4:24 | 2021-06-24 | 2022-07-29 |
@@ -150,11 +151,11 @@
 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 | 2021-06-24 | 2024-08-24 |
 | [Vaasu \- Stick Dance Bit](https://open.spotify.com/track/3zFhY37Mhyy0Qc4NY13mmA) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Vaasu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20SaVlePz8o2EgH4jAeuxl) | 1:20 | 2024-08-23 |  |
 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 | 2024-08-23 |  |
-| [Vakeel Saab](https://open.spotify.com/track/1CMvPiaREa5czskBldIPN0) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Vakeel Saab OST](https://open.spotify.com/album/5XqpoFdUh6jtH7iszDs5zC) | 3:05 | 2024-08-23 |  |
+| [Vakeel Saab](https://open.spotify.com/track/1CMvPiaREa5czskBldIPN0) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Vakeel Saab OST](https://open.spotify.com/album/5XqpoFdUh6jtH7iszDs5zC) | 3:05 | 2024-08-23 | 2025-01-10 |
 | [Valla Valla](https://open.spotify.com/track/5rUFCgDTt4jARMNuLj5xgF) | [K.K, Sunidhi Chauhan](https://open.spotify.com/artist/1rIt1R55gYOYqsWPs36KiN) | [Chintakayala Ravi](https://open.spotify.com/album/1nHiBkB9AwH5ULXkdBrXEl) | 5:17 | 2021-06-24 | 2024-08-24 |
 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 | 2024-08-23 |  |
 | [Wrath of Salaar \(From "Salaar Cease Fire"\)](https://open.spotify.com/track/1zHzHVjNlhj2PwRlngEKEo) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Wrath of Salaar \(From "Salaar Cease Fire"\)](https://open.spotify.com/album/0cRSUrHiebMczOTKXn3RUG) | 2:17 | 2024-08-23 |  |
-| [Yamana Dhamana](https://open.spotify.com/track/34nLhBUs9b01vJUHB0fBlI) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 2:36 | 2024-10-15 |  |
+| [Yamana Dhamana](https://open.spotify.com/track/34nLhBUs9b01vJUHB0fBlI) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 2:36 | 2024-10-15 | 2025-01-10 |
 | [Yenniyalo Yenniyalo](https://open.spotify.com/track/3pfOx6tLURwAdWHJoZRWiZ) | [Sai Karthik](https://open.spotify.com/artist/7GukH9jLUDZnIetjYfV704) | [Raja The Great](https://open.spotify.com/album/3QkR9gwz49XLpdcfyoUn1Y) | 4:07 | 2021-06-24 | 2024-08-24 |
 | [Yenniyalo Yenniyalo](https://open.spotify.com/track/3cN5ajg7uQnroGePex8BuX) | [Sai Karthik](https://open.spotify.com/artist/7GukH9jLUDZnIetjYfV704) | [Raja the Great \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rX3OJ6vBdsiVumOUUHGlW) | 4:09 | 2021-06-24 | 2022-07-29 |
 

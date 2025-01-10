@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 341562,
+  "num_followers": 341519,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Dead!",
-      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "The Drug In Me Is You",
         "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 231840,
       "name": "I'm Not A Vampire",
       "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Dead!",
+      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Collection 2",
-        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 112426,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 313453,
       "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 112426,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 279053,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI"
     },
     {
       "added_at": "2024-10-11 19:37:59",

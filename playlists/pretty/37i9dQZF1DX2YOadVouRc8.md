@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,650 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,670 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 52 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |
 | 53 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |
 | 54 | [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 |
-| 55 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
-| 56 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
+| 55 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
+| 56 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
 | 57 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 |
 | 58 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 |
 | 59 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |

@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 89 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
 | 90 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
 | 91 | [マスター・ピース](https://open.spotify.com/track/179kkA0bqolD4KcrcCRX3I) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [スーツケース・オブ・ストーンズ](https://open.spotify.com/album/6RBEZzB0lJG46LOnwE6TDC) | 4:20 |
-| 92 | [Give and Take](https://open.spotify.com/track/0ZmaOPRpl5f0zCseXw6Ppo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 2:45 |
+| 92 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 |
 | 93 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
 | 94 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 |
 | 95 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 110 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 111 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AbmWSgAAAADFSWDvddNjUIE0i4o6r80A`
+Snapshot ID: `Abmb1gAAAABSHyzgZiyNkbKgjKPSzfoD`

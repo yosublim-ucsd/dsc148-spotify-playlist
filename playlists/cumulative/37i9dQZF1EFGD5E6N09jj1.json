@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157366,
+      "name": "Apple featuring the japanese house",
+      "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -2678,6 +2700,24 @@
       "duration_ms": 178515,
       "name": "love gang (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1"
+    },
+    {
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199262,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2"
     },
     {
       "album": {

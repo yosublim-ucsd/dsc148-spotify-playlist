@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Kokuhaku",
+        "url": "https://open.spotify.com/album/6FIRSr3PGANcWH5vB1tiCp"
+      },
+      "artists": [
+        {
+          "name": "AKINO from bless4",
+          "url": "https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "Kokuhaku",
+      "url": "https://open.spotify.com/track/6fRg8NJCM5x73BVXWA91Mh"
+    },
+    {
+      "album": {
         "name": "Kura Kura",
         "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
       },

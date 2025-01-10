@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Samae Koskinen.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 220520,
       "name": "Aamu Tammelassa",
       "url": "https://open.spotify.com/track/5A83mbqGWVbBlVWqMWLMyB"
@@ -168,6 +168,24 @@
       "duration_ms": 230599,
       "name": "Aioin j\u00e4tt\u00e4\u00e4 sut t\u00e4n\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy"
+    },
+    {
+      "album": {
+        "name": "Ajatuksissani",
+        "url": "https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Music Group",
+          "url": "https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183546,
+      "name": "Ajatuksissani",
+      "url": "https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1"
     },
     {
       "album": {
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 265891,
       "name": "En luovuta koskaan",
       "url": "https://open.spotify.com/track/2NhLkGWK8PkB101V9ztXef"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 175184,
       "name": "Kanaria",
       "url": "https://open.spotify.com/track/1hrxc1mvTbW9ISOGwxrk7I"
@@ -1503,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Kielt\u00e4ydyn juhlista",
+        "url": "https://open.spotify.com/album/5bmQE4IpWd8d41vp13MNLy"
+      },
+      "artists": [
+        {
+          "name": "Nina Kaitaranta",
+          "url": "https://open.spotify.com/artist/2PsdnaaKgXsNDhPYsZkPpo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Kielt\u00e4ydyn juhlista",
+      "url": "https://open.spotify.com/track/0WSVqhcwTHuZJejV3kHiCm"
+    },
+    {
+      "album": {
         "name": "Kiinni pid\u00e4n susta",
         "url": "https://open.spotify.com/album/5WhOT7vq2B5dXO785YbIMK"
       },
@@ -1518,6 +1554,28 @@
       "duration_ms": 240769,
       "name": "Kiinni pid\u00e4n susta",
       "url": "https://open.spotify.com/track/1qnO39kSLufBc0OkHkf9rc"
+    },
+    {
+      "album": {
+        "name": "Kitaralla helpompaa",
+        "url": "https://open.spotify.com/album/78gzq1saUjJHpdhELMVW1E"
+      },
+      "artists": [
+        {
+          "name": "The Stonewalls",
+          "url": "https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc"
+        },
+        {
+          "name": "Jussi Jokinen",
+          "url": "https://open.spotify.com/artist/7cKuce0pF0YgNuiWOTjypR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251706,
+      "name": "Kitaralla helpompaa",
+      "url": "https://open.spotify.com/track/6rQPKzTJGkp5IKsDY6b3mP"
     },
     {
       "album": {
@@ -1820,7 +1878,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 181973,
       "name": "Lanka palaa",
       "url": "https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM"
@@ -2076,7 +2134,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 127786,
       "name": "Mary Ann",
       "url": "https://open.spotify.com/track/4ujuS5LvHAwF8A9KfRSK39"
@@ -2508,7 +2566,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 237765,
       "name": "Nuoruus (kaipaan sua)",
       "url": "https://open.spotify.com/track/22ZWBw37maGo15Uu3vjAA0"
@@ -2660,6 +2718,24 @@
       "duration_ms": 231586,
       "name": "Paha maailma",
       "url": "https://open.spotify.com/track/72MnpszLIEyApn6OJrDufo"
+    },
+    {
+      "album": {
+        "name": "Pahaa verta",
+        "url": "https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2"
+      },
+      "artists": [
+        {
+          "name": "Pate Mustaj\u00e4rvi",
+          "url": "https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208611,
+      "name": "Pahaa verta",
+      "url": "https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm"
     },
     {
       "album": {
@@ -3056,7 +3132,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184346,
       "name": "Rakkautta varjojen",
       "url": "https://open.spotify.com/track/3uTtGwtXpHsicZxbPCj1oq"
@@ -3243,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Savua ilman tulta",
+        "url": "https://open.spotify.com/album/0a1VZMFKVJuLm1Qe5OjKbq"
+      },
+      "artists": [
+        {
+          "name": "Tanna",
+          "url": "https://open.spotify.com/artist/28YVOqFJ3ITY3m0LodbVM7"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Savua ilman tulta",
+      "url": "https://open.spotify.com/track/1xMQmMpeyhJ22lqbWdgaxr"
+    },
+    {
+      "album": {
         "name": "10 Years of Chaorot",
         "url": "https://open.spotify.com/album/36XQgiVg4VmGU306t4w6no"
       },
@@ -3384,7 +3478,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 152967,
       "name": "Sit\u00e4 saa mit\u00e4 pilaa",
       "url": "https://open.spotify.com/track/0rU21j5U2npIc5jGBaDAH2"
@@ -3701,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Taas viimeinen kerta",
+        "url": "https://open.spotify.com/album/6iG4Sf3UMnixrFz6fMxl1f"
+      },
+      "artists": [
+        {
+          "name": "Atomitie",
+          "url": "https://open.spotify.com/artist/6zBkAOFTbyOoTg5pvKFxmA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250704,
+      "name": "Taas viimeinen kerta",
+      "url": "https://open.spotify.com/track/4qPVJ3qZKX6OpScGA5HNgf"
+    },
+    {
+      "album": {
         "name": "Tanssi tytt\u00f6 tanssi",
         "url": "https://open.spotify.com/album/7dsmSqsqpqdQgpo40FxGiY"
       },
@@ -3860,6 +3972,24 @@
       "duration_ms": 181553,
       "name": "Toto",
       "url": "https://open.spotify.com/track/4W6vTZ0pmLtdsgS1cUCDjU"
+    },
+    {
+      "album": {
+        "name": "Tottunut veteen",
+        "url": "https://open.spotify.com/album/3LTSPBmn9dAs1hW5dWgAa0"
+      },
+      "artists": [
+        {
+          "name": "Valkea",
+          "url": "https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206381,
+      "name": "Tottunut veteen",
+      "url": "https://open.spotify.com/track/34TFf7E4qTHKGaru5qrmlB"
     },
     {
       "album": {
@@ -4036,7 +4166,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197500,
       "name": "T\u00e4ysill\u00e4",
       "url": "https://open.spotify.com/track/3NzVTInyRVEscYWAdavLBX"

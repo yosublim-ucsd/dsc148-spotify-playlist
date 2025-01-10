@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Donovan Mitchell and Shai Gilgeous\-Alexander
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jarrett Allen and Evan Mobley
 
-768 songs - 1 day 15 hr 43 min
+769 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 | 2022-06-24 | 2024-04-19 |
 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/6cQ08IpBxxfGcSKxqE3NmB) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Headshot](https://open.spotify.com/album/74nxdn9ypqp3hqJEttpDNU) | 2:24 | 2021-09-02 | 2024-09-14 |
 | [Heartbreaker](https://open.spotify.com/track/0Q8ZXwGiIgZzOX7ciIfmcz) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [IN SU! TIME](https://open.spotify.com/album/18lckI67Rdgzp2HgB8dhZS) | 2:11 | 2024-07-12 | 2024-07-19 |
+| [Heat](https://open.spotify.com/track/4DQgYo1trx8Pjb8PHymzdH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Heat](https://open.spotify.com/album/6Ek01uAVVrcmxor5QWu4yX) | 2:06 | 2025-01-08 |  |
 | [HEAT STICK](https://open.spotify.com/track/15Lphc77TFtqRTGyYRYeNA) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Work](https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG) | 2:17 | 2024-07-12 | 2024-07-19 |
 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 | 2021-09-02 | 2024-02-10 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-06-24 | 2023-06-09 |

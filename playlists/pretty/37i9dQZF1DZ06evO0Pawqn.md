@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,625 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,628 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 48 | [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 |
 | 49 | [Hasta La Miel Amarga](https://open.spotify.com/track/0zcRfgwJ7dIo5guaUvwWkk) | [Implakable](https://open.spotify.com/artist/0UJHlgBowbuWuVbXNJHV9H), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [No Me Dejes Ir](https://open.spotify.com/album/175Awxw7acwFNSc8yeM8ja) | 3:28 |
 
-Snapshot ID: `Z3xugAAAAAB7/vEdrXa0tx8gwX0ck/kY`
+Snapshot ID: `Z33AAAAAAAD+UrR4K4guAnFE8PjCNiNc`

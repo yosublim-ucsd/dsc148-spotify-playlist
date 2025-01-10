@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 112645,
+  "num_followers": 112641,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 193221,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.1",
         "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "MORENA",
-        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 193221,
-      "name": "MORENA",
-      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1683,34 +1683,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Ela Voltou de Perna Bamba",
-        "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
-      },
-      "artists": [
-        {
-          "name": "MC Guh SR",
-          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
-        },
-        {
-          "name": "MC P\u00ea Original",
-          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
-        },
-        {
-          "name": "Dj Pikeno Mpc",
-          "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
-        },
-        {
-          "name": "Markim WF",
-          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Ela Voltou de Perna Bamba",
-      "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Planeta",
         "url": "https://open.spotify.com/album/68WbQweOEDySKYhftpKfcE"
       },
@@ -1751,6 +1723,34 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Ela Voltou de Perna Bamba",
+        "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
+      },
+      "artists": [
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        },
+        {
+          "name": "MC P\u00ea Original",
+          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
+        },
+        {
+          "name": "Dj Pikeno Mpc",
+          "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Ela Voltou de Perna Bamba",
+      "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
     },
     {
       "added_at": "2024-08-22 23:00:00",

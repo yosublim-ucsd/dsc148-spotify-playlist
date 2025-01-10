@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5C8ObEZ48JQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ)
 
-### [Best of Fresh Finds Africa 2024](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
+### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists of 2024, picked by our Editors\. Cover:  <a href="https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc">Llona</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc">Llona</a>\. Artwork: Isu Kim.
 
 1,178 songs - 2 day 11 hr 1 min
 

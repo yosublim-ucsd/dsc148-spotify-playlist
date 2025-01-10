@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 212726,
+  "num_followers": 213100,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADUKlW0b/10NGpDKWOZvVIo",
+  "snapshot_id": "Z33AAAAAAAAfPBGAoT20dGFGmUboqEDa",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+        "name": "Moana 2 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
         }
       ],
-      "duration_ms": 161586,
-      "name": "ULTRAVIOLETA",
-      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
+      "duration_ms": 196306,
+      "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
+      "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moana 2 (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
-      "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
+      "duration_ms": 161586,
+      "name": "ULTRAVIOLETA",
+      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
     },
     {
       "added_at": null,

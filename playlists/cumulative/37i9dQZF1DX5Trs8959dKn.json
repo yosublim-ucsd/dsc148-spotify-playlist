@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
+      "album": {
         "name": "The Gospel of the Kingdom",
         "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
       },
@@ -950,7 +972,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 73404,
       "name": "Joy",
       "url": "https://open.spotify.com/track/57oSPYUQDgswHHUgyC9WEI"
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 552000,
       "name": "Ruach Hakodesh",
       "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 216962,
       "name": "Yeshua (Worship Rendition)",
       "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"

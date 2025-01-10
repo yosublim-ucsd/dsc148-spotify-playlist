@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: HIMALAYAS
+> The best in new rock\. Cover: NO CIGAR
 
-224 songs - 12 hr 54 min
+229 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Break Away](https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Break Away](https://open.spotify.com/album/1htNgwThQp0jBpv1YBtIu2) | 3:50 | 2024-07-04 | 2024-08-16 |
 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-11-07 |  |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-30 | 2024-11-29 |
+| [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 | 2025-01-09 |  |
 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 | 2024-06-06 | 2024-08-23 |
 | [Check Mate](https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Check Mate](https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc) | 3:16 | 2024-05-16 | 2024-10-04 |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 | 2024-11-08 |
@@ -52,8 +53,8 @@
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-05 | 2024-10-18 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-04-09 | 2024-07-12 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-25 | 2024-08-31 |
-| [Don't Feel Right](https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Don't Feel Right](https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk) | 3:06 | 2024-12-05 |  |
-| [Don't Try To Talk](https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:06 | 2024-10-31 |  |
+| [Don't Feel Right](https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Don't Feel Right](https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk) | 3:06 | 2024-12-05 | 2025-01-10 |
+| [Don't Try To Talk](https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:06 | 2024-10-31 | 2025-01-10 |
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-26 |  |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-04-09 | 2024-12-13 |
 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-19 | 2024-10-25 |
@@ -84,7 +85,7 @@
 | [Holding On](https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Holding On](https://open.spotify.com/album/4QtFGNKcYlWPqlN9uYz7A4) | 3:37 | 2024-06-27 | 2024-08-16 |
 | [Hollow](https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Hollow](https://open.spotify.com/album/4qmjNRyaVlTiOOW197MTGC) | 3:25 | 2024-09-19 |  |
 | [Hollow](https://open.spotify.com/track/0NONTs7xnkUaG4TUcDnhKS) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Hollow](https://open.spotify.com/album/5DrP1XpOfmthIzGGe6DK7X) | 3:31 | 2024-04-25 | 2024-07-12 |
-| [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-17 |  |
+| [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-17 | 2025-01-10 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:47 | 2024-04-09 | 2024-09-13 |
 | [Houndstooth Dress](https://open.spotify.com/track/2QoPtfqbeBzJIpqSJv3QvQ) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Houndstooth Dress](https://open.spotify.com/album/666dG6SUEZ6Vc48GNmrZVZ) | 4:05 | 2024-09-26 | 2024-11-22 |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-05 |  |
@@ -98,10 +99,11 @@
 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 | 2024-07-25 | 2024-09-27 |
 | [In Front of Me Now](https://open.spotify.com/track/0rQazIPADhp6WirPHVD0xp) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [In Front of Me Now](https://open.spotify.com/album/3VWqWwC3XNhuhStTquKzgf) | 3:41 | 2024-05-16 | 2024-08-02 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-22 | 2024-10-25 |
+| [Is This A Robbery](https://open.spotify.com/track/0Qpk2lc8yEQK1xayGwQWWa) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Sirens](https://open.spotify.com/album/238u1n8IgczzXXiGWkiKOn) | 3:36 | 2025-01-09 |  |
 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 | 2024-07-18 | 2024-08-23 |
 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-07-04 | 2024-08-16 |
 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-04 |  |
-| [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 |  |
+| [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-01-10 |
 | [Keep on Moving](https://open.spotify.com/track/78QbRv8ek0BCKvLN8PXtmb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Keep on Moving](https://open.spotify.com/album/6yoQ4DhCRvnd9KqXwnuCdE) | 2:51 | 2024-08-15 | 2024-09-27 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-19 |  |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-09-26 | 2024-11-01 |
@@ -125,6 +127,7 @@
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-03 |  |
 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-04-09 | 2024-09-13 |
 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 | 2024-11-22 |
+| [My Blood](https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [My Blood](https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf) | 4:05 | 2025-01-09 |  |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-07-25 | 2024-12-13 |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-04-09 | 2024-08-02 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-21 |  |
@@ -146,7 +149,7 @@
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2024-04-09 | 2024-09-06 |
 | [Ottoway](https://open.spotify.com/track/4tRkdz8e9M32RSK82CveHH) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Ottoway](https://open.spotify.com/album/3ttnYrKFL9uqGXmPBeHWue) | 3:15 | 2024-06-27 | 2024-11-22 |
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-30 | 2024-11-15 |
-| [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 |  |
+| [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2025-01-10 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-16 | 2024-08-31 |
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-04-09 | 2024-07-12 |
 | [Oyster Beds](https://open.spotify.com/track/59HjwstLsJRTHFku9kmDIB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Oyster Beds](https://open.spotify.com/album/0AYFSRHcPQkXwoHIJxA3N3) | 2:09 | 2024-08-22 | 2024-10-11 |
@@ -201,6 +204,7 @@
 | [The Only One](https://open.spotify.com/track/38m0WpFdCKTWrU7QAalN8U) | [Grinspoon](https://open.spotify.com/artist/04qi4CymYf3E50Mt2na4QS) | [whatever, whatever](https://open.spotify.com/album/7x6mE04uImocP7F9CC0j3M) | 3:07 | 2024-08-08 | 2024-11-15 |
 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 |  |
 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 | 2024-10-24 | 2024-12-20 |
+| [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 | 2025-01-09 |  |
 | [This High Up](https://open.spotify.com/track/6fzrti55gh3cXknLB7kcCJ) | [Mystic Knights](https://open.spotify.com/artist/1wF4JLm549nAAJUm7437js) | [This High Up](https://open.spotify.com/album/1pwN3Vli2mtFaWYBmcXBzm) | 1:51 | 2024-12-12 |  |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-04-09 | 2024-09-20 |
 | [This Is The Sound Of Your Voice](https://open.spotify.com/track/2G75SQhhr9B6boZFgnK4In) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [This Is The Sound Of Your Voice](https://open.spotify.com/album/4IitM3XDHnMJQQXcW65Dd4) | 4:30 | 2024-07-04 | 2024-08-09 |
@@ -231,6 +235,7 @@
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-08 | 2024-09-27 |
 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-06 | 2024-09-20 |
 | [You've Got To Move](https://open.spotify.com/track/19jIWKn3jNaSA2yOQ0NU86) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [You’ve Got To Move](https://open.spotify.com/album/3vv2MqJbLfepSWf5UDZVj8) | 3:51 | 2024-07-25 | 2024-10-25 |
+| [you.](https://open.spotify.com/track/3HkmLtVDkA5Tn6rdqfCe3I) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [you.](https://open.spotify.com/album/3PMrXih711ERK2OKSSHepA) | 3:48 | 2025-01-09 |  |
 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 | 2024-10-31 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

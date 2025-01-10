@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Ghost.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Metallica.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203066,
       "name": "(I Don't Wanna Be) Just A Memory",
       "url": "https://open.spotify.com/track/2mxA7nJ19UTxVFaDPHrTFw"
@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Call of the Night",
+        "url": "https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Call of the Night",
+      "url": "https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ"
+    },
+    {
+      "album": {
         "name": "Cancelled",
         "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
       },
@@ -626,10 +644,28 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206250,
       "name": "Devilry of Ecstasy",
       "url": "https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ"
+    },
+    {
+      "album": {
+        "name": "Do You Feel Normal",
+        "url": "https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Do You Feel Normal",
+      "url": "https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm"
     },
     {
       "album": {
@@ -900,7 +936,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 305906,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
@@ -979,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4"
       },
@@ -990,7 +1044,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 208939,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve"
@@ -1152,7 +1206,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 366986,
       "name": "Lanternlight",
       "url": "https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z"
@@ -1709,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Rebel of the North",
+        "url": "https://open.spotify.com/album/2CBX2zP8fLEI6T15p5aH5E"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240312,
+      "name": "Rebel of the North",
+      "url": "https://open.spotify.com/track/1pIhkbe9kU999KS16h03kp"
+    },
+    {
+      "album": {
         "name": "Rest In Pieces",
         "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
       },
@@ -2109,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/0h9im8yM6BkDKQMcYAjGAb"
+      },
+      "artists": [
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/0yB6DHM1KJzWtmGmvd4vsq"
+    },
+    {
+      "album": {
         "name": "Syntax Terror",
         "url": "https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd"
       },
@@ -2426,7 +2516,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 240666,
       "name": "Vaatteet ja iho",
       "url": "https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA"

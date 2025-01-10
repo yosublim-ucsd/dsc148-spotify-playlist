@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain](/playlists/plain/37i9dQZF1DWYc8Z858eGwP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYc8Z858eGwP)
 
-### [RADAR Africa Presents Best of 2024](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
+### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> Editors' picks: The most exciting new artists of 2024 from the African continent & diaspora\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
+> Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,400 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,515 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [NANA \- Remix](https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [NANA \(feat\. Joeboy, King Promise & BIEN\) \[Remix\]](https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0) | 3:19 |
 | 50 | [Asambe](https://open.spotify.com/track/4P62OAoBti8I0OusyVFQJc) | [Ggoldie](https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [T.M.A\_Rsa](https://open.spotify.com/artist/5WcYssoPuSiy3PpQFq43dt), [RIVALZ](https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y) | [Asambe \(Let's Go!\)](https://open.spotify.com/album/1a9Kbdq2KyUCJaMKjrb7SG) | 5:51 |
 
-Snapshot ID: `Z1BHxAAAAABTssUKcGHD8apHHkFQSvKM`
+Snapshot ID: `Z3+jpQAAAADR+yIu9osh/aMp+0mtgcWA`

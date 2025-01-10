@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 219630,
       "name": "Chrysalis (Spa)",
       "url": "https://open.spotify.com/track/1qp90aEi493RuOguV7v3UR"
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Desert Mirage",
+        "url": "https://open.spotify.com/album/5wrtNoT8aXuKs8P6rrMaLI"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Desert Mirage",
+      "url": "https://open.spotify.com/track/56OxjqewjNQce29ZiWy8Vq"
+    },
+    {
+      "album": {
         "name": "Dharawi Nights",
         "url": "https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 183922,
       "name": "Distant Call",
       "url": "https://open.spotify.com/track/0EZ1uOHtWxQK43qgsoiFJ4"
+    },
+    {
+      "album": {
+        "name": "Mystic Peru",
+        "url": "https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos"
+      },
+      "artists": [
+        {
+          "name": "The Earth & I",
+          "url": "https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191321,
+      "name": "Dorado Brilla - Ambient Meditation Music",
+      "url": "https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT"
     },
     {
       "album": {
@@ -862,6 +898,24 @@
       "duration_ms": 180589,
       "name": "Forcefield",
       "url": "https://open.spotify.com/track/56b05eHG1cX7Pa2TNdq4VW"
+    },
+    {
+      "album": {
+        "name": "Fourth Magnitude",
+        "url": "https://open.spotify.com/album/3jNFiZVHftvuPAUvv2swP7"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Fourth Magnitude",
+      "url": "https://open.spotify.com/track/5HLF9qyqBKWJoNks93acco"
     },
     {
       "album": {
@@ -1477,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Miraculous",
+        "url": "https://open.spotify.com/album/1ghztZVEQP5SJxN0t3zmzp"
+      },
+      "artists": [
+        {
+          "name": "Elements",
+          "url": "https://open.spotify.com/artist/3c6UIuZ0KCsN5nhXFErvMy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "Miraculous",
+      "url": "https://open.spotify.com/track/3MYrAqstmtJbm1uEAFtdQD"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF"
       },
@@ -1777,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Polaris",
+        "url": "https://open.spotify.com/album/2wmudQTcCyFXvAm2WAxtkA"
+      },
+      "artists": [
+        {
+          "name": "\u00c9gide Affr\u00e9",
+          "url": "https://open.spotify.com/artist/4DHXiT1f9bWlO3NIZuhSTN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/07iyw5Yg9aGkfxdy87Ijkf"
+    },
+    {
+      "album": {
         "name": "Prakriti Ke Saath",
         "url": "https://open.spotify.com/album/78A7pfTL4xZOYEW7WTEntG"
       },
@@ -1810,6 +1900,24 @@
       "duration_ms": 176000,
       "name": "Pune",
       "url": "https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4"
+    },
+    {
+      "album": {
+        "name": "Quenacho Prayer",
+        "url": "https://open.spotify.com/album/2YuLQMxVFoilNybOSJJ1j0"
+      },
+      "artists": [
+        {
+          "name": "Nika Tibia",
+          "url": "https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178328,
+      "name": "Quenacho Prayer",
+      "url": "https://open.spotify.com/track/7qzdruwHi5yzs0yN0vo8dR"
     },
     {
       "album": {
@@ -1963,6 +2071,42 @@
     },
     {
       "album": {
+        "name": "Renewing Spirit (Nature)",
+        "url": "https://open.spotify.com/album/5DpwtGAIJuBrJ3BXnKJ72J"
+      },
+      "artists": [
+        {
+          "name": "Orion Rivera",
+          "url": "https://open.spotify.com/artist/2ZAAs2C0Sslu20k8JexdpG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124739,
+      "name": "Renewing Spirit (Nature)",
+      "url": "https://open.spotify.com/track/4npJGzkb6u67uVlJZa8HWe"
+    },
+    {
+      "album": {
+        "name": "Repetitive Meditative",
+        "url": "https://open.spotify.com/album/1SgjJPmRO7F0dHkohg0dS9"
+      },
+      "artists": [
+        {
+          "name": "Wind Alliance",
+          "url": "https://open.spotify.com/artist/4ysmZkIKi9vKhywHhPgtqX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Repetitive Meditative",
+      "url": "https://open.spotify.com/track/1CXIdlefzC5KSxgC1aVoAL"
+    },
+    {
+      "album": {
         "name": "111 Serenity Nature Sounds: Asian Zen Spa Meditation Music and Relaxing Natural Ambiences for Yoga and Sleep",
         "url": "https://open.spotify.com/album/0LvbK6836bPXoNxBHVVn2I"
       },
@@ -2028,7 +2172,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184159,
       "name": "Rhythm Of My Soul",
       "url": "https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r"
@@ -2447,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Sun Is Rising",
+        "url": "https://open.spotify.com/album/1pciN6j0Ex2w26il7GGxcl"
+      },
+      "artists": [
+        {
+          "name": "Ellisar Dalana",
+          "url": "https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sun Is Rising",
+      "url": "https://open.spotify.com/track/3a2cOAm7IIpbzzAZDTSego"
+    },
+    {
+      "album": {
         "name": "The Morning Dew \u2013 Celtic Harp",
         "url": "https://open.spotify.com/album/5LJmi0y8gI5pPz6YQhb6Cj"
       },
@@ -2537,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "The Tale of Midnight",
+        "url": "https://open.spotify.com/album/1jCBd5tl2GppwZW5WHgZ3O"
+      },
+      "artists": [
+        {
+          "name": "Phunard",
+          "url": "https://open.spotify.com/artist/6H1tyGfLTQzt80IXEGgKAM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "The Tale of Midnight",
+      "url": "https://open.spotify.com/track/4s0P2kUUJwTYBYO9qfzwRQ"
+    },
+    {
+      "album": {
         "name": "The whim of fate",
         "url": "https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru"
       },
@@ -2606,6 +2786,24 @@
       "duration_ms": 206769,
       "name": "Tranquil",
       "url": "https://open.spotify.com/track/1VmsFLsFl9lrKeIm6Ok1sw"
+    },
+    {
+      "album": {
+        "name": "Tranquil Garden",
+        "url": "https://open.spotify.com/album/4ozvfUFB74zrfeSkIaBY1f"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124048,
+      "name": "Tranquil Garden",
+      "url": "https://open.spotify.com/track/1xjmQLDgqXUQZDq4hP5b2q"
     },
     {
       "album": {
@@ -2692,7 +2890,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 165000,
       "name": "Vishram - Yoga Version",
       "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
@@ -2768,6 +2966,24 @@
       "duration_ms": 231666,
       "name": "Water Door (Dawn)",
       "url": "https://open.spotify.com/track/31fChJMYSVttVFmNNkUffZ"
+    },
+    {
+      "album": {
+        "name": "Waves of Serenity",
+        "url": "https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Waves of Serenity",
+      "url": "https://open.spotify.com/track/04wDZI7XuCjGicazG046t9"
     },
     {
       "album": {

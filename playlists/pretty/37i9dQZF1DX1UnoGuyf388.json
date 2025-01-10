@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Khalid",
-  "num_followers": 34669,
+  "num_followers": 34671,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6wAAAADUh4c42uy+ui8bmJTK4K+j",
+  "snapshot_id": "Z38+ogAAAAAR0eYcT2hj4+ES6EUR/ZHx",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -63,6 +63,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-01-09 03:12:34",
+      "album": {
+        "name": "SELLOUT",
+        "url": "https://open.spotify.com/album/2vIxH1jwz9e2JB6aDlxRSS"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 176300,
+      "name": "Body Favors",
+      "url": "https://open.spotify.com/track/51QUz7oGI38mc5uAy85OqW"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 171956,
       "name": "HAVE FUN",
       "url": "https://open.spotify.com/track/7nT764RxYIEiEcC03DYBsS"
-    },
-    {
-      "added_at": "2024-09-11 19:12:14",
-      "album": {
-        "name": "You Ain\u2019t For Me",
-        "url": "https://open.spotify.com/album/6Psiq5uxpznB6jNgwGiKfK"
-      },
-      "artists": [
-        {
-          "name": "Tolou",
-          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
-        }
-      ],
-      "duration_ms": 157620,
-      "name": "You Ain\u2019t For Me",
-      "url": "https://open.spotify.com/track/7hd8IUeTsLnyEr9b2RquoG"
     }
   ],
   "unique_name": "Pop Frequency",

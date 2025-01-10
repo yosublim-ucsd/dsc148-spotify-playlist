@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 140500,
+  "num_followers": 140626,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADyTz7xPhy15u3EvK0/B9Z3",
+  "snapshot_id": "Z33AAAAAAAC/NMiayPRx2JWqw/WmaZj9",
   "tracks": [
     {
       "added_at": null,
@@ -1039,22 +1039,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Sad",
-        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
+        "name": "Torbellino",
+        "url": "https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 158875,
-      "name": "Ando Sad",
-      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+      "duration_ms": 211933,
+      "name": "No Se Va Poder",
+      "url": "https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

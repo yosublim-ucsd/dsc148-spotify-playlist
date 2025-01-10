@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157914,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm"
+    },
+    {
+      "album": {
         "name": "immer nur liebe",
         "url": "https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY"
       },
@@ -618,6 +640,28 @@
       "duration_ms": 196040,
       "name": "Inbetween",
       "url": "https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C"
+    },
+    {
+      "album": {
+        "name": "Dancefieber",
+        "url": "https://open.spotify.com/album/7A0V324Q6fJfKhiJaM63b0"
+      },
+      "artists": [
+        {
+          "name": "DJ Herzbeat",
+          "url": "https://open.spotify.com/artist/0fvGBclVqAPzR4SxHhtgt4"
+        },
+        {
+          "name": "Marie Wegener",
+          "url": "https://open.spotify.com/artist/6thyTBTGNwX1i95cCGCxJV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Irgendwas mit Liebe",
+      "url": "https://open.spotify.com/track/4Bo3TBoTN1nC2Iia66Z7Rj"
     },
     {
       "album": {

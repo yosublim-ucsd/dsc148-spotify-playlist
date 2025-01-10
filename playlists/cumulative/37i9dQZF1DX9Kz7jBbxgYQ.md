@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Bayaan
 
-332 songs - 18 hr 46 min
+334 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 | 2023-03-16 |  |
 | [5 am](https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [5 am](https://open.spotify.com/album/4imUPyjxCSeNdAUs6ZjQcR) | 2:27 | 2024-03-19 | 2024-04-17 |
 | [60's Love](https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:23 | 2022-05-20 | 2022-07-16 |
+| [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 | 2025-01-09 |  |
 | [Aaftaab](https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn) | 3:53 | 2024-01-05 | 2024-04-19 |
 | [Aaftaab](https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:53 | 2024-04-16 | 2024-06-15 |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2022-07-15 | 2022-09-02 |
@@ -58,6 +59,7 @@
 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-24 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-05-20 |  |
 | [Chad Gayi](https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Chad Gayi](https://open.spotify.com/album/7J3VIh1bQTiYvM8yO72l8Z) | 3:39 | 2022-05-20 | 2023-02-07 |
+| [Chai and Sunshine](https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Chai and Sunshine](https://open.spotify.com/album/5FaDco89rs2DQjsaY0ugLR) | 2:25 | 2025-01-09 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-12 | 2024-04-09 |
 | [Channa](https://open.spotify.com/track/7fHAFcK5IDBlbJMfWuHtYr) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Channa](https://open.spotify.com/album/7HgMJAC8wHOLBGtUmINtCV) | 3:16 | 2024-02-23 | 2024-07-27 |
 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 | 2022-05-20 | 2023-01-21 |

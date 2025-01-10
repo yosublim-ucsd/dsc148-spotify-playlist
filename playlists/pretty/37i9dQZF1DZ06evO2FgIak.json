@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 49286,
+  "num_followers": 49292,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAASviEq9jcoDMegFB+9xObn",
+  "snapshot_id": "Z33AAAAAAAA7j2AxtUQFJ5y2KxrE938v",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Checkerboard Lounge",
-        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 660933,
-      "name": "Baby Please Don't Go - Live",
-      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -695,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -711,6 +707,26 @@
       "duration_ms": 277080,
       "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 660933,
+      "name": "Baby Please Don't Go - Live",
+      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
     },
     {
       "added_at": null,
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 284546,
       "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,

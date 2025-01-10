@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fd2RNRBOLp.md) - [plain]
 
 > Para entrenar con ritmo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,574 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,667 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 182278,
       "name": "A Million More",
       "url": "https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 292001,
       "name": "Aoi",
       "url": "https://open.spotify.com/track/1RpgTXI93uSRRZnjWifFAs"
@@ -27206,7 +27206,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 161979,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5"
@@ -42583,6 +42583,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u3068\u30c7\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/7vdj88FcBsYGcUDa4si9Zf"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171785,
+      "name": "\u541b\u3068\u30c7\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/08RwOcXdFCvy44zm1awpJh"
+    },
+    {
+      "album": {
         "name": "\u541b\u306b\u3055\u3088\u306a\u3089",
         "url": "https://open.spotify.com/album/5tnV5FmdmPujh7fm44BbG9"
       },
@@ -45366,6 +45384,24 @@
       "duration_ms": 195333,
       "name": "\u60aa\u3044\u4eba",
       "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
+        "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259195,
+      "name": "\u60aa\u5922\u306e\u3088\u3046\u306a",
+      "url": "https://open.spotify.com/track/56OS3wtq9IiVDiO0hW1yKm"
     },
     {
       "album": {
@@ -52442,7 +52478,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185733,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21"

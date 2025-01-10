@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,628 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,629 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 |
 | 2 | [pretty little thing](https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i) | 3:10 |
 | 3 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 |
-| 4 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 |
-| 5 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
+| 4 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
+| 5 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 |
 | 6 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 |
 | 7 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 |
 | 8 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
-| 9 | [starz](https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [starz](https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf) | 3:29 |
-| 10 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 |
+| 9 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 |
+| 10 | [starz](https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [starz](https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf) | 3:29 |
 | 11 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 |
 | 12 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
 | 13 | [down 4 u](https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:57 |
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 29 | [make it rain](https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:39 |
 | 30 | [mentiras](https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:03 |
 | 31 | [sad girl](https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:55 |
-| 32 | [valentine's day](https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [valentine's day](https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8) | 3:08 |
-| 33 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 |
+| 32 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 |
+| 33 | [valentine's day](https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [valentine's day](https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8) | 3:08 |
 | 34 | [back to you](https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 1:27 |
 | 35 | [get better](https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 2:46 |
-| 36 | [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 |
-| 37 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 |
-| 38 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 |
-| 39 | [voicenote](https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:23 |
+| 36 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 |
+| 37 | [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 |
+| 38 | [voicenote](https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:23 |
+| 39 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 |
 | 40 | [triste como yo](https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:55 |
 | 41 | [¡párate!](https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx) | 2:33 |
 | 42 | [el mensaje](https://open.spotify.com/track/4Xtk25KlBgB1hqnvO27T5J) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:23 |
 
-Snapshot ID: `Z3xugAAAAABnk/h4CvCMoQ6eftqvW+uc`
+Snapshot ID: `Z33AAAAAAAC+q+0rzQROVAPwFvNTkXJb`

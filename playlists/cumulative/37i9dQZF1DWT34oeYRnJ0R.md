@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Paloma Mami
 
-576 songs - 1 day 6 hr 3 min
+577 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-08-29 |
 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 | 2024-11-29 | 2025-01-06 |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-03-21 | 2022-06-01 |
+| [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 | 2025-01-09 |  |
 | [De Mi & De Ti](https://open.spotify.com/track/56ocJEytMVUTmX7asOQeuW) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [De Mi & De Ti](https://open.spotify.com/album/6Vd3Dpz5CguHUEpc28Z7vj) | 2:48 | 2024-11-29 | 2025-01-06 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2022-09-06 | 2023-05-13 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-19 |  |
@@ -549,7 +550,7 @@
 | [Una Llamada](https://open.spotify.com/track/0K1muMnMBrwseIwuswb18q) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Una Llamada](https://open.spotify.com/album/1V9ImHHtf4gyi3FZt9WuWJ) | 3:13 | 2022-03-21 | 2022-06-01 |
 | [UuU](https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [UuU](https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq) | 2:55 | 2023-02-24 | 2024-09-21 |
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-09-20 |  |
-| [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-29 |  |
+| [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-29 | 2025-01-10 |
 | [Vacile](https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Vacile](https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G) | 2:20 | 2024-10-18 |  |
 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 | 2024-10-18 | 2024-11-09 |
 | [Vamonos](https://open.spotify.com/track/1kX0I8IyV9lP81e1TTV31W) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Vamonos](https://open.spotify.com/album/0Iu7xrc9ZWf474adXxtcN7) | 2:39 | 2023-10-06 | 2023-12-16 |

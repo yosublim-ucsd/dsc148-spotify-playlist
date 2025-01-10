@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-05",
-  "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
+  "description": "Genre-defying artists pushing boundaries in electronic ambient music",
   "name": "Electronic X",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 614592,
       "name": "#19",
       "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
     },
     {
       "album": {
@@ -114,6 +132,24 @@
       "duration_ms": 472500,
       "name": "2c",
       "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
+    },
+    {
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109937,
+      "name": "3eee",
+      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
     },
     {
       "album": {
@@ -212,7 +248,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 425000,
       "name": "A Model Of Reality - Firephly Remix",
       "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
@@ -252,6 +288,36 @@
       "duration_ms": 449538,
       "name": "A1",
       "url": "https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "James Underwood",
+          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241862,
+      "name": "Abandon",
+      "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
     },
     {
       "album": {
@@ -452,7 +518,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 360765,
       "name": "Alap On Benares",
       "url": "https://open.spotify.com/track/3WpvOcNbqABE7vExODuITD"
@@ -578,7 +644,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
@@ -817,6 +883,32 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "James Underwood",
+          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413977,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb"
+    },
+    {
+      "album": {
         "name": "Atmos B1",
         "url": "https://open.spotify.com/album/7qBI2yZHUujZ8xFEAZsRZ0"
       },
@@ -850,7 +942,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183672,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
@@ -1127,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
+    {
+      "album": {
         "name": "Avichrom",
         "url": "https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP"
       },
@@ -1160,7 +1270,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 347784,
       "name": "Blessed Are The Lovers",
       "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
@@ -1501,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Total Blue",
+        "url": "https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG"
+      },
+      "artists": [
+        {
+          "name": "Total Blue",
+          "url": "https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367841,
+      "name": "Chaparral",
+      "url": "https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02"
+    },
+    {
+      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV"
       },
@@ -1833,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200662,
+      "name": "Continuum 9",
+      "url": "https://open.spotify.com/track/54px5UxG3Q4rk65mTGsMdH"
+    },
+    {
+      "album": {
         "name": "SCURO CHIARO",
         "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
       },
@@ -1928,6 +2074,24 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+    },
+    {
+      "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167212,
+      "name": "Cryo",
+      "url": "https://open.spotify.com/track/3A0r8Pi9bbhLBI1OBhnzpQ"
     },
     {
       "album": {
@@ -2265,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
+    },
+    {
+      "album": {
         "name": "Dogtooth",
         "url": "https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf"
       },
@@ -2348,7 +2530,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 421021,
       "name": "Dreamers (Part I)",
       "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
@@ -2428,6 +2610,24 @@
       "duration_ms": 470482,
       "name": "East Sea \ub3d9\ud574 - Original Mix",
       "url": "https://open.spotify.com/track/3s9V7qhZDffaiuLh211fPn"
+    },
+    {
+      "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119915,
+      "name": "Elastica I",
+      "url": "https://open.spotify.com/track/4EUEvuDcWv3gsllj7jCgZj"
     },
     {
       "album": {
@@ -2840,7 +3040,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 547920,
       "name": "Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4",
       "url": "https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp"
@@ -3169,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553600,
+      "name": "Heliconia",
+      "url": "https://open.spotify.com/track/3ohYAC4qiN3DwpYzain1gu"
+    },
+    {
+      "album": {
         "name": "Dostrotime",
         "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
       },
@@ -3198,7 +3416,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 128274,
       "name": "Hello Planta",
       "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
@@ -3260,6 +3478,24 @@
       "duration_ms": 220666,
       "name": "Hero",
       "url": "https://open.spotify.com/track/40VFyL5gYhDm5natjBMaQ1"
+    },
+    {
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139184,
+      "name": "Heterodina",
+      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
     },
     {
       "album": {
@@ -3422,7 +3658,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 474155,
       "name": "HYbr:ID Ectopia Elastic 2",
       "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
@@ -3488,6 +3724,24 @@
       "duration_ms": 253022,
       "name": "I Gave Up My Body",
       "url": "https://open.spotify.com/track/4DfJTBAiRDEdO0gUq34hn7"
+    },
+    {
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "I, you",
+      "url": "https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY"
     },
     {
       "album": {
@@ -3746,7 +4000,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 517000,
       "name": "Locomotion (In Key)",
       "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
@@ -3786,6 +4040,24 @@
       "duration_ms": 329274,
       "name": "Louche",
       "url": "https://open.spotify.com/track/4EhUPzPXfWS08IlhwYVr7Z"
+    },
+    {
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354306,
+      "name": "Love and the Framed Insects",
+      "url": "https://open.spotify.com/track/58y66qr6jc5eMTFbrXacL7"
     },
     {
       "album": {
@@ -3960,7 +4232,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 218973,
       "name": "Metallic Spheres In Colour: Movement 2 - Excerpt",
       "url": "https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7"
@@ -4000,6 +4272,24 @@
       "duration_ms": 399893,
       "name": "Mir",
       "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
+    },
+    {
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52808,
+      "name": "Mirror bridge",
+      "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
     },
     {
       "album": {
@@ -4622,7 +4912,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 314247,
       "name": "Organism",
       "url": "https://open.spotify.com/track/1TAPoVwcJArEIsFUor3vbJ"
@@ -4826,6 +5116,28 @@
       "duration_ms": 284312,
       "name": "Part 3",
       "url": "https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
     },
     {
       "album": {
@@ -5200,7 +5512,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 144754,
       "name": "Proof of My Existence",
       "url": "https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM"
@@ -5654,7 +5966,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 271240,
       "name": "Seawater Swell",
       "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
@@ -5822,6 +6134,24 @@
       "duration_ms": 321701,
       "name": "Silicon Jungle - Sofie Birch Remix",
       "url": "https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN"
+    },
+    {
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "album": {
@@ -6188,7 +6518,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 166000,
       "name": "Subaru",
       "url": "https://open.spotify.com/track/6DOGp8J9W9HGwxp2Cb6xNA"
@@ -6210,6 +6540,24 @@
       "duration_ms": 317228,
       "name": "Subtle Bodies",
       "url": "https://open.spotify.com/track/4x9L4R5dxQsTEUcx4YgzU7"
+    },
+    {
+      "album": {
+        "name": "The Greater Wings",
+        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175664,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
     },
     {
       "album": {
@@ -6388,7 +6736,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
@@ -6874,7 +7222,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 420923,
       "name": "Tramuntana - Efdemin Remix",
       "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
@@ -6896,6 +7244,28 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
     },
     {
       "album": {
@@ -6950,7 +7320,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 118364,
       "name": "unfaithful",
       "url": "https://open.spotify.com/track/5XM3dR6xGjw6DlR7ZpKGp8"
@@ -7440,7 +7810,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 283673,
       "name": "White Carnations",
       "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
@@ -7640,7 +8010,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 385433,
       "name": "Winter's Melt",
       "url": "https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ"
@@ -7728,6 +8098,24 @@
       "duration_ms": 203146,
       "name": "You Ain't Down",
       "url": "https://open.spotify.com/track/29sHG2nNKkqOPAlBGiTMn8"
+    },
+    {
+      "album": {
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Your First Armadillo",
+      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
     },
     {
       "album": {

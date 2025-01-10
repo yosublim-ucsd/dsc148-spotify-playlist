@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Ssaru
 
-419 songs - 22 hr 30 min
+420 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Twak Makende](https://open.spotify.com/track/6uN91iAMK7IeIBiptaTcpX) | [Gabiro Mtu Necessary](https://open.spotify.com/artist/4kiTJr5wVxVmwFZwpAKYjx), [OnlyOneDelo](https://open.spotify.com/artist/3LYeloSKoUiWFWoeYweFrx) | [Twak Makende](https://open.spotify.com/album/4eCoG9iGJDKLTFsYIMnHxO) | 2:22 | 2022-03-31 | 2022-05-20 |
 | [Twende Church](https://open.spotify.com/track/5XuDteC4DYBGRGh6DKCS5Z) | [Hitman Kaht](https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16) | [Twende Church](https://open.spotify.com/album/7nL1XmZxXT4WoWRZIPY7bK) | 2:56 | 2021-10-14 | 2022-02-05 |
 | [Ukam](https://open.spotify.com/track/1Eo4O5bqHLH6iz3WtAfl7N) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Genge La Bundoski](https://open.spotify.com/album/2MmPVKmqh06x1zEfvqiFLm) | 3:32 | 2022-01-20 | 2022-01-28 |
+| [UKITAKA](https://open.spotify.com/track/2Xg4oAt9TEsQuuckcg0VrP) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [UKITAKA](https://open.spotify.com/album/2hEm5tKZ9FaHSmJoE3E7gK) | 3:20 | 2025-01-09 |  |
 | [Uko Piwa](https://open.spotify.com/track/4fY4jqFrGPul82tGh6TdxI) | [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9), [Sosa The Prodigy](https://open.spotify.com/artist/4A558mJxlQqB0DZwMOfMbJ), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Uko Piwa](https://open.spotify.com/album/3zzzGjYZAwGgtwowmGEu45) | 3:18 | 2024-10-04 |  |
 | [Ulimi Yangu](https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Dj Nephas](https://open.spotify.com/artist/09Dj0RRWu4AU2OMA2qDmqq) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 2:55 | 2021-08-30 | 2022-07-22 |
 | [Unaonaje](https://open.spotify.com/track/3fBqp1yQcxVy16aLHcl6mg) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [The African Sound Queen](https://open.spotify.com/album/4dcftcvrCtDF2RfLYJD5tD) | 3:31 | 2022-05-12 | 2022-11-18 |
@@ -409,7 +410,7 @@
 | [Wanjapi](https://open.spotify.com/track/3Axax40ktlCBaoIIEpzsx8) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [UNCO](https://open.spotify.com/album/79jKaEoMWzvohBMW5Dpu3p) | 2:55 | 2022-04-14 | 2022-07-01 |
 | [WANJAPI 2](https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [WANJAPI 2](https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40) | 3:30 | 2022-06-30 | 2024-07-12 |
 | [Wapi Hio Tumbler](https://open.spotify.com/track/1euOHNRbVXiIA8tKS9TBcV) | [Blueflame](https://open.spotify.com/artist/75gRD9fQD1xoggioVeHW7O) | [Wapi Hio Tumbler](https://open.spotify.com/album/5NhoZgb8dITNFeN5DK2GdF) | 2:52 | 2022-07-21 | 2022-11-05 |
-| [Wasupa Wakam](https://open.spotify.com/track/0wkvVx7qMMWKmCFysSAwGl) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Spoiler](https://open.spotify.com/artist/4kPGmnSlbw28jN6qD8jYGT), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [Wasupa Wakam](https://open.spotify.com/album/2Q7qiZVKfvz458vL4XQLQm) | 3:17 | 2024-06-27 |  |
+| [Wasupa Wakam](https://open.spotify.com/track/0wkvVx7qMMWKmCFysSAwGl) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Spoiler](https://open.spotify.com/artist/4kPGmnSlbw28jN6qD8jYGT), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [Wasupa Wakam](https://open.spotify.com/album/2Q7qiZVKfvz458vL4XQLQm) | 3:17 | 2024-06-27 | 2025-01-10 |
 | [Watoto](https://open.spotify.com/track/1jrmvHoBCmufoYYCAP6A92) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Watoto](https://open.spotify.com/album/6zzlF1cZLfdxJlus1a4goT) | 2:31 | 2023-07-13 | 2024-01-20 |
 | [Weather for Two](https://open.spotify.com/track/5C5tBOd9KzSRXNQmZjDkwi) | [Fidel Rayd](https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x), [Clamer](https://open.spotify.com/artist/6uGf6kNDho47oA0FvRe9Ts), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Weather for Two](https://open.spotify.com/album/7giEL4Layeuo8DSErwuV1u) | 2:34 | 2024-05-09 |  |
 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 | 2023-08-17 |  |

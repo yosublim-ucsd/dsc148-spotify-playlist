@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Youka
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Wizkid
 
-711 songs - 1 day 11 hr 0 min
+712 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Gaga \(feat\. MHD\)](https://open.spotify.com/track/4wW5nnZXD7SyLxaASOsLil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Gaga \(feat\. MHD\)](https://open.spotify.com/album/0fkE3D4PFGjA3n0Kd3pmXR) | 3:45 | 2022-07-07 | 2022-11-11 |
 | [Gamos](https://open.spotify.com/track/4FRljYLUrjpYqcgfvYLsb1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 3:10 | 2022-08-18 | 2022-09-30 |
 | [Garde ta position](https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Garde ta position](https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8) | 2:13 | 2023-12-14 | 2024-02-23 |
-| [Gatement](https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Mixtape Ouenzé](https://open.spotify.com/album/6IrtQvKelurPOX14jel04E) | 1:56 | 2024-12-19 |  |
+| [Gatement](https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Mixtape Ouenzé](https://open.spotify.com/album/6IrtQvKelurPOX14jel04E) | 1:56 | 2024-12-19 | 2025-01-10 |
 | [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 | 2023-11-30 | 2023-12-15 |
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 | 2023-10-20 |
 | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/track/1Jt78L7jNVLD3hNo674jww) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/album/7perMKYhcKMnjPNqUx9Bfk) | 2:28 | 2023-06-08 | 2023-07-21 |
@@ -285,7 +285,7 @@
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2022-11-18 |
 | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/track/0shC9n2Ih1de0fSw8YcGoF) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Lixx](https://open.spotify.com/artist/6TfZaDFnfzNVj2YXgRUo9d) | [Go Bébé \(feat\. Lixx\)](https://open.spotify.com/album/0i7jOzWkrJXvRPI5kfwcwY) | 3:11 | 2022-09-08 | 2023-01-20 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-14 | 2024-04-19 |
-| [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-09-26 |  |
+| [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-09-26 | 2025-01-10 |
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-12-12 |  |
 | [Grand cru](https://open.spotify.com/track/1fuu6lFWFX9zZfrO5z9gUF) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [Grand cru](https://open.spotify.com/album/7Lnsxbz9mIxDL3Ehy89m5P) | 3:44 | 2022-04-14 | 2022-05-13 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-15 | 2024-09-13 |
@@ -348,6 +348,7 @@
 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 | 2023-04-06 | 2023-07-07 |
 | [Jolie bébé](https://open.spotify.com/track/5rsBs4jsJRkpNMziVn4xw0) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [De l'autre côté](https://open.spotify.com/album/4BDpKPjs4tVrdIYiUX0KEt) | 2:25 | 2024-07-11 | 2024-07-19 |
 | [JOY \(feat\. Olamide\)](https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ) | 2:45 | 2023-11-30 | 2024-01-12 |
+| [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-09 |  |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-09-26 | 2024-11-15 |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-11 | 2024-10-25 |
 | [Jusqu'à demain](https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Jusqu'à demain](https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7) | 2:37 | 2023-08-31 | 2023-11-17 |

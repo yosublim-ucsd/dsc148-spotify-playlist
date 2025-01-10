@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 ### [New Rap Hindi](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India\. Cover: Farhan Khan
+> Taaza Hip Hop Hindi\. Cover: Farhan Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,943 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,982 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 49 | [Iraade](https://open.spotify.com/track/0X6KaEVwPrkF1lhb4WA2mP) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV), [YXTO](https://open.spotify.com/artist/4Nhl3LGtmf1UEZjlNG5nyI), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Iraade](https://open.spotify.com/album/3NJXI5SnYGhzIHIYpZVpnv) | 2:48 |
 | 50 | [Gorilla \(with Rebel 7\)](https://open.spotify.com/track/7MBbENrJlmxDL8gVyNsw7o) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Khel Kood](https://open.spotify.com/album/2HQHTg4QiREEkkHAMnHxNa) | 2:21 |
 
-Snapshot ID: `Z3zpogAAAACkifo1lo3GkfQ8OitlpwMr`
+Snapshot ID: `Z39luwAAAAAdF5IRqwoAg5VHro3FJdjg`

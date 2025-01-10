@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553272,
+  "num_followers": 553247,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Indestructible (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Indestructible (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
         "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Clawfinger",
-        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
-      },
-      "artists": [
-        {
-          "name": "Clawfinger",
-          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Biggest & the Best",
-      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Disobedient",
         "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 185879,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Clawfinger",
+        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
+      },
+      "artists": [
+        {
+          "name": "Clawfinger",
+          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Biggest & the Best",
+      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
     },
     {
       "added_at": "2024-11-26 17:39:01",

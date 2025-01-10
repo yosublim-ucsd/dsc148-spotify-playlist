@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: White-B",
-  "num_followers": 43174,
+  "num_followers": 43175,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "penelope",
-        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 194902,
-      "name": "penelope",
-      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "Hockey",
         "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
       },
@@ -515,6 +499,38 @@
       "duration_ms": 176027,
       "name": "Hockey",
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "Essonne History X",
+        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Belle madame",
+      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -587,22 +603,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Essonne History X",
-        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Belle madame",
-      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "Tu vas me quitter encore longtemps ?",
         "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "P\u014dse\u00efd\u00f8n",
-        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 248544,
-      "name": "P\u014dse\u00efd\u00f8n",
-      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "PROSECCO",
         "url": "https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 203902,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "P\u014dse\u00efd\u00f8n",
+        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "P\u014dse\u00efd\u00f8n",
+      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -743,34 +743,18 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+        "name": "Vendredi soir",
+        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
         }
       ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "MON ANN\u00c9E",
-        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 148024,
-      "name": "MON ANN\u00c9E",
-      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
+      "duration_ms": 192000,
+      "name": "Vendredi soir",
+      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -815,18 +799,34 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Vendredi soir",
-        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
       },
       "artists": [
         {
-          "name": "JKSN",
-          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vendredi soir",
-      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "MON ANN\u00c9E",
+        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 148024,
+      "name": "MON ANN\u00c9E",
+      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "CAPITALE DU CRIME RADIO",
-        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "En rapide",
-      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/6pOnhEjbFYuCube8Mz9b6X"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 234680,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/7Bpms8NIDxsJ7lqfyLfoyv"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "En rapide",
+      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
     },
     {
       "added_at": "2025-01-03 05:00:21",

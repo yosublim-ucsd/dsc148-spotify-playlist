@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 328735,
+  "num_followers": 328737,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,30 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
         "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 243490,
       "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -587,34 +587,22 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
-        "name": "Beckham",
-        "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "Dee Billz",
-          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        },
-        {
-          "name": "Kai Swervo",
-          "url": "https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2"
-        },
-        {
-          "name": "KJ Swervo",
-          "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
-        },
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 124931,
-      "name": "Beckham",
-      "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -655,22 +643,34 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Beckham",
+        "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Kai Swervo",
+          "url": "https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2"
+        },
+        {
+          "name": "KJ Swervo",
+          "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 124931,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "Stupid Again",
+      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
         "name": "La Maquina",
         "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Stupid Again",
-      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
         "name": "ALL TEN (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 196394,
       "name": "ALL TEN (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-12-13 16:48:27",

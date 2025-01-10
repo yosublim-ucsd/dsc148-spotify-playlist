@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
+  "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194296,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
+    },
+    {
+      "album": {
         "name": "Cherry Pie",
         "url": "https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 244665,
       "name": "Every Drop",
       "url": "https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq"
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/7BJl1tH4gp1egCQdD5pQIh"
+      },
+      "artists": [
+        {
+          "name": "Nik Brinkman",
+          "url": "https://open.spotify.com/artist/5gI4KPyP30hO56IyyBpC3O"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu"
+    },
+    {
+      "album": {
         "name": "i don't want you to miss this",
         "url": "https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p"
       },
@@ -2626,6 +2662,24 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+    },
+    {
+      "album": {
+        "name": "need u worse",
+        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225073,
+      "name": "need u worse",
+      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
     },
     {
       "album": {
@@ -3658,7 +3712,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184684,
       "name": "The War On Art",
       "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"

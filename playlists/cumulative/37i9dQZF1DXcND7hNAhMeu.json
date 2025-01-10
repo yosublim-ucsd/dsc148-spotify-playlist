@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 152790,
       "name": "Asl\u0131nda",
       "url": "https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0"
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "eYeSiGht",
+        "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "eYeSiGht",
+      "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
+    },
+    {
+      "album": {
         "name": "Fal",
         "url": "https://open.spotify.com/album/1eDoPJNZ6eMTVKg147XMAY"
       },
@@ -604,6 +622,24 @@
       "duration_ms": 173382,
       "name": "G\u00fcn Batarken",
       "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
+    },
+    {
+      "album": {
+        "name": "Hayran",
+        "url": "https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132103,
+      "name": "Hayran",
+      "url": "https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01"
     },
     {
       "album": {
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194160,
       "name": "Vah Benim Halime",
       "url": "https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt"

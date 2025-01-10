@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: The Velveteers",
+  "description": "The best new music from the wide world of punk. Cover: Lambrini Girls ",
   "name": "All New Punk",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 51613,
       "name": "3am",
       "url": "https://open.spotify.com/track/7mPIYg1KJ9AxPbEuyYPQMp"
@@ -3854,7 +3854,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
@@ -3984,6 +3984,24 @@
       "duration_ms": 132706,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4neGom5qBXNpZinJ6hCcjw"
+    },
+    {
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0Y0a1PZ4S3XGSQqZVNFo5R"
+      },
+      "artists": [
+        {
+          "name": "Makeshift Art Bar",
+          "url": "https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/1izOkBHkWXSgOKz4ijDKBl"
     },
     {
       "album": {
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 174698,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4ptTXYOOZIJKZnON6rByf7"
@@ -5610,6 +5628,24 @@
       "duration_ms": 187138,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6vgen2mRieJZ8MOvZzPgBW"
+    },
+    {
+      "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
     },
     {
       "album": {
@@ -8383,6 +8419,24 @@
     },
     {
       "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Cuntology 101",
+      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
+    },
+    {
+      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK"
       },
@@ -9474,7 +9528,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149675,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/7d8RNQtTsLsPk0ya4TjnwS"
@@ -10264,7 +10318,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213333,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE"
@@ -10724,6 +10778,28 @@
       "duration_ms": 185060,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
+    },
+    {
+      "album": {
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
     },
     {
       "album": {
@@ -14568,7 +14644,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 165900,
       "name": "Gossip",
       "url": "https://open.spotify.com/track/7CrDzSEaTaZ4WjizyXSNoI"
@@ -18380,7 +18456,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 236878,
       "name": "It Burns",
       "url": "https://open.spotify.com/track/3ssKFAJaBfKXraeAODJxxO"
@@ -18434,7 +18510,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 148592,
       "name": "It Follows",
       "url": "https://open.spotify.com/track/6k7YMKxz3kA2b46K3x59y6"
@@ -27979,6 +28055,24 @@
     },
     {
       "album": {
+        "name": "R U FAMOUS",
+        "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "R U FAMOUS",
+      "url": "https://open.spotify.com/track/60EWZ7bTwOdc1vzC9OYajv"
+    },
+    {
+      "album": {
         "name": "R.I.P",
         "url": "https://open.spotify.com/album/6toev0ULibvYWipK05GDXr"
       },
@@ -32301,6 +32395,24 @@
     },
     {
       "album": {
+        "name": "New Wave Vaudeville",
+        "url": "https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7"
+      },
+      "artists": [
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203211,
+      "name": "Sour Milk",
+      "url": "https://open.spotify.com/track/2RZ7FUkeNqfZmIyjeB9P63"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5DGjGDSAtVT3wDvRfgOrWr"
       },
@@ -32424,6 +32536,24 @@
       "duration_ms": 89311,
       "name": "spin the bottle",
       "url": "https://open.spotify.com/track/7JXtmsHpGslWNlBloLG8WP"
+    },
+    {
+      "album": {
+        "name": "Keep Planting Flowers",
+        "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "Spineless",
+      "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
     },
     {
       "album": {
@@ -33488,7 +33618,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 159999,
       "name": "Sufre Kabr\u00f3n",
       "url": "https://open.spotify.com/track/6UOhEb5hNZNkoUPMesa2GJ"
@@ -34130,6 +34260,24 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "album": {
@@ -34808,7 +34956,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234096,
       "name": "Ten Digits Away - Deluxe",
       "url": "https://open.spotify.com/track/55eig4Ar8q2HfhpL9m86W0"
@@ -35626,6 +35774,24 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/1CbdsILSyFJWcCBGFKlcM7"
+      },
+      "artists": [
+        {
+          "name": "Death By Unga Bunga",
+          "url": "https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164741,
+      "name": "The Recipe",
+      "url": "https://open.spotify.com/track/3NASP9IkcrulrSZl8otyFd"
     },
     {
       "album": {
@@ -37232,6 +37398,24 @@
       "duration_ms": 191574,
       "name": "Tunnel Vision Alibi",
       "url": "https://open.spotify.com/track/2nXRw3r7QhOAIiXmcH2lY6"
+    },
+    {
+      "album": {
+        "name": "Turn Away",
+        "url": "https://open.spotify.com/album/1ADUWIQgjZaZEvq86GjkYB"
+      },
+      "artists": [
+        {
+          "name": "Peacebreach",
+          "url": "https://open.spotify.com/artist/5NesLY9WS9eE9Kf7ljhBq0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167285,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/1mHgzfXK8OtiHBqYwCmHeG"
     },
     {
       "album": {
@@ -39824,7 +40008,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176293,
       "name": "Without Msg I Am Nothing - 2024 Remaster",
       "url": "https://open.spotify.com/track/6mvrGntqZdIqPrOFJu5xRg"

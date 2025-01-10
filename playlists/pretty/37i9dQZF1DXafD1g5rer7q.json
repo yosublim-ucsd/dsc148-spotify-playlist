@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 422956,
+  "num_followers": 423082,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 157202,
       "name": "SOS (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "Mr. Saxobeat",
-        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
       },
       "artists": [
         {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
         }
       ],
-      "duration_ms": 151181,
-      "name": "Mr. Saxobeat",
-      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
+      "duration_ms": 203225,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     }
   ],
   "unique_name": "EDM Samplings",

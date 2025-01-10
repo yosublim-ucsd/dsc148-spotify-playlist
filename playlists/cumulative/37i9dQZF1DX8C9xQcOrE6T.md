@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.
 
-220 songs - 11 hr 13 min
+221 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Supercalifragilisticexpialidocious \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/5mXBaDm21IbxvWSl1AHCpq) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [The Pearlie Chorus](https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw) | [The Sherman Brothers Songbook](https://open.spotify.com/album/3PlbEOxE8rE8xf7mDWdpgb) | 2:01 | 2022-04-01 | 2022-07-29 |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-04-01 |  |
 | [Swing](https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:04 | 2023-11-16 | 2024-07-11 |
+| [Tell Me It's You](https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az) | [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Tiffany Boone](https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 2:27 | 2025-01-09 |  |
 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 | 2022-10-07 |  |
 | [The Aristocats](https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Songs From The Aristocats](https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z) | 2:20 | 2022-05-26 |  |
 | [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 | 2024-10-17 |  |

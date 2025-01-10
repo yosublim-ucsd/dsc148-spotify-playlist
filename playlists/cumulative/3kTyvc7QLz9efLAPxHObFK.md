@@ -4,7 +4,7 @@
 
 > 
 
-1,937 songs - 4 day 7 hr 4 min
+1,938 songs - 4 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1416,6 +1416,7 @@
 | [Raving Nation](https://open.spotify.com/track/7mN3Yz9haUzuEMO0ajuF9o) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc), [Relyt MC](https://open.spotify.com/artist/4AJoxrBYymHgOJ50RWOrjr) | [Raving Nation](https://open.spotify.com/album/772QcKP10mW8h8DY5CGFrq) | 3:19 | 2022-02-22 |  |
 | [Raw Resurgence \- Official Supremacy 2023 Anthem](https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Raw Resurgence \(Official Supremacy 2023 Anthem\)](https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN) | 5:20 | 2023-09-11 |  |
 | [Ready 4 War](https://open.spotify.com/track/5NjDbPkYPZaj4uVn3SwDhX) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz) | [Ready 4 War](https://open.spotify.com/album/0qamcDUWNqmtZALJITnFCR) | 3:18 | 2023-09-06 |  |
+| [Ready For It](https://open.spotify.com/track/3MGTpnhmgUQ3UGQrKGTdOp) | [X\-Cursion](https://open.spotify.com/artist/4ihqnGOCry0RFLnGuP6Wcz) | [Ready For It](https://open.spotify.com/album/1yOLpXWXNBujcGx93E8S4S) | 3:37 | 2025-01-10 |  |
 | [Ready To Rage](https://open.spotify.com/track/6SK7B0VJ0vcIBECNjjYa2Z) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Brutaal](https://open.spotify.com/artist/2L75XehpwmdRiCRtT8ctiU) | [Ready To Rage](https://open.spotify.com/album/3jjIRRKqHiJAC6iU7xZlVY) | 3:48 | 2022-09-06 |  |
 | [Ready To Roll \- Deluzion Remix](https://open.spotify.com/track/0MdU4Bbbwd3Z314HwZj4um) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB) | [Ready To Roll \(Deluzion Remix\)](https://open.spotify.com/album/0FNcTK2m56Lop2faUm21US) | 3:51 | 2023-06-26 |  |
 | [Realize](https://open.spotify.com/track/28KbKarBWiWn8UqX8sVZYp) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0) | [Realize](https://open.spotify.com/album/5XcHg93pk84hS3dQcJ9dEh) | 3:29 | 2023-02-06 |  |

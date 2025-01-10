@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Superstar!!\" \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!\n",
-  "num_followers": 10481,
+  "num_followers": 10489,
   "original_name": "Love Live! Superstar!!",
   "owner": {
     "name": "Spotify",
@@ -539,54 +539,6 @@
     {
       "added_at": "2025-01-07 15:00:38",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
-          "url": "https://open.spotify.com/artist/0m7iEADKInye7VJUryESTH"
-        }
-      ],
-      "duration_ms": 197019,
-      "name": "\u30ac\u30e9\u30b9\u30dc\u30fc\u30eb\u30ea\u30b8\u30a7\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3AWf6m8kodABG5zHwGlwMF"
-    },
-    {
-      "added_at": "2025-01-07 15:00:38",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
-          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
-    },
-    {
-      "added_at": "2025-01-07 15:00:38",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
-          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "Ringing!",
-      "url": "https://open.spotify.com/track/1kHJGOQklAJfCtzOL1qQPV"
-    },
-    {
-      "added_at": "2025-01-07 15:00:38",
-      "album": {
         "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
         "url": "https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx"
       },
@@ -623,6 +575,54 @@
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
+    },
+    {
+      "added_at": "2025-01-07 15:00:38",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
+          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
+    },
+    {
+      "added_at": "2025-01-07 15:00:38",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
+          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Ringing!",
+      "url": "https://open.spotify.com/track/1kHJGOQklAJfCtzOL1qQPV"
+    },
+    {
+      "added_at": "2025-01-07 15:00:38",
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
+          "url": "https://open.spotify.com/artist/0m7iEADKInye7VJUryESTH"
+        }
+      ],
+      "duration_ms": 197019,
+      "name": "\u30ac\u30e9\u30b9\u30dc\u30fc\u30eb\u30ea\u30b8\u30a7\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3AWf6m8kodABG5zHwGlwMF"
     },
     {
       "added_at": "2025-01-07 15:00:38",

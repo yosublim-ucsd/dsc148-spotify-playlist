@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > hunter metts on 🔁
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,834 likes - 135 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,865 likes - 135 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

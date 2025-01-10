@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 12 min
+117 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blood and Whiskey](https://open.spotify.com/track/686FZUtOvjfdhSsyjbGfXb) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 1:47 | 2022-09-16 | 2022-10-06 |
 | [Boys on the Docks](https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:33 | 2022-09-16 |  |
 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 | 2023-05-13 | 2024-10-26 |
+| [Broken Hymns](https://open.spotify.com/track/6A4LNBVzs1Oe1ZOgR00EYX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 5:03 | 2025-01-10 |  |
 | [Cadence To Arms](https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:49 | 2022-09-16 |  |
 | [Cadillac, Cadillac](https://open.spotify.com/track/3e46b4yxZyHMV2MEMvcU7n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:53 | 2022-10-04 | 2022-10-13 |
 | [Cadillac, Cadillac \(feat\. Sammy Amara of Broilers\) \- Bonus Track](https://open.spotify.com/track/3BI2VcceUXegNQ9WCzc7J3) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Sammy Amara](https://open.spotify.com/artist/4RBEJH5AwRE4dQT2qBmi6p), [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:53 | 2023-01-15 | 2023-03-06 |
@@ -56,7 +57,7 @@
 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/6WNAhQVBolZgVfyxWd0z7I) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times](https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij) | 3:54 | 2022-09-16 | 2022-12-21 |
 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/7qjKgC94B30FRoOcHnMrfx) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times Limited Edition](https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx) | 3:54 | 2022-12-21 | 2023-01-28 |
 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 | 2022-09-16 |  |
-| [Loyal To No One](https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 2:25 | 2023-03-29 |  |
+| [Loyal To No One](https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 2:25 | 2023-03-29 | 2025-01-10 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2AYYP2v43sgjA8ygBnGyxy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 2:38 | 2022-09-16 | 2023-02-02 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:40 | 2023-02-01 |  |
 | [Middle Finger](https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 2:35 | 2022-09-18 | 2023-02-01 |

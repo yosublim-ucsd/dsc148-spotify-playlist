@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=tG4MaeqATyy99sieyrV6dQ">Riaan Benadé</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=8Eo243HgQxK\-GWWPjOzeLg">JAN JAN JAN</a>
 
 262 songs - 14 hr 32 min
 

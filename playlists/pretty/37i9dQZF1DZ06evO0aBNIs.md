@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,572 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,721 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 48 | [Listen \(featuring Avril Lavigne\)](https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Ambitions](https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b) | 3:38 |
 | 49 | [F.U.](https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:47 |
 | 50 | [Tell Me It's Over](https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:08 |
-| 51 | [Lean on Me \- ArtistsCAN](https://open.spotify.com/track/7ejusxgMqURCcMQa0fdOwl) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed), [Dan Kanter](https://open.spotify.com/artist/6BifD1GWsFMGLZnfYw0uVE), [Desiire](https://open.spotify.com/artist/3FKDrJjdEpzGNFgwVkzagd), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa), [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [TiKA](https://open.spotify.com/artist/7rBEyjzKmTmWrrhSOhxspU), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Lean on Me \- ArtistsCAN](https://open.spotify.com/album/7fPGIJOxWbsae3wWYnydNj) | 4:02 |
+| 51 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 |
 
-Snapshot ID: `Z3xugAAAAAA6ki7+OBU4nd9LHG58UcOa`
+Snapshot ID: `Z33AAAAAAABUf2IjTg2t9HSNQ+pM4VVv`

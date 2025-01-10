@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-124 songs - 6 hr 59 min
+125 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Expensive](https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Expensive](https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8) | 2:41 | 2024-10-22 | 2024-11-09 |
 | [Fink](https://open.spotify.com/track/4vmmaBXaplcAyGVlQiPRuf) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Atlas](https://open.spotify.com/album/6I8s8s1g77v6fBYImKv1yz) | 3:10 | 2024-08-28 | 2024-10-10 |
 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 | 2024-08-02 |  |
+| [FOREVER](https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:31 | 2025-01-09 |  |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-02-29 |  |
 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 |  |
 | [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 |  |

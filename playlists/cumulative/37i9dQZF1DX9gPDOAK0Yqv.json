@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-25",
-  "description": "A hypnotic journey through Melodic Techno.",
+  "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
   "name": "Melodic Techno Elements",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "Ana",
       "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
@@ -1032,6 +1032,24 @@
       "duration_ms": 371976,
       "name": "Back Up",
       "url": "https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ"
+    },
+    {
+      "album": {
+        "name": "Odd Ones V3",
+        "url": "https://open.spotify.com/album/6uZsOAn5vwihIF5bh6mRlM"
+      },
+      "artists": [
+        {
+          "name": "Naeiiv",
+          "url": "https://open.spotify.com/artist/2abcn9W6DWwhy0oHuYZ0VU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320345,
+      "name": "Backdraft",
+      "url": "https://open.spotify.com/track/1OSqD3s36O6gsAweU52auZ"
     },
     {
       "album": {
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 224634,
       "name": "Eyes Open, Mind Free",
       "url": "https://open.spotify.com/track/6fLaa3R4VYfRDObtzgic6a"
@@ -5473,6 +5491,28 @@
     },
     {
       "album": {
+        "name": "Hypnotized (feat. Ellie Goulding)",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
         "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
@@ -6218,6 +6258,28 @@
       "duration_ms": 415542,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL"
+    },
+    {
+      "album": {
+        "name": "Last Night (Korolova Remix)",
+        "url": "https://open.spotify.com/album/1xcEl66LnB3qYVJrkIf4Mf"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Last Night (Korolova Remix)",
+      "url": "https://open.spotify.com/track/6cg1PezjpVSRsRa7f9SnIP"
     },
     {
       "album": {
@@ -8038,7 +8100,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 204285,
       "name": "Nothing Ever Changes - Agents of Time Remix",
       "url": "https://open.spotify.com/track/2XAxDEYtT8X5ZLm7hktDOG"
@@ -8370,7 +8432,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226423,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj"
@@ -8526,7 +8588,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 230087,
       "name": "Pankrepas",
       "url": "https://open.spotify.com/track/39Ynos9s3WJPvss8z4JBg8"
@@ -10534,7 +10596,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195238,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal"
@@ -11651,6 +11713,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200683,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww"
+    },
+    {
+      "album": {
         "name": "The First Rebirth",
         "url": "https://open.spotify.com/album/5WZUYgzp0bkcGosnYBiG10"
       },
@@ -12261,6 +12341,32 @@
     },
     {
       "album": {
+        "name": "Told You So (Remixes Vol. 2)",
+        "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Told You So - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV"
+    },
+    {
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/6iFAcQJoBbHrQVM0cyqOA0"
       },
@@ -12492,7 +12598,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 329523,
       "name": "Try",
       "url": "https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn"
@@ -13018,7 +13124,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 192619,
       "name": "Voices",
       "url": "https://open.spotify.com/track/26K0n0LCW6WB4AcFStHRVe"

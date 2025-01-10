@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193915,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn"
@@ -4664,6 +4664,24 @@
       "duration_ms": 232480,
       "name": "I Want It That Way - Piano Version",
       "url": "https://open.spotify.com/track/6uwARfP6HL4IRwrrLiZgiN"
+    },
+    {
+      "album": {
+        "name": "I Was Made for Lovin' You",
+        "url": "https://open.spotify.com/album/3N7gsbVH9EVTeasDTrsefv"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Holloway",
+          "url": "https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "I Was Made for Lovin' You",
+      "url": "https://open.spotify.com/track/6cSYfORSAwQJHlH1tcJRi1"
     },
     {
       "album": {
@@ -9938,6 +9956,24 @@
       "duration_ms": 176170,
       "name": "We Don't Need Another Hero",
       "url": "https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS"
+    },
+    {
+      "album": {
+        "name": "We Don't Talk Anymore",
+        "url": "https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9"
+      },
+      "artists": [
+        {
+          "name": "Carl Fredman",
+          "url": "https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "We Don't Talk Anymore",
+      "url": "https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 104273,
+  "num_followers": 104361,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -391,18 +391,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+        },
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
       "artists": [
         {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        },
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Apesar de Querer",
-        "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
+        "name": "15b",
+        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
       "artists": [
         {
@@ -1228,13 +1228,13 @@
           "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         },
         {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Apesar de Querer",
-      "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
+      "duration_ms": 163566,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 177343,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Louco de Amor",
         "url": "https://open.spotify.com/album/6HL0AK1xmdZyL5Kpqz1n3m"
       },
@@ -1379,26 +1359,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 163566,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi"
       },
@@ -1415,6 +1375,46 @@
       "duration_ms": 152961,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Apesar de Querer",
+        "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Apesar de Querer",
+      "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177343,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
     },
     {
       "added_at": "2023-11-24 08:42:40",

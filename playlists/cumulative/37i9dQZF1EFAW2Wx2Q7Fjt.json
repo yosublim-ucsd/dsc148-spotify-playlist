@@ -605,6 +605,42 @@
     },
     {
       "album": {
+        "name": "cowboy / hold my beer",
+        "url": "https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202419,
+      "name": "cowboy",
+      "url": "https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/3y6qzQ5ff1yK45AhmZqIuf"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148880,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/3eorMV6czNJXcThtrtVpxf"
+    },
+    {
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C"
       },
@@ -1314,6 +1350,24 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o"
       },
       "artists": [
@@ -1577,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "SKYVIEW",
+        "url": "https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177089,
+      "name": "Hi-Lo",
+      "url": "https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr"
+    },
+    {
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -1658,6 +1730,24 @@
       "duration_ms": 122416,
       "name": "hurt my feelings",
       "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
+    },
+    {
+      "album": {
+        "name": "I'm Down",
+        "url": "https://open.spotify.com/album/0UqKz8Er2Z2wUOf6IV9bmJ"
+      },
+      "artists": [
+        {
+          "name": "Tyne",
+          "url": "https://open.spotify.com/artist/3Jx3W1wDYqtavhoppI2HUl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189932,
+      "name": "I'm Down",
+      "url": "https://open.spotify.com/track/3yKXotuv0SJMG8LwH8CLVF"
     },
     {
       "album": {
@@ -1820,6 +1910,46 @@
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/27XYHCCh2pECOZe9WfZEb3"
+      },
+      "artists": [
+        {
+          "name": "Official Bhagat",
+          "url": "https://open.spotify.com/artist/0kja6sFd8iQGox9khkgnb6"
+        },
+        {
+          "name": "Amy",
+          "url": "https://open.spotify.com/artist/0R7wD4XKFvISmoVvj2az8Q"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116328,
+      "name": "King",
+      "url": "https://open.spotify.com/track/46twNvj8BanPZ5wl7iLyGK"
+    },
+    {
+      "album": {
+        "name": "Let Me Go (Instrumental)",
+        "url": "https://open.spotify.com/album/2wJbWLIwVT45D8wygrsqaa"
+      },
+      "artists": [
+        {
+          "name": "Scott Harris Regime",
+          "url": "https://open.spotify.com/artist/2yro7dWGwua6hWns59sLTT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285059,
+      "name": "Let Me Go (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/3ygdY5LcAPAPBCMZK35H0p"
     },
     {
       "album": {
@@ -2204,6 +2334,28 @@
       "duration_ms": 189232,
       "name": "New Angel",
       "url": "https://open.spotify.com/track/3lMIgIO9HkPxnAZGmtTdpT"
+    },
+    {
+      "album": {
+        "name": "What Lies Ahead EP",
+        "url": "https://open.spotify.com/album/6KPFrLQYp0joJx6dHvIUmV"
+      },
+      "artists": [
+        {
+          "name": "Scott Allen",
+          "url": "https://open.spotify.com/artist/4OxXHoTHTjXApAAaLeV7HO"
+        },
+        {
+          "name": "Blade (Dnb)",
+          "url": "https://open.spotify.com/artist/68raoKQ2vlTDPaS0RXkECL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356301,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/0S7nSjv4erfKucpSUqA7ee"
     },
     {
       "album": {
@@ -3352,6 +3504,24 @@
       "duration_ms": 364114,
       "name": "Wind Tempos",
       "url": "https://open.spotify.com/track/53yn0gTKz24HM4ncMcLWwS"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/7z6R3gcDlPrczUIi5Rqp8b"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158814,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/2mP9Uzm5ZlZZlhzHPGdwsO"
     },
     {
       "album": {

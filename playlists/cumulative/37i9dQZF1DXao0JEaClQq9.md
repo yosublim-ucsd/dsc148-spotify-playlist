@@ -2,7 +2,7 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: ML Buch
+> Modern heavenly sounds\. Cover: Ethel Cain
 
 675 songs - 1 day 18 hr 26 min
 

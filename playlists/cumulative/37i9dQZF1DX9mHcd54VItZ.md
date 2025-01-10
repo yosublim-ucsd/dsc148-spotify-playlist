@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS\-Bo0HjQ">Vancoet</a>
 
-564 songs - 1 day 9 hr 29 min
+566 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 | 2024-07-11 | 2024-09-09 |
 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 |  |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
-| [Jy Dink Jy's Die Een](https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Jy Dink Jy's Die Een](https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP) | 3:06 | 2025-01-02 |  |
+| [Jy Dink Jy's Die Een](https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Jy Dink Jy's Die Een](https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP) | 3:06 | 2025-01-02 | 2025-01-10 |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
 | [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 | 2024-01-05 |
 | [Kat & Die Muis](https://open.spotify.com/track/2cAZaOs9ODCSnVgn3rvJUV) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Kat & Die Muis](https://open.spotify.com/album/5RJbpF52gxSaUUjJywDLou) | 3:03 | 2024-12-05 | 2025-01-01 |
@@ -331,6 +331,7 @@
 | [Monitor](https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Monitor](https://open.spotify.com/album/41UZWeiuFGm0GaXb8bjQm9) | 3:35 | 2023-03-09 | 2023-08-05 |
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |
 | [MONSTER](https://open.spotify.com/track/114TXFPWIi2iISkXtGjLCN) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [MONSTER](https://open.spotify.com/album/3IWzdjrJFlVaom1WYTzngo) | 2:38 | 2022-09-15 | 2022-11-18 |
+| [Moon and Stars](https://open.spotify.com/track/0re6xyn8vMeAyZhXDodEIx) | [Emile Gerber](https://open.spotify.com/artist/7DxpMWgZjDeVs84HObL00o) | [Moon and Stars](https://open.spotify.com/album/67PHONJNDRPZViV7HG6T5z) | 2:31 | 2025-01-09 |  |
 | [Moth Eater](https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Moth Eater](https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3) | 5:23 | 2024-10-04 | 2024-11-22 |
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
 | [Murmurs](https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Murmurs](https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1) | 4:10 | 2024-07-04 | 2024-08-16 |
@@ -370,7 +371,7 @@
 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 | 2024-01-04 | 2024-10-26 |
 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 | 2024-11-08 |  |
 | [Optimistic](https://open.spotify.com/track/6BEAF04SxrZhHpjM0SDSEj) | [National Lakes](https://open.spotify.com/artist/3vOdpylUMXYBdIkKnBjDyO) | [Entertainment](https://open.spotify.com/album/5KXDsW4krGCMFYi8PYvX0n) | 3:40 | 2024-12-12 | 2024-12-20 |
-| [Original Nightmare](https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5) | [Whitecollar](https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q) | [Original Nightmare](https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr) | 3:49 | 2025-01-02 |  |
+| [Original Nightmare](https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5) | [Whitecollar](https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q) | [Original Nightmare](https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr) | 3:49 | 2025-01-02 | 2025-01-10 |
 | [Oud Geword](https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Oud Geword](https://open.spotify.com/album/70VkQsYTEX51832qXP82U1) | 3:03 | 2023-05-25 | 2023-09-01 |
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
 | [Out In The Open](https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [Friendly Neighbourhood Conspiracies](https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j) | 3:44 | 2024-02-22 | 2024-03-30 |
@@ -383,6 +384,7 @@
 | [Pandemonium](https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S) | [Loveth Besamoh](https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX) | [WEATHER REPORT](https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT) | 3:58 | 2024-10-04 | 2024-11-10 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
+| [Part of Your Kind](https://open.spotify.com/track/1h83MOXEOMdH3XqhUan5cz) | [Ys Van Die Koud](https://open.spotify.com/artist/2BIUeAfAunTs5fAsR1xaef) | [Ys Up My Sleeve](https://open.spotify.com/album/2i27DOFkKmjWVB5gRYU1vk) | 3:40 | 2025-01-09 |  |
 | [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 | 2023-07-29 |
 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 | 2024-02-22 | 2024-04-27 |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-12 |  |

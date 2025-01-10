@@ -2,7 +2,7 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Anatomy Rabbit
+> เพลย์ลิสต์พิเศษวันเด็ก อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Dept
 
 83 songs - 5 hr 46 min
 

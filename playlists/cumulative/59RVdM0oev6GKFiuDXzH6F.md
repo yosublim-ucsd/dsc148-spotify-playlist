@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/59RVdM0oev6GKFiuDXzH6F.md) - cumulative - [plain](/playlists/plain/59RVdM0oev6GKFiuDXzH6F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/59RVdM0oev6GKFiuDXzH6F)
 
-### [Tech House & Clubbing 2024](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
+### [Tech House & Clubbing 2025](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-919 songs - 1 day 22 hr 55 min
+920 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Naughty](https://open.spotify.com/track/56HE8zzcJZAF3OZUgCBmQB) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rydz](https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC) | [Naughty](https://open.spotify.com/album/5IWGUvSPVF8mnbfHyJ6s2a) | 2:34 | 2024-06-17 | 2024-09-26 |
 | [Need You Tonight](https://open.spotify.com/track/0qiVfBD3w55Yb62Ie5c2XZ) | [Marvel Riot](https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Need You Tonight](https://open.spotify.com/album/22dSYgnOpPTX7nlNKnBM7j) | 3:22 | 2023-05-05 | 2023-12-23 |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-10 | 2024-10-11 |
+| [Never Go Back](https://open.spotify.com/track/1qrYKjngQSC0TdyYqEZ7xe) | [RBØR](https://open.spotify.com/artist/1FWrDSWQin78IrPIvPEaJr), [Simo Moumen](https://open.spotify.com/artist/3jlzWAj3Jpd0TQnXfo3f3W) | [Never Go Back](https://open.spotify.com/album/3cP434reUXy3gCTzqJmS0p) | 3:09 | 2025-01-09 |  |
 | [Never Leave You](https://open.spotify.com/track/7hEaJBwQ4vi1JtLtDXUJKi) | [Luis Elba](https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le) | [Never Leave You](https://open.spotify.com/album/2MK9p02017KTHVt46JNZWz) | 2:48 | 2024-12-05 |  |
 | [Nikes](https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes](https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK) | 2:29 | 2023-03-10 | 2023-12-23 |
 | [Nikes \(Vibratto Remix\)](https://open.spotify.com/track/7dZUxsCFtzly8XT2dqGMPN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Vibratto](https://open.spotify.com/artist/30ImX6Sl7GjwuAXE66eKlX) | [Nikes \(Vibratto Remix\)](https://open.spotify.com/album/6wMvy3jWbuYClWraGJMXOf) | 2:33 | 2023-04-27 | 2023-12-14 |

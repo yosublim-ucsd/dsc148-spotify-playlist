@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.",
-  "num_followers": 5479769,
+  "num_followers": 5480959,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33EvgAAAAC40+0SjhENyk2lM8u9Pcjw",
+  "snapshot_id": "Z4BcdQAAAAAUAOobgK72EvKkXcixO7co",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -119,6 +119,30 @@
       "duration_ms": 230266,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/5zgbAqSzbhTabnlRuutw3X"
+    },
+    {
+      "added_at": "2025-01-09 23:32:05",
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Tiffany Boone",
+          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Tell Me It's You",
+      "url": "https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az"
     },
     {
       "added_at": "2024-01-08 22:56:36",

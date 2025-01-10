@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: Quest Pistols
+> Топові новинки української та світової поп\-музики\. Обкладинка: Nessa Barrett
 
-231 songs - 11 hr 29 min
+232 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-06-27 | 2024-09-14 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
+| [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 |  |
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 | 2024-08-02 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-26 |  |
@@ -177,7 +178,7 @@
 | [Мила не плач](https://open.spotify.com/track/26a03jbLXKK0HZJFR7GCjQ) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Мила не плач](https://open.spotify.com/album/1Tg0s1XiaFD35alwbja7Y8) | 2:21 | 2024-10-10 | 2024-11-01 |
 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 | 2024-10-31 |  |
 | [Мушлі](https://open.spotify.com/track/1MT7KlBpObJuNOR0ALsuh0) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Мушлі](https://open.spotify.com/album/3PvqKzs0AmRYYST6OzvSbx) | 2:44 | 2024-08-30 | 2024-09-21 |
-| [Мій Санта](https://open.spotify.com/track/3fmhgj3IllD78D9wYhe5kq) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Мій Санта](https://open.spotify.com/album/6fhwxKbknOQV4PUJBDnkyr) | 2:40 | 2024-12-19 |  |
+| [Мій Санта](https://open.spotify.com/track/3fmhgj3IllD78D9wYhe5kq) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Мій Санта](https://open.spotify.com/album/6fhwxKbknOQV4PUJBDnkyr) | 2:40 | 2024-12-19 | 2025-01-10 |
 | [МІНІМУМ](https://open.spotify.com/track/2iHe7kpR2XQ9dUYDiH4dJG) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [МІНІМУМ](https://open.spotify.com/album/2kJhT7vq2IvDwRpOLEGv2S) | 2:41 | 2024-11-14 | 2024-11-29 |
 | [На нічному небі](https://open.spotify.com/track/44il5IyxWcQ79aDkB2VVDZ) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Svyatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [На нічному небі](https://open.spotify.com/album/0q7PaMgEklykA15z8bblGk) | 3:51 | 2024-10-04 | 2024-12-11 |
 | [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 | 2024-12-19 | 2024-12-28 |

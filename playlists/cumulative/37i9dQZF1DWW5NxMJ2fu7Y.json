@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD"
+    },
+    {
+      "album": {
         "name": "FOUTINI",
         "url": "https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8"
       },

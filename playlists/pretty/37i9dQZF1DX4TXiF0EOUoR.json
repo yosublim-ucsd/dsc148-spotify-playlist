@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 223244,
+  "num_followers": 223378,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Comandos de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6fV1noTc4bEO1CfW8wkoFA"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de la Banda",
+          "url": "https://open.spotify.com/artist/1eDU6zze1IhtqUGcLu026H"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Peque\u00f1a De Ojos Brujos",
+      "url": "https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "La Trayectoria! (De Arturo Camarillo)",
         "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 164466,
       "name": "Oye Traicionera",
       "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Comandos de Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/6fV1noTc4bEO1CfW8wkoFA"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de la Banda",
-          "url": "https://open.spotify.com/artist/1eDU6zze1IhtqUGcLu026H"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Peque\u00f1a De Ojos Brujos",
-      "url": "https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+        "name": "La Reyna de los Sones",
+        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
       },
       "artists": [
         {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
         }
       ],
-      "duration_ms": 128224,
-      "name": "Las Calandrias",
-      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+      "duration_ms": 202760,
+      "name": "La Diana Ranchera",
+      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "La Reyna de los Sones",
-        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
       "artists": [
         {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 202760,
-      "name": "La Diana Ranchera",
-      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
     },
     {
       "added_at": "2024-08-28 01:03:24",

@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 294053,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/5qKd8h7Mv5DeJE2UTEr6EQ"
@@ -1458,6 +1458,28 @@
       "duration_ms": 153780,
       "name": "Doh Doh Doh",
       "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
+    },
+    {
+      "album": {
+        "name": "Doing Of The Lord",
+        "url": "https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258441,
+      "name": "Doing Of The Lord",
+      "url": "https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY"
     },
     {
       "album": {
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 257683,
       "name": "In My Boat",
       "url": "https://open.spotify.com/track/1KfbRIYua7t2d7340wL3Pq"
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 365217,
       "name": "King Forever",
       "url": "https://open.spotify.com/track/5FGeFdpVtoI7cFv4q835Ou"
@@ -5854,7 +5876,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
@@ -6490,7 +6512,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"

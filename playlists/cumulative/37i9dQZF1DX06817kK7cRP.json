@@ -3709,6 +3709,28 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
+      },
+      "artists": [
+        {
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc"
       },
@@ -3910,7 +3932,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 121481,
       "name": "The Special",
       "url": "https://open.spotify.com/track/0clBXqkR2kqIhkAGdSnSHB"

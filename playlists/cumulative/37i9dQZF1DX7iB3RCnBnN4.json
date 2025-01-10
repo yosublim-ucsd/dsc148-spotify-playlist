@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Celebrating <a href=\"spotify:episode:2PbEx8o9c7rG9gyaklweox\">Billions Club Live with The Weekend: A Concert Film</a>  with our 25x billionaire. ",
+  "description": "All the songs with more than 1 Billion streams on Spotify. Cover: Britney Spears",
   "name": "BILLIONS CLUB",
   "tracks": [
+    {
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
     {
       "album": {
         "name": "Everybody",

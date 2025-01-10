@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Social Club",
+          "url": "https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147594,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML"
+    },
+    {
+      "album": {
         "name": "Find Love Now",
         "url": "https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF"
       },
@@ -1782,6 +1804,24 @@
       "duration_ms": 196439,
       "name": "Indulge",
       "url": "https://open.spotify.com/track/4UVGz5y0PEtKDIcyiMfnB3"
+    },
+    {
+      "album": {
+        "name": "Indulge",
+        "url": "https://open.spotify.com/album/4s5D0B28uC62s9KHCeKjBJ"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223458,
+      "name": "Indulge - Jam City Alt Mix",
+      "url": "https://open.spotify.com/track/5lw2SgDxOTzIzLjOmTsVQa"
     },
     {
       "album": {

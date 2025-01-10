@@ -4,7 +4,7 @@
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-151 songs - 7 hr 32 min
+152 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [AIRTAG](https://open.spotify.com/track/5ddhivmvWu0Ft4rOv3CVKM) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [AIRTAG](https://open.spotify.com/album/00kvXB7htLlMijYjFQth8w) | 2:24 | 2024-08-19 | 2024-10-12 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-11-27 |  |
 | [All The Love That I Ever Needed](https://open.spotify.com/track/3iRzKwxzeAiyCnSjrjVCGx) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Who We Used To Be \(Deluxe\)](https://open.spotify.com/album/2aURKhuptoXbOAzoDth1BK) | 3:17 | 2024-06-20 | 2024-08-08 |
-| [Alles nichts ohne dich \- Aus "Die Schule der magischen Tiere 3"](https://open.spotify.com/track/5OF2EQh2WsECvmJElcNod7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Alles nichts ohne dich \(Aus dem Soundtrack zum Kinofilm "Die Schule der magischen Tiere 3"\)](https://open.spotify.com/album/0VlOmFjDw8kUQJGazxYlNV) | 2:17 | 2024-08-30 |  |
+| [Alles nichts ohne dich \- Aus "Die Schule der magischen Tiere 3"](https://open.spotify.com/track/5OF2EQh2WsECvmJElcNod7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Alles nichts ohne dich \(Aus dem Soundtrack zum Kinofilm "Die Schule der magischen Tiere 3"\)](https://open.spotify.com/album/0VlOmFjDw8kUQJGazxYlNV) | 2:17 | 2024-08-30 | 2025-01-10 |
 | [Always on the run](https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Always on the run](https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K) | 3:29 | 2024-06-20 | 2024-07-11 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2024-06-20 | 2024-07-11 |
 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 | 2024-07-10 | 2024-11-14 |
@@ -91,6 +91,7 @@
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2024-06-20 | 2024-08-08 |
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-09-13 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-20 | 2024-11-10 |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-01-09 |  |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-11-13 |  |
 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2024-08-19 | 2025-01-01 |
 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 | 2024-06-20 | 2024-08-08 |

@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 6 hr 9 min
+110 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [8 Gods Of Harlem](https://open.spotify.com/track/5VPxbCg1ZuQdxJeO13LbO2) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [She Remembers Everything \(Deluxe Edition\)](https://open.spotify.com/album/4lXDkMXaGTpeAeVT4ng2NZ) | 3:54 | 2025-01-09 |  |
 | [A Song I'd Like To Sing](https://open.spotify.com/track/53aAtPr0aC6xZzLYBULWwm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Full Moon \(Expanded Edition\)](https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF) | 4:01 | 2024-09-29 |  |
 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 | 2024-09-29 |  |
 | [Bad Love Story](https://open.spotify.com/track/354AkmAGVxobS8L3p5pErE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:34 | 2024-09-29 |  |
@@ -62,7 +63,7 @@
 | [Killer Barracuda](https://open.spotify.com/track/0LYneQx7CEmZJseZ1MlVlT) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:03 | 2024-09-29 |  |
 | [Killing Time \- Single Version](https://open.spotify.com/track/4W1EITJUQpJzAI0rTHlZR0) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:28 | 2024-09-29 |  |
 | [Kiss the World Goodbye](https://open.spotify.com/track/6YFNxPeprxQVDUqAbqO7CS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:00 | 2024-09-29 |  |
-| [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 | 2024-09-29 | 2025-01-06 |
+| [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 | 2024-09-29 |  |
 | [Little Girl Lost](https://open.spotify.com/track/3NcE1bYYCiY0qaaBelbF1K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:08 | 2024-09-29 |  |
 | [Living Legend](https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:58 | 2024-09-29 |  |
 | [Lonesome Way of Dying \- Demo](https://open.spotify.com/track/4YgUSFWgKoqL248dwPyD0b) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:42 | 2024-09-29 |  |

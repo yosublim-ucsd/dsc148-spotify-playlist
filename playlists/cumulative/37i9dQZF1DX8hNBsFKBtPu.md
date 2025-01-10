@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 🖤 Drew Sycamore
+> Det bedste nye pop 🖤 Caroline Dubois
 
-302 songs - 15 hr 24 min
+309 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 | 2024-10-04 |
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-24 |  |
+| [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 |  |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-21 | 2024-10-04 |
 | [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-15 | 2024-10-04 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-13 |  |
@@ -74,6 +75,7 @@
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2024-08-30 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-27 | 2024-10-04 |
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-06-27 | 2024-07-30 |
+| [Drinks Og Drama](https://open.spotify.com/track/1naQthdiYi3CBdEwLXfyZS) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Drinks Og Drama](https://open.spotify.com/album/2V2In3T2jH4i5JipoP2sLW) | 3:00 | 2025-01-09 |  |
 | [Drive With Our Eyes Closed](https://open.spotify.com/track/2I5J70Cmzlwn0OAzPrbARg) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Drive With Our Eyes Closed](https://open.spotify.com/album/3RVbhUDDUTsjzQ6zILkLca) | 3:55 | 2024-12-19 |  |
 | [Du Har Ret](https://open.spotify.com/track/1KCiaWjh1Rol8hnS35QHKU) | [Laura Ziani](https://open.spotify.com/artist/5obJCBYDzkO1xEmm6P3MSo) | [Du Har Ret](https://open.spotify.com/album/0gzC0uQBZRCsXPPloHvm8W) | 2:37 | 2024-10-01 |  |
 | [Du kom med alt det der var dig](https://open.spotify.com/track/7lvF6dZwZQ08UA93jDwITP) | [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE) | [Du kom med alt det der var dig](https://open.spotify.com/album/3RgslpDoBkt1ipk7rOb8HK) | 4:10 | 2025-01-02 |  |
@@ -196,7 +198,9 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 |  |
 | [Ms\. Karma](https://open.spotify.com/track/1QZauBpNTCMFOnHUkKgNsu) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Ms\. Karma](https://open.spotify.com/album/0wt0zazV5kSNgb7jDrmnAg) | 2:26 | 2024-12-12 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-11-08 |
+| [nattevågen](https://open.spotify.com/track/6sBgIDjNfWnRZyETMGLNW9) | [Caroline Dubois](https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ) | [nattevågen](https://open.spotify.com/album/2kiABZuxFjjSsaTveRnkiR) | 2:24 | 2025-01-09 |  |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 |  |
+| [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 |  |
 | [Never the same](https://open.spotify.com/track/1mc9ZGd7tFDCdYS8EP6PqC) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Never the same](https://open.spotify.com/album/3GqagQDa9ynKUhlc5DNlr0) | 2:22 | 2024-06-27 | 2024-10-04 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-27 | 2024-08-30 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-15 | 2024-10-04 |
@@ -239,7 +243,9 @@
 | [Save Me](https://open.spotify.com/track/1orr6iWrqgUFzF3hPFz7yW) | [Tina Dickow](https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe), [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Save Me](https://open.spotify.com/album/6FNde8plCc9KvHit3fvpja) | 3:32 | 2024-11-07 |  |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 | 2024-07-30 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-06-27 | 2024-07-30 |
+| [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 |  |
 | [Shine](https://open.spotify.com/track/3AG1SWCQLutTkbo2VA3gox) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Shine](https://open.spotify.com/album/60hETkzwZwmoxjUWX9jxiA) | 2:17 | 2024-06-27 | 2024-07-30 |
+| [Skriv Det På Min Gravsten](https://open.spotify.com/track/6cYscV4nNqZ1r8bxEMATme) | [KRYD](https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb) | [Skriv Det På Min Gravsten](https://open.spotify.com/album/4KQFfLnLK2WQD0VSh4mCgF) | 3:02 | 2025-01-09 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-07-30 |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 | 2024-08-30 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 |  |
@@ -284,6 +290,7 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 |  |
+| [Tsunami](https://open.spotify.com/track/2284BwyOtA8wI3jeObBlM0) | [NOAH](https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5) | [Tsunami](https://open.spotify.com/album/4wmGfmi5xkEO6wZUOrIrqa) | 3:18 | 2025-01-09 |  |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 |  |
 | [U Make Me Go \(Mmhh\)](https://open.spotify.com/track/7BPrjm9RNfxRatkPflgx8l) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [U Make Me Go \(Mmhh\)](https://open.spotify.com/album/0e2ztqqDZvEbYdmwHeJLk4) | 3:02 | 2024-10-24 |  |
 | [Ugly Cry](https://open.spotify.com/track/0laEAr4GUvINBLFQnguMmb) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Ugly Cry](https://open.spotify.com/album/4oSR3YcFYVtp0wladUo93t) | 2:24 | 2024-08-22 | 2024-10-04 |

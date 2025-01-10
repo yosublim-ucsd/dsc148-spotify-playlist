@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > The weather is cooler out! It's time to slow down and get cozy as you listen to these songs of faith and encouragement!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,837 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,855 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 30 | [The Reason](https://open.spotify.com/track/1ko86eGS7hiWdS9dc1HAgS) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [The Reason](https://open.spotify.com/album/1YhiUeIb1mlqxtKA3jNXuY) | 3:02 |
 | 31 | [The Gardener](https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Gardener](https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs) | 4:06 |
 | 32 | [when i lock eyes on you](https://open.spotify.com/track/5NReBFXlIeUvfijZNp1Fvz) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [when i lock eyes on you](https://open.spotify.com/album/3uQoqKdfPXkZA6TKGZbYuz) | 7:33 |
-| 33 | [Goodbye Yesterday](https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Gracey Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Goodbye Yesterday](https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI) | 3:16 |
+| 33 | [Goodbye Yesterday](https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Grace Coleman](https://open.spotify.com/artist/6ke5t9KlrOfS3K4rM8SgJB), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Goodbye Yesterday](https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI) | 3:16 |
 | 34 | [Contemplen al Rey](https://open.spotify.com/track/5OY3PbBDUIFgcdOGKCLLk1) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [temporadas](https://open.spotify.com/album/4N1iv1OngWo2AiIs4mxq18) | 3:37 |
 | 35 | [Make My Life a Letter](https://open.spotify.com/track/169Lpda7bRxVDEx9Q8TXQo) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Haydon](https://open.spotify.com/artist/5EBqNSGqpUzEF4CTH1T4EW) | [Make My Life a Letter](https://open.spotify.com/album/4joZUbtWuCNEvwvXN6RdaX) | 3:01 |
 | 36 | [Nothing Back \- Reimagined](https://open.spotify.com/track/5eFjy2abCLtnen1rttqRAA) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Nothing Back \(Reimagined\)](https://open.spotify.com/album/5j5TZkyN9mInybuLApPerb) | 3:26 |

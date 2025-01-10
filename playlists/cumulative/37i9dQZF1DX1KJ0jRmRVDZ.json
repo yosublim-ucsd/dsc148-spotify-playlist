@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "GRAND POP",
+        "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "B.B.M. (feat. \u30d4\u30ce\u30ad\u30aa\u30d4\u30fc)",
+      "url": "https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55"
+    },
+    {
+      "album": {
         "name": "MILLE FEUILLE",
         "url": "https://open.spotify.com/album/3GO4UNADq7qbLy1mdjqRa7"
       },
@@ -5002,7 +5024,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
@@ -16675,6 +16697,28 @@
     },
     {
       "album": {
+        "name": "GRAND POP",
+        "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "\u4e9c\u6771\u4eac (feat. \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4)",
+      "url": "https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT"
+    },
+    {
+      "album": {
         "name": "\u72c2\u60f3",
         "url": "https://open.spotify.com/album/1GDzE0TWO5XvWYbI9fSsCz"
       },
@@ -17782,7 +17826,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 258633,
       "name": "\u5618\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq"
@@ -19284,7 +19328,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "\u611b\u306e\u8cde\u5473\u671f\u9650",
       "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
@@ -20312,7 +20356,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 188300,
       "name": "\u6b21\u56de\u4e88\u544a",
       "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
@@ -21890,7 +21934,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 223300,
       "name": "\u7cf8\u96fb\u8a71",
       "url": "https://open.spotify.com/track/6BPJod6d4ymhRcziURKoaM"
@@ -23242,7 +23286,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 126566,
       "name": "\u90fd\u4f1a\u75c5",
       "url": "https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy"

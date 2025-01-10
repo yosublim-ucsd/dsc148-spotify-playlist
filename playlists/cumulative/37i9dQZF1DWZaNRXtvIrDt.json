@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Shygirl",
+  "description": "A new world of alternative electronic music. Cover: TAAHLIAH",
   "name": "Portal",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
@@ -3703,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "D33P",
+        "url": "https://open.spotify.com/album/62N6BE9wGsZHjqHINaWjNo"
+      },
+      "artists": [
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "D33P",
+      "url": "https://open.spotify.com/track/39sLXM6qyOKfsCnc7nBgvC"
+    },
+    {
+      "album": {
         "name": "Dafodil",
         "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
       },
@@ -5604,7 +5622,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 246909,
       "name": "flex fm (freddit)",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
@@ -5684,7 +5702,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 297949,
       "name": "Flotamos",
       "url": "https://open.spotify.com/track/77wLiqHdLO2iZeqMwq4Gai"
@@ -6324,6 +6342,24 @@
       "duration_ms": 243037,
       "name": "Gloomz :)",
       "url": "https://open.spotify.com/track/4jXHm95mWHavLwJSrntB5x"
+    },
+    {
+      "album": {
+        "name": "Going Higher",
+        "url": "https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197929,
+      "name": "Going Higher",
+      "url": "https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj"
     },
     {
       "album": {
@@ -7583,6 +7619,28 @@
     },
     {
       "album": {
+        "name": "Acid Latino",
+        "url": "https://open.spotify.com/album/5ixX6g6MeenyE1LlAjjdBL"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        },
+        {
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/7ghZCxT8Kwwbd0AsRXrrgh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Ibis (feat. Caravan)",
+      "url": "https://open.spotify.com/track/1Fu2ySdDwZ2t5NmzBkSRXP"
+    },
+    {
+      "album": {
         "name": "girl EDM",
         "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
       },
@@ -7762,7 +7820,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201979,
       "name": "in2minds",
       "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
@@ -13011,6 +13069,28 @@
     },
     {
       "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/6o3gWn7YtSuWvQ3f6qMC9H"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4u0QPpCt0CXfgVzquTO4yg"
+    },
+    {
+      "album": {
         "name": "side by side (feat. Empress Of) [rebirth]",
         "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
       },
@@ -13376,7 +13456,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185490,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3LK7BfvGHtRCdd6DIQIpiC"
@@ -13703,6 +13783,24 @@
     },
     {
       "album": {
+        "name": "LEFREQ001",
+        "url": "https://open.spotify.com/album/73wNLkkAWZxbUrz57BFwMw"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199849,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/0cI2dEe3fnHZSUpKsSAcH1"
+    },
+    {
+      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -13726,6 +13824,32 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
     },
     {
       "album": {
@@ -14156,6 +14280,24 @@
       "duration_ms": 222798,
       "name": "Sun Goes Down - Edit",
       "url": "https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175869,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8"
     },
     {
       "album": {
@@ -14972,6 +15114,32 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
+      "album": {
+        "name": "Thirst Day (Radio Edit)",
+        "url": "https://open.spotify.com/album/4uDOt4aulj8xmQWLEFZY9p"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Big Jon",
+          "url": "https://open.spotify.com/artist/3sSZbKRuoK7NVVqEiQgMy9"
+        },
+        {
+          "name": "Dillon Kelly",
+          "url": "https://open.spotify.com/artist/59t16qkSMegtVVuniSMTQs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155170,
+      "name": "Thirst Day - Radio Edit",
+      "url": "https://open.spotify.com/track/5jGLpmADscdE30FfRdvqru"
     },
     {
       "album": {

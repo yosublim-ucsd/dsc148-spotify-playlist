@@ -2,9 +2,9 @@
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: Corrella
+> Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-217 songs - 12 hr 22 min
+220 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Caviar Candles](https://open.spotify.com/track/7lEo9BK11xnUGDeJgHG9uh) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Caviar Candles](https://open.spotify.com/album/4NpJt9BY48vMtOuc12DELp) | 3:11 | 2024-05-20 | 2024-11-08 |
 | [Changed Unchained](https://open.spotify.com/track/024mAy6lQ1jk4QiPFiK5Hc) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Changed Unchained](https://open.spotify.com/album/4FJ5dbXgxv6KlC5ISy9Ahd) | 3:44 | 2024-09-12 | 2024-11-08 |
 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 | 2024-11-28 |  |
+| [Chaotic](https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Chaotic](https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk) | 3:14 | 2025-01-09 |  |
 | [Cherry Pie](https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Cherry Pie](https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1) | 4:09 | 2024-09-12 | 2024-11-08 |
 | [Circling the City](https://open.spotify.com/track/7b6X8K150JyakOpe61ULc2) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Circling the City](https://open.spotify.com/album/6sGfZDOIcyYMQRdXdFbytn) | 2:48 | 2024-05-20 | 2024-11-08 |
 | [City Limits](https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [City Limits](https://open.spotify.com/album/5I9p558GnUlIcsJtSO9YZl) | 3:37 | 2024-11-07 | 2024-12-05 |
@@ -44,7 +45,7 @@
 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 | 2024-08-15 |  |
 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 | 2024-05-20 |  |
 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-28 |  |
-| [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 | 2024-08-15 |  |
+| [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 | 2024-08-15 | 2025-01-10 |
 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 | 2024-12-12 |  |
 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 | 2024-09-12 | 2024-12-12 |
 | [Damage](https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Damage](https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n) | 2:53 | 2024-05-20 | 2024-11-08 |
@@ -69,7 +70,7 @@
 | [Ease](https://open.spotify.com/track/2HvffwR0uYWNC8ha31BlJp) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Ease](https://open.spotify.com/album/3Cmmi0B9mnT1cXT5olINFu) | 3:20 | 2024-05-20 | 2024-11-08 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-08-15 |  |
 | [English Boy](https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [English Boy](https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf) | 3:01 | 2024-12-05 |  |
-| [Every Drop](https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Every Drop](https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA) | 4:04 | 2024-12-19 |  |
+| [Every Drop](https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Every Drop](https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA) | 4:04 | 2024-12-19 | 2025-01-10 |
 | [Eyes On Me](https://open.spotify.com/track/1mECl3Zcm5Yp0APfuW5qfi) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me](https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c) | 3:43 | 2024-05-20 | 2024-11-08 |
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
@@ -118,6 +119,7 @@
 | [Let Me Be Yours](https://open.spotify.com/track/6z1mfrdITyt4CGfed0zI1T) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Let Me Be Yours](https://open.spotify.com/album/2XplTY58dX4a7ukv03vsf1) | 2:42 | 2024-08-22 | 2024-11-08 |
 | [Light](https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Light](https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI) | 3:41 | 2024-09-26 |  |
 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 | 2024-12-05 |  |
+| [Long Way To Go](https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu) | [Nik Brinkman](https://open.spotify.com/artist/5gI4KPyP30hO56IyyBpC3O) | [Long Way To Go](https://open.spotify.com/album/7BJl1tH4gp1egCQdD5pQIh) | 2:56 | 2025-01-09 |  |
 | [Lose My Lines](https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [i don't want you to miss this](https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p) | 2:38 | 2024-12-05 |  |
 | [Losing](https://open.spotify.com/track/31tIu7G9mSDiyGOYHz8quT) | [Malaika Hollis](https://open.spotify.com/artist/3696qanPPj106KYt3OgCYs), [Benjamin Mack](https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY) | [Losing](https://open.spotify.com/album/7aR7IeEPn91t2yWXsN6XiW) | 4:00 | 2024-09-19 | 2024-11-08 |
 | [Lost In My Hometown](https://open.spotify.com/track/0L3IuBW2pn5J3vROvxQqKi) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Lost In My Hometown](https://open.spotify.com/album/5dQIbDRTue1cLg8CVDfDwA) | 3:22 | 2024-09-19 | 2024-11-08 |
@@ -146,6 +148,7 @@
 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 | 2024-05-20 |  |
 | [Nada](https://open.spotify.com/track/0M7evS0r2rbRSt61GMH4e7) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Nada](https://open.spotify.com/album/405mKNtoyJhnJRB7zdUqIn) | 2:56 | 2024-05-20 | 2024-08-16 |
 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2024-05-20 |  |
+| [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 | 2025-01-09 |  |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 | 2024-12-13 |
 | [Night Like This](https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Night Like This](https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3) | 2:59 | 2024-05-20 | 2024-11-08 |
 | [No God](https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [No God](https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC) | 2:44 | 2024-10-18 | 2024-11-08 |
@@ -199,7 +202,7 @@
 | [Te Piringa](https://open.spotify.com/track/67CM4b7wCUnFU3NKW10jw7) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7), [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Te Piringa](https://open.spotify.com/album/44J3SmTmKwvAblYcWZdz5W) | 3:56 | 2024-05-20 | 2024-11-08 |
 | [Thank You](https://open.spotify.com/track/2E9n355lbsJgJg6RuZXL3a) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Thank You](https://open.spotify.com/album/3ZRB4IHu9GAChXsVio9bDP) | 3:10 | 2024-05-20 | 2024-11-08 |
 | [The Moment](https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [The Moment](https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269) | 4:03 | 2024-09-12 | 2024-11-08 |
-| [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-20 |  |
+| [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-20 | 2025-01-10 |
 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 | 2024-10-24 |  |
 | [Three](https://open.spotify.com/track/7yRGKQBt5wlZE3RfkOZ5Ta) | [Haz' Beats](https://open.spotify.com/artist/2PMFm0z412L9xRCPRfMmkN), [Miloux](https://open.spotify.com/artist/0wxqHrY3M43hkutOC6qDHW) | [Brunette](https://open.spotify.com/album/6xvdBlf0b0yoKMX87honRj) | 3:20 | 2024-05-20 | 2024-08-16 |
 | [Through the Night](https://open.spotify.com/track/0ZN8kajcWw7pDNzTgsYMLB) | [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [Leatherman & the Mojave Green](https://open.spotify.com/album/4yk7MTt8bfsZbJFJ7CI93I) | 4:44 | 2024-08-15 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-202 songs - 10 hr 39 min
+203 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Jhanjraan](https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 2:56 | 2021-12-18 | 2022-01-11 |
 | [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 | 2025-01-07 |
 | [Johnnie Walker](https://open.spotify.com/track/7tErHOovEq5zRlmod4wrq8) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:09 | 2024-10-10 | 2025-01-09 |
-| [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2025-01-08 |  |
+| [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2025-01-08 | 2025-01-10 |
 | [Kalli Sohni](https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Kalli Sohni](https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe) | 2:51 | 2025-01-08 |  |
 | [Kamayi](https://open.spotify.com/track/55QfkK3dbHstsnw4HdlxeK) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Kamayi](https://open.spotify.com/album/5LCeHcUjwpyeoXgtYREfAe) | 3:06 | 2025-01-08 |  |
 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 | 2025-01-08 |  |
@@ -140,6 +140,7 @@
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
 | [NO MORE SHADA](https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [NO MORE SHADA](https://open.spotify.com/album/0Fnoxv0wKGgAIt9x5MuOjU) | 3:36 | 2025-01-08 |  |
 | [Notaan Wang](https://open.spotify.com/track/4PJXW4T7BKL5h4nPpQYdBP) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Notaan Wang](https://open.spotify.com/album/3bPTqefx7bqMj2CbPDqylA) | 2:38 | 2025-01-08 |  |
+| [Note](https://open.spotify.com/track/1AicLE0XHpoHgtnzYIcIH6) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Note](https://open.spotify.com/album/2xRAT8SUxKRGgkbG3qDG26) | 2:32 | 2025-01-09 |  |
 | [Number 5](https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81) | 2:54 | 2023-07-31 | 2025-01-09 |
 | [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/0hCy5T6jrYksYIsCK6YZ4z) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh](https://open.spotify.com/album/1EaqN5XE5dodm8BinBlKkl) | 2:54 | 2024-01-31 | 2024-03-05 |
 | [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/2G9m5QkNvyLbzxwlIcA6hO) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/album/2jVEauUlHUuHCpOd0fcXQI) | 2:54 | 2024-01-31 | 2024-04-19 |

@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>가오가이 \(kaogaii\), 키츠요지 \(kitsyojii\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>PENOMECO, YDG\)
 
 1,431 songs - 3 day 5 hr 52 min
 

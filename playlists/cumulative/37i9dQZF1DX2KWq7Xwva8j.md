@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: Luis Cortés.
+> El futuro está aquí\. Foto: Mushkaa.
 
-251 songs - 12 hr 17 min
+252 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Duerme](https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Flamenco Flamenquito](https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW) | 2:37 | 2024-02-06 | 2024-04-19 |
 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 | 2022-03-31 | 2023-02-08 |
 | [Duro](https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Duro](https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9) | 3:12 | 2022-09-22 | 2023-02-08 |
-| [Déjame tú](https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 3:00 | 2024-04-25 |  |
+| [Déjame tú](https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 3:00 | 2024-04-25 | 2025-01-10 |
 | [Ego](https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Ego](https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg) | 2:44 | 2022-06-06 | 2023-02-08 |
 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 | 2022-09-16 | 2023-09-16 |
 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-03 | 2024-12-13 |
@@ -132,6 +132,7 @@
 | [LOEWE](https://open.spotify.com/track/01ZvvafMDxlqMYbX0j14Wh) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [LOEWE](https://open.spotify.com/album/1T2Kjbx42YRxuKFukJYACe) | 3:14 | 2024-05-31 |  |
 | [los chicos no lloran](https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [los chicos no lloran](https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H) | 3:18 | 2024-02-03 | 2024-02-07 |
 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 | 2022-11-12 |
+| [LOTUS](https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [aka luigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [LOTUS](https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn) | 2:19 | 2025-01-09 |  |
 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2022-01-27 | 2022-06-07 |
 | [mala pinta](https://open.spotify.com/track/6Z2peGnKnV0HfDYDcmnTDH) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [mala pinta](https://open.spotify.com/album/0faycCgPgBxPx6Yf4KYYWc) | 3:02 | 2022-02-03 | 2022-07-15 |
 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 | 2024-02-06 |  |

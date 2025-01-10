@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "ULTRAVIOLET",
+        "url": "https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249226,
+      "name": "Goodlove",
+      "url": "https://open.spotify.com/track/4qAPq3U8GkcKmU8lQcsKLD"
+    },
+    {
+      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq"
       },

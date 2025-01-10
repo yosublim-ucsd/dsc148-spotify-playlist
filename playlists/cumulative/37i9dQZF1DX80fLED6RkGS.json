@@ -8939,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "UKITAKA",
+        "url": "https://open.spotify.com/album/2hEm5tKZ9FaHSmJoE3E7gK"
+      },
+      "artists": [
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200496,
+      "name": "UKITAKA",
+      "url": "https://open.spotify.com/track/2Xg4oAt9TEsQuuckcg0VrP"
+    },
+    {
+      "album": {
         "name": "Uko Piwa",
         "url": "https://open.spotify.com/album/3zzzGjYZAwGgtwowmGEu45"
       },
@@ -9470,7 +9488,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197642,
       "name": "Wasupa Wakam",
       "url": "https://open.spotify.com/track/0wkvVx7qMMWKmCFysSAwGl"

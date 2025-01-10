@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "album": {
         "name": "Kaththi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t"
       },
@@ -90,7 +112,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 240333,
       "name": "Asku Maaro",
       "url": "https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ"
@@ -1739,6 +1761,32 @@
     },
     {
       "album": {
+        "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6"
+    },
+    {
+      "album": {
         "name": "Kaththi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t"
       },
@@ -1876,7 +1924,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226584,
       "name": "Summa Surrunu",
       "url": "https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz"

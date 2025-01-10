@@ -1465,6 +1465,28 @@
     },
     {
       "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136566,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX"
+    },
+    {
+      "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
       },
@@ -1678,7 +1700,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176500,
       "name": "CALORIES",
       "url": "https://open.spotify.com/track/1N1GHO8A49jhnGp1PB6VtT"
@@ -1718,6 +1740,24 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "album": {
+        "name": "CASANOVA POSSE",
+        "url": "https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240653,
+      "name": "CASANOVA POSSE",
+      "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
     },
     {
       "album": {
@@ -3580,7 +3620,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 175578,
       "name": "From Now!",
       "url": "https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy"
@@ -5234,7 +5274,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 222217,
       "name": "I'm So Serious",
       "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
@@ -5328,7 +5368,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207128,
       "name": "IN_MY_HEAD",
       "url": "https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15"
@@ -12905,7 +12945,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
       },
       "artists": [
@@ -12918,7 +12958,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
@@ -14425,6 +14465,24 @@
     },
     {
       "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242920,
+      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b",
+      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
+    },
+    {
+      "album": {
         "name": "\u3060\u304b\u3089\u305d\u308c\u306f\u771f\u5b9f",
         "url": "https://open.spotify.com/album/5noipbOuAkxwxJ3Mbmw806"
       },
@@ -14454,7 +14512,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
@@ -14566,6 +14624,24 @@
       "duration_ms": 250819,
       "name": "\u6d77\u3078\u6d77\u3078\u6d77\u3078",
       "url": "https://open.spotify.com/track/3EnTDoXpd45Y96q9NeSbsT"
+    },
+    {
+      "album": {
+        "name": "\u7136\u3089\u3070",
+        "url": "https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237904,
+      "name": "\u7136\u3089\u3070",
+      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Daria Zawia\u0142ow",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Karolina Stanis\u0142awczyk",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Bejbe!",
+        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Bejbe!",
+      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
+    },
+    {
+      "album": {
         "name": "Bez kontaktu",
         "url": "https://open.spotify.com/album/5QzaoHFlQIY0lmIMytCdBR"
       },
@@ -390,6 +408,32 @@
       "duration_ms": 224594,
       "name": "BIA\u0141Y BEZ",
       "url": "https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp"
+    },
+    {
+      "album": {
+        "name": "Biega\u0107, skaka\u0107 (feat. Nosowska)",
+        "url": "https://open.spotify.com/album/5Fo5cSf8eHCnVXwCgIM6Id"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "EMO",
+          "url": "https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM"
+        },
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Biega\u0107, skaka\u0107 (feat. Nosowska)",
+      "url": "https://open.spotify.com/track/1ovpRFP99nUXuexWm1iTy8"
     },
     {
       "album": {
@@ -539,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Caramel Love",
+        "url": "https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141395,
+      "name": "Caramel Love",
+      "url": "https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe"
+    },
+    {
+      "album": {
         "name": "Akademia Pana Kleksa",
         "url": "https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA"
       },
@@ -600,7 +662,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168000,
       "name": "Ca\u0142y czas",
       "url": "https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK"
@@ -1145,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Dom Nad Wod\u0105",
+        "url": "https://open.spotify.com/album/7vq9UO4zeOLafqzhwdOx5h"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194952,
+      "name": "Dom Nad Wod\u0105",
+      "url": "https://open.spotify.com/track/4yYEMvHEvmT2V7BQNReuIv"
+    },
+    {
+      "album": {
         "name": "Dreszcze",
         "url": "https://open.spotify.com/album/5yJaejiwpETo921xYSAiqV"
       },
@@ -1236,6 +1320,24 @@
       "duration_ms": 145961,
       "name": "Dziewczyno Pi\u0119kna",
       "url": "https://open.spotify.com/track/7i8r3Oev7BKcdtz78yD57J"
+    },
+    {
+      "album": {
+        "name": "Dziki bal",
+        "url": "https://open.spotify.com/album/3ADxwSWjIfubEAkJykUmhu"
+      },
+      "artists": [
+        {
+          "name": "\u0141ukasz Drapa\u0142a",
+          "url": "https://open.spotify.com/artist/4k4q4VaHJ1vUXWBTGrYorY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Dziki bal",
+      "url": "https://open.spotify.com/track/7Jq9tZcz2Lg02p3Oqfy4PB"
     },
     {
       "album": {
@@ -1595,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Hold The Light",
+        "url": "https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176148,
+      "name": "Hold The Light",
+      "url": "https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr"
+    },
+    {
+      "album": {
         "name": "hyperstar",
         "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
       },
@@ -1904,7 +2024,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225550,
       "name": "Komary",
       "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
@@ -2369,6 +2489,36 @@
     },
     {
       "album": {
+        "name": "Kleks i wynalazek Filipa Golarza",
+        "url": "https://open.spotify.com/album/1VOaejx01alZaMWdi7q6MO"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "Nati",
+          "url": "https://open.spotify.com/artist/7oZa5mwNruqp1N8Qj1M2sF"
+        },
+        {
+          "name": "Blanka Wydrzy\u0144ska",
+          "url": "https://open.spotify.com/artist/6oTnXEBNPLRMwxl3Bcuvfs"
+        },
+        {
+          "name": "Julian Cudak",
+          "url": "https://open.spotify.com/artist/7jOYoE9GGKEdEdAP7gfj6e"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Miej odwa\u017cne serce",
+      "url": "https://open.spotify.com/track/2tyOc2qjwTapTupR3gY1Cd"
+    },
+    {
+      "album": {
         "name": "Mieszanka",
         "url": "https://open.spotify.com/album/5s6dML3kgfhicCR6U3Pqcm"
       },
@@ -2696,7 +2846,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172258,
       "name": "My\u015bl\u0119 o Tobie przed snem",
       "url": "https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X"
@@ -3108,7 +3258,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 133621,
       "name": "Nie trzeba mi nic",
       "url": "https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6"
@@ -3704,10 +3854,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 152000,
       "name": "Piosenka o ko\u0144cu \u015bwiata",
       "url": "https://open.spotify.com/track/6EG5wyQNe9IQcA1r9G25Qc"
+    },
+    {
+      "album": {
+        "name": "Pi\u0119knie p\u0142yniesz",
+        "url": "https://open.spotify.com/album/0iEMCrSBx1BRicEu19MVc5"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192021,
+      "name": "Pi\u0119knie p\u0142yniesz",
+      "url": "https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE"
     },
     {
       "album": {
@@ -3856,7 +4024,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 158769,
       "name": "Poznajmy si\u0119",
       "url": "https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL"
@@ -3966,7 +4134,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 154909,
       "name": "Przejdzie deszcz",
       "url": "https://open.spotify.com/track/6afHWnbsLiT4sBbMcVwHjy"
@@ -4379,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Szklana pu\u0142apka",
+        "url": "https://open.spotify.com/album/4WSMLTsmv1SLSo4Xlx8FUZ"
+      },
+      "artists": [
+        {
+          "name": "Karolina Stanis\u0142awczyk",
+          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Szklana pu\u0142apka",
+      "url": "https://open.spotify.com/track/1TIlqOiPrtEHqQyclmy2Q5"
+    },
+    {
+      "album": {
         "name": "Szum",
         "url": "https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE"
       },
@@ -4488,7 +4674,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213266,
       "name": "Tak musia\u0142o by\u0107",
       "url": "https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA"
@@ -4720,7 +4906,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 155675,
       "name": "Ten sam",
       "url": "https://open.spotify.com/track/2uigCpHj37SX7tPHpKBHJJ"

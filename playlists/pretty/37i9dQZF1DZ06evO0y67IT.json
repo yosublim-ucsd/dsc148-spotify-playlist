@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAACNKrj+xFnBDYJWRfKfoX9M",
+  "snapshot_id": "Z33AAAAAAADz2JR25lY9zFR99OOO0j/j",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hawthorne Heights / Emery",
-        "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 182378,
-      "name": "Studying Politics",
-      "url": "https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj"
+      "duration_ms": 171746,
+      "name": "Nervous Breakdown",
+      "url": "https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Hawthorne Heights / Emery",
+        "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
       "artists": [
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Nervous Breakdown",
-      "url": "https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki"
+      "duration_ms": 182378,
+      "name": "Studying Politics",
+      "url": "https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 163605,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dead Formats, Vol. 1",
         "url": "https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 207899,
       "name": "Lucerne Valley",
       "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,

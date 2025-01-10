@@ -6451,6 +6451,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0-vu",
+        "url": "https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "D\u00e9j\u00e0-vu",
+      "url": "https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65"
+    },
+    {
+      "album": {
         "name": "D\u00e9sert (ES)",
         "url": "https://open.spotify.com/album/00wN2XU8ClTEAFEiDPsl52"
       },
@@ -14402,6 +14420,24 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/59YJEzPV0v4jiJHpcurklI"
+    },
+    {
+      "album": {
+        "name": "Mal lun\u00e9e",
+        "url": "https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Mal lun\u00e9e",
+      "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
     },
     {
       "album": {
@@ -23280,6 +23316,24 @@
       "duration_ms": 228000,
       "name": "Tout de moi",
       "url": "https://open.spotify.com/track/61aGpgpevGAX5IPXlXwvqE"
+    },
+    {
+      "album": {
+        "name": "Tout dire (Version Deluxe)",
+        "url": "https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "Tout dire",
+      "url": "https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN"
     },
     {
       "album": {

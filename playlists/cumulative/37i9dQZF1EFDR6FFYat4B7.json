@@ -2053,6 +2053,32 @@
     },
     {
       "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "Nowhere (feat. Rita Ora & KYLE)",
+      "url": "https://open.spotify.com/track/0zZE4gBv25outVrHKJgiry"
+    },
+    {
+      "album": {
         "name": "The Martin Garrix Experience",
         "url": "https://open.spotify.com/album/3UwcZ5menPSCTvdxyYgxZj"
       },
@@ -2276,6 +2302,24 @@
       "duration_ms": 198920,
       "name": "Reminders",
       "url": "https://open.spotify.com/track/1Q8JztW596FWMzoBf2V3Sj"
+    },
+    {
+      "album": {
+        "name": "Ring The Alarm",
+        "url": "https://open.spotify.com/album/6wLqWInrnKYTH4nbnP0tSX"
+      },
+      "artists": [
+        {
+          "name": "RLY",
+          "url": "https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/0pr03cUOFsjZW26YSPBYG6"
     },
     {
       "album": {
@@ -2886,6 +2930,28 @@
       "duration_ms": 204360,
       "name": "two nights (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/1CPNoBoQIc0dgK8MQDyx0T"
+    },
+    {
+      "album": {
+        "name": "Uncover You",
+        "url": "https://open.spotify.com/album/5CbDDmoCg8d8iRFWJa6AVH"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233924,
+      "name": "Uncover You",
+      "url": "https://open.spotify.com/track/22NvOEYcQRH4h4fN7d5E5B"
     },
     {
       "album": {

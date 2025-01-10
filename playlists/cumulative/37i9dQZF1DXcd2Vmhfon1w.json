@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "Betirako",
+        "url": "https://open.spotify.com/album/4aQ4Bc2N194Op6GvbYCyNA"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Betirako",
+      "url": "https://open.spotify.com/track/3WGLJYhI2r2sHm9OKuEUI7"
+    },
+    {
+      "album": {
         "name": "BETTY BETTY",
         "url": "https://open.spotify.com/album/1f0Jrx4x6ibyB1FbXq0jdE"
       },
@@ -1379,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "BRUCE WAYNE",
+        "url": "https://open.spotify.com/album/5yC9R6zxAaACVP9zIIoA8z"
+      },
+      "artists": [
+        {
+          "name": "EAZYBOI",
+          "url": "https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109518,
+      "name": "BRUCE WAYNE",
+      "url": "https://open.spotify.com/track/3JQrBnoL9z8BJKaexLOqf9"
+    },
+    {
+      "album": {
         "name": "Brujeria",
         "url": "https://open.spotify.com/album/04KwSRCIIBuY2tLyFygcuS"
       },
@@ -1416,7 +1460,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 344710,
       "name": "Buibul\u00e0",
       "url": "https://open.spotify.com/track/7xeIB5nRbuuhjIJjwgPXmi"
@@ -1780,7 +1824,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183808,
       "name": "CALLE PROGRESO",
       "url": "https://open.spotify.com/track/2KBs9HaB6mY0thgXSTi8nP"
@@ -6230,7 +6274,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 146666,
       "name": "Mis Clavos (Culpa)",
       "url": "https://open.spotify.com/track/7x9C2yqSW9lEas5vF6ziPP"
@@ -7604,6 +7648,24 @@
       "duration_ms": 208000,
       "name": "Preg\u00fantale a Siri",
       "url": "https://open.spotify.com/track/5Yye4qGLtUx3w3T4Kr2CCB"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/4nkT1uabLIgbCaKPxoUl2D"
+      },
+      "artists": [
+        {
+          "name": "SWIT EME",
+          "url": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/2dabNpFyjIQTVSZ18CPoLa"
     },
     {
       "album": {

@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Against the grain",
+        "url": "https://open.spotify.com/album/4RQHyyQwhkWVrwbiIbkn9B"
+      },
+      "artists": [
+        {
+          "name": "Terror MC",
+          "url": "https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG"
+        },
+        {
+          "name": "Nova Da Captive",
+          "url": "https://open.spotify.com/artist/48RBjsWWVwKhmvAx9Oe8Ci"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187468,
+      "name": "Against the grain",
+      "url": "https://open.spotify.com/track/0Jr2Ww4QkQslZ9B2tDklIz"
+    },
+    {
+      "album": {
         "name": "Asemrowers",
         "url": "https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv"
       },
@@ -1904,7 +1926,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 198620,
       "name": "Lavis",
       "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"

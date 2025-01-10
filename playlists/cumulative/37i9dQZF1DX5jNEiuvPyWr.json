@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167886,
       "name": "Brouillard",
       "url": "https://open.spotify.com/track/4555wdExNnaP6LYXsHfw4F"
@@ -1940,6 +1940,28 @@
       "duration_ms": 232720,
       "name": "COMPTER",
       "url": "https://open.spotify.com/track/0U2vjRDorfKwjoTFcr9BBP"
+    },
+    {
+      "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/4XRoAuZ0VH8uCQ4F6tvtTb"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152384,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/776EM83TyPF8nMX5lhk4wr"
     },
     {
       "album": {
@@ -4609,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "LE DERNIER RAYON DE SOLEIL",
+        "url": "https://open.spotify.com/album/0RKowuKEHhFPmQlLbZi9Qv"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150826,
+      "name": "LAISSE MOI",
+      "url": "https://open.spotify.com/track/2HtLEBcHtlwr6yRaxEekTz"
+    },
+    {
+      "album": {
         "name": "Personne n'est sp\u00e9cial",
         "url": "https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh"
       },
@@ -5124,7 +5164,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169080,
       "name": "M'y revoil\u00e0 (feat. So La Lune)",
       "url": "https://open.spotify.com/track/5TFrDVXvqGrYaFwRt5Wrf1"
@@ -7536,6 +7576,28 @@
       "duration_ms": 152873,
       "name": "Sale Hiver",
       "url": "https://open.spotify.com/track/1DDJIzkgnpQdYmuHriicic"
+    },
+    {
+      "album": {
+        "name": "SALEM",
+        "url": "https://open.spotify.com/album/0X5QfwkHCPg3D1JqUqjljW"
+      },
+      "artists": [
+        {
+          "name": "Casa Country Club",
+          "url": "https://open.spotify.com/artist/6AMBFzSDoG4rUsxr9KDFG6"
+        },
+        {
+          "name": "Mandyspie",
+          "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131018,
+      "name": "SALEM",
+      "url": "https://open.spotify.com/track/6rmrCv4ScON97wSOikRASQ"
     },
     {
       "album": {

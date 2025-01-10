@@ -8669,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "HOLD ME",
+        "url": "https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192300,
+      "name": "HOLD ME",
+      "url": "https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE"
+    },
+    {
+      "album": {
         "name": "Hold You Again",
         "url": "https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3"
       },
@@ -13748,6 +13766,32 @@
       "duration_ms": 192540,
       "name": "My Innocence",
       "url": "https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO"
+    },
+    {
+      "album": {
+        "name": "GRAND POP",
+        "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        },
+        {
+          "name": "TAKU INOUE",
+          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183380,
+      "name": "My Mutant Ride (feat. \u67f4\u7530\u8061\u5b50 & TAKU INOUE)",
+      "url": "https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna"
     },
     {
       "album": {
@@ -24676,7 +24720,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 277010,
       "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
       "url": "https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X"
@@ -32702,7 +32746,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 287047,
       "name": "\u591c\u3060\u3051\u304c\u77e5\u3063\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/2oBiYXYJLcUWhTG5obSKY7"

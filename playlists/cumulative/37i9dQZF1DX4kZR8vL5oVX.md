@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Theodora \(du titre \#1 au \#9\).
 
-1,403 songs - 3 day 1 hr 14 min
+1,406 songs - 3 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Déconnectée](https://open.spotify.com/track/5iPIGpFQZLtvw78mvcWqQZ) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Déconnectée](https://open.spotify.com/album/10veteFNNieljiqKbrJuDn) | 2:51 | 2024-03-05 | 2024-04-03 |
 | [Dégainer](https://open.spotify.com/track/1UoK36U5MQNSZsNWb1X8XA) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:36 | 2022-03-07 | 2023-01-04 |
 | [Déhanche](https://open.spotify.com/track/40syMXsONRYsFdni3Ilq4u) | [Julie Zenatti](https://open.spotify.com/artist/3CoYG5pUuCzGnXzPoOkaNY) | [Déhanche](https://open.spotify.com/album/4HJnZVwd4s1FMN4ytZkItm) | 3:15 | 2022-02-01 | 2022-03-08 |
+| [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 | 2025-01-07 |  |
 | [Désert \- ES](https://open.spotify.com/track/63ZVFYYNTtmIcuOdnSE8Zp) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Désert \(ES\)](https://open.spotify.com/album/00wN2XU8ClTEAFEiDPsl52) | 3:25 | 2023-02-28 | 2023-04-05 |
 | [Détail](https://open.spotify.com/track/4kAMjTVegDyDHyISC5txVH) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Détail](https://open.spotify.com/album/226juLo2BGn8eeIduqincY) | 2:53 | 2023-07-04 | 2023-09-06 |
 | [Déçue](https://open.spotify.com/track/7lcciWNpJlTYwyxVIPAGjB) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Déçue](https://open.spotify.com/album/0D0P4sA5zO4EYH41yFFhTD) | 2:30 | 2022-10-04 | 2022-11-09 |
@@ -798,6 +799,7 @@
 | [Magique](https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Magique](https://open.spotify.com/album/1QovWMxy4xIatjjkvvqD1W) | 2:58 | 2023-01-31 | 2023-03-01 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2024-06-04 | 2024-07-03 |
 | [Mal barré](https://open.spotify.com/track/59YJEzPV0v4jiJHpcurklI) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Mal barré](https://open.spotify.com/album/7FaCeOlrCOEmZ6FHiUOdFi) | 2:46 | 2022-04-05 | 2022-05-04 |
+| [Mal lunée](https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Mal lunée](https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI) | 3:14 | 2025-01-07 |  |
 | [Mal à deux](https://open.spotify.com/track/1NhJQdTUmEuXKSdT0mqwe6) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Spleen Dating](https://open.spotify.com/album/26zIJelUDZr1aUEEGMB8vN) | 2:33 | 2023-05-02 | 2023-06-07 |
 | [Maladroit](https://open.spotify.com/track/4RFlWLFJwCYwveI46Hdf7z) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Maladroit](https://open.spotify.com/album/4aORDZeFDjW6YzUlEGNz3s) | 2:24 | 2022-08-02 | 2022-09-07 |
 | [Maladroite](https://open.spotify.com/track/10ZFy3BaH8YNalucqf9Hgg) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Maladroite](https://open.spotify.com/album/0yGyHMBm1dcR2QBiRHwIoj) | 3:12 | 2022-10-04 | 2022-11-09 |
@@ -1285,6 +1287,7 @@
 | [Tout](https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA) | [Pearl](https://open.spotify.com/artist/2MhjocNxlP3QVRiKqKcpkF) | [Tout](https://open.spotify.com/album/7xWdkdj3NvGshk6QDuQNuB) | 2:38 | 2023-08-01 | 2023-09-06 |
 | [Tout](https://open.spotify.com/track/2zMymKds3giK1baWHElaaW) | [ZAYD](https://open.spotify.com/artist/40b2Z1HyhqaBT2zNFQ38qm) | [Tout](https://open.spotify.com/album/1hEeP5uygkEuCc52yn3Vfg) | 2:42 | 2022-05-31 | 2022-06-01 |
 | [Tout de moi](https://open.spotify.com/track/61aGpgpevGAX5IPXlXwvqE) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Silence](https://open.spotify.com/album/00esBNkhpf9Mc17hc2JmMi) | 3:48 | 2022-02-01 | 2022-03-08 |
+| [Tout dire](https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy) | 2:57 | 2025-01-07 |  |
 | [Tout doucement](https://open.spotify.com/track/6v3GMim4dyPfND1ytS9niA) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Tout doucement](https://open.spotify.com/album/0CEaBmDZF6GNxYlFVxLzVt) | 2:58 | 2024-03-05 | 2024-04-03 |
 | [Tout est dans la tête](https://open.spotify.com/track/4MKF41gmAtOsWPNCZG7j9X) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [Tout est dans la tête](https://open.spotify.com/album/64JBHHIx8wi2qq2LziyKCj) | 2:38 | 2022-03-07 | 2022-04-06 |
 | [Tout Finira](https://open.spotify.com/track/3d14CsM8JcFk8NU96F5hVU) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Tout Finira](https://open.spotify.com/album/30x3Ig2Ca72pZXvXvf3EyH) | 1:57 | 2023-11-07 | 2023-11-30 |

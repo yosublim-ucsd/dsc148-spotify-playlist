@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Elia",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Ocevne",
   "name": "le miel",
   "tracks": [
     {
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Comme moi",
+        "url": "https://open.spotify.com/album/2yhFIZTKjDlk8L1LDsvU9B"
+      },
+      "artists": [
+        {
+          "name": "Awa Lemen",
+          "url": "https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Comme moi",
+      "url": "https://open.spotify.com/track/2bQG0qdwMI2BeV5m0UxnN3"
+    },
+    {
+      "album": {
         "name": "Cons\u00e9quences (feat. Tuerie)",
         "url": "https://open.spotify.com/album/03VtAtXTEuKUysbNav4Yuh"
       },
@@ -812,6 +830,24 @@
       "duration_ms": 170232,
       "name": "Corps \u00e0 corps",
       "url": "https://open.spotify.com/track/4JihV9mvL6fagy6YNYsDU0"
+    },
+    {
+      "album": {
+        "name": "COULER NOS NAVIRES",
+        "url": "https://open.spotify.com/album/00zMGJVsIjgd74arpSkeVE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9n\u00e9dicte",
+          "url": "https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "COULER NOS NAVIRES",
+      "url": "https://open.spotify.com/track/4sDkPDRjuTHLVVGags51en"
     },
     {
       "album": {
@@ -1030,7 +1066,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 159500,
       "name": "Dis-moi ce que je dois faire",
       "url": "https://open.spotify.com/track/69FcnOE8Cvm2ZO0zcaGqcQ"
@@ -1632,7 +1668,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 96000,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/7hw1C0mBei28gbmjUbrQhw"
@@ -1810,6 +1846,28 @@
       "duration_ms": 128741,
       "name": "IL NE RESTE RIEN",
       "url": "https://open.spotify.com/track/7cVEIuWVPczsqgzLUHqrxX"
+    },
+    {
+      "album": {
+        "name": "NP2 (DELUXE)",
+        "url": "https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194577,
+      "name": "IN YOUR EYES",
+      "url": "https://open.spotify.com/track/6tuIekiRS3sTmjraB4EI2y"
     },
     {
       "album": {
@@ -2906,7 +2964,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 154736,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/2FHTgcplTV6yL9UjlVtK3m"
@@ -3202,6 +3260,28 @@
       "duration_ms": 204000,
       "name": "Pense \u00e0 moi",
       "url": "https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h"
+    },
+    {
+      "album": {
+        "name": "UN JOUR SANS FIN",
+        "url": "https://open.spotify.com/album/5Cfxw7DK3OH1fq41ymIdjP"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        },
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "PERDU DANS LE VENT (feat. Ruthee)",
+      "url": "https://open.spotify.com/track/6FBhHgEGtj4dgT9R5tPQVX"
     },
     {
       "album": {
@@ -4782,7 +4862,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 135772,
       "name": "WHAT U WANT",
       "url": "https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp"

@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Mario Fresh
 
-162 songs - 7 hr 41 min
+164 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 | 2024-06-27 | 2024-11-22 |
 | [Ai greșit](https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua) | [Andreea Banica](https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Ai greșit](https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg) | 3:05 | 2024-08-22 | 2024-11-08 |
 | [Alarmă falsă](https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Alarmă falsă](https://open.spotify.com/album/4WqQP8Rzu8xGQHvdWmmfUy) | 2:15 | 2024-11-07 |  |
-| [Alchimistul](https://open.spotify.com/track/7D2WfODZho5lLmMN6MgtIl) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Alchimistul](https://open.spotify.com/album/1msF2JTO39BJPj8io9W4e9) | 2:31 | 2024-11-14 |  |
+| [Alchimistul](https://open.spotify.com/track/7D2WfODZho5lLmMN6MgtIl) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Alchimistul](https://open.spotify.com/album/1msF2JTO39BJPj8io9W4e9) | 2:31 | 2024-11-14 | 2025-01-10 |
 | [Am fost](https://open.spotify.com/track/0Zse8E4z0xT7r0EIpvlLBh) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Tostogan's](https://open.spotify.com/artist/4FR2mH4PHFMDE5kYj0v1WR) | [Am fost](https://open.spotify.com/album/7DW2hiwY664iXJsSotCA2G) | 2:58 | 2024-10-24 |  |
 | [Am prietene](https://open.spotify.com/track/38Ait9TSXa0EKkMcl6UYYm) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Am prietene](https://open.spotify.com/album/7GPtQPdBMxBM3BkXEI0vzn) | 2:17 | 2024-09-05 | 2024-09-20 |
 | [Angela](https://open.spotify.com/track/4Esp2NsgjiutkU3K7khzGZ) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Angela](https://open.spotify.com/album/2zyrzFealmUxTrdoAA1ex8) | 3:03 | 2024-06-27 | 2024-09-06 |
@@ -73,7 +73,7 @@
 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 | 2024-08-29 | 2024-10-04 |
 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 | 2024-07-18 | 2024-08-09 |
 | [How I Love It](https://open.spotify.com/track/2bO0NmmJrvHGoJGoxT3A0f) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [How I Love It](https://open.spotify.com/album/49OZpI4ewmwdYOYR09LB4J) | 2:35 | 2024-07-04 | 2024-08-30 |
-| [Iartă\-mă](https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Iartă\-mă](https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX) | 3:04 | 2024-12-05 |  |
+| [Iartă\-mă](https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Iartă\-mă](https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX) | 3:04 | 2024-12-05 | 2025-01-10 |
 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:11 | 2024-09-26 | 2024-10-25 |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-06-27 | 2024-11-08 |
 | [Inainte de tine](https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Dorian Popa](https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo) | [Inainte de tine](https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC) | 3:04 | 2024-12-05 |  |
@@ -136,6 +136,7 @@
 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 | 2024-06-27 | 2024-11-29 |
 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 | 2024-06-27 |  |
 | [Ratat](https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Ratat](https://open.spotify.com/album/6cHl7jHIJnUSJ5BG82ZQRR) | 2:53 | 2024-10-24 |  |
+| [Rece ca Ianuarie](https://open.spotify.com/track/6vrPvPwAWguyaGmvfwF7xj) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Rece ca Ianuarie](https://open.spotify.com/album/6Kvun2hMmuUDkyBA0pxAV4) | 2:53 | 2025-01-09 |  |
 | [RiTiTi](https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [RiTiTi](https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm) | 2:19 | 2024-09-05 | 2024-10-18 |
 | [Roșu nuclear](https://open.spotify.com/track/2AMOK3ZRupIVD0NNKd8fLg) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Roșu nuclear](https://open.spotify.com/album/6wHZ8Mkj52kWsMWV0cJ6XT) | 2:35 | 2024-06-27 | 2024-09-06 |
 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 | 2024-08-22 | 2024-11-15 |
@@ -147,6 +148,7 @@
 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 | 2024-06-27 | 2024-11-22 |
 | [Să mai petrecem](https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să mai petrecem](https://open.spotify.com/album/1AS1ubdKWWlVhOSxBwB89F) | 3:03 | 2024-06-27 | 2024-09-20 |
 | [Să mă iubești](https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Să mă iubești](https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF) | 3:16 | 2024-12-12 |  |
+| [Să mă las](https://open.spotify.com/track/1tH9L6HTHBgo6zJHY2TS2Q) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD), [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Să mă las](https://open.spotify.com/album/0D08LHoPbY4gpv8tu12ZN9) | 2:21 | 2025-01-09 |  |
 | [Să te iubeasca cineva](https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Să te iubeasca cineva](https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8) | 2:59 | 2024-08-22 | 2024-12-13 |
 | [TE IUBESC CUM POT](https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [TE IUBESC CUM POT](https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi) | 2:16 | 2024-08-08 | 2024-10-11 |
 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 | 2024-08-29 | 2024-11-15 |

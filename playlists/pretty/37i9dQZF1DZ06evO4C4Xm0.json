@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 44393,
+  "num_followers": 44400,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADnjEb5FUYF9SH0X36yMW2I",
+  "snapshot_id": "Z33AAAAAAAD6FQ1G7FzmpttdorGohAcY",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 177600,
       "name": "Their Memories - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Films",
-        "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 97320,
-      "name": "Aragon - Remastered 2005",
-      "url": "https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst"
     }
   ],
   "unique_name": "This Is Brian Eno",

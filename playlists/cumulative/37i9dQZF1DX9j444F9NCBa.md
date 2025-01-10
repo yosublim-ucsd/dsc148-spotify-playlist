@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-609 songs - 1 day 7 hr 0 min
+611 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
 | [Back for Good](https://open.spotify.com/track/1ODWd5kl6IzG1ZQARbcAaL) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Back for Good](https://open.spotify.com/album/2DYUCHUNd6rgnsSbenSQxl) | 2:34 | 2023-12-08 |  |
 | [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-06 | 2023-06-03 |
-| [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 | 2022-12-02 |  |
+| [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 | 2022-12-02 | 2025-01-10 |
 | [Bad Habits](https://open.spotify.com/track/35MPKqnvJFDaXYmvJJ7DoZ) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [Bad Habits](https://open.spotify.com/album/2YoyX9aEHljpw3trCnyHQA) | 3:20 | 2022-01-21 | 2022-12-02 |
 | [Bad Romance](https://open.spotify.com/track/4AJOciBT4O5PZAETXFoVIe) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Bad Romance](https://open.spotify.com/album/22Lme10YWdkIq1JRWEqUgP) | 2:51 | 2023-09-22 |  |
 | [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 | 2024-01-19 |
@@ -267,6 +267,7 @@
 | [I Still Haven't Found What I'm Looking For \- Piano Version](https://open.spotify.com/track/4lPMv8xyxDTx2iLk9hwOHb) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:45 | 2022-12-02 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 |  |
 | [I Want It That Way \- Piano Version](https://open.spotify.com/track/6uwARfP6HL4IRwrrLiZgiN) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:52 | 2022-12-02 |  |
+| [I Was Made for Lovin' You](https://open.spotify.com/track/6cSYfORSAwQJHlH1tcJRi1) | [Cyrus Holloway](https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b) | [I Was Made for Lovin' You](https://open.spotify.com/album/3N7gsbVH9EVTeasDTrsefv) | 2:37 | 2025-01-09 |  |
 | [I will always love you](https://open.spotify.com/track/2AGRXcyV3vsCEMdvr8MVjO) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Blackbird](https://open.spotify.com/album/3EDVscTRdrYrar4GWzCYNI) | 2:41 | 2023-06-22 |  |
 | [I Will Always Love You](https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Will Always Love You](https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw) | 2:08 | 2022-10-14 | 2023-06-23 |
 | [I Will Wait](https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [I Will Wait](https://open.spotify.com/album/2rIJ96WWRZkmgxP1lRp328) | 3:43 | 2022-01-21 |  |
@@ -560,6 +561,7 @@
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
+| [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-01-09 |  |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 | 2023-09-01 |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
 | [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-08-11 |

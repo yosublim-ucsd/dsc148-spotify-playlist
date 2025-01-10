@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Sica
+> 感受超級女聲力量。Cover: J.Arie 雷深如
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,558 likes - 433 songs - 1 day 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,561 likes - 433 songs - 1 day 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 |
-| 2 | [JET\-51CA](https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [JET\-51CA](https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH) | 3:12 |
-| 3 | [夜幕下告別](https://open.spotify.com/track/3QaEWGHGKHmnJFxIOSE3rt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [夜幕下告別](https://open.spotify.com/album/33xSL6feMYksWgTkgTnmJK) | 4:12 |
-| 4 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 |
-| 5 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 |
-| 6 | [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 |
-| 7 | [My Christmas time awaits](https://open.spotify.com/track/4Su9txGoMk3IogDUDtlAu6) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [My Christmas time awaits](https://open.spotify.com/album/5VfXDe4Y8p3BDQQI0vvPfj) | 2:18 |
-| 8 | [Hey Darling Darling](https://open.spotify.com/track/3Youu6DpYa0DtPSyKIj6JA) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [Hey Darling Darling](https://open.spotify.com/album/5uFueMQyVSmHDCP4HU8V2M) | 3:29 |
-| 9 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 |
-| 10 | [無人陪我也很快樂](https://open.spotify.com/track/5fD3xG6FXsnVtSX2UogFpj) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [無人陪我也很快樂](https://open.spotify.com/album/1iZPj2lv7MBn7lGOz6doEA) | 3:07 |
-| 11 | [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/track/0ZNyZayHjjdCTTFyALO1bq) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr), [Feanna](https://open.spotify.com/artist/7k8Jwpn9sFpoeXPfREHyEQ), [Vian](https://open.spotify.com/artist/21ZbmYq4ITXRGOjxAli44V) | [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/album/4kDdngWlZ6xqqWKNlC4ehY) | 2:37 |
-| 12 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 |
-| 13 | [一圈](https://open.spotify.com/track/24WSKHUGL4Doq6Txbdo1fD) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一圈](https://open.spotify.com/album/6ZA5Q3c1CoYnJbhAj5C0l3) | 3:48 |
-| 14 | [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 |
-| 15 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 |
-| 16 | [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 |
-| 17 | [白金卡公主](https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [白金卡公主](https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8) | 4:11 |
+| 1 | [白金卡公主](https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [白金卡公主](https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8) | 4:11 |
+| 2 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 |
+| 3 | [JET\-51CA](https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [JET\-51CA](https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH) | 3:12 |
+| 4 | [夜幕下告別](https://open.spotify.com/track/3QaEWGHGKHmnJFxIOSE3rt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [夜幕下告別](https://open.spotify.com/album/33xSL6feMYksWgTkgTnmJK) | 4:12 |
+| 5 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 |
+| 6 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 |
+| 7 | [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 |
+| 8 | [My Christmas time awaits](https://open.spotify.com/track/4Su9txGoMk3IogDUDtlAu6) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [My Christmas time awaits](https://open.spotify.com/album/5VfXDe4Y8p3BDQQI0vvPfj) | 2:18 |
+| 9 | [Hey Darling Darling](https://open.spotify.com/track/3Youu6DpYa0DtPSyKIj6JA) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [Hey Darling Darling](https://open.spotify.com/album/5uFueMQyVSmHDCP4HU8V2M) | 3:29 |
+| 10 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 |
+| 11 | [無人陪我也很快樂](https://open.spotify.com/track/5fD3xG6FXsnVtSX2UogFpj) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [無人陪我也很快樂](https://open.spotify.com/album/1iZPj2lv7MBn7lGOz6doEA) | 3:07 |
+| 12 | [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/track/0ZNyZayHjjdCTTFyALO1bq) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr), [Feanna](https://open.spotify.com/artist/7k8Jwpn9sFpoeXPfREHyEQ), [Vian](https://open.spotify.com/artist/21ZbmYq4ITXRGOjxAli44V) | [Me & My Christmas Town \(feat\. Feanna & Vian\)](https://open.spotify.com/album/4kDdngWlZ6xqqWKNlC4ehY) | 2:37 |
+| 13 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 |
+| 14 | [一圈](https://open.spotify.com/track/24WSKHUGL4Doq6Txbdo1fD) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一圈](https://open.spotify.com/album/6ZA5Q3c1CoYnJbhAj5C0l3) | 3:48 |
+| 15 | [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 |
+| 16 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 |
+| 17 | [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 |
 | 18 | [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 |
 | 19 | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/track/6OeqBgXjRapq5I9TwtN8ub) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08), [Sheena 陳書昕](https://open.spotify.com/artist/31l0gLWOmac7pl45vzXmvR) | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/album/35NNLFfB3ic305HsTe55h4) | 2:40 |
 | 20 | [那黑夜沒很夜 Huggies](https://open.spotify.com/track/4b87uRNyNKVX4DYIxGj6My) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [那黑夜沒很夜 Huggies](https://open.spotify.com/album/71A5dMgBJwFynVxBDDKZ3t) | 3:00 |
@@ -442,4 +442,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 432 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 |
 | 433 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 |
 
-Snapshot ID: `Z3a4FQAAAACQuVPRoRAmm+vULJUZg40g`
+Snapshot ID: `Z3/ylgAAAAB5oqlyuIzGpRLWSwXbkqoy`

@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/2piw4fI88xU29RTvuMyttR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188549,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/21hzG2GBL2RIOZhAUBv008"
+    },
+    {
+      "album": {
         "name": "Alquimia",
         "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 chiaroscuro in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Bambole di Pezza in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "After Mars",
+        "url": "https://open.spotify.com/album/4rQWRq9gtTvsjVWmCl4n3I"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190403,
+      "name": "After Mars",
+      "url": "https://open.spotify.com/track/3HReLL2vkmtQUpFqtAsD25"
+    },
+    {
+      "album": {
         "name": "Afterimage",
         "url": "https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176666,
       "name": "Apposta!",
       "url": "https://open.spotify.com/track/6aXwbQ7icWhaqA4smk62ji"
@@ -5107,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh"
+      },
+      "artists": [
+        {
+          "name": "Torba",
+          "url": "https://open.spotify.com/artist/4kG6IAQ1p9TElT4scdn4wp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250560,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/2Qqwq9w4Q5puYTaaMY4hv5"
+    },
+    {
+      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb"
       },
@@ -6060,7 +6096,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 222000,
       "name": "ECCO S\u00cc, QUELLA L\u00cc \u00c8 STATA UNA COSA STUPIDA",
       "url": "https://open.spotify.com/track/0JKKBsTjS3Bj1JIRgXhwkg"
@@ -7947,6 +7983,24 @@
     },
     {
       "album": {
+        "name": "Galattico",
+        "url": "https://open.spotify.com/album/5XaSmUcpdGj1MT0Qf0Fdqc"
+      },
+      "artists": [
+        {
+          "name": "Surreal Noise",
+          "url": "https://open.spotify.com/artist/22C0cRYhGoskVbIChf6m1Y"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Galattico",
+      "url": "https://open.spotify.com/track/2uNRKqW3Y4mr37s8EWUp5T"
+    },
+    {
+      "album": {
         "name": "Garageband",
         "url": "https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ"
       },
@@ -8048,7 +8102,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 279681,
       "name": "Generational Fear",
       "url": "https://open.spotify.com/track/1QAJio62MlvSfEVdaB2iuI"
@@ -8550,6 +8604,24 @@
       "duration_ms": 223780,
       "name": "Grattacieli",
       "url": "https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV"
     },
     {
       "album": {
@@ -10423,6 +10495,24 @@
     },
     {
       "album": {
+        "name": "Kallitype",
+        "url": "https://open.spotify.com/album/3uo3Lja2oMVGKf17QPJi8w"
+      },
+      "artists": [
+        {
+          "name": "Stormo",
+          "url": "https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140146,
+      "name": "Kallitype",
+      "url": "https://open.spotify.com/track/3XCbuIG8L8SN1BZJbrlS4U"
+    },
+    {
+      "album": {
         "name": "Il canto dell'asino",
         "url": "https://open.spotify.com/album/58pHCvxG9ZFWSeOEO7M2Hw"
       },
@@ -11172,7 +11262,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 245598,
       "name": "La Porta Del Cuore",
       "url": "https://open.spotify.com/track/2sUq3IgDGg1g7xYzqfSecp"
@@ -11529,6 +11619,24 @@
     },
     {
       "album": {
+        "name": "Promo Material",
+        "url": "https://open.spotify.com/album/6fs5oUyuuT5Lsaj5uTYQoq"
+      },
+      "artists": [
+        {
+          "name": "meatware",
+          "url": "https://open.spotify.com/artist/5AFz8Rkw2z1cFRf4GvrTxf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/7wGxkfrxClixf0pXPu0iM5"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP"
       },
@@ -11724,10 +11832,28 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 264497,
       "name": "Linger in Silence - Italian Version",
       "url": "https://open.spotify.com/track/7kHj0dGh6TDiEiCGHIZIpT"
+    },
+    {
+      "album": {
+        "name": "Litorale veneto",
+        "url": "https://open.spotify.com/album/3tOplRFgue62gMb3S06ys0"
+      },
+      "artists": [
+        {
+          "name": "Bordoluna",
+          "url": "https://open.spotify.com/artist/1jGUIzgQgepOORubWNkMuq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104250,
+      "name": "Litorale veneto",
+      "url": "https://open.spotify.com/track/1LcRRuB3KkWePYqZL97GFo"
     },
     {
       "album": {
@@ -14866,7 +14992,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 242137,
       "name": "Oggetto di scena",
       "url": "https://open.spotify.com/track/5CYopiVAQFnRLiBan17BbX"
@@ -15992,7 +16118,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179083,
       "name": "Pinky",
       "url": "https://open.spotify.com/track/0uSIia2ftRwb7QxbB6kQsk"
@@ -16626,6 +16752,24 @@
       "duration_ms": 312480,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/3I9H6Ut8XH1BUMYVe2PVfe"
+    },
+    {
+      "album": {
+        "name": "PRIMAVERA",
+        "url": "https://open.spotify.com/album/25jMfZtV88himejvLv6b59"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA TSO",
+          "url": "https://open.spotify.com/artist/5Oy94OaXUZiAWLqoTWAjQ2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192264,
+      "name": "PRIMAVERA",
+      "url": "https://open.spotify.com/track/43oTFvtvlDw4pLWkYEzXgO"
     },
     {
       "album": {
@@ -17835,6 +17979,24 @@
     },
     {
       "album": {
+        "name": "Mangy",
+        "url": "https://open.spotify.com/album/3hY3JokoocH15VkvxTqbK3"
+      },
+      "artists": [
+        {
+          "name": "Go Hawaii",
+          "url": "https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4xnwngExwBZf8gJwiWnqrC"
+    },
+    {
+      "album": {
         "name": "SANTAMARIA",
         "url": "https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH"
       },
@@ -18456,6 +18618,24 @@
       "duration_ms": 190714,
       "name": "Senza paura",
       "url": "https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3"
+    },
+    {
+      "album": {
+        "name": "Senza permesso",
+        "url": "https://open.spotify.com/album/3UHJQNj0t4HrHHUjxyxJlb"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185689,
+      "name": "Senza permesso",
+      "url": "https://open.spotify.com/track/0gs4EscBa4gcdQeDdSt2HC"
     },
     {
       "album": {
@@ -19776,6 +19956,24 @@
       "duration_ms": 199384,
       "name": "Strappati Lungo i Bordi",
       "url": "https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v"
+    },
+    {
+      "album": {
+        "name": "Bimbi Cattivi",
+        "url": "https://open.spotify.com/album/0OuP5nrCMOUbDMUl77aTAa"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Stronza Romantica",
+      "url": "https://open.spotify.com/track/24sFD91OxPjE8wjB77fzRh"
     },
     {
       "album": {
@@ -22600,7 +22798,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 210160,
       "name": "Vorrei Vedere Voi",
       "url": "https://open.spotify.com/track/6O3NUDSpf5T5VHIMeQpVgB"

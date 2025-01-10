@@ -1,49 +1,13 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 66488,
+  "num_followers": 66518,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxqbpAAAAABqGus7RjGzwbtK2kU10Rb5",
+  "snapshot_id": "Z4AB5AAAAAB/fIYxZQDYhJ6UvpwAFpbD",
   "tracks": [
-    {
-      "added_at": "2024-10-04 18:47:27",
-      "album": {
-        "name": "Viva Tu",
-        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "Vecinos En El Mar",
-      "url": "https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz"
-    },
-    {
-      "added_at": "2024-10-04 18:47:27",
-      "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
-        }
-      ],
-      "duration_ms": 259280,
-      "name": "Desde\u00f1osa",
-      "url": "https://open.spotify.com/track/5apMellkBcfARdQ2wRYXl8"
-    },
     {
       "added_at": "2022-04-01 20:35:15",
       "album": {
@@ -113,54 +77,6 @@
       "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
     },
     {
-      "added_at": "2024-10-15 04:04:31",
-      "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/3KNvp3z1tf0eL7xZ5NzAQD"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 237858,
-      "name": "Quisiera Ser",
-      "url": "https://open.spotify.com/track/27nl6O3qjh71mWChlBXO85"
-    },
-    {
-      "added_at": "2022-02-18 18:49:36",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2024-10-24 19:10:28",
-      "album": {
-        "name": "Los Viajes del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/39zSbWwT6md7F8G3AVeMxE"
-      },
-      "artists": [
-        {
-          "name": "Victoria Sur",
-          "url": "https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Si Se Te Olvida el Camino",
-      "url": "https://open.spotify.com/track/6HFJBX1qGAnEhd6AncrHbs"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Que Gente Averigu\u00e1",
@@ -177,20 +93,20 @@
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
-      "added_at": "2024-10-24 16:50:02",
+      "added_at": "2022-02-18 18:49:36",
       "album": {
-        "name": "Para no odiarte",
-        "url": "https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 229463,
-      "name": "Para no odiarte",
-      "url": "https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2024-09-01 15:09:23",
@@ -229,6 +145,58 @@
       "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
     },
     {
+      "added_at": "2025-01-09 17:05:40",
+      "album": {
+        "name": "Mejor Ya No Regreses",
+        "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 225344,
+      "name": "Mejor Ya No Regreses",
+      "url": "https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5"
+    },
+    {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "added_at": "2025-01-09 16:44:46",
+      "album": {
+        "name": "En El Pr\u00f3ximo Big Bang",
+        "url": "https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Ori\u00f3n",
+          "url": "https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "En El Pr\u00f3ximo Big Bang",
+      "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Pel\u00edcula Muda, Pt. 2",
@@ -249,20 +217,20 @@
       "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
+      "added_at": "2025-01-09 03:33:53",
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Flor de Jade",
+          "url": "https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO"
         }
       ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+      "duration_ms": 219274,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/1oW9GaKcj2MVZDmQxdL7bl"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -279,6 +247,22 @@
       "duration_ms": 130493,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
+    },
+    {
+      "added_at": "2025-01-09 16:47:42",
+      "album": {
+        "name": "P\u00e9rame Tantito",
+        "url": "https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT"
+      },
+      "artists": [
+        {
+          "name": "Karis Sea",
+          "url": "https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq"
+        }
+      ],
+      "duration_ms": 121863,
+      "name": "P\u00e9rame Tantito",
+      "url": "https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6"
     },
     {
       "added_at": "2022-04-04 18:08:00",
@@ -343,22 +327,6 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2024-10-04 19:04:36",
-      "album": {
-        "name": "Ojal\u00e1 Nos Crucemos Otra Vez",
-        "url": "https://open.spotify.com/album/0FCJq7SbFzOA8MzkPJ2hmK"
-      },
-      "artists": [
-        {
-          "name": "Victoria Sur",
-          "url": "https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0"
-        }
-      ],
-      "duration_ms": 259803,
-      "name": "Ojal\u00e1 Nos Crucemos Otra Vez",
-      "url": "https://open.spotify.com/track/2wcS2TCDrZ9dNN3p27OmHI"
     },
     {
       "added_at": "2022-12-20 21:43:10",
@@ -481,6 +449,22 @@
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
     },
     {
+      "added_at": "2025-01-09 03:33:53",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB"
+      },
+      "artists": [
+        {
+          "name": "Flor de Jade",
+          "url": "https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO"
+        }
+      ],
+      "duration_ms": 241167,
+      "name": "Despu\u00e9s de ti",
+      "url": "https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw"
+    },
+    {
       "added_at": "2022-09-26 22:10:29",
       "album": {
         "name": "Abrazo",
@@ -513,6 +497,22 @@
       "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
+      "added_at": "2024-10-04 18:47:27",
+      "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "Vecinos En El Mar",
+      "url": "https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz"
+    },
+    {
       "added_at": "2022-04-23 18:00:53",
       "album": {
         "name": "Bi",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
     },
     {
-      "added_at": "2024-07-09 05:55:41",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 156124,
-      "name": "Misterio Verde",
-      "url": "https://open.spotify.com/track/3qK9At4Ynaq59XvNsIOTrq"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Ojos Del Sol",
@@ -563,6 +547,22 @@
       "duration_ms": 245161,
       "name": "Ojos Del Sol",
       "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
+      "added_at": "2024-07-09 05:55:41",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 156124,
+      "name": "Misterio Verde",
+      "url": "https://open.spotify.com/track/3qK9At4Ynaq59XvNsIOTrq"
     },
     {
       "added_at": "2022-11-15 07:41:03",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
-        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 219737,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
-    },
-    {
       "added_at": "2023-05-31 20:46:46",
       "album": {
         "name": "Milagro y Desastre",
@@ -653,20 +637,36 @@
       "url": "https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf"
     },
     {
-      "added_at": "2022-03-18 03:46:18",
+      "added_at": "2022-03-30 01:48:29",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
+        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 219737,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
+    },
+    {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -685,20 +685,20 @@
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
+      "added_at": "2022-03-18 03:46:18",
       "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
         }
       ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 372093,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL"
-    },
-    {
       "added_at": "2022-09-02 06:00:17",
       "album": {
         "name": "La Matanza",
@@ -881,6 +865,22 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 372093,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL"
+    },
+    {
       "added_at": "2023-04-01 01:18:58",
       "album": {
         "name": "Perlas & Conchas",
@@ -895,6 +895,22 @@
       "duration_ms": 177889,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
+    },
+    {
+      "added_at": "2022-09-26 22:10:29",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -915,22 +931,6 @@
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
-    },
-    {
-      "added_at": "2022-09-26 22:10:29",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2023-05-25 23:09:45",
@@ -1021,26 +1021,6 @@
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
-    },
-    {
       "added_at": "2023-09-05 00:10:18",
       "album": {
         "name": "Afrodiaspora",
@@ -1059,6 +1039,26 @@
       "duration_ms": 278786,
       "name": "Plena y Bomba (feat. Calle 13)",
       "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

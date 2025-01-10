@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Geolier in cover.
+> Rap napoletano e il meglio della scena campana\. Capozanarky in cover.
 
 410 songs - 18 hr 57 min
 

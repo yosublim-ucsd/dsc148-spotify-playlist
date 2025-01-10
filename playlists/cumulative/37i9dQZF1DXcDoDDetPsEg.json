@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Darkoo",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Krept & Konan",
   "name": "Who We Be",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 204447,
       "name": "AAA",
       "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 147605,
       "name": "Boss B*tch",
       "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
@@ -7664,6 +7664,32 @@
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "EUROSTAR",
+      "url": "https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai"
     },
     {
       "album": {
@@ -14947,6 +14973,24 @@
     },
     {
       "album": {
+        "name": "Low Vibrations",
+        "url": "https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176350,
+      "name": "Low Vibrations",
+      "url": "https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp"
+    },
+    {
+      "album": {
         "name": "LSW",
         "url": "https://open.spotify.com/album/2knHvyFM8HCBs3KCM8Om9k"
       },
@@ -21233,6 +21277,24 @@
     },
     {
       "album": {
+        "name": "REGULAR",
+        "url": "https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126131,
+      "name": "REGULAR",
+      "url": "https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh"
+    },
+    {
+      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -23972,7 +24034,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185967,
       "name": "Stratford Job Centre",
       "url": "https://open.spotify.com/track/3Ja2ytWoDshniPFbztBo6p"
@@ -24600,7 +24662,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 235461,
       "name": "Take Your Time (feat. 6LACK)",
       "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
@@ -25762,6 +25824,28 @@
       "duration_ms": 199757,
       "name": "Too Many Lies",
       "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
+    },
+    {
+      "album": {
+        "name": "Too Many Women (feat. kwn)",
+        "url": "https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "Too Many Women (feat. kwn)",
+      "url": "https://open.spotify.com/track/27phUMXA53CLokQgatsJaz"
     },
     {
       "album": {

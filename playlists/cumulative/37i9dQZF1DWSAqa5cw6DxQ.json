@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 182524,
       "name": "Aleph",
       "url": "https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233507,
       "name": "Beginners Mind",
       "url": "https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv"
@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Clear Visions",
+        "url": "https://open.spotify.com/album/3zWXjsYTiEEjUD4yI0wDEN"
+      },
+      "artists": [
+        {
+          "name": "Stellar Luminous",
+          "url": "https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169636,
+      "name": "Clear Visions",
+      "url": "https://open.spotify.com/track/3NQL4ug9m4abWNLg627fRS"
+    },
+    {
+      "album": {
         "name": "Clermont",
         "url": "https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193793,
       "name": "Cold Space",
       "url": "https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 176571,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 213437,
       "name": "Hibiskus",
       "url": "https://open.spotify.com/track/6tSOfNDxTCws7cj8LXqRhi"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195796,
       "name": "Journey Within",
       "url": "https://open.spotify.com/track/3SrOqXX1Lez961c6hSKQnT"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177453,
       "name": "Luci Scure",
       "url": "https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 156283,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/1stfXob94ikJI62rgUmv0Q"
@@ -1802,10 +1820,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178815,
       "name": "Midnight Rose",
       "url": "https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe"
+    },
+    {
+      "album": {
+        "name": "Milestone",
+        "url": "https://open.spotify.com/album/7n5HjM9g5xzRCYyJdrwsB1"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169464,
+      "name": "Milestone",
+      "url": "https://open.spotify.com/track/1ZDNu8LhEXon0MiNqZxhLG"
     },
     {
       "album": {
@@ -1971,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Nearness",
+        "url": "https://open.spotify.com/album/08PY6KwhXx4t5hujfricXh"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165234,
+      "name": "Nearness",
+      "url": "https://open.spotify.com/track/5yREUuNapIOHX03ZSU5qMA"
+    },
+    {
+      "album": {
         "name": "Night Mist",
         "url": "https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d"
       },
@@ -2076,6 +2130,24 @@
       "duration_ms": 284656,
       "name": "Obion Pulse",
       "url": "https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn"
+    },
+    {
+      "album": {
+        "name": "Ocean Hush",
+        "url": "https://open.spotify.com/album/6hkcvW08B6tOS3TMloQw1w"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Ocean Hush",
+      "url": "https://open.spotify.com/track/5GQ5yNGNtxGiB08BMD78h9"
     },
     {
       "album": {
@@ -2234,7 +2306,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233218,
       "name": "Please Help Me With My Pain",
       "url": "https://open.spotify.com/track/0Y3PEZTNJiLJ5wTCPiVGnZ"
@@ -2742,7 +2814,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 160783,
       "name": "Solitary Dream",
       "url": "https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF"
@@ -3084,7 +3156,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 171147,
       "name": "Travel in Time",
       "url": "https://open.spotify.com/track/1mZIS3P7VQuPUu8hQPg0Bk"

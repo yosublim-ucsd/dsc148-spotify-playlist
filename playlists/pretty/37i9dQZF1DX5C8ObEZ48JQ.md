@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain](/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ)
 
-### [Best of Fresh Finds Africa 2024](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
+### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists of 2024, picked by our Editors\. Cover:  <a href="https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc">Llona</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc">Llona</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,350 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,384 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Alright](https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Hopeless Romantic \(EP\)](https://open.spotify.com/album/4poiSgaW1Bk5VWvmQQ8Ui4) | 2:45 |
 | 50 | [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/track/35J0wvREZ6snaBrDgO6yyM) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/album/72TWJ05rBZEe0EQTOcj77V) | 2:22 |
 
-Snapshot ID: `Z1BHxAAAAABxzlOKXy3WCDRC+CEH59MP`
+Snapshot ID: `Z3+j4AAAAADuw6xIbojuKMfCUGj+c/yu`

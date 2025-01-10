@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1582849,
+  "num_followers": 1583115,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kiko",
-          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
-        },
-        {
-          "name": "Olivier Giacomotto",
-          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 245927,
+      "name": "Children - Edit Mix",
+      "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Children - Edit Mix",
-      "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 156083,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
@@ -1695,30 +1719,6 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Marcus Santoro",
-          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Dreamscapes",
         "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
       },
@@ -1887,26 +1871,6 @@
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Fractures",
-        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Fractures",
-      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1931,6 +1895,42 @@
       "duration_ms": 190199,
       "name": "Over",
       "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
     },
     {
       "added_at": "2024-12-20 14:15:11",

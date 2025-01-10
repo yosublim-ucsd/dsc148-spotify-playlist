@@ -2,7 +2,7 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
+> Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.
 
 123 songs - 5 hr 18 min
 

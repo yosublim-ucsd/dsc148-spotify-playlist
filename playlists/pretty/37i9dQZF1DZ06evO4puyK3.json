@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 163601,
+  "num_followers": 163625,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAD/cMIaaehbTVNaGIloc5k7",
+  "snapshot_id": "Z33AAAAAAAA4JsMIUwGkxpVDMm7vGF5D",
   "tracks": [
     {
       "added_at": null,
@@ -438,15 +438,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
         }
       ],
-      "duration_ms": 179117,
-      "name": "Eu Era Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Y0RHqLgXOvZ9PtCf5Jb5n"
+      "duration_ms": 176923,
+      "name": "Eu Odeio Dia 12 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
     },
     {
       "added_at": null,
@@ -775,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 o Amor",
-        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 178105,
-      "name": "S\u00f3 o Amor",
-      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
       },
@@ -819,6 +795,26 @@
       "duration_ms": 198620,
       "name": "Capric\u00f3rnio",
       "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 o Amor",
+        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "S\u00f3 o Amor",
+      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
     },
     {
       "added_at": null,

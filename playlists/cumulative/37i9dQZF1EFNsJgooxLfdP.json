@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "goodnight n go",
+      "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln"
+    },
+    {
+      "album": {
         "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
       },
@@ -1176,6 +1194,28 @@
       "duration_ms": 248240,
       "name": "Little More Time",
       "url": "https://open.spotify.com/track/5wLS99Zq97F2GMJFcZuRfU"
+    },
+    {
+      "album": {
+        "name": "Summer on Sunset",
+        "url": "https://open.spotify.com/album/02ThwzqmsOgd3oS0XXZwT6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199055,
+      "name": "Losing (feat. Victoria Monet)",
+      "url": "https://open.spotify.com/track/3PT4ANAXNdcounngFpsfOp"
     },
     {
       "album": {
@@ -1855,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180853,
+      "name": "Step On Up",
+      "url": "https://open.spotify.com/track/3K1y89UHuAEZbpiSPbtAae"
+    },
+    {
+      "album": {
         "name": "Life After Love, Pt. 2",
         "url": "https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky"
       },
@@ -1888,6 +1946,28 @@
       "duration_ms": 171673,
       "name": "Stop (Askin' Me 4Shyt)",
       "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
+    },
+    {
+      "album": {
+        "name": "No Gravity",
+        "url": "https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc"
+      },
+      "artists": [
+        {
+          "name": "Shontelle",
+          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "Take Ova",
+      "url": "https://open.spotify.com/track/7JNVD2sEmihofd2UrkB4WI"
     },
     {
       "album": {
@@ -2014,7 +2094,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 166466,
       "name": "True Love",
       "url": "https://open.spotify.com/track/73pH60xHd2S87oNIlgztNY"

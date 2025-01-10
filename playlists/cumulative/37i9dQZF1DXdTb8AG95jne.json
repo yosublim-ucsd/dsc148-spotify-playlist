@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Silica Gel(\uc2e4\ub9ac\uce74\uac94)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Heo Hoy Kyung(\ud5c8\ud68c\uacbd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 158377,
       "name": "Christmas Wishlist (feat. Kelsey Kuan & Sonny Zero)",
       "url": "https://open.spotify.com/track/72YvlgXZpeaueVVjSnf5qk"
@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Empty Space Above",
+        "url": "https://open.spotify.com/album/5hCKuPY5AWeMaIlTTTHpwa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Empty Space Above",
+      "url": "https://open.spotify.com/track/5eek1iO2hgsffOssvVtICp"
+    },
+    {
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/5brV7BRPEXMO5u2bBcdcbh"
       },
@@ -4123,6 +4141,28 @@
     },
     {
       "album": {
+        "name": "First Night",
+        "url": "https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Kim Chang-Wan",
+          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "First Night",
+      "url": "https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH"
+    },
+    {
+      "album": {
         "name": "Let\u2019s take a step to a brighter place",
         "url": "https://open.spotify.com/album/33myALTzpif1l5ApybO8pk"
       },
@@ -4494,7 +4534,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 316000,
       "name": "FOREST (Mountain and Elevator)",
       "url": "https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6"
@@ -6885,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "ITSOKAYTOHURTME",
+        "url": "https://open.spotify.com/album/1Moilyy5O3OgauO35DtD5H"
+      },
+      "artists": [
+        {
+          "name": "LUAMEL",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340636,
+      "name": "ITSOKAYTOHURTME",
+      "url": "https://open.spotify.com/track/75EugLnA9fzgIezUZ1Z453"
+    },
+    {
+      "album": {
         "name": "J RABBIT CHRISTMAS ALBUM",
         "url": "https://open.spotify.com/album/5aPmwzMnG6IlVRaJfd0DF5"
       },
@@ -8916,7 +8974,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 185781,
       "name": "My love, by my side",
       "url": "https://open.spotify.com/track/175tbDIeoknT95ymckiGto"
@@ -10740,7 +10798,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190706,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP"
@@ -10820,6 +10878,24 @@
       "duration_ms": 261146,
       "name": "Regret of sigh",
       "url": "https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj"
+    },
+    {
+      "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/4xZnp0byuBiJzFiYUbOaCr"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240040,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/3hEYaDGvni3dZ8E2tZ4Hug"
     },
     {
       "album": {
@@ -11572,6 +11648,24 @@
       "duration_ms": 222954,
       "name": "Silly Boy",
       "url": "https://open.spotify.com/track/5iz6tXxLi3KegCSXfnQLmq"
+    },
+    {
+      "album": {
+        "name": "Silver Apricot (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7JVqgKOnXPbN7VXcbTdpqz"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Silver Apricot",
+      "url": "https://open.spotify.com/track/0JfqP9vy73Gy55XzaWCx5K"
     },
     {
       "album": {
@@ -13238,7 +13332,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167000,
       "name": "The Compass",
       "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"

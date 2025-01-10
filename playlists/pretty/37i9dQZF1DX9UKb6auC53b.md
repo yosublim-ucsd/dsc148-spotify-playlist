@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain]
 
 > Music from "DAN DA DAN"! /アニメ「ダンダダン」の世界を彩る楽曲をプレイリストで。©龍幸伸／集英社・ダンダダン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,296 likes - 35 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 35 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
+| 1 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 2 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 3 | [code : DDD](https://open.spotify.com/track/7r0SvDrGMijbJXdUpp9ZNs) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック Lead Trax](https://open.spotify.com/album/60HdGnL9QqES8iziaG8piJ) | 2:20 |
 | 4 | [spoken spell](https://open.spotify.com/track/2jMPZj16iNLK4vz7pJ2F8K) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック Lead Trax](https://open.spotify.com/album/60HdGnL9QqES8iziaG8piJ) | 2:11 |

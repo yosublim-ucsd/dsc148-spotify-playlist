@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114219,
+      "name": "Esta Noche Pa' Perrear",
+      "url": "https://open.spotify.com/track/0CJj6jqFOfpIfAHbynCIGF"
+    },
+    {
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -1731,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Like",
+        "url": "https://open.spotify.com/album/1BO1oierl48KWVbMedA93O"
+      },
+      "artists": [
+        {
+          "name": "Morelli",
+          "url": "https://open.spotify.com/artist/0eI4BWdDmS8jDpqeiMvzaA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Like",
+      "url": "https://open.spotify.com/track/4FPzjdnJS9fY94o5XFnCOn"
+    },
+    {
+      "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
       },
@@ -1954,6 +1990,24 @@
       "duration_ms": 242417,
       "name": "Mal de la Cabeza",
       "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
+    },
+    {
+      "album": {
+        "name": "Mala Conmigo",
+        "url": "https://open.spotify.com/album/2dHME4ncBUnhghWldqgIJg"
+      },
+      "artists": [
+        {
+          "name": "Morelli",
+          "url": "https://open.spotify.com/artist/0eI4BWdDmS8jDpqeiMvzaA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Mala Conmigo",
+      "url": "https://open.spotify.com/track/1KEU9sdq1VIv7DvQ9zRjpZ"
     },
     {
       "album": {

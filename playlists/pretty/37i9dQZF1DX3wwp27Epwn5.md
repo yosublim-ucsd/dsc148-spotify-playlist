@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,457 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,577 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 44 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 45 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 |
 | 46 | [Lakshya](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 6:15 |
-| 47 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
+| 47 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 |
 | 48 | [Party All Night](https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Boss](https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep) | 4:42 |
-| 49 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 |
+| 49 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
 | 50 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Vishal](https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 |
 
 Snapshot ID: `Z2jkswAAAAAFPQVGhNQK2MbxPwE10ojO`

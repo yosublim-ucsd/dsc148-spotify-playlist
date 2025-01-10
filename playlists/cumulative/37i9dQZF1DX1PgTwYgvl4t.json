@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 281076,
       "name": "Adonai (Live)",
       "url": "https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF"
@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k"
+      },
+      "artists": [
+        {
+          "name": "Promise Benson",
+          "url": "https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472560,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN"
+    },
+    {
+      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 483000,
       "name": "Hungry for You",
       "url": "https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 307565,
       "name": "Imela",
       "url": "https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK"
@@ -1416,6 +1434,24 @@
       "duration_ms": 729871,
       "name": "Jesus Oyoyooh (You are worthy)",
       "url": "https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s"
+    },
+    {
+      "album": {
+        "name": "Kabod (Ep)",
+        "url": "https://open.spotify.com/album/7sU0QvmIiJdBKGldQIaf7G"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517266,
+      "name": "Kabod (The Glory)",
+      "url": "https://open.spotify.com/track/5mlJ3ePfs0z2nT2EHGB4js"
     },
     {
       "album": {
@@ -2083,6 +2119,28 @@
     },
     {
       "album": {
+        "name": "Presence Of The Lord",
+        "url": "https://open.spotify.com/album/73uQVfKHePKvWoFNWtgGIR"
+      },
+      "artists": [
+        {
+          "name": "Efe Lucky",
+          "url": "https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281543,
+      "name": "Presence Of The Lord",
+      "url": "https://open.spotify.com/track/75zDWZQl2FzZSSdWRJ4Pe1"
+    },
+    {
+      "album": {
         "name": "Prophetic Worship, Vol. 2",
         "url": "https://open.spotify.com/album/6iptYi4tTiItuNB2QY84tL"
       },
@@ -2320,7 +2378,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 527296,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/6MOLlzdQfGPR1xLVSEHG8T"
@@ -2454,6 +2512,32 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "album": {
+        "name": "Yabo da Sujada (Live at Tbc, 2022)",
+        "url": "https://open.spotify.com/album/2795cWWoRqDPQGsz1CFGNx"
+      },
+      "artists": [
+        {
+          "name": "Jakes Hinjari",
+          "url": "https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu"
+        },
+        {
+          "name": "Worshippers' Circle",
+          "url": "https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515664,
+      "name": "Yabo da Sujada (Live at Tbc, 2022)",
+      "url": "https://open.spotify.com/track/7yM2XvqAs7E5kiVOeabHs9"
     },
     {
       "album": {

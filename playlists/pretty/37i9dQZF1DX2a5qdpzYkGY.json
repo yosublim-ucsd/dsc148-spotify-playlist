@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12523,
+  "num_followers": 12525,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
+      "added_at": "2024-07-29 22:29:35",
+      "album": {
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "duration_ms": 153249,
+      "name": "La Cuna del Cisne",
+      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
+    },
+    {
       "added_at": "2024-08-29 04:26:03",
       "album": {
         "name": "Under the Sun",
@@ -449,20 +465,20 @@
       "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
-      "added_at": "2024-07-29 22:29:35",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Yo No Soy Marinero",
-        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
         }
       ],
-      "duration_ms": 153249,
-      "name": "La Cuna del Cisne",
-      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2024-10-24 00:41:11",
@@ -485,22 +501,6 @@
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "All good?",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "11000 Dreams",
         "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 212712,
       "name": "Who Is Still Dreaming?",
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2022-05-17 23:06:45",
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
-      "added_at": "2024-12-03 00:28:42",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Denial, Creation",
-        "url": "https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ"
+        "name": "Ker Yegu",
+        "url": "https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Denial, Creation",
-      "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
+      "duration_ms": 274520,
+      "name": "Ker Yegu",
+      "url": "https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -713,20 +713,20 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2024-12-03 00:28:42",
       "album": {
-        "name": "Ker Yegu",
-        "url": "https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt"
+        "name": "Denial, Creation",
+        "url": "https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ"
       },
       "artists": [
         {
-          "name": "Yann Tiersen",
-          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 274520,
-      "name": "Ker Yegu",
-      "url": "https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn"
+      "duration_ms": 219960,
+      "name": "Denial, Creation",
+      "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
     },
     {
       "added_at": "2024-01-05 03:52:17",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
     },
     {
-      "added_at": "2022-09-03 03:31:24",
-      "album": {
-        "name": "Reflections 02",
-        "url": "https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2"
-      },
-      "artists": [
-        {
-          "name": "Douran",
-          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
-        }
-      ],
-      "duration_ms": 156201,
-      "name": "Passing Lights - Cinematic Version",
-      "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
-    },
-    {
       "added_at": "2024-07-05 03:19:52",
       "album": {
         "name": "Onda tropical, I. Rebajado",
@@ -1087,6 +1071,22 @@
       "duration_ms": 357705,
       "name": "Onda tropical, I. Rebajado",
       "url": "https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl"
+    },
+    {
+      "added_at": "2022-09-03 03:31:24",
+      "album": {
+        "name": "Reflections 02",
+        "url": "https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2"
+      },
+      "artists": [
+        {
+          "name": "Douran",
+          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+        }
+      ],
+      "duration_ms": 156201,
+      "name": "Passing Lights - Cinematic Version",
+      "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "Ugly Orange",
+        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
+      },
+      "artists": [
+        {
+          "name": "yes/and",
+          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "Ugly Orange",
+      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Wandering II (Ed Carlsen Rework)",
         "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 190754,
       "name": "Wandering II - Ed Carlsen Rework",
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Ugly Orange",
-        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
-      },
-      "artists": [
-        {
-          "name": "yes/and",
-          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
-        }
-      ],
-      "duration_ms": 259724,
-      "name": "Ugly Orange",
-      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
       "added_at": "2022-03-03 00:47:36",

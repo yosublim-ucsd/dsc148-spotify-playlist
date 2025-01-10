@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 142678,
+  "num_followers": 142769,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 290253,
+      "name": "No Pude Olvidarte",
+      "url": "https://open.spotify.com/track/5co27CKnbKWh8CoOB8K2Ka"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 317760,
       "name": "Entregame Tu Amor",
       "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Adi\u00f3s A La Diosa",
-        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
       "artists": [
         {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

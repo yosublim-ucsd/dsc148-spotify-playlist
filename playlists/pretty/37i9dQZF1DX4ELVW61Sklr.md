@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,883 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,828 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 56 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 |
 | 57 | [Ghetto Christmas \(with 6LACK & Summer Walker\)](https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:35 |
 | 58 | [Christmas All Year](https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Christmas All Year](https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl) | 2:53 |
-| 59 | [Make It Home \(feat\. PJ Morton & Sevyn Streeter\)](https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 3:47 |
+| 59 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 |
 | 60 | [What Christmas Means To Me](https://open.spotify.com/track/4pI7CEVufQCp9WAssZLecU) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [What Christmas Means To Me](https://open.spotify.com/album/38BJrTD8PU57VC6El3FTrI) | 2:53 |
-| 61 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 |
+| 61 | [Make It Home \(feat\. PJ Morton & Sevyn Streeter\)](https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 3:47 |
 | 62 | [Little Drummer Girl](https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:32 |
 | 63 | [Santa Baby \(with Summer Walker\)](https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:20 |
 | 64 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |

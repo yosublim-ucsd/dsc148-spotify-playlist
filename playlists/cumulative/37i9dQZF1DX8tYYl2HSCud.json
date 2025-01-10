@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2am Chime",
+        "url": "https://open.spotify.com/album/3hP6wrEdPLz6Aow0K3gYgF"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "2am Chime",
+      "url": "https://open.spotify.com/track/3zjBIrAVl4seuKfLVk4Iip"
+    },
+    {
+      "album": {
         "name": "396 Hz Soundscapes for Mindfulness",
         "url": "https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 180923,
       "name": "Auralia",
       "url": "https://open.spotify.com/track/4I4r0eLCsNMziz9NI9bvAG"
+    },
+    {
+      "album": {
+        "name": "Aurora Sky",
+        "url": "https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Aurora Sky",
+      "url": "https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL"
     },
     {
       "album": {
@@ -995,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Crystalline Silence",
+        "url": "https://open.spotify.com/album/5M1cuUwxLXpKPZshWhseHp"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "Crystalline Silence",
+      "url": "https://open.spotify.com/track/6eTmoJPYROLsntfzPgOrAK"
+    },
+    {
+      "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE"
       },
@@ -1283,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Echoes of the Cosmos",
+        "url": "https://open.spotify.com/album/2Y2C9wlUku2lOv1YBPCYun"
+      },
+      "artists": [
+        {
+          "name": "Veda Orion",
+          "url": "https://open.spotify.com/artist/4xQUbdmlGZNPkhWps7MDin"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177684,
+      "name": "Echoes of the Cosmos",
+      "url": "https://open.spotify.com/track/27yFNUPLgwmWc9xljOi6Yl"
+    },
+    {
+      "album": {
         "name": "Embrace The Dream",
         "url": "https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl"
       },
@@ -1330,7 +1402,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168489,
       "name": "Emerge",
       "url": "https://open.spotify.com/track/5ksyRTzb82DVjzZbsk9jpf"
@@ -1600,7 +1672,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 173786,
       "name": "Exception",
       "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
@@ -1877,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Gentle Vortex",
+        "url": "https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155458,
+      "name": "Gentle Vortex",
+      "url": "https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS"
+    },
+    {
+      "album": {
         "name": "Ghatam Sky",
         "url": "https://open.spotify.com/album/6Da52pJh6cu6CU6lcTmHIn"
       },
@@ -1888,7 +1978,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 158110,
       "name": "Ghatam Sky",
       "url": "https://open.spotify.com/track/0OJR0aoHm1FuNQHvKlTgzi"
@@ -1906,7 +1996,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 193430,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/6CRq7TNq6nSv9YeLhdB7Ng"
@@ -2230,7 +2320,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 174000,
       "name": "Immortalit",
       "url": "https://open.spotify.com/track/2W9yvpSu6UMp2QbDVDGnIU"
@@ -2255,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "In Memory",
+        "url": "https://open.spotify.com/album/4LVaqhni7Kz6hCCQmITrwh"
+      },
+      "artists": [
+        {
+          "name": "R Skye",
+          "url": "https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "In Memory",
+      "url": "https://open.spotify.com/track/6q3d1ppfIBSnCnjCmXMiVI"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/13qqsP09fGmk6HoIGdFOKM"
       },
@@ -2270,6 +2378,24 @@
       "duration_ms": 183000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2s9cI7nUKIzMjzVvRvGZH3"
+    },
+    {
+      "album": {
+        "name": "Inform Earth",
+        "url": "https://open.spotify.com/album/1liOZbEG0zTEvT1wp67J8j"
+      },
+      "artists": [
+        {
+          "name": "Silas Luminance",
+          "url": "https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Inform Earth",
+      "url": "https://open.spotify.com/track/4dHlwvU02IBRSqUWPkollu"
     },
     {
       "album": {
@@ -2680,7 +2806,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178000,
       "name": "Mahabharata",
       "url": "https://open.spotify.com/track/5X5nxaIGTBD83D93pqAjcr"
@@ -2914,7 +3040,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 208000,
       "name": "Natural Connection",
       "url": "https://open.spotify.com/track/79xizJgR2yV6BfP7Y4q40k"
@@ -3299,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Precise",
+        "url": "https://open.spotify.com/album/7aZZIYotzd6yTtFRAP86m8"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167502,
+      "name": "Precise",
+      "url": "https://open.spotify.com/track/6SidMcAXSQyQ1gNuiObPzn"
+    },
+    {
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/5xUGdopo67DQi2m7CBE5A9"
       },
@@ -3616,7 +3760,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167187,
       "name": "Relatively",
       "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
@@ -4109,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Soft Red Bunk",
+        "url": "https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "Soft Red Bunk",
+      "url": "https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB"
+    },
+    {
+      "album": {
         "name": "Soft Touch",
         "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
       },
@@ -4322,6 +4484,24 @@
       "duration_ms": 121305,
       "name": "Starlit Wonders",
       "url": "https://open.spotify.com/track/5n6Vf4m22Bau1qW1dlfWay"
+    },
+    {
+      "album": {
+        "name": "Stellar Mass",
+        "url": "https://open.spotify.com/album/45HPFXR43VTxThhPaxsfH8"
+      },
+      "artists": [
+        {
+          "name": "Orion Dreamwalker",
+          "url": "https://open.spotify.com/artist/3tesBuyrrVqSoGUa5EoxzS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Stellar Mass",
+      "url": "https://open.spotify.com/track/51dyfAhwbH7krzBnTeBuP7"
     },
     {
       "album": {
@@ -4858,7 +5038,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 165000,
       "name": "Unistades",
       "url": "https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM"

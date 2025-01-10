@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 7 hr 8 min
+139 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 | 2024-10-02 | 2024-11-02 |
 | [I Like You](https://open.spotify.com/track/50tWrsyrKBu9UHamSxZdea) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:17 | 2024-09-22 |  |
 | [I Like You](https://open.spotify.com/track/6lraE2NC35v7UCYBoq55Jd) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [I Like You](https://open.spotify.com/album/2iKM8ya2CYQPkVefK8ywvV) | 3:17 | 2024-08-25 | 2024-09-23 |
+| [Inbetweener](https://open.spotify.com/track/4wYAbzIHl74dcW8ALGGyXK) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Inbetweener](https://open.spotify.com/album/5ppaoO6GLCSKM9gRpJhp4w) | 3:35 | 2025-01-09 |  |
 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 | 2024-01-29 |  |
 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 | 2024-01-29 |  |
 | [It's Not My Fault](https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [It's Not My Fault](https://open.spotify.com/album/3V4DkNfNbFA4etZNew0iOU) | 4:22 | 2024-04-30 |  |
@@ -120,6 +121,7 @@
 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 | 2024-01-29 |  |
 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 | 2024-01-29 |  |
 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 | 2024-01-29 |  |
+| [Tears That I Don't Cry](https://open.spotify.com/track/6ShC9PQdkvfkfZAVvAES3L) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Know Your Worth](https://open.spotify.com/album/51LpnxfZdO57uxieZ4lmfz) | 3:25 | 2025-01-09 |  |
 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 | 2024-07-10 |  |
 | [The Library of Babel](https://open.spotify.com/track/34VKneosqJYPELJ8WnkDZp) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [The Library of Babel](https://open.spotify.com/album/1NjnAVH23SyDYQDMT6abrG) | 7:42 | 2024-01-29 |  |
 | [The Point in Loving You](https://open.spotify.com/track/2yqvG9Izoq4CNPEgL1Ek41) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 2:55 | 2024-01-29 |  |

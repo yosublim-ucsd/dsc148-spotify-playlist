@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,724 likes - 100 songs - 4 hr 58 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,683 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 33 | [Freefall](https://open.spotify.com/track/4uAfbFWPDw2D2PwnYwusXH) | [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Freefall](https://open.spotify.com/album/4blg6OOSjjWU2bQO0G1zFg) | 3:08 |
 | 34 | [Noel Electra](https://open.spotify.com/track/6flK1gDXbyzpNGXlhIwDTe) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Noel Electra](https://open.spotify.com/album/3MVENgkbmVLkocrojKcyhY) | 3:23 |
 | 35 | [Call My Name](https://open.spotify.com/track/1uFRA9PHqgcdXpkQKFxNN5) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Call My Name](https://open.spotify.com/album/1asHpzbXYn8fUbhKHvYLWX) | 2:53 |
-| 36 | [Royalty \- Super Slowed + Reverb](https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Royalty \(Sped Up/Slowed\)](https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG) | 4:48 |
+| 36 | [Royalty \- Super Slowed + Reverb](https://open.spotify.com/track/4lCmPNwixI4W6i0asDVDob) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Royalty \(Sped Up/Slowed\)](https://open.spotify.com/album/4qYeYYmfoHbTN8Y0XHvhdG) | 4:48 |
 | 37 | [Like That](https://open.spotify.com/track/1V5we6zZDShUGnSUXZLqPf) | [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql), [Cherry Morello](https://open.spotify.com/artist/0ysLduzyfjHOMhyiqfIXTz) | [Like That](https://open.spotify.com/album/41KC2hIP2zQ3Ngel4aUziq) | 3:18 |
 | 38 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 |
 | 39 | [Cyberblade](https://open.spotify.com/track/1bwMhAZ9dzMcUgHot9IPsw) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [Cyberblade](https://open.spotify.com/album/0wSb75pCK2ACn2QcdOsjrQ) | 3:11 |

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,093 songs - 1 day 8 hr 35 min
+1,094 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,7 +815,7 @@
 | [Slumber](https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Slumber](https://open.spotify.com/album/16bIw6IgHLqIgNrBntAgGI) | 1:50 | 2024-07-12 |  |
 | [Slumberous](https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Slumberous](https://open.spotify.com/album/0ASiq73kjVAiRs930hldEA) | 1:20 | 2023-04-07 | 2024-12-21 |
 | [Snooze](https://open.spotify.com/track/1GaiWc7dWnQzbvOs22tOyc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Summer's Delight](https://open.spotify.com/album/5IiDZ7s4yhvfdO2fczp5xM) | 3:30 | 2022-08-11 | 2023-04-09 |
-| [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 | 2023-02-17 |  |
+| [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 | 2023-02-17 | 2025-01-10 |
 | [Snoozing Snooze](https://open.spotify.com/track/1iL6ztehBTvbmW69Ixz2l0) | [Little Zoe](https://open.spotify.com/artist/510fJjKBitxDiqFinCi6F3) | [Snoozing Snooze](https://open.spotify.com/album/702xnS2AKdVZwjZgMFsCQz) | 1:26 | 2023-06-02 |  |
 | [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-11-08 | 2022-10-29 |
 | [Snuggle Tight](https://open.spotify.com/track/0HsSm3PpAGKuCMM86XK2Ft) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Snuggle Tight](https://open.spotify.com/album/2qulT9EMnJ35sBOWKtWCuG) | 1:34 | 2022-04-22 | 2024-04-05 |
@@ -879,7 +879,7 @@
 | [Sussa Lilla Pyret](https://open.spotify.com/track/37PeTRwr9iE5yGCVC15EsT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:39 | 2022-11-11 | 2023-06-03 |
 | [Sweet Child Of Mine](https://open.spotify.com/track/5CagvKjDmV0febzGggWu60) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Sweet Child Of Mine](https://open.spotify.com/album/7d3yk3BDG0t6U7k28EK6Bv) | 1:23 | 2024-10-25 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-04-05 |  |
-| [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 | 2023-02-17 |  |
+| [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 | 2023-02-17 | 2025-01-10 |
 | [Sweet Dreams My Love](https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ) | [Sleepy Eli](https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD) | [Sweet Dreams My Love](https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2) | 2:21 | 2023-05-12 |  |
 | [Sweet Dreams Now, My Darling](https://open.spotify.com/track/4QiAPJf6uYHwNjkQpFfCfJ) | [Orla Rowe](https://open.spotify.com/artist/7cdmcpXO3r2VJ2uZTzFFBC) | [Sweet Dreams My Darling](https://open.spotify.com/album/5bGojAvVq5shVrL0FokbC2) | 1:33 | 2023-01-27 | 2024-04-05 |
 | [Sweet Dreams, Little One](https://open.spotify.com/track/0u18AOGSFgDWE05VrVj2rC) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Sweet Dreams, Little One](https://open.spotify.com/album/2cRiQi3CYqxk3Gs5IA8y2j) | 1:36 | 2024-07-19 |  |
@@ -917,6 +917,7 @@
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 | 2024-08-30 |  |
 | [The Frog and the Panda Bear](https://open.spotify.com/track/0JPJXVfmlm7ObdFgicspTz) | [Pacey Carroll](https://open.spotify.com/artist/453okQQYYLY3iB33SOTjyr) | [The Frog and the Panda Bear](https://open.spotify.com/album/5Jxrd21avU8KFJIVdfoavq) | 1:28 | 2021-11-08 | 2022-10-29 |
+| [The Garden Gnome](https://open.spotify.com/track/76UrUwppRDeVai7AiWa1HF) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [The Garden Gnome](https://open.spotify.com/album/26M1pxdbrva0aZKKI1CXe2) | 2:09 | 2025-01-09 |  |
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-01-27 | 2024-10-26 |
 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-12-16 | 2023-06-09 |
 | [The Ice Cream King](https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:05 | 2021-11-08 | 2024-04-05 |
@@ -1065,7 +1066,7 @@
 | [Where’s My Teddy Bear?](https://open.spotify.com/track/7tbW6fDFa6tn95EG5waC7w) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Where’s My Teddy Bear?](https://open.spotify.com/album/4G9l3MhnXhirfJO7UqFVjR) | 2:02 | 2021-11-08 | 2023-01-27 |
 | [While you are sleeping](https://open.spotify.com/track/3R1aA8Uf8jPp8bp3NWt7c6) | [Jim WInce](https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF) | [While you are sleeping](https://open.spotify.com/album/1XoU21Cs3NsHizZw9iR0YG) | 1:21 | 2023-06-02 | 2024-09-14 |
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-13 | 2024-05-24 |
-| [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 | 2023-03-17 |  |
+| [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 | 2023-03-17 | 2025-01-10 |
 | [White Pyjamas](https://open.spotify.com/track/14MRYeRX5S2u9o6Mev6tNC) | [Lyndon Cole](https://open.spotify.com/artist/4YuJWQXYXtQrXTNOFupZfI) | [White Pyjamas](https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa) | 1:31 | 2021-11-08 | 2023-04-09 |
 | [White Winter Hymnal](https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB) | [Espen Ahl](https://open.spotify.com/artist/6s99Zvn7tubqMmfawFW3vW) | [White Winter Hymnal](https://open.spotify.com/album/3hR33q1nVK9ENI5WXxtcWf) | 2:20 | 2022-09-23 | 2024-05-24 |
 | [Who’s afraid of the big bad wolf?](https://open.spotify.com/track/1neL0jQJCbl6e7BDYD6Bdm) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Who’s afraid of the big bad wolf?](https://open.spotify.com/album/072xjdjbNqGy8stuVeBJUj) | 1:24 | 2024-06-07 | 2024-07-19 |

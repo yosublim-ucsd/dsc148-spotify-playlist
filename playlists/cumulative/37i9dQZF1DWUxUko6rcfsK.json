@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        },
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
+    },
+    {
+      "album": {
         "name": "Hedonism",
         "url": "https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os"
       },
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Zuza Jab\u0142o\u0144ska",
+  "description": "nasze brzmienie \u2728 Cover: Marcin Maciejczak",
   "name": "gen z ",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 126427,
       "name": "#omg",
       "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 162000,
       "name": "a mo\u017ce nie?",
       "url": "https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7"
@@ -378,6 +378,24 @@
       "duration_ms": 174985,
       "name": "Bal",
       "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
+    },
+    {
+      "album": {
+        "name": "Bejbe!",
+        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Bejbe!",
+      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
     },
     {
       "album": {
@@ -670,6 +688,24 @@
       "duration_ms": 126835,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
+    },
+    {
+      "album": {
+        "name": "Caramel Love",
+        "url": "https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141395,
+      "name": "Caramel Love",
+      "url": "https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe"
     },
     {
       "album": {
@@ -1075,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Do widzenia",
+        "url": "https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft"
+      },
+      "artists": [
+        {
+          "name": "Kingska",
+          "url": "https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152049,
+      "name": "Do widzenia",
+      "url": "https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO"
+    },
+    {
+      "album": {
         "name": "Dom",
         "url": "https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF"
       },
@@ -1238,7 +1292,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ"
@@ -2254,6 +2308,24 @@
       "duration_ms": 154666,
       "name": "MAZZY STAR",
       "url": "https://open.spotify.com/track/6X3KI73fpy5JXkfzElB89D"
+    },
+    {
+      "album": {
+        "name": "Ma\u0142e dzi\u015b",
+        "url": "https://open.spotify.com/album/6cyVfS7S8tCi05weOltCa8"
+      },
+      "artists": [
+        {
+          "name": "Oliwia Twardosz",
+          "url": "https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Ma\u0142e dzi\u015b",
+      "url": "https://open.spotify.com/track/3sIornJF32cn0T0RDe6wju"
     },
     {
       "album": {
@@ -4558,7 +4630,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172128,
       "name": "Wrzosy",
       "url": "https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4"

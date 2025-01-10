@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Endless Rivers",
+        "url": "https://open.spotify.com/album/0vAcgFDRXs7n3icCkm5Brl"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174852,
+      "name": "Endless Rivers",
+      "url": "https://open.spotify.com/track/2uqquTxKRfbZ8eUf311jVd"
+    },
+    {
+      "album": {
         "name": "Sonic Blue - Ambient Hang Music",
         "url": "https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5"
       },
@@ -652,6 +670,50 @@
       "duration_ms": 317360,
       "name": "Fantasy of Love (Improvisation Marimba Solo)",
       "url": "https://open.spotify.com/track/5GUUdEDHbJ4J9YnSwtrOag"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd"
+        },
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Feel Good (feat. myndstream)",
+      "url": "https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl"
+    },
+    {
+      "album": {
+        "name": "Focus Five",
+        "url": "https://open.spotify.com/album/5UIBLfghByKKuTrQLlml6M"
+      },
+      "artists": [
+        {
+          "name": "Yoro Kobuto",
+          "url": "https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Focus Five",
+      "url": "https://open.spotify.com/track/0ioNpncHHj5EyI99GC2qtH"
     },
     {
       "album": {
@@ -1803,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Sunrise Rhythm",
+        "url": "https://open.spotify.com/album/0WtyQyl7jaipY6GIT4vk7c"
+      },
+      "artists": [
+        {
+          "name": "Darma Waters",
+          "url": "https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Sunrise Rhythm",
+      "url": "https://open.spotify.com/track/6BrvOJmKsMrld46VFYDUK7"
+    },
+    {
+      "album": {
         "name": "Sunset Sky",
         "url": "https://open.spotify.com/album/3m0sH9z0g1b2RGrvX0c6PI"
       },
@@ -2002,6 +2082,32 @@
       "duration_ms": 481280,
       "name": "Whispering Creek",
       "url": "https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd"
+        },
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Winds of Change (feat. myndstream)",
+      "url": "https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG"
     },
     {
       "album": {

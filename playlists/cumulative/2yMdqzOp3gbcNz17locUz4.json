@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "ALL FOURS",
+        "url": "https://open.spotify.com/album/0KjoSd2obrJGJpPDT82MhG"
+      },
+      "artists": [
+        {
+          "name": "delle",
+          "url": "https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "ALL FOURS",
+      "url": "https://open.spotify.com/track/7B51G5gB5mc3NIv1RlVzsJ"
+    },
+    {
+      "album": {
         "name": "Don't You Think It's Strange?",
         "url": "https://open.spotify.com/album/6p58K4dY6aVIZs49OqiYSj"
       },
@@ -175,6 +193,24 @@
     },
     {
       "album": {
+        "name": "big body",
+        "url": "https://open.spotify.com/album/3yU6rQq2bbOHH891oX3KHB"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92106,
+      "name": "big body",
+      "url": "https://open.spotify.com/track/0WYOPfaW8hYIUIm4R5EaF9"
+    },
+    {
+      "album": {
         "name": "bits&pieces",
         "url": "https://open.spotify.com/album/6QLi8rfBCQRs7CraUFxP7t"
       },
@@ -234,7 +270,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 242000,
       "name": "blue shift",
       "url": "https://open.spotify.com/track/6VcYo9A3gvkS0g4Ps6T6Og"
@@ -350,7 +386,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 125035,
       "name": "chalice",
       "url": "https://open.spotify.com/track/0aoI3GEPeQweHe7HlG8TTl"
@@ -1327,6 +1363,28 @@
     },
     {
       "album": {
+        "name": "liar and a cheat",
+        "url": "https://open.spotify.com/album/4b0XPRqoq9A0ldQnfo2TfK"
+      },
+      "artists": [
+        {
+          "name": "f0xtr0t",
+          "url": "https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN"
+        },
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209807,
+      "name": "liar and a cheat",
+      "url": "https://open.spotify.com/track/4qWIdYxQcqo2ShyyqX8Ibd"
+    },
+    {
+      "album": {
         "name": "set fire to the world",
         "url": "https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK"
       },
@@ -1396,7 +1454,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 119040,
       "name": "Meet Me at the Convention",
       "url": "https://open.spotify.com/track/1wn8F9YN6js8rZ684bq5tr"
@@ -1436,6 +1494,24 @@
       "duration_ms": 236694,
       "name": "Mirage Mirror",
       "url": "https://open.spotify.com/track/1bkOoNh7xz8sPyjpXnDaYG"
+    },
+    {
+      "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/2LODqLNyH1q7Ia1zB6ZV05"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160829,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/2CYcW7kGtnCnxD3MSMm0Xa"
     },
     {
       "album": {
@@ -1522,7 +1598,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 139130,
       "name": "my city",
       "url": "https://open.spotify.com/track/1tQFETbb1Y60rMgeqlEy8x"
@@ -1932,7 +2008,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 147565,
       "name": "Reading Week",
       "url": "https://open.spotify.com/track/4O3PXnWinVC4lVnAUd8xbL"
@@ -2360,6 +2436,24 @@
       "duration_ms": 265732,
       "name": "Tumblr Kid",
       "url": "https://open.spotify.com/track/7LIjyXz59GKokop5vnoRkk"
+    },
+    {
+      "album": {
+        "name": "u turn my darkest days 2 lovely shade",
+        "url": "https://open.spotify.com/album/4cPRjLITdHLFvyOsJHPxhL"
+      },
+      "artists": [
+        {
+          "name": "Vectorgeist",
+          "url": "https://open.spotify.com/artist/0DyycUz6XmWbQkIKcTIf7P"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "u turn my darkest days 2 lovely shade",
+      "url": "https://open.spotify.com/track/2HwmicWrAaXPdJPLtP3mX0"
     },
     {
       "album": {

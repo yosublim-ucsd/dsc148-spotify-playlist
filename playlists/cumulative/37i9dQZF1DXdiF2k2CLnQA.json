@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203066,
       "name": "(I Don't Wanna Be) Just A Memory",
       "url": "https://open.spotify.com/track/2mxA7nJ19UTxVFaDPHrTFw"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190718,
       "name": "A Little Bit Off",
       "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Call of the Night",
+        "url": "https://open.spotify.com/album/7e7XJxVyMLTYPjQlnLOLMM"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Call of the Night",
+      "url": "https://open.spotify.com/track/57QjQeKO0GqG004JoqZyTZ"
+    },
+    {
+      "album": {
         "name": "Call Of The Wild",
         "url": "https://open.spotify.com/album/29XfzrtqwBuZiGZg0TpTpN"
       },
@@ -858,6 +876,24 @@
       "duration_ms": 252461,
       "name": "Disciple",
       "url": "https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW"
+    },
+    {
+      "album": {
+        "name": "Do You Feel Normal",
+        "url": "https://open.spotify.com/album/5HMUc1d2gYS0izJrMY3a7N"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Do You Feel Normal",
+      "url": "https://open.spotify.com/track/0pFuiLV4YNQwjyBXJz4sOm"
     },
     {
       "album": {
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195013,
       "name": "Game of Faces",
       "url": "https://open.spotify.com/track/49loMZxyVpQJZCX0O1sSwV"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -1410,6 +1446,24 @@
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
+    },
+    {
+      "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
     },
     {
       "album": {
@@ -1684,7 +1738,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201586,
       "name": "It All Goes Away in the End",
       "url": "https://open.spotify.com/track/4k6m9bL6oJ7I1Z4c5RqUBr"
@@ -2070,7 +2124,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 198098,
       "name": "Maze of Fools",
       "url": "https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb"
@@ -2296,6 +2350,28 @@
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "album": {
+        "name": "Overdose (feat. Blindside)",
+        "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Overdose - feat. Blindside",
+      "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
     },
     {
       "album": {
@@ -2768,7 +2844,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 249109,
       "name": "Speed of Darkness",
       "url": "https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR"
@@ -2906,6 +2982,24 @@
       "duration_ms": 217348,
       "name": "Sunraven",
       "url": "https://open.spotify.com/track/4KehhSNvzbYqBqpkbOOlLX"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/0h9im8yM6BkDKQMcYAjGAb"
+      },
+      "artists": [
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/0yB6DHM1KJzWtmGmvd4vsq"
     },
     {
       "album": {
@@ -3172,10 +3266,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208592,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW"
     },
     {
       "album": {
@@ -3406,7 +3518,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183584,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
@@ -3536,6 +3648,24 @@
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "album": {
+        "name": "March Of The Unheard",
+        "url": "https://open.spotify.com/album/6EQlO9uIXbTWmQhewE59mL"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "What We Become",
+      "url": "https://open.spotify.com/track/4qWL56zBqr2dwZLyBUVPH1"
     },
     {
       "album": {

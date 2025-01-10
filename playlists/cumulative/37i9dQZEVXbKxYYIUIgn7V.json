@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 153826,
       "name": "100 Push Ups",
       "url": "https://open.spotify.com/track/5OJYxgz6ORI1EhSZzv8aUC"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 598786,
       "name": "An der sch\u00f6nen blauen Donau, Walzer, Op. 314",
       "url": "https://open.spotify.com/track/7woSMo1G2Xa6wIhikr4Ps1"
@@ -2136,10 +2136,28 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "BANG BANG BANG - KR Ver.",
+      "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
     },
     {
       "album": {
@@ -4061,6 +4079,28 @@
     },
     {
       "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+    },
+    {
+      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
       },
@@ -5016,7 +5056,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -6066,7 +6106,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 140273,
       "name": "Drink in Moderation",
       "url": "https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ"
@@ -6364,7 +6404,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 231800,
       "name": "Elle t\u2019a tu\u00e9",
       "url": "https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj"
@@ -11120,6 +11160,28 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "album": {
+        "name": "Im Doing Fine",
+        "url": "https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        },
+        {
+          "name": "Promoting Sounds",
+          "url": "https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99844,
+      "name": "Im Doing Fine",
+      "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
     },
     {
       "album": {
@@ -16508,7 +16570,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 277000,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/6oN1ma8oFJHy87lXX8LsZL"
@@ -18146,7 +18208,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
@@ -19244,6 +19306,24 @@
       "duration_ms": 156800,
       "name": "S&S",
       "url": "https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT"
+    },
+    {
+      "album": {
+        "name": "Prangalar",
+        "url": "https://open.spotify.com/album/0yabKmBeSUaafWuA3mLVrC"
+      },
+      "artists": [
+        {
+          "name": "Ferdi Tayfur",
+          "url": "https://open.spotify.com/artist/6WLkcqDXHgfe80TNMH1C5z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Sabah\u00e7\u0131 Kahvesi",
+      "url": "https://open.spotify.com/track/2Opk6XL5mU2SwL3bdfMB5P"
     },
     {
       "album": {

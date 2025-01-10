@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Fred again..
+> Beyond titles, beyond genre\. Cover: Joy Crookes
 
-353 songs - 20 hr 31 min
+356 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Elk Skin](https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Elk Skin](https://open.spotify.com/album/5twIZTmDYO9d7awAUvVRkV) | 2:52 | 2024-06-27 | 2024-07-05 |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-11-08 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-09 |
+| [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-10 |  |
 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2024-10-10 |  |
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-27 | 2024-08-24 |
 | [Eye Candy](https://open.spotify.com/track/6U5z8bWMziHL0LjQDJrqY4) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Sad Lovers And Giants](https://open.spotify.com/album/2LznuzPtonWQoBR525OyLC) | 2:41 | 2024-06-27 | 2024-08-02 |
@@ -241,6 +242,7 @@
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-05 | 2024-08-24 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 |  |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-06-27 | 2024-08-30 |
+| [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 | 2025-01-10 |  |
 | [Perfect Stranger](https://open.spotify.com/track/26mCESsJXRzt5ZIlzjSKfW) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfect Stranger](https://open.spotify.com/album/44GIXVGBr6kzE1abQixw2f) | 3:17 | 2024-10-17 | 2024-11-15 |
 | [Perfume](https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Perfume](https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV) | 2:27 | 2024-06-27 | 2024-08-09 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-20 | 2024-10-04 |
@@ -270,7 +272,7 @@
 | [RUNNING FOR DAYS](https://open.spotify.com/track/25TXKIB0SntxnyEQnwBden) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [SUNDAY 2 SUNDAY](https://open.spotify.com/album/3NXFbf3l52OhNGWzekkj12) | 2:32 | 2024-10-17 | 2024-11-29 |
 | [SAINT OR SINNER \(feat\. Sainté\)](https://open.spotify.com/track/5GKRgN9fK3iyJlYABVOViI) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [SAINT OR SINNER \(feat\. Sainté\)](https://open.spotify.com/album/4UpL761DkEMqfa4k8MSxcA) | 3:47 | 2024-11-08 |  |
 | [Sandringham](https://open.spotify.com/track/2kaOCp1THEcL48ws2I7fOo) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Sandringham](https://open.spotify.com/album/2vCx6QsLsSgbf1giBj98mM) | 3:15 | 2024-06-27 | 2024-07-12 |
-| [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 | 2024-08-01 |  |
+| [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 | 2024-08-01 | 2025-01-10 |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-18 | 2024-09-06 |
 | [Screamland](https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Screamland](https://open.spotify.com/album/1cWcuem4swWjrTCPnga6Wd) | 6:51 | 2024-10-03 |  |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2024-06-27 | 2024-07-12 |
@@ -302,6 +304,7 @@
 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 | 2024-08-15 | 2024-09-21 |
 | [Sunshine](https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Sunshine](https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2) | 2:19 | 2024-08-15 |  |
 | [Survival](https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Survival](https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h) | 3:33 | 2024-11-15 | 2024-11-22 |
+| [Swamp Dream \#3](https://open.spotify.com/track/1FIA1xt2eYznjHnQaqQdKA) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Swamp Dream \#3](https://open.spotify.com/album/22DkUZFRY0EV5npieYC7CC) | 4:29 | 2025-01-10 |  |
 | [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 | 2024-12-06 |  |
 | [TARDIS \(hardest\)](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 | 2024-10-10 |  |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-06-27 | 2024-10-04 |
@@ -345,7 +348,7 @@
 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 | 2024-08-08 | 2024-10-04 |
 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 | 2024-09-27 |  |
 | [War](https://open.spotify.com/track/4Q5lIWBrKd0LafLW2bFrBC) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [War](https://open.spotify.com/album/6faQlIwLHq32QAs52QqFdr) | 2:55 | 2024-10-24 | 2024-11-29 |
-| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-27 |  |
+| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-27 | 2025-01-10 |
 | [WE CANNOT BE FRIENDS](https://open.spotify.com/track/1T21V9uTRE3Rmfujj7jJFS) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [WE CANNOT BE FRIENDS](https://open.spotify.com/album/62XBRbkplmfihS7mpYsxKB) | 1:57 | 2024-06-27 | 2024-08-24 |
 | [We Move](https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Common People](https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu) | 2:26 | 2024-08-23 | 2024-09-28 |
 | [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 | 2024-11-01 |  |

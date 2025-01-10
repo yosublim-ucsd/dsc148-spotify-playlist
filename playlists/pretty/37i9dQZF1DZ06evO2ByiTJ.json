@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 14936,
+  "num_followers": 14938,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAACE/9IB2U15jC7p7Xjzt3zz",
+  "snapshot_id": "Z33AAAAAAAAlbQCbREbA1jgI5tBj2TYu",
   "tracks": [
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mergulhar",
-        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Mergulhar",
-      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "Lindo Presente",
-      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -307,6 +275,38 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mergulhar",
+        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Mergulhar",
+      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palavras L\u00edquidas",
-        "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 267122,
-      "name": "Palavras L\u00edquidas",
-      "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filho Volta (Ao Vivo)",
         "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 260062,
       "name": "Filho Volta (Ao Vivo)",
       "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palavras L\u00edquidas",
+        "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 267122,
+      "name": "Palavras L\u00edquidas",
+      "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bastidores da Alma",
         "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
       },
@@ -715,38 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+        "name": "Humilde Rei",
+        "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumpra o Seu Chamado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 258670,
-      "name": "O Reino (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+      "duration_ms": 331673,
+      "name": "Humilde Rei",
+      "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humilde Rei",
-        "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
         },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 331673,
-      "name": "Humilde Rei",
-      "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
+      "duration_ms": 258670,
+      "name": "O Reino (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 294846,
-      "name": "Minha Alma Canta",
-      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulher Realizada",
-        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
       "artists": [
         {
@@ -876,9 +876,25 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 257648,
-      "name": "Mulher Realizada",
-      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
+      "duration_ms": 294846,
+      "name": "Minha Alma Canta",
+      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 381747,
+      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
       "duration_ms": 254000,
       "name": "Santifica\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 381747,
-      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ"
     },
     {
       "added_at": null,

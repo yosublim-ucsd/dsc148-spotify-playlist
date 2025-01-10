@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADXW2OBYIvTZS5L2iTyOsVR",
+  "snapshot_id": "Z33AAAAAAABwnYKU8uEQtj7P7AXobtv4",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 175933,
-      "name": "Jesus Give Me Your Light",
-      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
+      "duration_ms": 312653,
+      "name": "Hosannah",
+      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 1108400,
-      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
-      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
+      "duration_ms": 321386,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Hosannah",
-      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
+      "duration_ms": 175933,
+      "name": "Jesus Give Me Your Light",
+      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 321386,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
+      "duration_ms": 1108400,
+      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
+      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 913786,
-      "name": "Chant Of The Slaves Let My People Go",
-      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 501040,
       "name": "3rd World",
       "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 913786,
+      "name": "Chant Of The Slaves Let My People Go",
+      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 305026,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother & Child",
-        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "My Cherie Koko",
-      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wind Of Change",
         "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
     },
     {
       "added_at": null,
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos Evergreen Golden Oldies, Vol. 4",
-        "url": "https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE"
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 421319,
-      "name": "Give Peace a Chance",
-      "url": "https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5"
+      "duration_ms": 337666,
+      "name": "My Cherie Koko",
+      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
     },
     {
       "added_at": null,
@@ -632,9 +616,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos Evergreen Golden Oldies, Vol. 4",
+        "url": "https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 421319,
+      "name": "Give Peace a Chance",
+      "url": "https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

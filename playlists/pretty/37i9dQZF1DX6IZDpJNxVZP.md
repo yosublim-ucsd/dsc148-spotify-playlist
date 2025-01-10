@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,373 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,359 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 28 | [Jill's Frozen Palace \- Snow Queen](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 |
 | 29 | [Santa's Workshop](https://open.spotify.com/track/4Sqsx7S1LPsfGoQwbw7dkC) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Christmas Time Is Here](https://open.spotify.com/album/6iDFWowtQh95D7RQQwXwxB) | 2:09 |
 | 30 | [We Wish You a Merry Christmas](https://open.spotify.com/track/3O3tvaQnp76v0UquL3B8SA) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [We Wish You a Merry Christmas](https://open.spotify.com/album/2gMdZ3jT2q3dHjXJt1D7B8) | 2:00 |
-| 31 | [Frosty The Snowman](https://open.spotify.com/track/349fQEoRFDZ5m8k3ZfjocF) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Preschool Christmas Classroom Party](https://open.spotify.com/album/2h8sF8OAxSXhQHRnCA1Q9c) | 2:36 |
-| 32 | [Christmas Lights \- Remix](https://open.spotify.com/track/4mNzUbMTxvqdNkAiVOS0My) | [Emma Memma](https://open.spotify.com/artist/2PS0ZMl0nYZdad60L9AXs2) | [Christmas Twirls](https://open.spotify.com/album/2xCOzoPJVr2wxzgjIhs9qO) | 1:57 |
+| 31 | [Christmas Lights \- Remix](https://open.spotify.com/track/4mNzUbMTxvqdNkAiVOS0My) | [Emma Memma](https://open.spotify.com/artist/2PS0ZMl0nYZdad60L9AXs2) | [Christmas Twirls](https://open.spotify.com/album/2xCOzoPJVr2wxzgjIhs9qO) | 1:57 |
+| 32 | [Frosty The Snowman](https://open.spotify.com/track/349fQEoRFDZ5m8k3ZfjocF) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Preschool Christmas Classroom Party](https://open.spotify.com/album/2h8sF8OAxSXhQHRnCA1Q9c) | 2:36 |
 | 33 | [Going on a Christmas Tree Hunt](https://open.spotify.com/track/4gCQZI8yCd0v6w6UXIkKsH) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Going on a Christmas Tree Hunt](https://open.spotify.com/album/2GiHIln2tWIzCwwqTgs14m) | 3:13 |
 | 34 | [Ho\-Ho\-Hold on Santa Claus](https://open.spotify.com/track/5tmrl605ygkCjlUEKleR2G) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [The Christmas Letter Express](https://open.spotify.com/album/5ErYLRjXLr4eZ55NnYX2zG) | 1:55 |
 | 35 | [December](https://open.spotify.com/track/0ldDNBNLg6qcoYSnWCAh0n) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [What Rhymes with Christmas?](https://open.spotify.com/album/572SOvoRt1WapSCxJDn4Mc) | 3:31 |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 255500,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 172818,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/30ACOtgBj1PqZs1erzFZkU"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 152920,
       "name": "Dark Waters",
       "url": "https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 163010,
       "name": "Desert Silhouette",
       "url": "https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK"
@@ -924,6 +924,24 @@
       "duration_ms": 180324,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Main Theme)",
+        "url": "https://open.spotify.com/album/5ELrtg0cvRebmaLjRV0wDb"
+      },
+      "artists": [
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4Brx4Xgpzsic1AXynycZbT"
     },
     {
       "album": {
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 156036,
       "name": "Everness",
       "url": "https://open.spotify.com/track/1IfYfVPTYbiDY9UXTBrdVj"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 188737,
       "name": "Fleurel",
       "url": "https://open.spotify.com/track/6R4Z8r68yy8DTZPGZxVw0J"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178142,
       "name": "Il Segreto Dell Isola",
       "url": "https://open.spotify.com/track/7odpvITlqx8YH3QQONsJf5"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168750,
       "name": "Into The Stillness",
       "url": "https://open.spotify.com/track/33e8KMmhVnNr0BLuWENnv9"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 174122,
       "name": "Lines",
       "url": "https://open.spotify.com/track/4ioMVSJSI6mBdqKUv0M1G3"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 131424,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194118,
       "name": "Mosaique",
       "url": "https://open.spotify.com/track/6XpUvvmpWS1B9X1kaM2D5K"
@@ -2102,6 +2120,24 @@
       "duration_ms": 137874,
       "name": "Moving through mist",
       "url": "https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG"
+    },
+    {
+      "album": {
+        "name": "Nadir of Night & Slow Joy",
+        "url": "https://open.spotify.com/album/7FhE3KVmlJ4fs1weE1nopN"
+      },
+      "artists": [
+        {
+          "name": "Times That Bind",
+          "url": "https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229238,
+      "name": "Nadir of Night",
+      "url": "https://open.spotify.com/track/0tLaTUhLodARQr9Ar4Csbb"
     },
     {
       "album": {
@@ -2350,7 +2386,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168853,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/3mKHiftWOxd924pvEFKmoU"
@@ -2685,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Sidetracks",
+        "url": "https://open.spotify.com/album/7Ay05HbI8ewJ0adwCkdUNd"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141094,
+      "name": "Sidetracks",
+      "url": "https://open.spotify.com/track/1GPr85QnsaNmTswc9yZDdv"
+    },
+    {
+      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -2714,7 +2768,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
@@ -2876,7 +2930,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206000,
       "name": "Sonnambulismo",
       "url": "https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn"
@@ -2898,6 +2952,24 @@
       "duration_ms": 207258,
       "name": "Soothing Me",
       "url": "https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d"
+    },
+    {
+      "album": {
+        "name": "Space And Time",
+        "url": "https://open.spotify.com/album/4LrWPYHxAbOFcZaRk95Q11"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8NAR",
+          "url": "https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161724,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/4YLiYg16yCPIl5JgnoBmlR"
     },
     {
       "album": {
@@ -2955,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Stav",
+        "url": "https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168151,
+      "name": "Stav",
+      "url": "https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3"
+    },
+    {
+      "album": {
         "name": "Staying Safe",
         "url": "https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ"
       },
@@ -2966,7 +3056,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 198149,
       "name": "Staying Safe",
       "url": "https://open.spotify.com/track/3uokV7euVTekwkO5SzFpnK"
@@ -3262,7 +3352,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191117,
       "name": "The Air Within",
       "url": "https://open.spotify.com/track/3rv1zUyotgtooIhn1QtCSe"
@@ -3410,7 +3500,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 130912,
       "name": "The Quiet Hours",
       "url": "https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy"

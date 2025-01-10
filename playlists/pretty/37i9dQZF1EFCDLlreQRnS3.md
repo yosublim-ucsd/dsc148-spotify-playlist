@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 123 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 125 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,9 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 117 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 |
 | 118 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
 | 119 | [Rose Tinted Glass](https://open.spotify.com/track/0ZFyR9BTGHh3UwEshTCTJ2) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Rose Tinted Glass](https://open.spotify.com/album/4BAOiUD1gpDwGn3X0ehWe2) | 2:19 |
-| 120 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
-| 121 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
-| 122 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
-| 123 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
+| 120 | [Inbetweener](https://open.spotify.com/track/4wYAbzIHl74dcW8ALGGyXK) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Inbetweener](https://open.spotify.com/album/5ppaoO6GLCSKM9gRpJhp4w) | 3:35 |
+| 121 | [Tears That I Don't Cry](https://open.spotify.com/track/6ShC9PQdkvfkfZAVvAES3L) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Know Your Worth](https://open.spotify.com/album/51LpnxfZdO57uxieZ4lmfz) | 3:25 |
+| 122 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
+| 123 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
+| 124 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
+| 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbmWSgAAAACXy3D3z+xtLB3Ue5gQ80T1`
+Snapshot ID: `Abmb4AAAAAAyWin6wK8PI+ray14psj8Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,986 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,173 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 7 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
 | 8 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 |
 | 9 | [Cenário Favorável \- Ao Vivo](https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Cenário Favorável \(Ao Vivo\)](https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc) | 5:42 |
-| 10 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
-| 11 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 |
+| 10 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 |
+| 11 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
 | 12 | [É Adorar](https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [É Adorar](https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC) | 3:57 |
 | 13 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
 | 14 | [Minha Bênção](https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Minha Bênção](https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN) | 4:26 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 59 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
 | 60 | [Não Abrimos Mão do Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Não Abrimos Mão do Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD) | 10:47 |
 | 61 | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Passar pela Moenda \(Ao Vivo\)](https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc) | 5:21 |
-| 62 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
-| 63 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
+| 62 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
+| 63 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
 | 64 | [Que Grande Amor](https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Que Grande Amor](https://open.spotify.com/album/2o5QptigV392N1NttpUZQh) | 6:52 |
 | 65 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 66 | [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 |

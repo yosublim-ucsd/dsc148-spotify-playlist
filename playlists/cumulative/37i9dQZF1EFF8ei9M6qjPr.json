@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "ALL I NEED",
+        "url": "https://open.spotify.com/album/2e7iBgtxzE2lymEAjYSnS5"
+      },
+      "artists": [
+        {
+          "name": "Mia Sora",
+          "url": "https://open.spotify.com/artist/5KfyVusD5stu0TBkXqAqiw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "ALL I NEED",
+      "url": "https://open.spotify.com/track/6Qdsd8iXAdcmDvBdAMz3WL"
+    },
+    {
+      "album": {
         "name": "Westside: The Music (Music from the Original Series)",
         "url": "https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru"
       },
@@ -3041,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/6oTGR6eKOW3YI6ktACcdYd"
+      },
+      "artists": [
+        {
+          "name": "Evaride",
+          "url": "https://open.spotify.com/artist/6kU38KiIBwTXUbMbQqBnKi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209196,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/11j4yNQn5n0lcu7O2lQe5l"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx"
       },
@@ -3074,6 +3110,24 @@
       "duration_ms": 155294,
       "name": "Ways To Go",
       "url": "https://open.spotify.com/track/362mICSCjlQZztf36d0aMN"
+    },
+    {
+      "album": {
+        "name": "We Never Die",
+        "url": "https://open.spotify.com/album/09XoHuaVbwVE3arJktykNU"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "We Never Die",
+      "url": "https://open.spotify.com/track/1OfA2pIJafysuWz5WlBEZQ"
     },
     {
       "album": {

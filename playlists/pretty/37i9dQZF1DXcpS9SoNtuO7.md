@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,399 likes - 101 songs - 19 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,401 likes - 101 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 11 | [\#65 「学マス“初心公演”」の尊さ、「内田真礼VS内田雄馬」の凄みを語りたい／各地に広がるアニソンフェスを応援したい](https://open.spotify.com/episode/7JL6K19mQTrmqDrrnYV2LN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 49:48 |
 | 12 | [LINKs](https://open.spotify.com/track/0qew2O6aoMGAh77V19AdR8) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS Song for Prism 時限式狂騒ワンダーランド / LINKs【ストレイライト盤】](https://open.spotify.com/album/4jE2dC882GMnscJSe8KrMt) | 4:29 |
 | 13 | [\#64 『ダンダダン』屈服せざるを得なかった凄まじさ／サカナクション、新たな代表曲誕生／『らんま1/2』を観て実家に帰りたくなる](https://open.spotify.com/episode/3DO1nHE805NXvU7VCopma3) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 42:47 |
-| 14 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
+| 14 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 15 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 |
 | 16 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 |
 | 17 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 |

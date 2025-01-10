@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Tell Him Yes v1.1](https://open.spotify.com/track/0UcdBfbJYyjfLxsRs0rOOS) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/3NTA5iKL3O6gCkxyKRWEVC) | 5:18 |
 | 50 | [I Just Can't Give Up Now](https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS) | [ACM Gospel Choir](https://open.spotify.com/artist/4XUjYkrgrCyiWnjD9h0SuD) | [ACM Gospel Choir](https://open.spotify.com/album/6JR2N4MIu4gk7MDUUBkc0U) | 5:01 |
 
-Snapshot ID: `Z39ALwAAAACqE8QFTXDTxw5z9Y5GptQV`
+Snapshot ID: `Z4CSkgAAAAB+TLaukm4eN+/oDnG3ZviP`

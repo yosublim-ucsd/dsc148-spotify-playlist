@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 23 | [Mad at You](https://open.spotify.com/track/15xawByQGSgYAztg5aRc7g) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad at You](https://open.spotify.com/album/4mdm9IcJ8c4ymN2625XVzx) | 3:28 |
 | 24 | [Till The Wheels Fall Off](https://open.spotify.com/track/5twbormkRFN0lYnHV2pRq1) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:34 |
 | 25 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 |
-| 26 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 |
-| 27 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 |
+| 26 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 |
+| 27 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 |
 | 28 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 |
 | 29 | [Pieces](https://open.spotify.com/track/60X8wf919CCv2oveCWuZ0P) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/7mfv2wp9VaGJ1IFedC0I5G) | 3:13 |
 | 30 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 37 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 38 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AbmWcgAAAAD3Yx5raRJjzpBa0PgavlPe`
+Snapshot ID: `Abmb1gAAAACX0v846XgBGFBHDzI7FU1z`

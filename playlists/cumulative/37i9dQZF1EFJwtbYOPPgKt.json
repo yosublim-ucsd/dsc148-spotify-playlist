@@ -419,6 +419,32 @@
     },
     {
       "album": {
+        "name": "Drop Drop",
+        "url": "https://open.spotify.com/album/1EdlrqyfWhsFZ5cor8z2r5"
+      },
+      "artists": [
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "BASTL",
+          "url": "https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB"
+        },
+        {
+          "name": "WLHELMINA",
+          "url": "https://open.spotify.com/artist/0XKPkyNYSExK4hjtSDwBQ4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168673,
+      "name": "Drop Drop",
+      "url": "https://open.spotify.com/track/6MpglAdk45Rc5Byf4T5yQ4"
+    },
+    {
+      "album": {
         "name": "Empty Promises",
         "url": "https://open.spotify.com/album/4aG6jVv7wIaqLTF5lW80hg"
       },
@@ -1310,6 +1336,28 @@
       "duration_ms": 147273,
       "name": "Wide Eyes",
       "url": "https://open.spotify.com/track/5QyZ1N7SDER4dxQR8UePKU"
+    },
+    {
+      "album": {
+        "name": "With Or Without You",
+        "url": "https://open.spotify.com/album/47knUqhDkKaOocXEK7nVNz"
+      },
+      "artists": [
+        {
+          "name": "Ninski",
+          "url": "https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS"
+        },
+        {
+          "name": "Harina",
+          "url": "https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162564,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/3jtdYJlcBTZya1q3bYTXzr"
     },
     {
       "album": {

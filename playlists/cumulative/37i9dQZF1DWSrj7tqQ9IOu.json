@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
   "name": "Made in France",
   "tracks": [
     {
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Des fleurs",
+        "url": "https://open.spotify.com/album/350HmeclApbU0aOtqWtkjh"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173854,
+      "name": "Des fleurs",
+      "url": "https://open.spotify.com/track/2jNeR1QAIvikSfvpImES6f"
+    },
+    {
+      "album": {
         "name": "Des nuits de \u00e7a",
         "url": "https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy"
       },
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207840,
       "name": "Elle",
       "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
@@ -4850,6 +4868,24 @@
       "duration_ms": 207701,
       "name": "L'\u00c9T\u00c9",
       "url": "https://open.spotify.com/track/0rwsEAo5cS4jMcPOznBEpo"
+    },
+    {
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3y8FpdJmunDxKFcfi8bRxd"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190934,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/2D8d2wso2j57esWEt3Hchy"
     },
     {
       "album": {
@@ -7404,7 +7440,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197497,
       "name": "Pas vraiment",
       "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
@@ -9082,7 +9118,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 131119,
       "name": "T PAS SI BO",
       "url": "https://open.spotify.com/track/2vA0ne4qtPRdQelgpOd33j"
@@ -10028,6 +10064,24 @@
       "duration_ms": 237146,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/0YM0eV5uAlAyv2LPiqWiuV"
+    },
+    {
+      "album": {
+        "name": "Vivant",
+        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194767,
+      "name": "Vendredi",
+      "url": "https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW"
     },
     {
       "album": {

@@ -548,10 +548,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 155744,
       "name": "No Fakin'",
       "url": "https://open.spotify.com/track/6obNchmB8Vv44gbQrxXV9B"
+    },
+    {
+      "album": {
+        "name": "Over Me",
+        "url": "https://open.spotify.com/album/2Wp8m37mA5JSn2dJbDStYg"
+      },
+      "artists": [
+        {
+          "name": "SWIMS",
+          "url": "https://open.spotify.com/artist/1AnetmEDB2FyWGNTumFx5L"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/7LU4Ou2fPdBhNJPDHuw69C"
     },
     {
       "album": {
@@ -660,6 +678,24 @@
       "duration_ms": 145320,
       "name": "Queen of Hearts",
       "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0T7A52Ixbxfu7aXOewxnG6"
+      },
+      "artists": [
+        {
+          "name": "SWIMS",
+          "url": "https://open.spotify.com/artist/1AnetmEDB2FyWGNTumFx5L"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/48cLuwS9p039XEPj7R9OGM"
     },
     {
       "album": {

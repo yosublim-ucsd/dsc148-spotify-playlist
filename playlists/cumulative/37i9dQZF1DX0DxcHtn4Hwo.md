@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-932 songs - 1 day 4 hr 6 min
+934 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Avec tout mon coeur](https://open.spotify.com/track/0T0OkGcyDm0RwrdUV3w6QE) | [Gill Doucet](https://open.spotify.com/artist/2EKkIIIRpn8Jhr9BVXZOXl) | [Avec tout mon coeur](https://open.spotify.com/album/2jr0qVLuyh7jhkxNBrqUKx) | 1:29 | 2022-06-08 | 2023-08-11 |
 | [Awake Asleep](https://open.spotify.com/track/6yR7TwjmKMAUViwMkoleix) | [Engla Widström](https://open.spotify.com/artist/0SXbDqBEPUBXZ7IC9s7vlD) | [Awake Asleep](https://open.spotify.com/album/5pRs7QYPSOv6I8oxyFQDru) | 1:25 | 2021-10-05 | 2022-10-29 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13) | [Alexis George](https://open.spotify.com/artist/12vLFUjezGPpwKXHYkV3yP) | [Baa Baa Black Sheep](https://open.spotify.com/album/3Pki1suDGhOpHF0z6ifiuV) | 1:00 | 2021-10-05 | 2024-03-29 |
-| [Baa, Baa, Black Sheep](https://open.spotify.com/track/4uqmmpElZ5oKk4e98uQePi) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Baa, Baa, Black Sheep](https://open.spotify.com/album/2nAaGOvZ6SUZKThJ7n5yYp) | 2:16 | 2024-07-26 |  |
+| [Baa, Baa, Black Sheep](https://open.spotify.com/track/4uqmmpElZ5oKk4e98uQePi) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Baa, Baa, Black Sheep](https://open.spotify.com/album/2nAaGOvZ6SUZKThJ7n5yYp) | 2:16 | 2024-07-26 | 2025-01-10 |
 | [Babblarnas vaggvisa](https://open.spotify.com/track/6gopKSJWGbabzToovwmEbJ) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [Babblarnas vaggvisa](https://open.spotify.com/album/4gNojEh1nck10cN21lkIf4) | 2:24 | 2022-10-28 | 2022-11-19 |
 | [Baby Bear](https://open.spotify.com/track/524hkBEPBBTRkNOykE1hti) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Baby Bear](https://open.spotify.com/album/1AZO1KDhtV8y3CX1DjToPj) | 1:46 | 2024-03-22 |  |
 | [Baby Bear’s Ballad](https://open.spotify.com/track/5wwecYMNWdNcRwoIkZcsLX) | [Madeline Lavender](https://open.spotify.com/artist/1NHyRzNtgtp43tHBx9jFhx) | [Baby Bear’s Ballad](https://open.spotify.com/album/2rgq50I7ge7K6PQRlTn70w) | 2:28 | 2024-08-23 |  |
@@ -692,6 +692,7 @@
 | [Sleeping Kittens](https://open.spotify.com/track/0vj5yQHpZZWsa8LqbRN5GX) | [Lil.Y](https://open.spotify.com/artist/5CXTtl8C557PxwQul1ABM1) | [Sleeping Kittens](https://open.spotify.com/album/42LjZhVlNitlp9kfk4HFG0) | 1:51 | 2022-07-27 | 2024-07-19 |
 | [Sleepy Blue Eyes](https://open.spotify.com/track/7vGmELXSNDa6qxx4qUtmuv) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Sleepy Blue Eyes](https://open.spotify.com/album/5JdVTmprLf5m3Qx47JvI1I) | 1:58 | 2023-03-10 | 2024-07-19 |
 | [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 1:18 | 2021-10-05 | 2024-03-29 |
+| [Sleepy Clouds](https://open.spotify.com/track/1rkOCmcFSdyIS5Ct4ABJ2i) | [Orion Nights](https://open.spotify.com/artist/66FOnIrGlHNlqMye0Ph82d) | [Sleepy Clouds](https://open.spotify.com/album/3uaMDdG7qSerUcqdqBMpqJ) | 1:52 | 2025-01-09 |  |
 | [Sleepy Clouds](https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Sleepy Clouds](https://open.spotify.com/album/0iSkJupalfCNNeLEMjW1P2) | 1:11 | 2024-03-01 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/02jrNnw7QK6vw3Lh4AHnQc) | [Little Penguin](https://open.spotify.com/artist/6WIlTEo0N852kQSPXsCU8Y) | [Sleepy Eyes](https://open.spotify.com/album/17Y1MU2PaCHr2Tyr1tljXn) | 2:07 | 2021-10-05 | 2024-03-29 |
 | [Sleepy Eyes](https://open.spotify.com/track/5283YmH40jwKUwMHKhaQ9H) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Sleepy Eyes](https://open.spotify.com/album/3fOjCd8xAkWzvnKeU1hzHl) | 1:56 | 2022-04-20 | 2024-06-22 |
@@ -707,6 +708,7 @@
 | [Slumber](https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Slumber](https://open.spotify.com/album/16bIw6IgHLqIgNrBntAgGI) | 1:50 | 2024-05-24 |  |
 | [Slumber Sky](https://open.spotify.com/track/5c22QzDuwB2Bq5m0wtD4CZ) | [Bella Ryan](https://open.spotify.com/artist/5BcDfs8faxn3PLreXI84f8) | [Slumber Sky](https://open.spotify.com/album/5ycSiGcAeSp3P4a6Iq3uV5) | 1:52 | 2022-04-20 | 2023-08-25 |
 | [Slumber Slumber](https://open.spotify.com/track/1UT9kSB7uXa4tFVq5AxztN) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Slumber Slumber](https://open.spotify.com/album/60Hx9WjhzCNmPG3ugl0T3u) | 1:09 | 2023-02-17 |  |
+| [Slumberhino](https://open.spotify.com/track/78xpirJLnmvnpss75W4hoK) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Slumberhino](https://open.spotify.com/album/4pPMVBKOzZ9ORksmO1b2Zo) | 2:08 | 2025-01-09 |  |
 | [Slumra Min Vän](https://open.spotify.com/track/58VOhFHz9UMqDPryNsX6SS) | [Amelie Tati](https://open.spotify.com/artist/6JTgpqC6HfRJHzL9fCHGKB) | [Slumra Min Vän](https://open.spotify.com/album/32FMH7upIL59SOmfZOimwG) | 2:24 | 2022-04-20 | 2023-01-27 |
 | [Smiling In My Sleep](https://open.spotify.com/track/4k2xVaV0x3RdW3vUoL68h3) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Smiling In My Sleep](https://open.spotify.com/album/3YbzN8nHdN5jorYjpNvzLu) | 2:10 | 2021-10-05 | 2024-03-29 |
 | [Snart skal du sove](https://open.spotify.com/track/6ZiA9pkMVVxpCw8m1LciW9) | [Solveig Green](https://open.spotify.com/artist/7CjEbkZgG613pA83cnudnK) | [Snart skal du sove](https://open.spotify.com/album/3Gz3JKTXcHNYjopzM5YhKu) | 1:54 | 2021-10-05 | 2022-12-24 |

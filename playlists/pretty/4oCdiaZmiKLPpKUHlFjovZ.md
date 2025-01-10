@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
+> Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,845 likes - 88 songs - 3 hr 56 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,844 likes - 88 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 87 | [DAT BOY DEN](https://open.spotify.com/track/25uHS9sdrhZecYFfSRnz1k) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [DAT BOY DEN](https://open.spotify.com/album/20AweIUmetnWYC7YdxCmir) | 2:24 |
 | 88 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 
-Snapshot ID: `AAAa2WYGWujHcXOvOicAiu6bMO8ZyigB`
+Snapshot ID: `AAAa24SH32SdvkIJUQv2WEXZx6DLNb/A`

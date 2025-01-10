@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 244052,
+  "num_followers": 244048,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "2 Sides of a Rose",
-        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
+        "name": "Silky Feels",
+        "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
       "artists": [
         {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+          "name": "Simona",
+          "url": "https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB"
+        },
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
         }
       ],
-      "duration_ms": 146938,
-      "name": "Quite Like Me",
-      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
+      "duration_ms": 165423,
+      "name": "Silky Feels",
+      "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -995,22 +999,18 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Silky Feels",
-        "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
+        "name": "2 Sides of a Rose",
+        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
       },
       "artists": [
         {
-          "name": "Simona",
-          "url": "https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB"
-        },
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
         }
       ],
-      "duration_ms": 165423,
-      "name": "Silky Feels",
-      "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
+      "duration_ms": 146938,
+      "name": "Quite Like Me",
+      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
     },
     {
       "added_at": "2024-12-05 10:25:46",

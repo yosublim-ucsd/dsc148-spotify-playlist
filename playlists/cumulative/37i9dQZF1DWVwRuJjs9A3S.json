@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the highlights from the world of indie! Cover: Rex Orange County",
+  "description": "All the highlights from the world of indie! Cover: Isak Benjamin",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -96,6 +96,32 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "album": {
@@ -345,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
       },
@@ -534,6 +578,24 @@
       "duration_ms": 151139,
       "name": "anywhere",
       "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1nTunof0h6rRsRb7S0fxcZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226478,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1DJxgr5EBDty2LY1HP089Z"
     },
     {
       "album": {
@@ -1455,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/5x6OYSg0Ff5MbGmKnkxg9J"
+      },
+      "artists": [
+        {
+          "name": "Lelle Buff",
+          "url": "https://open.spotify.com/artist/7tuwXdsQqWaYVaYFgeWVZJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/2YEDUnhMEKXfywhPyzhJTH"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
       },
@@ -1644,6 +1724,24 @@
       "duration_ms": 210247,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN"
+    },
+    {
+      "album": {
+        "name": "Day Old Thoughts",
+        "url": "https://open.spotify.com/album/6Ox6ZXPxzkDom4m4jaNNEd"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220604,
+      "name": "Day Old Thoughts",
+      "url": "https://open.spotify.com/track/3Cpx9womIEOfkMygNJJWYR"
     },
     {
       "album": {
@@ -2888,6 +2986,24 @@
       "duration_ms": 714201,
       "name": "Go Where I Wanna Go",
       "url": "https://open.spotify.com/track/5K9HayAodE0zuiWlb7aXKF"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4rMRBvrS3yF7liMtP4FHrK"
+      },
+      "artists": [
+        {
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/7vw9Nj01B5HdcIkkb3sKHj"
     },
     {
       "album": {
@@ -5153,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/07r23NGBL1nKdpDaMsmbtk"
       },
@@ -5550,6 +5684,24 @@
       "duration_ms": 156690,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+    },
+    {
+      "album": {
+        "name": "ooo",
+        "url": "https://open.spotify.com/album/299nAiPsiRFHImwmxZ0HRq"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139080,
+      "name": "ooo",
+      "url": "https://open.spotify.com/track/5ZMvVmNZepJxqf2Cui2aeu"
     },
     {
       "album": {
@@ -6037,6 +6189,28 @@
     },
     {
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Hot Flash Heat Wave",
+          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP"
+    },
+    {
+      "album": {
         "name": "Reminds Me of Us",
         "url": "https://open.spotify.com/album/5Gjdbi4VdIb3IcctyUAPPD"
       },
@@ -6257,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Automatic (Preview)",
+        "url": "https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB"
+    },
+    {
+      "album": {
         "name": "SAMESAME feat. Izza Gara",
         "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
       },
@@ -6276,6 +6468,24 @@
       "duration_ms": 218181,
       "name": "SAMESAME (feat. Izza Gara)",
       "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
+      "album": {
+        "name": "San Miguel",
+        "url": "https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc"
+      },
+      "artists": [
+        {
+          "name": "Van Dame",
+          "url": "https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234875,
+      "name": "San Miguel",
+      "url": "https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp"
     },
     {
       "album": {
@@ -7083,7 +7293,7 @@
     },
     {
       "album": {
-        "name": "Super Market Fridays",
+        "name": "Supermarket Fridays",
         "url": "https://open.spotify.com/album/1r9zHUtC13FtsOY601Qud2"
       },
       "artists": [
@@ -7096,7 +7306,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242974,
-      "name": "Super Market Fridays",
+      "name": "Supermarket Fridays",
       "url": "https://open.spotify.com/track/01f2MOPf7mAIJBocrM7nKo"
     },
     {
@@ -8097,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "what if...(dancing alone)",
+        "url": "https://open.spotify.com/album/2QMxX59qbzl5xoHokyevPg"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150473,
+      "name": "what if... (dancing alone)",
+      "url": "https://open.spotify.com/track/0fvzQnvFvbtmsVETDn9NeC"
+    },
+    {
+      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -8220,6 +8448,24 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "album": {
+        "name": "WIND BLOW",
+        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205804,
+      "name": "WIND BLOW",
+      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
     },
     {
       "album": {
@@ -8462,6 +8708,24 @@
       "duration_ms": 205146,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+    },
+    {
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
     },
     {
       "album": {

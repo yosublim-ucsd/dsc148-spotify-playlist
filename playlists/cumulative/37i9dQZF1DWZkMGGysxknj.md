@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-296 songs - 17 hr 0 min
+297 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I Know a Place](https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [I Know a Place](https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA) | 2:09 | 2021-07-16 |  |
 | [I Know You're Scared](https://open.spotify.com/track/1jsYDmtSGqiOkQ10FDAW7K) | [JumpCircus](https://open.spotify.com/artist/7d9bjvv9XpbR6qewAWcP4v) | [I Know You're Scared](https://open.spotify.com/album/1Af7t6RGEJ8XGk6gZ2ri0Y) | 2:57 | 2021-07-16 | 2022-07-29 |
 | [I Like Me Better](https://open.spotify.com/track/3JnT8BV7zW6uuOWVgec98v) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [I Like Me Better](https://open.spotify.com/album/4iNcyb5KYzejr9t5OROcFw) | 3:38 | 2021-07-16 |  |
-| [I Love It](https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [I Love It](https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR) | 3:18 | 2021-07-16 |  |
+| [I Love It](https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [I Love It](https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR) | 3:18 | 2021-07-16 | 2025-01-10 |
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2021-07-16 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-07-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-07-16 | 2023-01-03 |
@@ -173,6 +173,7 @@
 | [Losing My Religion](https://open.spotify.com/track/5gQJkOnav0JZPh32HERWYD) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/64SvXrbWzFrDIykCtZ4O3r) | 4:06 | 2021-07-16 | 2022-07-29 |
 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 | 2021-07-16 |  |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-07-16 |  |
+| [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 | 2025-01-09 |  |
 | [Mente de Agua](https://open.spotify.com/track/2ur4kl2hjkQKRjMSJL9GuB) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:39 | 2024-03-08 | 2024-06-28 |
 | [Mi Gente \- Acoustic](https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC), [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Mi Gente \(Acoustic\)](https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj) | 2:40 | 2021-07-16 |  |
 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-07 |  |

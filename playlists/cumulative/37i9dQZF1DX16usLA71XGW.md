@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Zuchu
+> East Africa queens in their music bag\. Cover: Lydia Jazmin
 
-154 songs - 8 hr 10 min
+155 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 | 2022-11-24 | 2024-02-24 |
 | [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 | 2022-10-14 |
 | [Ndaga](https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy) | [Irene Ntale](https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W) | [Ndaga](https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7) | 3:12 | 2022-07-18 | 2023-09-08 |
+| [NEMANYI](https://open.spotify.com/track/078II2LP3ll9bCGHAeHMJc) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [NEMANYI](https://open.spotify.com/album/6MLCSfgN9nR1KdegiFY1HN) | 3:21 | 2025-01-09 |  |
 | [Never Ever](https://open.spotify.com/track/19aCgeY2NVaGsZLEd6aTWh) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 2:54 | 2022-07-18 | 2024-09-28 |
 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 | 2022-12-16 | 2023-11-24 |
 | [Ningwetele](https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Ningwetele](https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w) | 3:16 | 2022-07-18 | 2023-08-18 |
@@ -142,7 +143,7 @@
 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb), [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 | 2022-09-08 | 2023-07-01 |
 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 | 2023-08-25 | 2024-08-23 |
 | [Truth](https://open.spotify.com/track/0Hkeyxe7TwFxgiM1hhNc3A) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Truth](https://open.spotify.com/album/5gtHlJlSDBeaHnfR7vnd5X) | 2:58 | 2023-06-30 | 2023-08-26 |
-| [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-07-18 |  |
+| [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-07-18 | 2025-01-10 |
 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 | 2022-07-18 | 2023-04-14 |
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-19 | 2024-05-25 |
 | [Undercover](https://open.spotify.com/track/5Uy3sc1qolZIq16vURqlH7) | [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Undercover](https://open.spotify.com/album/72JE0lfLPQLzA0wVkJqU6B) | 4:02 | 2023-06-30 | 2024-01-30 |

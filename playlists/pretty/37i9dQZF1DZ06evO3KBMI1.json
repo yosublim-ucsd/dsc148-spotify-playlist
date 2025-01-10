@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 72124,
+  "num_followers": 72133,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAADmfhq1LCQ0V9gWW7dW43gK",
+  "snapshot_id": "Z33AAAAAAAAqA33FwkigVOJKo8y0DaSc",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMH",
-        "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 208253,
-      "name": "WINGS ever",
-      "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"
+      "duration_ms": 376000,
+      "name": "PRAYING RUN",
+      "url": "https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+        "name": "MMH",
+        "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 376000,
-      "name": "PRAYING RUN",
-      "url": "https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV"
+      "duration_ms": 208253,
+      "name": "WINGS ever",
+      "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "AS ONE",
-      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "AS ONE",
+      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AVALANCHE",
-        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "AVALANCHE",
-      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PROGLUTION",
         "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272000,
       "name": "\u6d6e\u4e16CROSSING",
       "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEMORIES of the End",
-        "url": "https://open.spotify.com/album/4npsDu2zpZ7irPVrBXxrOm"
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 380266,
-      "name": "MEMORIES of the End",
-      "url": "https://open.spotify.com/track/7BufPyttMh9TPjaYkGX32b"
+      "duration_ms": 202013,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
     },
     {
       "added_at": null,
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "MEMORIES of the End",
+        "url": "https://open.spotify.com/album/4npsDu2zpZ7irPVrBXxrOm"
       },
       "artists": [
         {
@@ -824,9 +808,25 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 267893,
-      "name": "OXYMORON",
-      "url": "https://open.spotify.com/track/23Wc7OK7cvKfwsnplGBi0u"
+      "duration_ms": 380266,
+      "name": "MEMORIES of the End",
+      "url": "https://open.spotify.com/track/7BufPyttMh9TPjaYkGX32b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
     }
   ],
   "unique_name": "This Is UVERworld",

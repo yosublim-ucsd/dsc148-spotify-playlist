@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "The Gate (Extended Mix)",
+        "url": "https://open.spotify.com/album/7juJuCAJ4F7wOs1uYKL0T6"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "The Gate - Extended Mix",
+      "url": "https://open.spotify.com/track/3znTSbFie2bjuijsZml7tu"
+    },
+    {
+      "album": {
         "name": "Alto Arc",
         "url": "https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9"
       },

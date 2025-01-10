@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Let's... / Here's Looking at You Kid",
+        "url": "https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212700,
+      "name": "People I Love",
+      "url": "https://open.spotify.com/track/3L5ytxSflmmUzf3h7K3Kn5"
+    },
+    {
+      "album": {
         "name": "Songs from Season Two",
         "url": "https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd"
       },

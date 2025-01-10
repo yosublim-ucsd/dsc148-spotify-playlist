@@ -29429,6 +29429,24 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261677,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4"
+    },
+    {
+      "album": {
         "name": "Something Better",
         "url": "https://open.spotify.com/album/3pUo4KI8O2e8kHdx1dNAiz"
       },

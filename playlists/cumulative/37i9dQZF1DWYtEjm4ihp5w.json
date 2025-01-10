@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Bo9al f l'cover dyal akbar playlist dial rap f l'maghrib.",
+  "description": "Stormy f l'cover dyal akbar playlist dial rap f l'maghrib.",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 160000,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 273454,
       "name": "NIKEY",
       "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
@@ -4498,6 +4498,24 @@
       "duration_ms": 177230,
       "name": "Piola",
       "url": "https://open.spotify.com/track/1GekDYBKy3TqF5vCB327yW"
+    },
+    {
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "PIRATE",
+      "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
     },
     {
       "album": {
@@ -5036,6 +5054,24 @@
       "duration_ms": 193432,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/3PsH5lRJuFskbE856YAze2"
+    },
+    {
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "SAKA",
+      "url": "https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS"
     },
     {
       "album": {

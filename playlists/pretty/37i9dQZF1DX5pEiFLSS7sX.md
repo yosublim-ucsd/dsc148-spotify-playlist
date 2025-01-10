@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,960 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,047 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 26 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
 | 27 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
 | 28 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
-| 29 | [King Of Kings \- Live at Hillsong Conference](https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live at Hillsong Conference\)](https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU) | 4:51 |
-| 30 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
+| 29 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
+| 30 | [King Of Kings \- Live at Hillsong Conference](https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live at Hillsong Conference\)](https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU) | 4:51 |
 | 31 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:30 |
 | 32 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
 | 33 | [When My Heart Became Aware](https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia, Caetano Veloso
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,365,731 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,366,194 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 82 | [Águas De Março](https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Antonio Carlos Jobim: Finest Hour](https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB) | 3:34 |
 | 83 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 |
 | 84 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
-| 85 | [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 |
+| 85 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |
 | 86 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 |
-| 87 | [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 |
+| 87 | [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 |
 | 88 | [Como Nossos Pais](https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Regina Em Falso Brilhante](https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ) | 4:20 |
-| 89 | [Corra e Olhe o Céu \- Ao Vivo](https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Corra e Olhe o Céu \(Ao Vivo\)](https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV) | 2:25 |
-| 90 | [Romaria](https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH) | [Geraldo Roca](https://open.spotify.com/artist/4yaPaG3Cs2A86d8p9mOARL), [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI) | [Romaria](https://open.spotify.com/album/5EHQLnxvoHKMdra4rttorN) | 4:42 |
-| 91 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 |
-| 92 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |
+| 89 | [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 |
+| 90 | [Corra e Olhe o Céu \- Ao Vivo](https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Corra e Olhe o Céu \(Ao Vivo\)](https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV) | 2:25 |
+| 91 | [Romaria](https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH) | [Geraldo Roca](https://open.spotify.com/artist/4yaPaG3Cs2A86d8p9mOARL), [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI) | [Romaria](https://open.spotify.com/album/5EHQLnxvoHKMdra4rttorN) | 4:42 |
+| 92 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 |
 | 93 | [Olhos Nos Olhos](https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5) | 4:35 |
 | 94 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 |
 | 95 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |

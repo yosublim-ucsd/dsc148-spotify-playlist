@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5"
+    },
+    {
+      "album": {
         "name": "THE RUDE AWAKENING OF MR BIG JUICE.",
         "url": "https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5"
       },
@@ -708,6 +726,28 @@
       "duration_ms": 159155,
       "name": "Nine",
       "url": "https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm"
+    },
+    {
+      "album": {
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206029,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl"
     },
     {
       "album": {

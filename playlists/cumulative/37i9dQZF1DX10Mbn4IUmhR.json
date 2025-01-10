@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N?si=HA3mFB0rSQu1a8S7yT5qSw\">Will Linley</a> ",
+  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi?si=8qAf3MaYSQODbI4Vns1YKA\">Dominic Neill</a> ",
   "name": "i <3 pop",
   "tracks": [
     {
@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265043,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO"
+    },
+    {
+      "album": {
         "name": "Common Things",
         "url": "https://open.spotify.com/album/2xuJei4z9I237JoWuR9gbE"
       },
@@ -1186,6 +1208,24 @@
       "duration_ms": 117777,
       "name": "fall into place",
       "url": "https://open.spotify.com/track/2sFHw6ZJaxqL56CuOtXqAt"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/2cf1s864nimHstLscbjV8C"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1K7Cdvi2IZ1wdDtYLpGCo6"
     },
     {
       "album": {
@@ -4104,6 +4144,24 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "album": {
+        "name": "Wild for the Night",
+        "url": "https://open.spotify.com/album/2LlX6jiXRlwc0FgIaNde96"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171515,
+      "name": "Wild for the Night",
+      "url": "https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9"
     },
     {
       "album": {

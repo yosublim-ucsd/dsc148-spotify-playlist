@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,709 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,787 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 22 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
 | 23 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
 | 24 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
-| 25 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
-| 26 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
+| 25 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
+| 26 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
 | 27 | [Rose rouge](https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:56 |
 | 28 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
 | 29 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 70 | [Village Tap](https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Hyena](https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ) | 5:29 |
 | 71 | [Original Bedroom Rockers](https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 4:47 |
 | 72 | [It's Over](https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8) | [Lazy](https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 3:28 |
-| 73 | [10](https://open.spotify.com/track/4zC159B91HDN9k59cc8sJN) | [Misled Children](https://open.spotify.com/artist/5Nh20cXNrzYKYw2Gb4Q2oW) | [Peoples Market](https://open.spotify.com/album/06ytFbyMBooSUBg8kFmc5E) | 3:42 |
-| 74 | [Inside My Mind \(Blue Skies\) \- Elephant Remix](https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [NBG](https://open.spotify.com/artist/56XXQm9k3766HSJx7mTunW) | [The Remixes](https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S) | 7:02 |
+| 73 | [Inside My Mind \(Blue Skies\) \- Elephant Remix](https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [NBG](https://open.spotify.com/artist/56XXQm9k3766HSJx7mTunW) | [The Remixes](https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S) | 7:02 |
+| 74 | [10](https://open.spotify.com/track/4zC159B91HDN9k59cc8sJN) | [Misled Children](https://open.spotify.com/artist/5Nh20cXNrzYKYw2Gb4Q2oW) | [Peoples Market](https://open.spotify.com/album/06ytFbyMBooSUBg8kFmc5E) | 3:42 |
 | 75 | [Music By Cavelight](https://open.spotify.com/track/6nCWF2aVa8RXeYil3co27v) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Music By Cavelight](https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj) | 4:10 |
 | 76 | [Song 2](https://open.spotify.com/track/6gJn2GouSKBuU1z1ydwDS8) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Jaku](https://open.spotify.com/album/3CwU0SFLys2d9BKbzX42cH) | 4:59 |
 | 77 | [Center of the Sun](https://open.spotify.com/track/1RMsdot8bVRgNzENfh9XcL) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU) | [Chilled Out \(a Collection Of Blissful Sounds\)](https://open.spotify.com/album/7qnVqzOn5LT6xnxL7KKvtU) | 9:58 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 93 | [Until The Morning](https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Richest Man In Babylon](https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA) | 3:56 |
 | 94 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
 | 95 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
-| 96 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM) | 6:20 |
-| 97 | [Broken Together](https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR) | 4:46 |
-| 98 | [Edge of the Ocean](https://open.spotify.com/track/6KT2I8ZtIFLE8aFLBeF1pd) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/6RS3YuPEykwG5tpFjazZ0K) | 4:25 |
-| 99 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
-| 100 | [No Competition](https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Abstract Manifesto](https://open.spotify.com/album/5fQRlwuPBxtmq2pK9tR8y6) | 5:58 |
+| 96 | [Postales](https://open.spotify.com/track/2fjisFFeRhtW2hfO4gc7Rh) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/0LYqd7PjpehWx9sptTEPJW) | 4:07 |
+| 97 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM) | 6:20 |
+| 98 | [Broken Together](https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR) | 4:46 |
+| 99 | [Edge of the Ocean](https://open.spotify.com/track/6KT2I8ZtIFLE8aFLBeF1pd) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/6RS3YuPEykwG5tpFjazZ0K) | 4:25 |
+| 100 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
 
 Snapshot ID: `ZpFVWQAAAACTYTjehF8gHGZiPvxX5lc0`

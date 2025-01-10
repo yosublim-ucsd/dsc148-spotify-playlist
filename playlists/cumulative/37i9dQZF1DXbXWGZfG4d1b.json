@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
+    },
+    {
+      "album": {
         "name": "ABC.",
         "url": "https://open.spotify.com/album/3CT5LFmSvoNOkEjj6jUezA"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
@@ -2876,6 +2894,24 @@
       "duration_ms": 213199,
       "name": "Domin\u00f3",
       "url": "https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM"
+    },
+    {
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "album": {
@@ -4114,6 +4150,28 @@
       "duration_ms": 292758,
       "name": "Este Lugar",
       "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
+    },
+    {
+      "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK"
     },
     {
       "album": {
@@ -5906,7 +5964,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
@@ -6706,7 +6764,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 133775,
       "name": "Mala Influencia",
       "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
@@ -7718,7 +7776,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 263976,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j"
@@ -8825,6 +8883,24 @@
     },
     {
       "album": {
+        "name": "Pacto",
+        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
+      },
+      "artists": [
+        {
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183879,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
+    },
+    {
+      "album": {
         "name": "Barato Ideal",
         "url": "https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg"
       },
@@ -9694,7 +9770,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
@@ -10645,6 +10721,28 @@
     },
     {
       "album": {
+        "name": "Mi Verano Oscuro",
+        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197005,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
+    },
+    {
+      "album": {
         "name": "La Sensaci\u00f3n",
         "url": "https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5"
       },
@@ -10718,6 +10816,24 @@
       "duration_ms": 152264,
       "name": "Somos 2",
       "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "album": {
+        "name": "El Discreto Encanto de la Melod\u00eda",
+        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Somos Diferentes",
+      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
     },
     {
       "album": {
@@ -11114,7 +11230,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"

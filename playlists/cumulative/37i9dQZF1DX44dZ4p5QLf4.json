@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A blend of new songs and artists in the soul space. Cover: Jelisa",
+  "description": "A blend of new songs and artists in the soul space. Cover: ROSEYE",
   "name": "Next Wave Soul",
   "tracks": [
     {
@@ -486,6 +486,24 @@
       "duration_ms": 152233,
       "name": "Astrology Joint",
       "url": "https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg"
+    },
+    {
+      "album": {
+        "name": "Ayesha",
+        "url": "https://open.spotify.com/album/6vMQZ5ZTSRdII7sw3Ux3A0"
+      },
+      "artists": [
+        {
+          "name": "ROSEYE",
+          "url": "https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299382,
+      "name": "Ayesha",
+      "url": "https://open.spotify.com/track/0v2vEZdWbq3QLx0JRzdIRu"
     },
     {
       "album": {
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
+    },
+    {
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/3MuKzBvMDz5sFALpKA22CE"
       },
@@ -1380,6 +1416,24 @@
       "duration_ms": 279326,
       "name": "Candy Drip",
       "url": "https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO"
+    },
+    {
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218678,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
     },
     {
       "album": {
@@ -3940,7 +3994,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 208741,
       "name": "If I Stay",
       "url": "https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg"
@@ -4776,7 +4830,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 264275,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/0ZmzyGzZwofhjqNRPr9bLj"
@@ -4948,7 +5002,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 196850,
       "name": "Love Is That Space",
       "url": "https://open.spotify.com/track/3kx9tSMW5WfgiUf8tdTv8e"
@@ -6158,6 +6212,24 @@
       "duration_ms": 219963,
       "name": "Pass Time",
       "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/0Ja0Nma8MpjUXHfHUohgbg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Luka",
+          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234379,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5Jfvor0HtNmj5HJ1dghY6y"
     },
     {
       "album": {
@@ -7436,7 +7508,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 178916,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4uti0PZJXWZheQCwzn381X"
@@ -9070,7 +9142,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 152727,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3QCrMKfBozmS6fjxpztX6d"
@@ -9434,6 +9506,24 @@
       "duration_ms": 321124,
       "name": "We Know",
       "url": "https://open.spotify.com/track/5V1uCsPeliBCfFSWMsPAjz"
+    },
+    {
+      "album": {
+        "name": "What Am I Made Of",
+        "url": "https://open.spotify.com/album/3iTbbYphM44HAQZRfPNoYt"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195461,
+      "name": "What Am I Made Of",
+      "url": "https://open.spotify.com/track/2WWBmP6Q7Mozr6OqbGHDjC"
     },
     {
       "album": {

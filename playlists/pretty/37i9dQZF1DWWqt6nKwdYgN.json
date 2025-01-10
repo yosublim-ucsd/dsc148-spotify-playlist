@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16822,
+  "num_followers": 16829,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Cantinas Clandestinas",
+        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
+      },
+      "artists": [
+        {
+          "name": "Seyer Black Art Gang",
+          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
+        },
+        {
+          "name": "Pads Killah",
+          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
+        }
+      ],
+      "duration_ms": 243037,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Tatequieto",
         "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
@@ -535,46 +555,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 195519,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0akXdaUMmf9RIxFa0TopzG"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Cantinas Clandestinas",
-        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
-      },
-      "artists": [
-        {
-          "name": "Seyer Black Art Gang",
-          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
-        },
-        {
-          "name": "Pads Killah",
-          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Micelio",
         "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
       },
@@ -591,26 +571,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Atlanta",
-        "url": "https://open.spotify.com/album/1M8RojczNaahkj0hIPgfzo"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
       },
       "artists": [
         {
-          "name": "Santoz",
-          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
         },
         {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "ROMAN YOUGARETH",
-          "url": "https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 266665,
-      "name": "Atlanta",
-      "url": "https://open.spotify.com/track/2hFuezTQgiBRlR1pqfFeAx"
+      "duration_ms": 195519,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0akXdaUMmf9RIxFa0TopzG"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -635,6 +611,30 @@
       "duration_ms": 144950,
       "name": "FLAM",
       "url": "https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/1M8RojczNaahkj0hIPgfzo"
+      },
+      "artists": [
+        {
+          "name": "Santoz",
+          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
+        },
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "ROMAN YOUGARETH",
+          "url": "https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX"
+        }
+      ],
+      "duration_ms": 266665,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/2hFuezTQgiBRlR1pqfFeAx"
     },
     {
       "added_at": "2024-12-20 06:00:09",

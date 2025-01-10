@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "CASANOVA POSSE",
+        "url": "https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240653,
+      "name": "CASANOVA POSSE",
+      "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
+    },
+    {
+      "album": {
         "name": "\u300eDr.STONE\u300f \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 4",
         "url": "https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 107424,
       "name": "People Under The Tree",
       "url": "https://open.spotify.com/track/5GBZ3NIxRsHPwLaggiUBCN"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/5nWdcQx3A75Z9E8BLPd1WY"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/1mQWgJxQZOO1ifq4QJ3x4s"
     },
     {
       "album": {

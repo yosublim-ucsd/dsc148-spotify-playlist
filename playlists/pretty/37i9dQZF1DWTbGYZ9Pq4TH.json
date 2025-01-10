@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 179451,
+  "num_followers": 179458,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Completamente Sold Out",
-        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "Completamente Sold Out",
+        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Fabio Concato",
         "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 190409,
       "name": "Dove e quando",
       "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Le Vibrazioni",
-        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
-      },
-      "artists": [
-        {
-          "name": "Le Vibrazioni",
-          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Dedicato A Te",
-      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -615,6 +599,22 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "Le Vibrazioni",
+        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
+      },
+      "artists": [
+        {
+          "name": "Le Vibrazioni",
+          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Dedicato A Te",
+      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -774,10 +774,6 @@
         {
           "name": "Lucio Dalla",
           "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        },
-        {
-          "name": "Gian Piero Reverberi",
-          "url": "https://open.spotify.com/artist/3x4ZOtvWL1tRd6aFUxeBoK"
         }
       ],
       "duration_ms": 221093,

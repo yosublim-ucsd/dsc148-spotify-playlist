@@ -42,6 +42,6 @@
 | [tiger and flower](https://open.spotify.com/track/5bfQICINl3QcAg4qNHjrX3) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック Lead Trax](https://open.spotify.com/album/60HdGnL9QqES8iziaG8piJ) | 1:49 | 2024-12-23 |  |
 | [turbo granny](https://open.spotify.com/track/3C2R1hyXF7PhoR77C0rXBR) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 2:48 | 2024-12-23 |  |
 | [william hell overture](https://open.spotify.com/track/2eZ1Mh0MMKDZZHwk9AlZfc) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 3:22 | 2024-12-23 |  |
-| [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-12-23 |  |
+| [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-12-23 |  |
 
 \*This playlist was first scraped on 2024-12-24. Prior content cannot be recovered.

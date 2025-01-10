@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Faser",
+        "url": "https://open.spotify.com/album/5cmuE8N1fZ3gJe5LVyxLd9"
+      },
+      "artists": [
+        {
+          "name": "Adrijana",
+          "url": "https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "N\u00e5n som mig",
+      "url": "https://open.spotify.com/track/4oTqSeiVeJnfJEP1dXujnj"
+    },
+    {
+      "album": {
         "name": "Mad Woman",
         "url": "https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq"
       },

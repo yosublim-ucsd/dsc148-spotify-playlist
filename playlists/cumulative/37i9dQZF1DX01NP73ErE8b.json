@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Marracash in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Ornella Vanoni in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+    },
+    {
+      "album": {
+        "name": "160BPM",
+        "url": "https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "160BPM",
+      "url": "https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8"
     },
     {
       "album": {
@@ -386,7 +404,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153070,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw"
@@ -426,6 +444,28 @@
       "duration_ms": 212044,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir"
+    },
+    {
+      "album": {
+        "name": "Clamo",
+        "url": "https://open.spotify.com/album/0teZmkbw8UI1Bp6olhIuln"
+      },
+      "artists": [
+        {
+          "name": "Il Pagante",
+          "url": "https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Clamo",
+      "url": "https://open.spotify.com/track/4hjPMRNdO051CH4vbvm2Ty"
     },
     {
       "album": {
@@ -815,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Fuorionda",
+        "url": "https://open.spotify.com/album/5dZWhLmCP7e6aVeP52tRUR"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230070,
+      "name": "Fuorionda",
+      "url": "https://open.spotify.com/track/67Vto9p46Nk6I0kwi4ZwKu"
+    },
+    {
+      "album": {
         "name": "Galassie",
         "url": "https://open.spotify.com/album/0ZRjzNH0qbMEC5KHCODt27"
       },
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 240000,
       "name": "Il morso di Tyson",
       "url": "https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5"
@@ -1662,7 +1720,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 236465,
       "name": "Montecristo",
       "url": "https://open.spotify.com/track/5Mug8werT9EigkfO7dr5ld"
@@ -1864,7 +1922,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 220937,
       "name": "Non \u00e8 vero che sto bene",
       "url": "https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8"
@@ -2632,6 +2690,24 @@
       "duration_ms": 234173,
       "name": "Solo se sbagli (feat. Tiziano Ferro)",
       "url": "https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92"
+    },
+    {
+      "album": {
+        "name": "Spogliami",
+        "url": "https://open.spotify.com/album/2Aq48XzFY1UZA1PAAJobcS"
+      },
+      "artists": [
+        {
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199609,
+      "name": "Spogliami",
+      "url": "https://open.spotify.com/track/0yDCcAlCuvKLE34cxMRVDp"
     },
     {
       "album": {

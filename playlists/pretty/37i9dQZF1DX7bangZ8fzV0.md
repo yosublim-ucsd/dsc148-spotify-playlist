@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=tG4MaeqATyy99sieyrV6dQ">Riaan Benadé</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=8Eo243HgQxK\-GWWPjOzeLg">JAN JAN JAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,782 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,858 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
-| 2 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 |
-| 3 | [Plaas Dorp Toe](https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Plaas Dorp Toe](https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC) | 3:18 |
-| 4 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
-| 5 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
-| 6 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 |
-| 7 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 |
-| 8 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
-| 9 | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/album/4TuvZhVtwiIyueQqRqpYLy) | 3:46 |
-| 10 | [Nou Raak Dit Lekker](https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Nou Raak Dit Lekker](https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx) | 3:02 |
+| 1 | [Lippe teen die Klippe](https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Lippe teen die Klippe](https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q) | 3:14 |
+| 2 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
+| 3 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 |
+| 4 | [Plaas Dorp Toe](https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Plaas Dorp Toe](https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC) | 3:18 |
+| 5 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
+| 6 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
+| 7 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 |
+| 8 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 |
+| 9 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
+| 10 | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/track/4oDi4bmDwfYBVCxXXnwvAs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Bikini Weer \(feat\. Early B\)](https://open.spotify.com/album/4TuvZhVtwiIyueQqRqpYLy) | 3:46 |
 | 11 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
-| 12 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
-| 13 | [Jou Tipe Boer](https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Jou Tipe Boer](https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban) | 3:27 |
-| 14 | [Lippe teen die Klippe](https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Lippe teen die Klippe](https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q) | 3:14 |
+| 12 | [Nou Raak Dit Lekker](https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Nou Raak Dit Lekker](https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx) | 3:02 |
+| 13 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
+| 14 | [Jou Tipe Boer](https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Jou Tipe Boer](https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban) | 3:27 |
 | 15 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 |
 | 16 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
 | 17 | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
 | 75 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
 
-Snapshot ID: `Z3cMhQAAAAAmBlxeyi5xK86jvXu0OEvi`
+Snapshot ID: `Z4BG+wAAAAC8qhByWlBbBiB3xqYldmCM`

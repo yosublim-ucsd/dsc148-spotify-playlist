@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Khalid
+> R&Bの最新話題曲をまとめてお届けします。cover: Jordan Adetunji
 
-686 songs - 1 day 12 hr 48 min
+688 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [365 \(Feat\. JUNNY\)](https://open.spotify.com/track/1g44dTzKW337AAReshbgUm) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [In too deep](https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq) | 3:24 | 2024-09-26 | 2024-11-08 |
 | [54 Hours](https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lewis Ray](https://open.spotify.com/artist/1Dkb2YpzUItkuERW7BFjND) | [54 Hours](https://open.spotify.com/album/2IX1aRioQMKVmuLDAaDUrW) | 3:00 | 2023-11-30 | 2024-04-26 |
 | [86Sentra](https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [86Sentra](https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6) | 1:36 | 2024-04-04 | 2024-04-12 |
-| [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2024-04-18 | 2024-06-07 |
+| [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2024-04-18 |  |
 | [A Million More](https://open.spotify.com/track/7r0YOMoBepzw3405MOPfZ1) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/0jNrLxV0aeNF03bMin0L9f) | 3:02 | 2024-02-22 | 2024-04-19 |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-07 | 2024-11-22 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-17 | 2024-11-08 |
@@ -602,12 +602,14 @@
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-03-16 | 2023-06-16 |
 | [This weekend](https://open.spotify.com/track/1QI2vxmvQyoRsYrrzoGttb) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [This weekend](https://open.spotify.com/album/2e4WXpgjZKUIfhvrbS46Bq) | 3:12 | 2024-12-05 |  |
 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-08-30 |  |
+| [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 | 2025-01-10 |  |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-19 | 2023-11-10 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/album/0XBN8hQFaFIVmTJCj6Yix5) | 3:31 | 2023-10-19 | 2023-10-21 |
 | [Too Late](https://open.spotify.com/track/2Y0XwI9C0nj1XukpB8R8wu) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Too Late](https://open.spotify.com/album/7iq6ENSH2FvyhQKzC7IJiN) | 3:20 | 2024-03-21 | 2024-03-23 |
 | [Too Late](https://open.spotify.com/track/7oaygvulLcf2J4YRpIDj0c) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [18](https://open.spotify.com/album/2EvwcriSqDisp3sZbJYaNp) | 3:21 | 2024-03-21 | 2024-06-28 |
 | [TOO LATE](https://open.spotify.com/track/4YVirjfcLuw9A56Tle2uHt) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/63wqYCsKXga09N2IXHPFuV) | 2:32 | 2024-04-18 | 2024-06-07 |
 | [TOO LATE](https://open.spotify.com/track/4Zs8jWeCujpyHVYdYMSTty) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [APORIE VIVANT](https://open.spotify.com/album/0gtvEjBBN5QTvB3lkyruNI) | 2:32 | 2024-03-21 | 2024-04-19 |
+| [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/27phUMXA53CLokQgatsJaz) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V) | 1:58 | 2025-01-10 |  |
 | [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 | 2023-11-09 | 2023-11-17 |
 | [Toxic](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-15 | 2023-07-07 |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-16 | 2024-04-05 |

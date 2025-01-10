@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "edgy en met karakter. cover: Sticks",
+  "description": "edgy en met karakter. cover: Dio",
   "name": "karakter.",
   "tracks": [
     {
@@ -314,6 +314,24 @@
       "duration_ms": 196000,
       "name": "Begrijpen",
       "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Life / 2 Glazen",
+        "url": "https://open.spotify.com/album/4CfFThU8YJfJ0tJ0cf2nQo"
+      },
+      "artists": [
+        {
+          "name": "NOAH",
+          "url": "https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Bigger Than Life",
+      "url": "https://open.spotify.com/track/6iDGxdeHkAE0fGlvulxDee"
     },
     {
       "album": {
@@ -2154,6 +2172,24 @@
       "duration_ms": 154761,
       "name": "Pelechian",
       "url": "https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz"
+    },
+    {
+      "album": {
+        "name": "PIJNSTILLERS / BLAKKA BOY",
+        "url": "https://open.spotify.com/album/1gVkIkZN6xBqPhBK72CnHG"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173208,
+      "name": "PIJNSTILLERS",
+      "url": "https://open.spotify.com/track/7mNXDtOxk8XTx9o73FXySS"
     },
     {
       "album": {

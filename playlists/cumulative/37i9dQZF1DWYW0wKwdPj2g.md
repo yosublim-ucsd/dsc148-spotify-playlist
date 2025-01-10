@@ -2,9 +2,9 @@
 
 ### [Come Alive](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
 
-> In the mood for live Christian and Gospel music? This is the one\. Cover: Uche Agu
+> In the mood for live Christian and Gospel music? This is the one\. Cover: Preye Odede
 
-159 songs - 21 hr 1 min
+162 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Glory \(Live\)](https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Glory \(Live\)](https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral) | 5:37 | 2024-11-08 | 2024-12-20 |
 | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2) | 6:49 | 2024-05-03 | 2024-11-08 |
 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-02-23 |  |
+| [Halleluyah](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 |  |
 | [He Reigns](https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [He Reigns](https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa) | 5:41 | 2024-10-04 |  |
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-03-29 | 2024-04-12 |
 | [Hold On](https://open.spotify.com/track/01H2VrG6M1Mi6NQGvSZqNK) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE) | [Gratitude](https://open.spotify.com/album/3JSITBuRn2vwJ5I0fwWIic) | 6:47 | 2025-01-03 |  |
@@ -68,6 +69,7 @@
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-02-23 | 2024-04-19 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2024-02-23 |  |
 | [i WoRsHiP \- Live](https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [i WoRsHiP \- Live](https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV) | 7:08 | 2024-08-30 | 2024-10-04 |
+| [Idi Ebube](https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Idi Ebube](https://open.spotify.com/album/2Z7QAmd2g7fXSLpgLZ2Mkn) | 7:49 | 2025-01-10 |  |
 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 | 2024-10-25 |  |
 | [Izulu](https://open.spotify.com/track/0FwBYg7Ci059wnjpQJeC6c) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 5:05 | 2024-02-23 | 2024-12-20 |
 | [Jehovah 'Meliwo \(feat\. 121 Selah\) \- Live](https://open.spotify.com/track/0WWIMPvI6lvaAVRUf2N2lO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(feat\. 121 Selah\) \[Live\]](https://open.spotify.com/album/7KTg30fPTIjgdlMlWPens6) | 4:59 | 2024-02-23 | 2024-04-19 |
@@ -75,6 +77,7 @@
 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 | 2024-02-23 |  |
 | [Jesus You Reign \- Live](https://open.spotify.com/track/4icG1gAvu1wOOxrkwTIXLJ) | [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Jesus You Reign \(Live\)](https://open.spotify.com/album/4JgJzuN9fvlR8LGHoiVIsl) | 8:42 | 2024-12-06 |  |
 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 | 2024-03-08 |  |
+| [JO \- Live](https://open.spotify.com/track/3LmGYVH2X20G9wdqsNOMLG) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Oshara](https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3) | [LIVE AT THE OYEL EXPERIENCE](https://open.spotify.com/album/429aI2FIsoF9anMX4Na566) | 3:08 | 2025-01-10 |  |
 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 | 2025-01-03 |  |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2024-02-23 |  |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 |  |

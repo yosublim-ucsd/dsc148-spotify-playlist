@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 293427,
+  "num_followers": 293449,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAABB2Qbf/kryXhKmhBsujzbP",
+  "snapshot_id": "Z33AAAAAAADD86J0vRLZa7GQiPKSpyVy",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 253466,
-      "name": "Bloodsucker - 1995 Remaster",
-      "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
+      "duration_ms": 286733,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 286733,
-      "name": "Bad Attitude",
-      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
+      "duration_ms": 253466,
+      "name": "Bloodsucker - 1995 Remaster",
+      "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
     },
     {
       "added_at": null,

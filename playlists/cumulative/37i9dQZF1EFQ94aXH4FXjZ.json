@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "She Remembers Everything (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4lXDkMXaGTpeAeVT4ng2NZ"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234964,
+      "name": "8 Gods Of Harlem",
+      "url": "https://open.spotify.com/track/5VPxbCg1ZuQdxJeO13LbO2"
+    },
+    {
+      "album": {
         "name": "Full Moon (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
       },
@@ -1008,7 +1034,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 220813,
       "name": "Lay Me Down and Love the World Away",
       "url": "https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd"

@@ -17948,7 +17948,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 120012,
       "name": "DUAS PRINCESAS",
       "url": "https://open.spotify.com/track/6JBCFMrr5nEjzBsCSOc4bQ"
@@ -24372,7 +24372,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 212601,
       "name": "F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
@@ -35938,7 +35938,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 159999,
       "name": "Meu Carro nao tem Porta Luva - Remastered 2024",
       "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
@@ -39390,6 +39390,10 @@
         {
           "name": "DJ OLIVEIRA ORIGINAL",
           "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
         }
       ],
       "date_added": "2025-01-05",
@@ -40324,7 +40328,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -46147,6 +46151,40 @@
     },
     {
       "album": {
+        "name": "Phonk das Sombras",
+        "url": "https://open.spotify.com/album/0FvB8Gi4bvbIWV9uhp8jC9"
+      },
+      "artists": [
+        {
+          "name": "MESSOREM",
+          "url": "https://open.spotify.com/artist/1hFhisHJbgdFhDPXvSxyNz"
+        },
+        {
+          "name": "Mc Morgana",
+          "url": "https://open.spotify.com/artist/5Xwx3yN3Tac7I0bE7C8Fea"
+        },
+        {
+          "name": "Dj Guuh",
+          "url": "https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98351,
+      "name": "Phonk das Sombras",
+      "url": "https://open.spotify.com/track/4DxK3HOqCZkJb5zsPeYw8P"
+    },
+    {
+      "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
       },
@@ -51954,7 +51992,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
@@ -57452,6 +57490,32 @@
       "duration_ms": 177500,
       "name": "Te devolvo pro boy besta",
       "url": "https://open.spotify.com/track/6FZVv2t04yb0EtCgWtrnzf"
+    },
+    {
+      "album": {
+        "name": "PATRONO",
+        "url": "https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195970,
+      "name": "Te Encontrar na Lapa",
+      "url": "https://open.spotify.com/track/1rkP1QTDKqKUNkBMqauUz7"
     },
     {
       "album": {
@@ -65628,6 +65692,28 @@
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
+    },
+    {
+      "album": {
+        "name": "Zana mea, printesa mea",
+        "url": "https://open.spotify.com/album/6ekzQOsZqAJjBWYevB86Dt"
+      },
+      "artists": [
+        {
+          "name": "Nicolae Guta",
+          "url": "https://open.spotify.com/artist/0lxdwLayB6Dz3PTG3j7Eme"
+        },
+        {
+          "name": "Roxana Printesa Ardealului",
+          "url": "https://open.spotify.com/artist/1TU3uHcj1Gv14jwuJPQNIS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Zana mea, printesa mea",
+      "url": "https://open.spotify.com/track/0SPNaeZ3dZy1idoOSkw3B4"
     },
     {
       "album": {

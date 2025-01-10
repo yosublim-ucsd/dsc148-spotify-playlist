@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Shygirl",
+  "description": "The home for alternative electronic music. Cover: camoufly",
   "name": "Altar",
   "tracks": [
     {
@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Born",
+        "url": "https://open.spotify.com/album/6W3jGgF8kKCiQiQbf6HiXB"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Born",
+      "url": "https://open.spotify.com/track/4tNDzrYXeUKoySi7pzcvQa"
+    },
+    {
+      "album": {
         "name": "Both",
         "url": "https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY"
       },
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
@@ -9275,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161184,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
+    },
+    {
+      "album": {
         "name": "I Told Ya",
         "url": "https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl"
       },
@@ -13510,7 +13546,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 171520,
       "name": "No Time (feat. SadBoi)",
       "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
@@ -16525,6 +16561,28 @@
     },
     {
       "album": {
+        "name": "Searchin'",
+        "url": "https://open.spotify.com/album/2PR6AtFZyIX3uSLPH5Uo6d"
+      },
+      "artists": [
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/75SbZJwQU37Tn90qmppqpf"
+    },
+    {
+      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -16850,7 +16908,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194900,
       "name": "Shadows Pt. 3",
       "url": "https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD"
@@ -18282,7 +18340,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
@@ -19430,6 +19488,32 @@
       "duration_ms": 194400,
       "name": "Thinking Of You - Radio Edit",
       "url": "https://open.spotify.com/track/7vKHG9dbzU3FlAE1VmyBbP"
+    },
+    {
+      "album": {
+        "name": "Thirst Day (Radio Edit)",
+        "url": "https://open.spotify.com/album/4uDOt4aulj8xmQWLEFZY9p"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Big Jon",
+          "url": "https://open.spotify.com/artist/3sSZbKRuoK7NVVqEiQgMy9"
+        },
+        {
+          "name": "Dillon Kelly",
+          "url": "https://open.spotify.com/artist/59t16qkSMegtVVuniSMTQs"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155170,
+      "name": "Thirst Day - Radio Edit",
+      "url": "https://open.spotify.com/track/5jGLpmADscdE30FfRdvqru"
     },
     {
       "album": {

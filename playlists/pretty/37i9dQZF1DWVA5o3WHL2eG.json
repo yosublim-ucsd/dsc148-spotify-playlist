@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 36706,
+  "num_followers": 36798,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Point of View",
         "url": "https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 190250,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "1000 KLEINE TODE",
+        "url": "https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 192622,
+      "name": "1000 KLEINE TODE",
+      "url": "https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 208000,
       "name": "Contrast",
       "url": "https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "1000 KLEINE TODE",
-        "url": "https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 192622,
-      "name": "1000 KLEINE TODE",
-      "url": "https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP"
     },
     {
       "added_at": "2025-01-07 23:00:01",

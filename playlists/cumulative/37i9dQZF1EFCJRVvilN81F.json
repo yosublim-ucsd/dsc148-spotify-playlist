@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "North Vol. 2",
+        "url": "https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250221,
+      "name": "Drifted",
+      "url": "https://open.spotify.com/track/58ptTjtCI8ck8759B94NKm"
+    },
+    {
+      "album": {
         "name": "ELEVATORS: Act I & II",
         "url": "https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH"
       },

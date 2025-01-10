@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 912553,
+  "num_followers": 912576,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 256533,
       "name": "Dancing Barefoot",
       "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Four Sail (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Always See Your Face",
-      "url": "https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "New Wave (U.S. Version)",
         "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 254200,
       "name": "Thrash Unreal",
       "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Four Sail (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Always See Your Face",
+      "url": "https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz"
     },
     {
       "added_at": "2024-02-06 19:36:52",

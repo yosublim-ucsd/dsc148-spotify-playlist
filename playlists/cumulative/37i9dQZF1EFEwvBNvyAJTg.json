@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "album": {
         "name": "Finding Neverland The Album (Songs From The Broadway Musical)",
         "url": "https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW"
       },
@@ -353,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Better Than You (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/6A6xinG0jZ9FpRNA2m2MQ5"
+    },
+    {
+      "album": {
         "name": "IT'S NOT ABOUT YOU NO MORE",
         "url": "https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy"
       },
@@ -386,6 +426,24 @@
       "duration_ms": 196920,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/3v3TREGncEqFVExadkOhtY"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/6OGvp0jPvjW9mZYRHOZ1r4"
     },
     {
       "album": {
@@ -487,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194213,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/56NXZjpHVibWNylMIPWbiY"
+    },
+    {
+      "album": {
         "name": "Black Mona Lisa",
         "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
       },
@@ -502,6 +578,24 @@
       "duration_ms": 221744,
       "name": "Children",
       "url": "https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248426,
+      "name": "Chimes",
+      "url": "https://open.spotify.com/track/1ynzIStQCwP4Gbn05vBZmZ"
     },
     {
       "album": {
@@ -801,6 +895,68 @@
     },
     {
       "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213015,
+      "name": "Don't Need Y'all",
+      "url": "https://open.spotify.com/track/4m2k8jQNbNsAINiip5qKSN"
+    },
+    {
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "album": {
+        "name": "Lower Than Atlantis",
+        "url": "https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb"
+      },
+      "artists": [
+        {
+          "name": "Lower Than Atlantis",
+          "url": "https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/0uxiyzkQ5aweoGgp7hxPUs"
+    },
+    {
+      "album": {
         "name": "Enjoy Youth",
         "url": "https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6"
       },
@@ -820,6 +976,24 @@
       "duration_ms": 251013,
       "name": "Enjoy Youth",
       "url": "https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290386,
+      "name": "Explosions",
+      "url": "https://open.spotify.com/track/4AzQWO8MfYF9W1OJkebcmu"
     },
     {
       "album": {
@@ -921,6 +1095,46 @@
     },
     {
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Flashlight",
+      "url": "https://open.spotify.com/track/3afdT7hEOBJiLs6lyPU7Uh"
+    },
+    {
+      "album": {
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/5noigTrkYwiVKxuxqvnBBW"
+      },
+      "artists": [
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137501,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/6N27EMc8uq3Er7E5SiNO3s"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/3Y3ZsVngNf68uBvv7QHrZ3"
       },
@@ -988,6 +1202,42 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159589,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/5lcqxNUw7TJE57tUedUHNR"
+    },
+    {
+      "album": {
+        "name": "Travelling Like The Light",
+        "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
+      },
+      "artists": [
+        {
+          "name": "V V Brown",
+          "url": "https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/1v4P3cYwb3gaLHCeMU3hiu"
     },
     {
       "album": {
@@ -1081,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/6j6y9DzzjiNEx6H4OZYEM0"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193071,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2wDFRxShiM7iKxB2G4F8GJ"
+    },
+    {
+      "album": {
         "name": "BLOOD, MAGIC & DIAMONDS.",
         "url": "https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN"
       },
@@ -1096,6 +1364,24 @@
       "duration_ms": 156000,
       "name": "GO MODE",
       "url": "https://open.spotify.com/track/2D0MoJ4EdhuV9PjP7M3Rkc"
+    },
+    {
+      "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190017,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/7cwxv3nrySXbOoXr9Xl2F3"
     },
     {
       "album": {
@@ -1132,6 +1418,24 @@
       "duration_ms": 198405,
       "name": "Gulible",
       "url": "https://open.spotify.com/track/2KLTc4Rz7YBc9sc6vJLTSl"
+    },
+    {
+      "album": {
+        "name": "Mandatory Fun",
+        "url": "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Handy",
+      "url": "https://open.spotify.com/track/4ZJGobiy4ayWSdKfoqMRlX"
     },
     {
       "album": {
@@ -1251,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Reclassified",
+        "url": "https://open.spotify.com/album/4z4Pgh0fNUQkmGP4K1XxDb"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232602,
+      "name": "Heavy Crown",
+      "url": "https://open.spotify.com/track/2q2ukZbOCQaFcN3M34RhZ3"
+    },
+    {
+      "album": {
         "name": "Spooky Electrick",
         "url": "https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6"
       },
@@ -1364,6 +1690,24 @@
       "duration_ms": 207108,
       "name": "Hurts Like Hell (feat. Offset)",
       "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
+    },
+    {
+      "album": {
+        "name": "Hurts Like Hell (Acoustic Live)",
+        "url": "https://open.spotify.com/album/0wHkLqf4paK3PIta30Pwry"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177691,
+      "name": "Hurts Like Hell - Acoustic Live",
+      "url": "https://open.spotify.com/track/0dSKYXx9OUrE6u53o1ChVT"
     },
     {
       "album": {
@@ -1539,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/7mFPFmUxUnFh4HhL97ff0z"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Invisible Girl",
+      "url": "https://open.spotify.com/track/3JLsOYOM8yuEuOSzdE7p6k"
+    },
+    {
+      "album": {
         "name": "House with a Pool",
         "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
       },
@@ -1667,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Kite (Acoustic)",
+        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149996,
+      "name": "Kite - Acoustic",
+      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
+    },
+    {
+      "album": {
         "name": "Love Just Ain't Enough",
         "url": "https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3"
       },
@@ -1682,6 +2066,28 @@
       "duration_ms": 219421,
       "name": "L Word",
       "url": "https://open.spotify.com/track/1oc2IjNoUMrCiQ5dA6ggP6"
+    },
+    {
+      "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236428,
+      "name": "Lady Patra",
+      "url": "https://open.spotify.com/track/538KWiWJHJ2FgJu0ndaANF"
     },
     {
       "album": {
@@ -1820,6 +2226,24 @@
       "duration_ms": 207586,
       "name": "Life is Beautiful",
       "url": "https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/32nd0acXaDdn3lUdCnJW53"
     },
     {
       "album": {
@@ -1967,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Made In America",
+        "url": "https://open.spotify.com/album/6te8f7BkNoQGN1kBW1npYZ"
+      },
+      "artists": [
+        {
+          "name": "Cimorelli",
+          "url": "https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193603,
+      "name": "Made In America",
+      "url": "https://open.spotify.com/track/28AKXJ4AdkiqBSCFkW3Y2n"
+    },
+    {
+      "album": {
         "name": "Hamilton, Charles",
         "url": "https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO"
       },
@@ -1982,6 +2424,42 @@
       "duration_ms": 200306,
       "name": "Make Yourself Over",
       "url": "https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA"
+    },
+    {
+      "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Mary Go Round",
+      "url": "https://open.spotify.com/track/4A0Ue8bq7fLEsTkmDa9aH7"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "May Rain",
+      "url": "https://open.spotify.com/track/7c899IIN6OURj5zL10StI6"
     },
     {
       "album": {
@@ -2111,6 +2589,42 @@
     },
     {
       "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "New Bitch",
+      "url": "https://open.spotify.com/track/5CRZfDIaFlVMW61WzW2qVu"
+    },
+    {
+      "album": {
+        "name": "Little Red",
+        "url": "https://open.spotify.com/album/0gOkzXCV5MLdQP4RjzgX9b"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "Next Thing",
+      "url": "https://open.spotify.com/track/34afOWsrcjGtz6ALTU0QDn"
+    },
+    {
+      "album": {
         "name": "Focus / No Angel",
         "url": "https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX"
       },
@@ -2187,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "In Awe of You",
+        "url": "https://open.spotify.com/album/6Gzenp1AwlhrOqiVAx45M5"
+      },
+      "artists": [
+        {
+          "name": "Marshall Marshall",
+          "url": "https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/0XVgY7qVIVmlTe8OzoOoHL"
+    },
+    {
+      "album": {
         "name": "Still Learning",
         "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
       },
@@ -2220,6 +2752,24 @@
       "duration_ms": 207109,
       "name": "Out For The Weekend",
       "url": "https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB"
+    },
+    {
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/1Hy1vUVcM96DDpY4YEdyYS"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208233,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/3haxUceS8i97BLoB7WH3Mj"
     },
     {
       "album": {
@@ -2260,6 +2810,32 @@
       "duration_ms": 118750,
       "name": "Planet Lonely",
       "url": "https://open.spotify.com/track/2O9TR86ZliDlmIKcduJ3VT"
+    },
+    {
+      "album": {
+        "name": "Finding Neverland (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3EO8LoU4K02HxE2RQ6eA9w"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Grammer",
+          "url": "https://open.spotify.com/artist/3GKxKd2D1EybXwKgXb0iPp"
+        },
+        {
+          "name": "Laura Michelle Kelly",
+          "url": "https://open.spotify.com/artist/6korWWGsk6Mbm51fHRzWdP"
+        },
+        {
+          "name": "Matthew Morrison",
+          "url": "https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273826,
+      "name": "Play - Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/6oavhKL9GSyqDv807g7rpm"
     },
     {
       "album": {
@@ -2339,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "The Constant",
+        "url": "https://open.spotify.com/album/5gHrmLsgMQNmlFHPtpOoKj"
+      },
+      "artists": [
+        {
+          "name": "I Blame Coco",
+          "url": "https://open.spotify.com/artist/4OCKbm0yHaHTo6jjy8rMtL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Quicker",
+      "url": "https://open.spotify.com/track/56P0LV2aiMsMTxmIXXA5uV"
+    },
+    {
+      "album": {
         "name": "Nothing but the Beat Ultimate",
         "url": "https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2"
       },
@@ -2376,6 +2970,68 @@
       "duration_ms": 195493,
       "name": "Revived",
       "url": "https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30fc\u30f3\u30fb\u30ab\u30d5\u30a7",
+        "url": "https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W"
+      },
+      "artists": [
+        {
+          "name": "\u7ac7\u9756\u7ae5",
+          "url": "https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "River Run",
+      "url": "https://open.spotify.com/track/0yz0eDUkA3RM1Ez3FdsS9e"
+    },
+    {
+      "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203898,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/4TMW2Cr5nv5uBx7TZJNSbm"
+    },
+    {
+      "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/6yJqD0yIdmihsm12DWCLYq"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "MazZz",
+          "url": "https://open.spotify.com/artist/3SiNCwhDyYfsNMw5sEQ7FZ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159001,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/6kNERTseZtfhD6OiLiJs6D"
     },
     {
       "album": {
@@ -2767,6 +3423,46 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "album": {
+        "name": "Cinderella's Eyes",
+        "url": "https://open.spotify.com/album/6m4rM2gOKKOgjg4DaVJKNj"
+      },
+      "artists": [
+        {
+          "name": "Nicola Roberts",
+          "url": "https://open.spotify.com/artist/48I6TLnfZjyLXTqBtQvhgZ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/6e3eV7EnjJhTlmkTOsZ6RM"
+    },
+    {
+      "album": {
         "name": "Spooky Electrick",
         "url": "https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6"
       },
@@ -2782,6 +3478,46 @@
       "duration_ms": 148120,
       "name": "Take a Shot",
       "url": "https://open.spotify.com/track/1l3LtyjVDyavUhZJNZKTe4"
+    },
+    {
+      "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/5tPmjQRmShYffbuAsxT2v8"
+    },
+    {
+      "album": {
+        "name": "Take Off, Baby!",
+        "url": "https://open.spotify.com/album/7wo10jLxb5sP1NyvkXcf4z"
+      },
+      "artists": [
+        {
+          "name": "Ronald Christoph",
+          "url": "https://open.spotify.com/artist/694Mu9TpePnihtyxVNHBW2"
+        },
+        {
+          "name": "Orlando",
+          "url": "https://open.spotify.com/artist/4CFVwKkEV3fPV2hr6ISfPH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402842,
+      "name": "Take Off, Baby! feat. Orlando - Original Mix",
+      "url": "https://open.spotify.com/track/53De5pp7L4umlJU7srhacZ"
     },
     {
       "album": {
@@ -2897,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Made In America",
+        "url": "https://open.spotify.com/album/6te8f7BkNoQGN1kBW1npYZ"
+      },
+      "artists": [
+        {
+          "name": "Cimorelli",
+          "url": "https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203085,
+      "name": "The Way We Live",
+      "url": "https://open.spotify.com/track/53DEUpMbCYqBCeGIMdjuUe"
+    },
+    {
+      "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk"
       },
@@ -2956,6 +3710,36 @@
       "duration_ms": 181341,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
+    },
+    {
+      "album": {
+        "name": "Tonight (D.I.Y.A) [Pitbull Remix]",
+        "url": "https://open.spotify.com/album/0EIZb3DTMZlZt2FLndqpSY"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152023,
+      "name": "Tonight (D.I.Y.A) - Pitbull Remix",
+      "url": "https://open.spotify.com/track/5tLCZ73pEFUzxEd1W4DeCs"
     },
     {
       "album": {
@@ -3107,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Vegas Girl",
+      "url": "https://open.spotify.com/track/55zVsfjfD9qbCCFRVv95qi"
+    },
+    {
+      "album": {
         "name": "HELLBOY",
         "url": "https://open.spotify.com/album/2XCSTHVFG50wCnWPnkerRh"
       },
@@ -3126,6 +3928,42 @@
       "duration_ms": 160560,
       "name": "walk away as the door slams",
       "url": "https://open.spotify.com/track/5jl8wCqKCHCux0uWf3d7O9"
+    },
+    {
+      "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218480,
+      "name": "Walk The Line",
+      "url": "https://open.spotify.com/track/7rxxROM7x948jnVwD0ORVN"
+    },
+    {
+      "album": {
+        "name": "Sweet Disarray",
+        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154592,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/7nNfHmDyY9WlnBzUP2kgaf"
     },
     {
       "album": {
@@ -3249,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Made In America",
+        "url": "https://open.spotify.com/album/6te8f7BkNoQGN1kBW1npYZ"
+      },
+      "artists": [
+        {
+          "name": "Cimorelli",
+          "url": "https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174140,
+      "name": "Whatcha Think About Us",
+      "url": "https://open.spotify.com/track/11LVTQjhG9oz111sF3qHXf"
+    },
+    {
+      "album": {
         "name": "For The Throne (Music Inspired by the HBO Series Game of Thrones)",
         "url": "https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T"
       },
@@ -3340,6 +4196,42 @@
       "duration_ms": 166000,
       "name": "WITCHCRAFT GIRLS",
       "url": "https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl"
+    },
+    {
+      "album": {
+        "name": "Lower Than Atlantis",
+        "url": "https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb"
+      },
+      "artists": [
+        {
+          "name": "Lower Than Atlantis",
+          "url": "https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Words Don't Come So Easily",
+      "url": "https://open.spotify.com/track/0KxtWB6hiGyzeyFGs9UAW4"
+    },
+    {
+      "album": {
+        "name": "The New Classic",
+        "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223196,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3yx6eryOZgO54bt3B671cn"
     },
     {
       "album": {

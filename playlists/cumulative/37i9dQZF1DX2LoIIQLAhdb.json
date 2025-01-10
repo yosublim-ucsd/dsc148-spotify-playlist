@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lisandro Cuxi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "B.B.M",
+        "url": "https://open.spotify.com/album/0mHboLJlwKVWNKcHiXGjpf"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152464,
+      "name": "B.B.M",
+      "url": "https://open.spotify.com/track/1NTQqPuSDC9cbdRSHGTmgI"
+    },
+    {
+      "album": {
         "name": "Glow Up",
         "url": "https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9"
       },
@@ -506,7 +524,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 197023,
       "name": "Bahinileek",
       "url": "https://open.spotify.com/track/5QkDN5bbfoi2RXMpFO1Lj9"
@@ -778,6 +796,24 @@
       "duration_ms": 155185,
       "name": "Bonnie&Clyde",
       "url": "https://open.spotify.com/track/3PzpCEHGVAfjZPb0jka2L1"
+    },
+    {
+      "album": {
+        "name": "BOSS/WA",
+        "url": "https://open.spotify.com/album/6O0DXp4qNBoB1tOkS5BuK3"
+      },
+      "artists": [
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116192,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/1h8oSqs9EA6U4C86WCEpbg"
     },
     {
       "album": {
@@ -1746,7 +1782,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 171236,
       "name": "Dans ma t\u00eate",
       "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
@@ -2146,6 +2182,24 @@
       "duration_ms": 138000,
       "name": "D\u00c9SOL\u00c9 POURQUOI ?",
       "url": "https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO"
+    },
+    {
+      "album": {
+        "name": "Chap. 3 : \"Le First Pick\"",
+        "url": "https://open.spotify.com/album/1ZfUYo1FRqrsJv3lsMM6sK"
+      },
+      "artists": [
+        {
+          "name": "Wa\u00efv",
+          "url": "https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167080,
+      "name": "ELLE M'A DIT",
+      "url": "https://open.spotify.com/track/2MEVxqgn8RgrTN0Yxrx0HT"
     },
     {
       "album": {
@@ -4514,7 +4568,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 154750,
       "name": "Million",
       "url": "https://open.spotify.com/track/5tNnTsANJKQBHJbuL044Um"
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 135000,
       "name": "Off",
       "url": "https://open.spotify.com/track/1NIe6RL8XQBvH3pXkIoy95"
@@ -5356,6 +5410,24 @@
       "duration_ms": 164584,
       "name": "Pas deux fois",
       "url": "https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ"
+    },
+    {
+      "album": {
+        "name": "NP2 (DELUXE)",
+        "url": "https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133344,
+      "name": "PAS LA BAS",
+      "url": "https://open.spotify.com/track/6aes9nYQkopSJ96vw5nKhO"
     },
     {
       "album": {
@@ -5830,7 +5902,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 165032,
       "name": "QOD",
       "url": "https://open.spotify.com/track/1EaJUWOIxelw0tSaqF9MCu"

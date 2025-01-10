@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 42245,
+  "num_followers": 42265,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAABQVXIoU0D5abQ46hhb/g0K",
+  "snapshot_id": "Z33AAAAAAACAd54LYmwVU5/Cu8p9ahsk",
   "tracks": [
     {
       "added_at": null,
@@ -31,7 +31,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ego (feat. GIMS & Lola Indigo)",
+        "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
         "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
       },
       "artists": [
@@ -49,7 +49,7 @@
         }
       ],
       "duration_ms": 208094,
-      "name": "Ego (feat. GIMS & Lola Indigo)",
+      "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
       "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
     },
     {
@@ -475,26 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rivoluzione",
-        "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
       },
       "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
-        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Caramello",
-      "url": "https://open.spotify.com/track/1laLs6CGimqWYgwnZelz8H"
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -515,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "Rivoluzione",
+        "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
       },
       "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 197760,
+      "name": "Caramello",
+      "url": "https://open.spotify.com/track/1laLs6CGimqWYgwnZelz8H"
     },
     {
       "added_at": null,

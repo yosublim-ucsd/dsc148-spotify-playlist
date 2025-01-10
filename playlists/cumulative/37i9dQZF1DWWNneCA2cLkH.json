@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Aphex Twin",
+  "description": "These are the eclectic sounds of now. Cover: Ethel Cain",
   "name": "Alt Here",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 178805,
       "name": "About the Girl",
       "url": "https://open.spotify.com/track/1p0qDuyP9gU0Rxno0sMc8G"
+    },
+    {
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
     },
     {
       "album": {
@@ -319,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
+    },
+    {
+      "album": {
         "name": "Amoss Idjraw",
         "url": "https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl"
       },
@@ -330,10 +366,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 277973,
       "name": "Amoss Idjraw",
       "url": "https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq"
+    },
+    {
+      "album": {
+        "name": "Analogue Love",
+        "url": "https://open.spotify.com/album/2HYXuTMOW8JZbWDOQ2l2lB"
+      },
+      "artists": [
+        {
+          "name": "GATC",
+          "url": "https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232745,
+      "name": "Analogue Love",
+      "url": "https://open.spotify.com/track/5kkFOCOfpKzEu4cKDBdIXk"
     },
     {
       "album": {
@@ -921,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218678,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
+    },
+    {
+      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -1016,7 +1088,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 249186,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
@@ -1388,10 +1460,46 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177391,
       "name": "Day Of Conquest",
       "url": "https://open.spotify.com/track/4aRUShwBYzKTub81apNczL"
+    },
+    {
+      "album": {
+        "name": "Days Like These",
+        "url": "https://open.spotify.com/album/3ZYgGPqfhewx25DlOxsWv6"
+      },
+      "artists": [
+        {
+          "name": "Trovaire",
+          "url": "https://open.spotify.com/artist/7D3iJXB8C820wkvIkhRp1u"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264588,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/1vZ3XL2dbWuVYJrDnkY2j6"
+    },
+    {
+      "album": {
+        "name": "De Guerre",
+        "url": "https://open.spotify.com/album/0asr8zEnxMvEod2wdcNwnL"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155180,
+      "name": "De Guerre",
+      "url": "https://open.spotify.com/track/21uORftqCAkZWbqLzjpnPy"
     },
     {
       "album": {
@@ -1626,7 +1734,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191703,
       "name": "E.S.",
       "url": "https://open.spotify.com/track/2hPkL6XJCVXnvkg2DMnDIF"
@@ -1792,6 +1900,24 @@
       "duration_ms": 160320,
       "name": "feel like home",
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
+    {
+      "album": {
+        "name": "Ferry Lady",
+        "url": "https://open.spotify.com/album/1CwMlbr0CQJxdPQtlcLFT4"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282042,
+      "name": "Ferry Lady",
+      "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
     },
     {
       "album": {
@@ -2416,7 +2542,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 192000,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
@@ -2456,6 +2582,24 @@
       "duration_ms": 305853,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1360bN00ygnhb9bH03JGMs"
+    },
+    {
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191120,
+      "name": "I Look for You",
+      "url": "https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU"
     },
     {
       "album": {
@@ -2672,7 +2816,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 253977,
       "name": "In The Moon",
       "url": "https://open.spotify.com/track/7gQ59bDTYT54x7J1TqNgrH"
@@ -3044,6 +3188,24 @@
       "duration_ms": 169473,
       "name": "let her go",
       "url": "https://open.spotify.com/track/2NpIG2kRMietramQ70TJVi"
+    },
+    {
+      "album": {
+        "name": "Let It Grow",
+        "url": "https://open.spotify.com/album/5aA7OMN45iR1fO8cgvkAau"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284222,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/7jcGRUfoREyKkpuvIv4Sd9"
     },
     {
       "album": {
@@ -3527,6 +3689,28 @@
     },
     {
       "album": {
+        "name": "I Always Follow Expansion Pack",
+        "url": "https://open.spotify.com/album/4cPknLGrCA0cWrTqViEkiY"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        },
+        {
+          "name": "The KVB",
+          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247615,
+      "name": "Memory Screen (The KVB Remix)",
+      "url": "https://open.spotify.com/track/3bQIrdC2AYJtkD16YjEZn0"
+    },
+    {
+      "album": {
         "name": "Method Actor",
         "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
       },
@@ -3932,7 +4116,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 254034,
       "name": "nothing to prove",
       "url": "https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG"
@@ -3950,7 +4134,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 215200,
       "name": "Nothing Was Easy",
       "url": "https://open.spotify.com/track/60Reo9vYJN13KWlpjIgz6C"
@@ -4163,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Seeds",
+        "url": "https://open.spotify.com/album/7gHQfYIe5gUmpvWA0k8vU4"
+      },
+      "artists": [
+        {
+          "name": "Brown Spirits",
+          "url": "https://open.spotify.com/artist/6kGqdMrX1clLXAOCnA7S6h"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Out Out Out",
+      "url": "https://open.spotify.com/track/3YiECB6JUqxLEjJhYlAfkl"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
       },
@@ -4246,7 +4448,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
@@ -4268,6 +4470,24 @@
       "duration_ms": 256245,
       "name": "People Always Change",
       "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
+    {
+      "album": {
+        "name": "people are sparkly too",
+        "url": "https://open.spotify.com/album/3ZVq42CJkx2mCc8c5oQLiN"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187542,
+      "name": "people are sparkly too",
+      "url": "https://open.spotify.com/track/2wh4kq1iVUwZkjKOzu8qJT"
     },
     {
       "album": {
@@ -4620,6 +4840,24 @@
       "duration_ms": 205469,
       "name": "Run.",
       "url": "https://open.spotify.com/track/0fRFuEPkq4UGatkHTModKJ"
+    },
+    {
+      "album": {
+        "name": "S.N.C",
+        "url": "https://open.spotify.com/album/0oaI0qO5yCMuaQ7hcczrmj"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355145,
+      "name": "S.N.C",
+      "url": "https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd"
     },
     {
       "album": {
@@ -5790,7 +6028,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 79693,
       "name": "THEN THERE'S ONE",
       "url": "https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg"
@@ -5992,7 +6230,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 148515,
       "name": "tommy n ben",
       "url": "https://open.spotify.com/track/3usZUzvx6BYI6u5m1qskqn"
@@ -6010,7 +6248,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 194426,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
@@ -6208,7 +6446,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 243833,
       "name": "Vessel Of Love",
       "url": "https://open.spotify.com/track/2FuQEfUmFndypc7665RvAs"
@@ -6493,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Wompoo",
+        "url": "https://open.spotify.com/album/2v7sIDAGOgAP6wBtB8Onl1"
+      },
+      "artists": [
+        {
+          "name": "Charlie Needs Braces",
+          "url": "https://open.spotify.com/artist/0fZXikVT0SFLWxfLBNQ9Tb"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184511,
+      "name": "Wompoo",
+      "url": "https://open.spotify.com/track/366iAPnZfkkeGGrt0ihtmk"
+    },
+    {
+      "album": {
         "name": "words fell out",
         "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
       },
@@ -6508,6 +6764,24 @@
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "album": {
+        "name": "WRITHING IN THE WIND",
+        "url": "https://open.spotify.com/album/3vIRycVhyVtH7x30vXeqLm"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84347,
+      "name": "WRITHING IN THE WIND",
+      "url": "https://open.spotify.com/track/1ZNJJekN6Oto599rrIAAwF"
     },
     {
       "album": {
@@ -6562,7 +6836,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
@@ -6598,7 +6872,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 216426,
       "name": "You Don't Know The Shape I'm In",
       "url": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"

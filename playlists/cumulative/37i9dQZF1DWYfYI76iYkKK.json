@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "\u67d4\u97cc\u6709\u9918 Gentle Armor",
+        "url": "https://open.spotify.com/album/5B8QQIdDrP7ehoM0KIFULd"
+      },
+      "artists": [
+        {
+          "name": "\u53f2\u65af\u5b87",
+          "url": "https://open.spotify.com/artist/5KFPBuZ5A3eHa3PHZVD2cx"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/6ZNCCEHyU70fSeWZJtp1Ok"
+    },
+    {
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/6T13N7kZpv449TROnEk40y"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 235743,
       "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
       "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
@@ -3428,6 +3446,24 @@
     {
       "album": {
         "name": "\u597d\u4e45\u4e0d\u898b",
+        "url": "https://open.spotify.com/album/3gVmJvOG55D2gKx7IAHQ0u"
+      },
+      "artists": [
+        {
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220625,
+      "name": "\u597d\u4e45\u4e0d\u898b",
+      "url": "https://open.spotify.com/track/5xWEjTvI5ZcrleWQBxwmJ8"
+    },
+    {
+      "album": {
+        "name": "\u597d\u4e45\u4e0d\u898b",
         "url": "https://open.spotify.com/album/6HGlmOOc8slmF8StDC3XGF"
       },
       "artists": [
@@ -3874,7 +3910,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 325158,
       "name": "\u5c0f\u9ec3\u72d7",
       "url": "https://open.spotify.com/track/2ZFWX4oi8UQRskFimIpkAz"
@@ -4163,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "\u5ee2\u68c4\u6e05\u7406",
+        "url": "https://open.spotify.com/album/1hg6wNzp3DpzLVSHMTuc4m"
+      },
+      "artists": [
+        {
+          "name": "Theseus \u5fd2\u4fee\u65af",
+          "url": "https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u5ee2\u68c4\u6e05\u7406",
+      "url": "https://open.spotify.com/track/5VRtvKBkpZIxKqtZIvK4Tp"
+    },
+    {
+      "album": {
         "name": "\u5ee2\u7d19\u7403",
         "url": "https://open.spotify.com/album/4KBTXnFGMoQ5zQDVDdzG23"
       },
@@ -4174,7 +4228,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 253884,
       "name": "\u5ee2\u7d19\u7403",
       "url": "https://open.spotify.com/track/5I4hilVqw1Boji5ANHiij2"
@@ -4902,7 +4956,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203008,
       "name": "\u6211\u53ef\u4ee5",
       "url": "https://open.spotify.com/track/7FJ1eVDKKZMblOygYVTSkz"
@@ -5760,6 +5814,24 @@
       "duration_ms": 220414,
       "name": "\u6700\u60f3\u898b\u5230\u4f60 (\u4e09\u7acb\u83ef\u5287\u300a\u8ddf\u9bca\u9b5a\u63a5\u543b\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi"
+    },
+    {
+      "album": {
+        "name": "\u6700\u6700\u597d",
+        "url": "https://open.spotify.com/album/091F3LtkxmfMLddT29TrYD"
+      },
+      "artists": [
+        {
+          "name": "\u5f26\u5b50",
+          "url": "https://open.spotify.com/artist/2jFWO75iGHxpZURZi2FBT4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224997,
+      "name": "\u6700\u6700\u597d",
+      "url": "https://open.spotify.com/track/3HPZzjXJzz4Cr4rCJoDp0C"
     },
     {
       "album": {
@@ -6644,7 +6716,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 248000,
       "name": "\u751f\u547d\u7684\u95dc\u65bc",
       "url": "https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS"
@@ -7480,7 +7552,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 196125,
       "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
       "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"
@@ -7676,6 +7748,24 @@
       "duration_ms": 265694,
       "name": "\u88dd\u98fe\u97f3",
       "url": "https://open.spotify.com/track/7iC1d22Q9zG0XQZvITqetB"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6IBMwAVKcMIgeMpbNVMldn"
+      },
+      "artists": [
+        {
+          "name": "Rose Liu",
+          "url": "https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257877,
+      "name": "\u8a18\u61b6\u9084\u7d66\u5f9e\u524d",
+      "url": "https://open.spotify.com/track/6cn8bNIEIZn9KRakBcOeOK"
     },
     {
       "album": {

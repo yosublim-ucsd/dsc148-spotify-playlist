@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-33 songs - 1 hr 58 min
+35 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100K](https://open.spotify.com/track/5uWkFrjcqCXGWaQF82FvFG) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:59 | 2024-01-29 |  |
 | [50s](https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s \(headiokart remix\)](https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z) | 2:39 | 2024-01-29 |  |
 | [Attitude](https://open.spotify.com/track/5u1IwY8m1KBKVXaHUoQrn7) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:16 | 2024-01-29 |  |
+| [Back to Basics](https://open.spotify.com/track/4or9opxT7BGioeiZHFdZu9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:17 | 2025-01-09 |  |
 | [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 | 2024-01-29 |  |
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2024-01-29 |  |
 | [Burner on Deck \(feat\. Pop Smoke & Young Adz\)](https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:07 | 2024-01-29 |  |
@@ -21,6 +22,7 @@
 | [Gorillas](https://open.spotify.com/track/53FNwkBPrb4vlRqPKLZi4L) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 1:57 | 2024-01-29 |  |
 | [Greece](https://open.spotify.com/track/7yG364iLzExYFIaIUTbiug) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 2:40 | 2024-01-29 |  |
 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 | 2024-01-29 |  |
+| [I Miss](https://open.spotify.com/track/1WCC7KfzalilcV9cFnvYSx) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:44 | 2025-01-09 |  |
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2024-01-29 |  |
 | [Mercury](https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 5:23 | 2024-01-29 |  |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2024-01-29 |  |

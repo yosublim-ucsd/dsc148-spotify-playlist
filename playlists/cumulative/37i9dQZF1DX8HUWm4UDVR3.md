@@ -2,7 +2,7 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Ben Mazué & Yoa
+> La pop française annonce la couleur\. Photo : Stromae & Pomme
 
 250 songs - 12 hr 27 min
 

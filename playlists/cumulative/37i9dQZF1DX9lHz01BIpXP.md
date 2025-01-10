@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-173 songs - 8 hr 53 min
+174 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 | 2023-10-27 | 2024-08-25 |
 | [7DeLaan](https://open.spotify.com/track/5k1dncVhfbWtifwXFGthh3) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [7DeLaan](https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ) | 2:50 | 2023-06-08 | 2023-06-16 |
 | [911 \- TDV Ricky Vani Frontline Version](https://open.spotify.com/track/3fT4u2fljv6SFHFijwbYbP) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f), [TDV Ricky Vani Frontline](https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL) | [911](https://open.spotify.com/album/7wXbWbTfGux6rSDODkAJNe) | 3:18 | 2024-11-14 |  |
+| [Against the grain](https://open.spotify.com/track/0Jr2Ww4QkQslZ9B2tDklIz) | [Terror MC](https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG), [Nova Da Captive](https://open.spotify.com/artist/48RBjsWWVwKhmvAx9Oe8Ci) | [Against the grain](https://open.spotify.com/album/4RQHyyQwhkWVrwbiIbkn9B) | 3:07 | 2025-01-09 |  |
 | [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 | 2022-10-28 |
 | [Awe](https://open.spotify.com/track/1rNWkKVhuRBqwJ6nsjQIgw) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [Cream Machine](https://open.spotify.com/artist/3ogDnSPAOIkeH3EJgkw6sd) | [Awe](https://open.spotify.com/album/0uikFOqO0GXZKxzs3Nab8Y) | 2:08 | 2022-09-08 | 2023-03-03 |
 | [Awe](https://open.spotify.com/track/07pekB0VlTJg0tpb8qvTcH) | [Young Midi](https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [Awe](https://open.spotify.com/album/0VtgAxF8js5FxEPMNNQeba) | 1:52 | 2023-08-04 | 2024-01-27 |
@@ -96,7 +97,7 @@
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 | 2023-02-17 |
 | [Kyk Uit](https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Kyk Uit](https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS) | 2:40 | 2024-08-29 |  |
 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 | 2024-04-05 | 2024-12-13 |
-| [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 | 2023-10-06 |  |
+| [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 | 2023-10-06 | 2025-01-10 |
 | [Letterkundig \- 7785 oordrom remix](https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu) | [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF), [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Letterkundig \(7785 oordrom remix\)](https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1) | 4:03 | 2023-07-06 | 2024-05-24 |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |
 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 | 2022-09-08 |  |

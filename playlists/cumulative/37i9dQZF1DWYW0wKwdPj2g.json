@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Uche Agu",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Preye Odede",
   "name": "Come Alive",
   "tracks": [
     {
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k"
+      },
+      "artists": [
+        {
+          "name": "Promise Benson",
+          "url": "https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472560,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN"
+    },
+    {
+      "album": {
         "name": "He Reigns",
         "url": "https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa"
       },
@@ -1201,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Idi Ebube",
+        "url": "https://open.spotify.com/album/2Z7QAmd2g7fXSLpgLZ2Mkn"
+      },
+      "artists": [
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469539,
+      "name": "Idi Ebube",
+      "url": "https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4"
+    },
+    {
+      "album": {
         "name": "Lavish Worship Praise Medley",
         "url": "https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV"
       },
@@ -1336,6 +1372,28 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
+    },
+    {
+      "album": {
+        "name": "LIVE AT THE OYEL EXPERIENCE",
+        "url": "https://open.spotify.com/album/429aI2FIsoF9anMX4Na566"
+      },
+      "artists": [
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        },
+        {
+          "name": "Oshara",
+          "url": "https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "JO - Live",
+      "url": "https://open.spotify.com/track/3LmGYVH2X20G9wdqsNOMLG"
     },
     {
       "album": {

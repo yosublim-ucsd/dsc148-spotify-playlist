@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Geolier in cover.
+> Rap napoletano e il meglio della scena campana\. Capozanarky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,974 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,013 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
-| 2 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
-| 3 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
+| 1 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 |
+| 2 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
+| 3 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
 | 4 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 5 | [CRIR A ME](https://open.spotify.com/track/0kDRpvIZ2TVu3O93zCULmD) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [CRIR A ME](https://open.spotify.com/album/57M3PAoHMQhnT1wtRSD54N) | 2:29 |
 | 6 | [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [VIEN](https://open.spotify.com/track/4HeOiMGIHqTbknru5JDOT2) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [VIEN](https://open.spotify.com/album/07lUE05Kpe2i0K7u8jgZm5) | 2:06 |
 | 50 | [O'Sistem](https://open.spotify.com/track/786qEDqFcpcxzDzRf7K944) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [O'Sistem](https://open.spotify.com/album/4jz6bKLP1EPbzA0qZsYMa9) | 1:58 |
 
-Snapshot ID: `Z32yNwAAAAC2Qo5998fwPAcrc6Zz8tjx`
+Snapshot ID: `Z4BVTQAAAAAgU/e251/uVEU93JrIr67s`

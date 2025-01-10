@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>가오가이 \(kaogaii\), 키츠요지 \(kitsyojii\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>PENOMECO, YDG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,038 likes - 112 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,668 likes - 112 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 111 | [Ah\-Yeah \(feat\. Polodared\)](https://open.spotify.com/track/6RziGEwAqRmGCur6ZUz5Pc) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Tray Show](https://open.spotify.com/album/5qhtTUHbINUWv1f1bjcL5s) | 3:04 |
 | 112 | [Kingpin](https://open.spotify.com/track/5Bcm2vFJTFpHBRl8pUHWaM) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Kingpin](https://open.spotify.com/album/1bSjAfDaIUh4e4we2Lcdvd) | 4:22 |
 
-Snapshot ID: `Z34OrgAAAADikrvReaQxHjYk9nq5vEUX`
+Snapshot ID: `Z3+T/AAAAAA57/Gg+YxL7wS0b8jI778e`

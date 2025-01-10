@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 519064,
+  "num_followers": 519264,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
       },
@@ -1403,22 +1423,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+        "name": "Moving (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/2lZikxXCTlfUBRdT5LUukG"
       },
       "artists": [
         {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+      "duration_ms": 214000,
+      "name": "Moving - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/65IyK1KiAsXlG2eUCrRbCX"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1443,26 +1463,6 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Moving (Francis Mercier Remix)",
-        "url": "https://open.spotify.com/album/2lZikxXCTlfUBRdT5LUukG"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Moving - Francis Mercier Remix",
-      "url": "https://open.spotify.com/track/65IyK1KiAsXlG2eUCrRbCX"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "Kidz",
+        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Kidz",
+      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Matahale",
         "url": "https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 192786,
       "name": "Matahale",
       "url": "https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Kidz",
-        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Kidz",
-      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "H\u00e9roe de M\u00e9xico",
-        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "mari",
-          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "H\u00e9roe de M\u00e9xico",
-      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Yara",
         "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
       },
@@ -1971,6 +1951,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "H\u00e9roe de M\u00e9xico",
+        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "H\u00e9roe de M\u00e9xico",
+      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Back 2 Me",
         "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
       },
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
         }
       ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
       "artists": [
         {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         }
       ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
-      },
-      "artists": [
-        {
-          "name": "Marino Canal",
-          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
-        },
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 196859,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Gorah (Francis Mercier Midnight Mix)",
         "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 199512,
       "name": "Gorah - Francis Mercier Midnight Mix",
       "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
+      },
+      "artists": [
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        },
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 196859,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Titatite",
-        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Titatite - Radio Edit",
-      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 183439,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Titatite",
+        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Titatite - Radio Edit",
+      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Murder On The Dancefloor (THEMBA Remix)",
-        "url": "https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        }
-      ],
-      "duration_ms": 225303,
-      "name": "Murder On The Dancefloor - THEMBA Remix",
-      "url": "https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Toca's Miracle (Vidojean X Oliver Loenn Remix)",
         "url": "https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 155750,
       "name": "Toca's Miracle - Vidojean X Oliver Loenn Edit",
       "url": "https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Murder On The Dancefloor (THEMBA Remix)",
+        "url": "https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "duration_ms": 225303,
+      "name": "Murder On The Dancefloor - THEMBA Remix",
+      "url": "https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf"
     },
     {
       "added_at": "2025-01-04 02:16:35",

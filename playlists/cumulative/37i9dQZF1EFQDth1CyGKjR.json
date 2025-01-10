@@ -7273,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "Scriptures",
+        "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170830,
+      "name": "Sweet Thangs",
+      "url": "https://open.spotify.com/track/1ZHbGd0JjlE5pjvlmYwYTr"
+    },
+    {
+      "album": {
         "name": "Shock Value II (Deluxe)",
         "url": "https://open.spotify.com/album/2a8Sh6tRZgKM5oQ2KRTfaj"
       },

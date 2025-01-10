@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Sevdaliza et Ti\u00ebsto au top des bangers dance/electro du moment !",
+  "description": "Dimitri Vegas x Steve Aoki au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Bate Forte",
+        "url": "https://open.spotify.com/album/0SrGCY80zvrjTLDUaPxIw2"
+      },
+      "artists": [
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
+        },
+        {
+          "name": "Barka",
+          "url": "https://open.spotify.com/artist/7Fi2btFUsAr8bbZ1BzpIac"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Bate Forte",
+      "url": "https://open.spotify.com/track/5JtgGyGIt2gthKjO8YI7Es"
+    },
+    {
+      "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
       },
@@ -574,7 +596,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
@@ -718,7 +740,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 144379,
       "name": "Call My Name (feat. Sofiloud)",
       "url": "https://open.spotify.com/track/5H619YNMOXIuitwd3AcAdL"
@@ -1290,6 +1312,10 @@
         {
           "name": "Upsilone",
           "url": "https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA"
+        },
+        {
+          "name": "Astrid James",
+          "url": "https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ"
         }
       ],
       "date_added": "2025-01-02",
@@ -1694,7 +1720,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149673,
       "name": "Heart Like Mine (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
@@ -2090,6 +2116,40 @@
       "duration_ms": 175653,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
+    },
+    {
+      "album": {
+        "name": "I'm Going Out",
+        "url": "https://open.spotify.com/album/0ueixR4L7AZoiLvjnOoDds"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "I'm Going Out",
+      "url": "https://open.spotify.com/track/2FHwme6spTGP80vXHlOSAV"
     },
     {
       "album": {
@@ -4482,6 +4542,24 @@
       "duration_ms": 142898,
       "name": "Underneath The Blue (feat. Joe Cleere)",
       "url": "https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS"
+    },
+    {
+      "album": {
+        "name": "Up In The Sky",
+        "url": "https://open.spotify.com/album/6fflhZTORbDBNbMpDHM79H"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145221,
+      "name": "Up In The Sky",
+      "url": "https://open.spotify.com/track/1ONZD7qCTjQqZliYyfSGCd"
     },
     {
       "album": {

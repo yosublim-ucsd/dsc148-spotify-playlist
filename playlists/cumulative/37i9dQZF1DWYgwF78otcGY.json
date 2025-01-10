@@ -690,7 +690,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190013,
       "name": "Efter solsken",
       "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
@@ -1270,6 +1270,24 @@
       "duration_ms": 190613,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
+    },
+    {
+      "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
     },
     {
       "album": {

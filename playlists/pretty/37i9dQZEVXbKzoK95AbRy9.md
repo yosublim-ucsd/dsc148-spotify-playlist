@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,005 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,091 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 16 | [Imã de Problema](https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Toca Que Eu Quero Ouvir](https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW) | 2:17 |
 | 17 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
 | 18 | [Sujeito Homem \- Ao Vivo](https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sujeito Homem \(Ao Vivo\)](https://open.spotify.com/album/4zwl5bcTHly4gwYqoiZCcC) | 2:58 |
-| 19 | [365 Dias \(Vida Mansa\)](https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH) | [365 Dias \(Vida Mansa\)](https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt) | 8:47 |
+| 19 | [365 Dias \(Vida Mansa\)](https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [365 Dias \(Vida Mansa\)](https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt) | 8:47 |
 | 20 | [A Danada Me Ligando](https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [A Danada Me Ligando](https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE) | 4:43 |
 | 21 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 |
 | 22 | [E Aí Como Que Tá ?](https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [2T Na Levada](https://open.spotify.com/album/1epohEdKycc956pIE204lC) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 |
 | 50 | [Cachorro](https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP) | [Cachorro](https://open.spotify.com/album/7xYYUQbzFRcIMdh2UU1lNe) | 2:10 |
 
-Snapshot ID: `LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxM7oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

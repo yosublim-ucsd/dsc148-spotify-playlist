@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7AIfEOAvuXp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7AIfEOAvuXp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7AIfEOAvuXp)
 
-### [Fresh Finds Presents..\. Fresh Finds Class of 2020](https://open.spotify.com/playlist/37i9dQZF1DX7AIfEOAvuXp)
+### [Fresh Finds: Class of 2020](https://open.spotify.com/playlist/37i9dQZF1DX7AIfEOAvuXp)
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Merce Lemon 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,084 likes - 140 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,165 likes - 140 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 10 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
 | 11 | [drive](https://open.spotify.com/track/5nlZAk5H7m71KRSnFSdfOx) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [holy friend](https://open.spotify.com/album/6uqa1ZpRFpBzyp2dFlGvio) | 2:13 |
 | 12 | [Get a Life](https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Get a Life](https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu) | 3:29 |
-| 13 | [Walking Song](https://open.spotify.com/track/3asFmPu37s04nrH3zSBLdR) | [The Slow Country](https://open.spotify.com/artist/5kD1IXOvV30AavIW5so1tA) | [Walking Song](https://open.spotify.com/album/4ew6WVIlCjMuKMvthjftze) | 5:02 |
+| 13 | [Walking Song](https://open.spotify.com/track/3asFmPu37s04nrH3zSBLdR) | [The Slow Country](https://open.spotify.com/artist/5kD1IXOvV30AavIW5so1tA) | [Walking Song \(Deleted\)](https://open.spotify.com/album/4ew6WVIlCjMuKMvthjftze) | 5:02 |
 | 14 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
 | 15 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 16 | [mistake](https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mistake](https://open.spotify.com/album/1cA2MMkwjTl4XsWlc5A8PF) | 2:36 |

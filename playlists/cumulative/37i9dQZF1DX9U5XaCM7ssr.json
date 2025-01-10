@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Penantian Panjang",
+        "url": "https://open.spotify.com/album/62dDC0wmINdeEJuWE4dHzX"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251431,
+      "name": "Penantian Panjang",
+      "url": "https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z"
+    },
+    {
+      "album": {
         "name": "penjaga hati",
         "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
       },
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 408288,
       "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
       "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"

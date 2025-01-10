@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Aliocha Schneider",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Styleto",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "PEAU NEUVE (\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny"
+      },
+      "artists": [
+        {
+          "name": "NACH",
+          "url": "https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0"
+        },
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200924,
+      "name": "CE QU'ILS DEVIENNENT",
+      "url": "https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj"
+    },
+    {
+      "album": {
         "name": "PLUS DE REFLETS",
         "url": "https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6"
       },
@@ -216,6 +238,24 @@
       "duration_ms": 206186,
       "name": "Ce que j'aime (feat. Nikola)",
       "url": "https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR"
+    },
+    {
+      "album": {
+        "name": "Contre-c\u0153ur",
+        "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Contre-c\u0153ur",
+      "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
     },
     {
       "album": {
@@ -331,6 +371,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0-vu",
+        "url": "https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "D\u00e9j\u00e0-vu",
+      "url": "https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65"
+    },
+    {
+      "album": {
         "name": "Tout de suite",
         "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
       },
@@ -418,10 +476,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 195000,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
+    },
+    {
+      "album": {
+        "name": "Fille lacrymale",
+        "url": "https://open.spotify.com/album/4MrAsfTRnU0uLfnmZQTRMD"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "Fille lacrymale",
+      "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
     },
     {
       "album": {
@@ -548,7 +624,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 227800,
       "name": "Homme (feat. Barbara Pravi, Camille, Clou, Emily Loizeau, La Chica, Laura Cahen, Nach, Poppy Fus\u00e9e & L (Rapha\u00eble Lannad\u00e8re))",
       "url": "https://open.spotify.com/track/3QIZPNupFHSvcOPx0Q41XM"
@@ -768,7 +844,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 283509,
       "name": "Je voudrais tomber amoureux",
       "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
@@ -793,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "L'Oc\u00e9an des Amoureux",
+      "url": "https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP"
+    },
+    {
+      "album": {
         "name": "OCEANO NOXX (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1"
       },
@@ -804,7 +898,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 223133,
       "name": "La louve",
       "url": "https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD"
@@ -902,7 +996,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 269968,
       "name": "La souterraine",
       "url": "https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o"
@@ -978,7 +1072,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 184040,
       "name": "Le Grand Sommeil",
       "url": "https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh"
@@ -1469,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "OCEANO NOXX (Nouvelle \u00e9dition)",
+        "url": "https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1"
+      },
+      "artists": [
+        {
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "On s'aimera",
+      "url": "https://open.spotify.com/track/3ORZnahwMQvAFnWgHGP3O9"
+    },
+    {
+      "album": {
         "name": "PARADIS / SIERRA NEVADA",
         "url": "https://open.spotify.com/album/7rlMrXqjgdiDzBHyz090HD"
       },
@@ -1664,7 +1776,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183373,
       "name": "Rien \u00e0 voir",
       "url": "https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy"
@@ -1942,7 +2054,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177706,
       "name": "Tu danses",
       "url": "https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu"
@@ -2062,6 +2174,42 @@
       "duration_ms": 182721,
       "name": "Vivant",
       "url": "https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4"
+    },
+    {
+      "album": {
+        "name": "vivre sobrement",
+        "url": "https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN"
+      },
+      "artists": [
+        {
+          "name": "Terrenoire",
+          "url": "https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "vivre sobrement",
+      "url": "https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'\u00e9vidence",
+        "url": "https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb"
+      },
+      "artists": [
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246160,
+      "name": "\u00c0 l'arri\u00e8re de la voiture",
+      "url": "https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD"
     },
     {
       "album": {

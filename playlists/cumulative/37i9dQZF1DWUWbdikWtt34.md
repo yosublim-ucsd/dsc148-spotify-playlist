@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-213 songs - 16 hr 46 min
+214 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 | 2021-08-23 | 2024-04-19 |
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-08-23 | 2024-02-16 |
+| [Lumpur Dan Berlian](https://open.spotify.com/track/1FC12nTDCjIomyOpAbN7Yy) | [Fida AP](https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK), [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Lumpur Dan Berlian](https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm) | 6:05 | 2025-01-09 |  |
 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 | 2023-08-03 |  |
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 | 2024-02-09 |
 | [Manembak Di Ateh Kudo](https://open.spotify.com/track/4BDIGLwu9RMQuYewOfq1Rq) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Fikoh](https://open.spotify.com/artist/5sxTaMmGwfeWV4MwUqyoeh) | [Manembak Di Ateh Kudo](https://open.spotify.com/album/2391Gq4TbIbCUq1zrLSpia) | 6:54 | 2024-08-04 |  |

@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: HAPPILY
+> เพลย์ลิสต์พิเศษวันเด็ก เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: MAMIO
 
-143 songs - 10 hr 14 min
+145 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,10 @@
 | [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 |  |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
 | [Last Festival](https://open.spotify.com/track/6EVZd1EfvhbLVsNOs0fpKC) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [Last Festival](https://open.spotify.com/album/36ncWx5vMfncUSRXzTyyH2) | 5:04 | 2024-06-21 | 2024-10-05 |
+| [Lost.](https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [Lost.](https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat) | 4:00 | 2025-01-09 |  |
 | [me \(flowers\) you](https://open.spotify.com/track/3kGyVXw6BufGKIewx3ihxE) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [me \(flowers\) you](https://open.spotify.com/album/1Rtgj5SdlEEYChtp1GqYeI) | 4:36 | 2024-12-13 |  |
 | [MULTIVERSE](https://open.spotify.com/track/3LHLTMAXL0mO5uadLo59nL) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9), [Young Petch](https://open.spotify.com/artist/09AhYMLR8sNHNJbhYXZcID) | [MULTIVERSE](https://open.spotify.com/album/1Xoxc2oJCLBJnoLZZ8jxDz) | 4:51 | 2024-11-28 |  |
-| [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 | 2024-06-21 |  |
+| [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 | 2024-06-21 | 2025-01-10 |
 | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 | 2024-11-08 |  |
 | [Parfum](https://open.spotify.com/track/3vdzZCjEX8KjOD6Hw40qLE) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Parfum](https://open.spotify.com/album/16wUkQkUk0NWmcqd9OXnMT) | 3:50 | 2024-06-21 |  |
 | [River](https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [River](https://open.spotify.com/album/6hKyADQiXU8sh3fwGpdQuI) | 3:50 | 2024-06-21 | 2024-08-10 |
@@ -70,6 +71,7 @@
 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 | 2024-12-26 |  |
 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 | 2024-10-11 | 2024-11-02 |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 | 2024-12-14 |
+| [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo) | 3:47 | 2025-01-09 |  |
 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
 | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/track/6nquKmifNmk8JRy61FkHFx) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/album/3DXpBDOGRI8PwrL6z53xvR) | 4:30 | 2024-10-04 | 2024-10-26 |
 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 | 2024-06-21 |  |
@@ -131,7 +133,7 @@
 | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/track/2IhoaEJzMnfMWJaGAVVKNN) | [SAPAPSUPAP](https://open.spotify.com/artist/4mcpLGrLEdwxau2ySVsbsx) | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/album/5SNNm01q89heuXS5ZJJA7t) | 3:37 | 2024-10-11 | 2024-10-19 |
 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 | 2024-09-20 |  |
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 |  |
-| [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 |  |
+| [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 | 2025-01-10 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-21 | 2024-09-14 |
 | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/track/2ZkgmOYai2l0x38Wti8nzr) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [โลกนี้มีแต่คำลา \(Good\)Bye](https://open.spotify.com/album/4K55gPyJQP9B8mSnDSD5su) | 4:52 | 2024-11-15 |  |
 | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/track/2FV8l4rRoN4bYpVpfqOvpB) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/album/5jsCmjKzmKt26gm3krBC0C) | 4:21 | 2024-10-04 | 2024-11-29 |

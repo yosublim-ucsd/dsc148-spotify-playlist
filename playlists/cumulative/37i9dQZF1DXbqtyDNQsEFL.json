@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
@@ -2553,6 +2553,28 @@
     },
     {
       "album": {
+        "name": "Gba Jesu",
+        "url": "https://open.spotify.com/album/53AWo7Q3b3LRmk8Eob6Dgp"
+      },
+      "artists": [
+        {
+          "name": "Princewill Agbazue",
+          "url": "https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132471,
+      "name": "Gba Jesu",
+      "url": "https://open.spotify.com/track/7MDMV5Pnu6SVWzVJa2UxuX"
+    },
+    {
+      "album": {
         "name": "Give Me Chance",
         "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
       },
@@ -2726,6 +2748,28 @@
       "duration_ms": 408183,
       "name": "Good (Remix)",
       "url": "https://open.spotify.com/track/4foBRaj4utf80ptIPLpJn1"
+    },
+    {
+      "album": {
+        "name": "Goodness & Mercy (This Year)",
+        "url": "https://open.spotify.com/album/2oigRgI29RgMSCF6fFgB9D"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        },
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210430,
+      "name": "Goodness & Mercy (This Year)",
+      "url": "https://open.spotify.com/track/3bKheJ9drRQvm0CJk35iKO"
     },
     {
       "album": {
@@ -3036,7 +3080,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180404,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"

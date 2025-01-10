@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 3 hr 0 min
+59 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 | 2024-09-08 |  |
 | [Lightning & Thunder \(feat\. John Legend\)](https://open.spotify.com/track/68q4iNShG47zCF2LBlkybk) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:30 | 2024-01-29 |  |
 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 | 2024-10-26 |  |
+| [Makings of a Man](https://open.spotify.com/track/0OpJOkPJtkrx3sF7NpJFwn) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Fisticuffs](https://open.spotify.com/artist/4vm80uLtL6Q7IQ4FoGJKRD) | [CLARITY](https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS) | 1:51 | 2025-01-09 |  |
 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 | 2024-03-16 |  |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2024-01-29 |  |
 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 | 2024-01-29 |  |

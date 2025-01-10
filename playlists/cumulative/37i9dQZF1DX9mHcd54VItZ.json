@@ -4778,7 +4778,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 186666,
       "name": "Jy Dink Jy's Die Een",
       "url": "https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1"
@@ -5947,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "Moon and Stars",
+        "url": "https://open.spotify.com/album/67PHONJNDRPZViV7HG6T5z"
+      },
+      "artists": [
+        {
+          "name": "Emile Gerber",
+          "url": "https://open.spotify.com/artist/7DxpMWgZjDeVs84HObL00o"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Moon and Stars",
+      "url": "https://open.spotify.com/track/0re6xyn8vMeAyZhXDodEIx"
+    },
+    {
+      "album": {
         "name": "Moth Eater",
         "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
       },
@@ -6672,7 +6690,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 229000,
       "name": "Original Nightmare",
       "url": "https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5"
@@ -6900,6 +6918,24 @@
       "duration_ms": 162077,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc"
+    },
+    {
+      "album": {
+        "name": "Ys Up My Sleeve",
+        "url": "https://open.spotify.com/album/2i27DOFkKmjWVB5gRYU1vk"
+      },
+      "artists": [
+        {
+          "name": "Ys Van Die Koud",
+          "url": "https://open.spotify.com/artist/2BIUeAfAunTs5fAsR1xaef"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220489,
+      "name": "Part of Your Kind",
+      "url": "https://open.spotify.com/track/1h83MOXEOMdH3XqhUan5cz"
     },
     {
       "album": {

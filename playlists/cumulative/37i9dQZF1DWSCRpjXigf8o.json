@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26"
@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of The Commodores",
+        "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
+    },
+    {
+      "album": {
         "name": "Easy Violence / John Prine",
         "url": "https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM"
       },
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 183108,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
@@ -5990,7 +6008,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
@@ -7069,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "stay tune",
+        "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163608,
+      "name": "stay tune",
+      "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
+    },
+    {
+      "album": {
         "name": "stick of gum",
         "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
       },
@@ -7318,7 +7354,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
@@ -9172,7 +9208,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 252415,
       "name": "\u3042\u306a\u305f\u306e\u5168\u3066",
       "url": "https://open.spotify.com/track/4IOqoYcnwu5kWkmnb2GRAa"
@@ -9876,7 +9912,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
@@ -9984,7 +10020,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"

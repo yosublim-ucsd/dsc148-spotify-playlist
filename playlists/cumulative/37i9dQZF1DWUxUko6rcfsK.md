@@ -4,7 +4,7 @@
 
 > Het leven is prachtig en dat verdient goede muziek
 
-104 songs - 5 hr 45 min
+105 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Have You Ever Loved Someone](https://open.spotify.com/track/4UdsCQV2xKfcMF4EUew9ZD) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Have You Ever Loved Someone](https://open.spotify.com/album/1MmZnUzFTvJvU1G9Ws3ds0) | 3:19 | 2024-07-01 | 2024-10-22 |
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-07-01 |  |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 | 2024-11-05 |
+| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2025-01-09 |  |
 | [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-11-07 |  |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Christophe Verholle](https://open.spotify.com/artist/5cqOALIWK5xoaqHXwikfis) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-11-07 |  |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-07-15 |  |
@@ -87,7 +88,7 @@
 | [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2024-07-01 |  |
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-09-12 |  |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2025-01-06 |  |
-| [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-01 |  |
+| [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-01 | 2025-01-10 |
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2024-07-01 |  |
 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 | 2024-09-19 |  |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-07-01 |  |

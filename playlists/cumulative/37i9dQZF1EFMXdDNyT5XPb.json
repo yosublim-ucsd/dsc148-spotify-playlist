@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Banks of Shiloh",
+        "url": "https://open.spotify.com/album/1V47SxIAPQWkoQ8r19FYBd"
+      },
+      "artists": [
+        {
+          "name": "Johnny McGuire",
+          "url": "https://open.spotify.com/artist/08rVq88zf9uE6G66X5ve5o"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279128,
+      "name": "Banks of Shiloh",
+      "url": "https://open.spotify.com/track/3Z4kWj16OdUEI8Wie9myuv"
+    },
+    {
+      "album": {
         "name": "Union J (Deluxe)",
         "url": "https://open.spotify.com/album/3uUmVrNEI2rGGeaREn3zlE"
       },
@@ -792,6 +810,24 @@
       "duration_ms": 202164,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: d4vd",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Doechii",
   "name": "Next Up",
   "tracks": [
     {
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 228860,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
@@ -11149,6 +11149,24 @@
     },
     {
       "album": {
+        "name": "City Love City Love City Love",
+        "url": "https://open.spotify.com/album/6oHghah6YR12XjvkSoUyBN"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/18z76mUTvkZgsgKNpwzs46"
+    },
+    {
+      "album": {
         "name": "City of Dreams",
         "url": "https://open.spotify.com/album/0yrmb9XElDSEAGjC6cxQcL"
       },
@@ -12749,6 +12767,24 @@
     },
     {
       "album": {
+        "name": "DALMATIAN",
+        "url": "https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245300,
+      "name": "DALMATIAN",
+      "url": "https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK"
+    },
+    {
+      "album": {
         "name": "YELLOW NOTE",
         "url": "https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ"
       },
@@ -14148,6 +14184,24 @@
       "duration_ms": 195573,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "album": {
@@ -20167,6 +20221,24 @@
     },
     {
       "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/512rfw4NcUOirXQIctZbj9"
+      },
+      "artists": [
+        {
+          "name": "YUZU",
+          "url": "https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175545,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2P8Q6altzSJhUn18phiCDv"
+    },
+    {
+      "album": {
         "name": "THE HIGH END THEORY",
         "url": "https://open.spotify.com/album/2yP81hd7EHhrH3ONvJRz9u"
       },
@@ -21612,7 +21684,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 168746,
       "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
       "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
@@ -24192,6 +24264,24 @@
       "duration_ms": 174518,
       "name": "happy im",
       "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
+    },
+    {
+      "album": {
+        "name": "Happy Nante",
+        "url": "https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "Happy Nante",
+      "url": "https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN"
     },
     {
       "album": {
@@ -50705,6 +50795,24 @@
     },
     {
       "album": {
+        "name": "Sakura, Hirari",
+        "url": "https://open.spotify.com/album/59EemgW0GWvqjkS31pB8tL"
+      },
+      "artists": [
+        {
+          "name": "SOUTHERN ALL STARS",
+          "url": "https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246815,
+      "name": "Sakura, Hirari",
+      "url": "https://open.spotify.com/track/3A1SAiF3EGsS11vHxq53Sc"
+    },
+    {
+      "album": {
         "name": "Steal Your Heart",
         "url": "https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as"
       },
@@ -53460,7 +53568,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 142935,
       "name": "SLOW IT DOWN",
       "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
@@ -57342,7 +57450,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
@@ -58992,6 +59100,24 @@
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
+    },
+    {
+      "album": {
+        "name": "Terra Boy",
+        "url": "https://open.spotify.com/album/6mn8aQ8GQNEzTnG2ImrTpt"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Terra Boy",
+      "url": "https://open.spotify.com/track/0aVsgABiI5e2gCx5lsxGj2"
     },
     {
       "album": {
@@ -67151,6 +67277,24 @@
     },
     {
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/19l77oRyewdkvqIqt0vSoY"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215369,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs"
+    },
+    {
+      "album": {
         "name": "Words With You",
         "url": "https://open.spotify.com/album/6VmLEG6NQAuAXcVc1tjmg6"
       },
@@ -71666,7 +71810,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 239800,
       "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
@@ -71684,7 +71828,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 217053,
       "name": "\u30a2\u30af\u30de",
       "url": "https://open.spotify.com/track/6ebno1nYxxJd6Soz0TyjIr"
@@ -76984,7 +77128,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226514,
       "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
@@ -78530,7 +78674,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 199250,
       "name": "\u5446\u7136",
       "url": "https://open.spotify.com/track/2xsOV96ZRZ71FPovMs2ulO"
@@ -82230,6 +82374,24 @@
       "duration_ms": 368000,
       "name": "\u6e7e\u5cb8",
       "url": "https://open.spotify.com/track/1bLat7YMwjNYq9HGF6R763"
+    },
+    {
+      "album": {
+        "name": "\u6e7f\u604b",
+        "url": "https://open.spotify.com/album/5EOJwlcs8uW6SU0qOC1wII"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311226,
+      "name": "\u6e7f\u604b",
+      "url": "https://open.spotify.com/track/33ewKvzmWZIBPdhNjSJ0XP"
     },
     {
       "album": {

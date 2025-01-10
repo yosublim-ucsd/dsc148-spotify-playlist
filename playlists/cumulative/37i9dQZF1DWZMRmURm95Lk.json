@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "album": {
         "name": "Always Ready",
         "url": "https://open.spotify.com/album/3wlakbU1BE1CxvkXOraFe3"
       },
@@ -740,7 +762,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 158394,
       "name": "BASTA SESSION N\u00b01",
       "url": "https://open.spotify.com/track/05zm3yVavcLtevyhsCgOO3"
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203750,
       "name": "Cronico",
       "url": "https://open.spotify.com/track/3htVVMLpPeiYQ9C4YNpW5O"
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 145840,
       "name": "Dovrei",
       "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
@@ -3293,6 +3315,28 @@
     },
     {
       "album": {
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "Gazelle (feat. Ele A)",
+      "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
+    },
+    {
+      "album": {
         "name": "GENUFLEX",
         "url": "https://open.spotify.com/album/1HAMs7LoNClaz8lwemRnzb"
       },
@@ -3394,6 +3438,24 @@
       "duration_ms": 143700,
       "name": "Gioielleria Colombo",
       "url": "https://open.spotify.com/track/1ikGn3FDQFst0ZwSdjcSyn"
+    },
+    {
+      "album": {
+        "name": "GIORNI D'AGONIA",
+        "url": "https://open.spotify.com/album/57xPOorMxBw8rqe0Il3YpE"
+      },
+      "artists": [
+        {
+          "name": "Mangiafuoco",
+          "url": "https://open.spotify.com/artist/1vcpArePlTliriC0r4YtQ1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89799,
+      "name": "GIORNI D'AGONIA",
+      "url": "https://open.spotify.com/track/3UM4ssIeL2JkevXJVnnRDy"
     },
     {
       "album": {
@@ -3778,7 +3840,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 174545,
       "name": "I BAMBINI DELLA GUERRA",
       "url": "https://open.spotify.com/track/1uzNtQv6oJU5TKaTrgutBy"
@@ -5869,6 +5931,28 @@
     },
     {
       "album": {
+        "name": "Profondo Blu",
+        "url": "https://open.spotify.com/album/5z96SJVPsglSpgULfxxERs"
+      },
+      "artists": [
+        {
+          "name": "letteredistrada",
+          "url": "https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Memorie dal sottosuolo",
+      "url": "https://open.spotify.com/track/0mAGIO8uzyMO1wIYODzXqh"
+    },
+    {
+      "album": {
         "name": "Metaforico Malinconico (Reloaded Version)",
         "url": "https://open.spotify.com/album/6FuHAsN91MaZhifyoJITd8"
       },
@@ -6102,7 +6186,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151538,
       "name": "MISERABILE",
       "url": "https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw"
@@ -6220,7 +6304,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203181,
       "name": "MUSICA ETERNA",
       "url": "https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2"
@@ -7169,6 +7253,32 @@
     },
     {
       "album": {
+        "name": "WOP",
+        "url": "https://open.spotify.com/album/6kgk6VVGn3QjhqiZQsFRBk"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185553,
+      "name": "Outfit Giancana",
+      "url": "https://open.spotify.com/track/4GpAB6OC3odOR6lOldeqb8"
+    },
+    {
+      "album": {
         "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
         "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
       },
@@ -7752,7 +7862,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201818,
       "name": "Portami lontano",
       "url": "https://open.spotify.com/track/1iWumdzVHTdebdSLqhIh02"
@@ -9121,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Siamo Diversi",
+        "url": "https://open.spotify.com/album/33XdeMPheUi55edMa0qfbz"
+      },
+      "artists": [
+        {
+          "name": "Fuckgize",
+          "url": "https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202694,
+      "name": "Siamo Diversi",
+      "url": "https://open.spotify.com/track/5uNks9OOxit7aZEHiSlOjI"
+    },
+    {
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -9798,6 +9926,32 @@
       "duration_ms": 205026,
       "name": "Sulla Giostra",
       "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
+    },
+    {
+      "album": {
+        "name": "Sulla Mappa",
+        "url": "https://open.spotify.com/album/7pLBScHAnbqAPI5hSup5re"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Dj Jay-K",
+          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
+        },
+        {
+          "name": "Maxi B",
+          "url": "https://open.spotify.com/artist/50Gl7LkqNurrE6MBpoQYlM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235280,
+      "name": "Sulla Mappa",
+      "url": "https://open.spotify.com/track/3bpS9D8v6COtrVsGHzI4dh"
     },
     {
       "album": {

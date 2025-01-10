@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 663282,
+  "num_followers": 663446,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
         "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 190800,
       "name": "Song of the South",
       "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Buenas Noches From a Lonely Room",
-        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Streets of Bakersfield",
-      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Buenas Noches From a Lonely Room",
+        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Best Of Eddy Raven",
         "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 146466,
       "name": "I Got Mexico",
       "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 170266,
       "name": "Tight Fittin' Jeans",
       "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Big Dreams In A Small Town",
-        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "The Bluest Eyes In Texas",
-      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "80s Ladies",
         "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 251293,
       "name": "80's Ladies",
       "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Big Dreams In A Small Town",
+        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "The Bluest Eyes In Texas",
+      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
-      },
-      "artists": [
-        {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1955,38 +1955,6 @@
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Conversation (with Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "The First Of A Million Kisses",
-        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
-      },
-      "artists": [
-        {
-          "name": "Fairground Attraction",
-          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2007,6 +1975,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "The First Of A Million Kisses",
+        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
+      },
+      "artists": [
+        {
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "The Conversation (with Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
+      "duration_ms": 184946,
+      "name": "(That's What You Do) When You're in Love",
+      "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 184946,
-      "name": "(That's What You Do) When You're in Love",
-      "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
     },
     {
       "added_at": "2024-10-14 21:15:40",

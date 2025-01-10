@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-338 songs - 18 hr 19 min
+339 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Question](https://open.spotify.com/track/2vfgmmnUDkZNs75AJm7lev) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:04 | 2022-03-18 | 2024-04-19 |
 | [Question](https://open.spotify.com/track/4uvAnZY8axmju0aJrulJna) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:04 | 2022-03-18 |  |
 | [Railway \(Bang Chan\)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:53 | 2024-12-13 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-09 |  |
 | [Red Lights \(Bang Chan, Hyunjin\)](https://open.spotify.com/track/0LatE4S9UtCDwIdGQsFFKL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:09 | 2022-03-18 | 2024-04-19 |
 | [Red Lights \(Bang Chan, Hyunjin\)](https://open.spotify.com/track/0oPxoF9HNMC2cWbCZ9SxPs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:09 | 2022-03-18 |  |
 | [ROCK](https://open.spotify.com/track/6p4pfgTkaktK4sp3ZP7NzA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:13 | 2022-03-18 | 2024-04-19 |

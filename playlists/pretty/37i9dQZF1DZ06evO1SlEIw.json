@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xugAAAAAAE9I+iHCIgJcjsEdRUm5Ja",
+  "snapshot_id": "Z33AAAAAAACq+SPIGMVkI7l0dXYs4VBQ",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 310386,
-      "name": "\u541b\u306f\u50d5\u306e\u5e0c\u671b - Vocalized Version",
-      "url": "https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz"
+      "duration_ms": 155328,
+      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
+      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 155328,
-      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
-      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
+      "duration_ms": 310386,
+      "name": "\u541b\u306f\u50d5\u306e\u5e0c\u671b - Vocalized Version",
+      "url": "https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz"
     },
     {
       "added_at": null,

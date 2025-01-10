@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
-  "num_followers": 70600,
+  "num_followers": 70611,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "The Heritage Orchestra",
-          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 422283,
-      "name": "Escapism. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -351,18 +347,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
         }
       ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+      "duration_ms": 422283,
+      "name": "Escapism. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -429,10 +429,10 @@
       "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-20 05:00:24",
       "album": {
-        "name": "Touching Toes (Live At Eventim Apollo)",
-        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
+        "name": "Live At Eventim Apollo",
+        "url": "https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 147624,
-      "name": "Touching Toes - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
+      "duration_ms": 268770,
+      "name": "Dive - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 234040,
       "name": "How Deep Is Your Love - Live At The MGM Grand",
       "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
     },
     {
-      "added_at": "2024-12-20 05:00:24",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Live At Eventim Apollo",
-        "url": "https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M"
+        "name": "Touching Toes (Live At Eventim Apollo)",
+        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 268770,
-      "name": "Dive - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
+      "duration_ms": 147624,
+      "name": "Touching Toes - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -591,22 +591,6 @@
       "duration_ms": 209306,
       "name": "Budapest - Live from Spotify Stockholm",
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ego Talking (Live)",
-        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Ego Talking - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -655,6 +639,22 @@
       "duration_ms": 213026,
       "name": "ME! - Live From Paris",
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ego Talking (Live)",
+        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Ego Talking - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -739,38 +739,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 285930,
-      "name": "I See Fire - Live and in Session",
-      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "You're Beautiful - Live in Ireland",
-      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -783,6 +751,22 @@
       "duration_ms": 234657,
       "name": "Nothing Breaks Like a Heart - Live",
       "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 285930,
+      "name": "I See Fire - Live and in Session",
+      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "You're Beautiful - Live in Ireland",
+      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "The Confessions Tour (Live)",
         "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Tina Live",
-        "url": "https://open.spotify.com/album/2NcPXpM3MBapEiMs75keCm"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "What's Love Got to Do with It - Live in Arnhem",
-      "url": "https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "In The Stars (Live Version)",
         "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 255139,
       "name": "In The Stars - Live Version",
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Tina Live",
+        "url": "https://open.spotify.com/album/2NcPXpM3MBapEiMs75keCm"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "What's Love Got to Do with It - Live in Arnhem",
+      "url": "https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Pompeii / Come As You Are (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 268690,
-      "name": "Pompeii - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 268690,
+      "name": "Pompeii - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Roman Holiday - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 316192,
       "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Roman Holiday - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
     },
     {
       "added_at": "2024-10-18 19:54:54",

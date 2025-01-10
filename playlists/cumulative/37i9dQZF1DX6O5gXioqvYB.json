@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Anna and Vulkan",
+  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Anna Carol",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 145320,
       "name": "Acqua Naturale",
       "url": "https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf"
+    },
+    {
+      "album": {
+        "name": "Acquaverde",
+        "url": "https://open.spotify.com/album/5dwhzj6JmadKUoVAYQmmog"
+      },
+      "artists": [
+        {
+          "name": "frambo",
+          "url": "https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182526,
+      "name": "Acquaverde",
+      "url": "https://open.spotify.com/track/2IuIMjK1XDpI5h9LzyVf8X"
     },
     {
       "album": {
@@ -514,7 +532,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 179500,
       "name": "ATTACCHI DI PANICO",
       "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -1369,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "DSA",
+        "url": "https://open.spotify.com/album/48RJvbN06TJpCVFXUB3tra"
+      },
+      "artists": [
+        {
+          "name": "Miriah",
+          "url": "https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199183,
+      "name": "DSA",
+      "url": "https://open.spotify.com/track/14aXUJEa4EheDKr007CxAh"
+    },
+    {
+      "album": {
         "name": "muschio",
         "url": "https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy"
       },
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 162474,
       "name": "Equilibrista",
       "url": "https://open.spotify.com/track/7ugXe2KFUEKrsqIHVhShCC"
@@ -1669,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "FESTA",
+        "url": "https://open.spotify.com/album/64jsstCeblWt2W0yzvCrlP"
+      },
+      "artists": [
+        {
+          "name": "Iperiixo",
+          "url": "https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133160,
+      "name": "FESTA",
+      "url": "https://open.spotify.com/track/40mtBbIeH9h5rBjZ7q2loe"
+    },
+    {
+      "album": {
         "name": "DUMBA",
         "url": "https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO"
       },
@@ -1734,7 +1788,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 169263,
       "name": "fiori vivi",
       "url": "https://open.spotify.com/track/4E5mwQfZfEgxoV10EpiD1l"
@@ -2033,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Basta sia fuori citt\u00e0",
+        "url": "https://open.spotify.com/album/5kj2O4rtAe7nzG8GGhegxL"
+      },
+      "artists": [
+        {
+          "name": "LUCA COI BAFFI",
+          "url": "https://open.spotify.com/artist/4jgd5YpdZ2RmSZsHqlX2J0"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Hiroshima",
+      "url": "https://open.spotify.com/track/57MhBn4rKKZGooyVbW3owR"
+    },
+    {
+      "album": {
         "name": "i miei fiumi",
         "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
@@ -2070,6 +2142,24 @@
       "duration_ms": 152117,
       "name": "I mostri sotto al letto",
       "url": "https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP"
+    },
+    {
+      "album": {
+        "name": "IL CANTANTE DEGLI AC/DC",
+        "url": "https://open.spotify.com/album/181lyK2B2I3iJctlmREa8f"
+      },
+      "artists": [
+        {
+          "name": "DIEZ",
+          "url": "https://open.spotify.com/artist/5xBP6PkR1p6olhDo2Mg4Vy"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234790,
+      "name": "IL CANTANTE DEGLI AC/DC",
+      "url": "https://open.spotify.com/track/6A17gsZDX2JpGDQvgNFZae"
     },
     {
       "album": {
@@ -2164,6 +2254,24 @@
       "duration_ms": 161632,
       "name": "insonnia",
       "url": "https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK"
+    },
+    {
+      "album": {
+        "name": "io fotografo i miei amici",
+        "url": "https://open.spotify.com/album/7zfNvN6DiGe6hlCJx8kRny"
+      },
+      "artists": [
+        {
+          "name": "RIP",
+          "url": "https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "io fotografo i miei amici",
+      "url": "https://open.spotify.com/track/6kNX91Tg8gkUB68TylGemI"
     },
     {
       "album": {
@@ -2459,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Litorale veneto",
+        "url": "https://open.spotify.com/album/3tOplRFgue62gMb3S06ys0"
+      },
+      "artists": [
+        {
+          "name": "Bordoluna",
+          "url": "https://open.spotify.com/artist/1jGUIzgQgepOORubWNkMuq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104250,
+      "name": "Litorale veneto",
+      "url": "https://open.spotify.com/track/1LcRRuB3KkWePYqZL97GFo"
+    },
+    {
+      "album": {
         "name": "LO FAR\u00d2 DOMANI",
         "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
       },
@@ -2492,7 +2618,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 162000,
       "name": "LONTANO DA TUTTO",
       "url": "https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx"
@@ -2626,6 +2752,24 @@
       "duration_ms": 150259,
       "name": "Mai",
       "url": "https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2"
+    },
+    {
+      "album": {
+        "name": "Olio Essenziale",
+        "url": "https://open.spotify.com/album/3EWRqv2BBr74Zezz2JzraW"
+      },
+      "artists": [
+        {
+          "name": "Sbazzee",
+          "url": "https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163904,
+      "name": "mai stata tua mai",
+      "url": "https://open.spotify.com/track/10tFKQAsQYGSzIN8mAUifV"
     },
     {
       "album": {
@@ -3140,6 +3284,24 @@
       "duration_ms": 160291,
       "name": "Non ci penso",
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "album": {
+        "name": "Non ci sei",
+        "url": "https://open.spotify.com/album/3AxtUxrBmd8akuBkt518Oz"
+      },
+      "artists": [
+        {
+          "name": "Monviso",
+          "url": "https://open.spotify.com/artist/7FOurawpFY4w2iHMlnnICd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Non ci sei",
+      "url": "https://open.spotify.com/track/2jUXlrAUWmEAhxEWuxZnJG"
     },
     {
       "album": {
@@ -4330,7 +4492,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 233314,
       "name": "Semisconosciuti",
       "url": "https://open.spotify.com/track/5Il2AawB6pNota6d5EdcIG"
@@ -4897,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "TUTTO DA RI-FA-RE",
+        "url": "https://open.spotify.com/album/7rhBFU7QPJBqb3frCCnSyc"
+      },
+      "artists": [
+        {
+          "name": "Bidi Blanca",
+          "url": "https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y"
+        },
+        {
+          "name": "Gamete",
+          "url": "https://open.spotify.com/artist/739CbVQFJ5RyGCE46uIAWI"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181922,
+      "name": "TUTTO DA RI-FA-RE",
+      "url": "https://open.spotify.com/track/5O1l4RiyihOVRGFtbHl7yA"
+    },
+    {
+      "album": {
         "name": "tuttoaposto",
         "url": "https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA"
       },
@@ -5228,6 +5412,24 @@
       "duration_ms": 184583,
       "name": "Ventenne",
       "url": "https://open.spotify.com/track/3vD9Sbix6pQV7wsXZ3iXgj"
+    },
+    {
+      "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/0pM6raVFzBjo3RiR59HMzK"
+      },
+      "artists": [
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/7wN7QBM8EzKCo3PJF9Z5jP"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/5WpZebnZvP7G9BJDbe2tTY"
     },
     {
       "album": {

@@ -1469,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+        "url": "https://open.spotify.com/album/246GiDyhnuAT1egntweX0C"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/07hgKpcOTS8SVxxcYx7BVQ"
+    },
+    {
+      "album": {
         "name": "NEVER NEED (feat. Selfpaid Savage)",
         "url": "https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b"
       },

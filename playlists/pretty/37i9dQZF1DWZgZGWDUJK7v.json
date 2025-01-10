@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Solo Leveling(LiSA, Felix of Stray Kids)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: \ub098 \ud63c\uc790\ub9cc \ub808\ubca8\uc5c5(LiSA, Felix of Stray Kids))",
-  "num_followers": 93185,
+  "num_followers": 94445,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -647,38 +647,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
-        "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
-        "url": "https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5"
-      },
-      "artists": [
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
-      "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -699,6 +667,22 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
+        "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
+        "url": "https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
+      "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
         "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
         "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 228720,
       "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
         "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
         "name": "Better for Me (Nth Romance X MeloMance)",
         "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
-        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Choi from Yanbian",
-          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Like the Wind Didn\u2019t Blow",
-      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -935,6 +919,22 @@
       "duration_ms": 222207,
       "name": "LETTER (True Beauty X VIINI)",
       "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Choi from Yanbian",
+          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Like the Wind Didn\u2019t Blow",
+      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Webtoon YeonNom OST Part.4",
-        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "I'm into you, I mean Love you",
-      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187853,
       "name": "Love me Again",
       "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Webtoon YeonNom OST Part.4",
+        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "I'm into you, I mean Love you",
+      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1251,6 +1251,38 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
+        "name": "Naver Webtoon Nano Machine OST Part. 1",
+        "url": "https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Moonlit Nights",
+      "url": "https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+        "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+      "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
         "name": "Your Day (Romance 101 X Loco)",
         "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
       },
@@ -1279,38 +1311,6 @@
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
-        "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
-        "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
-      "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
-        "name": "Naver Webtoon Nano Machine OST Part. 1",
-        "url": "https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2"
-      },
-      "artists": [
-        {
-          "name": "YOARI",
-          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Moonlit Nights",
-      "url": "https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+        "name": "I'll talk to you (The Moon during the Day X Gummy)",
+        "url": "https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2"
       },
       "artists": [
         {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+      "duration_ms": 231120,
+      "name": "I'll talk to you (The Moon during the Day X Gummy)",
+      "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "I'll talk to you (The Moon during the Day X Gummy)",
-        "url": "https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
       "artists": [
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
         }
       ],
-      "duration_ms": 231120,
-      "name": "I'll talk to you (The Moon during the Day X Gummy)",
-      "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2025-01-09 01:41:37",

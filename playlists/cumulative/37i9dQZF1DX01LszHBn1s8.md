@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> jinx<3
+> remember old dude from 2019?
 
-1,558 songs - 3 day 10 hr 5 min
+1,559 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [KJØPE HELE SVERIGE](https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [KJØPE HELE SVERIGE](https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6) | 1:57 | 2022-07-22 | 2023-01-06 |
 | [Know Yourself](https://open.spotify.com/track/5InOp6q2vvx0fShv3bzFLZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:35 | 2022-05-19 | 2022-10-07 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-07-22 | 2025-01-08 |
+| [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 | 2025-01-09 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-23 | 2025-01-08 |
 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-03-25 |  |
 | [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 | 2024-04-04 | 2024-04-19 |

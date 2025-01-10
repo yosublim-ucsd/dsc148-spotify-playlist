@@ -5,6 +5,90 @@
   "tracks": [
     {
       "album": {
+        "name": "#LikeKanye - Single",
+        "url": "https://open.spotify.com/album/4tfU07qg62f6QGh0EpjCiw"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227683,
+      "name": "#LikeKanye",
+      "url": "https://open.spotify.com/track/0PyuelPdpOckbGQwg4cwbs"
+    },
+    {
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3etMIrphuPTdPOAFWune5i"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150606,
+      "name": "1 of 1",
+      "url": "https://open.spotify.com/track/72O33pptTabvp2zApzOge6"
+    },
+    {
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Kiara Leche",
+          "url": "https://open.spotify.com/artist/1AtbERuZLZMe0CHgZgFa3Z"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Adam & Eve (feat. Kiara Leche)",
+      "url": "https://open.spotify.com/track/1D1IkhlZQr7PTTYOyNWwpw"
+    },
+    {
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Drey Skonie",
+          "url": "https://open.spotify.com/artist/2MxwmLuBUlFWMXki2TIUGU"
+        },
+        {
+          "name": "Prada Leary",
+          "url": "https://open.spotify.com/artist/5NY4BED9bXS9TB0Y3ITB8j"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Adrenaline (feat. Drey Skonie & Prada Leary)",
+      "url": "https://open.spotify.com/track/5QHwVpC4XPegdqD3pgUKL0"
+    },
+    {
+      "album": {
         "name": "BIG MF",
         "url": "https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b"
       },
@@ -82,6 +166,28 @@
       "duration_ms": 224119,
       "name": "B*tch From Da Souf (Remix) (feat. Trina)",
       "url": "https://open.spotify.com/track/39GH3B0XsTd4SsqT7DJijs"
+    },
+    {
+      "album": {
+        "name": "337 - EP",
+        "url": "https://open.spotify.com/album/20xuKzdKmt6Y9uTxdoSTla"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191268,
+      "name": "Back Doe",
+      "url": "https://open.spotify.com/track/4hLajqqaUVwE3xESGsMd2F"
     },
     {
       "album": {
@@ -591,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Gem In Eye (feat. Daz Dillinger) - Single",
+        "url": "https://open.spotify.com/album/3aHdZUBqFaUHhLG4RrN4Nf"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164911,
+      "name": "Gem In Eye",
+      "url": "https://open.spotify.com/track/2koaO0Gmm39zgb8xOq91WU"
+    },
+    {
+      "album": {
         "name": "God Knows",
         "url": "https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd"
       },
@@ -676,6 +804,28 @@
       "duration_ms": 258112,
       "name": "Guard Your Heart (feat. Anderson .Paak, Earlly Mac, and Wale)",
       "url": "https://open.spotify.com/track/7LYgVPxRvlN7OavmyrnOGe"
+    },
+    {
+      "album": {
+        "name": "337 - EP",
+        "url": "https://open.spotify.com/album/20xuKzdKmt6Y9uTxdoSTla"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71099,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/2BgXPCafGJ1EzPxckyLhdz"
     },
     {
       "album": {
@@ -858,6 +1008,28 @@
       "duration_ms": 212046,
       "name": "Jesus Saves",
       "url": "https://open.spotify.com/track/12QhBpYgyO3llIRC0WHTkq"
+    },
+    {
+      "album": {
+        "name": "337 - EP",
+        "url": "https://open.spotify.com/album/20xuKzdKmt6Y9uTxdoSTla"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159525,
+      "name": "Jus Say It",
+      "url": "https://open.spotify.com/track/48RF7IcpdEJX4wJnXkgStw"
     },
     {
       "album": {
@@ -1441,6 +1613,32 @@
     },
     {
       "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/4aRoNXgve5X7b6jJmbVdpp"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "ATG Productions",
+          "url": "https://open.spotify.com/artist/37tHxdawfBSAiQmUqnSmYu"
+        },
+        {
+          "name": "Imbunlee",
+          "url": "https://open.spotify.com/artist/1FTeAgyTkLfCTXJyDMenPr"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/2kOc0iTyTUgIHSPGJzGOHB"
+    },
+    {
+      "album": {
         "name": "HE CRAZY",
         "url": "https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG"
       },
@@ -1599,6 +1797,28 @@
     },
     {
       "album": {
+        "name": "Room 4 U (feat. Jay IDK) - Single",
+        "url": "https://open.spotify.com/album/2U2bc8doB63sXWA8e7OCC3"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184581,
+      "name": "Room 4 U",
+      "url": "https://open.spotify.com/track/2LvL21KmvEYAVfeJpKPrvP"
+    },
+    {
+      "album": {
         "name": "F.U.N.",
         "url": "https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV"
       },
@@ -1636,6 +1856,28 @@
       "duration_ms": 243931,
       "name": "Something Crazy (feat. Sebastian Mikael)",
       "url": "https://open.spotify.com/track/7ivfNdjYZPVRlhhzui8sOe"
+    },
+    {
+      "album": {
+        "name": "337 - EP",
+        "url": "https://open.spotify.com/album/20xuKzdKmt6Y9uTxdoSTla"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114122,
+      "name": "Spend",
+      "url": "https://open.spotify.com/track/6tC0xWf8ypv7gNE9oMA4N0"
     },
     {
       "album": {

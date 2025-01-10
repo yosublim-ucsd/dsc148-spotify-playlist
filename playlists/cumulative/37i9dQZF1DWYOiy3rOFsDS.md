@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Yami Safdie y Lasso en portada.
 
-321 songs - 18 hr 38 min
+322 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [No me reproches](https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Lo esencial de Orígenes: El Bolero](https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ) | 2:54 | 2021-10-16 | 2025-01-04 |
 | [No Me Vuelves Loco](https://open.spotify.com/track/6t5xSymdyuMDgmJuMKw8PQ) | [Cine Mudo](https://open.spotify.com/artist/7ewKI73b6pZJ14kALAPUmN) | [No Me Vuelves Loco](https://open.spotify.com/album/5EOgUfFGzJRGFZrvN5gqo5) | 2:58 | 2024-09-27 | 2024-10-12 |
 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 | 2021-10-16 |  |
+| [No Más Canciones Tristes \(Versión acústica\)](https://open.spotify.com/track/2MvnMJvH1VaeMilOmF9pJg) | [Daniel Cros](https://open.spotify.com/artist/2EBnlu2fEvZOfOIAnv7TUQ), [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [No Más Canciones Tristes \(Versión acústica\)](https://open.spotify.com/album/3YNSGC0c0562jzRIaXZo74) | 3:28 | 2025-01-09 |  |
 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 | 2021-10-16 | 2025-01-07 |
 | [No Respondo Pt\. 2](https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [No Respondo Pt\. 2](https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2) | 4:08 | 2023-08-25 | 2023-11-14 |
 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 | 2021-10-29 | 2022-07-29 |
@@ -212,7 +213,7 @@
 | [Paciencia](https://open.spotify.com/track/2HvrhLyKM6RSGS15h9Djht) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Paciencia](https://open.spotify.com/album/4sU7XUGSTMc5w9lmRq4pcR) | 2:14 | 2021-10-16 | 2022-04-20 |
 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 | 2021-10-16 |  |
 | [Palabras De Mujer](https://open.spotify.com/track/6dOuoQHcMfVum7s33Cj5u1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:30 | 2021-10-16 | 2022-07-23 |
-| [Para no odiarte](https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Para no odiarte](https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w) | 3:49 | 2024-10-25 |  |
+| [Para no odiarte](https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Para no odiarte](https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w) | 3:49 | 2024-10-25 | 2025-01-10 |
 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 | 2023-03-17 |  |
 | [Para Que Pides Perdon \(Bonus Track\)](https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 3:29 | 2022-01-11 |  |
 | [Para Que Pides Perdon \- Bonus Track](https://open.spotify.com/track/1mL823LB8IlMK8KBSPRZkm) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Para Que Pides Perdon](https://open.spotify.com/album/2btjmvJe3CoX86yMNvIaBx) | 3:29 | 2021-10-16 | 2022-07-23 |

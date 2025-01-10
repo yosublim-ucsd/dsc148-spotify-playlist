@@ -1,12 +1,12 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
-  "num_followers": 1414383,
+  "num_followers": 1414748,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ErFgAAAABvZK50AltHtQj3uKt4/48t",
+  "snapshot_id": "Z3+FEQAAAABby+8lTpYC40mOD3NIBmg7",
   "tracks": [
     {
       "added_at": "2024-12-13 05:00:42",
@@ -23,6 +23,26 @@
       "duration_ms": 148810,
       "name": "Walkin On Water",
       "url": "https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg"
+    },
+    {
+      "added_at": "2025-01-09 08:13:05",
+      "album": {
+        "name": "ReawakeR (feat. Felix of Stray Kids)",
+        "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        },
+        {
+          "name": "Felix of Stray Kids",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        }
+      ],
+      "duration_ms": 184993,
+      "name": "ReawakeR (feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
     },
     {
       "added_at": "2024-12-17 07:41:10",

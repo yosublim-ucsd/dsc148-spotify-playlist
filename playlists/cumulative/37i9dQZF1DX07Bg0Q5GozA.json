@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: David Bay, Mulay",
+  "description": "New music off the beaten track. Cover: Polo & Pan, Metronomy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 279921,
       "name": "Clear Lake",
       "url": "https://open.spotify.com/track/1qWOzIoIiM1Wkyz7azd7AP"
@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 214187,
       "name": "Dance on the World",
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
@@ -4118,6 +4118,28 @@
       "duration_ms": 166125,
       "name": "Disco Dangerous",
       "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
+    },
+    {
+      "album": {
+        "name": "Disco Nap",
+        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Disco Nap",
+      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "album": {
@@ -6317,6 +6339,28 @@
     },
     {
       "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/0NcLoEqaWVkA6uhGca9pZB"
+      },
+      "artists": [
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        },
+        {
+          "name": "robrobrob",
+          "url": "https://open.spotify.com/artist/7D7PELaOpXuUjEIX2Elkc2"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229551,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/3HyGsn7ttfhDCkrSd35Qre"
+    },
+    {
+      "album": {
         "name": "Fountains",
         "url": "https://open.spotify.com/album/5AXUjAAmv87IyPUNSUgjvY"
       },
@@ -7380,6 +7424,28 @@
       "duration_ms": 500063,
       "name": "Hello Echo",
       "url": "https://open.spotify.com/track/58lrRLt4Unnb2PYtu6n1Xl"
+    },
+    {
+      "album": {
+        "name": "Her Smile",
+        "url": "https://open.spotify.com/album/2uCbCrTpSyJOoHKktx7BRO"
+      },
+      "artists": [
+        {
+          "name": "Boy Amor",
+          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
+        },
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156525,
+      "name": "Her Smile",
+      "url": "https://open.spotify.com/track/5Acpz4zh7hOGQHi91HvrYJ"
     },
     {
       "album": {
@@ -8488,6 +8554,24 @@
       "duration_ms": 215789,
       "name": "I Missed You Too",
       "url": "https://open.spotify.com/track/4o2c5swMPdirnnahplyswy"
+    },
+    {
+      "album": {
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161184,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
     },
     {
       "album": {
@@ -10790,6 +10874,32 @@
       "duration_ms": 332213,
       "name": "LordHenry",
       "url": "https://open.spotify.com/track/7dEFIvrudJoPhrzWSYgCJX"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     },
     {
       "album": {
@@ -17050,7 +17160,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153005,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
@@ -17392,7 +17502,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 212059,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/6q3CHqrpj1xhACjwolpLWs"
@@ -20134,7 +20244,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 291506,
       "name": "x-ray eyes",
       "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"

@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 642225,
+  "num_followers": 642274,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1289,6 +1289,30 @@
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Snus (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Snus - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Horny",
@@ -1329,30 +1353,6 @@
       "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Snus (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Snus - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
-    },
-    {
       "added_at": "2024-11-01 05:19:33",
       "album": {
         "name": "Percolator (Chris Lake & Bontan Remixes)",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "See You Sweat",
@@ -1407,6 +1391,22 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+    },
+    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Bump Artist EP",
@@ -1531,22 +1547,6 @@
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -1645,38 +1645,6 @@
       "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Get Stupid",
-        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Get Stupid",
-      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Out Of My Head",
@@ -1697,6 +1665,22 @@
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Get Stupid",
+        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Get Stupid",
+      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Vibrate / On The Ground",
@@ -1715,6 +1699,22 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1797,20 +1797,20 @@
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Monaco EP",
-        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
       "artists": [
         {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 200307,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1833,22 +1833,6 @@
       "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "GETAWAY",
@@ -1867,6 +1851,22 @@
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1949,6 +1949,26 @@
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Jet Setter",
+        "url": "https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Yeah Boy",
+          "url": "https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au"
+        }
+      ],
+      "duration_ms": 174890,
+      "name": "Jet Setter",
+      "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Beverly Hills",
@@ -1969,24 +1989,20 @@
       "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Jet Setter",
-        "url": "https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U"
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Yeah Boy",
-          "url": "https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 174890,
-      "name": "Jet Setter",
-      "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2035,22 +2051,6 @@
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2137,22 +2137,6 @@
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Selecta",
@@ -2167,6 +2151,22 @@
       "duration_ms": 155156,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2193,6 +2193,22 @@
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+    },
+    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Rockstar",
@@ -2211,22 +2227,6 @@
       "duration_ms": 151874,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Carry Out",
-        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Carry Out",
-      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2381,20 +2381,28 @@
       "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
-        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+        "name": "COPY ME",
+        "url": "https://open.spotify.com/album/05vj36c9zDX5pDwmEn7DPe"
       },
       "artists": [
         {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "Nao Kawamura",
+          "url": "https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2"
+        },
+        {
+          "name": "Anne Futagami",
+          "url": "https://open.spotify.com/artist/30o8SxkhhVXJbqfuz8stn7"
         }
       ],
-      "duration_ms": 215192,
-      "name": "Freaky Feed Me",
-      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
+      "duration_ms": 267605,
+      "name": "COPY ME",
+      "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
     }
   ],
   "unique_name": "Tech House Operator",

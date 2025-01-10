@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 292344,
       "name": "Alpha In The Night Sky 84Hz - 91Hz",
       "url": "https://open.spotify.com/track/5XYrcHh7I6wfCUpApuiEL5"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 192666,
       "name": "Alpha Night (106Hz - 114Hz)",
       "url": "https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Alpha Soul 110Hz-117Hz",
+        "url": "https://open.spotify.com/album/4YjMfEPxaQU0IS639Is41l"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136059,
+      "name": "Alpha Soul 110Hz-117Hz",
+      "url": "https://open.spotify.com/track/5VWZzxo0AaWEimfWq6zW5E"
+    },
+    {
+      "album": {
         "name": "Mind States",
         "url": "https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 219524,
       "name": "Beyond Gravity (Alpha Drone L172Hz R180Hz)",
       "url": "https://open.spotify.com/track/6ZPGiH0YlWSYmtf7W0I0xI"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 206608,
       "name": "Binaural Alpha Sinus 100 Hz - 108 Hz",
       "url": "https://open.spotify.com/track/4m9mcrSgs6uJk8ddws1Yz7"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 207700,
       "name": "Binaural Alpha Sinus 261Hz - 269Hz",
       "url": "https://open.spotify.com/track/1CGHJZyxSziR59eDNG5aUg"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 159000,
       "name": "Binaural Alpha Waves 108-116 Hz",
       "url": "https://open.spotify.com/track/7dPegwgK43yPSVTiVpCKD2"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 166000,
       "name": "Binaural Alpha Waves 115-123 Hz",
       "url": "https://open.spotify.com/track/1bxEgN5mwFU3qKBxJCirYw"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 222000,
       "name": "Binaural Bath (Alpha)",
       "url": "https://open.spotify.com/track/2eToU4GC23Joq8IW7ZHqlv"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 218092,
       "name": "B\u00fbche Creuse",
       "url": "https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 167418,
       "name": "Creative State of Mind - Alpha Sinus 102Hz - 109Hz",
       "url": "https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ"
@@ -1856,6 +1874,24 @@
       "duration_ms": 225982,
       "name": "Focused Mind - Alpha 154Hz - 161Hz",
       "url": "https://open.spotify.com/track/0yYhK3Sq3aBcaLrKID4Gxu"
+    },
+    {
+      "album": {
+        "name": "forest of sun & lost lakes (binaural alpha)",
+        "url": "https://open.spotify.com/album/3pkxq2RxWJ1fiAybfm6uu8"
+      },
+      "artists": [
+        {
+          "name": "golden voyager",
+          "url": "https://open.spotify.com/artist/6noA1Q3BQPV4KMIB10iTQe"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189953,
+      "name": "forest of sun (Alpha 110 - 122 Hz)",
+      "url": "https://open.spotify.com/track/3DjXbleUnCkwtrHMxA21D6"
     },
     {
       "album": {
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 215635,
       "name": "Open Spaces - Alpha Sinus 117Hz - 124Hz",
       "url": "https://open.spotify.com/track/2dThqaC8wrCy5iFEaJ2iyM"
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 177341,
       "name": "Positive Alpha Waves 55Hz - 65.4Hz",
       "url": "https://open.spotify.com/track/04bLoTij9P3BOSp9rrq6LN"
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 125753,
       "name": "Relaxed Flow Alpha 8Hz",
       "url": "https://open.spotify.com/track/3CZ6xE0YWhxwNZub2wVK3h"
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 226750,
       "name": "Romeo Alpha 129Hz-141Hz",
       "url": "https://open.spotify.com/track/7ldDlAZncstk9v14rUWzgN"
@@ -2486,6 +2522,24 @@
       "duration_ms": 155874,
       "name": "Shaant Prayog Alpha 74Hz - 82Hz",
       "url": "https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5"
+    },
+    {
+      "album": {
+        "name": "Silent Presence (Binaural Alpha 93.7 Hz - 85.7 Hz)",
+        "url": "https://open.spotify.com/album/3WB3uTSe525ePD2hnKO96I"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246798,
+      "name": "Silent Presence (Binaural Alpha 93.7 Hz - 85.7 Hz)",
+      "url": "https://open.spotify.com/track/5xm4YHlyEDmE6f37pGOY7p"
     },
     {
       "album": {
@@ -2626,7 +2680,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 262965,
       "name": "Stimulus - Alpha sinus 95 - 100hz",
       "url": "https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5"

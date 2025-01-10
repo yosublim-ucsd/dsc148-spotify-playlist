@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-238 songs - 11 hr 51 min
+239 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [PROCESS](https://open.spotify.com/track/3AaFwooS6oMDJZfHqnL9aX) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:38 | 2023-07-31 | 2024-01-06 |
 | [Pull Up](https://open.spotify.com/track/3wCtifICYXojhVPSYUkR7O) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Pull Up](https://open.spotify.com/album/247lhJLI8NgHu9Kk00V2ec) | 3:21 | 2024-09-06 | 2024-11-07 |
 | [Punjab](https://open.spotify.com/track/1inAjXPJ74BrbYnqrkN1oy) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Punjab](https://open.spotify.com/album/3x0dWg7gNfDbFmuxok0FVg) | 2:16 | 2024-12-23 |  |
+| [Punjab Side](https://open.spotify.com/track/2iYo0ZV94uTjcTvnILatmf) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Punjab Side](https://open.spotify.com/album/3J3fbc0gObeq2U7UlBblSo) | 3:14 | 2025-01-09 |  |
 | [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 | 2024-04-11 |
 | [Rap God](https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Handles Tdnb](https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:23 | 2024-08-26 | 2024-10-25 |
 | [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 | 2024-05-17 |
@@ -209,7 +210,7 @@
 | [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 | 2025-01-04 |  |
 | [Slap Up](https://open.spotify.com/track/2jkMN5p1mVqfkCbtuQTcZx) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bandzo3rd](https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:46 | 2024-03-26 | 2024-08-10 |
 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 | 2024-11-20 |  |
-| [Source Of Light](https://open.spotify.com/track/3Gy1BKyruuLXV0lZq8BchU) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Source Of Light](https://open.spotify.com/album/3Hb8OXJtMbc1JEtynaTDRO) | 2:30 | 2024-12-09 |  |
+| [Source Of Light](https://open.spotify.com/track/3Gy1BKyruuLXV0lZq8BchU) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Source Of Light](https://open.spotify.com/album/3Hb8OXJtMbc1JEtynaTDRO) | 2:30 | 2024-12-09 | 2025-01-10 |
 | [Spirit](https://open.spotify.com/track/0tN1d8Yc0BpSWI3EbhBlyS) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1) | [Spirit](https://open.spotify.com/album/2F37zRV0Yl5jGlmMSBtAbp) | 2:19 | 2024-04-01 | 2024-07-19 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-06-23 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-11-13 |

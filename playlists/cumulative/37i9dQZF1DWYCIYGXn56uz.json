@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: ANTONIA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Ilan",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 169476,
       "name": "3 Metri Sopra Il Cielo",
       "url": "https://open.spotify.com/track/4nrB8mq4yLFIq7aQ5JmP6x"
+    },
+    {
+      "album": {
+        "name": "3/4 di gin",
+        "url": "https://open.spotify.com/album/25sikafWx9ecDA8Bkf9TRX"
+      },
+      "artists": [
+        {
+          "name": "Diego Stray",
+          "url": "https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197624,
+      "name": "3/4 di gin",
+      "url": "https://open.spotify.com/track/2xMHGR94FGc1coNn3vEaCG"
     },
     {
       "album": {
@@ -1549,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "CANTILENE",
+        "url": "https://open.spotify.com/album/4zvIEieWH3VhSL9iNE2g22"
+      },
+      "artists": [
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR"
+        },
+        {
+          "name": "Jeson",
+          "url": "https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181121,
+      "name": "CANTILENE",
+      "url": "https://open.spotify.com/track/1KmISb2odvPrxQIoU3htOm"
+    },
+    {
+      "album": {
         "name": "CANZONI TRISTI",
         "url": "https://open.spotify.com/album/7mY0E03mCwewk6njZREUna"
       },
@@ -2862,7 +2902,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149191,
       "name": "dormirai.",
       "url": "https://open.spotify.com/track/4oO7QcBjW8EvDOvTl6rmLE"
@@ -3472,7 +3512,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 190645,
       "name": "Finta Nostalgia",
       "url": "https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn"
@@ -3664,10 +3704,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 153000,
       "name": "GABBIA",
       "url": "https://open.spotify.com/track/770BhoCEPO3hYMcPimc7gd"
+    },
+    {
+      "album": {
+        "name": "gazzelle",
+        "url": "https://open.spotify.com/album/3KqWIQgm1RcpT6Smf0QJJ9"
+      },
+      "artists": [
+        {
+          "name": "Luca Land",
+          "url": "https://open.spotify.com/artist/2jm1zVWOscdOBrRNhntmdp"
+        },
+        {
+          "name": "Whellele",
+          "url": "https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158531,
+      "name": "gazzelle",
+      "url": "https://open.spotify.com/track/0Zn7wPg8aImvsjsXWggu7x"
     },
     {
       "album": {
@@ -6886,7 +6948,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 180964,
       "name": "Nuvola",
       "url": "https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw"
@@ -7534,7 +7596,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 156189,
       "name": "PER UN ATTIMO CON TE",
       "url": "https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI"
@@ -7952,6 +8014,24 @@
       "duration_ms": 160600,
       "name": "POV",
       "url": "https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS"
+    },
+    {
+      "album": {
+        "name": "PRENDIMI SUL SERIO",
+        "url": "https://open.spotify.com/album/78nO6ACHfr4wUeQ7CWTZM2"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166235,
+      "name": "PRENDIMI SUL SERIO",
+      "url": "https://open.spotify.com/track/2YlLUCCb81p0ni1GMkgCxu"
     },
     {
       "album": {
@@ -9857,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "TAVOLE DI RORSCHACH",
+        "url": "https://open.spotify.com/album/1Hqlak6slSABP5doTsTEIw"
+      },
+      "artists": [
+        {
+          "name": "Liner",
+          "url": "https://open.spotify.com/artist/0KiYzTu5Ag1zzsKccOgA0c"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132371,
+      "name": "TAVOLE DI RORSCHACH",
+      "url": "https://open.spotify.com/track/3UPaUZpcPX0wpL88Bjus0n"
+    },
+    {
+      "album": {
         "name": "TEMPO (all the things she said)",
         "url": "https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI"
       },
@@ -9918,6 +10016,10 @@
         {
           "name": "TOMMY DALI",
           "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
+        },
+        {
+          "name": "Joe Viegas",
+          "url": "https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ"
         }
       ],
       "date_added": "2024-12-05",

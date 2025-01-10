@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 23628,
+  "num_followers": 23641,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -435,30 +435,6 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
-        "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
-        "url": "https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        },
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "SKRYU",
-          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
-      "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
         "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
         "url": "https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 225778,
       "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
+        "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 (feat. SKRYU) [Remix]",
+        "url": "https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "SKRYU",
+          "url": "https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
+      "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
     },
     {
       "added_at": "2025-01-08 09:52:14",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 222934,
+      "name": "My Red Little Fox",
+      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
         "name": "wizard",
         "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 286000,
       "name": "SNOW SOUND",
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 222934,
-      "name": "My Red Little Fox",
-      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
     },
     {
       "added_at": "2025-01-08 09:52:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4"
-      },
-      "artists": [
-        {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
         "name": "\u3055\u3059\u3089\u3044",
         "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 206200,
       "name": "\u3055\u3059\u3089\u3044",
       "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
     },
     {
       "added_at": "2025-01-08 09:52:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
-        "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
-        "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
-      "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 226125,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
+        "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+        "url": "https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
+      "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
     },
     {
       "added_at": "2025-01-08 09:52:14",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
-        "name": "hug",
-        "url": "https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 229655,
-      "name": "hug",
-      "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
         "name": "\u00datdautt lag",
         "url": "https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 220403,
       "name": "\u00datdautt lag",
       "url": "https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
+        "name": "hug",
+        "url": "https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 229655,
+      "name": "hug",
+      "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
     },
     {
       "added_at": "2025-01-08 09:52:14",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-01-08 09:52:14",
       "album": {
-        "name": "LOST AND FOUND",
-        "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
-      },
-      "artists": [
-        {
-          "name": "Ryoko Moriyama",
-          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
-        }
-      ],
-      "duration_ms": 451506,
-      "name": "LOST AND FOUND",
-      "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
-    },
-    {
-      "added_at": "2025-01-08 09:52:14",
-      "album": {
         "name": "tender",
         "url": "https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 261638,
       "name": "Origami Song",
       "url": "https://open.spotify.com/track/20jLunM1GMasrScNWN45mP"
+    },
+    {
+      "added_at": "2025-01-08 09:52:14",
+      "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "duration_ms": 451506,
+      "name": "LOST AND FOUND",
+      "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
     },
     {
       "added_at": "2025-01-08 09:52:14",

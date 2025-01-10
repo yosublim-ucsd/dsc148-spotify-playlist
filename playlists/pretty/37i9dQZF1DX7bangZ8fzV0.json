@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=tG4MaeqATyy99sieyrV6dQ\">Riaan Benad\u00e9</a> ",
-  "num_followers": 118782,
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=8Eo243HgQxK-GWWPjOzeLg\">JAN JAN JAN</a> ",
+  "num_followers": 118858,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cMhQAAAAAmBlxeyi5xK86jvXu0OEvi",
+  "snapshot_id": "Z4BG+wAAAAC8qhByWlBbBiB3xqYldmCM",
   "tracks": [
+    {
+      "added_at": "2025-01-02 22:00:37",
+      "album": {
+        "name": "Lippe teen die Klippe",
+        "url": "https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 194377,
+      "name": "Lippe teen die Klippe",
+      "url": "https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r"
+    },
     {
       "added_at": "2025-01-02 22:00:37",
       "album": {
@@ -159,22 +175,6 @@
     {
       "added_at": "2025-01-02 22:00:37",
       "album": {
-        "name": "Nou Raak Dit Lekker",
-        "url": "https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        }
-      ],
-      "duration_ms": 182395,
-      "name": "Nou Raak Dit Lekker",
-      "url": "https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16"
-    },
-    {
-      "added_at": "2025-01-02 22:00:37",
-      "album": {
         "name": "Trek Hom Plat",
         "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
       },
@@ -191,6 +191,22 @@
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2025-01-02 22:00:37",
+      "album": {
+        "name": "Nou Raak Dit Lekker",
+        "url": "https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        }
+      ],
+      "duration_ms": 182395,
+      "name": "Nou Raak Dit Lekker",
+      "url": "https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16"
     },
     {
       "added_at": "2025-01-02 22:00:37",
@@ -223,22 +239,6 @@
       "duration_ms": 207500,
       "name": "Jou Tipe Boer",
       "url": "https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x"
-    },
-    {
-      "added_at": "2025-01-02 22:00:37",
-      "album": {
-        "name": "Lippe teen die Klippe",
-        "url": "https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q"
-      },
-      "artists": [
-        {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
-        }
-      ],
-      "duration_ms": 194377,
-      "name": "Lippe teen die Klippe",
-      "url": "https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r"
     },
     {
       "added_at": "2025-01-02 22:00:37",

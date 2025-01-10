@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Killen.",
-  "num_followers": 507727,
+  "num_followers": 507792,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "I Was Made For Lovin' You",
+        "url": "https://open.spotify.com/album/0GZsv8iYqVqDIDK4Zr8qyg"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 179209,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/1OYKOmLoDZEm2FXQjb9rlB"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "Forever Young (feat. Ava Max) [A7S Remix]",
         "url": "https://open.spotify.com/album/0zi8II5T5liaBNcvHloffj"
       },
@@ -459,42 +479,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "I Was Made For Lovin' You",
-        "url": "https://open.spotify.com/album/0GZsv8iYqVqDIDK4Zr8qyg"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 179209,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/1OYKOmLoDZEm2FXQjb9rlB"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
-      },
-      "artists": [
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "New Energy",
-      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Moonlight Shadow",
         "url": "https://open.spotify.com/album/03slUqauQYHUPc7bkbZzDC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 124700,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/57kHa2ioHmY2RXsn2AChiX"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Message In A Bottle",
-        "url": "https://open.spotify.com/album/2WtwsiYM31qchDSuZbBzq4"
-      },
-      "artists": [
-        {
-          "name": "Roman Messer",
-          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
-        }
-      ],
-      "duration_ms": 218260,
-      "name": "Message in a Bottle",
-      "url": "https://open.spotify.com/track/0IO6gTSIOpOUpKJ3hEup1v"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Dolce Vita (with Groove Crackers)",
         "url": "https://open.spotify.com/album/0htw7GtQaBD4X3dQyPxMrO"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Message In A Bottle",
+        "url": "https://open.spotify.com/album/2WtwsiYM31qchDSuZbBzq4"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        }
+      ],
+      "duration_ms": 218260,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/0IO6gTSIOpOUpKJ3hEup1v"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "U (Remixes)",
         "url": "https://open.spotify.com/album/6c5FsWPH0iGnMoTJtMwoBr"
       },
@@ -623,6 +623,46 @@
       "duration_ms": 225985,
       "name": "U - Mura Masa Remix",
       "url": "https://open.spotify.com/track/2bPLo7PvlUlZCYBPcNAgLc"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5FN5EogNLlecas66RVD22U"
+      },
+      "artists": [
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        },
+        {
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+        }
+      ],
+      "duration_ms": 161404,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4LMWg2yuCVoz29FGaxVpoH"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Smoke Alarm",
+        "url": "https://open.spotify.com/album/1fa6usrAvGfRkyVSNdQXux"
+      },
+      "artists": [
+        {
+          "name": "liquidfive",
+          "url": "https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47"
+        },
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        }
+      ],
+      "duration_ms": 162434,
+      "name": "Smoke Alarm",
+      "url": "https://open.spotify.com/track/4rs6ZnMkkm0tDumyNInSai"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -651,46 +691,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Smoke Alarm",
-        "url": "https://open.spotify.com/album/1fa6usrAvGfRkyVSNdQXux"
-      },
-      "artists": [
-        {
-          "name": "liquidfive",
-          "url": "https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47"
-        },
-        {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
-        }
-      ],
-      "duration_ms": 162434,
-      "name": "Smoke Alarm",
-      "url": "https://open.spotify.com/track/4rs6ZnMkkm0tDumyNInSai"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5FN5EogNLlecas66RVD22U"
-      },
-      "artists": [
-        {
-          "name": "Marco Nobel",
-          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
-        },
-        {
-          "name": "TR\u00d8VES",
-          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
-        }
-      ],
-      "duration_ms": 161404,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4LMWg2yuCVoz29FGaxVpoH"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/6e448NG1ZLW7Xng5YXd7VW"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 179307,
       "name": "911",
       "url": "https://open.spotify.com/track/10oHimgIHJtjR8WvCV5KIl"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh"
-      },
-      "artists": [
-        {
-          "name": "Kellerkind",
-          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
-        }
-      ],
-      "duration_ms": 381611,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -747,22 +731,18 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI"
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh"
       },
       "artists": [
         {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        },
-        {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
         }
       ],
-      "duration_ms": 182325,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC"
+      "duration_ms": 381611,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -779,6 +759,26 @@
       "duration_ms": 214285,
       "name": "YOU KNOW WHAT I LIKE",
       "url": "https://open.spotify.com/track/5fgzqeqdL1bKiGwz8Q6Ydl"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/031m6izON5ItyxLETIWo8T"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -807,22 +807,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Candy Shop",
-        "url": "https://open.spotify.com/album/031m6izON5ItyxLETIWo8T"
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI"
       },
       "artists": [
         {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
         },
         {
-          "name": "Mareels",
-          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
         }
       ],
-      "duration_ms": 108923,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM"
+      "duration_ms": 182325,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -839,6 +839,26 @@
       "duration_ms": 180000,
       "name": "Galata",
       "url": "https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Don't Stop The Music",
+        "url": "https://open.spotify.com/album/3v3ITy298AvdwZ12c3YHyc"
+      },
+      "artists": [
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        },
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Don't Stop The Music - Leandro Da Silva Remix",
+      "url": "https://open.spotify.com/track/57yImhldzJfiWhDIN5Jxq4"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -863,26 +883,6 @@
       "duration_ms": 252000,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/5A186GvDTTMovlQqqnpaaH"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Don't Stop The Music",
-        "url": "https://open.spotify.com/album/3v3ITy298AvdwZ12c3YHyc"
-      },
-      "artists": [
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        },
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Don't Stop The Music - Leandro Da Silva Remix",
-      "url": "https://open.spotify.com/track/57yImhldzJfiWhDIN5Jxq4"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -923,6 +923,26 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Glowing",
+        "url": "https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx"
+      },
+      "artists": [
+        {
+          "name": "Agus Zack",
+          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
+        },
+        {
+          "name": "Maikko",
+          "url": "https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "JUST DO IT",
         "url": "https://open.spotify.com/album/020vc4rmeTH8smv8JnkISK"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 192142,
       "name": "Gonna Do",
       "url": "https://open.spotify.com/track/0L6DKxzgsWcE9AG6iOWUug"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Glowing",
-        "url": "https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx"
-      },
-      "artists": [
-        {
-          "name": "Agus Zack",
-          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
-        },
-        {
-          "name": "Maikko",
-          "url": "https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ"
-        }
-      ],
-      "duration_ms": 129427,
-      "name": "Glowing",
-      "url": "https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Cuttin Shapes",
+        "url": "https://open.spotify.com/album/0aZPZeoIzolVJ5AKT1hyli"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6lus-Sun",
+          "url": "https://open.spotify.com/artist/50j4abnuV2BBK42TIC4L7T"
+        },
+        {
+          "name": "Blaze Orange",
+          "url": "https://open.spotify.com/artist/6ShdJxTd5ZhvHbi5sNcEq1"
+        }
+      ],
+      "duration_ms": 141375,
+      "name": "Cuttin Shapes",
+      "url": "https://open.spotify.com/track/0zINyohB4TKh0U5oW95bcs"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "Jumping Master",
         "url": "https://open.spotify.com/album/4gggYFVmuEZXYfaK3EhHeY"
       },
@@ -1047,6 +1067,22 @@
       "duration_ms": 373500,
       "name": "Jumping Master",
       "url": "https://open.spotify.com/track/1kWlD5sbC0xQWVktYoDu4d"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Promise Me",
+        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "duration_ms": 266880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1071,42 +1107,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Cuttin Shapes",
-        "url": "https://open.spotify.com/album/0aZPZeoIzolVJ5AKT1hyli"
-      },
-      "artists": [
-        {
-          "name": "S\u00f6lus-Sun",
-          "url": "https://open.spotify.com/artist/50j4abnuV2BBK42TIC4L7T"
-        },
-        {
-          "name": "Blaze Orange",
-          "url": "https://open.spotify.com/artist/6ShdJxTd5ZhvHbi5sNcEq1"
-        }
-      ],
-      "duration_ms": 141375,
-      "name": "Cuttin Shapes",
-      "url": "https://open.spotify.com/track/0zINyohB4TKh0U5oW95bcs"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Promise Me",
-        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
-      },
-      "artists": [
-        {
-          "name": "Harmonee",
-          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
-        }
-      ],
-      "duration_ms": 266880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "All I Wanna",
         "url": "https://open.spotify.com/album/02Y4ffnFiiVjaDV4vgdakm"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 176470,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/50inRPYRRUO0dDHJGNKC6m"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "INVITADOS EP",
-        "url": "https://open.spotify.com/album/3hyFCNkd7AhX2SeupjCAc8"
-      },
-      "artists": [
-        {
-          "name": "LUCATI",
-          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
-        }
-      ],
-      "duration_ms": 378750,
-      "name": "INVITADOS",
-      "url": "https://open.spotify.com/track/3X2SZkKtbky8GHZSOTK66k"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "INVITADOS EP",
+        "url": "https://open.spotify.com/album/3hyFCNkd7AhX2SeupjCAc8"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "duration_ms": 378750,
+      "name": "INVITADOS",
+      "url": "https://open.spotify.com/track/3X2SZkKtbky8GHZSOTK66k"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "Only Your Love",
         "url": "https://open.spotify.com/album/2aQ7DGVU5DfaIr3YiIKeOD"
       },
@@ -1175,26 +1175,6 @@
       "duration_ms": 202500,
       "name": "Only Your Love",
       "url": "https://open.spotify.com/track/1woQUkEOra6B9ZbY8xT28T"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/6O5pGehe9S18QRaVp4Yl05"
-      },
-      "artists": [
-        {
-          "name": "Boogietraxx",
-          "url": "https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof"
-        },
-        {
-          "name": "SCHROEDS",
-          "url": "https://open.spotify.com/artist/6nzLqJhQSGwQkExfjapL3o"
-        }
-      ],
-      "duration_ms": 194783,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1ckErKs5lbSIe4B4gQcqHC"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6O5pGehe9S18QRaVp4Yl05"
+      },
+      "artists": [
+        {
+          "name": "Boogietraxx",
+          "url": "https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof"
+        },
+        {
+          "name": "SCHROEDS",
+          "url": "https://open.spotify.com/artist/6nzLqJhQSGwQkExfjapL3o"
+        }
+      ],
+      "duration_ms": 194783,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1ckErKs5lbSIe4B4gQcqHC"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "Missed the Message",
         "url": "https://open.spotify.com/album/0PDYVctxsr5M11QW6LaC1B"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/6c2IfbVrHsbs5SoNZnAVQ0"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 170264,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1nAlgoCShQF684r7jn7eHs"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Precipice",
         "url": "https://open.spotify.com/album/41rgNGA4j5rySJvezVogLa"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214285,
       "name": "Precipice",
       "url": "https://open.spotify.com/track/3jSSZmkmD5krRWBWN9nHly"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6c2IfbVrHsbs5SoNZnAVQ0"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 170264,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1nAlgoCShQF684r7jn7eHs"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1343,6 +1343,30 @@
       "duration_ms": 291147,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2ZUzVVkvVgGmLo287Y5oJc"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7dI8vb2Qk5mKId9UgjpGqh"
+      },
+      "artists": [
+        {
+          "name": "Curtis Richa",
+          "url": "https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ"
+        },
+        {
+          "name": "Covenants",
+          "url": "https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ"
+        },
+        {
+          "name": "Ivy Chanel",
+          "url": "https://open.spotify.com/artist/3CZbahQtCyGj8CDs2cyo2y"
+        }
+      ],
+      "duration_ms": 142110,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/01ZdLcda9OKXTBUk7xpgKG"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1387,30 +1411,6 @@
       "duration_ms": 266057,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/2YYIq8enZd8IearNR1jmgA"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7dI8vb2Qk5mKId9UgjpGqh"
-      },
-      "artists": [
-        {
-          "name": "Curtis Richa",
-          "url": "https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ"
-        },
-        {
-          "name": "Covenants",
-          "url": "https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ"
-        },
-        {
-          "name": "Ivy Chanel",
-          "url": "https://open.spotify.com/artist/3CZbahQtCyGj8CDs2cyo2y"
-        }
-      ],
-      "duration_ms": 142110,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/01ZdLcda9OKXTBUk7xpgKG"
     },
     {
       "added_at": "2025-01-03 17:00:49",

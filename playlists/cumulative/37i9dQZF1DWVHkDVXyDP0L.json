@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Coast Arcade",
+  "description": "New and local indie noise. Cover: Old Mervs",
   "name": "Local Noise",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 252958,
       "name": "Beast Of You",
       "url": "https://open.spotify.com/track/2uflCDlWs8f4BsdeZbW44K"
@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/4tFtYbG00DjzL1nhZOkGuO"
+      },
+      "artists": [
+        {
+          "name": "Fever Pitch",
+          "url": "https://open.spotify.com/artist/4CjdIrW7d1MTVC1RVbupwR"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/45e7TKWcYH9HcBkWFn4oUi"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4oC4FeatPyGuSBbPOeE7K4"
       },
@@ -2168,6 +2186,24 @@
       "duration_ms": 155816,
       "name": "fresh figure",
       "url": "https://open.spotify.com/track/4M7eIalDccTknOndeDRfOq"
+    },
+    {
+      "album": {
+        "name": "Shitty Thrills",
+        "url": "https://open.spotify.com/album/7C35QNTsIDM12RhWG5Vo4y"
+      },
+      "artists": [
+        {
+          "name": "BIRD ISLAND",
+          "url": "https://open.spotify.com/artist/3tx5aw2TDq7jiFd9HAtjNA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195290,
+      "name": "Fuck All",
+      "url": "https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT"
     },
     {
       "album": {
@@ -2514,7 +2550,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 164939,
       "name": "HEXXX",
       "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
@@ -3433,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "Long Way To Go",
+        "url": "https://open.spotify.com/album/7BJl1tH4gp1egCQdD5pQIh"
+      },
+      "artists": [
+        {
+          "name": "Nik Brinkman",
+          "url": "https://open.spotify.com/artist/5gI4KPyP30hO56IyyBpC3O"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Long Way To Go",
+      "url": "https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ"
       },
@@ -3484,7 +3538,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 205357,
       "name": "love bombs",
       "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
@@ -3776,10 +3830,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149045,
       "name": "Millions",
       "url": "https://open.spotify.com/track/1cZOFfmhe8TpWKg2eScf7Y"
+    },
+    {
+      "album": {
+        "name": "Mini Skirt",
+        "url": "https://open.spotify.com/album/2dexkr0KFlTCd73x5GIQLC"
+      },
+      "artists": [
+        {
+          "name": "Jet City Sports Club",
+          "url": "https://open.spotify.com/artist/6mJdgrD61JZMuliDRsTKEp"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188821,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/3GOdAa9y0tNFQZshBK9yPE"
     },
     {
       "album": {
@@ -4356,7 +4428,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 201800,
       "name": "Operating At A Loss",
       "url": "https://open.spotify.com/track/1OfGJzpLDSnRbcJr4EYwLf"
@@ -5019,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Rocketship",
+        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116202,
+      "name": "Rocketship",
+      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+    },
+    {
+      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/3d6ZauIJ8nUxwD5gAnANUM"
       },
@@ -5048,7 +5138,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 250688,
       "name": "Rwtd",
       "url": "https://open.spotify.com/track/3XjtkHip7CxsC6LS1kzsnq"
@@ -5142,6 +5232,24 @@
       "duration_ms": 160654,
       "name": "Sedate",
       "url": "https://open.spotify.com/track/6ltMjqTcCviZnoClCZteg8"
+    },
+    {
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/0JVzuGmBDqSXC66nqes8R0"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152067,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 541944,
+  "num_followers": 541986,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1M0igAAAABopbAVjxWDN/zMB1cNpTQK",
+  "snapshot_id": "Z4ADywAAAAAQmzU1uoJvG8EqcDvVyFZx",
   "tracks": [
     {
       "added_at": "2024-12-06 17:29:46",
@@ -345,6 +345,26 @@
       "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
     },
     {
+      "added_at": "2025-01-09 17:13:47",
+      "album": {
+        "name": "No M\u00e1s Canciones Tristes (Versi\u00f3n ac\u00fastica)",
+        "url": "https://open.spotify.com/album/3YNSGC0c0562jzRIaXZo74"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cros",
+          "url": "https://open.spotify.com/artist/2EBnlu2fEvZOfOIAnv7TUQ"
+        },
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "No M\u00e1s Canciones Tristes (Versi\u00f3n ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2MvnMJvH1VaeMilOmF9pJg"
+    },
+    {
       "added_at": "2024-12-06 17:29:46",
       "album": {
         "name": "Barrio Bravo",
@@ -495,26 +515,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
-        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Yo Nunca Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -531,38 +531,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
+        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+      "duration_ms": 196895,
+      "name": "Yo Nunca Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -599,6 +583,42 @@
       "duration_ms": 183026,
       "name": "Amor de Cabaret (with R\u00edo Roma)",
       "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -659,6 +679,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Desde mi habitaci\u00f3n",
         "url": "https://open.spotify.com/album/656VyXjyD9LdtKPheTfqNu"
       },
@@ -679,18 +715,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -711,26 +751,6 @@
       "duration_ms": 189066,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/29Jjqh0aEF2GG06fl5AKpv"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -767,22 +787,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Divergencia (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/3PRKgdagGPB86zWUIcF9u4"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Divergencia - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/2wPHxKXRyfqvyVfTLx33Dz"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -799,22 +803,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "La Barca",
-        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
+        "name": "Divergencia (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/3PRKgdagGPB86zWUIcF9u4"
       },
       "artists": [
         {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 192123,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+      "duration_ms": 297500,
+      "name": "Divergencia - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/2wPHxKXRyfqvyVfTLx33Dz"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -839,18 +839,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "La Barca",
+        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 192123,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -899,6 +903,22 @@
       "duration_ms": 189663,
       "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
       "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1011,6 +1031,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1035,22 +1071,6 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1123,6 +1143,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Lo Que T\u00fa Quieras",
+        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Lo Que T\u00fa Quieras",
+      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1143,18 +1179,18 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Lo Que T\u00fa Quieras",
-        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
         }
       ],
-      "duration_ms": 198826,
-      "name": "Lo Que T\u00fa Quieras",
-      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
+      "duration_ms": 248208,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1191,38 +1227,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
-      },
-      "artists": [
-        {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "M\u00e1s Que Ella",
         "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
       },
@@ -1239,6 +1243,22 @@
       "duration_ms": 195789,
       "name": "M\u00e1s Que Ella",
       "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1455,22 +1475,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Or\u00edgenes: El Bolero Vol.3",
         "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
       },
@@ -1483,6 +1487,22 @@
       "duration_ms": 210848,
       "name": "Te matan los celos",
       "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1575,22 +1595,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1607,6 +1611,22 @@
       "duration_ms": 193130,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1695,6 +1715,26 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Mi Alma Gemela Muri\u00f3",
+        "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 195728,
+      "name": "Mi Alma Gemela Muri\u00f3",
+      "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Celebrando Al Pr\u00edncipe",
         "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
       },
@@ -1743,42 +1783,6 @@
       "duration_ms": 203184,
       "name": "Amor Maldito",
       "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Mi Alma Gemela Muri\u00f3",
-        "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 195728,
-      "name": "Mi Alma Gemela Muri\u00f3",
-      "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Para no odiarte",
-        "url": "https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w"
-      },
-      "artists": [
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "Para no odiarte",
-      "url": "https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp"
     },
     {
       "added_at": "2024-12-06 17:29:46",

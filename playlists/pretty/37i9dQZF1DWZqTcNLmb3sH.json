@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62136,
+  "num_followers": 62160,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z34U8wAAAAAtk8T1J6WVVatvWpFV86vw",
+  "snapshot_id": "Z3/N2gAAAAC4IS82ciZTLo63y9kIdsIU",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/14rj2yQ9e9S64Cumg8HUZX"
     },
     {
+      "added_at": "2025-01-09 13:23:38",
+      "album": {
+        "name": "Dhad Nan Magane (From \"Nimde Kathe\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4bOKZuhv70egI7gF0jY8cU"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "duration_ms": 217159,
+      "name": "Dhad Nan Magane (From \"Nimde Kathe\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/43kmEYZv84aGExwGDM3qyc"
+    },
+    {
       "added_at": "2025-01-06 08:11:30",
       "album": {
         "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
@@ -119,6 +135,30 @@
       "duration_ms": 209333,
       "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
       "url": "https://open.spotify.com/track/4seR4tRnj1wqw413Q3qTbG"
+    },
+    {
+      "added_at": "2025-01-09 06:52:18",
+      "album": {
+        "name": "Pall Pall (From \"Talvar\")",
+        "url": "https://open.spotify.com/album/78cAkKnacRbPLNcIR7z2tA"
+      },
+      "artists": [
+        {
+          "name": "Madhu Hegde",
+          "url": "https://open.spotify.com/artist/2jFbCrTfTUZWkM0njvlAMw"
+        },
+        {
+          "name": "Dr Umesh Pilikude",
+          "url": "https://open.spotify.com/artist/7ACqV6BHiTKZ1LaktwHPmx"
+        },
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Pall Pall (From \"Talvar\")",
+      "url": "https://open.spotify.com/track/1ivNgxWSjn7IVw8ygz031u"
     },
     {
       "added_at": "2025-01-07 12:49:55",
@@ -1521,30 +1561,6 @@
       "url": "https://open.spotify.com/track/4PrSZnNtyNFyghp2D4PyYv"
     },
     {
-      "added_at": "2024-10-29 05:51:48",
-      "album": {
-        "name": "Usire (From\"Murphy\")",
-        "url": "https://open.spotify.com/album/1kbxrqIIUufV7T8jCGYATy"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Usire (From\"Murphy\")",
-      "url": "https://open.spotify.com/track/6moEke4PVgbQl7aOifSqeX"
-    },
-    {
       "added_at": "2024-11-13 18:10:31",
       "album": {
         "name": "Joyi Padyana (From \"Anarkali\")",
@@ -1683,26 +1699,6 @@
       "duration_ms": 316875,
       "name": "Mannisu (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
-    },
-    {
-      "added_at": "2024-11-07 13:04:34",
-      "album": {
-        "name": "Teri Meri (From \"Zebra\") [Kannada]",
-        "url": "https://open.spotify.com/album/1uJyTSaiEwiwLWsxRZMNkU"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Airaa Udupi",
-          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
-        }
-      ],
-      "duration_ms": 247087,
-      "name": "Teri Meri (From \"Zebra\") [Kannada]",
-      "url": "https://open.spotify.com/track/2CcYwfhqi66c3oYUPNG53c"
     },
     {
       "added_at": "2024-11-07 05:56:47",

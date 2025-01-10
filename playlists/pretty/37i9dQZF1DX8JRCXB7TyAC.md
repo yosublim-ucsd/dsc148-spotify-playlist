@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,386 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,406 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 12 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 13 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 14 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
-| 15 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 |
+| 15 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/1I3EawcCTzAYZtonoobkuU), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 |
 | 16 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 17 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
 | 18 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |

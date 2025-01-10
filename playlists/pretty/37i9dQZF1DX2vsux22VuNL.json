@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293236,
+  "num_followers": 293229,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Izabell Shamylla",
+          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
+        }
+      ],
+      "duration_ms": 184412,
+      "name": "Depois das Tr\u00eas",
+      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Izabell Shamylla",
-          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
-        }
-      ],
-      "duration_ms": 184412,
-      "name": "Depois das Tr\u00eas",
-      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Mina Sereia",
-        "url": "https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 165568,
-      "name": "Mina Sereia",
-      "url": "https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 221653,
       "name": "Carta Branca",
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Mina Sereia",
+        "url": "https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "Mina Sereia",
+      "url": "https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -959,30 +959,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Sabores",
         "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
       },
@@ -995,26 +971,6 @@
       "duration_ms": 267000,
       "name": "Sabores",
       "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
-        },
-        {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1039,6 +995,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
-      },
-      "artists": [
-        {
-          "name": "Rezeh",
-          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 92960,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
+      },
+      "artists": [
+        {
+          "name": "Rezeh",
+          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 92960,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Pra Viajar",
-        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Pra Viajar",
-      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "MPBEATS",
         "url": "https://open.spotify.com/album/4I2QOA09xdMKg0wPOgII8a"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 123115,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3DLABxnwflM2ZJ9pyVJjaj"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2024-12-20 03:25:46",

@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Wood Box Heroes",
-  "num_followers": 164860,
+  "num_followers": 164857,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194320,
       "name": "Eliza",
       "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Hubbardville Store",
         "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 252520,
       "name": "Hubbardville Store",
       "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Authentic Unlimited",
         "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Outrun The Rain",
-        "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
-      },
-      "artists": [
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 271973,
-      "name": "Outrun The Rain",
-      "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Outrun The Rain",
+        "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 271973,
+      "name": "Outrun The Rain",
+      "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
-      },
-      "artists": [
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1539,6 +1519,26 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Runnin' from the Weather",
+        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
+      },
+      "artists": [
+        {
+          "name": "Larry & Joe",
+          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Runnin' from the Weather",
+      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 173237,
       "name": "Railroadin' & Gamblin'",
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Runnin' from the Weather",
-        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
-      },
-      "artists": [
-        {
-          "name": "Larry & Joe",
-          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Runnin' from the Weather",
-      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "So Much For Forever",
+        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
@@ -1719,18 +1735,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "So Much For Forever",
-        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
       },
       "artists": [
         {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1779,22 +1795,6 @@
       "duration_ms": 245000,
       "name": "Moondancer",
       "url": "https://open.spotify.com/track/5LwpF4SeYFlG4LYSFShvPe"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-12-27 05:00:40",

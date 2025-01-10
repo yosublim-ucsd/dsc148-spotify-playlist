@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: KhakiKid",
+  "description": "New tunes from Ireland for your discovery. Cover: Travy",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 133745,
       "name": "25BAG",
       "url": "https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN"
@@ -218,6 +218,24 @@
       "duration_ms": 153479,
       "name": "America",
       "url": "https://open.spotify.com/track/3jXQiJOwDtg9fn0ld0t05H"
+    },
+    {
+      "album": {
+        "name": "Faults I May Have",
+        "url": "https://open.spotify.com/album/3W4LSqe9R6mXPFI7vWUO6d"
+      },
+      "artists": [
+        {
+          "name": "Ten Hail Marys",
+          "url": "https://open.spotify.com/artist/25oYlBRujBDaLy2TlqGlGG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242934,
+      "name": "America",
+      "url": "https://open.spotify.com/track/1wXwI22n1ggbJxF4EAtqCg"
     },
     {
       "album": {
@@ -637,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Ahmed, With FRIENDS! Vol.1: Friday at Kylt\u00e9's",
+        "url": "https://open.spotify.com/album/10bpJK5uddmNJEGh8nx6h4"
+      },
+      "artists": [
+        {
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
+        },
+        {
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
+        },
+        {
+          "name": "Kylt\u00e9",
+          "url": "https://open.spotify.com/artist/7jMZCREcSgqOoQlVoGswM5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178068,
+      "name": "Bronco Loko.",
+      "url": "https://open.spotify.com/track/4zV9G0EKiegk5BQnWGQpIY"
+    },
+    {
+      "album": {
         "name": "RACECARDEAD",
         "url": "https://open.spotify.com/album/2I1d8RpInkvnIvwnaNeNRm"
       },
@@ -710,7 +754,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 171620,
       "name": "Can\u2019t Walk Away",
       "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
@@ -812,7 +856,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 182464,
       "name": "cherry pie",
       "url": "https://open.spotify.com/track/2qCq6qRPHcqiUMAd3MDxqs"
@@ -992,7 +1036,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 200892,
       "name": "Daisy Chains",
       "url": "https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M"
@@ -1014,6 +1058,24 @@
       "duration_ms": 165657,
       "name": "daisy chains",
       "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
+    },
+    {
+      "album": {
+        "name": "Darkside",
+        "url": "https://open.spotify.com/album/5R317VA16WWT6pfr9Xskn4"
+      },
+      "artists": [
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/15t2iqFhnbDl9zgggMlpam"
     },
     {
       "album": {
@@ -1392,6 +1454,32 @@
       "duration_ms": 191103,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu"
+    },
+    {
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "EUROSTAR",
+      "url": "https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai"
     },
     {
       "album": {
@@ -1871,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "i would always fall",
+        "url": "https://open.spotify.com/album/2PSZy1xQ6pglwwx7ySScfz"
+      },
+      "artists": [
+        {
+          "name": "subtle life enthusiast",
+          "url": "https://open.spotify.com/artist/4Ap0uE91FPUQCfsPfkcApG"
+        },
+        {
+          "name": "how r u",
+          "url": "https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72727,
+      "name": "i would always fall",
+      "url": "https://open.spotify.com/track/14s8BAs3coS4iCX9vOfnq9"
+    },
+    {
+      "album": {
         "name": "I've Arrived (with Tomike)",
         "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
       },
@@ -1890,6 +2000,24 @@
       "duration_ms": 150923,
       "name": "I've Arrived (with Tomike)",
       "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
+    },
+    {
+      "album": {
+        "name": "if only i knew",
+        "url": "https://open.spotify.com/album/0jbpjBdZOOtwic77ocqtui"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Donnell",
+          "url": "https://open.spotify.com/artist/7ig6M7wpIZxUBQxEXmvkGn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200230,
+      "name": "if only i knew",
+      "url": "https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G"
     },
     {
       "album": {
@@ -2066,7 +2194,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 149000,
       "name": "it's alright",
       "url": "https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg"
@@ -2532,6 +2660,28 @@
       "duration_ms": 241069,
       "name": "meanie",
       "url": "https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4ZLD6CAOjtG4u93ar72ZVP"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        },
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133091,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6lxkrfiRqN7EN0VxnduNvj"
     },
     {
       "album": {
@@ -3676,7 +3826,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 157605,
       "name": "SPEND SOME TIME",
       "url": "https://open.spotify.com/track/7k2hVVCfyQSX7LFquRFOjX"
@@ -3976,7 +4126,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 203156,
       "name": "The Car",
       "url": "https://open.spotify.com/track/4Qx3YoTw0ZyNbqDCUgboqz"
@@ -4030,7 +4180,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 138766,
       "name": "The Mirror's Favourite",
       "url": "https://open.spotify.com/track/5o6hqCqfg9XqI885xV0prp"
@@ -4182,6 +4332,28 @@
       "duration_ms": 184235,
       "name": "They Called Her Something",
       "url": "https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt"
+    },
+    {
+      "album": {
+        "name": "Too Many Women (feat. kwn)",
+        "url": "https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "Too Many Women (feat. kwn)",
+      "url": "https://open.spotify.com/track/27phUMXA53CLokQgatsJaz"
     },
     {
       "album": {

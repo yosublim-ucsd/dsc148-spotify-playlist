@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 102855,
+  "num_followers": 102930,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Entre Milh\u00f5es",
         "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 251000,
       "name": "Entre Milh\u00f5es",
       "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Gra\u00e7a Sobre Gra\u00e7a",
         "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 191530,
       "name": "Gra\u00e7a Sobre Gra\u00e7a",
       "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        }
-      ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        }
+      ],
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 266020,
       "name": "Apenas Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "At\u00e9 Sermos Um",
         "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 178446,
       "name": "At\u00e9 Sermos Um",
       "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1067,22 +1067,6 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "YESHUA",
-        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160663,
-      "name": "YESHUA",
-      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 160050,
       "name": "Esque\u00e7o At\u00e9 o Tempo",
       "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Me Chamar de Filho",
         "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2024-11-29 03:01:00",

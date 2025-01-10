@@ -2,19 +2,19 @@
 
 ### [gen z ](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> nasze brzmienie ✨ Cover: Zuza Jabłońska
+> nasze brzmienie ✨ Cover: Marcin Maciejczak
 
-260 songs - 12 hr 10 min
+264 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Z TOBĄ" INTERLUDE](https://open.spotify.com/track/6sF1vU8ICcM0FP0dqhBR6Y) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | ["Z TOBĄ" INTERLUDE](https://open.spotify.com/album/6aWHzzG4xZ99MZZEmlTV8Y) | 2:53 | 2024-10-04 | 2024-10-19 |
-| [\#omg](https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX) | [hubithekid](https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd) | [\#omg](https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu) | 2:06 | 2024-09-13 |  |
+| [\#omg](https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX) | [hubithekid](https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd) | [\#omg](https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu) | 2:06 | 2024-09-13 | 2025-01-10 |
 | [+1](https://open.spotify.com/track/1uSqsOYzHF8wXAcyhO7xFm) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3) | [+1](https://open.spotify.com/album/0L2L29KzYBJtGGHeUAI0Wg) | 2:35 | 2024-07-11 | 2024-08-23 |
 | [+2 złamane serca](https://open.spotify.com/track/2boUivVVmvd58WLBUYmrru) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [+2 złamane serca](https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff) | 2:53 | 2024-11-21 |  |
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2024-06-28 | 2024-07-05 |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
-| [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 |  |
+| [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
 | [Adoruje](https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY) | [Adoruje](https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp) | 2:35 | 2024-06-28 | 2024-07-19 |
 | [Ale Boli!](https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Ale Boli!](https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9) | 1:53 | 2024-09-27 | 2024-11-08 |
 | [Ambiwalencje](https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ambiwalencje](https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw) | 2:51 | 2024-06-28 | 2024-08-23 |
@@ -28,6 +28,7 @@
 | [BABY](https://open.spotify.com/track/5hUhAExayqsD6U8gzZ9Gk5) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [BABY](https://open.spotify.com/album/4uqDEnsLv5T2wrKFO5RDb9) | 2:16 | 2024-06-28 | 2024-07-27 |
 | [Bajka](https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bajka](https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF) | 2:29 | 2024-10-25 |  |
 | [Bal](https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Bal](https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz) | 2:54 | 2024-08-22 | 2024-09-28 |
+| [Bejbe!](https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Bejbe!](https://open.spotify.com/album/0adt1bbqThqFji1PwChQME) | 1:55 | 2025-01-09 |  |
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
@@ -44,6 +45,7 @@
 | [Błąkam się](https://open.spotify.com/track/6y0EOAmIrzdSHdXs0umogb) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [Nastoletni dwudziestolatek](https://open.spotify.com/album/3sWnlf1z8Hgu1Sm8aRbghM) | 2:27 | 2024-06-28 | 2024-08-02 |
 | [Błękitny](https://open.spotify.com/track/4jW0731ILmf1ajLq0liBVb) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Błękitny](https://open.spotify.com/album/00q9IvVNEN2LYpp2FVxz58) | 3:01 | 2024-06-28 | 2024-07-19 |
 | [Candy](https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Candy](https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7) | 2:06 | 2024-09-13 |  |
+| [Caramel Love](https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Caramel Love](https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N) | 2:21 | 2025-01-09 |  |
 | [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 | 2024-07-25 | 2024-12-21 |
 | [Chcę tu zostać](https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Chcę tu zostać](https://open.spotify.com/album/6xSdJmLKx6LiT44WwxUzku) | 3:00 | 2024-06-28 | 2024-08-31 |
 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 | 2024-07-04 | 2024-10-05 |
@@ -65,6 +67,7 @@
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-22 | 2024-11-08 |
 | [Dla Ciebie](https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja IV](https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN) | 3:02 | 2024-10-11 |  |
 | [dla Ciebie mógłbym zabić](https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Do rany przyłóż](https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI) | 2:21 | 2024-11-21 |  |
+| [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 |  |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 |  |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
@@ -73,7 +76,7 @@
 | [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-20 |  |
 | [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-28 | 2024-10-26 |
 | [Długie Spacery](https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB) | 4:36 | 2024-08-22 |  |
-| [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 |  |
+| [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 | 2025-01-10 |
 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 |  |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |
 | [Fikcje](https://open.spotify.com/track/4ohdSHxQPdFsXBUueLetd7) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3) | [Fikcje](https://open.spotify.com/album/30272fiEqUNicMf5MoTo26) | 2:18 | 2024-06-28 | 2024-08-31 |
@@ -128,6 +131,7 @@
 | [Mama](https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Mama](https://open.spotify.com/album/51ipp3GlTVp79WutZBZeGa) | 2:58 | 2024-06-28 | 2024-08-31 |
 | [mamy siebie](https://open.spotify.com/track/05TlRHEcFWIDdDgcweyCvE) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [mamy siebie](https://open.spotify.com/album/2VtVTHgyjHXBnXqkdqmrYU) | 2:36 | 2024-10-04 | 2024-11-22 |
 | [MAZZY STAR](https://open.spotify.com/track/6X3KI73fpy5JXkfzElB89D) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [MAZZY STAR](https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno) | 2:34 | 2024-07-18 | 2024-10-19 |
+| [Małe dziś](https://open.spotify.com/track/3sIornJF32cn0T0RDe6wju) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Małe dziś](https://open.spotify.com/album/6cyVfS7S8tCi05weOltCa8) | 3:35 | 2025-01-09 |  |
 | [Metro i pałac](https://open.spotify.com/track/1JF7UKCVrFaXZBA7UTMWXG) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Metro i pałac](https://open.spotify.com/album/2sgmkk8GKcXxz10fb8cnvI) | 3:12 | 2024-06-28 | 2024-08-02 |
 | [MIAMI VICE](https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [MIAMI VICE](https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU) | 2:14 | 2024-06-28 | 2024-11-22 |
 | [Miałeś być](https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Miałeś być](https://open.spotify.com/album/3CBHukc8YI5PSfaurN9JCS) | 2:57 | 2024-06-28 | 2024-09-14 |
@@ -245,7 +249,7 @@
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-09-13 |  |
 | [Wonderful](https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Wonderful](https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV) | 2:54 | 2024-12-06 |  |
 | [wrogowie](https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [wrogowie](https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH) | 3:26 | 2024-08-22 |  |
-| [Wrzosy](https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD) | [Wrzosy](https://open.spotify.com/album/3H69V7MdvPjjNPy8FdxPde) | 2:52 | 2024-08-22 |  |
+| [Wrzosy](https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD) | [Wrzosy](https://open.spotify.com/album/3H69V7MdvPjjNPy8FdxPde) | 2:52 | 2024-08-22 | 2025-01-10 |
 | [Wschód](https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wschód](https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G) | 2:46 | 2024-08-22 |  |
 | [Wschód](https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wschód](https://open.spotify.com/album/1hzgUnumV7ab6i4aDpFfbo) | 3:10 | 2024-06-28 | 2024-09-07 |
 | [wspomnienie o](https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wspomnienie o](https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA) | 3:24 | 2024-10-11 |  |

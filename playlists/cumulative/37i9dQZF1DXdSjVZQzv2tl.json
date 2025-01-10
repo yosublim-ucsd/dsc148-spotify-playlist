@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Jorge & Mateus\n\n",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe Ara\u00fajo, Luan Pereira\n\n\n",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 144307,
       "name": "AMBIENTE ERRADO - Ao Vivo",
       "url": "https://open.spotify.com/track/7blC5LzebSn2A64Kn4XXMP"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150992,
+      "name": "Amigo Da Minha Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ"
     },
     {
       "album": {
@@ -1357,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Desacelera Esse Passo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2YXKWwZbkwmfAi3v41ObcD"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183312,
+      "name": "Desacelera Esse Passo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5WiDC7YnCDkNY5RYRAbq8e"
+    },
+    {
+      "album": {
         "name": "Desandei (Ao Vivo)",
         "url": "https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3"
       },
@@ -2007,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Dia 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DoENvroX8Qc4CrazIJXq5"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178111,
+      "name": "Eu N\u00e3o Confio Em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ggTd6Rsk4qyOuAvwyUywK"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Dou Conta (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G"
       },
@@ -2618,7 +2672,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 166774,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
@@ -4640,7 +4694,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 154947,
       "name": "Solteiro Iniciante",
       "url": "https://open.spotify.com/track/4Do0PK6qXYO28ifX9Y1Cle"
@@ -4938,7 +4992,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-10",
       "duration_ms": 151328,
       "name": "Trauma - Ao Vivo",
       "url": "https://open.spotify.com/track/0aGBJDgysbTnnE27oYkx0N"
