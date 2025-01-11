@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Santa Suerte/Teeam Revolver en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -766,6 +766,28 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "album": {
+        "name": "Al Oscurecer",
+        "url": "https://open.spotify.com/album/2t8UaiyRxubmlgjmTohouv"
+      },
+      "artists": [
+        {
+          "name": "Manicomio Clan",
+          "url": "https://open.spotify.com/artist/4MU4o7Q9PEHnzuf1Kw5IBM"
+        },
+        {
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229399,
+      "name": "Al Oscurecer",
+      "url": "https://open.spotify.com/track/2qSDCkiyhiDhrZ62GU1Xn9"
     },
     {
       "album": {
@@ -3501,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "De Revista",
+        "url": "https://open.spotify.com/album/21IUOwtcPiMxvz89bCYz1V"
+      },
+      "artists": [
+        {
+          "name": "Jr L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158731,
+      "name": "De Revista",
+      "url": "https://open.spotify.com/track/10gQ003tvEF4VsO95jJIYY"
+    },
+    {
+      "album": {
         "name": "Defiendo El Uniforme",
         "url": "https://open.spotify.com/album/6phxllVdMlLJ6tgYfQPzW5"
       },
@@ -4345,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "El Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7MiKqfQ5JaDbfjq9YQz1zY"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268063,
+      "name": "El Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6v9ZNh3YKZ49Gl6YO1t95t"
+    },
+    {
+      "album": {
         "name": "Ruta Mexicolombia",
         "url": "https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy"
       },
@@ -5184,7 +5242,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 242625,
       "name": "Fiesta de Reyes",
       "url": "https://open.spotify.com/track/21FM6mPvmOKsLE2w4STdQn"
@@ -7263,6 +7321,32 @@
     },
     {
       "album": {
+        "name": "Largarme",
+        "url": "https://open.spotify.com/album/4LrcTgKvwQpZF4PeZBWGZK"
+      },
+      "artists": [
+        {
+          "name": "Audire Visus",
+          "url": "https://open.spotify.com/artist/6cxgKOlVeLncNFJcUf1aLA"
+        },
+        {
+          "name": "Sheol Emepe",
+          "url": "https://open.spotify.com/artist/38zySugVQXnmtkO0cxg3bb"
+        },
+        {
+          "name": "Gordojazz",
+          "url": "https://open.spotify.com/artist/6xsnMKLh057DuEu8RfsiBB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Largarme",
+      "url": "https://open.spotify.com/track/3rTAkitnfEkOMVu3OMqxzA"
+    },
+    {
+      "album": {
         "name": "Las Horas Pasan",
         "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
       },
@@ -7942,6 +8026,28 @@
       "duration_ms": 91669,
       "name": "Lunes 12 B",
       "url": "https://open.spotify.com/track/3t8cVVppZQYfHhfwHIk3yT"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas y Sonrisas",
+        "url": "https://open.spotify.com/album/5PIex4i3Vu49KAMJqPD8Pa"
+      },
+      "artists": [
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "L\u00e1grimas y Sonrisas",
+      "url": "https://open.spotify.com/track/3FBnrQSHD8zF73AwcZfycE"
     },
     {
       "album": {
@@ -11542,7 +11648,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 190856,
       "name": "QQ",
       "url": "https://open.spotify.com/track/6lwkY804d9qJchiBGxqUni"
@@ -13612,7 +13718,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 205125,
       "name": "Todo Va a Estar Bien",
       "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"

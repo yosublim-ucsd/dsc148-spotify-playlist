@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from Bad Bunny \(pictured\), JADE, Joy Crookes
+> Brand new music from Bad Bunny \(pictured\), JADE, Joy Crookes and more!
 
-14,118 songs - 31 day 18 hr 10 min
+14,119 songs - 31 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2476,6 +2476,7 @@
 | [Condensation](https://open.spotify.com/track/6qxmMJHgNQIhkElzO7yiLq) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Condensation](https://open.spotify.com/album/64ITjSJIAQ4kdafLTOvzVc) | 3:30 | 2024-09-26 | 2024-10-04 |
 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 | 2024-04-11 | 2024-04-19 |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-11-15 | 2024-11-22 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-10 |  |
 | [Confetti](https://open.spotify.com/track/1y4fJRzywNBy3cfHvzfMHs) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Songs From Echo Zoo](https://open.spotify.com/album/6OZR67uVC4cdkgRPVBSm4x) | 3:04 | 2023-08-31 | 2023-09-08 |
 | [Confidence](https://open.spotify.com/track/0BZBOqPJr8Fb737KTFDP9Q) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Confidence](https://open.spotify.com/album/3EiPq4MWFEOIYRxrrlulxu) | 1:54 | 2024-11-29 | 2024-12-06 |
 | [Confidence](https://open.spotify.com/track/1fYVdQ7MUtFIT97HPflFpc) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Confidence](https://open.spotify.com/album/2N1dQGdBPQaRfoRCoqSaXl) | 3:21 | 2023-11-17 | 2023-11-24 |

@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Desi Hood",
+        "url": "https://open.spotify.com/album/0BUGgVVyQ6FGVHBqEc1aVT"
+      },
+      "artists": [
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/0Zg2TQRD8kKKlrkbWbLdr4"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164166,
+      "name": "Desi Hood",
+      "url": "https://open.spotify.com/track/53DWoWiuuIvwHyKKWW2TRU"
+    },
+    {
+      "album": {
         "name": "Desi Jatt",
         "url": "https://open.spotify.com/album/4BjxiS88Mhi8Ts0ScjJk0r"
       },
@@ -1875,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Doabe Aale",
+        "url": "https://open.spotify.com/album/3Z1OGHurkCl1iD9nODEEgq"
+      },
+      "artists": [
+        {
+          "name": "Simr",
+          "url": "https://open.spotify.com/artist/1n79a1MhlSSKiqzkU4xXys"
+        },
+        {
+          "name": "Acid",
+          "url": "https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Doabe Aale",
+      "url": "https://open.spotify.com/track/4giuDqNTVBjFSFbvXe5faK"
+    },
+    {
+      "album": {
         "name": "Don't Play",
         "url": "https://open.spotify.com/album/4XqLW7oyfGMfwbOlaoZPyB"
       },
@@ -1894,6 +1934,32 @@
       "duration_ms": 163474,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5QOwPqJ4KF5SouXIS8lou0"
+    },
+    {
+      "album": {
+        "name": "Don't Stress",
+        "url": "https://open.spotify.com/album/6tjl3au4LKY8Ktz1GkzuE5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Singh",
+          "url": "https://open.spotify.com/artist/5JmMagrV8JJMqVgBCWNzn8"
+        },
+        {
+          "name": "Biswal Rohan",
+          "url": "https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY"
+        },
+        {
+          "name": "SHA",
+          "url": "https://open.spotify.com/artist/0faXuvcylE7kMa6mfJfxxE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Don't Stress",
+      "url": "https://open.spotify.com/track/5kbr3I2frP3xoxBAFCE9U9"
     },
     {
       "album": {
@@ -2074,7 +2140,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 169131,
       "name": "Everyone Asks",
       "url": "https://open.spotify.com/track/3nc7YQhWdDfv8CwerxuE3J"
@@ -3160,7 +3226,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 136398,
       "name": "Infamous",
       "url": "https://open.spotify.com/track/39bwBFxRQw8W0TegnXs6ZW"
@@ -3588,7 +3654,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 134347,
       "name": "Lalkaare",
       "url": "https://open.spotify.com/track/2aQn2FJ0MbhIp8OYcNWYEi"
@@ -3632,6 +3698,28 @@
       "duration_ms": 118357,
       "name": "Legendary Freestyle",
       "url": "https://open.spotify.com/track/0AVNOaVtmev9Vgu5g7BgYR"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4S2lKrS9IsNwIq1zHgKitR"
+      },
+      "artists": [
+        {
+          "name": "Ammy Gurm",
+          "url": "https://open.spotify.com/artist/7qJ20ZQEkpaMufLsw32Aaj"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/5EQCNhTYfFaa0KQj2OZPm5"
     },
     {
       "album": {
@@ -3906,7 +3994,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 181140,
       "name": "Many Men",
       "url": "https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA"
@@ -4510,7 +4598,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 164926,
       "name": "No Break",
       "url": "https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN"
@@ -4916,6 +5004,28 @@
       "duration_ms": 184303,
       "name": "Paagal",
       "url": "https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK"
+    },
+    {
+      "album": {
+        "name": "Parameters",
+        "url": "https://open.spotify.com/album/36owvSVQ9X2k1CEE2aSiTX"
+      },
+      "artists": [
+        {
+          "name": "Mahlan Wala 59",
+          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189948,
+      "name": "Parameters",
+      "url": "https://open.spotify.com/track/70mtJtGHK7dVCboKkhIFCv"
     },
     {
       "album": {
@@ -5862,7 +5972,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 158048,
       "name": "Swaad",
       "url": "https://open.spotify.com/track/01s8pvYQ6yCayelr8d4BoK"
@@ -6852,6 +6962,28 @@
       "duration_ms": 160159,
       "name": "What's Beef",
       "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"
+    },
+    {
+      "album": {
+        "name": "Who's That Boy",
+        "url": "https://open.spotify.com/album/64vOiVH7EJ4AF6gvg2T109"
+      },
+      "artists": [
+        {
+          "name": "Guraaj",
+          "url": "https://open.spotify.com/artist/5nZxaUMMma4y6EptlQvdCF"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Who's That Boy",
+      "url": "https://open.spotify.com/track/7qEbeSUmsRg3w1vJ29aktD"
     },
     {
       "album": {

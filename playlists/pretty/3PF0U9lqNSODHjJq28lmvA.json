@@ -1,236 +1,180 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2451,
+  "num_followers": 2452,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD/VkJcjZPrWHiHDhgrosB8dGLpZoV",
+  "snapshot_id": "AAAD//0Ucy4Q8UuFwW+IG3xON5IlIp1x",
   "tracks": [
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Livet v\u00e4nder",
-        "url": "https://open.spotify.com/album/39whzHoXJPd9WlXb3GWgf7"
+        "name": "Badniss Prevail",
+        "url": "https://open.spotify.com/album/5jw6MZ7JTFOLgz0LbFYINI"
       },
       "artists": [
         {
-          "name": "Maklo & Peter",
-          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
+          "name": "Zak Meow",
+          "url": "https://open.spotify.com/artist/1vxwMUq5mzOM1SEMAmaNeg"
+        },
+        {
+          "name": "Mad Hed City",
+          "url": "https://open.spotify.com/artist/3rhP4XZHhrWkwgm7aW0QhN"
         }
       ],
-      "duration_ms": 160753,
-      "name": "Livet v\u00e4nder",
-      "url": "https://open.spotify.com/track/7BI9AcbUtiLpdY46PCzU8f"
+      "duration_ms": 207303,
+      "name": "Badniss Prevail",
+      "url": "https://open.spotify.com/track/6uvObxiHp2WQYCEULbsNWJ"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Kom Till Mig",
-        "url": "https://open.spotify.com/album/3rvTyKS7P75Z0DD7BbJsz3"
+        "name": "Den Enda",
+        "url": "https://open.spotify.com/album/1eOpUQkGzfEKMc2eKDAO8y"
       },
       "artists": [
         {
-          "name": "Mik\u00e4el",
-          "url": "https://open.spotify.com/artist/531Lk2RKOoToHcmoPdeLLd"
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
         }
       ],
-      "duration_ms": 263200,
-      "name": "Kom Till Mig",
-      "url": "https://open.spotify.com/track/0g1CDlOCIQ7hdrwKoecPs9"
+      "duration_ms": 142909,
+      "name": "Den Enda",
+      "url": "https://open.spotify.com/track/1eTi94P3SyI76M75DApTsw"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Percussion in Orbit",
-        "url": "https://open.spotify.com/album/7xla2eUl4x3x1YZrxnXr5G"
+        "name": "Juna",
+        "url": "https://open.spotify.com/album/1CuQyS7Rj9Ew9JzOLJiugU"
       },
       "artists": [
         {
-          "name": "Torbj\u00f6rn Langborn",
-          "url": "https://open.spotify.com/artist/4PwC1M4GYKQflVWEcEN8Hc"
+          "name": "Maija Pokela",
+          "url": "https://open.spotify.com/artist/0QThDEqaMXQFHELNtupMAv"
         }
       ],
-      "duration_ms": 194700,
-      "name": "Percussion in Orbit",
-      "url": "https://open.spotify.com/track/2pW6r2Zk9ewVIVdgsK4xEt"
+      "duration_ms": 268754,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/0EvTOW8zLmTEaHKu4oy5ro"
     },
     {
-      "added_at": "2025-01-03 16:21:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Back Of My Mind",
-        "url": "https://open.spotify.com/album/5fmiivKEfk8U8UNznT2KFp"
+        "name": "Meille se paistaa aina",
+        "url": "https://open.spotify.com/album/07BmI9wGo4VVtphAkc6Slc"
       },
       "artists": [
         {
-          "name": "Kaplan Dayhill",
-          "url": "https://open.spotify.com/artist/5ZolRUt0vZTGkcVsEcWRxT"
+          "name": "Flippipuisto",
+          "url": "https://open.spotify.com/artist/3IWc5MkkGRWeLMZercb9Q1"
+        },
+        {
+          "name": "Tuomio",
+          "url": "https://open.spotify.com/artist/5iQPQafMfAtVerqiBfViUp"
         }
       ],
-      "duration_ms": 275121,
-      "name": "Back Of My Mind",
-      "url": "https://open.spotify.com/track/6l4xZwnlsibx8mi6Uya2rK"
+      "duration_ms": 237040,
+      "name": "Meille se paistaa aina",
+      "url": "https://open.spotify.com/track/2UilSD2YxYQ8NJSY0StAL6"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "The Piano Project, Vol. 2",
-        "url": "https://open.spotify.com/album/1dFBjvgBgMfIAPnB1WdPTR"
+        "name": "Waking Daydream",
+        "url": "https://open.spotify.com/album/6hzarOSyDdLyFDiUwnLsZS"
       },
       "artists": [
         {
-          "name": "Wajsman Projects",
-          "url": "https://open.spotify.com/artist/0cyBQHNkU9Pz5ZKZyWAiLS"
+          "name": "M'Grasker",
+          "url": "https://open.spotify.com/artist/4x8cddeqolBWunDvYI1G0O"
         }
       ],
-      "duration_ms": 191046,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/7LLKaqpAkEVOzDhsozQLZi"
+      "duration_ms": 228852,
+      "name": "Waking Daydream",
+      "url": "https://open.spotify.com/track/2Ln33LuJvdRrUYbe9YeHXQ"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "In Fumo",
-        "url": "https://open.spotify.com/album/3SQp0oTi9ZC5Qt4irnCoeA"
+        "name": "Me estraga",
+        "url": "https://open.spotify.com/album/7ftLTryflSEqPPBa3Lp13u"
       },
       "artists": [
         {
-          "name": "A Padded Room",
-          "url": "https://open.spotify.com/artist/4OlnXI8uSAdfQTVbeYzYwg"
+          "name": "Alfaj\u00f3r",
+          "url": "https://open.spotify.com/artist/0cjamKBijAH9BDLkIqJJms"
         }
       ],
-      "duration_ms": 177925,
-      "name": "Cruising",
-      "url": "https://open.spotify.com/track/0UkUwPHkRwvco95scVSFi1"
+      "duration_ms": 240000,
+      "name": "Me estraga",
+      "url": "https://open.spotify.com/track/2hbn6BgtR5o7atlvONfzgZ"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "the spot",
-        "url": "https://open.spotify.com/album/5ogXwX7LPsbD15IFKYg76j"
+        "name": "Estoy bien",
+        "url": "https://open.spotify.com/album/2481u0JBlLIpGMeCV7xGAF"
       },
       "artists": [
         {
-          "name": "Shanika Sunrise",
-          "url": "https://open.spotify.com/artist/0gB7sH5755n2C6dOLMj9wF"
+          "name": "Baxtards",
+          "url": "https://open.spotify.com/artist/2bkTfSAn3OtR879neCk2zA"
         }
       ],
-      "duration_ms": 135428,
-      "name": "the spot",
-      "url": "https://open.spotify.com/track/6OMF5PEgwM9RbqeiLx6cs3"
+      "duration_ms": 196427,
+      "name": "Estoy bien",
+      "url": "https://open.spotify.com/track/6zjCws6tQbnsNb23TdParX"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Alas de papel",
-        "url": "https://open.spotify.com/album/4r1ko5ErPeRQcLH4oIUhBK"
+        "name": "Wear The Crown",
+        "url": "https://open.spotify.com/album/2ehPIWpxRGHOxHdC2Xi6v1"
       },
       "artists": [
         {
-          "name": "ANE",
-          "url": "https://open.spotify.com/artist/73BaTV6ZzlmAINqDuCEEJg"
+          "name": "Tinnitus",
+          "url": "https://open.spotify.com/artist/4Voc87RhqtojHzLR3LrNao"
         }
       ],
-      "duration_ms": 187279,
-      "name": "Alas de papel",
-      "url": "https://open.spotify.com/track/6syps1RXlJePGlAMZaxakw"
+      "duration_ms": 259337,
+      "name": "Wear The Crown",
+      "url": "https://open.spotify.com/track/3Xq9xOpTVDqJhX48M2cMC5"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "Picking Flowers",
-        "url": "https://open.spotify.com/album/05peY5jKFjBI9WSWfNSTvr"
+        "name": "Backseat Kiss",
+        "url": "https://open.spotify.com/album/7qxl0Tv8LMR0cp6qgXuLlp"
       },
       "artists": [
         {
-          "name": "debtor's island",
-          "url": "https://open.spotify.com/artist/4Xg08qh83CKCVDJVICTkaU"
+          "name": "Ramterry",
+          "url": "https://open.spotify.com/artist/5rDIjeU57mRNYrHfh2UOxP"
         }
       ],
-      "duration_ms": 133545,
-      "name": "Picking Flowers",
-      "url": "https://open.spotify.com/track/7zX0D7PtJOLgzQTGAVIUnp"
+      "duration_ms": 181995,
+      "name": "Paradi",
+      "url": "https://open.spotify.com/track/2OyuThuShle80pKEGXxoY8"
     },
     {
-      "added_at": "2025-01-03 13:57:43",
+      "added_at": "2025-01-10 14:45:34",
       "album": {
-        "name": "You're Chasing her (She's after him)",
-        "url": "https://open.spotify.com/album/3k9CxFRC1eugTjedloR3lq"
+        "name": "Starkare",
+        "url": "https://open.spotify.com/album/7me9MzWJ6bOQw8OizCgXsR"
       },
       "artists": [
         {
-          "name": "The Riverstones",
-          "url": "https://open.spotify.com/artist/2oFDCmtK2WsxKg2CenFiiF"
+          "name": "LiMa & Den Magiska Orkestern",
+          "url": "https://open.spotify.com/artist/4EFeVH27Bx6hiXFWSzr1tg"
         }
       ],
-      "duration_ms": 262643,
-      "name": "You're Chasing her (She's after him)",
-      "url": "https://open.spotify.com/track/2nEEGHqydfrCYFcsJnJl39"
-    },
-    {
-      "added_at": "2025-01-03 13:57:43",
-      "album": {
-        "name": "Hemvisor",
-        "url": "https://open.spotify.com/album/6mpqa4sJUuufEkfwziFXNd"
-      },
-      "artists": [
-        {
-          "name": "pettersonystr\u00f6m",
-          "url": "https://open.spotify.com/artist/7zcJdrC8tusgvLG7JTSs7c"
-        }
-      ],
-      "duration_ms": 299096,
-      "name": "Hemvisan",
-      "url": "https://open.spotify.com/track/3eqcEdxeCqreHfjeK1LuYb"
-    },
-    {
-      "added_at": "2025-01-03 13:57:43",
-      "album": {
-        "name": "American Fairytales",
-        "url": "https://open.spotify.com/album/3PXJiZ5FG5ehnVSZC12mZ4"
-      },
-      "artists": [
-        {
-          "name": "The Gillyweeds",
-          "url": "https://open.spotify.com/artist/62MvhL2OQZgRFaepWIvsQm"
-        }
-      ],
-      "duration_ms": 164703,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7lgcUYGrxEoOd3fgKClA8T"
-    },
-    {
-      "added_at": "2025-01-03 13:57:43",
-      "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/5qf9qRQyFO0IRgKZ7KaHHK"
-      },
-      "artists": [
-        {
-          "name": "Spastic Bliss",
-          "url": "https://open.spotify.com/artist/0LGQTLqDXvuJsG07FDWEZI"
-        }
-      ],
-      "duration_ms": 185131,
-      "name": "Departure - 2024 version",
-      "url": "https://open.spotify.com/track/55QhNEmy2Mpc2EVNTZP4fH"
-    },
-    {
-      "added_at": "2025-01-03 13:57:43",
-      "album": {
-        "name": "Mountain Whispers",
-        "url": "https://open.spotify.com/album/5DzgO20rqAMlROthlMKMPU"
-      },
-      "artists": [
-        {
-          "name": "Mountain Whispers",
-          "url": "https://open.spotify.com/artist/1jatZQLl6tiAWaEJ6BwngW"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "Dusty Trails",
-      "url": "https://open.spotify.com/track/155H6wYmagBVPlGGESq6vh"
+      "duration_ms": 218054,
+      "name": "Starkare",
+      "url": "https://open.spotify.com/track/4zuYEElT4gti8Iguqtsj1g"
     }
   ],
   "unique_name": "Independent Music Friday",

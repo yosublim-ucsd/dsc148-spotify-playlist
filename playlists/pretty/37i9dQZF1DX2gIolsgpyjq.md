@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Venus Anon
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,998 likes - 77 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,015 likes - 77 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

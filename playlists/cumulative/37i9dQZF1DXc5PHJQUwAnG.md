@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. OPYI en portada.
+> Bienvenidx a la trampa mexa\. Hadrian en portada.
 
-333 songs - 15 hr 43 min
+335 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Cold](https://open.spotify.com/track/1OTu7ZcpY41n6I6OatvxrE) | [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [Cold](https://open.spotify.com/album/3A8hkJurqoU1acTlMYrynX) | 2:04 | 2023-06-09 | 2024-05-18 |
 | [Como los Mayas](https://open.spotify.com/track/7BrUPHFW0AY1kD9isV1afQ) | [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Como los Mayas](https://open.spotify.com/album/1pXyqBO8Z7h7WFE6Fyj6M3) | 2:54 | 2023-06-30 | 2023-07-28 |
 | [Como Árabe](https://open.spotify.com/track/11yUEHPquTRkBG0yk6b8uH) | [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq) | [Como Árabe](https://open.spotify.com/album/4PMTPKw0hkP19d2mQnUWoL) | 2:51 | 2023-06-09 | 2023-07-01 |
+| [Condena y Condición](https://open.spotify.com/track/3w2E5LmZhjvt5Sh7J46XTD) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Condena y Condición](https://open.spotify.com/album/28BLUpMdCUbH4ApfObVycy) | 2:23 | 2025-01-10 |  |
 | [CONECTADOS](https://open.spotify.com/track/1ry0XirFcsuXDL1hNASmzn) | [Asis](https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [CONECTADOS](https://open.spotify.com/album/4ub4ax3mHDXzRr8NJ5hKZO) | 3:28 | 2024-01-03 | 2024-01-13 |
 | [Contracorriente](https://open.spotify.com/track/3hKiiQ4sNkUpGR6zAxv0q7) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Contracorriente](https://open.spotify.com/album/3nncczUw88uWd2HqC2y0VI) | 2:15 | 2023-06-09 | 2024-06-29 |
 | [Corazón](https://open.spotify.com/track/1ZVO9HcHEXoy6MrU7dWN5S) | [GAUUTAMA](https://open.spotify.com/artist/1hFd74OqMugjIhVvWYaHz8) | [ANAHATA](https://open.spotify.com/album/5sLHNu0gjKuvuCZ9A1wdap) | 2:18 | 2023-06-09 | 2023-10-07 |
@@ -122,6 +123,7 @@
 | [Estilo Bélico](https://open.spotify.com/track/4N2QWDCHXmLNQX94TxUc8s) | [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Estilo Bélico](https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh) | 4:22 | 2024-07-05 |  |
 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 | 2023-06-09 | 2024-05-18 |
 | [fa$hion killa](https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [fa$hion killa](https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8) | 2:08 | 2024-02-26 |  |
+| [Facecard](https://open.spotify.com/track/79brPmZVnUNZi36uoQGnKu) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Facecard](https://open.spotify.com/album/4gLP1pXGiFiaGhyi07PPfZ) | 2:48 | 2025-01-10 |  |
 | [Fairfax](https://open.spotify.com/track/64iPb2usmtnqDPN1pkupKL) | [NARCOWAVE](https://open.spotify.com/artist/5HsCByRcETSXKR68UIWXXn), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Cuatro días en Los Ángeles](https://open.spotify.com/album/7vz5S4gQcJybhgWHC6vMou) | 3:37 | 2023-12-01 | 2024-06-15 |
 | [Fake Love](https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Fake Love](https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn) | 2:54 | 2024-07-26 |  |
 | [Fashion Luv](https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Kidd Manny](https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8), [Lee Kartiér](https://open.spotify.com/artist/6ulmJpFaIN3hwRf925AnXi) | [Fashion Luv](https://open.spotify.com/album/02n7xATM34AtXmD43Rq9z6) | 3:21 | 2024-02-09 |  |

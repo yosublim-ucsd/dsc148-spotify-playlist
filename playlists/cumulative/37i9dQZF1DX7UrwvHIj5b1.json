@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "St Hillard",
+        "url": "https://open.spotify.com/album/6ZJNAqYEU2jQ8pNjUApOFv"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193710,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/6Hl2mD2ITGSxzCb0r8JJxJ"
+    },
+    {
+      "album": {
         "name": "One More for My Father",
         "url": "https://open.spotify.com/album/5OqWugesLlR8Gj3Fz43U7w"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 205718,
       "name": "Night Square",
       "url": "https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV"

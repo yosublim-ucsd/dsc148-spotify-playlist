@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 211893,
       "name": "11th Avenue",
       "url": "https://open.spotify.com/track/63TJ7wdIXknPkileqM2lGy"
@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Anhedonia",
+        "url": "https://open.spotify.com/album/5EIAUtCPPyAj0GQml6iOOo"
+      },
+      "artists": [
+        {
+          "name": "Korine",
+          "url": "https://open.spotify.com/artist/2kkHe1abWV084RUXhSEf2q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Anhedonia",
+      "url": "https://open.spotify.com/track/6PNUQmIG59A06dKLBczqAG"
+    },
+    {
+      "album": {
         "name": "Anna",
         "url": "https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7"
       },
@@ -476,7 +494,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 220527,
       "name": "Architect's Studio",
       "url": "https://open.spotify.com/track/0mGIjSlwqI4e8oPzxfhFx9"
@@ -596,6 +614,24 @@
       "duration_ms": 192701,
       "name": "Back For The Funeral",
       "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
+    },
+    {
+      "album": {
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/61PvO5FDtdAxQeaHzNz71y"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216423,
+      "name": "Back In Town",
+      "url": "https://open.spotify.com/track/3drEpVgZySIM7pl0JXw8Xe"
     },
     {
       "album": {
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 173333,
       "name": "burn for you",
       "url": "https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD"
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 284102,
       "name": "Chaos in Calm",
       "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
@@ -1772,6 +1808,24 @@
       "duration_ms": 247000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2"
+    },
+    {
+      "album": {
+        "name": "Chewing Plastic",
+        "url": "https://open.spotify.com/album/1dpm2qXPTls4e5L9D0E7u0"
+      },
+      "artists": [
+        {
+          "name": "clay pigeon",
+          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187807,
+      "name": "Chewing Plastic",
+      "url": "https://open.spotify.com/track/61RqgvgUq6rE96E67ByBf2"
     },
     {
       "album": {
@@ -3244,7 +3298,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 221394,
       "name": "Fig Tree",
       "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
@@ -3940,7 +3994,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 200244,
       "name": "HAMMER",
       "url": "https://open.spotify.com/track/4MjmHkz8hK2g1QVFMzFDuk"
@@ -4849,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "I Hate the Internet / True Devotion",
+        "url": "https://open.spotify.com/album/54w7HgMTJI295pdatRThsz"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173698,
+      "name": "I Hate the Internet",
+      "url": "https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502"
+    },
+    {
+      "album": {
         "name": "I Just Killed a Spider",
         "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
       },
@@ -5561,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "Knockin' Heart",
+        "url": "https://open.spotify.com/album/6ICiXb9Fx7UimhBhEGj1GS"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Leithauser",
+          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202780,
+      "name": "Knockin' Heart",
+      "url": "https://open.spotify.com/track/6D7MbHc4xPWTe5Oo3nGNbi"
+    },
+    {
+      "album": {
         "name": "know that you're not alone",
         "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
       },
@@ -5904,7 +5994,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 228278,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/7Cv1d26p4d0ggXViHcHEf4"
@@ -6518,7 +6608,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 373589,
       "name": "My Gemini - Ocean Rave Mix",
       "url": "https://open.spotify.com/track/7K5Vb76gxhYQZBT4noKlBh"
@@ -6760,7 +6850,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 191413,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7stq3fUfCuELUMpssiGI04"
@@ -6944,6 +7034,24 @@
       "duration_ms": 169800,
       "name": "Numb To What Is Real",
       "url": "https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O"
+    },
+    {
+      "album": {
+        "name": "Oak Tree (Daydream)",
+        "url": "https://open.spotify.com/album/4CDYgTzlYS7Lpa92mz3fn5"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179810,
+      "name": "Oak Tree (Daydream)",
+      "url": "https://open.spotify.com/track/2jbkgzQvLdMvyMd0RnyB2i"
     },
     {
       "album": {
@@ -7658,7 +7766,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 277741,
       "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
       "url": "https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG"
@@ -7824,7 +7932,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 188189,
       "name": "RELIEF",
       "url": "https://open.spotify.com/track/2HJ8itVHbsC39Db8Z4hWY1"
@@ -8109,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "r\u00e9my",
+        "url": "https://open.spotify.com/album/5bY5HYIqcdfYls2bQ7a3nW"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "r\u00e9my",
+      "url": "https://open.spotify.com/track/6vhulvd1JsmEpDm3ryzaVi"
+    },
+    {
+      "album": {
         "name": "Sadie Hawkins Prom",
         "url": "https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g"
       },
@@ -8160,6 +8286,24 @@
       "duration_ms": 236469,
       "name": "Say You Don't Mind",
       "url": "https://open.spotify.com/track/7lJFPuZylpl7oNT0JLPXPn"
+    },
+    {
+      "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
     },
     {
       "album": {
@@ -8715,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "Speed Freak",
+        "url": "https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209851,
+      "name": "Speed Freak",
+      "url": "https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U"
+    },
+    {
+      "album": {
         "name": "History Books",
         "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
       },
@@ -8928,6 +9090,24 @@
       "duration_ms": 219560,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/1vsF7CkEYNAHarwF9ANndA"
+    },
+    {
+      "album": {
+        "name": "I Can Change Your Mind",
+        "url": "https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Stop Me If I've Told You This Story",
+      "url": "https://open.spotify.com/track/4lgKpZ1SXXBrfz9QuWHczt"
     },
     {
       "album": {
@@ -10368,6 +10548,24 @@
       "duration_ms": 214280,
       "name": "What a Ride",
       "url": "https://open.spotify.com/track/6TEBV3dt61W1x39HfFZOgC"
+    },
+    {
+      "album": {
+        "name": "What Do Girls Do?",
+        "url": "https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166755,
+      "name": "What Do Girls Do?",
+      "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"
     },
     {
       "album": {

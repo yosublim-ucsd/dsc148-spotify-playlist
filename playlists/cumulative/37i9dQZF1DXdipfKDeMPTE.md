@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-640 songs - 1 day 0 hr 21 min
+643 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Folded Notes](https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH) | [Pastblink](https://open.spotify.com/artist/6aXm62k9vCjNBALspldTxL) | [Pieces of Earth](https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v) | 2:39 | 2022-05-20 | 2022-07-28 |
 | [Follow The Lights](https://open.spotify.com/track/2vl2lbZvqLHIc6s82WA3Ki) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Follow The Lights](https://open.spotify.com/album/260DlmFD7lGtDIGXpwhTn3) | 2:09 | 2022-11-25 | 2024-07-13 |
 | [Fonts](https://open.spotify.com/track/0R59jpigi9VVdPo9DA6VA4) | [Manganese Sprinter](https://open.spotify.com/artist/3a9R6p2JMCzIPmdXA7d2yK) | [Fonts](https://open.spotify.com/album/1lxDN41o2LThFNVoxawIfj) | 2:25 | 2022-11-25 |  |
-| [For moments I feel faint](https://open.spotify.com/track/3sIswN4uYoDFjAP2eTDdQo) | [Long Lex](https://open.spotify.com/artist/015Z0270CgmlU2g9mxfO3T) | [For moments I feel faint](https://open.spotify.com/album/0xZVV0yJrTVjUumCMMZyL0) | 2:05 | 2023-01-20 |  |
+| [For moments I feel faint](https://open.spotify.com/track/3sIswN4uYoDFjAP2eTDdQo) | [Long Lex](https://open.spotify.com/artist/015Z0270CgmlU2g9mxfO3T) | [For moments I feel faint](https://open.spotify.com/album/0xZVV0yJrTVjUumCMMZyL0) | 2:05 | 2023-01-20 | 2025-01-11 |
 | [formation lap](https://open.spotify.com/track/7I8wUsYXUME6ktOY0RprTr) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [formation lap](https://open.spotify.com/album/4V3muidwyJY57uAER1HnWg) | 2:04 | 2023-03-27 | 2023-11-18 |
 | [garden of lush beats](https://open.spotify.com/track/47FbTYRMQXHDAB6waniq4C) | [noisy village](https://open.spotify.com/artist/5K0UZtw603KwGujVHHlozd) | [garden of lush beats](https://open.spotify.com/album/7E6LxWMnS26pRzPoWqbbWF) | 1:32 | 2022-05-20 | 2022-06-10 |
 | [Garnet](https://open.spotify.com/track/3aG6UBjGHkp556YEYsXAwc) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Marino](https://open.spotify.com/album/57GbYeIQ0LuKLiRF72DJ7H) | 1:34 | 2022-05-20 | 2022-12-10 |
@@ -399,6 +399,7 @@
 | [Nighttime](https://open.spotify.com/track/2lCvlRPnecviTrOhgBpSV5) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Nighttime](https://open.spotify.com/album/1TFgsZLJn3vXjIBIBh9BA8) | 2:05 | 2023-04-11 |  |
 | [nighttimez](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [nighttimez](https://open.spotify.com/album/26o8cVWkrGSR55JnJSZxuo) | 1:51 | 2022-11-11 |  |
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-09-13 |  |
+| [Niigata](https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Niigata](https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71) | 2:38 | 2025-01-10 |  |
 | [no capuccino](https://open.spotify.com/track/1E7OUtZolsHcNCvn2JFKwS) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [fin alley](https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj) | 2:01 | 2022-05-20 | 2023-01-18 |
 | [No one watches but the moon](https://open.spotify.com/track/1GPFXuz0xV9f6VMbzmsS5Z) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [No one watches but the moon](https://open.spotify.com/album/3FRXrAmRh8KyiWpjxlnLZs) | 2:22 | 2022-12-09 | 2024-11-30 |
 | [Nocturne](https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i) | [Digimazz](https://open.spotify.com/artist/0r4jxyuYzVGceiKpA9188p) | [Nocturne](https://open.spotify.com/album/0c95UQZbAT5ulrcizxI3xI) | 2:16 | 2022-05-20 | 2023-09-26 |
@@ -513,6 +514,7 @@
 | [Simple Living](https://open.spotify.com/track/3mHqiGTqnGbL51qOfvDtO2) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Refuge](https://open.spotify.com/album/7culv1yk9fUy7tkMcLaOM2) | 2:22 | 2022-09-09 | 2023-09-26 |
 | [Sisel](https://open.spotify.com/track/4RuOmLG4DBz3BA5UyWpcpS) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:23 | 2022-05-20 | 2023-01-18 |
 | [Skate and/or die](https://open.spotify.com/track/1rL6vJL0i3kGkkOageCNLY) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Skate and/or die](https://open.spotify.com/album/7uzU5JiB7Xha4Vyl7Fl6xJ) | 1:34 | 2022-05-20 | 2023-09-26 |
+| [Skylghts](https://open.spotify.com/track/2o0dQMcekq9d0PpQIvOfma) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Skylghts](https://open.spotify.com/album/2PR7GoyCdyQ2hgEeEF8P3y) | 2:21 | 2025-01-10 |  |
 | [Skylines](https://open.spotify.com/track/3kvOTQWodqhF2kJOM4Jwd9) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Skylines](https://open.spotify.com/album/7k9zg9J556Yxl2CYLZkCdG) | 2:13 | 2022-09-16 |  |
 | [Slack\-jawed](https://open.spotify.com/track/3FXTVPlMP7FfGOafCOk3Cc) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Slack\-jawed](https://open.spotify.com/album/6TxO2cqvIqROVKsBX6OxrK) | 2:09 | 2023-09-22 |  |
 | [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 |  |
@@ -575,6 +577,7 @@
 | [Technological Jazz](https://open.spotify.com/track/5VCEGZ2HQOY3SMWXlGT8uw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:18 | 2023-03-27 |  |
 | [Ten Ocean](https://open.spotify.com/track/4rgjOcbLnEyakVKfbvACRL) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Sunshine Breeze](https://open.spotify.com/album/30ggGRKtPaLWpJh6nrptXa) | 2:36 | 2022-05-20 |  |
 | [thaws / thoughts](https://open.spotify.com/track/7efIiYXXWIzqMgWHzhtL5A) | [WRECKLESSNEZ](https://open.spotify.com/artist/6aWUNkKTWYsWKl6QjIwPd1) | [thaws / thoughts](https://open.spotify.com/album/1KKKlnKneRhuZBR6X9V7ig) | 2:39 | 2022-05-20 | 2022-07-28 |
+| [The Calm](https://open.spotify.com/track/1r11FNdYPaGKYzTaW6H857) | [Paul Prime](https://open.spotify.com/artist/15B9ZmmgDysKO1mJggYWgU), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [The Calm](https://open.spotify.com/album/3tqdmNTAsBljKWpJKE1jcZ) | 2:03 | 2025-01-10 |  |
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-08 |  |
 | [The Hideout](https://open.spotify.com/track/6Ohyi1NkOWMKxQDfL3TL6X) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [The Hideout](https://open.spotify.com/album/0gqfC6kwsLNsU4WMKuPP3n) | 2:18 | 2022-05-20 | 2022-06-10 |
 | [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 | 2024-01-05 |  |

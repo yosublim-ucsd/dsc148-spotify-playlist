@@ -6201,6 +6201,28 @@
     },
     {
       "album": {
+        "name": "Toda Semana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04ot5vt5lAGXBgUurWdxR7"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197467,
+      "name": "Toda Semana (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4blWDvFHrkxaJ94SGD7uMr"
+    },
+    {
+      "album": {
         "name": "Trago",
         "url": "https://open.spotify.com/album/5cag6hceskkaIVqroR55Aq"
       },

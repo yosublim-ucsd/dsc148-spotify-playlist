@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-156 songs - 9 hr 18 min
+157 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2021-11-26 |  |
 | [India \(Tarde De Sol\)](https://open.spotify.com/track/1O5NM6DEmroU160palBrX7) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [India](https://open.spotify.com/album/0ZUGe88QMoEUDETw0rOao3) | 3:08 | 2021-11-26 |  |
 | [Ingênuo](https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ) | 4:25 | 2021-11-26 | 2024-04-19 |
-| [Ingênuo](https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/6gNaI6mkSJtD1QXDGkAcgO) | 4:25 | 2021-11-26 |  |
+| [Ingênuo](https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/6gNaI6mkSJtD1QXDGkAcgO) | 4:25 | 2021-11-26 | 2025-01-11 |
 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-18 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 | 2021-11-26 |  |
 | [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 | 2024-06-15 |
@@ -112,6 +112,7 @@
 | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ) | [Rodrigo Borges](https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU), [Mauricio Tizumba](https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX), [Josi Lopes](https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q), [Play](https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP) | [Queixa \(feat\. Maurício Tizumba, Josi Lopes & Play\)](https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW) | 5:32 | 2021-11-26 | 2024-03-09 |
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 | 2021-11-26 |  |
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Balanço na Quebrada](https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r) | 3:44 | 2022-10-14 | 2024-04-19 |
+| [Rapaz de Bem](https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt) | [Vanessa Jackson](https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP) | [Rapaz de Bem](https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi) | 3:29 | 2025-01-10 |  |
 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |
 | [Salomé](https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD) | [Matheus Fonseca](https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss) | [Salomé](https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K) | 3:56 | 2024-09-09 |  |

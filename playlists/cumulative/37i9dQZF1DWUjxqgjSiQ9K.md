@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: World Worship
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Julissa
 
-688 songs - 2 day 6 hr 8 min
+689 songs - 2 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Gracias](https://open.spotify.com/track/0oL6iQGjNapmqwRSchl2g5) | [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Gracias](https://open.spotify.com/album/1Fy1zFN4Kgjhc1XsRzxI4p) | 3:13 | 2023-03-03 | 2023-09-09 |
 | [Gracias](https://open.spotify.com/track/7i8ZNfQoW8NdbGflJ3Sx2w) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Gracias](https://open.spotify.com/album/7GgcM9RrWZmp4xo0SGUZrN) | 3:03 | 2022-02-25 | 2022-04-02 |
 | [Gracias](https://open.spotify.com/track/4PZo0ezNvqrwv4KB27m7cM) | [Mision Rescate worship](https://open.spotify.com/artist/16N7wRF6IPpR33FyycomhY), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Gracias](https://open.spotify.com/album/0LTPe8lgBKZbso4WBdHx74) | 5:09 | 2023-11-10 | 2024-06-01 |
+| [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/7na223f2psSLrQ12d6IHju) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/album/7Jz5g6am9wp7MIVSvbDCau) | 4:21 | 2025-01-10 |  |
 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 | 2024-03-15 |  |
 | [Gracias Dios \(I Thank God\)](https://open.spotify.com/track/6y5X5hmwqGg9CEFXqoxBYs) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Gracias Dios \(I Thank God\)](https://open.spotify.com/album/0tyDdxmO7qzT0aG01gki0R) | 3:41 | 2024-07-12 |  |
 | [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 | 2023-07-14 | 2024-02-17 |
@@ -303,7 +304,7 @@
 | [Habita entre nosotros](https://open.spotify.com/track/0Ux84pv1A6aVwtDHlB3rkO) | [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Habita entre nosotros](https://open.spotify.com/album/3GHfF3Up2dNyc88e9CoPEd) | 6:03 | 2024-07-05 | 2024-08-03 |
 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 | 2022-08-26 | 2022-11-19 |
 | [Hay Fiesta](https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hay Fiesta](https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp) | 3:12 | 2022-09-02 | 2022-10-22 |
-| [Hay Libertad \(Reimagined\)](https://open.spotify.com/track/0Z5bqtzjelFK9Z4wuIngim) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT) | [Hay Libertad \(Reimagined\)](https://open.spotify.com/album/1JF2s8tuSmv8QfcLF9xeDb) | 3:13 | 2024-07-05 |  |
+| [Hay Libertad \(Reimagined\)](https://open.spotify.com/track/0Z5bqtzjelFK9Z4wuIngim) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT) | [Hay Libertad \(Reimagined\)](https://open.spotify.com/album/1JF2s8tuSmv8QfcLF9xeDb) | 3:13 | 2024-07-05 | 2025-01-11 |
 | [Hay Otra Salida](https://open.spotify.com/track/3mknhe55utC4ZZWyVuyT8T) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/6yFD9a0CkXz8tY75nyN9wo) | 3:03 | 2022-02-25 | 2022-03-18 |
 | [Hay un hombre](https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Hay un hombre](https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd) | 4:20 | 2023-06-16 | 2023-07-15 |
 | [Hay Un Nombre](https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu Iglesia](https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP) | 4:58 | 2023-07-28 |  |

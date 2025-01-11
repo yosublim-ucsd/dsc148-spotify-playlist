@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-229 songs - 13 hr 28 min
+232 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [LA FAMA](https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b) | [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [LA FAMA](https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91) | 2:59 | 2023-06-12 |  |
 | [Landslide](https://open.spotify.com/track/3cqyQwEXyVGvU7c8250UWv) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Landslide](https://open.spotify.com/album/6BUZTu3OY8K7NDNyLeOvcE) | 2:15 | 2024-10-18 |  |
 | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/track/4guuWK2dDbaascmSeE191L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Lend Me Your Voice \(feat\. Tina Guo\)](https://open.spotify.com/album/3mFvgCj4JaMobvWndyr5rx) | 4:11 | 2024-10-18 |  |
+| [Let It Go \(Arr\. Piano\) \- from "Frozen"](https://open.spotify.com/track/1YQ7qsm38YWMnI5KsYKo7m) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Let It Go \(Arr\. Piano\) \[from "Frozen"\]](https://open.spotify.com/album/17XgiFIV5IjdD7lERbbqeP) | 2:46 | 2025-01-10 |  |
 | [Let's Get Loud](https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Let's Get Loud](https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR) | 3:47 | 2022-08-12 |  |
 | [Livin' On A Prayer \- Symphony Orchestra Version](https://open.spotify.com/track/6QeWU1rbQEIEDvDJPWN8Km) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Classical 80's Songs \(Symphony Orchestra Versions\)](https://open.spotify.com/album/7eAphLGUamTfmjC48TibAt) | 2:30 | 2024-09-06 |  |
 | [Lose Yourself](https://open.spotify.com/track/1crphtLmE5qben7biopmp3) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck) | 3:06 | 2022-07-08 | 2024-04-19 |
@@ -202,6 +203,7 @@
 | [Teardrop](https://open.spotify.com/track/1ammM5JONGbcVDXpuSWgSx) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 4:30 | 2024-07-12 |  |
 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 | 2021-11-19 |  |
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2021-11-19 |  |
+| [The Unforgiven](https://open.spotify.com/track/3mIjX3Z3jh99AS7YWE5CsP) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [The Unforgiven](https://open.spotify.com/album/4eyMtJkEyVQCj0eeCOX5xP) | 3:07 | 2025-01-10 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-09 | 2024-04-19 |
 | [this is me trying](https://open.spotify.com/track/7h1G8bUI9Os7rTI8HHKzN1) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [this is me trying](https://open.spotify.com/album/4cwNkvcj70OZcVECs51k1i) | 2:58 | 2024-10-18 |  |
@@ -227,6 +229,7 @@
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-19 |  |
 | [What About Us](https://open.spotify.com/track/0wgYA6SSrBSI9Egd3a5DBH) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Reprise](https://open.spotify.com/album/36jRbgc6JEZPQhwBxBoKFJ) | 4:51 | 2022-03-25 | 2022-04-07 |
 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 | 2022-03-30 |  |
+| [What Was I Made For \(Radio Edit\) \- Symphony Orchestra Version](https://open.spotify.com/track/2jTdCBtP6kg1T4yOuUOpAw) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [What Was I Made For \(Radio Edit\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/2pj6EFksazNOFr2DPyJxMh) | 3:32 | 2025-01-10 |  |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-11 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-19 |  |
 | [When You're Gone](https://open.spotify.com/track/3lIwgE7hC7X6kbRH3zKYsv) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [When You're Gone](https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg) | 3:00 | 2022-08-05 |  |

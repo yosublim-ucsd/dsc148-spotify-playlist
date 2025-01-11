@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 ### [New Music Friday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
 
-> The very best in new music from around the world\. <br/><br/>Cover: Morgan Wallen
+> The very best in new music from around the world\. <br/><br/>Cover: Teddy Swims & Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,841 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,916 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Jungle](https://open.spotify.com/track/4Fvz76cUmn97I8VFTryD9k) | [CALOUR](https://open.spotify.com/artist/2QsuJpOQYQFVqcIhERbMKC), [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Jungle](https://open.spotify.com/album/08mTYbLGp0YflNTOJOg9jn) | 3:01 |
 | 100 | [YOU LOOK JUST LIKE ME](https://open.spotify.com/track/1Jr0hw1IfvxgL59WRIDPZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [YOU LOOK JUST LIKE ME](https://open.spotify.com/album/2S46ybTdLbZeBr61BG0GFW) | 3:31 |
 
-Snapshot ID: `Z3dzFwAAAAARGxbs2Hg3dnZNzhgQNacg`
+Snapshot ID: `Z4CpdwAAAAC1ta5w1jU4DNWUx0SGaSHT`

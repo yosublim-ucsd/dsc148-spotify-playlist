@@ -4,7 +4,7 @@
 
 > He is coming\. Cover: Nosferatu
 
-301 songs - 22 hr 27 min
+302 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 | 2021-10-15 | 2024-04-19 |
 | [Beatrix](https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2021-10-15 | 2024-04-19 |
-| [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m) | 9:36 | 2021-10-15 |  |
+| [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m) | 9:36 | 2021-10-15 | 2025-01-11 |
+| [Bela Lugosi's Dead \- The Hunger Mix](https://open.spotify.com/track/5YkxdXwkJKMYkGvui9hRs8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bela Lugosi's Dead \(The Hunger Mix\)](https://open.spotify.com/album/1aNpufCyjQRxiINkt9Xp1g) | 6:53 | 2025-01-10 |  |
 | [Bella Donna](https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [Maria Dimension](https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG) | 4:07 | 2021-10-15 | 2025-01-10 |
 | [Bird Song](https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR) | [Lene Lovich](https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX) | [Lucky Number \(The Best Of\)](https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD) | 4:28 | 2021-10-15 | 2024-08-26 |
 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 | 2021-10-15 |  |

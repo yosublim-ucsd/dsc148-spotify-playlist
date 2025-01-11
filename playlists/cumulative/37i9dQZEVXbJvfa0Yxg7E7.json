@@ -20046,7 +20046,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 180986,
       "name": "Kor langt vil du g\u00e5",
       "url": "https://open.spotify.com/track/317Z7s4VTuuveubdV1HJEw"
@@ -32626,7 +32626,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 118451,
       "name": "stemmene i hodet",
       "url": "https://open.spotify.com/track/6XH1lfxmbIpzWXiJk9sqyG"
@@ -32648,7 +32648,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 118451,
       "name": "stemmene i hodet",
       "url": "https://open.spotify.com/track/7h5uol4wKzlsD16uNb7bJN"
@@ -35862,6 +35862,24 @@
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
+    },
+    {
+      "album": {
+        "name": "Treddis Hjemmesnekk",
+        "url": "https://open.spotify.com/album/1Zr2ZzsNatic2IjoYdFaxn"
+      },
+      "artists": [
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176379,
+      "name": "Treddis Hjemmesnekk",
+      "url": "https://open.spotify.com/track/7AXuB9NFsmfWSZtz11qX4s"
     },
     {
       "album": {

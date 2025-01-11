@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Me Enamore de Ti, y Que?",
+        "url": "https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Me Enamore de Ti, y Que?",
+      "url": "https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd"
+    },
+    {
+      "album": {
         "name": "Nuevo Milenio - El Mismo Sabor",
         "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 319180,
       "name": "No Es Amor",
       "url": "https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ"

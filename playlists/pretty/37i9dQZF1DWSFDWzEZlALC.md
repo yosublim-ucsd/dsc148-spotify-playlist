@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,610 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,636 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 75 | [Richtung Sonne \- OSWALD Remix](https://open.spotify.com/track/5yztbDRTINrSR1Ut01bjwk) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [Richtung Sonne \(OSWALD Remix\)](https://open.spotify.com/album/3ypykdBTksF0I61XbEdb3m) | 3:19 |
 
-Snapshot ID: `Z4BU9AAAAABLLnybKA9j720BHqBypP6X`
+Snapshot ID: `Z4DacgAAAAAUJGmWCssY+nt8hwPSw7sn`

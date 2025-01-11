@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and recent favorites of Prog Metal. Cover: Opeth",
+  "description": "New and recent favorites of Prog Metal. Cover: Jinjer",
   "name": "Progressive Metal",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 392506,
       "name": "A Bird and Its Feathers",
       "url": "https://open.spotify.com/track/0mWOuaFlEVTErYMgqPfd74"
+    },
+    {
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
     },
     {
       "album": {
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 232250,
       "name": "Blue Light Infinite",
       "url": "https://open.spotify.com/track/7ktvJx6PCExZaAXqfQWZeN"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 232320,
       "name": "Fear",
       "url": "https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB"
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 154483,
       "name": "Fistful Of Hornets",
       "url": "https://open.spotify.com/track/6XyB7AnLpgZaQYea4vRPdC"
@@ -4492,6 +4510,24 @@
       "duration_ms": 439813,
       "name": "Foothold",
       "url": "https://open.spotify.com/track/5hCep3iIvDnEGNu8FFlmxb"
+    },
+    {
+      "album": {
+        "name": "Beyond the Reach of the Sun",
+        "url": "https://open.spotify.com/album/1IQZLI0hmtFd073Dp8aZPE"
+      },
+      "artists": [
+        {
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492637,
+      "name": "Forbidden Sanctuary",
+      "url": "https://open.spotify.com/track/3Sw6fdbf4psr04Dn0VzArJ"
     },
     {
       "album": {
@@ -5135,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "Green Serpent",
+        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "Green Serpent",
+      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "album": {
         "name": "Gula",
         "url": "https://open.spotify.com/album/2P6ERbEJH2eVTmnoGd9qZh"
       },
@@ -5420,7 +5474,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 294852,
       "name": "Hello Death",
       "url": "https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM"
@@ -5600,7 +5654,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 289466,
       "name": "Hotel Sphinx",
       "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
@@ -6580,7 +6634,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 482240,
       "name": "L'Envol",
       "url": "https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje"
@@ -8961,6 +9015,24 @@
     },
     {
       "album": {
+        "name": "IHSAHN",
+        "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260545,
+      "name": "PILGRIMAGE TO OBLIVION",
+      "url": "https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq"
+    },
+    {
+      "album": {
         "name": "Piros kocsi, fekete \u00e9j",
         "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
       },
@@ -9196,7 +9268,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 183510,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
@@ -9558,7 +9630,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 364895,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
@@ -9836,6 +9908,24 @@
       "duration_ms": 351133,
       "name": "Sagittarius",
       "url": "https://open.spotify.com/track/0oDw63zv1ProfvH1HgfPvG"
+    },
+    {
+      "album": {
+        "name": "of the Last Human Being",
+        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Gorilla Museum",
+          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390762,
+      "name": "Salamander in Two Worlds",
+      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
     },
     {
       "album": {
@@ -10540,7 +10630,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 257396,
       "name": "Someone's Daughter",
       "url": "https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO"
@@ -12285,6 +12375,24 @@
     },
     {
       "album": {
+        "name": "Absolute Elsewhere",
+        "url": "https://open.spotify.com/album/7hriIeLMviZKpNfcXgpsd8"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410960,
+      "name": "The Stargate [Tablet III]",
+      "url": "https://open.spotify.com/track/5BRka5jlioljvRzYcGBdLJ"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
       },
@@ -12350,7 +12458,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
@@ -12556,7 +12664,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 600000,
       "name": "The World Breathes with Me",
       "url": "https://open.spotify.com/track/7vQF05SzXqqy9Op3xm39Qr"
@@ -13695,6 +13803,24 @@
     },
     {
       "album": {
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/014c5V0EGCimDcpOHHollM"
+    },
+    {
+      "album": {
         "name": "Waves of Extinction",
         "url": "https://open.spotify.com/album/0XYtsnr7eYUHkaBP02M2xo"
       },
@@ -14255,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
+    },
+    {
+      "album": {
         "name": "Zoro Kokonotsu No Yaiba (From \"One Piece\")",
         "url": "https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8"
       },
@@ -14324,6 +14468,28 @@
       "duration_ms": 306145,
       "name": "\u6b6a\u6b6a\u5730\u611b yyds",
       "url": "https://open.spotify.com/track/4odk2tyUd9ffdGDofPqP93"
+    },
+    {
+      "album": {
+        "name": "\u8607\u9192 II: Frailty",
+        "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
+      },
+      "artists": [
+        {
+          "name": "OU",
+          "url": "https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb"
+        },
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302094,
+      "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
+      "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv"

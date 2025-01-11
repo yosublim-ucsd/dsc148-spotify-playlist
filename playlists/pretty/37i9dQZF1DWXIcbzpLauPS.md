@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: LANDMVRKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,637 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,708 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 43 | [SLEEP WHEN I’M DEAD](https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG) | [Autumn Kings](https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8) | [SLEEP WHEN I’M DEAD / HELLBOUND](https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt) | 3:36 |
 | 44 | [Mana God](https://open.spotify.com/track/5dXZHtpvqrdJl4bhHHsDty) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Mana God](https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4) | 3:40 |
 | 45 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 |
-| 46 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 |
-| 47 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
-| 48 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
-| 49 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 |
-| 50 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
+| 46 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
+| 47 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
+| 48 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 |
+| 49 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
+| 50 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 |
 | 51 | [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 |
 | 52 | [FiftyFive](https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [FiftyFive](https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K) | 3:24 |
 | 53 | [Apathy](https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Apathy / 31.10](https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0) | 3:31 |

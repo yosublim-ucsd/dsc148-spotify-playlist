@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Ferre Gola",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Theodora",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -8586,7 +8586,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 221379,
       "name": "Sarah Solo",
       "url": "https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa"
@@ -8736,6 +8736,32 @@
       "duration_ms": 208885,
       "name": "Sing My Song",
       "url": "https://open.spotify.com/track/4LrHLw7blCUmRrWVM2bcPn"
+    },
+    {
+      "album": {
+        "name": "Smarta With Data",
+        "url": "https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237203,
+      "name": "Smarta With Data",
+      "url": "https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq"
     },
     {
       "album": {

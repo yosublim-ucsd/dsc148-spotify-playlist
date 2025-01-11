@@ -3159,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "album": {
         "name": "Mirage world",
         "url": "https://open.spotify.com/album/7skzSHbTUnytSdI5Gy1U1G"
       },
@@ -19264,7 +19282,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -33275,6 +33293,24 @@
     },
     {
       "album": {
+        "name": "Running Sideways",
+        "url": "https://open.spotify.com/album/12r7s3F4qlgFcTn1M2aDSy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Boone",
+          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254266,
+      "name": "Running Sideways",
+      "url": "https://open.spotify.com/track/6Nyp2At2kTCDi6TDABuYUp"
+    },
+    {
+      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
@@ -33396,7 +33432,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 228351,
       "name": "R\u00f3legur k\u00fareki",
       "url": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
@@ -38854,7 +38890,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 186040,
       "name": "S\u00f3linni",
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
@@ -40618,7 +40654,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -41042,7 +41078,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -41594,6 +41630,28 @@
       "duration_ms": 41487,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
+    },
+    {
+      "album": {
+        "name": "True Love X Yawa",
+        "url": "https://open.spotify.com/album/2ZTMIXjbyROl3osafMc0Mp"
+      },
+      "artists": [
+        {
+          "name": "Adexmimaxx",
+          "url": "https://open.spotify.com/artist/35TKVqzgXj43SNdpdgrBTN"
+        },
+        {
+          "name": "Wiwi Nimo",
+          "url": "https://open.spotify.com/artist/4D4kwSzZi5EamIJM93bsIm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212544,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/3QyGiprAQCrye6u1IPcuTE"
     },
     {
       "album": {

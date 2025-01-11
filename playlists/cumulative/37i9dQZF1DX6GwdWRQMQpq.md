@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: SZA
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ceechynaa
 
 625 songs - 1 day 4 hr 12 min
 

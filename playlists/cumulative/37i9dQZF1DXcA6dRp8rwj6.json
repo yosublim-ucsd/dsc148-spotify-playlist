@@ -33975,6 +33975,24 @@
     },
     {
       "album": {
+        "name": "Ooweee",
+        "url": "https://open.spotify.com/album/5dO4VmJHVX6pICgk65GV8M"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Ooweee",
+      "url": "https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG"
+    },
+    {
+      "album": {
         "name": "LEGACY.",
         "url": "https://open.spotify.com/album/2gDPNsHxm3Q5jtjx98JB22"
       },
@@ -47668,6 +47686,24 @@
       "duration_ms": 135096,
       "name": "Tic Tac?",
       "url": "https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4"
+    },
+    {
+      "album": {
+        "name": "Tic Tic",
+        "url": "https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92344,
+      "name": "Tic Tic",
+      "url": "https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq"
     },
     {
       "album": {

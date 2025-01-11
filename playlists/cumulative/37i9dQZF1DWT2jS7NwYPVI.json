@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Winona Fighter",
+  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Lambrini Girls",
   "name": "New Noise",
   "tracks": [
     {
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 178770,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj"
@@ -13073,6 +13073,28 @@
     },
     {
       "album": {
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
+    },
+    {
+      "album": {
         "name": "Dream Born Again",
         "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
       },
@@ -14672,7 +14694,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 113410,
       "name": "Eye Sore",
       "url": "https://open.spotify.com/track/45dfCQFmGcGn1cNTkukKe3"
@@ -22966,7 +22988,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 195968,
       "name": "I remember how your hands felt on mine",
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
@@ -25906,7 +25928,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192287,
       "name": "King Baby",
       "url": "https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu"
@@ -26600,7 +26622,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 182013,
       "name": "Learn to Say Goodbye",
       "url": "https://open.spotify.com/track/6538q47hdOo4SUuuaKKZ3s"
@@ -28584,10 +28606,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 220533,
       "name": "Love",
       "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
+    },
+    {
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e"
     },
     {
       "album": {
@@ -29328,6 +29368,24 @@
       "duration_ms": 158178,
       "name": "LUNGS BURN",
       "url": "https://open.spotify.com/track/2jcfKcZHakkkskt5huwKAi"
+    },
+    {
+      "album": {
+        "name": "Lust or Love",
+        "url": "https://open.spotify.com/album/6BvutToUmEsNuCs5rr4Ism"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230269,
+      "name": "Lust or Love",
+      "url": "https://open.spotify.com/track/0gfLZBccdSWbCMt4nM7z9o"
     },
     {
       "album": {
@@ -32071,6 +32129,24 @@
     },
     {
       "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl"
+    },
+    {
+      "album": {
         "name": "my ceiling",
         "url": "https://open.spotify.com/album/3pM9rsqs8S96KAuzdj4j1u"
       },
@@ -32082,7 +32158,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 162854,
       "name": "my ceiling",
       "url": "https://open.spotify.com/track/3nm3dZEcAzOOgJTquPuJ0o"
@@ -34361,6 +34437,24 @@
     },
     {
       "album": {
+        "name": "One Bullet Left",
+        "url": "https://open.spotify.com/album/0fsTPqqpKPlpRmivAOP5wx"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174260,
+      "name": "One Bullet Left",
+      "url": "https://open.spotify.com/track/25PtL0lUJ5ewrziMOIPIng"
+    },
+    {
+      "album": {
         "name": "Melodies on Hiatus",
         "url": "https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11"
       },
@@ -35581,6 +35675,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205632,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/5fyMxb8ClYRqpiTrzR7xc3"
       },
@@ -36448,7 +36560,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 265188,
       "name": "Pitch Black",
       "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
@@ -36733,6 +36845,24 @@
     },
     {
       "album": {
+        "name": "Policy",
+        "url": "https://open.spotify.com/album/7cIYPAMk8DZlCvBwsMFCNs"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207983,
+      "name": "Policy",
+      "url": "https://open.spotify.com/track/4bmxgU4O9QXVN9FCDLXiK6"
+    },
+    {
+      "album": {
         "name": "Pool Boy",
         "url": "https://open.spotify.com/album/4ZAgjuKzyAUS2Zz8t76p4e"
       },
@@ -36802,6 +36932,24 @@
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
     },
     {
       "album": {
@@ -37712,6 +37860,24 @@
       "duration_ms": 147999,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/3npfbIcnm5abhKJOij4drN"
+    },
+    {
+      "album": {
+        "name": "R U FAMOUS",
+        "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "R U FAMOUS",
+      "url": "https://open.spotify.com/track/60EWZ7bTwOdc1vzC9OYajv"
     },
     {
       "album": {
@@ -42894,7 +43060,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 221429,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
@@ -44020,7 +44186,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150035,
       "name": "Sports Day",
       "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
@@ -45266,6 +45432,24 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4TnbaltnutcYlayEsaapT4"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0WJXLRHqj15saDtjRiJ9tu"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
       },
       "artists": [
@@ -45838,6 +46022,24 @@
       "duration_ms": 173120,
       "name": "t!mezone",
       "url": "https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ"
+    },
+    {
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
     },
     {
       "album": {
@@ -48562,7 +48764,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 298000,
       "name": "this is my california",
       "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
@@ -49318,7 +49520,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 263442,
       "name": "To live in a different way",
       "url": "https://open.spotify.com/track/65Dlo5TaWyYwDlAQjbb7ws"
@@ -51500,6 +51702,24 @@
       "duration_ms": 221065,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9"
     },
     {
       "album": {

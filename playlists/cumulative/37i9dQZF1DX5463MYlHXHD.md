@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-307 songs - 17 hr 19 min
+308 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,8 +191,9 @@
 | [Mirame a La Cara 2](https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Niko Falero](https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj), [Treekoo](https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB) | [Mirame a la Cara 2](https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX) | 3:11 | 2023-11-01 | 2023-12-25 |
 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 | 2024-03-05 | 2024-04-19 |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2024-03-05 | 2024-03-09 |
-| [Mujer Yo te amo](https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD), [Hamster Records](https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6) | [CD2](https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0) | 2:46 | 2024-04-19 |  |
+| [Mujer Yo te amo](https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD), [Hamster Records](https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6) | [CD2](https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0) | 2:46 | 2024-04-19 | 2025-01-11 |
 | [Mujer yo te amo \- Remix](https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Papacho Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Mujer yo te amo \(Remix\)](https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp) | 3:59 | 2023-11-01 | 2024-03-06 |
+| [Negro cumbiero donde voy](https://open.spotify.com/track/6XtiECNVkKdvsXKomx4I8g) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM) | [Negro cumbiero donde voy](https://open.spotify.com/album/1ZHoz64NmH88YqLHl0jPZ3) | 2:20 | 2025-01-10 |  |
 | [No cajeties](https://open.spotify.com/track/4IbZy4FRDzuiMEYWpG4t1e) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [No cajeties](https://open.spotify.com/album/07IkKliRzyhyNGiWRLb4Av) | 3:10 | 2024-06-28 | 2024-08-22 |
 | [No Debiste Volver](https://open.spotify.com/track/1PTgb1qh4ekTAi5H3reyzf) | [El Stylo](https://open.spotify.com/artist/3ZsohZm3TsffH1MmUNrK8G) | [Marcando el Rumbo](https://open.spotify.com/album/3GXfzIAaBD5K94RQn0vy2d) | 3:33 | 2024-10-15 | 2024-10-26 |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2024-03-05 |  |

@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Happiest I've Ever Been (Spanglish Version)",
+        "url": "https://open.spotify.com/album/5kQib3n4H6kwDruJAuEAE6"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176073,
+      "name": "Happiest I've Ever Been - Spanglish Version",
+      "url": "https://open.spotify.com/track/1j0LnJ4yaE1QrAWX3MDVtD"
+    },
+    {
+      "album": {
         "name": "Hell in a Handbag",
         "url": "https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7"
       },

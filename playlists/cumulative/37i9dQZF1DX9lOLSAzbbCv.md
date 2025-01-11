@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: YARMAK
 
-95 songs - 4 hr 28 min
+96 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Я молю](https://open.spotify.com/track/5JI684J7e3QS2F4Dc2kHrG) | [ХАС](https://open.spotify.com/artist/2fqqZipMJWN5aYcOtzFnH4), [NIKITIN](https://open.spotify.com/artist/6oAMcJiu5SphoOoUYj19Qt) | [Я молю](https://open.spotify.com/album/5uo0RvbsYvm4lFD3Cy9xIG) | 2:50 | 2024-09-30 | 2024-11-09 |
 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 | 2024-08-15 |  |
 | [Як ти там](https://open.spotify.com/track/2xGRKA8PKaiXF1ixWcsUds) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Як ти там](https://open.spotify.com/album/4NSkMH1eoZPg14tAjdSyF6) | 3:25 | 2024-06-27 | 2024-10-01 |
-| [ЯТЛ](https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 2:38 | 2024-08-01 |  |
+| [ЯТЛ](https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 2:38 | 2024-08-01 | 2025-01-11 |
+| [іноді](https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [іноді](https://open.spotify.com/album/7cYRO0Zi5OXDrSMDckVuPY) | 3:32 | 2025-01-10 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

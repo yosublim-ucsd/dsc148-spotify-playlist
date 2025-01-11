@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "used to shine bright like gold",
+  "description": "roots run deep",
   "name": "homegrown",
   "tracks": [
     {
@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Drunk Love",
+        "url": "https://open.spotify.com/album/6gChKbfnQ9grgqW6xx80LZ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240437,
+      "name": "Drunk Love",
+      "url": "https://open.spotify.com/track/4rKhNylzPiJGKFMq7rn8tn"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
       },
@@ -1724,6 +1742,24 @@
       "duration_ms": 272173,
       "name": "Fast Asleep",
       "url": "https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS"
+    },
+    {
+      "album": {
+        "name": "Father in a Bible",
+        "url": "https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "Father in a Bible",
+      "url": "https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D"
     },
     {
       "album": {
@@ -2425,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Hello Whiskey",
+        "url": "https://open.spotify.com/album/1tp9l3w0s4YgffZFAmJNSK"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262346,
+      "name": "Hello Whiskey",
+      "url": "https://open.spotify.com/track/482qnAUubbTntyywad6oru"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi"
       },
@@ -2681,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "If A Song Could Change Your Mind",
+        "url": "https://open.spotify.com/album/0tK9TufSi8hfLw66Pt3WPF"
+      },
+      "artists": [
+        {
+          "name": "Low Gap",
+          "url": "https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio"
+        },
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182920,
+      "name": "If A Song Could Change Your Mind",
+      "url": "https://open.spotify.com/track/2ClV3s396miWnFJwUNoOaS"
+    },
+    {
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -2794,6 +2870,24 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ"
+    },
+    {
+      "album": {
+        "name": "In Stone",
+        "url": "https://open.spotify.com/album/4QgUZhrKE4ZfgwcYiaCcGO"
+      },
+      "artists": [
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161916,
+      "name": "In Stone",
+      "url": "https://open.spotify.com/track/0XuRInlSzjvMWskfHslO44"
     },
     {
       "album": {
@@ -4350,7 +4444,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 187244,
       "name": "Rich Men North of Richmond",
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
@@ -5806,6 +5900,24 @@
       "duration_ms": 188482,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
     },
     {
       "album": {

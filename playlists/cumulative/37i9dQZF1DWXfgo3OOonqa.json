@@ -2861,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "Av\u00e4nsjuk (Avundsjuk)",
+        "url": "https://open.spotify.com/album/1Ksjb3SqRFvfn1PbvWgU5X"
+      },
+      "artists": [
+        {
+          "name": "Jashua K",
+          "url": "https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Av\u00e4nsjuk (Avundsjuk)",
+      "url": "https://open.spotify.com/track/1QA0z8FYzITv6Y8INYxaqI"
+    },
+    {
+      "album": {
         "name": "AXAR",
         "url": "https://open.spotify.com/album/6HsFZ60ry08QkWkuZ9tGAw"
       },
@@ -25300,6 +25318,24 @@
       "duration_ms": 191515,
       "name": "Relatera",
       "url": "https://open.spotify.com/track/10DXTIr7Y7KBxOY6rwnJNO"
+    },
+    {
+      "album": {
+        "name": "Lost Tapes",
+        "url": "https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123329,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb"
     },
     {
       "album": {

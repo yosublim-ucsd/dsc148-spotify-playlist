@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-399 songs - 22 hr 30 min
+400 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ASCENDANT BRASIER \- Balduin Remix \- Electro Swing](https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [ASCENDANT BRASIER \(Balduin Remix\)](https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP) | 3:18 | 2023-06-16 | 2023-08-26 |
 | [Back and Forth](https://open.spotify.com/track/0iunkswh8QG4nlCg9eDzMS) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [Back and Forth](https://open.spotify.com/album/1lFHdixVhpVvZQdc6foN1c) | 2:16 | 2024-06-28 |  |
 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 | 2024-06-15 |
+| [Back In Town \(again\)](https://open.spotify.com/track/1bY8DaFmvQeP9ulGrAA6J1) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Back In Town \(again\)](https://open.spotify.com/album/6SYYXVPvTi1wKBOLocdSZQ) | 2:33 | 2025-01-10 |  |
 | [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 |  |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
 | [BAM! \- Chill Remix](https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM! \(Remixes\)](https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1) | 2:40 | 2023-08-18 |  |
@@ -58,7 +59,7 @@
 | [Chabada \- Betty Booom Remix](https://open.spotify.com/track/2VqijNTrSb55H1B6bSXIqz) | [Da'Chabada](https://open.spotify.com/artist/3jiPB7bGFnPXNlA6brBeU1), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Chabada \(Betty Booom Remix\)](https://open.spotify.com/album/0WK9MdDiRxzWFYfYCtCxY8) | 2:56 | 2024-02-23 |  |
 | [Chaos Parade](https://open.spotify.com/track/6ulXGUzVccCtFGuIKmNQz8) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Chaos Parade](https://open.spotify.com/album/2TIDcRHFBJwy5wQTBMXzWE) | 3:15 | 2024-05-17 |  |
 | [Cheek to Cheek \- Swing Hop Mix](https://open.spotify.com/track/3IJRPnVHSO7G20e2BGZbCN) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Marty & his Rockin' Comets](https://open.spotify.com/artist/3uYgC6oS9WEa6caMgGr5yN) | [Cheek to Cheek \(Swing Hop Mix\)](https://open.spotify.com/album/3psreUEAHDnhtvgJRVFtk1) | 3:00 | 2020-10-30 | 2022-07-29 |
-| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 |  |
+| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 | 2025-01-11 |
 | [Cinnamon Girl](https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl](https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl) | 4:00 | 2020-10-30 |  |
 | [Cinnamon Girl \- Sun Dub Edit](https://open.spotify.com/track/5nT35ED3QmCiSzzMl78BaT) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl \(Sun Dub Edit\)](https://open.spotify.com/album/2nvoVE0fEZC5bwJ81tbvTE) | 5:36 | 2020-10-30 | 2023-04-29 |
 | [Circus Maximus \- Aerophon Remix](https://open.spotify.com/track/6voOIfO1GsbLI5pRh9qwrY) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Aerophon](https://open.spotify.com/artist/2p2lCC6MKMS64MvN4N0bzU) | [Circus Maximus \(Remixes\)](https://open.spotify.com/album/33KRs9X2BB82sW9m2J9hzl) | 3:34 | 2020-10-30 | 2022-06-11 |

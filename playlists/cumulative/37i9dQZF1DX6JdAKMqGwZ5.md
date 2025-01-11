@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Colectivo Da Silva.
 
-301 songs - 15 hr 41 min
+302 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-18 | 2024-08-09 |
 | [MonteViso](https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [MonteViso](https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o) | 4:11 | 2024-09-05 | 2024-11-08 |
 | [Morir en otra habitación](https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [Morir en otra habitación](https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN) | 3:19 | 2024-10-31 | 2024-11-15 |
+| [Más Profundidad](https://open.spotify.com/track/5goijdL65FQHzDws8ctgri) | [Miree](https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD) | [Más Profundidad](https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1) | 3:02 | 2025-01-09 |  |
 | [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-28 | 2025-01-03 |
 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-31 | 2024-11-22 |
 | [Nada Que Perder](https://open.spotify.com/track/5IM7yXx4B65vDnuGipiZs2) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [Nada Que Perder](https://open.spotify.com/album/3If9g84i9PdsjEkFiiF0TH) | 3:24 | 2024-12-05 | 2025-01-10 |

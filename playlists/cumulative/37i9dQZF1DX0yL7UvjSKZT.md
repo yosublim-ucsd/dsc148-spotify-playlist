@@ -4,11 +4,12 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-487 songs - 1 day 6 hr 10 min
+489 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1682](https://open.spotify.com/track/4ydDsZuEYeYjeilm1pbJlF) | [Shawn Lane](https://open.spotify.com/artist/5XK7XePKHpjJKfCWPcKth4), [Richard Bennett](https://open.spotify.com/artist/0qUzJiXMst9WtwM4Z20b0H) | [1682](https://open.spotify.com/album/5XIlvWXTmWLki0A8QOJtdz) | 6:21 | 2024-05-10 |  |
+| [2733](https://open.spotify.com/track/0f8q6JnkNuT8iVosbcB665) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [GHOST OF THE WEST: VOLUME I](https://open.spotify.com/album/4fqDZxmpCJ5Eq7JpaYrVHS) | 4:03 | 2025-01-10 |  |
 | [3000 Miles](https://open.spotify.com/track/3JIVZqBU8gdKuq1H7Yoxsc) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [3000 Miles](https://open.spotify.com/album/1Lx9ljkcAakEV8D19H3lXJ) | 4:18 | 2024-04-12 |  |
 | [A Distant Land to Roam](https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Grey Eagle / A Distant Land to Roam](https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85) | 2:33 | 2023-03-17 | 2024-05-11 |
 | [A Distant Land to Roam](https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Mighty Poplar](https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6) | 2:33 | 2023-12-15 | 2024-04-19 |
@@ -164,6 +165,7 @@
 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2021-10-01 | 2022-01-22 |
 | [Green Moon](https://open.spotify.com/track/1OGcvrXuLM5qTBeQcndzKW) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Nora Fox](https://open.spotify.com/artist/3cBiaeFw0WDt6Cxyx11zfd) | [Stranger To The Feeling](https://open.spotify.com/album/4YCUw0aJWQm7eJQsKWA0DL) | 4:13 | 2024-05-29 |  |
 | [He Ain't Me](https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [He Ain't Me](https://open.spotify.com/album/6s9SrAd8YNrLH2we1nzlAi) | 4:07 | 2022-08-11 | 2023-06-03 |
+| [Heart Tattoo](https://open.spotify.com/track/276u9yYQAnbty1ERJi7Skx) | [Jenner Fox Band](https://open.spotify.com/artist/2vdyVZtxFBzzGiLSTjfzhl), [Jenner Fox](https://open.spotify.com/artist/0yL6Mv8jnZmSAMnvTa8tyX) | [Heart Tattoo](https://open.spotify.com/album/0Xb6p8CApLFGrViYzYlyiM) | 4:06 | 2025-01-10 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-07-15 | 2022-10-08 |
 | [Here For You](https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Here For You](https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy) | 3:13 | 2023-08-25 |  |
 | [Hey Brother](https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [God Fearing Heathen](https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu) | 4:22 | 2023-07-21 | 2024-04-19 |

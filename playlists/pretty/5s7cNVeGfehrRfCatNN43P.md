@@ -4,19 +4,24 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,851 likes - 10 songs - 26 min 32 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,851 likes - 15 songs - 43 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
-| 2 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
-| 3 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 |
-| 4 | [Till The Summer Fades \- VIP Mix](https://open.spotify.com/track/2dr6c3lc4AMqSIWHi3Z0LE) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [Till The Summer Fades \(VIP Mix\)](https://open.spotify.com/album/0R7fb9M63ipiaO99u4Hz1S) | 2:34 |
-| 5 | [Campari Lips & Soda](https://open.spotify.com/track/3yAhzZ6E6eg4Sv2uurvA8J) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Campari Lips & Soda](https://open.spotify.com/album/0dgYBTTQJzGhN4jJD4QYdf) | 2:56 |
-| 6 | [AH AH AH](https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [AH AH AH](https://open.spotify.com/album/3veXH87Ab3CYcaFLO7NoY0) | 2:05 |
-| 7 | [Yellow](https://open.spotify.com/track/6JJ9HK6ZHRVQEDH4o00s4E) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Yellow](https://open.spotify.com/album/3TFpA1ShVs3S4cD1iodrhL) | 2:22 |
-| 8 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
-| 9 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
-| 10 | [Candy Shop](https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Candy Shop](https://open.spotify.com/album/031m6izON5ItyxLETIWo8T) | 1:48 |
+| 1 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 2 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 |
+| 3 | [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 |
+| 4 | [Heartless Places](https://open.spotify.com/track/2ybw47zNjbIppNnKHDyqyM) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c) | [Heartless Places](https://open.spotify.com/album/1X9JeyfAGQr6hiUFlAMbW3) | 4:12 |
+| 5 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 |
+| 6 | [Bang Bang](https://open.spotify.com/track/5nBB1YZErJ1tMKR4NM65vs) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Bang Bang](https://open.spotify.com/album/4sFWg7BQJVAAGOIQxynAoC) | 3:17 |
+| 7 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 8 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 |
+| 9 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 10 | [Kom igjen](https://open.spotify.com/track/7DXjtXcnBjPs1m6F3IPzpD) | [Zupermaria](https://open.spotify.com/artist/5COfgHyIX1sSJv38S01Mz7) | [Det tørker i solen](https://open.spotify.com/album/4bAmcSnuU1fdl9qKCOYdEK) | 2:49 |
+| 11 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 |
+| 12 | [Midnight Gloria](https://open.spotify.com/track/5jMuFt9y8emrkkEFJXevi4) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [Midnight Gloria](https://open.spotify.com/album/3gOp4X3kMW7yeudKAlwaae) | 2:56 |
+| 13 | [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 |
+| 14 | [Attachment Theory](https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Attachment Theory](https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8) | 2:48 |
+| 15 | [Another Life](https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Another Life](https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0) | 2:19 |
 
-Snapshot ID: `AAALE10jkpH8BL8AiRQ2dfRcDowhq7wJ`
+Snapshot ID: `AAALF2cYnHzg5YySls65rVT0EzwdhML3`

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-215 songs - 18 hr 31 min
+217 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Change Of Face](https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl) | 4:58 | 2022-06-30 | 2023-07-10 |
 | [A Change Of Face](https://open.spotify.com/track/79KZTjH5g7YudO6kR3yF3g) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/7hTMtmngeZMtoVqlWLzXCO) | 4:58 | 2021-12-21 | 2022-07-29 |
 | [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 | 2024-04-19 |
-| [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 | 2024-03-29 |  |
+| [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 | 2024-03-29 | 2025-01-11 |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 | 2023-08-08 |  |
@@ -28,6 +28,7 @@
 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 | 2023-09-26 | 2024-04-19 |
 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-08 |  |
 | [Bess Is My Woman Now](https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Faraò Plays the Great Jazz American Composers \- George Gershwin, Vol\. 3](https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC) | 4:28 | 2022-06-02 |  |
+| [Blowin' in the Wind](https://open.spotify.com/track/5vJJXYF4p0nAyvOBU2WHoD) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blowin' in the Wind](https://open.spotify.com/album/47jaPNFEb5Tzm6fnJjpro6) | 5:00 | 2025-01-10 |  |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
@@ -52,7 +53,7 @@
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2022-06-30 | 2022-08-30 |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2022-02-10 | 2022-08-30 |
 | [Dardanella](https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Future Stride](https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk) | 5:24 | 2022-06-30 | 2024-04-19 |
-| [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 | 2021-12-21 |  |
+| [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 | 2021-12-21 | 2025-01-11 |
 | [Darn That Dream](https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Time to Swing](https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue) | 7:30 | 2022-06-30 | 2024-01-18 |
 | [Darn That Dream](https://open.spotify.com/track/2vNIbZxM13wdFtWXYeqQ2F) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Darn That Dream](https://open.spotify.com/album/6lLoo60kZHwZozXSWSYymx) | 7:30 | 2021-12-21 | 2022-07-29 |
 | [Dave](https://open.spotify.com/track/0NHnOig4DwclyoFDqPjCkh) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Dave](https://open.spotify.com/album/36Oiew8ljfc2W0ZUvLogOC) | 3:43 | 2022-02-10 |  |
@@ -169,6 +170,7 @@
 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 | 2021-12-21 | 2022-09-15 |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw) | [The Velvet Blues](https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l) | 4:36 | 2021-12-21 |  |
 | [Son binocle](https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 4:04 | 2021-12-21 |  |
+| [Soul Survivor](https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Soul Survivor](https://open.spotify.com/album/0hYgT7AnSTvB89TirwT1Yw) | 4:28 | 2025-01-10 |  |
 | [Soulsides](https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Feeling Good \- The Supreme Sound Of Producer Bob Shad](https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr) | 4:28 | 2021-12-21 | 2022-09-28 |
 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 | 2022-06-30 | 2024-04-19 |
 | [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 | 2021-12-21 | 2024-08-10 |

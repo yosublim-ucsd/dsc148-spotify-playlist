@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Guè, Baby Gang, Sayf, Rondo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,046 likes - 71 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,078 likes - 71 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 47 | [JANNIK SIPPER](https://open.spotify.com/track/6jUm9RA32o0tj7YIJ7XZkX) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [GOBLIN](https://open.spotify.com/album/4KyMpzxFhwEUbwEwd6dRWZ) | 2:10 |
 | 48 | [POINT](https://open.spotify.com/track/2FDlIU2Qm6O0gTKySScyfu) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [CHECK POINT](https://open.spotify.com/album/1MuGNHRu1SNBtrEOCQSjDH) | 2:25 |
 | 49 | [NON RALLENTI MAI](https://open.spotify.com/track/4a6ogwxxOXsnw9iORCrdUl) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [ESORDIO](https://open.spotify.com/album/7satvpXjYURRriEn48rk6k) | 2:26 |
-| 50 | [2 Minuti Di Notorietà](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 Minuti Di Notorietà](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
+| 50 | [2 MINUTI DI NOTORIETÀ](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 MINUTI DI NOTORIETÀ](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
 | 51 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
 | 52 | [semplice](https://open.spotify.com/track/79S7QUA63Y9cRRfQMA7SZa) | [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [semplice](https://open.spotify.com/album/3X4EgJ5rRtkuJ5wPV67iAV) | 2:37 |
 | 53 | [NON CAMBIARE MAI](https://open.spotify.com/track/4Mp0YusDfVpb4a3Rr22ZoC) | [Angelino 5G](https://open.spotify.com/artist/43MgP8yYm60Mn9lx6hoORO), [TR Loco](https://open.spotify.com/artist/51ZIQrmcT1gB6jnqByjvZa), [Piccolo White](https://open.spotify.com/artist/5gJyy1QIQiu3kSMHpRdvvW) | [NON CAMBIARE MAI](https://open.spotify.com/album/59Bh6QjXaOlwOv5INUgiQT) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-456 songs - 1 day 0 hr 7 min
+457 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Midnight Rapture](https://open.spotify.com/track/2r2iXx5hvklZXkXKwVrqvU) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/7z6gHzl8yGvJpzykjH7mBM) | 3:17 | 2024-03-22 | 2024-04-19 |
 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-07-28 |  |
 | [Milo](https://open.spotify.com/track/1usrbjjrEiiiSh8zQXCeFi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Armada Unites \(The Official Album\)](https://open.spotify.com/album/1hzCdej7lteL5VkrF7iaZt) | 3:41 | 2021-12-03 | 2022-01-08 |
+| [Mine 4 All Time](https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Mine 4 All Time](https://open.spotify.com/album/4bwpSdPkrRIUIcr2lpnlbv) | 3:00 | 2025-01-10 |  |
 | [Money Money](https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Exotica](https://open.spotify.com/album/1gQVJuNTz3pu93tO8EM4Yr) | 3:30 | 2021-12-03 |  |
 | [Moon Groove](https://open.spotify.com/track/0TAIIxetpsMUEPOHZkQO9J) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/19OOCxedf9ejRmbGV83P5x) | 2:49 | 2023-07-14 | 2024-03-23 |
 | [Moon Groove](https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R) | 2:49 | 2022-07-22 | 2022-07-29 |
@@ -423,7 +424,7 @@
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-14 | 2022-12-10 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH) | 3:52 | 2022-06-03 | 2022-07-29 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-07-22 | 2024-04-19 |
-| [Waste of Time](https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Waste of Time](https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd) | 3:46 | 2024-04-19 |  |
+| [Waste of Time](https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Waste of Time](https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd) | 3:46 | 2024-04-19 | 2025-01-11 |
 | [Way Too Long](https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Way Too Long](https://open.spotify.com/album/4PeGJQ4bZiathdzJ0bpj0X) | 2:30 | 2021-12-03 | 2022-01-08 |
 | [We Are Family](https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [We Are Family](https://open.spotify.com/album/7xIWzkfjtty0GSWvD53ttB) | 2:33 | 2024-10-04 |  |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 | 2022-01-07 | 2022-10-06 |

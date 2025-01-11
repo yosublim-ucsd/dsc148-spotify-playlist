@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 225959,
+  "num_followers": 226029,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAADVb0LbBi1nkp5gBnc2s3+J",
+  "snapshot_id": "Z4CpWQAAAABDYF7/xoEXQr4bQknolbB/",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:09",
+      "album": {
+        "name": "Automobile",
+        "url": "https://open.spotify.com/album/0KazOuPQ2bdJM7i8yAy9mr"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 184492,
+      "name": "Automobile",
+      "url": "https://open.spotify.com/track/7rpAvCMra4EMOJEbB28AKV"
+    },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 252709,
       "name": "Ancient Heart",
       "url": "https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf"
+    },
+    {
+      "added_at": "2025-01-10 05:00:09",
+      "album": {
+        "name": "Make It (Live To Tape Session)",
+        "url": "https://open.spotify.com/album/3pgUURlyqRdc13C5DnBQ8A"
+      },
+      "artists": [
+        {
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+        },
+        {
+          "name": "Rhett Shull",
+          "url": "https://open.spotify.com/artist/5llKYgJlzPpMaDPmuATus5"
+        }
+      ],
+      "duration_ms": 630000,
+      "name": "Make It - Live To Tape Session",
+      "url": "https://open.spotify.com/track/5nAT9cIj9PbqM3F7A0iKYv"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -143,22 +179,6 @@
       "duration_ms": 281214,
       "name": "Better The Devil You Know",
       "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "The Southern",
-        "url": "https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Looking for a Fight",
-      "url": "https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2187,22 +2207,6 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun"
-      },
-      "artists": [
-        {
-          "name": "Zach Person",
-          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
-        }
-      ],
-      "duration_ms": 288256,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY"
     },
     {
       "added_at": "2020-10-16 04:02:00",

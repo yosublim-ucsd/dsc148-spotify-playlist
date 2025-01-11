@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,911 songs - 3 day 2 hr 2 min
+1,913 songs - 3 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 | 2022-10-07 | 2023-01-07 |
 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 | 2021-12-07 | 2022-09-10 |
 | [Heartbreaker](https://open.spotify.com/track/3iMdUIXgUcNapwkVnLVnlo) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Heartbreaker](https://open.spotify.com/album/4Uk0B244BOj9oXREAw0lCi) | 2:24 | 2023-03-08 | 2023-11-11 |
+| [heath](https://open.spotify.com/track/5pjMm33lajx5bFf09iYQT0) | [silkwürm](https://open.spotify.com/artist/1TkPBaPShLazfcQ6NpRolZ) | [heath](https://open.spotify.com/album/79AG4qIlXTlfTH3tC5k6Pn) | 2:01 | 2025-01-10 |  |
 | [Helio Travellers](https://open.spotify.com/track/14zUcAAPpRi3GXmjDG7geV) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Helio Travellers](https://open.spotify.com/album/7JMZ93kajyh5NFBS55BzhY) | 1:14 | 2022-07-29 | 2022-09-17 |
 | [Helipad](https://open.spotify.com/track/5uoHAVX3XOlzJsf9nFpTJX) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Helipad](https://open.spotify.com/album/3H9V4wPrhy6vx2dFjtOD0o) | 2:09 | 2023-03-08 | 2023-09-22 |
 | [Hello Girl](https://open.spotify.com/track/01GBRWLsLtA69rJLOb8q3g) | [Abstract Goddess](https://open.spotify.com/artist/0nPCuDqwLb2NPY9nInLaIc) | [Entangled](https://open.spotify.com/album/122RfZlOIfLOETb5XtINd0) | 1:48 | 2022-09-02 | 2023-04-04 |
@@ -1196,7 +1197,7 @@
 | [Night Time](https://open.spotify.com/track/0KayUzHjGFs97poj1WSngo) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/4eyhuIIXY6aEJjjyKhAIgf) | 2:27 | 2023-02-07 | 2023-02-10 |
 | [Night Time](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 2:27 | 2022-12-09 |  |
 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 | 2022-07-01 | 2023-08-22 |
-| [nights go by](https://open.spotify.com/track/5TC2wrYzGhhr1wO7BSsGOA) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [nights go by](https://open.spotify.com/album/7bPSnIFDMDlKT2xyW87SMl) | 3:08 | 2024-01-05 |  |
+| [nights go by](https://open.spotify.com/track/5TC2wrYzGhhr1wO7BSsGOA) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [nights go by](https://open.spotify.com/album/7bPSnIFDMDlKT2xyW87SMl) | 3:08 | 2024-01-05 | 2025-01-11 |
 | [Nightshade](https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Nightshade](https://open.spotify.com/album/55QFmQJN6AOVCLf64G5vwQ) | 2:32 | 2024-06-26 |  |
 | [nightshift](https://open.spotify.com/track/346v1PmuV03l9vpgVuXB8P) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [nightshift](https://open.spotify.com/album/3OYAnAXstTbc5cdZnEHjkQ) | 2:36 | 2024-05-13 |  |
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-09-13 |  |
@@ -1570,6 +1571,7 @@
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2021-12-07 | 2023-02-18 |
 | [Stash the Cash](https://open.spotify.com/track/2tQbom5iL8Vwg97IYoabeD) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [Stash the Cash](https://open.spotify.com/album/02144kWVEhxR5mNtK4BGW6) | 2:28 | 2022-12-02 | 2023-09-02 |
 | [Stay](https://open.spotify.com/track/7lrLhtC4gnvQcuPMYpKsSm) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Stay](https://open.spotify.com/album/6bwIOWHf2byXvFjNuKuqnd) | 2:40 | 2022-08-05 | 2022-10-29 |
+| [stay here forever](https://open.spotify.com/track/7a6pu1aq2siFqMiLsLTcbB) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [stay here forever](https://open.spotify.com/album/4NLgYPTckHgyaiG3bZNqHP) | 2:14 | 2025-01-10 |  |
 | [Stay In Bed](https://open.spotify.com/track/1ACT2a4ZJWOZ2pyxuy3LuW) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Stay In Bed](https://open.spotify.com/album/4euuJt7jYJUnikG6HV4lxt) | 2:14 | 2022-06-10 | 2023-08-22 |
 | [Stems](https://open.spotify.com/track/71rmPrXb2YJnDP0IwtSksf) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [bouji bud](https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW) | [Ambrosia](https://open.spotify.com/album/4RxS1oXpacNGS2QqOfEmPJ) | 2:58 | 2023-01-20 | 2023-09-22 |
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2021-12-07 | 2022-07-01 |
@@ -1874,7 +1876,7 @@
 | [Whiskey For The Night](https://open.spotify.com/track/287jF7I4jnNooiqVh5E2ZU) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Whiskey For The Night](https://open.spotify.com/album/5G51BR88FI4vSSrMHWtQpU) | 1:55 | 2022-05-20 | 2022-09-23 |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2021-12-07 | 2022-06-03 |
 | [Whispers](https://open.spotify.com/track/5vwKx1lJxuXNj0j3krceff) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Whispers](https://open.spotify.com/album/2mV7WOez73u5gqldiqZGoA) | 2:04 | 2022-10-07 | 2022-12-24 |
-| [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
+| [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 | 2025-01-11 |
 | [wibes](https://open.spotify.com/track/2gDQBDUZVrubIKunMGon6P) | [Operator:Operator](https://open.spotify.com/artist/3SR433GF72OG6QJLEwLdsM), [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF) | [wibes](https://open.spotify.com/album/7hvVmxMzg2KNSSuFH7AXiL) | 2:00 | 2022-08-19 | 2022-11-12 |
 | [Wild Mallow](https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS) | [The Lofi Big Band](https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc) | [Wild Mallow](https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h) | 2:57 | 2023-04-11 | 2023-11-11 |
 | [will i miss you](https://open.spotify.com/track/4OHRoIKMLgA9469W43LsFw) | [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF) | [will i miss you](https://open.spotify.com/album/33Gu6L4hcBf159j3HUERkA) | 3:11 | 2022-11-25 | 2023-04-21 |

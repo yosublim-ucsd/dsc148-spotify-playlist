@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 142500,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/3iXVbSgmGj4kvHI3rjKJk7"
@@ -9166,6 +9166,28 @@
       "duration_ms": 293845,
       "name": "O Som Dos Golfinhos",
       "url": "https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO"
+    },
+    {
+      "album": {
+        "name": "Telefone Sem Fio",
+        "url": "https://open.spotify.com/album/3TQLUp9wpqY8RBGQ00HiWz"
+      },
+      "artists": [
+        {
+          "name": "Thiago Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
+        },
+        {
+          "name": "Rodrigo Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72653,
+      "name": "O Som, o Verbo e a Vida",
+      "url": "https://open.spotify.com/track/1ZdC73qUIR8CzUZw45l4fS"
     },
     {
       "album": {

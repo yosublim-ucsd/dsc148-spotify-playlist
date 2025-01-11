@@ -10453,6 +10453,32 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6ly5EsmhWmqqwFDpPHpwRK"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        },
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        },
+        {
+          "name": "esiole",
+          "url": "https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/5xZVhbNMHFXXuDAKEJ3bUS"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/5Cf774kUgGJj75TKa3zS31"
       },
@@ -11370,6 +11396,28 @@
       "duration_ms": 160861,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/5eLKW8TzpiZsJmKxARWcvo"
+    },
+    {
+      "album": {
+        "name": "Should Have Said",
+        "url": "https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm"
+      },
+      "artists": [
+        {
+          "name": "MISERO",
+          "url": "https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX"
+        },
+        {
+          "name": "Lazy Daze",
+          "url": "https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Should Have Said",
+      "url": "https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH"
     },
     {
       "album": {
@@ -13898,6 +13946,32 @@
       "duration_ms": 150000,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/4uLWlY98F6LnKZSGLy1Ohm"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5raro9uFM1I2ndfzp6mqYX"
+      },
+      "artists": [
+        {
+          "name": "Ideo",
+          "url": "https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl"
+        },
+        {
+          "name": "Cuish",
+          "url": "https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e"
+        },
+        {
+          "name": "blackbird",
+          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3mYKaKUIceyT9hBJ56X5Kf"
     },
     {
       "album": {

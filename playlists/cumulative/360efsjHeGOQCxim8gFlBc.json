@@ -95,6 +95,32 @@
     },
     {
       "album": {
+        "name": "7:04pm - Teesa's Rework",
+        "url": "https://open.spotify.com/album/0WhwE1ZuWP7IFXDQhOTW9A"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        },
+        {
+          "name": "Teesa",
+          "url": "https://open.spotify.com/artist/2CttZr3C2Hsf3lh3dWRblc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169366,
+      "name": "7:04pm - Teesa's rework",
+      "url": "https://open.spotify.com/track/5tDGlonCWx6teCdnOfEeZS"
+    },
+    {
+      "album": {
         "name": "A Day Of Ponder",
         "url": "https://open.spotify.com/album/0EUtp2vfc9ayvo5NcYxe0R"
       },
@@ -1106,7 +1132,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 125530,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6mS1UBTYXQ4qN1XpG7KmCU"
@@ -1667,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Dreaming of Stars",
+        "url": "https://open.spotify.com/album/53jitbAKPwfFZbPn0sY3SZ"
+      },
+      "artists": [
+        {
+          "name": "midnight static",
+          "url": "https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160873,
+      "name": "Cherish and Love",
+      "url": "https://open.spotify.com/track/1lXyuT1OglzqPzQSWFQNWf"
+    },
+    {
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/0Mo0geSwTH8fHZ4agFlWB8"
       },
@@ -1798,7 +1842,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 147272,
       "name": "cloud dance",
       "url": "https://open.spotify.com/track/7mVMtlLrzxVD8yuBRreH06"
@@ -5240,7 +5284,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 106500,
       "name": "In The Winds",
       "url": "https://open.spotify.com/track/7wW9XUM3lb1unfvSRYmQjf"
@@ -5898,6 +5942,24 @@
       "duration_ms": 101622,
       "name": "Loves",
       "url": "https://open.spotify.com/track/6cvAbImWeu3AwErvxMsoU1"
+    },
+    {
+      "album": {
+        "name": "Dreaming of Stars",
+        "url": "https://open.spotify.com/album/53jitbAKPwfFZbPn0sY3SZ"
+      },
+      "artists": [
+        {
+          "name": "midnight static",
+          "url": "https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/2AWeIgRcR4uRlLk2nPIOXU"
     },
     {
       "album": {
@@ -7889,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "Quiet Thought",
+        "url": "https://open.spotify.com/album/4ku1gGUALwIW5W1tc6bGSE"
+      },
+      "artists": [
+        {
+          "name": "Paul H.",
+          "url": "https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Quiet Thought",
+      "url": "https://open.spotify.com/track/5EMkQ44FlVYDH7KM8RtCc8"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/24rykKJvKzD3iZTLO3MRbQ"
       },
@@ -7918,7 +7998,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 124778,
       "name": "raindrops",
       "url": "https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM"
@@ -8344,7 +8424,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 153568,
       "name": "Seal Pup",
       "url": "https://open.spotify.com/track/49xXvlToTyxaibYs6rJ25V"
@@ -8817,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "Dreaming of Stars",
+        "url": "https://open.spotify.com/album/53jitbAKPwfFZbPn0sY3SZ"
+      },
+      "artists": [
+        {
+          "name": "midnight static",
+          "url": "https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61047,
+      "name": "Soft Nights",
+      "url": "https://open.spotify.com/track/7IwbvEftAucC4OTlI6ghyM"
+    },
+    {
+      "album": {
         "name": "Sweet World",
         "url": "https://open.spotify.com/album/2HlpqMglGikBo744RL61h5"
       },
@@ -9198,7 +9296,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 86000,
       "name": "Starbound",
       "url": "https://open.spotify.com/track/2EVwy9oS6JqO5S0Nf6b2UD"
@@ -10343,6 +10441,24 @@
     },
     {
       "album": {
+        "name": "Towards, Together",
+        "url": "https://open.spotify.com/album/1w3lnEtVpQ7zQKpQHUlvg2"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kensington",
+          "url": "https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200750,
+      "name": "Towards, Together",
+      "url": "https://open.spotify.com/track/4yCmkPqAUOFzFKB7Pnn0se"
+    },
+    {
+      "album": {
         "name": "Tra le Vite",
         "url": "https://open.spotify.com/album/4gcIoNrjmrHsYMpahLplSR"
       },
@@ -11352,7 +11468,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 168165,
       "name": "Willow's weep",
       "url": "https://open.spotify.com/track/1kmssd5o575LBfzOnep0FA"

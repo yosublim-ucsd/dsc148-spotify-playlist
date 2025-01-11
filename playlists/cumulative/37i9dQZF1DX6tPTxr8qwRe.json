@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: ALT BLK ERA",
+  "description": "Dark, hard hitting pop. Cover: KiNG MALA",
   "name": "SALT",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192096,
       "name": "BACKSTABBER",
       "url": "https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI"
@@ -1488,6 +1488,28 @@
       "duration_ms": 161171,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
+      "album": {
+        "name": "Bite Marks",
+        "url": "https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190138,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
     },
     {
       "album": {
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 145613,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/62ptJWdV7qRJ4CbYPc56SB"
@@ -3601,6 +3623,42 @@
     },
     {
       "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/3i7soTWcu0mqsaDRjnKNEb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Reilly",
+          "url": "https://open.spotify.com/artist/24dtiWBrm1YPudlKmi2A4E"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182776,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/2r1LYYOgHiAKiBgNIdPVHQ"
+    },
+    {
+      "album": {
+        "name": "difficult",
+        "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156609,
+      "name": "difficult",
+      "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "album": {
         "name": "DIGITAL BABE",
         "url": "https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa"
       },
@@ -4020,6 +4078,42 @@
       "duration_ms": 141797,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b"
+    },
+    {
+      "album": {
+        "name": "drop the man",
+        "url": "https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157788,
+      "name": "drop the man",
+      "url": "https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i"
+    },
+    {
+      "album": {
+        "name": "Naku",
+        "url": "https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS"
+      },
+      "artists": [
+        {
+          "name": "Nom\u00e9 Naku",
+          "url": "https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Dunes",
+      "url": "https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz"
     },
     {
       "album": {
@@ -5661,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "G\u00d8D",
+        "url": "https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "G\u00d8D",
+      "url": "https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF"
+    },
+    {
+      "album": {
         "name": "Halloweenie IV: Innards",
         "url": "https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ"
       },
@@ -6021,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "HELL ON ME",
+        "url": "https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178411,
+      "name": "HELL ON ME",
+      "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
+    },
+    {
+      "album": {
         "name": "HELLO IT'S THE NEW ME",
         "url": "https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA"
       },
@@ -6306,6 +6436,24 @@
       "duration_ms": 138730,
       "name": "Hot Killer",
       "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
+    },
+    {
+      "album": {
+        "name": "hot yoga in hell",
+        "url": "https://open.spotify.com/album/6Pj9FD1lLjDemuRdRrxkCD"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "hot yoga in hell",
+      "url": "https://open.spotify.com/track/2piKFLVacDlwV0U0JZmWSp"
     },
     {
       "album": {
@@ -8272,7 +8420,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 122669,
       "name": "lucky",
       "url": "https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M"
@@ -9870,7 +10018,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
@@ -14494,6 +14642,24 @@
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "album": {
+        "name": "What Do Girls Do?",
+        "url": "https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166755,
+      "name": "What Do Girls Do?",
+      "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"
     },
     {
       "album": {

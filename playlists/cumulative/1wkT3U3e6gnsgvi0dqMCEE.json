@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247441,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV"
+    },
+    {
+      "album": {
         "name": "So (Special Edition)",
         "url": "https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js"
       },

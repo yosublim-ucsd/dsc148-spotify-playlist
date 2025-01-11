@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 58722,
+  "num_followers": 58743,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Kepuraanmu",
+        "url": "https://open.spotify.com/album/2rMuIKkyrOHg60Ulf9Sa1e"
+      },
+      "artists": [
+        {
+          "name": "Luqman Faiz",
+          "url": "https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH"
+        }
+      ],
+      "duration_ms": 231180,
+      "name": "Kepuraanmu",
+      "url": "https://open.spotify.com/track/5tNfSGN2zQ6y3E5pl5Wggy"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Pagi Pulang Pagi",
         "url": "https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Di Matamu",
-        "url": "https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc"
-      },
-      "artists": [
-        {
-          "name": "Sufian Suhaimi",
-          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
-        }
-      ],
-      "duration_ms": 247169,
-      "name": "Di Matamu",
-      "url": "https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb"
     }
   ],
   "unique_name": "Berjiran",

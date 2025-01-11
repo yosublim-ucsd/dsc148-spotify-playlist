@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,533 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,564 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 3 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 4 | [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 |
 | 5 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 |
-| 6 | [Tu Mera](https://open.spotify.com/track/28NU6UqoWWOUdR71Hh8jQQ) | [Adhyay](https://open.spotify.com/artist/6hFCrGWF14mnyOZMVU43kK) | [Tu Mera](https://open.spotify.com/album/1xbAC0d42PUiSipmSmqVUx) | 3:19 |
+| 6 | [Tu Mera](https://open.spotify.com/track/28NU6UqoWWOUdR71Hh8jQQ) | [Adhyay](https://open.spotify.com/artist/6sexqYPa6pcLAwqhLGe2Oq) | [Tu Mera](https://open.spotify.com/album/1xbAC0d42PUiSipmSmqVUx) | 3:19 |
 | 7 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
 | 8 | [Adhoora](https://open.spotify.com/track/5rwva1AuukXKbL3EYbewmb) | [Rudhraa Boi](https://open.spotify.com/artist/2IsbOR37f9yz5cAU1ZF3pd) | [Adhoora](https://open.spotify.com/album/2k6l6yckXzxowISogE9UEB) | 2:58 |
 | 9 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |

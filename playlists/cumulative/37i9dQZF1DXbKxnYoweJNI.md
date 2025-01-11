@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: RPG x Black MIC x BG8LOCC
 
-1,455 songs - 3 day 12 hr 37 min
+1,456 songs - 3 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [一片海](https://open.spotify.com/track/01f3jEWKOTpZYhFzjW626r) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [一片海](https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM) | 4:47 | 2024-07-18 | 2024-08-09 |
 | [一盤棋局](https://open.spotify.com/track/6Zxnf0AlkRGM03pdSTi9XG) | [Insnowk](https://open.spotify.com/artist/5aeU78blusuYLltNCugrmg) | [一盤棋局](https://open.spotify.com/album/2p5g2CgMqvpluLUaVK0qSB) | 1:50 | 2024-07-18 | 2024-07-27 |
 | [一瞬間](https://open.spotify.com/track/23RfZ6VIC4cbQakEi2Xvff) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [一瞬間](https://open.spotify.com/album/3VBYWKe1QxKXPhBRUbmqUu) | 3:51 | 2024-08-01 | 2024-08-09 |
-| [一碗番薯糜 \(SG:SW 2024 最佳歌曲獎\)](https://open.spotify.com/track/2UgvSmoacxIRocDQcLDyHQ) | [Mirasole 亭安](https://open.spotify.com/artist/4bEy0ystPD4oD5n668cGVJ), [吳劍泓 Zennon Goh](https://open.spotify.com/artist/5skMYjMNgCJN8e1LFy22xP) | [一碗番薯糜 \(SG:SW 2024 最佳歌曲獎\)](https://open.spotify.com/album/2TjPA6B4IpV6C1SpUrCmtB) | 4:03 | 2025-01-09 |  |
+| [一碗番薯糜 \(SG:SW 2024 最佳歌曲獎\)](https://open.spotify.com/track/2UgvSmoacxIRocDQcLDyHQ) | [Mirasole 亭安](https://open.spotify.com/artist/4bEy0ystPD4oD5n668cGVJ) | [一碗番薯糜 \(SG:SW 2024 最佳歌曲獎\)](https://open.spotify.com/album/2TjPA6B4IpV6C1SpUrCmtB) | 4:03 | 2025-01-09 |  |
 | [一言不合（feat.Suming舒米恩 創作獻聲電影主題插曲）](https://open.spotify.com/track/0ptEf5qJg8U2GtzoSDcs2B) | [舒米恩](https://open.spotify.com/artist/4b93I2NZtUVqxb8X2Aybiy) | [《為我辦一場西式的喪禮》電影原聲帶 See You Movie Sound Tracks](https://open.spotify.com/album/0uSpWD8tT5LGPj2vKvA7bZ) | 2:27 | 2024-10-24 | 2024-11-08 |
 | [一起看黄昏 \(Teleportation chinese ver.\) \[OT：テレポーテーション Teleportation\]](https://open.spotify.com/track/2WbJ2gT6rI0pLxjhZ87qnG) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [一起看黃昏](https://open.spotify.com/album/1QHTxeYbYQRwq4sZzIIVPj) | 4:50 | 2024-12-19 | 2025-01-10 |
 | [一起走！](https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [一起走！](https://open.spotify.com/album/3UAlXiJpkN64xfFnb2GPHV) | 3:22 | 2024-06-27 | 2024-07-19 |
@@ -615,6 +615,7 @@
 | [冷色晚風](https://open.spotify.com/track/4qkxx2rXg9mZh8GdTwbR6s) | [Cool\-Aid陈轶伦](https://open.spotify.com/artist/78fFyH6P6oSGSC0XM75mWD), [KIV](https://open.spotify.com/artist/6bInA3c3EAojYc7Ut2xfMS) | [冷色晚風](https://open.spotify.com/album/2jNm6brukTI8uFG43Edoyo) | 2:51 | 2024-12-19 |  |
 | [凡人求仙路](https://open.spotify.com/track/3Q4u05xMQFNPnudGR3wMfK) | [布鲁昔](https://open.spotify.com/artist/07RSJfIHVWCe4SnFciwbmv) | [凡人求仙路](https://open.spotify.com/album/7yhXc6OvUd7BTFiUXwM9Ig) | 2:39 | 2024-12-05 | 2024-12-13 |
 | [分開或許妳會快樂](https://open.spotify.com/track/3qk5oktdpbCHUEDQUNStGm) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [分開或許妳會快樂](https://open.spotify.com/album/5DRUHOeHWJrvh889WkgqHr) | 3:48 | 2025-01-09 |  |
+| [初心](https://open.spotify.com/track/3qERzYNLArHAZXxYbTVojm) | [郭欣瑜](https://open.spotify.com/artist/6iNNIxt6euZuN7h9fjcOZ8) | [初心](https://open.spotify.com/album/3xDtgeU5HhUFR0cJieX8jS) | 3:50 | 2025-01-09 |  |
 | [初蕊](https://open.spotify.com/track/12n5F7UJ43ugzRRcgT4CIk) | [羅文裕](https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo) | [初蕊](https://open.spotify.com/album/5FO4R1ShSrrnedU2yGXDJI) | 2:36 | 2024-11-21 | 2024-12-13 |
 | [別再攻擊我的LINE](https://open.spotify.com/track/2cntCqiOjzFuTprtYf3aZy) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [別再攻擊我的LINE](https://open.spotify.com/album/57GfEovhcxcFgeZTnDAOjf) | 3:15 | 2024-07-25 | 2024-08-23 |
 | [別對我說謊](https://open.spotify.com/track/2B8WFk3TeANeIpKhmCre41) | [Justin Lin](https://open.spotify.com/artist/3MkEu8tmlNSgZ8XF14yDpS) | [別對我說謊](https://open.spotify.com/album/0zpEZq5iIhvbLMeCMOPxj7) | 4:15 | 2024-07-11 | 2024-07-19 |

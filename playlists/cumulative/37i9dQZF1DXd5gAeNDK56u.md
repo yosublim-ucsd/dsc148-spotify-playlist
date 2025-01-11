@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-115 songs - 5 hr 2 min
+123 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bloody Mary](https://open.spotify.com/track/0PESwPMPagap9mCosDQQeJ) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Bloody Mary](https://open.spotify.com/album/4DPHVdxFdxvBJY6wBj4zLK) | 2:13 | 2023-03-27 |  |
 | [Bodega](https://open.spotify.com/track/4NCmSPUkg2ge6yeO85LdCj) | [PanCake](https://open.spotify.com/artist/2GKqx52XNztRcJmyBmQGvr), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Bodega](https://open.spotify.com/album/3nBf15LxWE2jHx1ZzBSN2Z) | 2:37 | 2023-03-27 |  |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2023-03-27 |  |
+| [Broken Glass](https://open.spotify.com/track/2pvmlX4GLvkpNvYHeIagF3) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Broken Glass](https://open.spotify.com/album/70AlA7YLldQuBHyTB7RhKo) | 3:48 | 2025-01-10 |  |
 | [Bunny Mafia](https://open.spotify.com/track/5lTmF6RDdyd45RIrDgfV22) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Bunny Mafia](https://open.spotify.com/album/2ZmJCjus4JrcC10CqvG0a5) | 1:44 | 2023-03-27 | 2024-02-23 |
 | [Butterflies and Giggles](https://open.spotify.com/track/2dlWe13yc12sKHAJCVNjzo) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [Butterflies and Giggles](https://open.spotify.com/album/3cYKsrGVyuCaam5BIZUY6V) | 2:10 | 2023-03-27 |  |
 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 | 2023-03-27 |  |
@@ -61,6 +62,7 @@
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2023-03-27 |  |
 | [In the Cypher](https://open.spotify.com/track/5W6BcU0JP8ArJF4HKxiwNW) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:28 | 2023-03-27 |  |
 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 | 2023-03-27 | 2024-06-14 |
+| [Keep Going](https://open.spotify.com/track/0v5gPiLqq5C2cQrLr1S9VK) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Keep Going](https://open.spotify.com/album/1UumY0HmfArch1mYGHIxZp) | 2:57 | 2025-01-10 |  |
 | [Kylie](https://open.spotify.com/track/735lPgzrp5IrVURzjINTs6) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Kylie](https://open.spotify.com/album/516RC3OSfnSRoK2LQwmSfN) | 2:52 | 2023-03-27 |  |
 | [Last to Leave](https://open.spotify.com/track/2775fOrLACHgsbdfJWHhYX) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:38 | 2023-03-27 |  |
 | [Lauda](https://open.spotify.com/track/3xCcwfjK0erfnNFl3BdDRm) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Fenomeno](https://open.spotify.com/album/2bCYmMuzZsimxTQWDrTEw4) | 2:01 | 2023-03-27 |  |
@@ -68,6 +70,7 @@
 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 | 2023-03-27 |  |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2023-03-27 |  |
 | [Lonely Girl Juice](https://open.spotify.com/track/1QpehD5M9HRK50Hl2Ir2ZW) | [Dmnnce](https://open.spotify.com/artist/1MzobgRe9ORnE8nIYGeEVT) | [Lonely Girl Juice](https://open.spotify.com/album/0jmlK3oqlEaUJBQYepSadF) | 2:27 | 2023-03-27 |  |
+| [Lotus Drip](https://open.spotify.com/track/6t5lJGnBqArbE7dYJwifBY) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Lotus Drip](https://open.spotify.com/album/7v0WNowMcK3UDgOaNvvaGQ) | 2:52 | 2025-01-10 |  |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2023-03-27 |  |
 | [Lucci](https://open.spotify.com/track/7esJ983DwtGoC6xjtkLWfH) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Lucci](https://open.spotify.com/album/3xQ3MENF2hsGuzoGducqGs) | 1:54 | 2023-03-27 | 2024-02-23 |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2023-03-27 |  |
@@ -84,20 +87,24 @@
 | [Nu World Order](https://open.spotify.com/track/3erqNTHPWsfJVM4ZSsEJ6t) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Nu World Order](https://open.spotify.com/album/2Je8l8GvcHGTwNjcyCrd4w) | 2:48 | 2023-03-27 |  |
 | [OneTwo](https://open.spotify.com/track/0BzXb43npjCoedlPHH3W2X) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 2:54 | 2023-03-27 |  |
 | [Over 'n Out](https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN) | [Trice](https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO) | [Over 'n Out](https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL) | 3:51 | 2024-01-20 |  |
+| [Pandora Box](https://open.spotify.com/track/1QGYmgxQgxwT3qSPXAsfpp) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Pandora Box](https://open.spotify.com/album/6GBva5sD38Z0q4oeBRfPy0) | 3:01 | 2025-01-10 |  |
 | [Partying in the Hills](https://open.spotify.com/track/3zIG0iLPB3DFQ8hoSY7GXr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Partying in the Hills](https://open.spotify.com/album/256rvrBIrKRzlor7oyZDTX) | 2:28 | 2023-03-27 |  |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2023-03-27 |  |
 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-26 |  |
 | [Purgatory](https://open.spotify.com/track/02dlauQwCv2o8dYphcRlUA) | [Alien Academy](https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk) | [Purgatory](https://open.spotify.com/album/7vdWzrmaRC1ObHCAM8tbD1) | 2:04 | 2024-04-09 | 2024-07-15 |
+| [Rainbow](https://open.spotify.com/track/7mo9bcfoariVaBVDB7MzAE) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Rainbow](https://open.spotify.com/album/4Efoap7h7OpAElQiy02X7R) | 2:41 | 2025-01-10 |  |
 | [Resurrection](https://open.spotify.com/track/1X1AsQHt0GdsIG046qoAMV) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Resurrection](https://open.spotify.com/album/3ZquHqKJqQMJPh8K7VKHfH) | 2:58 | 2024-04-09 |  |
 | [Resurrection](https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Resurrection](https://open.spotify.com/album/3dcsLFbkuCRO6fpgf3XeQN) | 2:58 | 2023-03-27 | 2024-04-19 |
 | [Ruckus](https://open.spotify.com/track/6MzW9oJ3r8KCMeV2Wzm9dO) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Ruckus](https://open.spotify.com/album/5ZsU2rXahZTemj5k2pwvHQ) | 2:29 | 2023-03-27 |  |
 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 | 2023-03-27 |  |
 | [Shaded](https://open.spotify.com/track/7naAfuZwQluhcaSsZV5X9D) | [Bloodmasta Cut](https://open.spotify.com/artist/2rh01sSbOkGqeTUDKunM25), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Shaded](https://open.spotify.com/album/7DvBGb16PZeNo6mAB1AWlF) | 3:08 | 2023-03-27 |  |
+| [Sideways](https://open.spotify.com/track/37XJufUBbmusadzlldcryG) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Sideways](https://open.spotify.com/album/6AjnDa2FRUjAurGUkog3LA) | 2:41 | 2025-01-10 |  |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2023-03-27 |  |
 | [Sinking ships](https://open.spotify.com/track/0Zhn2UKdk85ZjJQWgTsN4L) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Sinking ships](https://open.spotify.com/album/4scVxa1K0CXcSY2ecLkDQt) | 2:38 | 2024-11-15 |  |
 | [Spider Ceiling](https://open.spotify.com/track/4NYpYKCKpi2AfaDkKgwV7G) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Cornflakes for Dinner](https://open.spotify.com/album/3k39WOcEpT2xfaDEqYUuAt) | 2:33 | 2023-03-27 |  |
 | [Stardestroyer](https://open.spotify.com/track/0PVE2LWeI2sASeUpK3kTlY) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:51 | 2023-03-27 |  |
 | [Stardust](https://open.spotify.com/track/04P6SptKI4ME31V8DSl9uv) | [ifftic](https://open.spotify.com/artist/3XZ2F5KvNyGPOqAXgGXeLZ) | [Mr Owl](https://open.spotify.com/album/5MwNMogVtJe5GchiEVuY4f) | 1:46 | 2023-03-27 | 2024-02-23 |
+| [state of zen](https://open.spotify.com/track/0uHnplrnRXhlbApj1Jx023) | [bodacious cowboys](https://open.spotify.com/artist/2U3rOmNtJUo8Q2GIeO6fvb) | [state of zen](https://open.spotify.com/album/5X9bDJ7yIbG7mtu2jQMlAb) | 2:22 | 2025-01-10 |  |
 | [Step Back](https://open.spotify.com/track/5KimoSVW5m1tFROfAFlQHr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Pressure Cooker](https://open.spotify.com/album/6rvGcpNWu5wZi3BkCt5Byq) | 2:30 | 2023-03-27 |  |
 | [Step Up](https://open.spotify.com/track/0fCP1lNsTbAkM9ZR8g5Mny) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/5CN1A0rMdMRzFmrVx7VBCG) | 2:48 | 2023-03-27 | 2024-04-19 |
 | [Step Up](https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE) | 2:48 | 2023-03-27 |  |
@@ -106,7 +113,7 @@
 | [Targets](https://open.spotify.com/track/5T34t5XWmwI4J8GPk55DhW) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:18 | 2023-03-27 |  |
 | [Tenfold](https://open.spotify.com/track/0qAtNFoHtl9eeS4Ztkcy9u) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Tenfold](https://open.spotify.com/album/35ZmQNZr3vi2qq3CQF7cuW) | 2:24 | 2023-03-27 |  |
 | [The Barbarian](https://open.spotify.com/track/7bkUNE3tXcBpTstFbHdMMi) | [Morecheezz](https://open.spotify.com/artist/2HrCeOxLrUJNpDA80dsHBv) | [The Barbarian](https://open.spotify.com/album/6Z4ITKAZklMz7QtGbSrhub) | 2:37 | 2023-03-27 |  |
-| [The Good, The Bad And The Ugly](https://open.spotify.com/track/6FEUv9ismcL26g4zLC4Yah) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [The Good, The Bad And The Ugly](https://open.spotify.com/album/0lknQFn8DB2nLF3hTDgReC) | 2:30 | 2024-03-03 |  |
+| [The Good, The Bad And The Ugly](https://open.spotify.com/track/6FEUv9ismcL26g4zLC4Yah) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [The Good, The Bad And The Ugly](https://open.spotify.com/album/0lknQFn8DB2nLF3hTDgReC) | 2:30 | 2024-03-03 | 2025-01-11 |
 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 | 2023-03-27 |  |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2023-03-27 |  |
 | [Top of the Line](https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Top of the Line](https://open.spotify.com/album/4YZJrAvoRBtb6KvektTwz0) | 2:46 | 2023-03-27 |  |
@@ -116,6 +123,7 @@
 | [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 | 2024-03-26 |  |
 | [Voices](https://open.spotify.com/track/0wotNoOjaZ0ywOL6H0ryRg) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Voices](https://open.spotify.com/album/4I5OMUosuaxd67tikjoLzA) | 3:02 | 2023-03-27 |  |
 | [VVS](https://open.spotify.com/track/6222XJYoLxi9EQ2KnmSJCX) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [VVS](https://open.spotify.com/album/1ANnj2y4Bznw82pSkIxtYM) | 1:59 | 2023-03-27 | 2024-02-23 |
+| [Waiting](https://open.spotify.com/track/61PZO6qSaGjqfllC5gu4Hn) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Waiting](https://open.spotify.com/album/7IK9cKeVVbjEsUueOXS2OE) | 3:12 | 2025-01-10 |  |
 | [Warm Cup of Golden Milk](https://open.spotify.com/track/0EtpOpmuyOkLB7rxPR1dIw) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [The Sun's Out](https://open.spotify.com/album/7BgKxVlKsMQYjy4yyiCsLq) | 2:24 | 2023-03-27 |  |
 | [When Stars Align](https://open.spotify.com/track/5LgptuUsiikDxsiJv4Wq7D) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [When Stars Align](https://open.spotify.com/album/7DeT2Mir0S6meAuA7RmlMB) | 1:58 | 2023-03-27 | 2024-02-23 |
 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 | 2023-03-27 |  |

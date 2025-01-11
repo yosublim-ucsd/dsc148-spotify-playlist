@@ -4771,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "Mic Drop",
+        "url": "https://open.spotify.com/album/6kttVS0doCHFsBGeCJwMWC"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Mic Drop",
+      "url": "https://open.spotify.com/track/6npuUTkcFCW0nxFd4oFRvy"
+    },
+    {
+      "album": {
         "name": "Ready 2 Rage EP",
         "url": "https://open.spotify.com/album/1qktITvo0MUwhqnN6jD82A"
       },
@@ -6052,6 +6074,28 @@
       "duration_ms": 200016,
       "name": "Pompeii (feat. Crooked Bangs)",
       "url": "https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v"
+    },
+    {
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/5ABYnU3Ti5L4028bwNtKSp"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178409,
+      "name": "Power (feat. Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
     },
     {
       "album": {

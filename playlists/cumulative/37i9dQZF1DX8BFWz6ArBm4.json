@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ioulia Kalimani",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Billie Isak",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185715,
       "name": "Haraktira Den Allazo",
       "url": "https://open.spotify.com/track/0OmK6YAjBqF8OWEqafom34"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Paidi Tis Nihtas",
+        "url": "https://open.spotify.com/album/3RdXZDeJ8ZuLIdJboEXg38"
+      },
+      "artists": [
+        {
+          "name": "Xryspa",
+          "url": "https://open.spotify.com/artist/6lJ3pYm8pC3rC7tfKE5PNU"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178612,
+      "name": "Paidi Tis Nihtas",
+      "url": "https://open.spotify.com/track/4rRYZpFSnqsQ2fCctTOj3K"
+    },
+    {
+      "album": {
         "name": "Palies Fotografies",
         "url": "https://open.spotify.com/album/7dacWPJOwAKtfPPg4mhAuM"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 216857,
       "name": "Se Thelo Gia Mena",
       "url": "https://open.spotify.com/track/7Fbmh0X62mRwtFQA9oZI7L"
@@ -2078,6 +2096,24 @@
       "duration_ms": 220691,
       "name": "To S' Agapo Sou Sketo",
       "url": "https://open.spotify.com/track/3yONB6TGBnP1I6Y2GGVHQY"
+    },
+    {
+      "album": {
+        "name": "To Trauma",
+        "url": "https://open.spotify.com/album/5dCVFETBkjrWDb0mxzS8uu"
+      },
+      "artists": [
+        {
+          "name": "Billie Isak",
+          "url": "https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "To Trauma",
+      "url": "https://open.spotify.com/track/71HdGobhRhylNzHytN6Nil"
     },
     {
       "album": {

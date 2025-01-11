@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 Emma Nolde in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,864 likes - 95 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 95 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
-| 2 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 |
-| 3 | [ultimanotte](https://open.spotify.com/track/1FEwhXtB28yOzfH0UrHoWb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [ultimanotte](https://open.spotify.com/album/7ANd7y44U4BzpO6gBEz0kz) | 3:07 |
-| 4 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
-| 5 | [Paracadute](https://open.spotify.com/track/2DRJV7DFcM1NeitRuEMD4b) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Paracadute](https://open.spotify.com/album/3iaD1M5hCPTmBu9p7XIpvh) | 2:50 |
-| 6 | [Amami Adesso](https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Effetto Domino](https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K) | 3:08 |
-| 7 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 |
-| 8 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 |
-| 9 | [La parte più profonda del cuore](https://open.spotify.com/track/2uI9eUfp9scihf97rS0Jt8) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [La parte più profonda del cuore](https://open.spotify.com/album/2rmrPqKDWivbquuLFlMRTq) | 2:57 |
-| 10 | [Dancing On This](https://open.spotify.com/track/1MR4lVHyfVH5jYT52hVydD) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Dancing on this](https://open.spotify.com/album/3mD2YvH6vj65ECzVKMUQuU) | 3:56 |
-| 11 | [TBLISI](https://open.spotify.com/track/61hELzzxwIpPRe7Em76Ga6) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [TBLISI](https://open.spotify.com/album/1LuS7MOIiPK3KogzJro8eC) | 2:02 |
+| 2 | [TBLISI](https://open.spotify.com/track/61hELzzxwIpPRe7Em76Ga6) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [TBLISI](https://open.spotify.com/album/1LuS7MOIiPK3KogzJro8eC) | 2:02 |
+| 3 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 |
+| 4 | [ultimanotte](https://open.spotify.com/track/1FEwhXtB28yOzfH0UrHoWb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [ultimanotte](https://open.spotify.com/album/7ANd7y44U4BzpO6gBEz0kz) | 3:07 |
+| 5 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
+| 6 | [Paracadute](https://open.spotify.com/track/2DRJV7DFcM1NeitRuEMD4b) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Paracadute](https://open.spotify.com/album/3iaD1M5hCPTmBu9p7XIpvh) | 2:50 |
+| 7 | [Amami Adesso](https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Effetto Domino](https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K) | 3:08 |
+| 8 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 |
+| 9 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 |
+| 10 | [La parte più profonda del cuore](https://open.spotify.com/track/2uI9eUfp9scihf97rS0Jt8) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [La parte più profonda del cuore](https://open.spotify.com/album/2rmrPqKDWivbquuLFlMRTq) | 2:57 |
+| 11 | [Dancing On This](https://open.spotify.com/track/1MR4lVHyfVH5jYT52hVydD) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Dancing on this](https://open.spotify.com/album/3mD2YvH6vj65ECzVKMUQuU) | 3:56 |
 | 12 | [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 |
 | 13 | [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/track/2VjH2Bck5o4fO39OJunEyt) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/album/4nJXwof60PD6iaVpnQRqxR) | 2:59 |
 | 14 | [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 94 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 95 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 
-Snapshot ID: `Z1A1HgAAAADQLI/gwMTIYUNa7//WEfaF`
+Snapshot ID: `Z4EuWgAAAABx3hinSAhbKRVpXpCd2uRj`

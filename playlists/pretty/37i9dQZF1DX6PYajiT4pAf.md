@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Kapo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,046 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,551 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 36 | [Back 2 Back\\/\\/oods](https://open.spotify.com/track/3tOCEbcFxlXG6TLKCrcF1h) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [Cessabit](https://open.spotify.com/artist/2FWkJYBx2YT195n6N5dNkV) | [Back 2 Back\\/\\/oods](https://open.spotify.com/album/4shoKRwWNreeggvEDab9Kp) | 2:51 |
 | 37 | [YERBABUENA](https://open.spotify.com/track/74ujIumBc7STBhR0kL1rwP) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [YERBABUENA](https://open.spotify.com/album/0EhdOLT75A27wDXTT7YCgj) | 2:48 |
 | 38 | [Chacarera](https://open.spotify.com/track/0FNFjuBTHUNkj8wVMJZxxh) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Chacarera](https://open.spotify.com/album/2jEUNsJ9uL1SUkY5EWuynJ) | 2:58 |
-| 39 | [SAL Y AGUA BENDITA](https://open.spotify.com/track/76V2s3WNJzByDdWrU31zYj) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea) | [SAL Y AGUA BENDITA](https://open.spotify.com/album/0bZ8GoOoelTbBwyl5A963S) | 2:24 |
-| 40 | [Donde siempre he estado](https://open.spotify.com/track/6UxBOftXfbBmcIhxgnIWZd) | [KALENN](https://open.spotify.com/artist/3y6SuQCMOv2OAVXxgp6GFW) | [Donde siempre he estado](https://open.spotify.com/album/03W0a7Bf1IDNHidzbCWak0) | 3:21 |
-| 41 | [ORIGAMI](https://open.spotify.com/track/4AC3SSYAO1I3FQZk0bU29B) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [ORIGAMI](https://open.spotify.com/album/6mDjJHBFqlgJnbQTT3Fodc) | 2:16 |
-| 42 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:57 |
-| 43 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
-| 44 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
-| 45 | [BRUCE WAYNE](https://open.spotify.com/track/3JQrBnoL9z8BJKaexLOqf9) | [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [BRUCE WAYNE](https://open.spotify.com/album/5yC9R6zxAaACVP9zIIoA8z) | 1:49 |
-| 46 | [Lliure i bohemi](https://open.spotify.com/track/6xX4EuszZO0Casr7fhIWlk) | [Guillem Ramisa](https://open.spotify.com/artist/2u6RzkkEtegMEBAy6MYcsW) | [Lliure i bohemi](https://open.spotify.com/album/3IFVKWPsuvRk7W6sHYxAeU) | 2:13 |
-| 47 | [Las Ganas](https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx) | [Las Ganas](https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm) | 2:54 |
-| 48 | [SE BUSCA](https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [SE BUSCA](https://open.spotify.com/album/612fj3QrB4483OomTwgmnH) | 3:39 |
+| 39 | [Más Profundidad](https://open.spotify.com/track/5goijdL65FQHzDws8ctgri) | [Miree](https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD) | [Más Profundidad](https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1) | 3:02 |
+| 40 | [SAL Y AGUA BENDITA](https://open.spotify.com/track/76V2s3WNJzByDdWrU31zYj) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea) | [SAL Y AGUA BENDITA](https://open.spotify.com/album/0bZ8GoOoelTbBwyl5A963S) | 2:24 |
+| 41 | [Donde siempre he estado](https://open.spotify.com/track/6UxBOftXfbBmcIhxgnIWZd) | [KALENN](https://open.spotify.com/artist/3y6SuQCMOv2OAVXxgp6GFW) | [Donde siempre he estado](https://open.spotify.com/album/03W0a7Bf1IDNHidzbCWak0) | 3:21 |
+| 42 | [ORIGAMI](https://open.spotify.com/track/4AC3SSYAO1I3FQZk0bU29B) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [ORIGAMI](https://open.spotify.com/album/6mDjJHBFqlgJnbQTT3Fodc) | 2:16 |
+| 43 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:57 |
+| 44 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
+| 45 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 46 | [BRUCE WAYNE](https://open.spotify.com/track/3JQrBnoL9z8BJKaexLOqf9) | [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [BRUCE WAYNE](https://open.spotify.com/album/5yC9R6zxAaACVP9zIIoA8z) | 1:49 |
+| 47 | [Lliure i bohemi](https://open.spotify.com/track/6xX4EuszZO0Casr7fhIWlk) | [Guillem Ramisa](https://open.spotify.com/artist/2u6RzkkEtegMEBAy6MYcsW) | [Lliure i bohemi](https://open.spotify.com/album/3IFVKWPsuvRk7W6sHYxAeU) | 2:13 |
+| 48 | [Las Ganas](https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx) | [Las Ganas](https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm) | 2:54 |
+| 49 | [SE BUSCA](https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [SE BUSCA](https://open.spotify.com/album/612fj3QrB4483OomTwgmnH) | 3:39 |
 
-Snapshot ID: `Z4BjFgAAAADU7ZFxzNbMKsCk55yKP59R`
+Snapshot ID: `Z4FGxQAAAAABCKVmbrlTNFkuRFerePro`

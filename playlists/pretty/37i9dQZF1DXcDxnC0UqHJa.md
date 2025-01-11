@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,375 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,407 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 43 | [The Safety Dance](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:26 |
 | 44 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 |
 | 45 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
-| 46 | [Unknown Legend](https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Unknown Legend](https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH) | 4:08 |
-| 47 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
+| 46 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
+| 47 | [Unknown Legend](https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Unknown Legend](https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH) | 4:08 |
 | 48 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
 | 49 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 |
 | 50 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/3xE1LJSIh5B1Fl7K7vZN8I) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:56 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 69 | [If You Could Read My Mind](https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [If You Could Read My Mind](https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4) | 3:17 |
 | 70 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 |
 | 71 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
-| 72 | [If I Were A Carpenter](https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Young Brigham](https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO) | 5:04 |
-| 73 | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg) | 1:50 |
+| 72 | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg) | 1:50 |
+| 73 | [If I Were A Carpenter](https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Young Brigham](https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO) | 5:04 |
 | 74 | [By Your Side](https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [By Your Side / Landslide](https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42) | 4:26 |
 | 75 | [Black Star](https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Black Star](https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z) | 5:18 |
 | 76 | [Remembering Mountains](https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remembering Mountains : Unheard Songs By Karen Dalton](https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI) | 3:36 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 109 | [Talk to Me of Mendocino](https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Talk to Me of Mendocino](https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts) | 3:20 |
 | 110 | [Cigarette Machine](https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Cigarette Machine](https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4) | 3:24 |
 | 111 | [End of Beginning](https://open.spotify.com/track/6cRsC2XATsCf8nnAbI98Sk) | [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f) | [End of Beginning](https://open.spotify.com/album/5tjpF9DZGffUXhiKPw2BkR) | 2:50 |
-| 112 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
-| 113 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 |
+| 112 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 |
+| 113 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 114 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 |
 | 115 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 |
 

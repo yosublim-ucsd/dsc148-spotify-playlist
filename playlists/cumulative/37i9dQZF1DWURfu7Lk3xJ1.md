@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-521 songs - 20 hr 29 min
+522 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 | 2022-10-14 |  |
 | [Promise Keeper](https://open.spotify.com/track/0C0zdDrUpv78MocEzCHEig) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq), [Joseph Newton](https://open.spotify.com/artist/4sortLWQS0SQiIvkRnHWQq) | [Promise Keeper](https://open.spotify.com/album/540CmBpmGhDyiNEoyhzn87) | 1:54 | 2022-09-09 | 2022-12-09 |
 | [pulsation](https://open.spotify.com/track/3VjK1arZPnFcTbSJ4zR3hc) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [pulsation](https://open.spotify.com/album/6A95PAtS0MSpuWR6yx63U7) | 2:10 | 2023-03-20 | 2024-08-23 |
+| [pulse of nature](https://open.spotify.com/track/6F3s9DC4k48A6Ay4YApMjm) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft) | [pulse of nature](https://open.spotify.com/album/2lYra9Hh0hgZtmxiG9FaGX) | 2:21 | 2025-01-10 |  |
 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 | 2023-10-27 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-09 |  |
 | [Purple Sky](https://open.spotify.com/track/0KJV4g3S5w1T7fqsyDrGJz) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/4jUHN7x4JwSVQnxlz29LNl) | 2:07 | 2022-12-09 | 2023-10-20 |

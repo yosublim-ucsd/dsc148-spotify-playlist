@@ -4,11 +4,12 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-654 songs - 2 day 3 hr 26 min
+655 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20ms](https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [20ms](https://open.spotify.com/album/5qVxSXNw0lk95eOSgLoWjP) | 4:37 | 2023-09-01 | 2023-09-30 |
+| [44 \(Forget Forever\) \(Mathame Remix\)](https://open.spotify.com/track/3sQFWyTGIe1j4dyIkzKzBO) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [4444:Reborn](https://open.spotify.com/album/3hJ5n4LUTznYIsbml5gmXu) | 4:55 | 2025-01-09 |  |
 | [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 | 2024-10-04 |
 | [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2023-09-21 |  |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/2nwzgfxFquLBgbx3LMdxWv) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [A Thousand Knives \(Enamour Remix\) \[Edit\]](https://open.spotify.com/album/5BQ5rQxDLVSi1tjzTQOZ35) | 4:49 | 2023-06-23 | 2023-07-14 |

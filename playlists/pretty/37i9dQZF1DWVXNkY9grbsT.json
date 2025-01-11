@@ -1,12 +1,12 @@
 {
-  "description": "Genre-defying artists pushing boundaries in electronic ambient music",
-  "num_followers": 103291,
+  "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
+  "num_followers": 103331,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4Bx5gAAAACzGLNqmLTGk6F5gl57dA+8",
+  "snapshot_id": "Z4FqiQAAAACqsY7XrRQ+4gpB3YJ9vxZb",
   "tracks": [
     {
       "added_at": "2025-01-09 22:27:59",
@@ -403,22 +403,18 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
+        "name": "Fond",
+        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
       },
       "artists": [
         {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
         }
       ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
+      "duration_ms": 160362,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -447,18 +443,22 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Fond",
-        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
       "artists": [
         {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
         }
       ],
-      "duration_ms": 160362,
-      "name": "Fond",
-      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 241862,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Weltenwandler",
-        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
-      },
-      "artists": [
-        {
-          "name": "Klartraum",
-          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
-        }
-      ],
-      "duration_ms": 316433,
-      "name": "Weltenwandler - Radio Edit",
-      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
         "name": "The Greater Wings",
         "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+        "name": "Weltenwandler",
+        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "Klartraum",
+          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
         }
       ],
-      "duration_ms": 207419,
-      "name": "Bird Language",
-      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+      "duration_ms": 316433,
+      "name": "Weltenwandler - Radio Edit",
+      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "The Prettiest Pearl",
-      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
         "name": "Night Journeys",
         "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186600,
       "name": "Night Journeys I",
       "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "The Prettiest Pearl",
+      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "What Is Not Strange?",
-        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
-      },
-      "artists": [
-        {
-          "name": "Tashi Wada",
-          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "What Is Not Strange?",
-      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
+        "name": "What Is Not Strange?",
+        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
+      },
+      "artists": [
+        {
+          "name": "Tashi Wada",
+          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "What Is Not Strange?",
+      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Metamorphose",
-        "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 190983,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+      "duration_ms": 204955,
+      "name": "Shizumu - Ambient Mix",
+      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+        "name": "Metamorphose",
+        "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
       },
       "artists": [
         {
@@ -1284,25 +1284,25 @@
           "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+      "duration_ms": 190983,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
     },
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
       "artists": [
         {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 204955,
-      "name": "Shizumu - Ambient Mix",
-      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Earth and Beyond",
-        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
-      },
-      "artists": [
-        {
-          "name": "LAV",
-          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
-        },
-        {
-          "name": "Purl",
-          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
-        }
-      ],
-      "duration_ms": 596250,
-      "name": "Earthship",
-      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
         "name": "Ten As One",
         "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 336251,
       "name": "Carmel",
       "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
+        "name": "Earth and Beyond",
+        "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
+      },
+      "artists": [
+        {
+          "name": "LAV",
+          "url": "https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW"
+        },
+        {
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+        }
+      ],
+      "duration_ms": 596250,
+      "name": "Earthship",
+      "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
-      },
-      "artists": [
-        {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 306122,
-      "name": "Sinnessprung",
-      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
-    },
-    {
-      "added_at": "2025-01-09 22:27:59",
-      "album": {
         "name": "Music for k\u014d",
         "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
       },
@@ -1647,18 +1627,22 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
       "artists": [
         {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n"
+      "duration_ms": 306122,
+      "name": "Sinnessprung",
+      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1683,22 +1667,18 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "R Abacus Lndr",
-        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
       "artists": [
         {
-          "name": "Pulse Mandala",
-          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
-        },
-        {
-          "name": "Distant Fires Burning",
-          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
         }
       ],
-      "duration_ms": 432439,
-      "name": "Antikythera Rddl",
-      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
+      "duration_ms": 179573,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n"
     },
     {
       "added_at": "2025-01-09 22:27:59",
@@ -1735,18 +1715,38 @@
     {
       "added_at": "2025-01-09 22:27:59",
       "album": {
-        "name": "Nothing Will Last",
-        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
+        "name": "R Abacus Lndr",
+        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
       },
       "artists": [
         {
-          "name": "Araceae",
-          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
+          "name": "Pulse Mandala",
+          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
+        },
+        {
+          "name": "Distant Fires Burning",
+          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
         }
       ],
-      "duration_ms": 557261,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
+      "duration_ms": 432439,
+      "name": "Antikythera Rddl",
+      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
+    },
+    {
+      "added_at": "2025-01-09 22:27:59",
+      "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     }
   ],
   "unique_name": "Electronic X",

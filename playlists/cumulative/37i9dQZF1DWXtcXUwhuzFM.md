@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa JVG.
 
-4,000 songs - 8 day 18 hr 16 min
+4,001 songs - 8 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-08-29 | 2024-09-06 |
 | [Complete](https://open.spotify.com/track/4C4XYGxslRUKY7dJ3VT3SV) | [Devinity](https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai), [Raïko](https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Complete](https://open.spotify.com/album/2IJeMtv2rxMCRHE7FbYuv6) | 2:09 | 2024-05-30 | 2024-06-07 |
 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 | 2024-08-15 | 2024-08-23 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 |  |
 | [Copenhagen](https://open.spotify.com/track/3t3JMd6WEeXVLVslzzDFKh) | [Stella](https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS), [Mattias Kolstrup](https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG) | [Copenhagen](https://open.spotify.com/album/0aeAItggALViyjDIcn8zKx) | 3:10 | 2024-06-20 | 2024-06-28 |
 | [Corazon \(feat\. Neo\)](https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9) | [Henriguez](https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE), [Neo](https://open.spotify.com/artist/41kvT8ol7IQdZKnzfGPtR1) | [Corazon \(feat\. Neo\)](https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj) | 3:08 | 2024-07-11 | 2024-07-19 |
 | [Corazón](https://open.spotify.com/track/7mHW02tnueifvVFkeV7PL7) | [SISU](https://open.spotify.com/artist/58gkYsbfvos7oFCH2qE4Yg) | [Corazón](https://open.spotify.com/album/7m1ni3qh7lt2oPRlUP64LK) | 2:31 | 2024-06-20 | 2024-06-28 |

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44230,
+  "num_followers": 44228,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZzTNqqoOiAjDLKUsW0xQqZm90sKUB",
+  "snapshot_id": "AAAZz4znbypjA10lHwf8vxkbipR5ktOv",
   "tracks": [
+    {
+      "added_at": "2025-01-10 15:59:05",
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/5ABYnU3Ti5L4028bwNtKSp"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 178409,
+      "name": "Power (feat. Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
+    },
+    {
+      "added_at": "2025-01-10 15:58:50",
+      "album": {
+        "name": "Mic Drop",
+        "url": "https://open.spotify.com/album/6kttVS0doCHFsBGeCJwMWC"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Mic Drop",
+      "url": "https://open.spotify.com/track/6npuUTkcFCW0nxFd4oFRvy"
+    },
     {
       "added_at": "2024-12-20 17:49:31",
       "album": {

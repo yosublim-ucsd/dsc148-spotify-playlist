@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "Fino Siempre Brego",
+        "url": "https://open.spotify.com/album/7jfwv3OfdayyfmduGHuxpw"
+      },
+      "artists": [
+        {
+          "name": "Ele Ekis",
+          "url": "https://open.spotify.com/artist/0AJDzNfNuHsASZt2HyobYa"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185526,
+      "name": "Fino Siempre Brego",
+      "url": "https://open.spotify.com/track/6VphjEZkYMKVqskBXSX8JJ"
+    },
+    {
+      "album": {
         "name": "FLAM",
         "url": "https://open.spotify.com/album/3MQVKKAUZfsYeELRjC1L75"
       },

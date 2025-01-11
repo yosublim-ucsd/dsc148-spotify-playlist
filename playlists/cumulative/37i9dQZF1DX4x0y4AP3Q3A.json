@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Dziwna Wiosna",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: wi\u015bniosz",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 206703,
       "name": "90\u2019s",
       "url": "https://open.spotify.com/track/7qyAT8Wqe7xa6oIitgyzT3"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 265269,
       "name": "Bez Ko\u0144ca",
       "url": "https://open.spotify.com/track/5ssKMXIUXcIT2eksaqzM6A"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 275186,
       "name": "Ca\u0142y Ten Zgie\u0142k",
       "url": "https://open.spotify.com/track/2Vu7RYT0iDzdtF1gukfmg5"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 129893,
       "name": "Imperium",
       "url": "https://open.spotify.com/track/5Z2cRfQk6Nna61JPXRGsXN"
@@ -1511,7 +1511,7 @@
       "artists": [
         {
           "name": "Faraway",
-          "url": "https://open.spotify.com/artist/3teqQY8BTvMzAkV3nBRFe5"
+          "url": "https://open.spotify.com/artist/646lnHmBlaaRfDtxgk2jsL"
         }
       ],
       "date_added": "2024-07-26",
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 340967,
       "name": "Licznik",
       "url": "https://open.spotify.com/track/5UsyEb5HOmK4eeRJWuOfWH"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Mur",
+        "url": "https://open.spotify.com/album/4vjxvSQEBWnnox63UtbH8f"
+      },
+      "artists": [
+        {
+          "name": "Silvertale Fox",
+          "url": "https://open.spotify.com/artist/5Ns1WviVZQxlasvlQm2UUB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Mur",
+      "url": "https://open.spotify.com/track/1U3g2xaKmibYvf4gXFKcc2"
+    },
+    {
+      "album": {
         "name": "M\u00f3j Q\u0144",
         "url": "https://open.spotify.com/album/6JW5QGO4ZVXMJbXShsVaDX"
       },
@@ -2451,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Nie bud\u017a mnie",
+        "url": "https://open.spotify.com/album/3c64LoQ57X9Oizy3TzotQ0"
+      },
+      "artists": [
+        {
+          "name": "Mosty",
+          "url": "https://open.spotify.com/artist/3UskNuoRmehVmw6G668IBm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186754,
+      "name": "Nie bud\u017a mnie",
+      "url": "https://open.spotify.com/track/6BtUjYqMpDXcV1Xwwtdo3P"
+    },
+    {
+      "album": {
         "name": "Nie b\u0119dziesz sama",
         "url": "https://open.spotify.com/album/0Ie70wAYpDE19rZP9a4rlN"
       },
@@ -2556,6 +2592,24 @@
       "duration_ms": 236578,
       "name": "Nieba",
       "url": "https://open.spotify.com/track/2PSOtkjzZIHmDNfkmvyzvW"
+    },
+    {
+      "album": {
+        "name": "Niebo nad Niebem",
+        "url": "https://open.spotify.com/album/2APpvxsDcEc9jSgmtXil4X"
+      },
+      "artists": [
+        {
+          "name": "Armia",
+          "url": "https://open.spotify.com/artist/6wX80LLylzviIaxow8IDf0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478642,
+      "name": "Niebo nad Niebem",
+      "url": "https://open.spotify.com/track/2W76YzpIByLvwi1J1YYIHj"
     },
     {
       "album": {
@@ -2834,6 +2888,24 @@
       "duration_ms": 252002,
       "name": "Pelikany",
       "url": "https://open.spotify.com/track/064Da4HOsraimihfq15zaV"
+    },
+    {
+      "album": {
+        "name": "Pe\u0142no \u0141ez",
+        "url": "https://open.spotify.com/album/0KNQFO4YnbSQeyBJRBq911"
+      },
+      "artists": [
+        {
+          "name": "Omamy",
+          "url": "https://open.spotify.com/artist/2f5aCmk0IpTqWTfHAHlFib"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355545,
+      "name": "Pe\u0142no \u0141ez",
+      "url": "https://open.spotify.com/track/0h9fCRX2rH9k3YBdZK4qLo"
     },
     {
       "album": {
@@ -3118,7 +3190,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 201111,
       "name": "P\u0142omyk",
       "url": "https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu"
@@ -4039,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Uber uwodziciel",
+        "url": "https://open.spotify.com/album/3MwG5LPFcM5LrDpN7CsFAt"
+      },
+      "artists": [
+        {
+          "name": "Nocny Kochanek",
+          "url": "https://open.spotify.com/artist/1S9WnjiTrLaqPCJ8gWSWWq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Uber uwodziciel",
+      "url": "https://open.spotify.com/track/7BUL2PbjUlFYMKhN0wOtIN"
+    },
+    {
+      "album": {
         "name": "Ucieka czas",
         "url": "https://open.spotify.com/album/6jKR5eB0tBERyD02zhDzvi"
       },
@@ -4183,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "walczymy razem",
+        "url": "https://open.spotify.com/album/7l1ToBDadZzhZJWbSZzmqs"
+      },
+      "artists": [
+        {
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "walczymy razem",
+      "url": "https://open.spotify.com/track/0MVfvsKkO2iUcVaJRwLIiw"
+    },
+    {
+      "album": {
         "name": "Warszawa",
         "url": "https://open.spotify.com/album/3bQPXqfcCUj7IhxdYnG3Sv"
       },
@@ -4288,7 +4396,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 244000,
       "name": "Wilcza",
       "url": "https://open.spotify.com/track/76C4soT5swrNYniatn1iYh"
@@ -4606,6 +4714,24 @@
       "duration_ms": 223527,
       "name": "znowu ZNOWU",
       "url": "https://open.spotify.com/track/1CVZ0vwop0DRPyzD3cwklr"
+    },
+    {
+      "album": {
+        "name": "Zoey i Zelda",
+        "url": "https://open.spotify.com/album/16vgjvMFDEZeX5pmtOY0YP"
+      },
+      "artists": [
+        {
+          "name": "Koniec Listopada",
+          "url": "https://open.spotify.com/artist/03u42S98FyJ0LvBc623pfl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "Zoey i Zelda",
+      "url": "https://open.spotify.com/track/1A1PRV3ZUzLqd84F1LKp9C"
     },
     {
       "album": {

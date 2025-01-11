@@ -3569,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "Euphoria (Jan Blomqvist Remix Edit)",
+        "url": "https://open.spotify.com/album/5m5ULfpL5r7gKdey90SX3u"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214680,
+      "name": "Euphoria - Jan Blomqvist Remix Edit",
+      "url": "https://open.spotify.com/track/77XYcWypukNOCbRw8yhlfc"
+    },
+    {
+      "album": {
         "name": "Sternstunde | Exhilaration",
         "url": "https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl"
       },
@@ -8412,7 +8434,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 218880,
       "name": "Otherside - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"

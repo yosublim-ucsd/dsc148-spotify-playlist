@@ -1,13 +1,69 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 61080,
+  "num_followers": 61127,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/VgAAAABe7L9ESKwVrEkKcLe46CKu",
+  "snapshot_id": "Z4CpWAAAAAB7AIzIUXSYkRwnDjpdA7/l",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Storm Warning",
+        "url": "https://open.spotify.com/album/1Vb8QjQEEzMK7ktoH65ODA"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 244613,
+      "name": "Storm Warning",
+      "url": "https://open.spotify.com/track/6NqRsrnO1t4AyaS5LnWgak"
+    },
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Hittin' On Nothin'",
+        "url": "https://open.spotify.com/album/4djsMf1SKWMtRUgipOu5kO"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Hittin' On Nothin'",
+      "url": "https://open.spotify.com/track/2DrvIeRI23eYzj8CswsTE7"
+    },
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Church Bells (Little Zion)",
+        "url": "https://open.spotify.com/album/4jzpt6d7sCcvzoCOSS82be"
+      },
+      "artists": [
+        {
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+        },
+        {
+          "name": "Watermelon Slim",
+          "url": "https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN"
+        }
+      ],
+      "duration_ms": 238832,
+      "name": "Church Bells (Little Zion)",
+      "url": "https://open.spotify.com/track/2w9UXeDOvQ82fPs3e6amll"
+    },
     {
       "added_at": "2024-12-13 05:00:06",
       "album": {
@@ -1685,26 +1741,6 @@
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Follow The Money (feat. James Taylor)",
-        "url": "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Follow The Money (feat. James Taylor)",
-      "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Question",
@@ -1719,38 +1755,6 @@
       "duration_ms": 447487,
       "name": "The Question",
       "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 169569,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Ready Now",
-        "url": "https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hall",
-          "url": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi"
-        }
-      ],
-      "duration_ms": 302053,
-      "name": "Risin' Up",
-      "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
     },
     {
       "added_at": "2022-10-28 04:01:00",

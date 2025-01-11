@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "GHOST OF THE WEST: VOLUME I",
+        "url": "https://open.spotify.com/album/4fqDZxmpCJ5Eq7JpaYrVHS"
+      },
+      "artists": [
+        {
+          "name": "Angel White",
+          "url": "https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243577,
+      "name": "2733",
+      "url": "https://open.spotify.com/track/0f8q6JnkNuT8iVosbcB665"
+    },
+    {
+      "album": {
         "name": "3000 Miles",
         "url": "https://open.spotify.com/album/1Lx9ljkcAakEV8D19H3lXJ"
       },
@@ -3026,6 +3044,28 @@
       "duration_ms": 247000,
       "name": "He Ain't Me",
       "url": "https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU"
+    },
+    {
+      "album": {
+        "name": "Heart Tattoo",
+        "url": "https://open.spotify.com/album/0Xb6p8CApLFGrViYzYlyiM"
+      },
+      "artists": [
+        {
+          "name": "Jenner Fox Band",
+          "url": "https://open.spotify.com/artist/2vdyVZtxFBzzGiLSTjfzhl"
+        },
+        {
+          "name": "Jenner Fox",
+          "url": "https://open.spotify.com/artist/0yL6Mv8jnZmSAMnvTa8tyX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246479,
+      "name": "Heart Tattoo",
+      "url": "https://open.spotify.com/track/276u9yYQAnbty1ERJi7Skx"
     },
     {
       "album": {

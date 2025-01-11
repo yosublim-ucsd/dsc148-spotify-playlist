@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia, Caetano Veloso",
-  "num_followers": 1366194,
+  "num_followers": 1366628,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Brazilian Caf\u00e9",
-        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Acenda o farol",
-      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Brazilian Caf\u00e9",
+        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Acenda o farol",
+      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Cinema Transcendental",
-        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Caju\u00edna - Remixed Original Album",
-      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Cinema Transcendental",
+        "url": "https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Caju\u00edna - Remixed Original Album",
+      "url": "https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Cores, Nomes",
-        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Queixa",
-      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Que Falta Voc\u00ea Me Faz",
-        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Samba da B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Djavan \"Ao Vivo\"",
         "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
+        "name": "Cores, Nomes",
+        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Queixa",
+      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
         "name": "Unplugged (Ao vivo)",
         "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
       },
@@ -527,6 +527,70 @@
       "duration_ms": 293053,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Nova Bis - Ivan Lins",
+        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Vitoriosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 184569,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 229864,
+      "name": "Chuva de Prata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -551,54 +615,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Nova Bis - Ivan Lins",
-        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Vitoriosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 184569,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 229864,
-      "name": "Chuva de Prata - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
       "added_at": "2024-12-10 16:01:00",

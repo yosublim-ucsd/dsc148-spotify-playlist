@@ -1835,6 +1835,40 @@
     },
     {
       "album": {
+        "name": "Bold",
+        "url": "https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207178,
+      "name": "Bold",
+      "url": "https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00"
       },
@@ -8789,6 +8823,28 @@
     },
     {
       "album": {
+        "name": "I Guess I Just",
+        "url": "https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Alex Goodman",
+          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271177,
+      "name": "Love Is a Place",
+      "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
+    },
+    {
+      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
       },
@@ -14780,7 +14836,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 161920,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7aRlOFAO9guW9TUIwvLcxd"
@@ -16666,7 +16722,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 248087,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Restless Road\n",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Thelma & James",
   "name": "New Boots",
   "tracks": [
     {
@@ -1182,6 +1182,28 @@
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
+    },
+    {
+      "album": {
+        "name": "Ain't For Sale",
+        "url": "https://open.spotify.com/album/0nhGC2twzLSz2y67Swo5X0"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        },
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Ain't For Sale",
+      "url": "https://open.spotify.com/track/4AMHCGrx5tBzd2xVQRSJbI"
     },
     {
       "album": {
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 228066,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
@@ -3026,6 +3048,24 @@
       "duration_ms": 185560,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa"
+    },
+    {
+      "album": {
+        "name": "Bed Of Roses",
+        "url": "https://open.spotify.com/album/7twU0WeJfvME1l29k892nY"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1xH3PCT8wy7m1NkIn0nrjK"
     },
     {
       "album": {
@@ -5455,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Can A Heart Take",
+        "url": "https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Can A Heart Take",
+      "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
+    },
+    {
+      "album": {
         "name": "Can Down",
         "url": "https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF"
       },
@@ -5590,7 +5648,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 225256,
       "name": "Can't Hold Me Down",
       "url": "https://open.spotify.com/track/1sGKLpzG59d2aoXT8V2CDw"
@@ -7298,6 +7356,24 @@
       "duration_ms": 208063,
       "name": "Cowboys and Plowboys",
       "url": "https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf"
+    },
+    {
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2edZl5YHPOnCPIXR6L6vZz"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/4sbH4KLDjcg5ODVFVFyc16"
     },
     {
       "album": {
@@ -9749,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "Drunk Love",
+        "url": "https://open.spotify.com/album/6gChKbfnQ9grgqW6xx80LZ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240437,
+      "name": "Drunk Love",
+      "url": "https://open.spotify.com/track/4rKhNylzPiJGKFMq7rn8tn"
+    },
+    {
+      "album": {
         "name": "DRUNK OVER YOU",
         "url": "https://open.spotify.com/album/3LLdVl3jZrE9ec9CmnK7xx"
       },
@@ -10766,7 +10860,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 158833,
       "name": "Father in a Bible",
       "url": "https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D"
@@ -11816,7 +11910,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 169114,
       "name": "Free Like",
       "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
@@ -14649,6 +14743,32 @@
     },
     {
       "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+    },
+    {
+      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
       },
@@ -15836,6 +15956,24 @@
       "duration_ms": 264456,
       "name": "Hello Shitty Day",
       "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+    },
+    {
+      "album": {
+        "name": "Hello Whiskey",
+        "url": "https://open.spotify.com/album/1tp9l3w0s4YgffZFAmJNSK"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262346,
+      "name": "Hello Whiskey",
+      "url": "https://open.spotify.com/track/482qnAUubbTntyywad6oru"
     },
     {
       "album": {
@@ -31883,6 +32021,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/3hZCtdmRCee5ceFggxahJJ"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165988,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq"
+    },
+    {
+      "album": {
         "name": "Slow Down Hometown",
         "url": "https://open.spotify.com/album/0USgjzVpI6pLFHPA0c1N2d"
       },
@@ -33526,7 +33682,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 152268,
       "name": "Speak of the Devil",
       "url": "https://open.spotify.com/track/188E5GIQ8Mlp3teHdf9xTJ"
@@ -37026,7 +37182,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 216160,
       "name": "This World's A Giant",
       "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
@@ -37138,7 +37294,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 302162,
       "name": "Three Car Garage",
       "url": "https://open.spotify.com/track/1IjykuxgIUMqdQsLyLmXPZ"
@@ -38697,6 +38853,24 @@
     },
     {
       "album": {
+        "name": "Waitin' on You to Wear Off",
+        "url": "https://open.spotify.com/album/5LexYkRQIhYysP7iwI3t3v"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221457,
+      "name": "Waitin' on You to Wear Off",
+      "url": "https://open.spotify.com/track/1nzq7iipRxoiL0xj8tjDkC"
+    },
+    {
+      "album": {
         "name": "Actin\u2019 Up Again",
         "url": "https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq"
       },
@@ -39894,7 +40068,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 259022,
       "name": "What Kinda Man",
       "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
@@ -42602,7 +42776,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 183133,
       "name": "You For A Reason",
       "url": "https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO"

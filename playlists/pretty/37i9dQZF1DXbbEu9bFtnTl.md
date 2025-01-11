@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 evilgiane y Rojuu en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,230 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,252 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 4 | [Nei](https://open.spotify.com/track/0eAY5c6Euq66UNU0WyCQGq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [unhappier](https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV), [kasper lindmark](https://open.spotify.com/artist/1OPzNEv3DrUkyXmJctSCmm) | [Spiritus](https://open.spotify.com/album/3okGCZIcJG1X9NLOu6VMlJ) | 2:36 |
 | 5 | [TA LIGADO!](https://open.spotify.com/track/0REVl7FVdMoKTuBHa72y9w) | [Nodslie](https://open.spotify.com/artist/0lm7DZmUwzmsCvRwEWpBbs) | [TA LIGADO!](https://open.spotify.com/album/4BHfnhc1TyicefVkeiarBs) | 1:17 |
 | 6 | [EXORCISTA ANTHEM](https://open.spotify.com/track/19e5mLKqf9LtgnI9EMSioy) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXORCISTA ANTHEM](https://open.spotify.com/album/0rY2L2sC2ug6QNUKWpnvfv) | 2:05 |
-| 7 | [Porke Me Dañas?](https://open.spotify.com/track/59RMxf016Ys59HbdCRNzvD) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Kekz](https://open.spotify.com/artist/1zsZPyQ1gIlOsYC5RkDvmN), [Danny Drum](https://open.spotify.com/artist/6sSiVnfs2AnbOfRaE0kXZf) | [Porke Me Dañas?](https://open.spotify.com/album/7DdNaZOMRK2rY7OWPkMFhr) | 3:27 |
+| 7 | [Porke Me Dañas?](https://open.spotify.com/track/59RMxf016Ys59HbdCRNzvD) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Kekz](https://open.spotify.com/artist/4GYLS79lRQCB7tWvPYdYHg), [Danny Drum](https://open.spotify.com/artist/7u093qH5GMSolD790puVS5) | [Porke Me Dañas?](https://open.spotify.com/album/7DdNaZOMRK2rY7OWPkMFhr) | 3:27 |
 | 8 | [FAMILY MART](https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [FAMILY MART](https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA) | 1:58 |
 | 9 | [SI TU ME QUIERES](https://open.spotify.com/track/3NUSna8mXbOEgLuvEuSDF9) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW) | [SI TU ME QUIERES](https://open.spotify.com/album/5nrXpK1c3RyvThdPictfsL) | 2:52 |
 | 10 | [ENTUUUUPIELX2](https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [ENTUUUUPIELX2](https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY) | 2:22 |

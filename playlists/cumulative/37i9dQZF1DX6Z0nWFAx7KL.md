@@ -4,7 +4,7 @@
 
 > easy and breezy
 
-284 songs - 14 hr 8 min
+285 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
 | [Meant To Be](https://open.spotify.com/track/0oeKRF8BpMKRFUCeQMVypR) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Meant To Be](https://open.spotify.com/album/3Wme8puwxUmGdrwbSOOPUo) | 2:12 | 2024-06-27 | 2024-11-15 |
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-09-15 | 2024-11-09 |
-| [Memories](https://open.spotify.com/track/70eaUWGPQ3RrZdcHxWb7Ja) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Memories](https://open.spotify.com/album/1Rk6pVGxmV8bM64wOCYqUN) | 4:02 | 2024-07-26 |  |
+| [Memories](https://open.spotify.com/track/70eaUWGPQ3RrZdcHxWb7Ja) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Memories](https://open.spotify.com/album/1Rk6pVGxmV8bM64wOCYqUN) | 4:02 | 2024-07-26 | 2025-01-11 |
 | [Mexico](https://open.spotify.com/track/6G4pd6akfqMpv1PkGD2wCK) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [Mexico](https://open.spotify.com/album/6ZiaLR0O1sPKdQMYAHpjFj) | 2:21 | 2024-07-26 | 2024-12-13 |
 | [Miracle](https://open.spotify.com/track/0XI9fHxiWRWqiSuoYMX55V) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Miracle](https://open.spotify.com/album/5Fhhsqq3bSRu0R6ZEss7jA) | 2:58 | 2024-07-26 | 2024-08-31 |
 | [Mirror On The Wall](https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW) | [Sorvats Nivek](https://open.spotify.com/artist/6oI4m51P3UAbjIAgNmtSwW), [DERWA](https://open.spotify.com/artist/4N1XdIRXks3iNWTqpdgaua) | [Mirror On The Wall](https://open.spotify.com/album/17LHSqG2e6y93o7oDv31ZV) | 2:10 | 2022-09-15 | 2022-09-30 |
@@ -236,6 +236,7 @@
 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 | 2024-03-18 | 2024-04-19 |
 | [Something Real](https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Something Real](https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT) | 3:49 | 2024-07-26 | 2024-12-13 |
 | [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 | 2024-10-04 |
+| [Spark](https://open.spotify.com/track/0eoErZM1gZ3SXapS7WvLWN) | [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Spark](https://open.spotify.com/album/3LHK2NuRval8ZnVvad8gZ4) | 4:47 | 2025-01-10 |  |
 | [Start a Thing](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Start a Thing](https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1) | 2:56 | 2024-11-08 |  |
 | [STAY](https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [George](https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E) | [STAY](https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV) | 2:42 | 2023-12-21 | 2024-02-13 |
 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 |  |

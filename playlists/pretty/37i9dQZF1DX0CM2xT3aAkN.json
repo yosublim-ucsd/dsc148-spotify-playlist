@@ -1,15 +1,15 @@
 {
   "description": "Choral and instrumental classical music from the Renaissance era.",
-  "num_followers": 43580,
+  "num_followers": 43639,
   "original_name": "Renaissance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxDHfAAAAABu8TODvCfeH3Vbz+KJl9q2",
+  "snapshot_id": "Z4ENOgAAAACkDDR1TaKxI/7ZRPzhyQAO",
   "tracks": [
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Juan Sebastian Elkano",
         "url": "https://open.spotify.com/album/5nZ7Xg9UXvwkOX6XW1Kho3"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/72MyMeH7PPBwjqQljbblN3"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Early Venetian Lute Music",
         "url": "https://open.spotify.com/album/25CYYMQ8TW2SfWv4UKIfAx"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/2AUmB3hu5fHgbWlAIknr7A"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Faire Is The Heaven - Music Of The English Church",
         "url": "https://open.spotify.com/album/0BnSC2ltaMLu3h4GnDqguk"
@@ -77,7 +77,71 @@
       "url": "https://open.spotify.com/track/2NjcAszEdomxtNhmVqb8tU"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Cambridge Singers Christmas Album",
+        "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "O magnum mysterium",
+      "url": "https://open.spotify.com/track/2YetpjSRE3kjpV4je8WDc7"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "John Dowland - The Essentials",
+        "url": "https://open.spotify.com/album/4nTyL4XDF3fFKwnlRhI95j"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Julian Bream",
+          "url": "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Lute Music - England: Melancholy Galliard",
+      "url": "https://open.spotify.com/track/4RMIruKbqMd8xj2AMvMLxZ"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Spem in Alium - The Tallis Scholars Sing Thomas Tallis (With 3 Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0oP0XZoe62zQPxBNlayPmP"
+      },
+      "artists": [
+        {
+          "name": "The Tallis Scholars",
+          "url": "https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk"
+        }
+      ],
+      "duration_ms": 304286,
+      "name": "Tallis: Spem in Alium - 1. Spem in Alium",
+      "url": "https://open.spotify.com/track/7vCkGmgFZ5aw2W0yiSXazh"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "The Image of Melancholy",
         "url": "https://open.spotify.com/album/1gE2YAnPpvekqiXFDWx63h"
@@ -101,27 +165,7 @@
       "url": "https://open.spotify.com/track/2xemktJsTw9werdDf6jWCO"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
-      "album": {
-        "name": "Vergine Bella - Italian Renaissance Music",
-        "url": "https://open.spotify.com/album/4WqFd1iJGzdEzRqYpqgIJv"
-      },
-      "artists": [
-        {
-          "name": "Francesco Spinacino",
-          "url": "https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih"
-        },
-        {
-          "name": "Robert Meunier",
-          "url": "https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD"
-        }
-      ],
-      "duration_ms": 129506,
-      "name": "Recercare",
-      "url": "https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7"
-    },
-    {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Secret History",
         "url": "https://open.spotify.com/album/67A1EpEe40lALbw9M7LIOU"
@@ -145,7 +189,75 @@
       "url": "https://open.spotify.com/track/4Ty3xe0DxUYIq1vTog3sJr"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "The Tallis Scholars Sing William Byrd",
+        "url": "https://open.spotify.com/album/5o2Vzb7bgZHzE5sHh2T38o"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk"
+        },
+        {
+          "name": "The Tallis Scholars",
+          "url": "https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG"
+        }
+      ],
+      "duration_ms": 250320,
+      "name": "Byrd: Ave Verum Corpus",
+      "url": "https://open.spotify.com/track/7J6b58JOnf4RGGqJmxq0bD"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Vergine Bella - Italian Renaissance Music",
+        "url": "https://open.spotify.com/album/4WqFd1iJGzdEzRqYpqgIJv"
+      },
+      "artists": [
+        {
+          "name": "Francesco Spinacino",
+          "url": "https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih"
+        },
+        {
+          "name": "Robert Meunier",
+          "url": "https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD"
+        }
+      ],
+      "duration_ms": 129506,
+      "name": "Recercare",
+      "url": "https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Palestrina",
+        "url": "https://open.spotify.com/album/1c70yzdOtmUlEna6jp9kwf"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Sistine Chapel Choir",
+          "url": "https://open.spotify.com/artist/44mVUbyXXXCjiOpbleXk1F"
+        },
+        {
+          "name": "Massimo Palombella",
+          "url": "https://open.spotify.com/artist/5HCYO2b77nY538cmZ4tYLl"
+        }
+      ],
+      "duration_ms": 199124,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4gMJ1R4QEvIqi1FgviMGIc"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Renaissance Masterpieces",
         "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
@@ -169,51 +281,7 @@
       "url": "https://open.spotify.com/track/13dTXGC6c4t9XPMaAzumtU"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
-      "album": {
-        "name": "A Worcester Ladymass",
-        "url": "https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Trio Medi\u00e6val",
-          "url": "https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "A Worcester Ladymass: O Maria virgo pia",
-      "url": "https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI"
-    },
-    {
-      "added_at": "2024-10-17 08:14:52",
-      "album": {
-        "name": "Ockeghem : Requiem, Missa \"Mi-Mi\", Missa Prolationum",
-        "url": "https://open.spotify.com/album/7e6VZeeGFOe74KT78DAM85"
-      },
-      "artists": [
-        {
-          "name": "Johannes Ockeghem",
-          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
-        },
-        {
-          "name": "The Hilliard Ensemble",
-          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
-        },
-        {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
-        }
-      ],
-      "duration_ms": 337080,
-      "name": "Ockeghem: Missa pro defunctis: I. Requiem aeternam",
-      "url": "https://open.spotify.com/track/4oGx9In9x67C8cFvL96WO6"
-    },
-    {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "My favorite Dowland",
         "url": "https://open.spotify.com/album/5rtYJS08d8srvj4yt02pIh"
@@ -233,75 +301,27 @@
       "url": "https://open.spotify.com/track/2k2Hky9hJbd6E0F1no47sG"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
-        "name": "Gesualdo: Responsoria 1611",
-        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
+        "name": "A Worcester Ladymass",
+        "url": "https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA"
       },
       "artists": [
         {
-          "name": "Carlo Gesualdo",
-          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Philippe Herreweghe",
-          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
-        },
-        {
-          "name": "Collegium Vocale Gent",
-          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+          "name": "Trio Medi\u00e6val",
+          "url": "https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC"
         }
       ],
-      "duration_ms": 274978,
-      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
-      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
+      "duration_ms": 117120,
+      "name": "A Worcester Ladymass: O Maria virgo pia",
+      "url": "https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
-      "album": {
-        "name": "Tye: Consort Music - In nomine",
-        "url": "https://open.spotify.com/album/0Fw9an3eu4XFCDIza6cs9W"
-      },
-      "artists": [
-        {
-          "name": "Christopher Tye",
-          "url": "https://open.spotify.com/artist/2oAW1zHwCJo8RT0HPbEXNO"
-        },
-        {
-          "name": "The Spirit of Gambo",
-          "url": "https://open.spotify.com/artist/5HvRhcgIQoChnTr4Pr3Jfe"
-        },
-        {
-          "name": "Freek Borstlap",
-          "url": "https://open.spotify.com/artist/2n4peJ0TaNgBnk7i71aJx2"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "In nomine: Rachell\u2019s Weepinge",
-      "url": "https://open.spotify.com/track/73rABTVJBXkp3bdhdYy6b7"
-    },
-    {
-      "added_at": "2024-10-17 08:14:52",
-      "album": {
-        "name": "Renaissance Consort Music, Vol. 1",
-        "url": "https://open.spotify.com/album/7yd2oVedRQnC4Jpt1W4kgv"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Janequin",
-          "url": "https://open.spotify.com/artist/6vbTY3InIJuW8ItpRNnfje"
-        },
-        {
-          "name": "Harmonia Recorder Ensemble",
-          "url": "https://open.spotify.com/artist/564T6EA1h90YHwZ8NRR5mF"
-        }
-      ],
-      "duration_ms": 98201,
-      "name": "Au joly jeu",
-      "url": "https://open.spotify.com/track/1PoTSO2QQDEg66PqDHS38j"
-    },
-    {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Palestrina",
         "url": "https://open.spotify.com/album/1c70yzdOtmUlEna6jp9kwf"
@@ -325,7 +345,99 @@
       "url": "https://open.spotify.com/track/27HoHsQWBg6lxnlFip2fwi"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Gesualdo: Responsoria 1611",
+        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        },
+        {
+          "name": "Collegium Vocale Gent",
+          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+        }
+      ],
+      "duration_ms": 274978,
+      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
+      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Tye: Consort Music - In nomine",
+        "url": "https://open.spotify.com/album/0Fw9an3eu4XFCDIza6cs9W"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tye",
+          "url": "https://open.spotify.com/artist/2oAW1zHwCJo8RT0HPbEXNO"
+        },
+        {
+          "name": "The Spirit of Gambo",
+          "url": "https://open.spotify.com/artist/5HvRhcgIQoChnTr4Pr3Jfe"
+        },
+        {
+          "name": "Freek Borstlap",
+          "url": "https://open.spotify.com/artist/2n4peJ0TaNgBnk7i71aJx2"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "In nomine: Rachell\u2019s Weepinge",
+      "url": "https://open.spotify.com/track/73rABTVJBXkp3bdhdYy6b7"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Renaissance Consort Music, Vol. 1",
+        "url": "https://open.spotify.com/album/7yd2oVedRQnC4Jpt1W4kgv"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Janequin",
+          "url": "https://open.spotify.com/artist/6vbTY3InIJuW8ItpRNnfje"
+        },
+        {
+          "name": "Harmonia Recorder Ensemble",
+          "url": "https://open.spotify.com/artist/564T6EA1h90YHwZ8NRR5mF"
+        }
+      ],
+      "duration_ms": 98201,
+      "name": "Au joly jeu",
+      "url": "https://open.spotify.com/track/1PoTSO2QQDEg66PqDHS38j"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Ockeghem : Requiem, Missa \"Mi-Mi\", Missa Prolationum",
+        "url": "https://open.spotify.com/album/7e6VZeeGFOe74KT78DAM85"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "duration_ms": 337080,
+      "name": "Ockeghem: Missa pro defunctis: I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/4oGx9In9x67C8cFvL96WO6"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "The Sound of Shakespeare",
         "url": "https://open.spotify.com/album/5FiGdfz75QxXRVo1H28bm8"
@@ -345,7 +457,27 @@
       "url": "https://open.spotify.com/track/4sEtmSTL1v6z1B8RNjiYLe"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Spem in Alium - The Tallis Scholars Sing Thomas Tallis (With 3 Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0oP0XZoe62zQPxBNlayPmP"
+      },
+      "artists": [
+        {
+          "name": "The Tallis Scholars",
+          "url": "https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk"
+        }
+      ],
+      "duration_ms": 59518,
+      "name": "Tallis: Spem in Alium - 3. Respice",
+      "url": "https://open.spotify.com/track/58NvTRGdi4UpNf8D3k4iDE"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "The Sound of Shakespeare",
         "url": "https://open.spotify.com/album/5FiGdfz75QxXRVo1H28bm8"
@@ -365,7 +497,7 @@
       "url": "https://open.spotify.com/track/2PqBL69pImA1Y8NIHSC2wg"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Lassus: Lagrime Di San Pietro",
         "url": "https://open.spotify.com/album/36LfOF16yVc8YFsmVl3Tx0"
@@ -389,7 +521,7 @@
       "url": "https://open.spotify.com/track/2kxYAiduLoK6qHEvNybFkU"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Amours amours amours",
         "url": "https://open.spotify.com/album/1f7BJCIRNGrA0C9RPRwplS"
@@ -413,7 +545,7 @@
       "url": "https://open.spotify.com/track/44efDG5frhiCLh8LPy50yF"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Io piango o filli, madrigal \u00e0 5",
         "url": "https://open.spotify.com/album/67Jq7bl0CdpBPKv2ohjJqx"
@@ -437,7 +569,7 @@
       "url": "https://open.spotify.com/track/14dJAU0QWOgwV7xIA3edRU"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Victoria \u2013 Splendor of the Renaissance",
         "url": "https://open.spotify.com/album/15BZRm6yPpsyf19mvYNuSw"
@@ -461,7 +593,7 @@
       "url": "https://open.spotify.com/track/0OvNQt4kuO1ub1cGEOmiAi"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Pierre Attaingnant",
         "url": "https://open.spotify.com/album/5E8HyapHG64rN6X7CpLCoD"
@@ -481,7 +613,7 @@
       "url": "https://open.spotify.com/track/5OYdwMSKwnZR9LnWenChvQ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Lassus: Chansons",
         "url": "https://open.spotify.com/album/5ADQchDag6ed1hEj08ald0"
@@ -505,7 +637,7 @@
       "url": "https://open.spotify.com/track/3j7ZCd25lU81HL0CBxQ9BS"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Palestrina: Missa Papae Marcelli",
         "url": "https://open.spotify.com/album/6tu14dYvtoshR8cOlT2JOZ"
@@ -529,7 +661,7 @@
       "url": "https://open.spotify.com/track/46JsxiI6tGMzipdW6CY40H"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Praetorius, M.: Puer Natus in Bethlehem (Renaissance Christmas Music)",
         "url": "https://open.spotify.com/album/7I7TFuqqGAtkoj5bhNEUXA"
@@ -549,7 +681,7 @@
       "url": "https://open.spotify.com/track/4aDFzlO4yIwPc7XITibEff"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Solitude: Mendelssohn, Weinberg & Shostakovich",
         "url": "https://open.spotify.com/album/5Pi96wh8L3A7pPsRMaPlmz"
@@ -569,7 +701,7 @@
       "url": "https://open.spotify.com/track/3KrV1ahb2QSvS15rDNFA17"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Robert Lucas Pearsall: Lay a Garland",
         "url": "https://open.spotify.com/album/1T1klJSXfHiO1exyuYXNVQ"
@@ -593,7 +725,7 @@
       "url": "https://open.spotify.com/track/70Ah4eda7H7gLt4KS9rfAQ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Chansons et psaumes de la r\u00e9forme",
         "url": "https://open.spotify.com/album/5MG36slzzSG5P4yYb58C3D"
@@ -617,7 +749,31 @@
       "url": "https://open.spotify.com/track/3CzysLAiHbqfuVFzSLscLQ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "Lux aeterna: A Sequence for the Souls of the Departed",
+        "url": "https://open.spotify.com/album/4Suxmlr62Lue4JhrTvk3lO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Tallis",
+          "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
+        },
+        {
+          "name": "The Gesualdo Six",
+          "url": "https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X"
+        },
+        {
+          "name": "Owain Park",
+          "url": "https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "In ieiunio et fletu",
+      "url": "https://open.spotify.com/track/0EfHEg2eYbE4Pa6amRciy9"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "My Beloved's Voice: Sacred Songs of Love",
         "url": "https://open.spotify.com/album/3090i4i9I9rU0Pm5Mvetrw"
@@ -641,7 +797,7 @@
       "url": "https://open.spotify.com/track/3Q4IDptEJXkEopGEzFwYBZ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Pavans And Fantasies From The Age Of Dowland",
         "url": "https://open.spotify.com/album/11YZ7bLfXrkzsP6byd4BZe"
@@ -669,7 +825,7 @@
       "url": "https://open.spotify.com/track/5GspQWRiTcQxGc6W7MeQoW"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Magi videntes stellam \u00e0 5",
         "url": "https://open.spotify.com/album/32mSq39SYGGR2DaI3AtxnF"
@@ -693,7 +849,7 @@
       "url": "https://open.spotify.com/track/5ujOQ4wfNL1BHxhjs7E2Wb"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "The Sound of Shakespeare",
         "url": "https://open.spotify.com/album/5FiGdfz75QxXRVo1H28bm8"
@@ -713,7 +869,7 @@
       "url": "https://open.spotify.com/track/08y9Q2zGOniC9tU8NzbrMQ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Codex Chantilly III - Biblioth\u00e8que du Ch\u00e2teau de Chantilly, Ms. 564",
         "url": "https://open.spotify.com/album/3Q3w2G4KCssvcV0LbJwQl7"
@@ -733,7 +889,7 @@
       "url": "https://open.spotify.com/track/056z6eM7cdlYM8Vho23AnF"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "The Golden Age of European Polyphony",
         "url": "https://open.spotify.com/album/1QyZD5HobtTzcuEzQGWS0U"
@@ -757,7 +913,7 @@
       "url": "https://open.spotify.com/track/33omoLPUPl3fk6WSlZlPzZ"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Musical Book of Hours",
         "url": "https://open.spotify.com/album/4EAjV4LoAzdOtkQGRdywtJ"
@@ -781,7 +937,7 @@
       "url": "https://open.spotify.com/track/78odMgrdUSSVS3JX6p1kiP"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Praetorius: Terpsichore - Suites Nos. 1-4",
         "url": "https://open.spotify.com/album/3HVL2zohtF2lF8y0pgwB47"
@@ -805,7 +961,7 @@
       "url": "https://open.spotify.com/track/54zeWeNKZHaNYKY2lHY1gY"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Da Milano: Intabolatura de lauto",
         "url": "https://open.spotify.com/album/5koHGmqE9m5IeALkuxjWDU"
@@ -825,7 +981,7 @@
       "url": "https://open.spotify.com/track/2GVtmJS3pJ3fr7O5d9a01Q"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Tom\u00e1s Luis De Victoria: Tenebrae Responsories",
         "url": "https://open.spotify.com/album/1vbMrUZG6eRa5F63qcIVQG"
@@ -849,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3odchAeVZWKxPNHwd9jt0e"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "John Dowland: Lachrimae or Seaven Teares",
         "url": "https://open.spotify.com/album/4Uj06OSjadcQNaPqoLXGH1"
@@ -869,7 +1025,27 @@
       "url": "https://open.spotify.com/track/43ZXK6yInrk43Erh4vO3Sd"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
+      "album": {
+        "name": "John Dowland - The Essentials",
+        "url": "https://open.spotify.com/album/4nTyL4XDF3fFKwnlRhI95j"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Julian Bream",
+          "url": "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Lute Music - England: Orlando sleepeth",
+      "url": "https://open.spotify.com/track/5NBiEQ78zitIw5TdTVqHDg"
+    },
+    {
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Come Again, Sweet Love Doth Now Invite",
         "url": "https://open.spotify.com/album/7eFanoWLIjHtPJ6VwgPJ32"
@@ -893,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0O53MwxOS57Fa0Bz6UlPyg"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Agricola: Missa Malheur Me Bat / Missa In Minen Zin",
         "url": "https://open.spotify.com/album/6Gv3xNwDpOPERySEk7bAn2"
@@ -917,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6aYO5A9A0fXTQyYhBlWTNv"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
         "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
@@ -941,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7pwd4GXi4szGLhNPFSRfSW"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Josquin Desprez - Volume 2",
         "url": "https://open.spotify.com/album/2Axn8LUxyMcfCmACAuO6tp"
@@ -969,7 +1145,7 @@
       "url": "https://open.spotify.com/track/2G9e7m1xbTodcmOQgBTfBi"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Ockeghem : Requiem, Missa \"Mi-Mi\", Missa Prolationum",
         "url": "https://open.spotify.com/album/7e6VZeeGFOe74KT78DAM85"
@@ -993,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4o0jVZxIe3O2iIu0dupWwA"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Palestrina, Vol. 7",
         "url": "https://open.spotify.com/album/5ktBvmjvZOh9ZtSwflORwf"
@@ -1017,7 +1193,7 @@
       "url": "https://open.spotify.com/track/1H4Wh0ltvt6GDQzCAhk9Lk"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Renaissance Masterpieces",
         "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
@@ -1041,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1T1KQvUWFXUUUrbwW06Rpy"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Gibbons: Consort and Keyboard Music / Songs and Anthems",
         "url": "https://open.spotify.com/album/2UIEipNbq8CYHWn9OH8c9i"
@@ -1061,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2jaVkgkBqhb6OLH3qi4Qjr"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "In Memoriam",
         "url": "https://open.spotify.com/album/6C6vDpqZzWaw1X4rbz4Hqp"
@@ -1085,7 +1261,7 @@
       "url": "https://open.spotify.com/track/3hYpdHH3keEP3PWm4MjAnX"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Theatre Of Early Music: Love Bade Me Welcome - Songs and Poetry From the Renaissance",
         "url": "https://open.spotify.com/album/4uEtJuhfmSgbKkmDGA4Ri5"
@@ -1109,7 +1285,7 @@
       "url": "https://open.spotify.com/track/6mv4u62JIW4kihhyPj0l06"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Ockeghem: Requiem / Missa Fors seulement",
         "url": "https://open.spotify.com/album/5H682IkmG60fK4dgpkoU7l"
@@ -1133,7 +1309,7 @@
       "url": "https://open.spotify.com/track/2qaD4igXBJb8W6eFSyCL62"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "El Cancionero De Palacio",
         "url": "https://open.spotify.com/album/5W90v6VMtVMG6x1DSdDxKz"
@@ -1153,7 +1329,7 @@
       "url": "https://open.spotify.com/track/28FRxQGonGm37cmCkdAIrB"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Madrigal History Tour",
         "url": "https://open.spotify.com/album/3bB0LhF61QmlYfTlNmYDuD"
@@ -1177,7 +1353,7 @@
       "url": "https://open.spotify.com/track/73CzfSsf5n6F2VeRM8GCLa"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Court and Cathedral: The Two Worlds of Francisco de Penalosa",
         "url": "https://open.spotify.com/album/3I7d2RXJ7gHyFT88E7hfjo"
@@ -1201,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0NTo4M8emWnQ4uBwjB7GFd"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Vicente Lusitano: Motets",
         "url": "https://open.spotify.com/album/3yFrv2tvI5nVP8pUEkdCmv"
@@ -1221,7 +1397,7 @@
       "url": "https://open.spotify.com/track/5MMb7xNiVNilblN9lZR9rB"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Sweelinck: Psalms & Magnificat",
         "url": "https://open.spotify.com/album/1GVkgT8h0A0SY03s95hmzx"
@@ -1249,7 +1425,7 @@
       "url": "https://open.spotify.com/track/6aFgeazT8FPb8jaAyHleBs"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Josquin des Prez Lute Settings",
         "url": "https://open.spotify.com/album/3CL1bHPkfWo7HRe1oAFCH3"
@@ -1265,7 +1441,7 @@
       "url": "https://open.spotify.com/track/46FBrUZRTCqjfuNVegjOpt"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Il Trionfo di Dori",
         "url": "https://open.spotify.com/album/67VrH3PqfMQzLAVDsqxYSH"
@@ -1285,7 +1461,7 @@
       "url": "https://open.spotify.com/track/2bnMut60wd1FLcCgnAueWd"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Music from the Peterhouse Partbooks, Vol. 4",
         "url": "https://open.spotify.com/album/2X0ZNzSD99tp2RvjgUFbfc"
@@ -1309,7 +1485,7 @@
       "url": "https://open.spotify.com/track/5wzBuk9gLL3V6Y0s4fzMHb"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Early Venetian Lute Music",
         "url": "https://open.spotify.com/album/25CYYMQ8TW2SfWv4UKIfAx"
@@ -1333,7 +1509,7 @@
       "url": "https://open.spotify.com/track/4FIuIeLg1Kx9hqU4m0RLGU"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Philips: Cantiones Sacrae Quinis et Octonibus Vocibus (Antwerp 1612 & 1613)",
         "url": "https://open.spotify.com/album/5fIvBSiuNr3GNw4i1Nrjfu"
@@ -1357,7 +1533,7 @@
       "url": "https://open.spotify.com/track/2MS1LzqWFA4DHsW5qsY4QD"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Dufay: Motets",
         "url": "https://open.spotify.com/album/7njYVThu4Z44WHSv1GXXni"
@@ -1381,7 +1557,7 @@
       "url": "https://open.spotify.com/track/5ZSy5jNHyxWE3eWJ0wQXCl"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Utopia Triumphans: The Great Polyphony of the Renaissance",
         "url": "https://open.spotify.com/album/2gZC3aH8SLRXnYsTpfjTUm"
@@ -1401,7 +1577,7 @@
       "url": "https://open.spotify.com/track/4UgNHC53diBeFlh8XEdbqh"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Gibbons, O.: Anthems / Instrumental Music",
         "url": "https://open.spotify.com/album/7nVvi9xb5CziBFaCIz41ij"
@@ -1425,7 +1601,7 @@
       "url": "https://open.spotify.com/track/6RBrvlIDz6AhFs0qkTPriB"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Ockeghem: Requiem / Missa Prolationum",
         "url": "https://open.spotify.com/album/5NWHSSarpJNIQResWG7FMn"
@@ -1449,7 +1625,7 @@
       "url": "https://open.spotify.com/track/0ccnwSwBtYMgiszKl9GaIT"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Tallis: The Lamentations Of Jeremiah",
         "url": "https://open.spotify.com/album/5gMOEzoVfghYeo9sPedL5d"
@@ -1473,7 +1649,7 @@
       "url": "https://open.spotify.com/track/2PhclxPrZW16t67YAGRYoR"
     },
     {
-      "added_at": "2024-10-17 08:14:52",
+      "added_at": "2025-01-10 12:06:18",
       "album": {
         "name": "Hume: Poeticall Musicke",
         "url": "https://open.spotify.com/album/1X1HfR9db93Nr2gOBAX2Hn"

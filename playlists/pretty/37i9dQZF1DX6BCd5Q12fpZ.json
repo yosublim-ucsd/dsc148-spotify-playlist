@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65546,
+  "num_followers": 65545,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 97896,
       "name": "Jaja Ding Dong",
       "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Fr\u00e4mling 25 \u00e5r",
-        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 180586,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Ding Dong!",
         "url": "https://open.spotify.com/album/68w0MsT47MMzq28AJ3bedc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 155146,
       "name": "Congratulations - 1998 Remaster",
       "url": "https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -1,6 +1,6 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a \u0648 \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a\n",
-  "num_followers": 137361,
+  "num_followers": 137417,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-01-09 19:55:02",
       "album": {
+        "name": "\u0645\u0639\u0642\u0648\u0644 \u0628\u062a\u0645\u0648\u062a",
+        "url": "https://open.spotify.com/album/7qxGxvVLxbflG8VrheTEVS"
+      },
+      "artists": [
+        {
+          "name": "Haidy Moussa",
+          "url": "https://open.spotify.com/artist/6ZXFOb1VHMTICAYM1LUfFW"
+        }
+      ],
+      "duration_ms": 203231,
+      "name": "\u0645\u0639\u0642\u0648\u0644 \u0628\u062a\u0645\u0648\u062a",
+      "url": "https://open.spotify.com/track/64baAo3NdeNiFSCXm9gz49"
+    },
+    {
+      "added_at": "2025-01-09 19:55:02",
+      "album": {
         "name": "Ballerina",
         "url": "https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ"
       },
@@ -159,6 +175,22 @@
       "duration_ms": 201369,
       "name": "Maby3tzersh",
       "url": "https://open.spotify.com/track/1K294SQaZ4zbd0aLKAyUrg"
+    },
+    {
+      "added_at": "2025-01-09 19:55:02",
+      "album": {
+        "name": "\u0644\u0623 \u062b\u0648\u0627\u0646\u0649",
+        "url": "https://open.spotify.com/album/687gIsuuNRehoRPmBmFM9d"
+      },
+      "artists": [
+        {
+          "name": "bassma boussel",
+          "url": "https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP"
+        }
+      ],
+      "duration_ms": 257571,
+      "name": "\u0644\u0623 \u062b\u0648\u0627\u0646\u0649",
+      "url": "https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK"
     },
     {
       "added_at": "2025-01-09 19:55:02",

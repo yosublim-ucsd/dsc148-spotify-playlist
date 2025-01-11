@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: World Worship",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Julissa",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -5941,6 +5941,24 @@
     },
     {
       "album": {
+        "name": "Gracias (Un Viaje Sinf\u00f3nico de Fe y Esperanza)",
+        "url": "https://open.spotify.com/album/7Jz5g6am9wp7MIVSvbDCau"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261514,
+      "name": "Gracias (Un Viaje Sinf\u00f3nico de Fe y Esperanza)",
+      "url": "https://open.spotify.com/track/7na223f2psSLrQ12d6IHju"
+    },
+    {
+      "album": {
         "name": "Gracias A La Cruz",
         "url": "https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk"
       },
@@ -6298,7 +6316,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 193242,
       "name": "Hay Libertad (Reimagined)",
       "url": "https://open.spotify.com/track/0Z5bqtzjelFK9Z4wuIngim"

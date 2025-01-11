@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 190956,
       "name": "NEREDE",
       "url": "https://open.spotify.com/track/4kSvVBHYY1wiUahtT3WlRq"
@@ -2216,6 +2216,24 @@
       "duration_ms": 177391,
       "name": "Sonu Gelmesin",
       "url": "https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc"
+    },
+    {
+      "album": {
+        "name": "Sonumu Bile Bile",
+        "url": "https://open.spotify.com/album/6BTDX0BA3yEbL3qtSnBpaW"
+      },
+      "artists": [
+        {
+          "name": "Mertkan Erkan",
+          "url": "https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209423,
+      "name": "Sonumu Bile Bile",
+      "url": "https://open.spotify.com/track/3ZGgkyCgxd0UqSIgrQqlVS"
     },
     {
       "album": {

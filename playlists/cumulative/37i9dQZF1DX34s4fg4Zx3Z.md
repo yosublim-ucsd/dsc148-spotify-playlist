@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Hà An Huy
 
-1,930 songs - 4 day 17 hr 14 min
+1,932 songs - 4 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,6 +908,7 @@
 | [Lênh Đênh](https://open.spotify.com/track/45BLirLuAU5syFhdT8aFsc) | [Hustlang Heily](https://open.spotify.com/artist/0ABztwl5ApqMZOllFyaCmP), [Aupi](https://open.spotify.com/artist/3eOy7vMQpt5tBqrTsCJ9fa) | [Lênh Đênh](https://open.spotify.com/album/7lrR1VQp8TFqXngfw5Cz1Z) | 5:08 | 2023-05-25 | 2023-06-08 |
 | [Lênh Đênh](https://open.spotify.com/track/1mSAWzcymoYECx3jBjE4Fx) | [Jo$eph](https://open.spotify.com/artist/3XqVrwsevRswO1cGSqJ7WE), [Paties](https://open.spotify.com/artist/610qZrk1PKFAOgV5yNuGRa) | [Lênh Đênh](https://open.spotify.com/album/4VmjLXo74ZRPLz08NrMCGS) | 4:22 | 2023-08-10 | 2023-10-06 |
 | [Lí do đâu cần](https://open.spotify.com/track/2LSClvtJk2F6X9GAbw3it8) | [Sloth](https://open.spotify.com/artist/0pZYFZp4sO1moiEvytkWGU) | [Lí do đâu cần](https://open.spotify.com/album/1dWkoSqiE46pc8w1echUwb) | 2:59 | 2022-09-22 | 2022-10-21 |
+| [Lúc Đầu](https://open.spotify.com/track/3HOmxiCvIbkjzjrBkp4CkP) | [Rill](https://open.spotify.com/artist/0gMx6C25qFWrIV2vOnoeoQ) | [Lúc Đầu](https://open.spotify.com/album/6AkO1dfy2OC8y8L34UowI8) | 2:52 | 2025-01-09 |  |
 | [Lơ Lửng](https://open.spotify.com/track/0jonCq3zm5zEo97grUZFHW) | [Kold](https://open.spotify.com/artist/30BXyU3yb0dZmVth8IHgHp), [Thyngann](https://open.spotify.com/artist/2Lv5wBnXANow5ATn268KGY) | [Lơ Lửng](https://open.spotify.com/album/3ZXrUm38hARuCrkfIitGK0) | 4:00 | 2022-06-30 | 2022-07-24 |
 | [LƠ TƠ MƠ](https://open.spotify.com/track/7fVKYun2Vzvy9OWvL6l8Y9) | [T\-Flow](https://open.spotify.com/artist/1DYI3msscTX74ZIejaQpf0) | [LƠ TƠ MƠ](https://open.spotify.com/album/21wvuxP4EzUiP9E7VO4ZtA) | 4:50 | 2022-05-11 | 2022-07-07 |
 | [Lưu Luyến Sau Chia Tay](https://open.spotify.com/track/71398AheJhGijFhdfSAJ0D) | [Try92](https://open.spotify.com/artist/3TAL7g0EaT0Az8Xr2Upv1b), [Kai06](https://open.spotify.com/artist/1WkMwdetvqyq2SLSc8irch) | [Lưu Luyến Sau Chia Tay](https://open.spotify.com/album/7ysmyXVpZGHbfeInS2NQxW) | 5:46 | 2023-05-17 | 2023-06-05 |
@@ -1270,6 +1271,7 @@
 | [PRESENT](https://open.spotify.com/track/6RuTEmvZbhCUncRFEHa94W) | [BigP](https://open.spotify.com/artist/5AQtkl9E2EH6pdSZU5qy8x), [LINNEE](https://open.spotify.com/artist/0ovNczldSHH0OtFBUY4Snl) | [PRESENT](https://open.spotify.com/album/0nPdZ5PhqP45BohMoWWHsG) | 3:38 | 2022-06-28 | 2022-07-10 |
 | [Pretty Girl](https://open.spotify.com/track/5BDumcqz0xUBFMwt62Nif2) | [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29), [KAYZ](https://open.spotify.com/artist/2bcdCDZ6Sg5yYJwRQTTPWq) | [Pretty Girl](https://open.spotify.com/album/7Bv7EuvSsh5TN5GwZctpUH) | 3:01 | 2023-05-22 | 2023-07-07 |
 | [Promises](https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Promises](https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j) | 3:10 | 2022-05-27 | 2022-06-19 |
+| [Q](https://open.spotify.com/track/11rrWHCVvO40ZDa1zYI5XA) | [Lohan](https://open.spotify.com/artist/3Wqnr2JGruE4ruWNlnuiRE) | [Q](https://open.spotify.com/album/0HTOCgoCG9R93fUO2qJGbH) | 2:46 | 2025-01-09 |  |
 | [Qua Tầng U Mê](https://open.spotify.com/track/1qCAElMnIjjDdY5dVq7Kt7) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a) | [Qua Tầng U Mê](https://open.spotify.com/album/5KpLn97dvC6LsgiGS442n9) | 3:24 | 2024-10-24 | 2024-12-05 |
 | [Quen Biết Nhau](https://open.spotify.com/track/0POdYDxx3euP5QhoilS9nq) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh) | [Quen Biết Nhau](https://open.spotify.com/album/7ofjq8bLGL884LsZ26p76z) | 3:19 | 2023-10-03 | 2023-11-24 |
 | [Quen Có Em Trong Đời](https://open.spotify.com/track/0F8VS01FP0sR5G5hOrHtxV) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW) | [Quen Có Em Trong Đời](https://open.spotify.com/album/4LPFaFnUKIpOtuvv6pMXuC) | 3:24 | 2023-07-26 | 2023-09-15 |

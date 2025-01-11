@@ -1884,10 +1884,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 158158,
       "name": "\u042f\u0422\u041b",
       "url": "https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1"
+    },
+    {
+      "album": {
+        "name": "\u0456\u043d\u043e\u0434\u0456",
+        "url": "https://open.spotify.com/album/7cYRO0Zi5OXDrSMDckVuPY"
+      },
+      "artists": [
+        {
+          "name": "jockii druce",
+          "url": "https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u0456\u043d\u043e\u0434\u0456",
+      "url": "https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv"

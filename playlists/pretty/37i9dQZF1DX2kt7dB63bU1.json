@@ -1,13 +1,65 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 152468,
+  "num_followers": 152499,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du5gAAAADNScODvSB+wnyfVHoT83Qf",
+  "snapshot_id": "Z4CpWAAAAADzcnD9v+2Q1CMQV8FNgM4F",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "I Guess I Just",
+        "url": "https://open.spotify.com/album/52Jyjr3Mtxl7i7hM8SSyy9"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Alex Goodman",
+          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
+        }
+      ],
+      "duration_ms": 271177,
+      "name": "Love Is a Place",
+      "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
+    },
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Bold",
+        "url": "https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 207178,
+      "name": "Bold",
+      "url": "https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1"
+    },
     {
       "added_at": "2025-01-03 05:00:22",
       "album": {
@@ -223,30 +275,6 @@
       "duration_ms": 306023,
       "name": "Green Finch and Linnet Bird",
       "url": "https://open.spotify.com/track/6Wc5yhIX9H9NxnftaCaS0N"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1ENgHnxhTZN2RLiUYFUcUo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        }
-      ],
-      "duration_ms": 161920,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7aRlOFAO9guW9TUIwvLcxd"
     },
     {
       "added_at": "2024-11-18 14:15:56",
@@ -1339,26 +1367,6 @@
       "duration_ms": 298680,
       "name": "I've Seen That Face Before (Libertango)",
       "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "You're the Top",
-        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 248087,
-      "name": "You're the Top",
-      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
     },
     {
       "added_at": "2024-01-26 05:01:00",

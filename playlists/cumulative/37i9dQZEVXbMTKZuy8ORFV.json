@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 180224,
       "name": "Contigo el 2025",
       "url": "https://open.spotify.com/track/1x57piY4gMV0gFMk1sLb8A"
@@ -6108,7 +6108,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 162288,
       "name": "El Ultimo Amor",
       "url": "https://open.spotify.com/track/5ApJUoZ4OGBF9FcequqPY5"
@@ -10298,7 +10298,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
@@ -11926,7 +11926,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 100263,
       "name": "MI MAMI FUNK, Vol. 2 - Ultra Slowed",
       "url": "https://open.spotify.com/track/4gAjWKO67qLFrWHZmuK5h6"
@@ -17377,6 +17377,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0442\u0443\u0434\u0438\u0439\u043d\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c",
+        "url": "https://open.spotify.com/album/6tFlGlunCO27MWJJhPycyF"
+      },
+      "artists": [
+        {
+          "name": "\u0427\u0451\u0417\u0430\u0423\u0440\u043e\u0434\u044b\u041d\u0430\u0421\u0446\u0435\u043d\u0435",
+          "url": "https://open.spotify.com/artist/3oKql1X8zKQxuBdzczoHe7"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Smell Like Cherry",
+      "url": "https://open.spotify.com/track/03P9SGtqetfIhwlV0822gZ"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -19980,6 +19998,10 @@
         {
           "name": "Kenny Die",
           "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Sebas",
+          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
         }
       ],
       "date_added": "2024-12-21",

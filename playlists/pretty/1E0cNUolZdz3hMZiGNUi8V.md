@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,675 likes - 85 songs - 3 hr 57 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,671 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 84 | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/track/7duXZ4msQQePFt0rkkP7Fd) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/album/23E3EOIgb7o9HnTSTmIqdG) | 2:24 |
 | 85 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
 
-Snapshot ID: `AAAfTVaosrhdl7lRnNhujwGlT+7dPfTp`
+Snapshot ID: `AAAfTyp4yBCOA03sT/e/5g1aZwNdR2qW`

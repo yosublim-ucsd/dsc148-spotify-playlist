@@ -6126,8 +6126,8 @@
           "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
         },
         {
-          "name": "Elif Dame",
-          "url": "https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO"
+          "name": "Elodie Jeannette",
+          "url": "https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp"
         }
       ],
       "date_added": "2024-09-26",
@@ -7926,6 +7926,24 @@
       "duration_ms": 159392,
       "name": "You Can Do Anything",
       "url": "https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2"
+    },
+    {
+      "album": {
+        "name": "You don't listen",
+        "url": "https://open.spotify.com/album/2uK8gE6zUjiZ8vfBZvL5Y3"
+      },
+      "artists": [
+        {
+          "name": "Moodssupply",
+          "url": "https://open.spotify.com/artist/2EqKTm9ltVzMpSWZHpSOy2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "You don't listen",
+      "url": "https://open.spotify.com/track/7JjRTtAWZND9U2XoH4Il6D"
     },
     {
       "album": {

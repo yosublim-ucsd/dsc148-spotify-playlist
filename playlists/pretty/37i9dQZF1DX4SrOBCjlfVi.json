@@ -1,13 +1,285 @@
 {
-  "description": "All the New Joints featuring Lil Baby,  The Alchemist, BAK Jay and more!",
-  "num_followers": 308580,
+  "description": "All the New Joints featuring Mac Miller, Lil Baby,  Rod Wave and more!",
+  "num_followers": 309140,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du5AAAAAD2HGGd4kGz0MT99gv/vq+Q",
+  "snapshot_id": "Z4CpdwAAAACNozulDBwymyNleoIx018v",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 112733,
+      "name": "99 (with Future)",
+      "url": "https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Westside Connection",
+        "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Westside Connection",
+      "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6Ek01uAVVrcmxor5QWu4yX"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 126314,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/4DQgYo1trx8Pjb8PHymzdH"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "RIO FREE",
+        "url": "https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 166152,
+      "name": "OFF-RAP",
+      "url": "https://open.spotify.com/track/5ZVEybUCvawEzpYz8ovuQw"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+        "url": "https://open.spotify.com/album/3G8qXEDKJI9MGdanP7FuMX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/10MpbqJvhf6Lqi7YaFFra9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Tic Tic",
+        "url": "https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 92344,
+      "name": "Tic Tic",
+      "url": "https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Life Of A Zootieee",
+        "url": "https://open.spotify.com/album/5ClRtHaGogVbMC50hgslxl"
+      },
+      "artists": [
+        {
+          "name": "El Snappo",
+          "url": "https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS"
+        }
+      ],
+      "duration_ms": 132883,
+      "name": "Mo Problems",
+      "url": "https://open.spotify.com/track/6VXjw1Unrc6ZgSZlnQ7A55"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Bout My Money (feat. Bossman Dlow)",
+        "url": "https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 191865,
+      "name": "Bout My Money (feat. Bossman Dlow)",
+      "url": "https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/6jOW1tM2PKwmEj9i361Vgj"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/1xW99BWW5aTxZXkcp7ofT3"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Letter To Fam",
+        "url": "https://open.spotify.com/album/5r849SBlYdbG94qdK62yGk"
+      },
+      "artists": [
+        {
+          "name": "Screwly G",
+          "url": "https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Letter To Fam",
+      "url": "https://open.spotify.com/track/0lsoE0xaGiiNOg2Ihbb0JJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/5685DJYcwsH01tMwSkxsYh"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "Selena",
+      "url": "https://open.spotify.com/track/37SR66nUcBynhOqSmZx3Xt"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Half a Ticket",
+        "url": "https://open.spotify.com/album/5KBU8NC2uAmyDPT6AT56WF"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        }
+      ],
+      "duration_ms": 198366,
+      "name": "Half a Ticket",
+      "url": "https://open.spotify.com/track/71NLZXDngorhA27s5qSXpG"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "cupid",
+        "url": "https://open.spotify.com/album/5DmIgNTkiwzv9aAfmqfKji"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 144057,
+      "name": "3STAR",
+      "url": "https://open.spotify.com/track/4wfqTB8kAofP7YyFd8xiBB"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Red Rims",
+        "url": "https://open.spotify.com/album/6Diq15Po4HNcdNwwOf9JBA"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 153134,
+      "name": "Red Rims",
+      "url": "https://open.spotify.com/track/1rKqiXfu0wcp6Dfcz7ZWk2"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "The One Who Did",
+        "url": "https://open.spotify.com/album/3htiSyFe02URVZKvHRRley"
+      },
+      "artists": [
+        {
+          "name": "Drexthejoint",
+          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
+        }
+      ],
+      "duration_ms": 145425,
+      "name": "Robbin",
+      "url": "https://open.spotify.com/track/6Gqu6QOwMAnLsRc35YE9NH"
+    },
     {
       "added_at": "2025-01-03 05:00:20",
       "album": {
@@ -591,22 +863,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "YOKOSUKA BOY",
-        "url": "https://open.spotify.com/album/57RYzEdmuP4pq5P0oUpdU2"
-      },
-      "artists": [
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 86563,
-      "name": "fan mail",
-      "url": "https://open.spotify.com/track/73WzXkIlLGRozIFNFIR7DZ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "Cash Cobain x Fumez The Engineer - Plugged In",
         "url": "https://open.spotify.com/album/5aZG2yBmyq60pWnzlgjGPW"
       },
@@ -643,246 +899,6 @@
       "duration_ms": 227368,
       "name": "Drank",
       "url": "https://open.spotify.com/track/1ssylCrMLzIlvMfvPGSPF6"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "This Sh!T Still in Harlem",
-        "url": "https://open.spotify.com/album/372Hn8bkMUBWvO2ydf26C4"
-      },
-      "artists": [
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Suzi",
-          "url": "https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv"
-        }
-      ],
-      "duration_ms": 122327,
-      "name": "This Sh!T Still in Harlem",
-      "url": "https://open.spotify.com/track/7BuxLux3Mn2z0Fl58RxCKU"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "KEEPIN IT CLOUDY",
-        "url": "https://open.spotify.com/album/5IlFnEDwxT019NpEWAHx9Q"
-      },
-      "artists": [
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "MILITANT",
-      "url": "https://open.spotify.com/track/2uUTuPVCQq8jmpPCmFGkGJ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Chick James, Vol. 1 (Deluxe)",
-        "url": "https://open.spotify.com/album/17nizapviqtWKivgq6ifU7"
-      },
-      "artists": [
-        {
-          "name": "Chicken P",
-          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
-        }
-      ],
-      "duration_ms": 90408,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/1LISI0BBTAK4wjQTMkqzOe"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Fed Kicked",
-        "url": "https://open.spotify.com/album/0DJZzPacGOYNWW50tYnAUF"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 138004,
-      "name": "Fed Kicked",
-      "url": "https://open.spotify.com/track/0Kc00FTWuRxzKNsOvxyk7i"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Peysoh Did It",
-        "url": "https://open.spotify.com/album/0vrkhx5cRnzXHWEaLkrwOp"
-      },
-      "artists": [
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Not Me",
-      "url": "https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "BIG SCOOM (Vol. 1)",
-        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173565,
-      "name": "Throw (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Free Wizzop",
-        "url": "https://open.spotify.com/album/6rinOhtUltYPUWimDuVD4b"
-      },
-      "artists": [
-        {
-          "name": "Wizz Havinn",
-          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
-        }
-      ],
-      "duration_ms": 101566,
-      "name": "They Forgot",
-      "url": "https://open.spotify.com/track/7449XmCL1nh2nV9si7GkZk"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "DEADASS",
-        "url": "https://open.spotify.com/album/2GYEjZUxauQmT0uk4vzdD3"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 114905,
-      "name": "DEADASS",
-      "url": "https://open.spotify.com/track/2v729TfRh0M6ehIymBLADW"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Brand New Whip",
-        "url": "https://open.spotify.com/album/45L1NETEz2Eu09c5IrN7R7"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 106105,
-      "name": "Brand New Whip",
-      "url": "https://open.spotify.com/track/3UYs6ICuDQ68wep3vlaqcl"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "On Fleek",
-        "url": "https://open.spotify.com/album/7EZVGHjXWWfhDZqI1S9i1p"
-      },
-      "artists": [
-        {
-          "name": "Drexthejoint",
-          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        },
-        {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "On Fleek",
-      "url": "https://open.spotify.com/track/4CesVPUs4A0HupD0EAhujk"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Gone 2024",
-        "url": "https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 250886,
-      "name": "Gone 2024",
-      "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Factory",
-        "url": "https://open.spotify.com/album/6s1wYdCpPOHiu3VUPhI7c6"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 132714,
-      "name": "Factory",
-      "url": "https://open.spotify.com/track/4h9cOhgUjpXeSCj7SylYqt"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "DELULU",
-        "url": "https://open.spotify.com/album/0WqFR4hFwawhu35tLdcQdS"
-      },
-      "artists": [
-        {
-          "name": "Haiti Babii",
-          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
-        }
-      ],
-      "duration_ms": 133582,
-      "name": "DELULU",
-      "url": "https://open.spotify.com/track/5rY0Auy73dumyXnLoqZT6b"
     }
   ],
   "unique_name": "New Joints",

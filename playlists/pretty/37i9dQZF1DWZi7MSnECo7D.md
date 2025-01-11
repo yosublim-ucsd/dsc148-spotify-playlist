@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Raça
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,702 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,656 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Consciente](https://open.spotify.com/track/44DfRvxTdq4taWVWeuuRjI) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Consciente](https://open.spotify.com/album/5uapryf0liDLNKnjjGycQD) | 2:57 |
 | 2 | [Eclipse Solar](https://open.spotify.com/track/7JnOzPASrmhQdiSrv8Yl1v) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Migrante](https://open.spotify.com/album/7xUAc8aDr2MgJPQxTVeVG4) | 3:14 |
-| 3 | [Ghosting](https://open.spotify.com/track/3iXVbSgmGj4kvHI3rjKJk7) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Rei Lacoste](https://open.spotify.com/artist/7Bp2KSECy4D9UGok5wtScH) | [Ghosting](https://open.spotify.com/album/2rlYG7y1H446ppIxZbEhDf) | 2:22 |
-| 4 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 |
-| 5 | [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 |
-| 6 | [Cuéntame](https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi) | [Gracinha](https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2) | [Corpo Celeste](https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy) | 4:36 |
-| 7 | [fim da linha](https://open.spotify.com/track/63ulwVE4Y64wUuIW8HZgVb) | [girlblogging](https://open.spotify.com/artist/0ghNy2RPIGHZO1zCoHyt8m) | [entre rosas](https://open.spotify.com/album/71pq1KLzdnmc03ULZ6ziG2) | 1:41 |
-| 8 | [Lip Balm](https://open.spotify.com/track/1ocmbYTNj4Io2doMqvpiBK) | [Bistrô](https://open.spotify.com/artist/0OXLCbo0WvBbFRvThXuwgb), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Bistrô](https://open.spotify.com/album/74sIGHkHgyWT9UDW9Tb4OD) | 2:33 |
-| 9 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
-| 10 | [Ayer Morí](https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [Ayer Morí](https://open.spotify.com/album/1byvBnHTMnu34AzKPFAFZz) | 2:38 |
-| 11 | [Coração Bobo](https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Extra](https://open.spotify.com/album/0Ky85K9YsToTW5baHDRpKl) | 4:08 |
-| 12 | [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 |
-| 13 | [Arrasta Asa](https://open.spotify.com/track/1BeUNTxs300I1GV83V4FHF) | [Os Amanticidas](https://open.spotify.com/artist/6DnHZK8a57dRS2D5qewfex), [renanrenan](https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh) | [Eu Te Conto Tudo](https://open.spotify.com/album/5dAkGlsiX4ZFKi4ncGvABK) | 4:51 |
-| 14 | [Uma Tarde Qualquer](https://open.spotify.com/track/4leKREDuvQHApZlFFWyESR) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX), [Manacaos](https://open.spotify.com/artist/772iZJwA2TQKKxD8FNgJhM) | [Uma Tarde Qualquer](https://open.spotify.com/album/1UNPmfc5MWaQ6wrDFSISdy) | 3:30 |
-| 15 | [Santo Dia](https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Santo Dia](https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr) | 2:59 |
+| 3 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 |
+| 4 | [Cuéntame](https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi) | [Gracinha](https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2) | [Corpo Celeste](https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy) | 4:36 |
+| 5 | [fim da linha](https://open.spotify.com/track/63ulwVE4Y64wUuIW8HZgVb) | [girlblogging](https://open.spotify.com/artist/0ghNy2RPIGHZO1zCoHyt8m) | [entre rosas](https://open.spotify.com/album/71pq1KLzdnmc03ULZ6ziG2) | 1:41 |
+| 6 | [Lip Balm](https://open.spotify.com/track/1ocmbYTNj4Io2doMqvpiBK) | [Bistrô](https://open.spotify.com/artist/0OXLCbo0WvBbFRvThXuwgb), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Bistrô](https://open.spotify.com/album/74sIGHkHgyWT9UDW9Tb4OD) | 2:33 |
+| 7 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 8 | [O Som, o Verbo e a Vida](https://open.spotify.com/track/1ZdC73qUIR8CzUZw45l4fS) | [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O), [Rodrigo Brandão](https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa) | [Telefone Sem Fio](https://open.spotify.com/album/3TQLUp9wpqY8RBGQ00HiWz) | 1:12 |
+| 9 | [Ayer Morí](https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [Ayer Morí](https://open.spotify.com/album/1byvBnHTMnu34AzKPFAFZz) | 2:38 |
+| 10 | [Coração Bobo](https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Extra](https://open.spotify.com/album/0Ky85K9YsToTW5baHDRpKl) | 4:08 |
+| 11 | [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 |
+| 12 | [Arrasta Asa](https://open.spotify.com/track/1BeUNTxs300I1GV83V4FHF) | [Os Amanticidas](https://open.spotify.com/artist/6DnHZK8a57dRS2D5qewfex), [renanrenan](https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh) | [Eu Te Conto Tudo](https://open.spotify.com/album/5dAkGlsiX4ZFKi4ncGvABK) | 4:51 |
+| 13 | [Uma Tarde Qualquer](https://open.spotify.com/track/4leKREDuvQHApZlFFWyESR) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX), [Manacaos](https://open.spotify.com/artist/772iZJwA2TQKKxD8FNgJhM) | [Uma Tarde Qualquer](https://open.spotify.com/album/1UNPmfc5MWaQ6wrDFSISdy) | 3:30 |
+| 14 | [Santo Dia](https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Santo Dia](https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr) | 2:59 |
+| 15 | [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 |
 | 16 | [Imprevisível](https://open.spotify.com/track/5cRpK6nKXBM5xbHU048Z6h) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [João Paulo Lopes](https://open.spotify.com/artist/6BZZsvcWRDSP53dvlh5u3D) | [Imprevisível](https://open.spotify.com/album/1uuuKNQyBMwkxiFL5CpTi9) | 2:42 |
 | 17 | [Caído em Você](https://open.spotify.com/track/7BwGn7fYU0cGIXXyWiguwd) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Caído em Você](https://open.spotify.com/album/3PYSntB0Or0IwJUOCe9GRv) | 3:03 |
 | 18 | [Hasta Luego](https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Hasta Luego](https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [amarga](https://open.spotify.com/track/4HAIHkDRNvEdLQpIzrxCxH) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [amarga](https://open.spotify.com/album/2HrEpViiZOxx6fLFpw6uwb) | 3:45 |
 | 80 | [aonde mais](https://open.spotify.com/track/5bgWnou9B3oO7nJAUVdig5) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [aonde mais](https://open.spotify.com/album/1gtIJPonh5fWPwEKBc8q6g) | 3:03 |
 
-Snapshot ID: `Z2TeZQAAAADfnAEkT9AshHkASANiRocs`
+Snapshot ID: `Z4CN/gAAAADjE+Tuag0J009o9m/nPdjQ`

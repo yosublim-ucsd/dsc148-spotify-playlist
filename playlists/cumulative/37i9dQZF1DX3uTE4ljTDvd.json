@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Sophia Vit\u00f3ria, Fabiana Sinfr\u00f4nio ",
+  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Alexsander Lucio",
   "name": "Revela\u00e7\u00e3o Gospel",
   "tracks": [
     {
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "album": {
         "name": "O Teu Poder (Creio em Ti)",
         "url": "https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 267983,
       "name": "S\u00f3 Faz Ajudar",
       "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"

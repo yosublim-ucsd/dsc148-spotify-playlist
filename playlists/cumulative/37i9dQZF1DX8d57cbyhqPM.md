@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tonton Ferre Gola
+> Du Congo, au monde\. 🌍 Photo: Tantine Theodora
 
-514 songs - 1 day 5 hr 48 min
+515 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [SAN GOKU](https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 2:52 | 2024-09-13 |  |
 | [Sans nouvelle](https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Sans nouvelle](https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM) | 2:53 | 2023-08-04 | 2024-07-27 |
 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2022-10-14 | 2023-05-13 |
-| [Sarah Solo](https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5), [Sarah Solo](https://open.spotify.com/artist/6ezpeVsmCk7rlu0VvxSRyp) | [Sarah Solo](https://open.spotify.com/album/0xhkdXFnqDRNjmEPduWcla) | 3:41 | 2024-11-29 |  |
+| [Sarah Solo](https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5), [Sarah Solo](https://open.spotify.com/artist/6ezpeVsmCk7rlu0VvxSRyp) | [Sarah Solo](https://open.spotify.com/album/0xhkdXFnqDRNjmEPduWcla) | 3:41 | 2024-11-29 | 2025-01-11 |
 | [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 | 2022-10-08 |
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 | 2022-12-03 |
 | [Sensibility](https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Sensibility](https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04) | 2:23 | 2024-12-13 |  |
@@ -435,6 +435,7 @@
 | [Si je savais ça](https://open.spotify.com/track/4RqQKQ4VxlYC6zWHgCQb5p) | [Madilu System](https://open.spotify.com/artist/7dXTUndlDjlH9V5I9KRWjm) | [Dernière volonté](https://open.spotify.com/album/1fPlYiVtjdFgVcTMH4Q9IO) | 6:56 | 2023-03-17 | 2023-04-29 |
 | [Sikoyo \(feat\. Branko & Fédération Internationale du Bruit\)](https://open.spotify.com/track/6nqe6iXrpAntPHHHNsK7nR) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Sikoyo \(feat\. Branko & Fédération Internationale du Bruit\)](https://open.spotify.com/album/6Vm429SlVU0QkJaCF19Iah) | 4:04 | 2023-12-01 | 2024-05-03 |
 | [Sing My Song](https://open.spotify.com/track/4LrHLw7blCUmRrWVM2bcPn) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Sing My Song](https://open.spotify.com/album/1bKhqXL6RWy5BQdBmMicUg) | 3:28 | 2024-06-14 | 2024-07-06 |
+| [Smarta With Data](https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Smarta With Data](https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg) | 3:57 | 2025-01-10 |  |
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-24 | 2023-06-10 |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-07-26 | 2024-09-14 |
 | [Soldat](https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL), [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Soldat](https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp) | 3:14 | 2023-09-08 | 2023-12-16 |

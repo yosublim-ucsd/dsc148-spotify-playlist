@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14398,
+  "num_followers": 14397,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKKBxEjrdBR+ou72XTkBOUTkCyuEN4",
+  "snapshot_id": "AAAKKg6P77PcMA1+WwlJp+iIKSFo/WMD",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1815,6 +1815,42 @@
       "duration_ms": 180005,
       "name": "4U - Edu Campos Remix",
       "url": "https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ"
+    },
+    {
+      "added_at": "2025-01-10 14:36:05",
+      "album": {
+        "name": "Act A Fool",
+        "url": "https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Powell",
+          "url": "https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru"
+        }
+      ],
+      "duration_ms": 151627,
+      "name": "Act A Fool",
+      "url": "https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8"
+    },
+    {
+      "added_at": "2025-01-10 14:37:48",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4m1QQzp3Rz5w0NTiYWL2tC"
+      },
+      "artists": [
+        {
+          "name": "Ian G",
+          "url": "https://open.spotify.com/artist/2nQYxgKdzxuDMstR4zAg7g"
+        },
+        {
+          "name": "Ruff Loaderz",
+          "url": "https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/15RRojwJin9SYzZopZ8PDm"
     }
   ],
   "unique_name": "Ultra Club Hits",

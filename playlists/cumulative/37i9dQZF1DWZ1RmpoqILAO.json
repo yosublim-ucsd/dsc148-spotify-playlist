@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/2n1DVJVWUsZeeVIpmRcpI7"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/07kDDE5Oq1qPkvH5LA2zQP"
+    },
+    {
+      "album": {
         "name": "Kansas",
         "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
       },

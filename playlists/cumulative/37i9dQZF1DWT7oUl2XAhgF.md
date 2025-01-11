@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-478 songs - 1 day 4 hr 50 min
+479 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Untitled Visions](https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Untitled Visions](https://open.spotify.com/album/7tTFdS6eCjitmnXD8HqyUq) | 4:18 | 2023-05-26 | 2025-01-04 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:55 | 2022-07-01 | 2022-08-27 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 | 2022-07-01 | 2022-07-29 |
-| [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 | 2024-10-25 |  |
+| [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 | 2024-10-25 | 2025-01-11 |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 | 2024-10-05 |
 | [Waiting on the Sidelines](https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76) | 4:03 | 2023-05-05 | 2023-08-26 |
 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 | 2024-08-30 |  |
@@ -484,6 +484,7 @@
 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 |  |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |
 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 |  |
+| [Your Light](https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Your Light](https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3) | 3:54 | 2025-01-10 |  |
 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 | 2023-11-10 | 2024-01-13 |
 | [Your Team](https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Your Team](https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX) | 3:06 | 2024-09-13 |  |
 

@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 161538,
       "name": "A Christmas Prelude No. 1",
       "url": "https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 175712,
       "name": "A Christmas Prelude No. 3",
       "url": "https://open.spotify.com/track/550tiyZbarfuAejjHMSZLO"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 146493,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6VYSqs3AgB6koJdXOaXjkJ"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 94626,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/2MQkIXTRh4H8eaKW1mPLoY"
@@ -6079,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "La Mattina",
+        "url": "https://open.spotify.com/album/0TciGM0oDp8HCgNUoUdtWQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "La Mattina",
+      "url": "https://open.spotify.com/track/0VJD4lajldCn56OqrK9qv4"
+    },
+    {
+      "album": {
         "name": "Kathryn Stott: The Complete Solo Recordings",
         "url": "https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP"
       },
@@ -7080,7 +7098,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 134676,
       "name": "Lonely Christmas (After Mendelssohn: Hark! The Herald Angels Sing, Arr. for Piano by Martin Stadtfeld)",
       "url": "https://open.spotify.com/track/56JT1vypieGlV7NfwOKlrp"
@@ -11743,6 +11761,24 @@
     },
     {
       "album": {
+        "name": "Song for the Village",
+        "url": "https://open.spotify.com/album/1SHP2IfM5wdTzhtrpjEl3I"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169249,
+      "name": "Song for the Village",
+      "url": "https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT"
+    },
+    {
+      "album": {
         "name": "Song to the Moon (from Rusalka)",
         "url": "https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf"
       },
@@ -13877,6 +13913,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5Hl6FRbYZROJuEKYHFsx7d"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131695,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7rrz6YoiyKmWJtxLxLtBUb"
+    },
+    {
+      "album": {
         "name": "Together At Last",
         "url": "https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T"
       },
@@ -13936,6 +13990,24 @@
       "duration_ms": 207626,
       "name": "Together Without You",
       "url": "https://open.spotify.com/track/2STpnOCDlWxS5JdtsLWaFA"
+    },
+    {
+      "album": {
+        "name": "Together Without You (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213688,
+      "name": "Together Without You (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT"
     },
     {
       "album": {

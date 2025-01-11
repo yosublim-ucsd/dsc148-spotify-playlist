@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 39920,
+  "num_followers": 39926,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z34oOAAAAACTqeTqDD4ZwHo7Pyo9n+g9",
+  "snapshot_id": "Z4DDoQAAAABhTq+C3GZgIpe/7ZMOSfSZ",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -183,6 +183,22 @@
       "duration_ms": 173988,
       "name": "Yedhalo",
       "url": "https://open.spotify.com/track/2DMqmP5HqmkmNcuVTK0KQx"
+    },
+    {
+      "added_at": "2025-01-10 06:52:17",
+      "album": {
+        "name": "Time Pass",
+        "url": "https://open.spotify.com/album/30esheOCFO7ouhiPHGT6lf"
+      },
+      "artists": [
+        {
+          "name": "CNU beats",
+          "url": "https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Time Pass",
+      "url": "https://open.spotify.com/track/63YIpXTYeO1lRjWq0qgrZY"
     },
     {
       "added_at": "2025-01-06 07:54:55",
@@ -1431,38 +1447,6 @@
       "duration_ms": 267272,
       "name": "Saagave Manasa",
       "url": "https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW"
-    },
-    {
-      "added_at": "2023-08-04 09:51:26",
-      "album": {
-        "name": "Pada Pada",
-        "url": "https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Pada Pada",
-      "url": "https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU"
-    },
-    {
-      "added_at": "2023-08-02 11:50:53",
-      "album": {
-        "name": "Vellakala Nannodilesi",
-        "url": "https://open.spotify.com/album/5tGRfbxjBAFQMK6FNT0AC9"
-      },
-      "artists": [
-        {
-          "name": "Kaushal Jha",
-          "url": "https://open.spotify.com/artist/2V64YsR5g08RiV1A0QdhJZ"
-        }
-      ],
-      "duration_ms": 263998,
-      "name": "Vellakala Nannodilesi",
-      "url": "https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl"
     },
     {
       "added_at": "2023-06-09 06:17:32",

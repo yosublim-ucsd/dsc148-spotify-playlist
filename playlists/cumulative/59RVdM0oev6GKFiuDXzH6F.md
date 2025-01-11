@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-920 songs - 1 day 22 hr 58 min
+924 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Give It to You](https://open.spotify.com/track/1ChmxHfW4rOM7B8RwEEU8y) | [Zenemy](https://open.spotify.com/artist/2cHw7LZDGn9mjTiFTSeEHt) | [Give It to You](https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ) | 3:54 | 2024-09-20 | 2024-10-11 |
 | [Give It Up](https://open.spotify.com/track/62ro6kcujbmEhlndu4uT0Z) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:36 | 2024-12-05 |  |
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 | 2024-09-26 |
+| [Go Down \- Radio Mix](https://open.spotify.com/track/5rknguMmLNVo3nssfJiThj) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR), [Ivax](https://open.spotify.com/artist/7E0QQ55VuvXNy0iF3mop5x) | [Go Down](https://open.spotify.com/album/37oTqjeAYIQH7AYT8thNkJ) | 3:14 | 2025-01-10 |  |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 | 2025-01-09 |
 | [Golden Coast](https://open.spotify.com/track/5OAzNsvlce77KdVuA2bVah) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Golden Coast](https://open.spotify.com/album/2ocTIH0Mm6EEGBfl6DyYOE) | 2:47 | 2024-12-05 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-01 | 2023-12-14 |
@@ -335,6 +336,7 @@
 | [House Y'all](https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [House Y'all](https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty) | 2:35 | 2023-09-25 | 2023-12-14 |
 | [House Your Body](https://open.spotify.com/track/1MNPJDbFmTLZ2eD5jGipad) | [Frivolous Jackson](https://open.spotify.com/artist/48jmr1k54Rz3O9RwutfalM) | [House Your Body](https://open.spotify.com/album/1nzGgT38oH4YZvPnLpwsh2) | 3:00 | 2023-02-12 | 2023-08-02 |
 | [Howling](https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Howling](https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu) | 4:13 | 2024-12-05 |  |
+| [Humpty Dumpty](https://open.spotify.com/track/0si4CtK4GNt9yWRd8QcvQx) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Humpty Dumpty](https://open.spotify.com/album/0jJlBjvYNqsmEv5e05wWR0) | 3:02 | 2025-01-10 |  |
 | [Hush \- Mixed](https://open.spotify.com/track/0XxotF2YqnTxJLn5ni4nz2) | [Insira](https://open.spotify.com/artist/4uR1CUgsicbwL5Pqw1nUJT) | [Hush](https://open.spotify.com/album/7i5c8kx44asZdicG8xGxx2) | 3:53 | 2024-12-05 |  |
 | [Hush My Heart](https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Hush My Heart](https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI) | 2:56 | 2024-12-05 | 2025-01-09 |
 | [Hype \- Radio Edit](https://open.spotify.com/track/7u7kTQVEV0eu1ggBdm65jJ) | [DAN:ROS](https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa) | [Hype \(Radio Edit\)](https://open.spotify.com/album/6ZaID0z3f6540kdw5QIW55) | 2:56 | 2023-09-15 | 2023-12-14 |
@@ -507,6 +509,7 @@
 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 | 2023-12-08 | 2024-10-11 |
 | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/track/3BDaQ8OZwJxRvnrMDJssCL) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Mamacita \(feat\. LexBlaze\)](https://open.spotify.com/album/4pfc04gBI21kH3UULpk7xU) | 2:52 | 2023-03-31 | 2023-12-23 |
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-05-01 | 2023-05-24 |
+| [Man On The Internet](https://open.spotify.com/track/1uhpwRggf9AaJws3idWFPF) | [Ex Music](https://open.spotify.com/artist/4UdV3xkQivY94241kmSshU), [Boy Acuff](https://open.spotify.com/artist/2qxZ69Xo2jUsgf0liEv4sM) | [Man On The Internet](https://open.spotify.com/album/7C7FAWzlJ6zqAFY0BvI0AV) | 2:35 | 2025-01-10 |  |
 | [Mantra](https://open.spotify.com/track/29ZGQEhZM8Je7AqoKiwKtr) | [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Mantra](https://open.spotify.com/album/5Lu4terQtT6PBeuLnb4WBo) | 2:55 | 2023-05-18 | 2023-12-14 |
 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 | 2023-05-25 | 2023-12-23 |
 | [Marching Soldiers](https://open.spotify.com/track/7biX9nC4aBCFhBIlKZi5ek) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Marching Soldiers](https://open.spotify.com/album/347t6fEb5nYm2t0Dp7W8p9) | 3:03 | 2024-11-15 | 2025-01-09 |
@@ -703,6 +706,7 @@
 | [Secrets In The Dark](https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Secrets In The Dark](https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM) | 5:16 | 2023-12-15 | 2025-01-09 |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-10 | 2024-09-26 |
 | [Shake It](https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Shake It](https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO) | 2:11 | 2024-05-17 | 2024-10-11 |
+| [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 | 2025-01-10 |  |
 | [Shake Up](https://open.spotify.com/track/1tulU8DFdHEksNdp2k9rkr) | [B/AN/K](https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu) | [Shake Up](https://open.spotify.com/album/7eFRMHd0mbSo3KeKN4VPkA) | 3:52 | 2024-11-29 | 2025-01-09 |
 | [Shark Teeth](https://open.spotify.com/track/369h1UyxxGJUw4WRUepNgC) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Shark Teeth](https://open.spotify.com/album/0rXzI1zDPMDBuDn24W5Dvl) | 3:38 | 2023-08-25 | 2023-12-14 |
 | [Shined On Me](https://open.spotify.com/track/5p7vudRbvO9jMpzG2lfAO9) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Shined On Me](https://open.spotify.com/album/2lOBogTucTmpkO5ghcZIu4) | 2:13 | 2023-10-06 | 2024-10-11 |

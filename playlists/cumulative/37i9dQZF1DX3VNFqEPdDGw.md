@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-203 songs - 10 hr 41 min
+204 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 |  |
 | [90Degree](https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:16 | 2025-01-08 |  |
 | [Alone Jatt](https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:11 | 2025-01-08 |  |
-| [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 |  |
+| [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 | 2025-01-11 |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-12-18 | 2022-07-29 |
 | [Avocado](https://open.spotify.com/track/3r9h4gft5xGvLQ1s8u6Svy) | [Daljeet Chahal](https://open.spotify.com/artist/5hsk207hlLQShvs9BkolVl), [KV Mohali](https://open.spotify.com/artist/0QqTe613U00gNnvMk8gqgC), [Kabal Saroopwali](https://open.spotify.com/artist/2Svq3W9xsbXflRBA8yhrV2) | [Avocado](https://open.spotify.com/album/5fRjZWNEgWApa8d4ifnWPm) | 2:25 | 2024-11-04 | 2025-01-09 |
@@ -104,6 +104,7 @@
 | [Kalli Sohni](https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Kalli Sohni](https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe) | 2:51 | 2025-01-08 |  |
 | [Kamayi](https://open.spotify.com/track/55QfkK3dbHstsnw4HdlxeK) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Kamayi](https://open.spotify.com/album/5LCeHcUjwpyeoXgtYREfAe) | 3:06 | 2025-01-08 |  |
 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 | 2025-01-08 |  |
+| [Kangna](https://open.spotify.com/track/0rytCy8xE32DsMOhnGSaeO) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kangna](https://open.spotify.com/album/0xqiibLSKsoct9dtwU0fX4) | 2:52 | 2025-01-10 |  |
 | [Kangni](https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Kangni](https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT) | 2:58 | 2025-01-08 |  |
 | [KAREEB](https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [KAREEB](https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap) | 3:00 | 2025-01-08 |  |
 | [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 | 2024-10-11 |

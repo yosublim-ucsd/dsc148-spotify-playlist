@@ -631,6 +631,32 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: 6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
+        "url": "https://open.spotify.com/album/6GPuwbL2rnvnBSb52rGzmi"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Christian Li",
+          "url": "https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR"
+        },
+        {
+          "name": "Nicola Eimer",
+          "url": "https://open.spotify.com/artist/0c3zVm4M3QCtVl6UmpiXV6"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150493,
+      "name": "6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
+      "url": "https://open.spotify.com/track/0OTFk2oQlWeNaQzOiSKDdt"
+    },
+    {
+      "album": {
         "name": "7 Screaming Diz-Busters (Live)",
         "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
       },
@@ -1314,6 +1340,28 @@
       "duration_ms": 286106,
       "name": "Ace of Spades - Live at Montreux, 2007",
       "url": "https://open.spotify.com/track/636l0FSmwU6QI132042uf6"
+    },
+    {
+      "album": {
+        "name": "Acelerando",
+        "url": "https://open.spotify.com/album/2BZaxQzefNgsK4HwGFZB7b"
+      },
+      "artists": [
+        {
+          "name": "P.M",
+          "url": "https://open.spotify.com/artist/3UA6BeqKc7UNFinIKcuaqO"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229743,
+      "name": "Acelerando",
+      "url": "https://open.spotify.com/track/5W8W8eShpfrpvCNEi2ExO6"
     },
     {
       "album": {
@@ -5813,6 +5861,46 @@
     },
     {
       "album": {
+        "name": "Buscando la luz",
+        "url": "https://open.spotify.com/album/1SrQXc2DsCEnqNfWfx2q6r"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        },
+        {
+          "name": "Billy Gould",
+          "url": "https://open.spotify.com/artist/00Y4ac2cCep3TD42DBjSjs"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201151,
+      "name": "Buscando la luz",
+      "url": "https://open.spotify.com/track/5Kc1j7KZ3dJj9CxUD71Lya"
+    },
+    {
+      "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "album": {
         "name": "Focus 12",
         "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
       },
@@ -8131,6 +8219,24 @@
     },
     {
       "album": {
+        "name": "Curious Ruminant",
+        "url": "https://open.spotify.com/album/7EfhM9H9X5qCBr1Q5jVCXa"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360120,
+      "name": "Curious Ruminant",
+      "url": "https://open.spotify.com/track/1GwbwKkKsj3EqkJda5RdoR"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -8238,6 +8344,24 @@
       "duration_ms": 146137,
       "name": "Damage",
       "url": "https://open.spotify.com/track/17SU6rNaDH0e6vil1Iwh3B"
+    },
+    {
+      "album": {
+        "name": "Steady Damage (Lo-Fi)",
+        "url": "https://open.spotify.com/album/6wZt5vEAe5Fr5BWEb3DLC2"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Damage - Lo-Fi",
+      "url": "https://open.spotify.com/track/7z5WhTU8rmyY2j2mMYY6TG"
     },
     {
       "album": {
@@ -9649,6 +9773,24 @@
     },
     {
       "album": {
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "album": {
         "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -10318,6 +10460,40 @@
       "duration_ms": 251133,
       "name": "D\u00eda De Luz - 80 Aniversario",
       "url": "https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm"
+    },
+    {
+      "album": {
+        "name": "Croneoss",
+        "url": "https://open.spotify.com/album/4qyA1XwqPh2GXJucuBTX9K"
+      },
+      "artists": [
+        {
+          "name": "El Oss",
+          "url": "https://open.spotify.com/artist/1ErwZDB2os60WjaLNx1rRj"
+        },
+        {
+          "name": "Cronelnegro",
+          "url": "https://open.spotify.com/artist/6RqcOLLylHAl4wjiZ9Vx9f"
+        },
+        {
+          "name": "Angelo Soliloquio",
+          "url": "https://open.spotify.com/artist/2U8i0Mn3vPa9No2BTvgdZ7"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "Macrodee",
+          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188839,
+      "name": "D\u00eda Tres",
+      "url": "https://open.spotify.com/track/4DUwZUxMZaD9S0sz4RHjI1"
     },
     {
       "album": {
@@ -14588,6 +14764,24 @@
     {
       "album": {
         "name": "Gravity",
+        "url": "https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV"
+    },
+    {
+      "album": {
+        "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
       "artists": [
@@ -18136,7 +18330,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 206960,
       "name": "In League with Satan",
       "url": "https://open.spotify.com/track/4kS204D1uqGPYrsHaYSoz4"
@@ -22183,6 +22377,28 @@
     },
     {
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO"
+    },
+    {
+      "album": {
         "name": "The Live Series: Songs of Introspection",
         "url": "https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w"
       },
@@ -22774,7 +22990,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 342500,
       "name": "Lovers and Strangers",
       "url": "https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt"
@@ -22814,6 +23030,40 @@
       "duration_ms": 194014,
       "name": "LOW",
       "url": "https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ"
+    },
+    {
+      "album": {
+        "name": "i didit",
+        "url": "https://open.spotify.com/album/1zb3yRPhK8ipl02wBSNbkC"
+      },
+      "artists": [
+        {
+          "name": "Lil Lupardz",
+          "url": "https://open.spotify.com/artist/1iEyyHSgDmzYCsvt6wrsCn"
+        },
+        {
+          "name": "Righo",
+          "url": "https://open.spotify.com/artist/0hm6if8uBqcGBoPGRqAPYW"
+        },
+        {
+          "name": "Wild Caster",
+          "url": "https://open.spotify.com/artist/6od9SzCm8Y6QvOZQzqYKs8"
+        },
+        {
+          "name": "Teedo",
+          "url": "https://open.spotify.com/artist/31oXVMqNebtTGJlHo8F4QB"
+        },
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206393,
+      "name": "low key",
+      "url": "https://open.spotify.com/track/3uO7MJ7K2JCa3tqpf7zhEu"
     },
     {
       "album": {
@@ -26336,7 +26586,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 158695,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/03zsLaNpPyZfnCK5WUqISR"
@@ -27140,7 +27390,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 206913,
       "name": "Out of The Fire (Type O Negative)",
       "url": "https://open.spotify.com/track/7IYSNUz2hcXgJHpuyMI4cH"
@@ -27300,6 +27550,28 @@
       "duration_ms": 221400,
       "name": "Over Your Shoulder (Live)",
       "url": "https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc"
+    },
+    {
+      "album": {
+        "name": "Overdose (feat. Blindside)",
+        "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Overdose - feat. Blindside",
+      "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
     },
     {
       "album": {
@@ -33478,7 +33750,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 288005,
       "name": "Some Dreams",
       "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
@@ -34596,7 +34868,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 240154,
       "name": "Steven Flowe (Theme Song)",
       "url": "https://open.spotify.com/track/2dFjsxfjZp8oiyiGXMlx21"
@@ -35724,7 +35996,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 84135,
       "name": "Tchaikovsky: Swan Lake - Mazurka - Excerpt",
       "url": "https://open.spotify.com/track/2EG7fplRiQhGo5TBQcVLKW"
@@ -39341,6 +39613,32 @@
     },
     {
       "album": {
+        "name": "Told You So (Remixes Vol. 2)",
+        "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Told You So - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV"
+    },
+    {
+      "album": {
         "name": "Told You So (Remixes Vol. 1)",
         "url": "https://open.spotify.com/album/4DOC3o2b1jqLmsMU2StEpA"
       },
@@ -39394,7 +39692,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150461,
       "name": "Told You So - Lavern & VisionV Remix",
       "url": "https://open.spotify.com/track/7sq5lP2gH7lR6EiiyhEbNt"

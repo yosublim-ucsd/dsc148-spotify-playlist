@@ -1181,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Soy de Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/0njMBhaUtcZIzjr8mKDvWB"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carlos Osuna",
+          "url": "https://open.spotify.com/artist/5ZD7QGl4LwiXD35lBOI4g7"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Soy de Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/58ylor5aPoUgcg2E6sCQ7o"
+    },
+    {
+      "album": {
         "name": "En Preparaci\u00f3n",
         "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "Endelig fredag \ud83c\udfb5",
-  "num_followers": 190448,
+  "description": "Ny musikk \ud83c\udfb5",
+  "num_followers": 190564,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BU/wAAAADEe6rrytBsm4mBmDAEmqte",
+  "snapshot_id": "Z4DO5gAAAABn9iAeiLusUBxpnmhaek6h",
   "tracks": [
     {
       "added_at": "2025-01-09 23:00:15",
@@ -623,6 +623,30 @@
       "duration_ms": 176998,
       "name": "Midnight Gloria",
       "url": "https://open.spotify.com/track/5jMuFt9y8emrkkEFJXevi4"
+    },
+    {
+      "added_at": "2025-01-09 23:00:15",
+      "album": {
+        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
     },
     {
       "added_at": "2025-01-09 23:00:15",

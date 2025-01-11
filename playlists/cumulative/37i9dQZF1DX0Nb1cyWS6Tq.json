@@ -574,10 +574,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
+    },
+    {
+      "album": {
+        "name": "Bela Lugosi's Dead (The Hunger Mix)",
+        "url": "https://open.spotify.com/album/1aNpufCyjQRxiINkt9Xp1g"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413010,
+      "name": "Bela Lugosi's Dead - The Hunger Mix",
+      "url": "https://open.spotify.com/track/5YkxdXwkJKMYkGvui9hRs8"
     },
     {
       "album": {

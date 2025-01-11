@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Sufian Suhaimi, Sarah Suhairi
 
-13,914 songs - 31 day 18 hr 26 min
+13,916 songs - 31 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2335,6 +2335,7 @@
 | [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-24 | 2022-04-01 |
 | [Confessional](https://open.spotify.com/track/4mDKRUwEIp0zuagwjjxz02) | [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [The Words](https://open.spotify.com/album/2itVhATfjqRi5GDAS6JhM5) | 3:28 | 2022-11-10 | 2022-11-18 |
 | [confessions](https://open.spotify.com/track/68OpYXYhiOz0CSdcstoBz9) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [confessions](https://open.spotify.com/album/7ChUuXWQm4glz8ZHSUV4MG) | 2:27 | 2023-06-22 | 2023-06-30 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 |  |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-13 | 2023-04-21 |
 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 | 2024-05-23 | 2024-06-01 |
 | [Confidante](https://open.spotify.com/track/1vWgJsQ8OUSqrjykqfldOi) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [Nine Ze CP](https://open.spotify.com/artist/6WGAJWv2yhSSnT1tZdsBMU) | [Always with you \(Deluxe Edition\)](https://open.spotify.com/album/0OAJqUgH2IXbgQ8MRJLPGf) | 4:51 | 2024-08-22 | 2024-08-30 |
@@ -10497,6 +10498,7 @@
 | [stargazing](https://open.spotify.com/track/1occWjMLEm4VilPWFq8zjN) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp) | [stargazing](https://open.spotify.com/album/74R6ctevu7rk3Et2ysGqJO) | 3:20 | 2022-12-22 | 2022-12-30 |
 | [Starlight](https://open.spotify.com/track/4WGwTL5HIiaw5OIFnwgCR9) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 40](https://open.spotify.com/album/57TzZhbqvYoUBzJSVKFVlG) | 5:03 | 2022-11-17 | 2022-11-25 |
 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 | 2022-02-17 | 2022-02-25 |
+| [Starlight](https://open.spotify.com/track/4jF30l1l7QsJA9AEuQgayG) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Starlight](https://open.spotify.com/album/1V6tpkhkFaFo6C3xrbRVL8) | 5:26 | 2025-01-09 |  |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 | 2024-09-06 |
 | [Starry Night](https://open.spotify.com/track/1GVaatRoHF3Vssfz8ZuINz) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [Trip: Tape \#02](https://open.spotify.com/album/5pnH3lBGN8Id47sTkWxOsZ) | 2:46 | 2022-04-07 | 2022-04-15 |
 | [Starry Night](https://open.spotify.com/track/4EH2Z6lUYSW5PIopdrPGSr) | [The Terrace Vibe](https://open.spotify.com/artist/6rRrN0wgGkpmiFOM2JOvDz) | [Starry Night](https://open.spotify.com/album/4m9cDzrbMEnPujcdzQpICr) | 4:14 | 2023-03-09 | 2023-03-18 |

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Mac Miller\)
 
-2,534 songs - 5 day 8 hr 19 min
+2,536 songs - 5 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1583,6 +1583,7 @@
 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 | 2022-06-09 | 2022-07-29 |
 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 | 2022-10-27 | 2022-12-16 |
 | [OOOWEE](https://open.spotify.com/track/0OVidAFsl94UqP9RZHX50W) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn), [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [OOOWEE](https://open.spotify.com/album/6WJ95w21cyMFdDtp2babUG) | 4:06 | 2022-12-01 | 2023-01-28 |
+| [Ooweee](https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ooweee](https://open.spotify.com/album/5dO4VmJHVX6pICgk65GV8M) | 3:05 | 2025-01-10 |  |
 | [OPENING REMARKS.](https://open.spotify.com/track/59BIvk5aucSiHHLOOilWrK) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [LEGACY.](https://open.spotify.com/album/2gDPNsHxm3Q5jtjx98JB22) | 3:36 | 2022-06-23 | 2022-07-15 |
 | [Opposite](https://open.spotify.com/track/3kMHz0lhKZ0lRXCbhDNLE7) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Opposite](https://open.spotify.com/album/34VCCqmtpscVenqXj8h991) | 2:27 | 2022-03-10 | 2022-04-01 |
 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 | 2022-02-10 | 2022-03-11 |
@@ -2215,6 +2216,7 @@
 | [thursday! \(feat\. KYLE & Guapdad 4000\)](https://open.spotify.com/track/16qQoIscY9N927DHbFHfIU) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [thursday! \(feat\. KYLE & Guapdad 4000\)](https://open.spotify.com/album/6QjWi6Dd95Ter8zwnbxZzY) | 2:49 | 2022-03-18 | 2022-04-08 |
 | [Tic Tac?](https://open.spotify.com/track/50V9V62d0byssOftbpH0ZK) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 2:15 | 2024-01-25 | 2024-03-01 |
 | [Tic Tac?](https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 2:15 | 2024-01-05 | 2024-01-26 |
+| [Tic Tic](https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Tic Tic](https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB) | 1:32 | 2025-01-10 |  |
 | [TiFFANY](https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [TiFFANY](https://open.spotify.com/album/02xePX5V2OJTHmGjzHlFMk) | 2:22 | 2024-06-20 | 2024-08-02 |
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-03-17 | 2023-04-14 |
 | [Time Crisis](https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Time Crisis](https://open.spotify.com/album/6KS44Ir8jT67nqQ10Q16ps) | 2:06 | 2022-03-10 | 2022-04-01 |

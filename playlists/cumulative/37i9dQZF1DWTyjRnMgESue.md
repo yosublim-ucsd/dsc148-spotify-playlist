@@ -2,9 +2,9 @@
 
 ### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
 
-> The best new songs from modern singer\-songwriters\. Cover: Abby Powledge
+> The best new songs from modern singer\-songwriters\. Cover: Nolan Taylor
 
-576 songs - 1 day 9 hr 30 min
+578 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,12 +135,13 @@
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 |  |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-06-17 | 2022-10-14 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/1moE3Qvo70cpkGT6RcRy9l) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/4YHy2q0WEJaCNGRy4I1xsw) | 4:02 | 2022-08-12 | 2023-01-14 |
+| [Don't Have The Words](https://open.spotify.com/track/4xwXh8fFzx1Wlkl8jzsQBK) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Nolan Taylor](https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD) | 4:17 | 2025-01-10 |  |
 | [Don't Walk Away](https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 4:22 | 2024-03-29 | 2024-07-09 |
 | [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 | 2024-11-22 |  |
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1iMPcWrZhtv6tKJy9UhhUy) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Left Hand](https://open.spotify.com/album/2t1mL93fMNoyu84qChrOnO) | 2:56 | 2023-08-25 | 2023-09-16 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-11-19 | 2022-02-22 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
-| [Down To The Sea](https://open.spotify.com/track/211suA6DC3TnHyjeDzWFoj) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2uIVVImjKiA0KEi73pfbVG) | 3:19 | 2024-05-17 |  |
+| [Down To The Sea](https://open.spotify.com/track/211suA6DC3TnHyjeDzWFoj) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2uIVVImjKiA0KEi73pfbVG) | 3:19 | 2024-05-17 | 2025-01-11 |
 | [Dressed for the Weather](https://open.spotify.com/track/1T3OnKkjWl07lml6es5Gzz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM) | [Dressed for the Weather](https://open.spotify.com/album/7p3KQYXyBJL1Az7piFbgxz) | 2:47 | 2021-11-19 | 2022-05-20 |
 | [Drive Away With You](https://open.spotify.com/track/4gkS6VK2e0lwuDcSPv6nSb) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Drive Away With You](https://open.spotify.com/album/5kEovRq38GkPsRs2AFgz3G) | 4:18 | 2021-11-19 | 2022-07-16 |
 | [Drugs & Bad Habits](https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 2:39 | 2024-06-28 | 2024-08-29 |
@@ -541,6 +542,7 @@
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2023-07-21 | 2024-04-19 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-11-19 | 2023-08-04 |
 | [Volcano](https://open.spotify.com/track/0G10TbEezTu5zbO6r6bGSO) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Volcano](https://open.spotify.com/album/2hVRe9ciWguJRu8DWCDrvY) | 3:28 | 2021-11-19 | 2022-05-17 |
+| [Waiting Ain't Easy](https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Waiting Ain't Easy](https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b) | 3:08 | 2025-01-10 |  |
 | [Walls](https://open.spotify.com/track/2q3mVaM2J2HOd6gXiGR8RT) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Walls](https://open.spotify.com/album/36kyjrbbI2BxsWnjgk2QkI) | 3:57 | 2021-11-19 | 2022-07-28 |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-11-19 | 2022-02-22 |
 | [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 | 2023-08-25 | 2024-08-07 |
@@ -556,7 +558,7 @@
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-11-19 | 2022-07-16 |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-21 | 2022-07-05 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2023-06-08 |
-| [Where I'm Coming From](https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Where I'm Coming From](https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN) | 3:49 | 2024-11-15 |  |
+| [Where I'm Coming From](https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Where I'm Coming From](https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN) | 3:49 | 2024-11-15 | 2025-01-11 |
 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 | 2024-05-17 | 2024-07-25 |
 | [Wholeheartedly](https://open.spotify.com/track/57Gcs9Mo5wvO8gvp3fsle5) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [All Our Worries Are Poems \- Pt\. 1](https://open.spotify.com/album/0kuDcko7yASKGCak5F9uPs) | 3:11 | 2021-11-19 | 2022-05-11 |
 | [Why It Hurts](https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Why It Hurts](https://open.spotify.com/album/1yxv6R35y0kE6QUqXS9lSS) | 3:20 | 2021-11-19 | 2022-07-29 |

@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 251250,
       "name": "BODIES",
       "url": "https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD"
@@ -9344,7 +9344,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 226285,
       "name": "Psychotherapy",
       "url": "https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh"
@@ -10910,6 +10910,32 @@
       "duration_ms": 156004,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "album": {
+        "name": "Silence (K Theory Flip)",
+        "url": "https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6"
+      },
+      "artists": [
+        {
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
+        },
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        },
+        {
+          "name": "King Kairos",
+          "url": "https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Silence - K Theory Flip",
+      "url": "https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q"
     },
     {
       "album": {
@@ -13384,6 +13410,28 @@
       "duration_ms": 302007,
       "name": "VTRN",
       "url": "https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4"
+    },
+    {
+      "album": {
+        "name": "Wake UP",
+        "url": "https://open.spotify.com/album/2WcBVDyY61Ma7KIWTftcQB"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Wake UP",
+      "url": "https://open.spotify.com/track/5tiKz376uXROAzXTdDZi2a"
     },
     {
       "album": {

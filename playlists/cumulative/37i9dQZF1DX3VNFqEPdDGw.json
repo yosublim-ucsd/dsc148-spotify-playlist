@@ -210,7 +210,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 214681,
       "name": "Apne Vyah De Vich",
       "url": "https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz"
@@ -2054,6 +2054,28 @@
       "duration_ms": 201258,
       "name": "Kamli",
       "url": "https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac"
+    },
+    {
+      "album": {
+        "name": "Kangna",
+        "url": "https://open.spotify.com/album/0xqiibLSKsoct9dtwU0fX4"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172875,
+      "name": "Kangna",
+      "url": "https://open.spotify.com/track/0rytCy8xE32DsMOhnGSaeO"
     },
     {
       "album": {

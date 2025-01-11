@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-144 songs - 9 hr 59 min
+145 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Please Don't Go](https://open.spotify.com/track/2kbHzR8Ac2a7sBk1uErIE5) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Plays & Sings The Blues](https://open.spotify.com/album/32WLhVCgqsFqFj4HRs1rbL) | 2:27 | 2023-12-13 | 2023-12-26 |
 | [Process](https://open.spotify.com/track/7CMDV19vm31ihLvqZUHLAu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:46 | 2022-08-06 | 2022-10-23 |
 | [Red House](https://open.spotify.com/track/2al9nseOuULjTfe6GqInU1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE) | 4:04 | 2022-10-06 | 2022-10-08 |
+| [Rock With Me](https://open.spotify.com/track/3ASudh2vHVrxPqYlqekkYi) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Rock With Me](https://open.spotify.com/album/0nfkflglWTXtbrCl4ZwZ6p) | 7:06 | 2025-01-11 |  |
 | [Run On \- 2024 Remastered](https://open.spotify.com/track/7krXbrL1BUjgfe8x5gBzjy) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 2:12 | 2024-07-23 | 2024-07-24 |
 | [Sally Mae](https://open.spotify.com/track/4A7MBEV1l48gijjNN5IdIM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 3:18 | 2023-02-11 | 2024-02-08 |
 | [Sally Mae \(feat\. George Thorogood\)](https://open.spotify.com/track/1tJHt3iQlYpRJLq9oTqJSs) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:18 | 2024-03-13 |  |

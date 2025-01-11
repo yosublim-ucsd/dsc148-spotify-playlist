@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Wizkid",
-  "num_followers": 963559,
+  "num_followers": 963676,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
       "duration_ms": 184800,
       "name": "Favourite Girl (with Rema)",
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
+    },
+    {
+      "added_at": "2025-01-09 23:00:01",
+      "album": {
+        "name": "Aimer \u00c0 Moiti\u00e9 (Calema X Tayc Remix)",
+        "url": "https://open.spotify.com/album/23UnRzYd32ffjSaxhoAveN"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 215790,
+      "name": "Aimer \u00c0 Moiti\u00e9 - Calema X Tayc Remix",
+      "url": "https://open.spotify.com/track/70MKQVLd0BzLnBpaHRylEo"
     },
     {
       "added_at": "2025-01-09 23:00:01",

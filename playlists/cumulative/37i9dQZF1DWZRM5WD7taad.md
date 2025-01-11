@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Tokischa y Nathy Peluso en Portada
 
-350 songs - 17 hr 26 min
+351 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Amor Bonito](https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Mari Polé](https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY) | [Escándalo](https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK) | 3:22 | 2024-06-14 |  |
 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 | 2021-12-13 | 2023-07-01 |
 | [Antisocial](https://open.spotify.com/track/7tEsY4EB0tKXDgbv3JLRG4) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Rich Vagos Mixtape, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN) | 3:00 | 2023-02-10 | 2024-08-31 |
+| [Arena y Mar](https://open.spotify.com/track/7m5O0Qhg8rFzlHPpPYiBJi) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [Arena y Mar](https://open.spotify.com/album/4adqT2DBSfGEi2GkvMQ9vG) | 2:36 | 2025-01-10 |  |
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 | 2023-03-11 |
 | [Atlanta](https://open.spotify.com/track/3oEfaR3cbD1vs0wUZyxfta) | [B$ Sofia](https://open.spotify.com/artist/2f0ZUjFHq2GQqU3m828rTp) | [Atlanta](https://open.spotify.com/album/5x7f4eNxkiCVhhcMTAIHvY) | 2:41 | 2023-09-15 | 2024-04-27 |
 | [Autodefensa](https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MARICA](https://open.spotify.com/artist/3uuVC225TxrBKJB1SmnOlq) | [Autodefensa](https://open.spotify.com/album/2vXHHCAjX6a9wf4GmosnoO) | 3:52 | 2023-01-13 | 2023-07-01 |

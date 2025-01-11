@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop.  Cover: Malcolm Todd",
-  "num_followers": 216631,
+  "num_followers": 216640,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6QAAAADQWoB5A20DKumwe77TGQEF",
+  "snapshot_id": "Z4CpkgAAAADgsGUxf6n6Dsi0BbQI7Ecv",
   "tracks": [
     {
       "added_at": "2025-01-03 05:00:25",
@@ -23,6 +23,26 @@
       "duration_ms": 180146,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m"
+    },
+    {
+      "added_at": "2025-01-10 05:01:06",
+      "album": {
+        "name": "Castaways",
+        "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        },
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "duration_ms": 164454,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -73,6 +93,26 @@
       "url": "https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5"
     },
     {
+      "added_at": "2025-01-10 05:01:06",
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Hot Flash Heat Wave",
+          "url": "https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP"
+    },
+    {
       "added_at": "2024-12-20 05:00:39",
       "album": {
         "name": "Stephanie",
@@ -121,6 +161,22 @@
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
+      "added_at": "2025-01-10 05:01:06",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4fujcF9HuECTwxBU1UWQN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Giorgio",
+          "url": "https://open.spotify.com/artist/2NhXno18MV9YbhVmr5QX11"
+        }
+      ],
+      "duration_ms": 187790,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3cujAh2dkSNiQvUXtFUJXi"
+    },
+    {
       "added_at": "2025-01-03 05:00:25",
       "album": {
         "name": "enough for you",
@@ -135,6 +191,22 @@
       "duration_ms": 210098,
       "name": "enough for you",
       "url": "https://open.spotify.com/track/0MVuOqwCCcEAb7iQATWBJ5"
+    },
+    {
+      "added_at": "2025-01-10 05:01:06",
+      "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/7o0alWuGZoP3FKEmfLPyCO"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "duration_ms": 142236,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/68xhRinnpp9Y81wp4E6D9d"
     },
     {
       "added_at": "2024-12-13 05:00:37",
@@ -1155,70 +1227,6 @@
       "duration_ms": 201217,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "ballerina",
-        "url": "https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "ballerina",
-      "url": "https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV"
-    },
-    {
-      "added_at": "2024-09-20 18:10:49",
-      "album": {
-        "name": "Formalize Me",
-        "url": "https://open.spotify.com/album/4Bu8vWdrWMU986Gp2RjNeV"
-      },
-      "artists": [
-        {
-          "name": "Adrian Lyles",
-          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
-        }
-      ],
-      "duration_ms": 174670,
-      "name": "Formalize Me",
-      "url": "https://open.spotify.com/track/1o5qTps4XdHIOn6RT9cO3S"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Wanted?",
-        "url": "https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 231710,
-      "name": "Wanted?",
-      "url": "https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 209663,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/11zgphiq5vlwjis2uFi271"
     }
   ],
   "unique_name": "soda",

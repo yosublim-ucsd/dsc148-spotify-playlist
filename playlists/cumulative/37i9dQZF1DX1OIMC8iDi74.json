@@ -2827,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "Embody",
+        "url": "https://open.spotify.com/album/2PcKotcvt7n1MDoBkjySRJ"
+      },
+      "artists": [
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "Malixe",
+          "url": "https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dream Of U",
+      "url": "https://open.spotify.com/track/71JAtFpR1s6MvnMgscPVfK"
+    },
+    {
+      "album": {
         "name": "Drifting in the Dark",
         "url": "https://open.spotify.com/album/2DaIUVT6XAUpN8YKIiH0LY"
       },
@@ -4932,7 +4954,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 156444,
       "name": "Hertz Donut",
       "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
@@ -6605,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "LISTEN!",
+        "url": "https://open.spotify.com/album/7qbr2YRV0H0jXkkzo6uegf"
+      },
+      "artists": [
+        {
+          "name": "Rickyxsan",
+          "url": "https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "LISTEN!",
+      "url": "https://open.spotify.com/track/4ROtwchxYPLB3ur6Ks3OWs"
+    },
+    {
+      "album": {
         "name": "Lollo",
         "url": "https://open.spotify.com/album/5K2nM0JZcOhnWx7q1KiWho"
       },
@@ -6714,7 +6754,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 208279,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
@@ -8264,7 +8304,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 126000,
       "name": "ORIGINAL STEPPA",
       "url": "https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ"
@@ -11772,7 +11812,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 168923,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/2stvLZBrGWwHQPQKgahoDU"

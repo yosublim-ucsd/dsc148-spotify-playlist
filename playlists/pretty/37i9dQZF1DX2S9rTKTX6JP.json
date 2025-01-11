@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 707958,
+  "num_followers": 708103,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "BE QUIET AND DRIVE (FAR AWAY)",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "BE QUIET AND DRIVE (FAR AWAY)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
-      },
-      "artists": [
-        {
-          "name": "Islander",
-          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "The Kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "I'm The Man",
-        "url": "https://open.spotify.com/album/2cSNQGicM5NU7WRBBkKS41"
+        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
       },
       "artists": [
         {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
         }
       ],
-      "duration_ms": 241472,
-      "name": "I'm The Man",
-      "url": "https://open.spotify.com/track/23M1drWVpUCWb0bDy6fznD"
+      "duration_ms": 178250,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2411,6 +2395,22 @@
       "duration_ms": 227673,
       "name": "Addicted to Love",
       "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "I'm The Man",
+        "url": "https://open.spotify.com/album/2cSNQGicM5NU7WRBBkKS41"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 241472,
+      "name": "I'm The Man",
+      "url": "https://open.spotify.com/track/23M1drWVpUCWb0bDy6fznD"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Sucker (Cover)",
-        "url": "https://open.spotify.com/album/2dPiFGsa6ngzgHJyKYTBW4"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Sucker (Cover)",
-      "url": "https://open.spotify.com/track/1hDrygsdk8IIFriDYqfqdv"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 187075,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Sucker (Cover)",
+        "url": "https://open.spotify.com/album/2dPiFGsa6ngzgHJyKYTBW4"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Sucker (Cover)",
+      "url": "https://open.spotify.com/track/1hDrygsdk8IIFriDYqfqdv"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2515,18 +2515,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
       },
       "artists": [
         {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 262967,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
+      "duration_ms": 146706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
     }
   ],
   "unique_name": "Rock Covers",

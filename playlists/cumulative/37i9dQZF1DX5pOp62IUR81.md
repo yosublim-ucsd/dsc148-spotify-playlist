@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-199 songs - 8 hr 24 min
+200 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 | 2024-01-05 |  |
 | [Lady Hawk](https://open.spotify.com/track/6nnIiHAuSqf34eP5xhap4G) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC) | 1:43 | 2024-01-05 |  |
 | [Lazy Susan \(with Rich Brian feat\. Warren Hue & Masiwei\)](https://open.spotify.com/track/2XbG1IRDzoQQzLJSmwWIqC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 4:39 | 2024-01-05 |  |
+| [Lessons](https://open.spotify.com/track/2BQu4vJE8TcWl8PEQ6OqWs) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...?: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/4geSYB18nEYbUOqGz96xMu) | 1:51 | 2025-01-10 |  |
 | [Lessons \- From "What If...?: Season 3"](https://open.spotify.com/track/72hIj75b5My0ic01QkusHS) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [Lessons \(From "What If...?: Season 3"\)](https://open.spotify.com/album/37j0gxFTtKLEk7pwp8xkI5) | 1:51 | 2024-12-20 |  |
 | [Let's Keep It Going](https://open.spotify.com/track/276IEtvE1or7kMbjU7yTdA) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [WandaVision: Episode 6 \(Original Soundtrack\)](https://open.spotify.com/album/11ZRjWuFFT38ept1Gw5yT1) | 0:56 | 2024-01-05 |  |
 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 | 2024-07-25 |  |

@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 Bambole di Pezza in cover
 
-1,257 songs - 2 day 21 hr 59 min
+1,258 songs - 2 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [La Porta Del Cuore](https://open.spotify.com/track/2sUq3IgDGg1g7xYzqfSecp) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Amore e Salute](https://open.spotify.com/album/2KV3R2KUCQ1jM8fecnq9II) | 4:05 | 2024-11-07 | 2025-01-10 |
 | [La Regina Dei Rimpianti](https://open.spotify.com/track/4JeOpzmxZQGLDzFJIbGSCa) | [TACØMA](https://open.spotify.com/artist/2L6Hcxzw6hUF4KBIekm153) | [La Regina Dei Rimpianti](https://open.spotify.com/album/58KH0qJIPDMcqidVmnkzFr) | 2:40 | 2024-03-07 | 2024-04-05 |
 | [LA SIGNORA DEI BACI](https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [LA SIGNORA DEI BACI](https://open.spotify.com/album/4jzO6ZLB4nIFxpFz4iVRSk) | 1:22 | 2024-09-26 | 2024-11-22 |
+| [La sindrome del coglione](https://open.spotify.com/track/5fBGmnIsKhMAIn9F2byAsj) | [Bislers](https://open.spotify.com/artist/7sWyzJUC2CUF6lwBR3JhVA) | [Ciò che resta](https://open.spotify.com/album/5RuzNnln3tzFu27K813mfq) | 1:54 | 2025-01-09 |  |
 | [La sola concreta realtà](https://open.spotify.com/track/0Ymdein1FEwzOT3MsDpzIC) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [La sola concreta realtà](https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX) | 3:04 | 2024-03-21 | 2024-06-14 |
 | [La Stessa Cosa Insieme \(feat\. Nice Elevator\)](https://open.spotify.com/track/1hV9lc1LPREmNAcEogEtAR) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq), [Nice Elevator](https://open.spotify.com/artist/0XP2mps55dXhjBeIlQpXu3) | [La Stessa Cosa Insieme \(feat\. Nice Elevator\)](https://open.spotify.com/album/66lhLYdOpBXXsa3ktZ6Q7x) | 4:02 | 2024-10-24 |  |
 | [La stessa parte della luna](https://open.spotify.com/track/5uNUAUBFwmKESymGQND6VB) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [La stessa parte della luna](https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG) | 4:17 | 2022-09-08 | 2022-10-14 |

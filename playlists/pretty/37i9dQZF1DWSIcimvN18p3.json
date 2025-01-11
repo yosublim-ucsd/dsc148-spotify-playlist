@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 304672,
+  "num_followers": 304727,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -539,34 +539,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -583,6 +567,22 @@
       "duration_ms": 260440,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Cotten and Brenda Evans",
-          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Peter, Paul and Mary",
         "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 234800,
       "name": "Where Have All the Flowers Gone",
       "url": "https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cotten and Brenda Evans",
+          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 313405,
-      "name": "Heads Gonna Roll",
-      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1775,6 +1759,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 313405,
+      "name": "Heads Gonna Roll",
+      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "The Very Best of Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
+      },
+      "artists": [
+        {
+          "name": "Mary Travers",
+          "url": "https://open.spotify.com/artist/6SAXDxx8QdYRBMSpm25nRT"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Follow Me - Remastered",
+      "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "Paradise Hotel",
         "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "The Very Best of Peter, Paul and Mary",
-        "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
-      },
-      "artists": [
-        {
-          "name": "Mary Travers",
-          "url": "https://open.spotify.com/artist/6SAXDxx8QdYRBMSpm25nRT"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Follow Me - Remastered",
-      "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 297533,
       "name": "Carolina in the Pines (with Indigo Girls)",
       "url": "https://open.spotify.com/track/5Txa7Oq2dH2yUkFeLJxgTq"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -2343,6 +2343,26 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "New Lost City Ramblers with Cousin Emmy",
+        "url": "https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY"
+      },
+      "artists": [
+        {
+          "name": "The New Lost City Ramblers",
+          "url": "https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd"
+        },
+        {
+          "name": "Cousin Emmy",
+          "url": "https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Ruby, Are You Mad At Your Man?",
+      "url": "https://open.spotify.com/track/0MKqZjDlfeltCfcrtIDj47"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
       },
@@ -2427,26 +2447,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "New Lost City Ramblers with Cousin Emmy",
-        "url": "https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY"
-      },
-      "artists": [
-        {
-          "name": "The New Lost City Ramblers",
-          "url": "https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd"
-        },
-        {
-          "name": "Cousin Emmy",
-          "url": "https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Ruby, Are You Mad At Your Man?",
-      "url": "https://open.spotify.com/track/0MKqZjDlfeltCfcrtIDj47"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "The Best Of The BBC Recordings",
         "url": "https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4"
       },
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Distance and Time",
         "url": "https://open.spotify.com/album/797UYpfApMa598iaCNnSP5"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 248986,
       "name": "More Heart, Less Attack",
       "url": "https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2025-01-07 17:15:31",

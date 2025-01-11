@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 87055,
+  "num_followers": 87094,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Thrill Is Gone",
-        "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        },
-        {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 191840,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Thrill Is Gone",
+        "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
     },
     {
       "added_at": "2024-09-03 09:10:49",

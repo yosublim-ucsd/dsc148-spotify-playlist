@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: <a href=\"spotify:artist:4qK4Sehk0WdkDGP80zo4xY\">Teacher Peter</a> & <a href=\"spotify:playlist:37i9dQZF1EFygwdWUlNJUc\">Freddy Wexler</a>.",
+  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: <a href=\"spotify:artist:10djoaqJLN6H4oORnKJ63P\">Paige Fish</a>.",
   "name": "Noteable",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 197500,
       "name": "Another Christmas Missing You",
       "url": "https://open.spotify.com/track/6AVP5Mpylgt73BShQ32ziZ"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 170909,
       "name": "Christmas on Island Time",
       "url": "https://open.spotify.com/track/7qJxMXGtCowTWt8d4H2kEz"
@@ -1076,10 +1076,28 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 198386,
       "name": "Christmas Will Find You (It'll Find You)",
       "url": "https://open.spotify.com/track/4RrZVnlFeXNt91qqhxxywX"
+    },
+    {
+      "album": {
+        "name": "Cinematic Goodbye",
+        "url": "https://open.spotify.com/album/5nXBPgWhE29qRojpTpxeTS"
+      },
+      "artists": [
+        {
+          "name": "Eden xo",
+          "url": "https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229263,
+      "name": "Cinematic Goodbye",
+      "url": "https://open.spotify.com/track/6p5UQ6vP3PGLmYtkADJBBb"
     },
     {
       "album": {
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 139676,
       "name": "Connect",
       "url": "https://open.spotify.com/track/46jZk7sOM0j2rBDgag7ixS"
@@ -1293,6 +1311,32 @@
     },
     {
       "album": {
+        "name": "CURIOSIDAD",
+        "url": "https://open.spotify.com/album/3s1eOaESqWF6OLdeFnhtDc"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "Soulnastyy",
+          "url": "https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226941,
+      "name": "CURIOSIDAD",
+      "url": "https://open.spotify.com/track/2ont8v2gLexZWB9StE82zJ"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL"
       },
@@ -1304,7 +1348,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 217618,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4"
@@ -1828,7 +1872,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 172172,
       "name": "Everything Burns",
       "url": "https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk"
@@ -2352,6 +2396,24 @@
       "duration_ms": 240503,
       "name": "Good Mourning",
       "url": "https://open.spotify.com/track/4MAJtt0IHlIn3gEGhIq8Oe"
+    },
+    {
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
     },
     {
       "album": {
@@ -3231,6 +3293,28 @@
     },
     {
       "album": {
+        "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
+        "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Na\u00efssam Jalal",
+          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358880,
+      "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
+      "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
+    },
+    {
+      "album": {
         "name": "Learn To Live Without You / Better Than Anything",
         "url": "https://open.spotify.com/album/1EzOWqVvTiEDzWaWt5YLxV"
       },
@@ -3296,7 +3380,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 211107,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7w5kBkRGZoev12zHxDewlm"
@@ -3882,7 +3966,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 227092,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
@@ -4034,6 +4118,24 @@
       "duration_ms": 164655,
       "name": "Next Town Over",
       "url": "https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo"
+    },
+    {
+      "album": {
+        "name": "Nice To Meet You (Mistletoe Version)",
+        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
     },
     {
       "album": {
@@ -4319,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "album": {
         "name": "Palacios",
         "url": "https://open.spotify.com/album/5eHxHwEs1Y3AEdRapgEsfi"
       },
@@ -4547,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0L4li5hzdRBcrRyaa5FfGL"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211930,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/7dj3yeU3pzcmFnGXo8cLsi"
+    },
+    {
+      "album": {
         "name": "Postcards to Heaven",
         "url": "https://open.spotify.com/album/2nx7dD2ms6PUL6KAIwqVdW"
       },
@@ -4592,6 +4730,24 @@
       "duration_ms": 160029,
       "name": "PRITTY",
       "url": "https://open.spotify.com/track/7t37uIgMVUbKHctDeyKK6F"
+    },
+    {
+      "album": {
+        "name": "Pure Blue",
+        "url": "https://open.spotify.com/album/4t90cvZVyANFQLuKaX3PBn"
+      },
+      "artists": [
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201029,
+      "name": "Pure Blue",
+      "url": "https://open.spotify.com/track/6Hk8LLEXnuYqUdQ28Pt7XJ"
     },
     {
       "album": {
@@ -5063,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/5Tpfi6DNHvTgmUwQo9eQAV"
+      },
+      "artists": [
+        {
+          "name": "Kyra Machida",
+          "url": "https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159488,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/0xIhmd7cCXnpCLd5olQa7t"
+    },
+    {
+      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/198js3GmZdhSrvOhiEJnuQ"
       },
@@ -5454,6 +5628,24 @@
       "duration_ms": 215815,
       "name": "Summer Rain - Spotify Singles",
       "url": "https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v"
+    },
+    {
+      "album": {
+        "name": "Vicious Creature",
+        "url": "https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258661,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g"
     },
     {
       "album": {
@@ -5892,7 +6084,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 188279,
       "name": "To Say Feliz Navidad",
       "url": "https://open.spotify.com/track/2Rba1wePkE9lqG4fZyZPvh"
@@ -6128,6 +6320,24 @@
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9"
     },
     {
       "album": {
@@ -6395,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "i don't mind floating",
+        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204757,
+      "name": "when it gets dark",
+      "url": "https://open.spotify.com/track/223m8hEUkeynSYwSw7Faz9"
+    },
+    {
+      "album": {
         "name": "When It Rains",
         "url": "https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI"
       },
@@ -6464,6 +6692,24 @@
       "duration_ms": 144100,
       "name": "Why'd You Let Me",
       "url": "https://open.spotify.com/track/4P1Dqo3690hPqM83QaxW0V"
+    },
+    {
+      "album": {
+        "name": "Why'd You Let Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65liCuPkJIqKLbPe6LXxAv"
+      },
+      "artists": [
+        {
+          "name": "Sam DeRosa",
+          "url": "https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154647,
+      "name": "Why'd You Let Me - Acoustic",
+      "url": "https://open.spotify.com/track/2CFKAMTe6IHWRWbCkVUsTP"
     },
     {
       "album": {
@@ -6704,7 +6950,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150326,
       "name": "\u063a\u0635\u0646 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv"

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD"
+    },
+    {
+      "album": {
         "name": "Coisas Que Eu J\u00e1 Devia Ter Dito H\u00e1 Um Tempo",
         "url": "https://open.spotify.com/album/43MpvvtxbsNWjH4pm0gVrL"
       },
@@ -6395,6 +6417,32 @@
     },
     {
       "album": {
+        "name": "Puta \u00c9 S\u00f3 um Detalhe",
+        "url": "https://open.spotify.com/album/0pAcro1CTQZfvV7en7fepD"
+      },
+      "artists": [
+        {
+          "name": "DJ Douglinhas",
+          "url": "https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi"
+        },
+        {
+          "name": "DJ Miller Oficial",
+          "url": "https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP"
+        },
+        {
+          "name": "MC Torugo",
+          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Puta \u00c9 S\u00f3 um Detalhe",
+      "url": "https://open.spotify.com/track/58g8XjpC5Yj3jCOUVMqAfb"
+    },
+    {
+      "album": {
         "name": "Quebra Cabe\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
       },
@@ -8964,7 +9012,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 140528,
       "name": "\u00c9 Que Eu Te Sarrei",
       "url": "https://open.spotify.com/track/7uPInsxTeMbyrJkDQaRwPh"

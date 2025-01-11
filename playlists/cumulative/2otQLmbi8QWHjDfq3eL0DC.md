@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-274 songs - 13 hr 16 min
+275 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Knee Deep](https://open.spotify.com/track/6Zq5Gc6kCBNZfu8gZNWjSG) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto) | [Knee Deep](https://open.spotify.com/album/4lezArnVnbcG9580uJp28v) | 3:03 | 2024-02-16 |  |
 | [Know Better](https://open.spotify.com/track/6MQ3ksdINAphIz32yY29xk) | [CLIK3D](https://open.spotify.com/artist/054AWr3ShpT8e6JVHMC0Gs), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Know Better](https://open.spotify.com/album/6NnxziVp4gJtTed2fdvxKX) | 2:52 | 2023-11-03 |  |
 | [Krazy](https://open.spotify.com/track/3I2fSFoM1QZsyTIWApi1sR) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Krazy](https://open.spotify.com/album/7eaNkqLVeS1g9tkjPNF5sH) | 2:26 | 2023-11-03 | 2023-12-22 |
+| [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 | 2025-01-10 |  |
 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-06-21 | 2024-08-07 |
 | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0) | 2:23 | 2024-07-26 |  |
 | [Last Time](https://open.spotify.com/track/3JgXhvrKm1aelKZaNGve04) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Last Time](https://open.spotify.com/album/183dmXuaDGoYkTiraJaAiS) | 3:04 | 2024-10-25 | 2024-12-07 |

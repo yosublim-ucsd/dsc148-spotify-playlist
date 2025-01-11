@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Paleface Swiss.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Church Tongue.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,816 likes - 299 songs - 18 hr 14 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,814 likes - 305 songs - 18 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -307,5 +307,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 297 | [Bananarchy Zoo](https://open.spotify.com/track/5jbB924JhR1lKjdZn58OoV) | [Eye Flys](https://open.spotify.com/artist/7GzM51BvYYlZ6Hdef6fM41) | [Bananarchy Zoo](https://open.spotify.com/album/4aR9eUz1g7Nx6RGnhnauwz) | 5:25 |
 | 298 | [Shame and its Afterbirth](https://open.spotify.com/track/70tCzTXSThhKWtk1njrMOm) | [Vitriol](https://open.spotify.com/artist/7E4LULB8UkUOTEBbpTbLma) | [Shame and its Afterbirth](https://open.spotify.com/album/6tgUVPW5ncqIDCJGnDHh6S) | 6:43 |
 | 299 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 |
+| 300 | [realcocainemuzak](https://open.spotify.com/track/1dbTia2Rrl1Uym74PIvzde) | [Bodybox](https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q) | [realcocainemuzak](https://open.spotify.com/album/5wvZfH6H4Vg9ON8F66qr5G) | 1:34 |
+| 301 | [Remain Violent](https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe to the Vanquished](https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL) | 3:24 |
+| 302 | [Love All the People](https://open.spotify.com/track/7n9D3aT2v56UVNxFZ0LV55) | [Mercy Ties](https://open.spotify.com/artist/2oCjUdQSxryC1IMMorOtHI) | [Love All the People](https://open.spotify.com/album/0ILajU1CtCbfUaPQzjd3GC) | 1:43 |
+| 303 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 |
+| 304 | [Abilene Grime](https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Abilene Grime](https://open.spotify.com/album/26y9YsB8vO10wH3zxpee4I) | 3:21 |
+| 305 | [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 |
 
-Snapshot ID: `AAANJLkrXen2uG5ALKQWgUvohuPcPoCY`
+Snapshot ID: `AAANOS9gYLVYSVKM6MFJcZ1zGXxSbAtf`

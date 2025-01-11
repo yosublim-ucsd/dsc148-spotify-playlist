@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Leon Bridges",
-  "num_followers": 417576,
+  "num_followers": 417592,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6gAAAABukCuQtd1EvIgQjaxuKtVl",
+  "snapshot_id": "Z4CpXAAAAABbEW3ScdXgnF5DqpHioFrY",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:12",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/71uMtQ6dsqaaaDfgs94xvt"
+      },
+      "artists": [
+        {
+          "name": "Jules Halpern",
+          "url": "https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4Qc6g3CcyLwebubsViTw06"
+    },
     {
       "added_at": "2024-12-20 16:51:25",
       "album": {
@@ -959,26 +975,6 @@
       "duration_ms": 236438,
       "name": "Song About You",
       "url": "https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Turn the Radio Up",
-        "url": "https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 199605,
-      "name": "Turn the Radio Up (feat. Jewel)",
-      "url": "https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60"
     },
     {
       "added_at": "2022-06-24 04:02:00",

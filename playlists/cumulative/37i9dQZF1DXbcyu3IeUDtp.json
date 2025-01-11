@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208997,
+      "name": "A new day",
+      "url": "https://open.spotify.com/track/3XltcCKlYlsVbFsJ55HfvU"
+    },
+    {
+      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/3y85Xxe4zGsvRwkfq2DamR"
       },
@@ -193,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Agita2",
+        "url": "https://open.spotify.com/album/7docyZovuPh30ndD3HV90O"
+      },
+      "artists": [
+        {
+          "name": "DNGDNGDNG",
+          "url": "https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340800,
+      "name": "Agita2",
+      "url": "https://open.spotify.com/track/5VE595g9Mgc6Jlpea3c6Gq"
+    },
+    {
+      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -208,6 +252,24 @@
       "duration_ms": 172480,
       "name": "Altibzz",
       "url": "https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh"
+    },
+    {
+      "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174538,
+      "name": "angelA",
+      "url": "https://open.spotify.com/track/22hmwgik7o71IiNVsCMDVF"
     },
     {
       "album": {
@@ -248,6 +310,24 @@
       "duration_ms": 281890,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5OklzM8XVb0LRx3yMoIbV8"
+    },
+    {
+      "album": {
+        "name": "Neptunes EP",
+        "url": "https://open.spotify.com/album/0zT6lIcQbWVggYpoAMnsrn"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/7nx2lD9AsZ7eRPMZG52iRS"
     },
     {
       "album": {
@@ -531,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Strange Meridians",
+        "url": "https://open.spotify.com/album/5BOeEGhCqLKyX5CE3wwS1F"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269315,
+      "name": "Centripetal Lense",
+      "url": "https://open.spotify.com/track/6AJIpZOKCk8a3pOfuYFa5G"
+    },
+    {
+      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb"
       },
@@ -578,7 +676,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
@@ -1175,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "album": {
         "name": "Percussive Counterpoint",
         "url": "https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB"
       },
@@ -1327,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Fires",
+        "url": "https://open.spotify.com/album/1mPrBYkNTyZGXVYC1mLDAe"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219357,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/2pdFa51EWCjhzHMKMSniUb"
+    },
+    {
+      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -1417,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
+    },
+    {
+      "album": {
         "name": "Friday Night",
         "url": "https://open.spotify.com/album/6KyKEYPTXaVt5QQrN6gTIB"
       },
@@ -1494,6 +1650,28 @@
       "duration_ms": 390000,
       "name": "Ganzfeld - Piezo Remix",
       "url": "https://open.spotify.com/track/0z0AWs9zLhkg7xKYrqjaYf"
+    },
+    {
+      "album": {
+        "name": "Gas Station",
+        "url": "https://open.spotify.com/album/0zsArxwKE4Hp2Z5Nas7f02"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Martyn Bootyspoon",
+          "url": "https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Gas Station",
+      "url": "https://open.spotify.com/track/1oqMRoryDMYaWDpUmLiHPa"
     },
     {
       "album": {
@@ -1884,10 +2062,46 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Ice Comfortable - Bambounou Remix",
       "url": "https://open.spotify.com/track/2evFhyCxaD6nTvrXkfhNWd"
+    },
+    {
+      "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323733,
+      "name": "Ice Cream Truck, Tornado Siren",
+      "url": "https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Club vol. 1",
+        "url": "https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "Ic\u00f3nica",
+      "url": "https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db"
     },
     {
       "album": {
@@ -1920,7 +2134,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 342619,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/6nomNVOYYorQMyQ6RZSX4x"
@@ -2253,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/2nbtl3jF2gQzZonJrMMEgk"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271250,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/4uUDD8gZsaYrRx8Lsl3ydX"
+    },
+    {
+      "album": {
         "name": "Expert Level",
         "url": "https://open.spotify.com/album/46OPq4mo6TFunNXQHNgTRl"
       },
@@ -2510,7 +2742,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/5634k8xpm5bYoGB47uxERJ"
@@ -2532,10 +2764,32 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 131007,
       "name": "Money Shows",
       "url": "https://open.spotify.com/track/3g2YmyYPrztnKelA1W5Dv9"
+    },
+    {
+      "album": {
+        "name": "Synchronic Orbit EP",
+        "url": "https://open.spotify.com/album/01AEsOm6in7GFV24IOc6BI"
+      },
+      "artists": [
+        {
+          "name": "Dj Steve",
+          "url": "https://open.spotify.com/artist/4wMTZM2qgfGrpFZYSnfWui"
+        },
+        {
+          "name": "Bobi Cacen",
+          "url": "https://open.spotify.com/artist/4bzqbkkffqlpSjeFffHo7V"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542564,
+      "name": "Moon 4 (Inner Orbit)",
+      "url": "https://open.spotify.com/track/0W0J7Auuo2O4caCcuVklBZ"
     },
     {
       "album": {
@@ -2674,7 +2928,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 292000,
       "name": "Noah (feat. NATURE)",
       "url": "https://open.spotify.com/track/1A0xG6GikvDRtQbC2oAztI"
@@ -2714,6 +2968,28 @@
       "duration_ms": 523556,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
+    },
+    {
+      "album": {
+        "name": "Jorge Celed\u00f3n S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/67EsvtIlpTOT1ZT7blrORN"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/51jFx12ZDrLisbz06Se7jV"
     },
     {
       "album": {
@@ -2764,7 +3040,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 152032,
       "name": "Our",
       "url": "https://open.spotify.com/track/09YJgxGg4P88zre3weRucL"
@@ -3098,7 +3374,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 401911,
       "name": "Rhubarb Orc. 19.53 Rev",
       "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
@@ -3214,7 +3490,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 280993,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/62sXIT6kAdOgcWqnhEZaRL"
@@ -3446,7 +3722,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 341790,
       "name": "Stepmove #01",
       "url": "https://open.spotify.com/track/42Za5Lqgo0m9BLjPwLZGxL"
@@ -3796,7 +4072,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
@@ -4108,6 +4384,24 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "album": {
+        "name": "VAQUITA",
+        "url": "https://open.spotify.com/album/0J7Y9X4EyPSKODP7h557XB"
+      },
+      "artists": [
+        {
+          "name": "AZ\u00daCAR",
+          "url": "https://open.spotify.com/artist/0kFvQi5MVUCQgJwQWot1a9"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290374,
+      "name": "VAQUITA",
+      "url": "https://open.spotify.com/track/4lWUKj8ObF6Sx9l8AXHMEc"
     },
     {
       "album": {

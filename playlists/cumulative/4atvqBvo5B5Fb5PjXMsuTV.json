@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Jan 19:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Jan 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -12088,7 +12088,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 231423,
       "name": "ChikiBam!",
       "url": "https://open.spotify.com/track/7LvlyJwsMj9vd8vdJn1CDh"
@@ -13184,7 +13184,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 205000,
       "name": "Come Back To Me (Shadow The Hedgehog Song)",
       "url": "https://open.spotify.com/track/3FLCHzfeXSHKx8sWxYfNeT"
@@ -15542,6 +15542,24 @@
       "duration_ms": 173559,
       "name": "Dead Flowers",
       "url": "https://open.spotify.com/track/0C0g90OiEx2H0Z4kCVYuko"
+    },
+    {
+      "album": {
+        "name": "Dead forever",
+        "url": "https://open.spotify.com/album/2EGCZY7MOJLFtIhbvn1sDR"
+      },
+      "artists": [
+        {
+          "name": "venturing",
+          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243645,
+      "name": "Dead forever",
+      "url": "https://open.spotify.com/track/2zPu1BwyJ90Rfxp37ZVjgm"
     },
     {
       "album": {
@@ -18214,7 +18232,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 178932,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
@@ -24010,7 +24028,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 201786,
       "name": "from",
       "url": "https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87"
@@ -31604,7 +31622,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 96000,
       "name": "I Want a Bowl of Ethereal",
       "url": "https://open.spotify.com/track/32GOP7QKjG8HDHTQWsz7oR"
@@ -32232,7 +32250,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 96911,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/6pSu31TOKgjDceSskEW4jf"
@@ -33709,6 +33727,24 @@
     },
     {
       "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "album": {
         "name": "It Hurts",
         "url": "https://open.spotify.com/album/6Wd0G2DeqQNSnIr7jyTwb5"
       },
@@ -34278,7 +34314,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 430101,
       "name": "Jitnunkebi (Winter's Song)",
       "url": "https://open.spotify.com/track/66AGzpId4asIo8irfw0WAY"
@@ -45765,6 +45801,28 @@
     },
     {
       "album": {
+        "name": "Nothing For Free",
+        "url": "https://open.spotify.com/album/6QjzoSdwuKMeMdeomvaZhQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        },
+        {
+          "name": "808 Wigguh",
+          "url": "https://open.spotify.com/artist/5FLD7rDhW2tNfYIymZXPsJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144465,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/0XgWkTbe4G9mQHkPv9mhzS"
+    },
+    {
+      "album": {
         "name": "nothing like uuu",
         "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
       },
@@ -48120,7 +48178,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 685583,
       "name": "panelinha do diabo (DISS RAPKHAOS)",
       "url": "https://open.spotify.com/track/62U12qdWdBd6E0U0JDQ33l"
@@ -48658,6 +48716,24 @@
       "duration_ms": 120004,
       "name": "Pelle",
       "url": "https://open.spotify.com/track/5rqd2P9yFlCRLcmKVoGEWt"
+    },
+    {
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/4dF8UpDyIp7wld4rbmmyf1"
+      },
+      "artists": [
+        {
+          "name": "1oneam",
+          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/1SH8lZ4fP6dt7PjEhji4pD"
     },
     {
       "album": {
@@ -54369,6 +54445,24 @@
     },
     {
       "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
+    },
+    {
+      "album": {
         "name": "Same Type",
         "url": "https://open.spotify.com/album/6FKcwSL3jbt62aZCPaeFGi"
       },
@@ -54546,7 +54640,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 209677,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA"
@@ -56844,6 +56938,24 @@
       "duration_ms": 118386,
       "name": "Sindable",
       "url": "https://open.spotify.com/track/22RV3cqvNu7haUUTOJB58G"
+    },
+    {
+      "album": {
+        "name": "Single File Line",
+        "url": "https://open.spotify.com/album/5ubqjn1OiCSkv9RAF9sFsy"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130673,
+      "name": "Single File Line",
+      "url": "https://open.spotify.com/track/3jZTAWOSNWaWauQ03WX9da"
     },
     {
       "album": {
@@ -61788,6 +61900,24 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "album": {
@@ -67370,7 +67500,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 189101,
       "name": "TS3",
       "url": "https://open.spotify.com/track/3UOkWxI8Dm8j0coa7oE5Pv"
@@ -70895,6 +71025,24 @@
     },
     {
       "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/7j5Yv657U7sLd5AoLlm5ZU"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335233,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/6zkQMyz95McIOpoR01l0T9"
+    },
+    {
+      "album": {
         "name": "What to raise [Shin Kawasaki (Temporary)]",
         "url": "https://open.spotify.com/album/1JQmy3IFC5OWpYdoz2Ncuy"
       },
@@ -71124,6 +71272,24 @@
       "duration_ms": 194134,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/1hxq7lHM4cPGH70z3uoBp8"
+    },
+    {
+      "album": {
+        "name": "When We Kiss",
+        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "When We Kiss",
+      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
     },
     {
       "album": {
@@ -73738,6 +73904,24 @@
       "duration_ms": 219733,
       "name": "Your Name In Lights",
       "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+    },
+    {
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
     },
     {
       "album": {

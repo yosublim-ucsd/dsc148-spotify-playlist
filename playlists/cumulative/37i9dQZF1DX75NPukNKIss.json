@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-26",
-  "description": "Way 2 Slizzy. Cover: Cash Cobain and Ice Spice",
+  "description": "Way 2 Slizzy. Cover: Wolfacejoeyy, Cash Cobain and Chow Lee",
   "name": "Sexy Drill",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 118321,
       "name": "Be Alone",
       "url": "https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202986,
       "name": "Don't Walk Away (feat. Carey Washington)",
       "url": "https://open.spotify.com/track/26oKe28Gqyp9uhRhWNAvqm"
@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "cupid",
+        "url": "https://open.spotify.com/album/5DmIgNTkiwzv9aAfmqfKji"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162078,
+      "name": "party girl",
+      "url": "https://open.spotify.com/track/3siyy7mj0ahl0987mmvsPK"
+    },
+    {
+      "album": {
         "name": "It's Us Vol. 1",
         "url": "https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm"
       },
@@ -1552,6 +1570,32 @@
       "duration_ms": 122327,
       "name": "This Sh!T Still in Harlem",
       "url": "https://open.spotify.com/track/7BuxLux3Mn2z0Fl58RxCKU"
+    },
+    {
+      "album": {
+        "name": "TOP OF THE MORNING",
+        "url": "https://open.spotify.com/album/1jDSqOQGp7irKjkIebKTFB"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205114,
+      "name": "TOP OF THE MORNING",
+      "url": "https://open.spotify.com/track/1XS4KQ4LNFP5GQh9vGkDWz"
     },
     {
       "album": {

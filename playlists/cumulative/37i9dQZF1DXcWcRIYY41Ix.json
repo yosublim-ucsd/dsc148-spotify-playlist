@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: In\u00e9s Errandonea.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Yoly Saa.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Chacarera",
+        "url": "https://open.spotify.com/album/2jEUNsJ9uL1SUkY5EWuynJ"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "Chacarera",
+      "url": "https://open.spotify.com/track/0FNFjuBTHUNkj8wVMJZxxh"
+    },
+    {
+      "album": {
         "name": "Chau, Ya Casi Me Voy",
         "url": "https://open.spotify.com/album/45Itcv6UAvHKMsecg6EKDd"
       },
@@ -3080,6 +3098,32 @@
       "duration_ms": 183152,
       "name": "Cuando los A\u00f1os Pasen",
       "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "album": {
+        "name": "Cucurucucu",
+        "url": "https://open.spotify.com/album/6cibU0wskK88oBiqzJz1eY"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        },
+        {
+          "name": "In\u00eas Loubet",
+          "url": "https://open.spotify.com/artist/3arPNQ5IyTV5OxyAmMtSCq"
+        },
+        {
+          "name": "Sofia Grant",
+          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249461,
+      "name": "Cucurucucu",
+      "url": "https://open.spotify.com/track/3PafX6AniGa2aBAt2Mc93c"
     },
     {
       "album": {
@@ -5379,6 +5423,28 @@
     },
     {
       "album": {
+        "name": "hay algo en esa luz",
+        "url": "https://open.spotify.com/album/4kCBNsvAskcnY6IOwCxnrA"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200768,
+      "name": "hay algo en esa luz",
+      "url": "https://open.spotify.com/track/0tAW9w9cW7Xw1a3GB29V3c"
+    },
+    {
+      "album": {
         "name": "Hay un Camino",
         "url": "https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t"
       },
@@ -7224,7 +7290,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
@@ -8418,7 +8484,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192000,
       "name": "Mu\u00e9rdeme la vida",
       "url": "https://open.spotify.com/track/37hP2T2zaVHf5ahQP0PGMQ"
@@ -10892,7 +10958,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 368163,
       "name": "Regresar\u00e9",
       "url": "https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM"
@@ -11525,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "sentimentalmente",
+        "url": "https://open.spotify.com/album/6hf5Dgbd5Ctw8asP3JQJQ4"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198860,
+      "name": "sentimentalmente",
+      "url": "https://open.spotify.com/track/5DvhhvHDnSthUXEbdeWzks"
+    },
+    {
+      "album": {
         "name": "Septiembre",
         "url": "https://open.spotify.com/album/3hiFdQP1pvEKLG87xyg7mM"
       },
@@ -11958,7 +12042,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 225462,
       "name": "Sonqollay",
       "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
@@ -12334,6 +12418,24 @@
       "duration_ms": 223800,
       "name": "Te Quiero No, Lo Anterior",
       "url": "https://open.spotify.com/track/5EemCiOapShlSLNQMPVjE5"
+    },
+    {
+      "album": {
+        "name": "Telefonillo",
+        "url": "https://open.spotify.com/album/7mmhk6FCODg0ToOA41W5so"
+      },
+      "artists": [
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179193,
+      "name": "Telefonillo",
+      "url": "https://open.spotify.com/track/0rJhKX2DwyNqwmxyYiNorC"
     },
     {
       "album": {
@@ -12750,7 +12852,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 214197,
       "name": "Todo palante ya",
       "url": "https://open.spotify.com/track/4yu3fWLvZRvyjyOrGIUPfF"

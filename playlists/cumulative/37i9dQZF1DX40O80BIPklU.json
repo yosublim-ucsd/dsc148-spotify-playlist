@@ -5575,6 +5575,28 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas y Sonrisas",
+        "url": "https://open.spotify.com/album/5PIex4i3Vu49KAMJqPD8Pa"
+      },
+      "artists": [
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "L\u00e1grimas y Sonrisas",
+      "url": "https://open.spotify.com/track/3FBnrQSHD8zF73AwcZfycE"
+    },
+    {
+      "album": {
         "name": "M.F.Q.N. (M\u00e1s Fuerte Que Nunca)",
         "url": "https://open.spotify.com/album/0B9Z5aFmeOy0O7LZv7EDZ7"
       },
@@ -7536,7 +7558,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 219782,
       "name": "Por Los Que Dec\u00edan Que No",
       "url": "https://open.spotify.com/track/2we91mmgiUvO0tLespW9GG"

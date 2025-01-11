@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 130503,
       "name": "Are You Ready?!",
       "url": "https://open.spotify.com/track/3vOCRpk0s4zzVfeiwEfpvM"
@@ -762,6 +762,28 @@
       "duration_ms": 224214,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/6YecfrP7RQTovYx76UrGkA"
+    },
+    {
+      "album": {
+        "name": "ATTACK!",
+        "url": "https://open.spotify.com/album/1vyJeqIQUKXcB6jAmkVUYv"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167421,
+      "name": "ATTACK!",
+      "url": "https://open.spotify.com/track/47DmpGRiVanRnmKHgLo3sU"
     },
     {
       "album": {
@@ -1968,6 +1990,28 @@
     {
       "album": {
         "name": "Cambodia",
+        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
+    },
+    {
+      "album": {
+        "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
       "artists": [
@@ -2008,7 +2052,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 176000,
       "name": "Cambodia - Denox Remix",
       "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
@@ -7065,6 +7109,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA"
       },
@@ -7573,6 +7639,36 @@
     },
     {
       "album": {
+        "name": "Ik Ga Harder (feat. Jayh)",
+        "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "Ik Ga Harder (feat. Jayh)",
+      "url": "https://open.spotify.com/track/4PN7bjVOqDqztpBkfIXdOK"
+    },
+    {
+      "album": {
         "name": "Legends Of The Elite",
         "url": "https://open.spotify.com/album/50RHfqIEtQS0dZxBrrFUF3"
       },
@@ -7738,6 +7834,24 @@
       "duration_ms": 219569,
       "name": "In My Brain",
       "url": "https://open.spotify.com/track/7E3ftAqsm7MguTKbPm1TaF"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4NsNQ5LsAuK4d0bn8VIcUX"
+      },
+      "artists": [
+        {
+          "name": "Nightcraft",
+          "url": "https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7d5aWxpGLQZ5p2CERszEAB"
     },
     {
       "album": {
@@ -8482,7 +8596,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
@@ -8530,6 +8644,28 @@
       "duration_ms": 218157,
       "name": "Kingdom Comes",
       "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
+    },
+    {
+      "album": {
+        "name": "Komodo",
+        "url": "https://open.spotify.com/album/1zQWf3pHPl3SdCk9Au5j7h"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138581,
+      "name": "Komodo",
+      "url": "https://open.spotify.com/track/0sVmC0B9NlbH0NoFYIJ4Zy"
     },
     {
       "album": {
@@ -9758,7 +9894,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 166153,
       "name": "Meine Droge",
       "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
@@ -9780,6 +9916,10 @@
         {
           "name": "Tuneboy",
           "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         }
       ],
       "date_added": "2021-12-16",
@@ -9960,7 +10100,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 215780,
       "name": "Million Miles - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
@@ -10684,7 +10824,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196440,
       "name": "No Heroes - Refuzion Remix",
       "url": "https://open.spotify.com/track/4bYtiQ4B2AIx3Bluq8B56h"
@@ -12372,7 +12512,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 320148,
       "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
       "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
@@ -13678,7 +13818,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 215225,
       "name": "Sky Fall",
       "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
@@ -15377,6 +15517,32 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3z0yCqptabHnxTY3ZrpP2N"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217128,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5UPrayer3S1fV6hGEN1RVa"
+    },
+    {
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/6eo5n6UR0mhrVUVr0ef8pj"
       },
@@ -15418,6 +15584,24 @@
       "duration_ms": 365173,
       "name": "The Mighty Arena - Official Supremacy 2022 Anthem",
       "url": "https://open.spotify.com/track/2wIEgLxUdmjF3K69pSX8TY"
+    },
+    {
+      "album": {
+        "name": "The Mountain King",
+        "url": "https://open.spotify.com/album/5MUufiRcapU9rdc6eAwdXo"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111305,
+      "name": "The Mountain King",
+      "url": "https://open.spotify.com/track/2zEFhsQDXfoE6yv9qfs4mh"
     },
     {
       "album": {
@@ -15700,6 +15884,24 @@
       "duration_ms": 179612,
       "name": "The Tunnel",
       "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
+    },
+    {
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "album": {
@@ -16938,7 +17140,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 239034,
       "name": "VOIS SUR TON CHEMIN - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"

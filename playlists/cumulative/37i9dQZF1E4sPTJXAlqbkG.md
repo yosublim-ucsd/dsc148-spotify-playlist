@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Summer Walker, Sonder, Frank Ocean and more
+> With Brent Faiyaz, Summer Walker, Jhené Aiko and more
 
 625 songs - 1 day 11 hr 30 min
 

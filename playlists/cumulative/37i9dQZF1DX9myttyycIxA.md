@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Camille Schmidt
+> Underground indie rock gems\. Cover: SPELLLING
 
-1,428 songs - 3 day 9 hr 54 min
+1,435 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Body Farm](https://open.spotify.com/track/7zARpP2hSWoDAfqYFm85cp) | [Zoe Bayani](https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG) | [Body Farm](https://open.spotify.com/album/4OKeBiBOs0rPsWDZ0gFIfO) | 3:40 | 2024-06-14 | 2024-08-24 |
 | [Body Of Work](https://open.spotify.com/track/7JYd7C7LgMes97s7ZuKqaJ) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Body Of Work](https://open.spotify.com/album/7vVlLq69Y6MDARECNU8zjO) | 1:56 | 2021-03-19 | 2022-04-29 |
 | [Bodysurfing](https://open.spotify.com/track/0bzx5Wcd20O3STx0cdP755) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/0GmKKh1yQBjJycHkMGUBPp) | 3:44 | 2021-07-16 | 2022-03-27 |
+| [Bologna](https://open.spotify.com/track/1lUeZctPxbFJWysc8w9aha) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In), [Fiver](https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO) | [Bologna](https://open.spotify.com/album/3PR12ArZ8CbnuMrFWFGNz3) | 4:24 | 2025-01-10 |  |
 | [Bon Iver](https://open.spotify.com/track/4fJH2cQ814gSzPZ9buADfK) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Bon Iver](https://open.spotify.com/album/2dK6nHgb0gkObpLau5FlK9) | 1:02 | 2021-08-27 | 2022-02-16 |
 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 | 2024-06-07 |  |
 | [BOTTOM FEEDER](https://open.spotify.com/track/4XBr4XoYKUe1ayGgnNtLyh) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP), [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [BOTTOM FEEDER](https://open.spotify.com/album/4iHDH5LnldQKdgJ26Xh7md) | 2:51 | 2023-08-24 | 2024-03-02 |
@@ -294,6 +295,7 @@
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-03-03 | 2023-06-16 |
 | [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-07-28 | 2023-10-30 |
 | [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 | 2023-03-03 | 2023-05-13 |
+| [Cradle The Pain](https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS) | [Morgan Nagler](https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr) | [Cradle The Pain](https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C) | 4:08 | 2025-01-10 |  |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-06-15 | 2023-12-16 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-03 | 2023-06-16 |
 | [Crazy, Baby](https://open.spotify.com/track/2MTsoMiLXxJQz9qfVjw32G) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Crazy, Baby](https://open.spotify.com/album/3bLdvrIbrBDX812sMpG6dW) | 2:17 | 2024-03-01 | 2024-04-13 |
@@ -714,6 +716,7 @@
 | [Judy](https://open.spotify.com/track/7aiMbRTTmHBTkm2MWXXhIB) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3) | 2:32 | 2021-03-05 | 2022-04-29 |
 | [Judy Gnarland](https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Judy Gnarland](https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K) | 2:52 | 2022-12-09 | 2022-12-15 |
 | [Julie](https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Julie](https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ) | 4:37 | 2024-12-13 |  |
+| [Junior](https://open.spotify.com/track/07kDDE5Oq1qPkvH5LA2zQP) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Junior](https://open.spotify.com/album/2n1DVJVWUsZeeVIpmRcpI7) | 4:00 | 2025-01-10 |  |
 | [Junior Day League](https://open.spotify.com/track/2X5cnr6ctbJCqoJ2rb6WWk) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Around Again / Junior Day League](https://open.spotify.com/album/5ly8lNB38yHxAoGFvS7mTc) | 3:23 | 2021-08-27 | 2022-04-29 |
 | [Just Friends](https://open.spotify.com/track/53pzEfktTBZ43ch0Osk7wV) | [Lily Kaplan](https://open.spotify.com/artist/0BjpXkCYIqkI36g3gc6xJ4) | [Just Friends](https://open.spotify.com/album/3aAnkbiwqbBQheUtgBix3u) | 3:11 | 2021-12-08 | 2022-04-21 |
 | [Just Like Me](https://open.spotify.com/track/4BRzYmROhT3gPS9DxxKMQ7) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU), [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t), [Anika Pyle](https://open.spotify.com/artist/473tjOMnRorlAu1WC1w48H) | [Just Like Me](https://open.spotify.com/album/38gMNepHWbq2SO3y95wFww) | 3:43 | 2022-04-29 | 2022-05-20 |
@@ -834,6 +837,7 @@
 | [Mirrors Without Reflections](https://open.spotify.com/track/4zBY3I1VGkGDrtjPLo66eC) | [Name Change](https://open.spotify.com/artist/2JyL2YmRnWwLc9cEdEFqWg) | [Mirrors Without Reflections](https://open.spotify.com/album/2FxwpBEvP9bnrXHvkifZ7Y) | 4:11 | 2021-06-25 | 2022-04-16 |
 | [Miss Carolina \(feat\. Carlie Hanson\)](https://open.spotify.com/track/0QkPOadK79NBJtlG8R6JMF) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Miss Carolina \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2bp1ufuYoE53LyOiTvEWuM) | 2:36 | 2023-01-13 | 2023-03-04 |
 | [Miss You](https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Making You Up](https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8) | 3:39 | 2023-03-10 | 2023-06-16 |
+| [Missing Lluna](https://open.spotify.com/track/3I0EmLwPAXKmHhgJw2Ab0x) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Missing Lluna](https://open.spotify.com/album/00up885RYfaORUzqxywQCN) | 3:51 | 2025-01-10 |  |
 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 | 2024-01-12 | 2024-06-08 |
 | [moment](https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [moment](https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv) | 3:36 | 2024-07-19 | 2024-08-24 |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-07-19 |
@@ -936,6 +940,7 @@
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-09-03 | 2022-03-27 |
 | [Orpheus Under the Influence](https://open.spotify.com/track/7KwJrAQMoJyUEBes3evMLv) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Buttertones](https://open.spotify.com/album/6TWlzuPZqA2gR5qkDNa1dx) | 2:14 | 2022-03-26 | 2022-09-03 |
 | [out 4 a breather](https://open.spotify.com/track/73aXl4EIbQsY8ufuopTAaZ) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/0Yyb7bR8VvEfrJ0sBoEhMl) | 3:21 | 2021-03-05 | 2022-04-29 |
+| [outsider](https://open.spotify.com/track/15hKAxyO4NjLcyVH2UeiDv) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [outsider](https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD) | 2:01 | 2025-01-10 |  |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2022-11-17 | 2022-12-15 |
 | [Over And Over](https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Over And Over](https://open.spotify.com/album/0uL6OMzCds7OOSRXq72uMo) | 6:12 | 2023-01-20 | 2023-03-11 |
 | [Padam Padam](https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz) | [Padam Padam](https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV) | 3:16 | 2023-07-28 | 2024-02-03 |
@@ -972,6 +977,7 @@
 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 | 2022-04-29 | 2022-08-27 |
 | [Pop Song 2](https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS) | [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [Pop Song 2 & 1](https://open.spotify.com/album/5BLlxvXXNaWcublYzNsNlz) | 1:54 | 2023-01-13 | 2023-03-11 |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-02-16 | 2024-11-23 |
+| [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 | 2025-01-10 |  |
 | [Postman](https://open.spotify.com/track/7tzJ4TXAPfeJznM8XJYqgT) | [Palmer](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [Postman](https://open.spotify.com/album/10v03aHQ2qs0gM63rCoEuJ) | 3:10 | 2023-04-21 | 2023-06-16 |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2021-03-05 | 2022-04-29 |
 | [Power](https://open.spotify.com/track/7z15lhmC8TWqaun5bWmzd9) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Power](https://open.spotify.com/album/6aAdr2Ct9k3KVEAJFwTUgN) | 3:22 | 2021-03-05 | 2022-04-15 |
@@ -1189,6 +1195,7 @@
 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 | 2023-06-16 |
 | [Surely](https://open.spotify.com/track/7ySAkFmUIX2xj7DTMDC2Ej) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Surely](https://open.spotify.com/album/0OcRephWE5hiCa0aTo16KA) | 4:25 | 2023-08-03 | 2024-01-27 |
 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-02 | 2022-12-15 |
+| [Swamp Dream \#3](https://open.spotify.com/track/1FIA1xt2eYznjHnQaqQdKA) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Swamp Dream \#3](https://open.spotify.com/album/22DkUZFRY0EV5npieYC7CC) | 4:29 | 2025-01-10 |  |
 | [Sweaters](https://open.spotify.com/track/5TfzJqZLQHzXvCdUIGmc4W) | [The Happy Return](https://open.spotify.com/artist/2zRksKctDvcqmX1nhaydyV) | [Sweaters](https://open.spotify.com/album/5rg22FaF5nxtTUyUrb5lKu) | 2:57 | 2022-07-29 | 2022-12-15 |
 | [Sweet](https://open.spotify.com/track/05vnmfSANBVUgbHuZ6cc8W) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:35 | 2023-06-09 | 2023-06-16 |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2024-11-01 |  |

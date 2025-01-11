@@ -3317,6 +3317,32 @@
     },
     {
       "album": {
+        "name": "Escrit\u00f3rio Carioca",
+        "url": "https://open.spotify.com/album/1259JrdxkSdLu3RHq0skZh"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Escrit\u00f3rio Carioca",
+      "url": "https://open.spotify.com/track/3Fi4JvDROSgFuZVpaAP6kx"
+    },
+    {
+      "album": {
         "name": "O Que O Igor Guilherme Anda Pensando ?",
         "url": "https://open.spotify.com/album/7kZteNKgJng7xIhjvTY1Zg"
       },
@@ -9680,7 +9706,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150209,
       "name": "Rotina Maluca",
       "url": "https://open.spotify.com/track/3XmvImic98fx2CEVCdWk5w"

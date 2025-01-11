@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Raça
 
-743 songs - 1 day 18 hr 14 min
+744 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 | 2022-03-18 |
 | [Fuga](https://open.spotify.com/track/3ohS2af546AnusvsebxQcN) | [Facção Caipira](https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg), [Rev Beats](https://open.spotify.com/artist/4KOV93awg7zj8ac5JmNA8V), [Nicole Cyrne](https://open.spotify.com/artist/07YGUIyc9huPaom4lPJZVv), [Moitz.](https://open.spotify.com/artist/6zpV1Xb2zztwyaU68KmWDs), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Fuga](https://open.spotify.com/album/1yywrWGEINRZ0SY5z3DaCk) | 3:01 | 2022-01-14 | 2022-02-12 |
 | [Fundin](https://open.spotify.com/track/1kcaJBlMZl0tR53Vmb2iCW) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Samuel Galvão](https://open.spotify.com/artist/1kUkWqMP3dCn5WAOkOQ4VH) | [Fundin](https://open.spotify.com/album/6Cea0fRs11YjaWcx27cD1i) | 3:47 | 2024-11-29 |  |
-| [Ghosting](https://open.spotify.com/track/3iXVbSgmGj4kvHI3rjKJk7) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Rei Lacoste](https://open.spotify.com/artist/7Bp2KSECy4D9UGok5wtScH) | [Ghosting](https://open.spotify.com/album/2rlYG7y1H446ppIxZbEhDf) | 2:22 | 2024-12-20 |  |
+| [Ghosting](https://open.spotify.com/track/3iXVbSgmGj4kvHI3rjKJk7) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Rei Lacoste](https://open.spotify.com/artist/7Bp2KSECy4D9UGok5wtScH) | [Ghosting](https://open.spotify.com/album/2rlYG7y1H446ppIxZbEhDf) | 2:22 | 2024-12-20 | 2025-01-11 |
 | [Girassol](https://open.spotify.com/track/3ujHWJpRyT2DZtwsSI7lpo) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Girassol](https://open.spotify.com/album/1D3DNwCke32gvuo1HbJWZN) | 3:09 | 2023-08-25 | 2023-11-11 |
 | [Goteira de Amor](https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX) | [Fantástico Caramelo](https://open.spotify.com/artist/0LsC50sqPpTcHPGY8lyvwJ) | [Goteira de Amor](https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW) | 2:36 | 2024-02-23 | 2024-04-27 |
 | [Guarde Isso](https://open.spotify.com/track/56eX0mR15K1PutImuabniD) | [Milton Guesi](https://open.spotify.com/artist/4zIyIja72kzmKIi7v02sZx) | [Meu Olhar no Seu](https://open.spotify.com/album/26Tp6hnXuSHOCpRtHaktcE) | 3:16 | 2024-10-11 |  |
@@ -476,6 +476,7 @@
 | [O Seu Amor](https://open.spotify.com/track/1zwyRV5lzk7EdmVa9rR6tN) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [O Seu Amor](https://open.spotify.com/album/65ojqlctQXLh8xDyuq1Mq6) | 4:17 | 2022-05-06 | 2022-05-20 |
 | [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 | 2022-09-16 | 2022-12-17 |
 | [O Som Dos Golfinhos](https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Self](https://open.spotify.com/album/6KOuaiicX4JZwEf20FWGuK) | 4:53 | 2022-05-13 | 2022-07-23 |
+| [O Som, o Verbo e a Vida](https://open.spotify.com/track/1ZdC73qUIR8CzUZw45l4fS) | [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O), [Rodrigo Brandão](https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa) | [Telefone Sem Fio](https://open.spotify.com/album/3TQLUp9wpqY8RBGQ00HiWz) | 1:12 | 2025-01-10 |  |
 | [O Teste](https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [O Teste](https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt) | 3:13 | 2022-02-11 | 2022-04-09 |
 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 | 2022-04-08 | 2023-01-14 |
 | [O Viajante](https://open.spotify.com/track/6wZREwKUbPx0OZTZBiUd2Q) | [Graxelos](https://open.spotify.com/artist/78lzMT8QkKOJGwzjPbSEpP) | [Shangri\-Lá](https://open.spotify.com/album/1q3H406m4bYcT2MES86Bkk) | 5:07 | 2024-04-26 | 2024-08-17 |

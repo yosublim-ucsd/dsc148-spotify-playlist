@@ -6,8 +6,48 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATflTftscCC3+XsdblOZfFV5DiJR7q",
+  "snapshot_id": "AAATgdI/p5czYe+nxop0TcVatIaX3kME",
   "tracks": [
+    {
+      "added_at": "2025-01-10 15:16:40",
+      "album": {
+        "name": "True Trench Times",
+        "url": "https://open.spotify.com/album/2LEjhTw6ma4KTnMSPyNR5o"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "True Trench Times",
+      "url": "https://open.spotify.com/track/6IkbuuGlMF3DGcsBnJIbgD"
+    },
+    {
+      "added_at": "2025-01-10 15:16:18",
+      "album": {
+        "name": "Come Closer (Josh Kramer Rework)",
+        "url": "https://open.spotify.com/album/55KnsOmfr0xDbXWqBtGiZV"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "Come Closer - Josh Kramer Rework",
+      "url": "https://open.spotify.com/track/6rEA8TOvDZUVm8WX5Hi5Xv"
+    },
     {
       "added_at": "2025-01-09 15:19:05",
       "album": {
@@ -1091,46 +1131,6 @@
       "duration_ms": 205619,
       "name": "EYES ON ME - Sped Up",
       "url": "https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4"
-    },
-    {
-      "added_at": "2024-10-04 14:25:43",
-      "album": {
-        "name": "Foul",
-        "url": "https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B"
-      },
-      "artists": [
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
-        },
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 179262,
-      "name": "Foul",
-      "url": "https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3"
-    },
-    {
-      "added_at": "2024-10-03 13:20:54",
-      "album": {
-        "name": "Somebody With You",
-        "url": "https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Somebody With You",
-      "url": "https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

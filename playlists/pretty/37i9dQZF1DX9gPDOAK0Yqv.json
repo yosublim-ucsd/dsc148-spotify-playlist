@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
-  "num_followers": 130397,
+  "num_followers": 130523,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
       "duration_ms": 200683,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
+        "name": "4444:Reborn",
+        "url": "https://open.spotify.com/album/3hJ5n4LUTznYIsbml5gmXu"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 295939,
+      "name": "44 (Forget Forever) (Mathame Remix)",
+      "url": "https://open.spotify.com/track/3sQFWyTGIe1j4dyIkzKzBO"
     },
     {
       "added_at": "2025-01-09 23:00:12",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
-        "name": "The Future Is Unknown",
-        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "The Future Is Unknown",
-      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
         "name": "The Pledge",
         "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
       },
@@ -1467,6 +1467,26 @@
       "duration_ms": 215693,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
     },
     {
       "added_at": "2025-01-09 23:00:12",
@@ -1683,6 +1703,22 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
       },
@@ -1699,22 +1735,6 @@
       "duration_ms": 234448,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 159555,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2025-01-09 23:00:12",
@@ -1775,30 +1795,6 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "David O'Dowda",
-          "url": "https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "Glowing",
-      "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
         "name": "Laura (Argy & Omnya Remix)",
         "url": "https://open.spotify.com/album/38BbZfMpoLj0lkl5ESkKDz"
       },
@@ -1819,6 +1815,30 @@
       "duration_ms": 347520,
       "name": "Laura - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/548DlYhe2Pn8f9wGpOJsBV"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "David O'Dowda",
+          "url": "https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
     },
     {
       "added_at": "2025-01-09 23:00:12",
@@ -2319,26 +2339,6 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
-        "name": "Effort Of Euphoria",
-        "url": "https://open.spotify.com/album/0VN6AjGy7T2wmXbYSFPy70"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Afnan Prince",
-          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
-        }
-      ],
-      "duration_ms": 261639,
-      "name": "Effort of Change",
-      "url": "https://open.spotify.com/track/7tgJYPD07mMrHm631xyjwj"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
         "name": "Welcome The Night",
         "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
       },
@@ -2355,6 +2355,30 @@
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 236975,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
     },
     {
       "added_at": "2025-01-09 23:00:12",
@@ -2475,46 +2499,6 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 236975,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
-    },
-    {
-      "added_at": "2025-01-09 23:00:12",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/31BvViYa9rtNukhDqdCQdP"
       },
@@ -2539,6 +2523,22 @@
     {
       "added_at": "2025-01-09 23:00:12",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
         "name": "WHISPERS",
         "url": "https://open.spotify.com/album/66MXIQMytwsMQdYtXSlG1C"
       },
@@ -2559,6 +2559,26 @@
       "duration_ms": 211612,
       "name": "WHISPERS",
       "url": "https://open.spotify.com/track/0f6oK62DN8UqVHZzR2JKwr"
+    },
+    {
+      "added_at": "2025-01-09 23:00:12",
+      "album": {
+        "name": "Effort Of Euphoria",
+        "url": "https://open.spotify.com/album/0VN6AjGy7T2wmXbYSFPy70"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Afnan Prince",
+          "url": "https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ"
+        }
+      ],
+      "duration_ms": 261639,
+      "name": "Effort of Change",
+      "url": "https://open.spotify.com/track/7tgJYPD07mMrHm631xyjwj"
     },
     {
       "added_at": "2025-01-09 23:00:12",

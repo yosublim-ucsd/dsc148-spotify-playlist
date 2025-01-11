@@ -4,7 +4,7 @@
 
 > Kapo y el resto de novedades más importantes de la semana.
 
-795 songs - 1 day 16 hr 20 min
+796 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [MUSHKAR3000](https://open.spotify.com/track/2XOsk0b7kHNbqB5438eWg7) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [MUSHKAR3000](https://open.spotify.com/album/4vdnruchUJb1lRNkhhtz2j) | 2:58 | 2024-12-13 | 2024-12-20 |
 | [Muñeca Rota](https://open.spotify.com/track/2B6s6heEizLA4DC0IRzEDn) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Muñeca Rota](https://open.spotify.com/album/09Z24XzMwqL3xjg3ngXJXs) | 3:17 | 2024-11-21 | 2024-11-29 |
 | [MY LOVE](https://open.spotify.com/track/2ajOfRsIVgVO4pmjeCPIzp) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [MY LOVE](https://open.spotify.com/album/7ugkf8YbI3vpukv48xyoSK) | 2:52 | 2024-11-14 | 2024-11-22 |
+| [Más Profundidad](https://open.spotify.com/track/5goijdL65FQHzDws8ctgri) | [Miree](https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD) | [Más Profundidad](https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1) | 3:02 | 2025-01-10 |  |
 | [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-28 | 2024-12-06 |
 | [Mírame](https://open.spotify.com/track/4i44BQiyplTEvH9S415cCE) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mírame](https://open.spotify.com/album/5brVHpDSJozJOBYmmopAZZ) | 2:12 | 2024-10-17 | 2024-10-25 |
 | [N2O](https://open.spotify.com/track/2kOwsdKzSBUiurwfdq4r6v) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe) | [N20](https://open.spotify.com/album/1LFPkWYN5oZMkOzjnbMc7M) | 1:37 | 2024-11-08 | 2024-11-15 |

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "(This Is A) Warning",
+        "url": "https://open.spotify.com/album/64Y1ELBGERSq1vXMkhQlGg"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Mahalia Fontaine",
+          "url": "https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "(This Is A) Warning",
+      "url": "https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke"
+    },
+    {
+      "album": {
         "name": "1, 2 Step",
         "url": "https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx"
       },
@@ -3014,6 +3040,24 @@
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "album": {
+        "name": "Beats Keep Rockin'",
+        "url": "https://open.spotify.com/album/0RAPLDYHhVTaSYUTKUvGgf"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146731,
+      "name": "Beats Keep Rockin' - Edit",
+      "url": "https://open.spotify.com/track/7GDBm3a49RNgL7EpdWtUh7"
     },
     {
       "album": {
@@ -11863,6 +11907,28 @@
     },
     {
       "album": {
+        "name": "Fiendin'",
+        "url": "https://open.spotify.com/album/7qcOh52r2cu5bPMkrCkn4r"
+      },
+      "artists": [
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Liinks",
+          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195548,
+      "name": "Fiendin'",
+      "url": "https://open.spotify.com/track/10FDBWTBkFXcAD0HrcIAPe"
+    },
+    {
+      "album": {
         "name": "Fiko Loco",
         "url": "https://open.spotify.com/album/54EYhiI0Hyo1fCGAEq1TxG"
       },
@@ -13700,7 +13766,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
@@ -14172,7 +14238,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 206769,
       "name": "Go Back (Jack)",
       "url": "https://open.spotify.com/track/6FO3d3aI3paWQ0QX9BLqON"
@@ -14230,6 +14296,24 @@
       "duration_ms": 165758,
       "name": "Goin",
       "url": "https://open.spotify.com/track/0aTEPIRV4B5iOrylV8FFcH"
+    },
+    {
+      "album": {
+        "name": "DXFILES003",
+        "url": "https://open.spotify.com/album/5l5p9PY0nBzAMWvVGGrct3"
+      },
+      "artists": [
+        {
+          "name": "DXNBY",
+          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391245,
+      "name": "Goin Under",
+      "url": "https://open.spotify.com/track/4EGiHelnpDWzKV5Dgqwtcs"
     },
     {
       "album": {
@@ -17777,6 +17861,32 @@
     },
     {
       "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/7iCVwqHm6fKjKFIntDAUaL"
+      },
+      "artists": [
+        {
+          "name": "Greta Levska",
+          "url": "https://open.spotify.com/artist/3r3NacwYbrrmf9zuuj1n35"
+        },
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179985,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/3NNVULl3ohlzzAUTypAwlb"
+    },
+    {
+      "album": {
         "name": "Inside My Mind",
         "url": "https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej"
       },
@@ -18212,7 +18322,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 198984,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/2urgnQCLBdwcLWy0TBbq42"
@@ -19057,6 +19167,28 @@
     },
     {
       "album": {
+        "name": "KMS",
+        "url": "https://open.spotify.com/album/1uW6mdVhKPEzR4mDkEQqgW"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "KMS",
+      "url": "https://open.spotify.com/track/7k08iOwFlXhQUmq9e4yDII"
+    },
+    {
+      "album": {
         "name": "Knee Deep - EP",
         "url": "https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js"
       },
@@ -19862,7 +19994,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 183234,
       "name": "Let The Bassline",
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
@@ -21382,7 +21514,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 183402,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/56oSAE73OjWcUeXUafx0RV"
@@ -22832,7 +22964,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 194545,
       "name": "Midnight Trip",
       "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
@@ -23353,6 +23485,24 @@
     },
     {
       "album": {
+        "name": "More Love EP",
+        "url": "https://open.spotify.com/album/2SS6Myp7aoF2hEkzIHj31L"
+      },
+      "artists": [
+        {
+          "name": "nocapz.",
+          "url": "https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222236,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/241G2oKRWIvcmvf75awESt"
+    },
+    {
+      "album": {
         "name": "More Love",
         "url": "https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx"
       },
@@ -23456,7 +23606,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 203076,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/3nhuPms9GiJjt9XXgA3wx0"
@@ -26543,6 +26693,28 @@
     },
     {
       "album": {
+        "name": "Paket",
+        "url": "https://open.spotify.com/album/12xJdQfEDXVvFDJZQsFcly"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "Sasha Wrist",
+          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185862,
+      "name": "Paket",
+      "url": "https://open.spotify.com/track/1GzyP0UQOoZthsDHvkS9KB"
+    },
+    {
+      "album": {
         "name": "Pam Pam",
         "url": "https://open.spotify.com/album/3Slmff9B119rqiFAhSFd5h"
       },
@@ -27046,6 +27218,28 @@
       "duration_ms": 167812,
       "name": "Pega",
       "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
+    },
+    {
+      "album": {
+        "name": "Pegado",
+        "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Pegado",
+      "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
     },
     {
       "album": {
@@ -28771,6 +28965,28 @@
     },
     {
       "album": {
+        "name": "Rave Tool",
+        "url": "https://open.spotify.com/album/5ToUuDZPIFkaBUBrhZCBMl"
+      },
+      "artists": [
+        {
+          "name": "Puhska",
+          "url": "https://open.spotify.com/artist/4Dl8cLKG5MHI5zQkVvS4vl"
+        },
+        {
+          "name": "Dujak",
+          "url": "https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376711,
+      "name": "Rave Tool",
+      "url": "https://open.spotify.com/track/5oDmqvUqVVTz8eq13shidU"
+    },
+    {
+      "album": {
         "name": "Rave W U",
         "url": "https://open.spotify.com/album/4d4kanxcEjZMbpr83g9UDs"
       },
@@ -29020,7 +29236,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 154941,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ"
@@ -31172,6 +31388,24 @@
     {
       "album": {
         "name": "Shake It",
+        "url": "https://open.spotify.com/album/6ml2hCMoE7RFSaHhFt6Vfh"
+      },
+      "artists": [
+        {
+          "name": "VENGA",
+          "url": "https://open.spotify.com/artist/4SHOU5SKwu9LVOwGPHUotS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5Oyb5GjMDGGiU4mZP8QCen"
+    },
+    {
+      "album": {
+        "name": "Shake It",
         "url": "https://open.spotify.com/album/10UgKtiPB1hUd19qwftSEo"
       },
       "artists": [
@@ -31438,6 +31672,24 @@
       "duration_ms": 245669,
       "name": "Shiver - Cassian Remix",
       "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
+    },
+    {
+      "album": {
+        "name": "Worst She Can Say is No",
+        "url": "https://open.spotify.com/album/25xm5qXYvkWa4QIn50Mmgm"
+      },
+      "artists": [
+        {
+          "name": "Spin Off",
+          "url": "https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151962,
+      "name": "Shoot Your Shot",
+      "url": "https://open.spotify.com/track/58YpWzPSkQNQCKazcNmhjx"
     },
     {
       "album": {
@@ -33054,7 +33306,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 191233,
       "name": "Still My Baby",
       "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
@@ -36985,6 +37237,28 @@
     },
     {
       "album": {
+        "name": "Toro Loco",
+        "url": "https://open.spotify.com/album/2R21Qz8bKxvRFQ5Gdr7Wss"
+      },
+      "artists": [
+        {
+          "name": "DEM2",
+          "url": "https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB"
+        },
+        {
+          "name": "Cion Daddy",
+          "url": "https://open.spotify.com/artist/30eyXwvifdiwjh2exXJw6h"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302655,
+      "name": "Toro Loco - Original Mix",
+      "url": "https://open.spotify.com/track/7vDFkKOBHlB163wnJIpwcE"
+    },
+    {
+      "album": {
         "name": "Torro",
         "url": "https://open.spotify.com/album/1Xuw8xJCbmOPuLBAXxGfi5"
       },
@@ -40034,7 +40308,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 193139,
       "name": "When The Bass Kicks In",
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
@@ -40330,6 +40604,28 @@
       "duration_ms": 166166,
       "name": "Why Don't You Tell Me?",
       "url": "https://open.spotify.com/track/6mxXwwYJ6bw3k3umqlVgkv"
+    },
+    {
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216183,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI"
     },
     {
       "album": {

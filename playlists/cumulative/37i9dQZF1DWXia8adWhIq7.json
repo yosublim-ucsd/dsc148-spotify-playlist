@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Corre",
+        "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        },
+        {
+          "name": "Kelvin Galdeano",
+          "url": "https://open.spotify.com/artist/2WSvRKmrPtawczPZ8ZCULQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Corre",
+      "url": "https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp"
+    },
+    {
+      "album": {
         "name": "Crescer",
         "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
       },
@@ -952,6 +974,24 @@
       "duration_ms": 168461,
       "name": "Deixar para Tr\u00e1s",
       "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
+    },
+    {
+      "album": {
+        "name": "Desacreditar Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225068,
+      "name": "Desacreditar Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
     },
     {
       "album": {
@@ -2784,7 +2824,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 331843,
       "name": "Poetizar 1 - \u00daltima Chance",
       "url": "https://open.spotify.com/track/4ToHXRMWxxiYnCf411hSW0"
@@ -3932,7 +3972,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160663,
       "name": "YESHUA",
       "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"

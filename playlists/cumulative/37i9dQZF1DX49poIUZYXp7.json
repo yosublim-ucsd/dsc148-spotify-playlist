@@ -6497,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "Breakup Over Breakfast",
+        "url": "https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "vanilla",
+      "url": "https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc"
+    },
+    {
+      "album": {
         "name": "Stronger Than I Am",
         "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
       },

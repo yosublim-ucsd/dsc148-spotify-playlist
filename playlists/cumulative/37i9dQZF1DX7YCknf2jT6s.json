@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: H Zettrio",
+  "description": "New jazz for open minds. Cover: ARTEMIS",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4923,6 +4923,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3aCjPLFXzW00JqCHwU92o6"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Dayna Stephens",
+          "url": "https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255128,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40"
+    },
+    {
+      "album": {
         "name": "Calle Pizarro",
         "url": "https://open.spotify.com/album/2PRjfg5c5PuAYjOzoCZZpU"
       },
@@ -9832,6 +9854,24 @@
       "duration_ms": 151101,
       "name": "Fahina",
       "url": "https://open.spotify.com/track/3HTDwChXeEpTEltJA7Q2LT"
+    },
+    {
+      "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
     },
     {
       "album": {
@@ -15660,7 +15700,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202819,
       "name": "Kim K",
       "url": "https://open.spotify.com/track/0w9qz6eqLqHNHu27DoI2dp"
@@ -19224,7 +19264,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 222989,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
@@ -20390,7 +20430,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 318954,
       "name": "No Shadows",
       "url": "https://open.spotify.com/track/4ozTTjONT3LvRdgzNuFNn0"
@@ -26996,7 +27036,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202176,
       "name": "SONG OF DAVID",
       "url": "https://open.spotify.com/track/5BlEMYKC354aD0OgscSJpo"
@@ -27558,6 +27598,32 @@
       "duration_ms": 254271,
       "name": "Stede",
       "url": "https://open.spotify.com/track/1KhBlF3NmiYlCaJwZyWsCz"
+    },
+    {
+      "album": {
+        "name": "Step Ahead",
+        "url": "https://open.spotify.com/album/1Hm5RnZ6Fb1PKNPWscezsD"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398369,
+      "name": "Step Ahead",
+      "url": "https://open.spotify.com/track/4kx5HMY4HZ3YYe2x9XZU5h"
     },
     {
       "album": {
@@ -30836,6 +30902,24 @@
       "duration_ms": 301000,
       "name": "The Smile of Rita",
       "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
+    },
+    {
+      "album": {
+        "name": "The Smile of the Snake",
+        "url": "https://open.spotify.com/album/37WWlcmSslm4mAM2uOH9N8"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327103,
+      "name": "The Smile of the Snake",
+      "url": "https://open.spotify.com/track/6HNo6vEDnSxCVOwxXCRTMn"
     },
     {
       "album": {

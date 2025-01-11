@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 156144,
       "name": "Malakk",
       "url": "https://open.spotify.com/track/58STO31unViThdYxhl5UGy"
@@ -4153,6 +4153,32 @@
     },
     {
       "album": {
+        "name": "Thollal",
+        "url": "https://open.spotify.com/album/3rNFIhf2s1s7Q37scScpdA"
+      },
+      "artists": [
+        {
+          "name": "NISHAD MECHERI",
+          "url": "https://open.spotify.com/artist/5GkjcNLMN7z0ayMhCSWb7p"
+        },
+        {
+          "name": "NAJRAN KABEER",
+          "url": "https://open.spotify.com/artist/3GyKlyUkAUXO5JkMgD4ar4"
+        },
+        {
+          "name": "Ashi",
+          "url": "https://open.spotify.com/artist/78J4tTMn2yVUt7k9jwMzCz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "Thollal",
+      "url": "https://open.spotify.com/track/66u5SJ10AGPHpBREOhZFhW"
+    },
+    {
+      "album": {
         "name": "Trap Sundhari",
         "url": "https://open.spotify.com/album/5cqS1wz3ZmCD3ZJ8ehWa1N"
       },
@@ -4382,6 +4408,32 @@
       "duration_ms": 187449,
       "name": "Varav",
       "url": "https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX"
+    },
+    {
+      "album": {
+        "name": "Varavu",
+        "url": "https://open.spotify.com/album/2jCaTaMTrZZ0yb3eGp4a4L"
+      },
+      "artists": [
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        },
+        {
+          "name": "ItsPc",
+          "url": "https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx"
+        },
+        {
+          "name": "MUSLI",
+          "url": "https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "Varavu",
+      "url": "https://open.spotify.com/track/4z4Ga5Q74ME9wQZKvP2keQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Paleface Swiss.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Church Tongue.
 
-879 songs - 2 day 7 hr 25 min
+885 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 | 2024-10-11 |  |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
 | [A6 \- Meteora\|20 Demo](https://open.spotify.com/track/6xOULyOGGvUDqSNgi73CRe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:54 | 2023-04-07 | 2024-02-03 |
+| [Abilene Grime](https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Abilene Grime](https://open.spotify.com/album/26y9YsB8vO10wH3zxpee4I) | 3:21 | 2025-01-10 |  |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 | 2023-07-15 |
 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 | 2024-06-21 |  |
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 | 2023-07-15 |
@@ -106,6 +107,7 @@
 | [Burn Your Bible](https://open.spotify.com/track/74OhwbALx4m1WD6CfqD5nt) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Burn Your Bible](https://open.spotify.com/album/3GKwZOSfukp9D84KEdY38i) | 3:35 | 2023-08-04 | 2024-02-03 |
 | [Burning Down](https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Burning Down](https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0) | 6:12 | 2024-02-16 |  |
 | [Bury](https://open.spotify.com/track/105trhpiqettXhZUJg1FEe) | [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Bury](https://open.spotify.com/album/3IkVaTVkT6UitOnJVkQaZB) | 4:53 | 2024-05-10 |  |
+| [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-10 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 | 2023-07-15 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2023-07-15 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2023-07-15 |
@@ -314,6 +316,7 @@
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 | 2023-07-15 |
 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 | 2024-07-19 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 | 2024-02-03 |
+| [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-10 |  |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2023-07-15 |
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-29 |  |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-02 | 2024-02-03 |
@@ -421,6 +424,7 @@
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 | 2024-02-03 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2024-02-03 |
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-01 | 2024-02-03 |
+| [Love All the People](https://open.spotify.com/track/7n9D3aT2v56UVNxFZ0LV55) | [Mercy Ties](https://open.spotify.com/artist/2oCjUdQSxryC1IMMorOtHI) | [Love All the People](https://open.spotify.com/album/0ILajU1CtCbfUaPQzjd3GC) | 1:43 | 2025-01-10 |  |
 | [Love Lighter](https://open.spotify.com/track/1PVWFyT7U3seAFROL0KT6y) | [Halo Bite](https://open.spotify.com/artist/7I18r5VZ8g2bJswX2x2tKw) | [Love Lighter](https://open.spotify.com/album/2wRLdvANfmKyzhstg8VPP5) | 2:58 | 2024-04-12 |  |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 | 2023-07-15 |
 | [Lowest](https://open.spotify.com/track/7xO7DaKECDqukf1cr25LJd) | [From A Second Story Window](https://open.spotify.com/artist/2BMSRmXfr41q3wsd0rq6aE) | [Lowest](https://open.spotify.com/album/2UvIITAH9Dqiz5uzvPPlUx) | 1:44 | 2025-01-03 |  |
@@ -574,6 +578,7 @@
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-05-24 |  |
 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 |  |
 | [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-03 |  |
+| [realcocainemuzak](https://open.spotify.com/track/1dbTia2Rrl1Uym74PIvzde) | [Bodybox](https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q) | [realcocainemuzak](https://open.spotify.com/album/5wvZfH6H4Vg9ON8F66qr5G) | 1:34 | 2025-01-10 |  |
 | [Reality](https://open.spotify.com/track/4pEf65p8qX8TZ4ohXC6Ses) | [Corpse Pile](https://open.spotify.com/artist/3xUOrcghypEI9Ua6wR0tDU) | [Reality](https://open.spotify.com/album/4PwBGEiZbSyu5oRGOIjI2h) | 2:05 | 2024-01-05 |  |
 | [Rebirth](https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 4:09 | 2023-06-30 | 2024-02-03 |
 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 | 2024-04-19 |  |
@@ -587,6 +592,7 @@
 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 | 2022-07-22 | 2023-07-15 |
 | [Reign of Terror](https://open.spotify.com/track/12RtrL5GqsYvtTQhlNzxMN) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Reign of Terror](https://open.spotify.com/album/2V8KRphUa4Vp18I5IviUGi) | 3:46 | 2022-05-27 | 2023-07-15 |
 | [Relic of Damnation](https://open.spotify.com/track/3RH9ZlJDOphL9ZAZUS9t36) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Relic of Damnation](https://open.spotify.com/album/17Z9CfhKDSBBUdoPE6EvgC) | 2:27 | 2022-10-28 | 2023-07-15 |
+| [Remain Violent](https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe to the Vanquished](https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL) | 3:24 | 2025-01-10 |  |
 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-06-28 |  |
 | [Removed Their Hooks](https://open.spotify.com/track/0ggiwvRZnn8g3mJoLq91In) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Removed Their Hooks](https://open.spotify.com/album/2WEqK1EqFvKmM9rfNREcnf) | 3:21 | 2023-09-01 | 2024-02-03 |
 | [Residue](https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Residue](https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD) | 4:38 | 2024-04-12 |  |

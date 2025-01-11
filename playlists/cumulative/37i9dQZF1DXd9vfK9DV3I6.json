@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Galata",
+        "url": "https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Galata",
+      "url": "https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn"
+    },
+    {
+      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
       },
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 291576,
       "name": "ZMAN",
       "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"

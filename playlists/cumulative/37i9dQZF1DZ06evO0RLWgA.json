@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/0nfkflglWTXtbrCl4ZwZ6p"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426470,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/3ASudh2vHVrxPqYlqekkYi"
+    },
+    {
+      "album": {
         "name": "Masters of Blues Presents John Lee Hooker (2024 Remastered)",
         "url": "https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA"
       },

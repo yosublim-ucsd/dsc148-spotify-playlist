@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Japanese Breakfast
 
-852 songs - 2 day 0 hr 38 min
+853 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Every Little Thing](https://open.spotify.com/track/3pYe8mHBYO8LGNWxPCAFA8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Every Little Thing](https://open.spotify.com/album/6ogr8cWsKopLsMgLEhOFor) | 3:49 | 2024-10-17 | 2024-11-01 |
 | [Everything I'm Not](https://open.spotify.com/track/4GU8qd8WoA40FqETjy3mcp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Everything I'm Not](https://open.spotify.com/album/7sOXYPePDPUjHchQqzA2Zo) | 3:01 | 2024-10-17 | 2024-11-15 |
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-28 | 2024-07-05 |
+| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-10 |  |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-24 | 2024-11-22 |
 | [Fading](https://open.spotify.com/track/10QaGm7JpgQTVDuyXMhXeb) | [Saguru](https://open.spotify.com/artist/61qZ7es6fFlppv6I1r32V8) | [Infinity](https://open.spotify.com/album/2oPuY3S020V2QgJI948gcl) | 2:29 | 2024-10-24 | 2024-11-22 |
 | [Fake A Smile](https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:39 | 2024-11-21 | 2024-12-06 |
@@ -582,7 +583,7 @@
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2024-08-30 |
 | [Please Me](https://open.spotify.com/track/6ecgLf8SKoOC8ViMbbSlMY) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Please Me](https://open.spotify.com/album/6z7Z94e9sJqvbwOh64sDK1) | 1:35 | 2024-09-19 | 2024-10-11 |
 | [Plus One](https://open.spotify.com/track/2SxUIKMDtPWB3af3P8zHnl) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Plus One](https://open.spotify.com/album/3cbMMs4UUeytP4BV8IMJED) | 2:21 | 2024-09-05 | 2024-09-20 |
-| [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-12 |  |
+| [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-12 | 2025-01-11 |
 | [Prettier \(No\. 1, 09\-05\-2024\)](https://open.spotify.com/track/09mGNuvJI9MOtEkGm12ZwY) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Prettier \(No\. 1, 09\-05\-2024\)](https://open.spotify.com/album/5KXqrd9bvT9uxf6MFOsgDe) | 2:52 | 2024-11-21 | 2025-01-03 |
 | [Prowl](https://open.spotify.com/track/6llso3w3TmSHuJFLIyQqek) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Prowl](https://open.spotify.com/album/54VwoLcXlf4UV0D6ofE7FH) | 2:53 | 2024-11-07 | 2024-12-06 |
 | [Pumped Up High](https://open.spotify.com/track/5pdHkMVHKklecz69N8XmsN) | [Leyya](https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl) | [Pumped Up High](https://open.spotify.com/album/2YoNvFrnkgMbsoiDuL0UeQ) | 2:41 | 2024-06-28 | 2024-07-19 |

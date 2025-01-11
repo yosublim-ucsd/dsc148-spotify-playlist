@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5KJCpe9JburdcTRSjHGxL7"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Alive - Radio Edit",
+      "url": "https://open.spotify.com/track/18V03JCrwP7DLel4T55bpJ"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
       },
@@ -1652,6 +1670,28 @@
       "duration_ms": 481920,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "album": {
+        "name": "Direction EP",
+        "url": "https://open.spotify.com/album/4brszS6xMtQv1FpfjWAXkJ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Soeiro",
+          "url": "https://open.spotify.com/artist/4DVjxltWpcKp8hMsRYmcny"
+        },
+        {
+          "name": "Arzenic",
+          "url": "https://open.spotify.com/artist/4AgLfdV9n9OV67nyuu06OF"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Direction",
+      "url": "https://open.spotify.com/track/3iGzX1atHCwBnfoVfXtZvB"
     },
     {
       "album": {
@@ -3257,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5SZ0DESHbdeXHFATCtcORR"
+      },
+      "artists": [
+        {
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194109,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
+    },
+    {
+      "album": {
         "name": "Honey Bee (Edit)",
         "url": "https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB"
       },
@@ -4058,7 +4116,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 408941,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
@@ -5376,7 +5434,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 167244,
       "name": "Pace Joint",
       "url": "https://open.spotify.com/track/7sfsDeUpNyPYgTiR8ZK32j"
@@ -6362,6 +6420,24 @@
       "duration_ms": 325453,
       "name": "Sense - Original Mix",
       "url": "https://open.spotify.com/track/0AD2JWtU8fMOP9FzxXuTys"
+    },
+    {
+      "album": {
+        "name": "Serotonine EP",
+        "url": "https://open.spotify.com/album/2IJ0OyFYDdHyoWZ4ZRNx8s"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Serotonine",
+      "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
     },
     {
       "album": {
@@ -8566,7 +8642,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 258340,
       "name": "Who Is That Guy?",
       "url": "https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D"
@@ -8748,7 +8824,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150644,
       "name": "Wyle Up",
       "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"

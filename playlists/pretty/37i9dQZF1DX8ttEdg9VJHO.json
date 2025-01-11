@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354809,
+  "num_followers": 354829,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Der letzte Tanz",
-        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Der letzte Tanz",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Der letzte Tanz",
+        "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Der letzte Tanz",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Love U Again",
-        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Love U Again",
-      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 169866,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Love U Again",
+        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Love U Again",
+      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 217713,
       "name": "Leap Of Faith",
       "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
     },
     {
       "added_at": "2024-12-11 08:10:11",

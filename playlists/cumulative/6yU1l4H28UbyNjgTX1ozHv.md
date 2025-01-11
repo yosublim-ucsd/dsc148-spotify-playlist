@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-263 songs - 13 hr 32 min
+265 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
+| [Against All Odds \- Acoustic](https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Against All Odds \(Acoustic\)](https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0) | 3:17 | 2025-01-10 |  |
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 | 2023-01-06 |  |
 | [All I Want](https://open.spotify.com/track/10MfRY0BlY64cFKsmNWbzw) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1), [Damien McFly](https://open.spotify.com/artist/2ft7APiBr9l00FbsSnu92x) | [All I Want](https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc) | 3:37 | 2019-10-13 |  |
@@ -225,6 +226,7 @@
 | [This Kiss \- Acoustic](https://open.spotify.com/track/3AqkRNDw7B5vukDtnXy8zJ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [This Kiss \(Acoustic\)](https://open.spotify.com/album/7wQAgYNFflHq2AqevwUSWn) | 2:42 | 2024-04-27 | 2024-06-01 |
 | [This Will Be \(An Everlasting Love\) \- Acoustic](https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [This Will Be \(An Everlasting Love\) \[Acoustic\]](https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp) | 2:19 | 2023-08-04 | 2024-03-04 |
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
+| [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 | 2023-12-14 |
 | [Treasure \- Acoustic](https://open.spotify.com/track/3HzIzYnG0DsW7qSmndarxS) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Treasure \(Acoustic\)](https://open.spotify.com/album/5C8eQcdqEPF3cpLDp9IRWj) | 2:44 | 2023-09-17 |  |

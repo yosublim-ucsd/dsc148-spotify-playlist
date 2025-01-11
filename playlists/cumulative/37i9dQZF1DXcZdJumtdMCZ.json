@@ -271,6 +271,28 @@
     },
     {
       "album": {
+        "name": "Big Fan Bro (From \"Flop\")",
+        "url": "https://open.spotify.com/album/1QEd3GnQAmxBxdIeBP3AFg"
+      },
+      "artists": [
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        },
+        {
+          "name": "Chamel",
+          "url": "https://open.spotify.com/artist/3CxWy4iGC6kroPPEbuVlDL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150423,
+      "name": "Big Fan Bro - From \"Flop\"",
+      "url": "https://open.spotify.com/track/1g3rLnZLWJ4LxB5MvwAx1a"
+    },
+    {
+      "album": {
         "name": "Raam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7rAGXwE4JbyOqJgl4TULFi"
       },
@@ -1358,6 +1380,28 @@
       "duration_ms": 206582,
       "name": "Kill This One",
       "url": "https://open.spotify.com/track/5NbFbe66RsQv3dhx3IN0cW"
+    },
+    {
+      "album": {
+        "name": "Kudikaran Pechi",
+        "url": "https://open.spotify.com/album/2RtIQrxomTxkNGWkaybPZh"
+      },
+      "artists": [
+        {
+          "name": "Charles Bosco",
+          "url": "https://open.spotify.com/artist/2aZMJZvvSb072ZPDKRmep1"
+        },
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "Kudikaran Pechi",
+      "url": "https://open.spotify.com/track/2ulkg8TKWtJXgaCFRFHL60"
     },
     {
       "album": {

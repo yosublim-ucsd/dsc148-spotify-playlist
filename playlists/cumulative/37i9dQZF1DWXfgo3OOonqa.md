@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,714 songs - 3 day 2 hr 23 min
+1,716 songs - 3 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 | 2023-11-30 | 2024-01-10 |
 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 | 2022-11-24 | 2023-02-17 |
 | [Avspärrningsband](https://open.spotify.com/track/0L38IKyEZbKXnpemYSADxp) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [STHLM SNDRM](https://open.spotify.com/album/3O16hIFcU4moWbGF53J3Yu) | 2:58 | 2023-06-15 | 2023-09-08 |
+| [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/track/1QA0z8FYzITv6Y8INYxaqI) | [Jashua K](https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj) | [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/album/1Ksjb3SqRFvfn1PbvWgU5X) | 2:31 | 2025-01-10 |  |
 | [AXAR](https://open.spotify.com/track/69Zgo9cfCANqGHgKCBXzTJ) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [AXAR](https://open.spotify.com/album/6HsFZ60ry08QkWkuZ9tGAw) | 2:11 | 2023-03-16 | 2023-05-05 |
 | [AYE](https://open.spotify.com/track/6Gtyvsh8AOGGuO5mpcriS5) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [AYE](https://open.spotify.com/album/1Fv76NDmDuQVZwW4NMOOI8) | 2:25 | 2022-03-24 | 2022-05-06 |
 | [B.C.D](https://open.spotify.com/track/3mcH7dpN817aa1GZ5mPnhI) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [BIG CITY DREAMS](https://open.spotify.com/album/6GBUPkV6xLo5YLa8GyamBS) | 2:10 | 2021-12-16 | 2022-02-01 |
@@ -1267,6 +1268,7 @@
 | [REDO](https://open.spotify.com/track/0vtaj5Uv6KzORb5Q2Zvu20) | [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk), [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [REDO](https://open.spotify.com/album/2ggF9YDXbgX0ZL8d3TiHf2) | 2:30 | 2022-11-10 | 2022-12-09 |
 | [Regler \(Båset\)](https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Regler \(Båset\)](https://open.spotify.com/album/6jNGKJ3Wxs20bRzmTqyLr9) | 2:36 | 2022-03-10 | 2022-05-27 |
 | [Relatera](https://open.spotify.com/track/10DXTIr7Y7KBxOY6rwnJNO) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Relatera](https://open.spotify.com/album/4XquqgAGmOYKNGodE3gT5J) | 3:11 | 2023-01-19 | 2023-02-24 |
+| [Reminisce](https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:03 | 2025-01-10 |  |
 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 | 2023-02-09 | 2023-06-30 |
 | [Respiration](https://open.spotify.com/track/24ZmxjRLRMykPYbR4CjvQe) | [Just](https://open.spotify.com/artist/3l0MJsYtGAgUr045qBu0LH), [Math\-Mic](https://open.spotify.com/artist/5ZtY0L9BEnWtTcPZyNVKV3) | [Respiration](https://open.spotify.com/album/2Gv4CciWjZkncIDpuB9zwZ) | 2:35 | 2022-09-29 | 2022-10-14 |
 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 | 2023-06-29 | 2023-09-08 |

@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 233009,
       "name": "Dreaming (feat. Bruno Major)",
       "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
@@ -2094,6 +2094,28 @@
       "duration_ms": 201976,
       "name": "Life",
       "url": "https://open.spotify.com/track/3kl0yakAYlmaDTlUnLZR0e"
+    },
+    {
+      "album": {
+        "name": "two more days",
+        "url": "https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "light dark light",
+      "url": "https://open.spotify.com/track/5TDGAqGkQAbjr3a2sjFFIk"
     },
     {
       "album": {
@@ -3116,7 +3138,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 254346,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 314185,
       "name": "Spinning Heart",
       "url": "https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M"
@@ -4604,7 +4626,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 227913,
       "name": "We Thought You Were Sleeping",
       "url": "https://open.spotify.com/track/5kh2JLQ3XdBTU6Jd5qWPwx"
@@ -4658,7 +4680,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
@@ -4748,7 +4770,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"

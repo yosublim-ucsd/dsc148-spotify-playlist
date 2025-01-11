@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Jovanotti
 
-739 songs - 1 day 14 hr 12 min
+740 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 | 2025-01-03 |
 | [Come Monna Lisa \(feat\. Mango\)](https://open.spotify.com/track/25tS59nYeVFJEI9iXC9wHa) | [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN), [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Come Monna Lisa \(feat\. Mango\)](https://open.spotify.com/album/3AyhSYCuhtmcVAlzOR4bqY) | 3:33 | 2024-12-05 | 2025-01-10 |
 | [COMO UN TRUENO](https://open.spotify.com/track/3c7pSXPksj34C3k1wh4GgB) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [COMO UN TRUENO](https://open.spotify.com/album/7EQyABe8ykRXWSBbFfHsym) | 2:54 | 2024-08-29 | 2024-09-20 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 |  |
 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-06-27 | 2024-07-19 |
 | [Converse / Nike \(feat.Tancredi\)](https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Cupido Senza Ali](https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx) | 2:28 | 2024-07-04 | 2024-08-16 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-08-16 |

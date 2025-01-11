@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150008,
       "name": "A Miracle",
       "url": "https://open.spotify.com/track/0rIp4BZn76zzW9oXj5ZlDx"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 150570,
       "name": "Benevolence - Tetris Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192527,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 43906,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 79710,
       "name": "Citadel (Main Title Theme)",
       "url": "https://open.spotify.com/track/3koRMFxZIBO9iDCDLRUmnF"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 98440,
       "name": "Clothes From Miss Mabel - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 279840,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
@@ -1777,6 +1777,40 @@
     },
     {
       "album": {
+        "name": "Dune II Suite",
+        "url": "https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Juan Garcia Herreros",
+          "url": "https://open.spotify.com/artist/4VuZZ0AqoOhIoVopAufsei"
+        },
+        {
+          "name": "Aleksandra Suklar",
+          "url": "https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "Dune II Suite: Part 2, A Time of Quiet Between the Storms",
+      "url": "https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B"
+    },
+    {
+      "album": {
         "name": "Dungeons & Dragons: Honor Among Thieves (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xfCcBT8UbC8wjszXjyPPf"
       },
@@ -1806,7 +1840,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 95266,
       "name": "Dungeons and Dragons",
       "url": "https://open.spotify.com/track/6mvqaruxBnqbgFEEvnUzaA"
@@ -2296,7 +2330,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 135693,
       "name": "Fencing Duel",
       "url": "https://open.spotify.com/track/0GSJipW8Nt5ZNRtQEpUzfP"
@@ -2568,7 +2602,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 216960,
       "name": "Goodbye Peter Pan",
       "url": "https://open.spotify.com/track/16HqLyMhdlopmXKqxLNblm"
@@ -2608,7 +2642,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 141759,
       "name": "Gratandi Jeg thig Bei\u00f0i",
       "url": "https://open.spotify.com/track/1fwdPWwfZ7AjycrxygYTeB"
@@ -2880,7 +2914,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 72658,
       "name": "I Importune You (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh"
@@ -2920,7 +2954,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 94542,
       "name": "I Loved You First",
       "url": "https://open.spotify.com/track/3oKK4OBgOs0WSvpaQZ9Fdy"
@@ -4138,7 +4172,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 149493,
       "name": "Luther's Theme",
       "url": "https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG"
@@ -4684,7 +4718,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 308411,
       "name": "Monarch Butterfly",
       "url": "https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h"
@@ -4720,7 +4754,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 128800,
       "name": "Moon Knight - From \"Moon Knight\"",
       "url": "https://open.spotify.com/track/3IvbyVYgQEKqvwQhquFKNn"
@@ -5110,7 +5144,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 257160,
       "name": "New York, 1969",
       "url": "https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J"
@@ -5360,7 +5394,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 247363,
       "name": "On Our Plates",
       "url": "https://open.spotify.com/track/0iYsrjk7owSIKL2TEv0sRA"
@@ -5711,6 +5745,28 @@
     },
     {
       "album": {
+        "name": "Perfect Place",
+        "url": "https://open.spotify.com/album/5NqSGgq912xZU4vpfakmqK"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146297,
+      "name": "Perfect Place",
+      "url": "https://open.spotify.com/track/52sZwYRTc2UqWoARa5ejpZ"
+    },
+    {
+      "album": {
         "name": "What's Next? The Future with Bill Gates (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/72UZZ0NF7pDiCHy02Cd3fp"
       },
@@ -5787,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Nosferatu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
+      },
+      "artists": [
+        {
+          "name": "Robin Carolan",
+          "url": "https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76875,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/17XJZJIFYJrM43ueWuOlYP"
+    },
+    {
+      "album": {
         "name": "Nope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z"
       },
@@ -5798,7 +5872,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160533,
       "name": "Preparing The Trap",
       "url": "https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN"
@@ -5954,7 +6028,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/0qyssIlX3W388jWlzb6oln"
@@ -6170,7 +6244,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 314786,
       "name": "Ripples in the Sand",
       "url": "https://open.spotify.com/track/6YuwwEkKJAbFm4QlBT4Xas"
@@ -6862,7 +6936,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 102013,
       "name": "Succession - Main Title Theme",
       "url": "https://open.spotify.com/track/3jI7Yeg7a2d7BMc8CxABVM"
@@ -7216,7 +7290,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO"
@@ -7550,7 +7624,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 263483,
       "name": "The Frozen Planet - From Frozen Planet II",
       "url": "https://open.spotify.com/track/3Jqj5iGN9OeK6aTJhjKSEA"
@@ -7630,7 +7704,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 148466,
       "name": "The Humpback Whale\u2019s Miracle",
       "url": "https://open.spotify.com/track/6SwPlqCdm0zqG6l3vH24QY"
@@ -8006,7 +8080,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 240533,
       "name": "The Origin of Belief",
       "url": "https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr"
@@ -9200,7 +9274,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 69893,
       "name": "Wednesday Main Titles",
       "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
@@ -9258,7 +9332,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 68287,
       "name": "What if it was Real?",
       "url": "https://open.spotify.com/track/0lSNTyzcHe7lg1OqY52IXR"
@@ -9316,7 +9390,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 218732,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc"
@@ -9378,7 +9452,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 151918,
       "name": "World On The Move",
       "url": "https://open.spotify.com/track/4VLgTzZqAJmvYgoOgrxDz5"
@@ -9396,7 +9470,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 149060,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/5s3kCq0CzYs1lb2TPjU3MC"
@@ -9526,7 +9600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 235500,
       "name": "You Are One of Us",
       "url": "https://open.spotify.com/track/0pMuFnl4nOtuFSoC9PI0GI"

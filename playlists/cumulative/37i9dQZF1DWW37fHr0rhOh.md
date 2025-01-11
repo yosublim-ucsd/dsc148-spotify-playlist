@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: The Nelons
 
-173 songs - 10 hr 51 min
+174 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Child Of The King](https://open.spotify.com/track/4pyQY3O1OyxlEJoAftiILY) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Good Things Take Time](https://open.spotify.com/album/0NXhTioNpTw5CymYgfA3CH) | 4:00 | 2021-08-13 | 2024-07-04 |
 | [Count Your Blessings \(Instead of Sheep\)](https://open.spotify.com/track/02A8Nfnd6Th0CvjaI8wxRk) | [The Martins](https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB) | [Count Your Blessings \(Instead of Sheep\)](https://open.spotify.com/album/5KDyvyijeOS40UGel2yfSf) | 3:22 | 2024-12-11 |  |
 | [Don't You Wanna Go?](https://open.spotify.com/track/0TzF8KqMJsg6FGzoTcthOV) | [The Crabb Family](https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK) | [20 Years: Platinum Edition](https://open.spotify.com/album/1Fe5W3Vcrme8P0HH3kW4Ez) | 3:59 | 2021-08-13 | 2024-07-04 |
+| [Every Promise Made is a Promise Kept](https://open.spotify.com/track/4fD2HtT3auHHTSmVU2Qld8) | [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Promises Kept](https://open.spotify.com/album/6jq4dRNJlGQNRRadzmGN4V) | 3:03 | 2025-01-10 |  |
 | [Everybody Needs Jesus](https://open.spotify.com/track/4pMbcHvslEFVQmLEu4dTrs) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Vestal & Friends II](https://open.spotify.com/album/2zywWUBpkskUPs2cCSoj1J) | 3:15 | 2024-07-04 |  |
 | [Everything In Between](https://open.spotify.com/track/7aqTVUWZ9eqtEB4lIfXNtn) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Everything in Between](https://open.spotify.com/album/4TucSll3D3U5NGGc6b8jGf) | 2:57 | 2021-08-13 | 2024-07-04 |
 | [Faith Keeps Walking](https://open.spotify.com/track/4c2t7HyA1GzUl8UWxIjBX1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Still](https://open.spotify.com/album/3yYBYAheSocJTyNpAxo1tZ) | 3:29 | 2021-08-13 | 2024-07-04 |
@@ -151,7 +152,7 @@
 | [The Next Cloud](https://open.spotify.com/track/60AF6cEmUxjgHvmf4umlFg) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Proven Time And Time Again](https://open.spotify.com/album/3NhfvF7R8RL9BpfHozbp7i) | 3:51 | 2021-08-13 | 2024-07-04 |
 | [The People In The Line](https://open.spotify.com/track/4z6pkg3axG8p8e1oCTuzef) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [After All This Time](https://open.spotify.com/album/5s8uLbrdR1gI2U8aQqpItU) | 4:00 | 2021-08-13 | 2024-07-04 |
 | [The People in the Line](https://open.spotify.com/track/7Ks8w2NQV9sucN8FJx7K7S) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [After All This Time](https://open.spotify.com/album/1HywTPGyuyd1PnJBFx6HVy) | 4:00 | 2021-08-13 | 2024-04-19 |
-| [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 | 2024-07-04 |  |
+| [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 | 2024-07-04 | 2025-01-11 |
 | [The Sweetest Song I Know](https://open.spotify.com/track/5OuXpTv1X257gEgpRaNJTw) | [Goodman Revival](https://open.spotify.com/artist/7nUU95SpOmso0foaXXAomb) | [Songs In The Key Of Happy](https://open.spotify.com/album/2eFX9dzSqrRVOxvImS2KPQ) | 3:13 | 2021-08-13 | 2024-07-04 |
 | [There Is A Love](https://open.spotify.com/track/0Gqo3QNcrrkCXPXPTSfMN3) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/6NcCjEtZ6wakLRRKC1Kp57) | 2:51 | 2021-08-13 | 2024-04-19 |
 | [There Is A Love](https://open.spotify.com/track/5WWpf8gDtQ3gxFGLvNugz4) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/1UVoAj6uNcI387Fd4679ct) | 2:51 | 2021-08-13 | 2024-07-04 |

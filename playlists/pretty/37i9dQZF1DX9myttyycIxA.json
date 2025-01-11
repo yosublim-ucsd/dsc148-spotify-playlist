@@ -1,13 +1,61 @@
 {
-  "description": "Underground indie rock gems. Cover: Camille Schmidt",
-  "num_followers": 299163,
+  "description": "Underground indie rock gems. Cover: SPELLLING",
+  "num_followers": 299168,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/eAAAAAA1z3i4p4Uinzr/JKacEk5C",
+  "snapshot_id": "Z4CpcgAAAADwLJvz0PutOsX7a78pfkuM",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "Cradle The Pain",
+        "url": "https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C"
+      },
+      "artists": [
+        {
+          "name": "Morgan Nagler",
+          "url": "https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Cradle The Pain",
+      "url": "https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
+    },
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "outsider",
+        "url": "https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 121578,
+      "name": "outsider",
+      "url": "https://open.spotify.com/track/15hKAxyO4NjLcyVH2UeiDv"
+    },
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
@@ -41,20 +89,56 @@
       "url": "https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2025-01-10 05:00:34",
       "album": {
-        "name": "Water Water / The Drain",
-        "url": "https://open.spotify.com/album/0HcfuylTwocANaRW2I9Fre"
+        "name": "Bologna",
+        "url": "https://open.spotify.com/album/3PR12ArZ8CbnuMrFWFGNz3"
       },
       "artists": [
         {
-          "name": "The South Hill Experiment",
-          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        {
+          "name": "Fiver",
+          "url": "https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO"
         }
       ],
-      "duration_ms": 148286,
-      "name": "Water Water",
-      "url": "https://open.spotify.com/track/4zWJW5Lq7xlgXt5nWELvrf"
+      "duration_ms": 264120,
+      "name": "Bologna",
+      "url": "https://open.spotify.com/track/1lUeZctPxbFJWysc8w9aha"
+    },
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/2n1DVJVWUsZeeVIpmRcpI7"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/07kDDE5Oq1qPkvH5LA2zQP"
+    },
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "Missing Lluna",
+        "url": "https://open.spotify.com/album/00up885RYfaORUzqxywQCN"
+      },
+      "artists": [
+        {
+          "name": "Eterna",
+          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+      ],
+      "duration_ms": 231952,
+      "name": "Missing Lluna",
+      "url": "https://open.spotify.com/track/3I0EmLwPAXKmHhgJw2Ab0x"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -73,6 +157,22 @@
       "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Water Water / The Drain",
+        "url": "https://open.spotify.com/album/0HcfuylTwocANaRW2I9Fre"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        }
+      ],
+      "duration_ms": 148286,
+      "name": "Water Water",
+      "url": "https://open.spotify.com/track/4zWJW5Lq7xlgXt5nWELvrf"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Capital C",
@@ -87,6 +187,26 @@
       "duration_ms": 259400,
       "name": "Capital C",
       "url": "https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy"
+    },
+    {
+      "added_at": "2025-01-10 05:00:34",
+      "album": {
+        "name": "Swamp Dream #3",
+        "url": "https://open.spotify.com/album/22DkUZFRY0EV5npieYC7CC"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 269276,
+      "name": "Swamp Dream #3",
+      "url": "https://open.spotify.com/track/1FIA1xt2eYznjHnQaqQdKA"
     },
     {
       "added_at": "2024-12-06 05:00:00",

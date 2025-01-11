@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-426 songs - 23 hr 26 min
+427 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 | 2023-11-29 | 2024-01-26 |
 | [Haaru Nee Gari Bichi](https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q) | [Haaru Nee Gari Bichi](https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL) | 3:23 | 2024-07-15 |  |
 | [Habbakke](https://open.spotify.com/track/45FiwMFdaiSaXn13jtDwek) | [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH), [Manuality](https://open.spotify.com/artist/6Q8XSTr4UeceKl7unRYKS1), [Joel Sakkari](https://open.spotify.com/artist/5czzvCflTYTFwFiF5Lj6WO) | [Habbakke](https://open.spotify.com/album/5Qyu0KTmL4lE1BRIwc6GlA) | 4:28 | 2024-07-29 |  |
-| [HANA](https://open.spotify.com/track/2cTG4S1RMSXoOszO0CHL0j) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx), [Prithvi Prem Kumar](https://open.spotify.com/artist/61frj1a2Wo6u5TkB74dcfE) | [HANA](https://open.spotify.com/album/2IEzNwgoTqOdU1ulm3R364) | 3:20 | 2024-07-05 |  |
+| [HANA](https://open.spotify.com/track/2cTG4S1RMSXoOszO0CHL0j) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx), [Prithvi Prem Kumar](https://open.spotify.com/artist/61frj1a2Wo6u5TkB74dcfE) | [HANA](https://open.spotify.com/album/2IEzNwgoTqOdU1ulm3R364) | 3:20 | 2024-07-05 | 2025-01-11 |
 | [HANTHAKA](https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [HANTHAKA](https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX) | 2:34 | 2024-06-11 | 2024-11-27 |
 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 | 2024-06-11 | 2024-12-20 |
 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 | 2023-03-06 | 2023-10-07 |
@@ -381,6 +381,7 @@
 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 | 2024-03-05 |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
 | [Saniha](https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Saniha](https://open.spotify.com/album/1jG0j98LGR6d1QX8K7J3B8) | 3:36 | 2024-07-14 |  |
+| [Sanji Munda Baara](https://open.spotify.com/track/1FRlkyYRCXNq4EuwYCFV5D) | [sharan](https://open.spotify.com/artist/6mOEdEWobe3buWI9yFv6oF), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Manju Kavi](https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q) | [Sanji Munda Baara](https://open.spotify.com/album/1IC8An5qcYEmOb2ROtPhjq) | 4:09 | 2025-01-10 |  |
 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 | 2024-08-23 |
 | [Sarvasva](https://open.spotify.com/track/6LwQiE4cRBM4YJg2nXYX6I) | [Chetan Rao](https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P), [Arjun Kishor Chandra](https://open.spotify.com/artist/6mLU8wT3dCJP64BDTq0p4W) | [Sarvasva](https://open.spotify.com/album/34reXacrMBY1Us6Fxr9WGm) | 4:04 | 2024-09-23 |  |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 | 2024-05-14 |

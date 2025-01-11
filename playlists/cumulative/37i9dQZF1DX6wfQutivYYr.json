@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 205354,
       "name": "ALTROVE",
       "url": "https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J"
@@ -1790,6 +1790,28 @@
       "duration_ms": 214588,
       "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
       "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
+    },
+    {
+      "album": {
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Oh Mamma Mia (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
     },
     {
       "album": {

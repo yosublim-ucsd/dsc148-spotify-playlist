@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Anxious",
-  "num_followers": 459834,
+  "num_followers": 459867,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "better than this",
+        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "better than this",
+      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 205159,
       "name": "High Stakes",
       "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "better than this",
-        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "better than this",
-      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1PEGf8YJnr7wSxkISJvkvf"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6vb6dZnI78LNQpLIPXtSxE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Machines",
         "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 246798,
       "name": "Machines",
       "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1PEGf8YJnr7wSxkISJvkvf"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6vb6dZnI78LNQpLIPXtSxE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Kept Me Alive",
-        "url": "https://open.spotify.com/album/5LxODVOGMuaLrep0RAGmWs"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "Kept Me Alive",
-      "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 162342,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Kept Me Alive",
+        "url": "https://open.spotify.com/album/5LxODVOGMuaLrep0RAGmWs"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Kept Me Alive",
+      "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "My Life In Subtitles",
-        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
       },
       "artists": [
         {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Can We Just Get High?",
-      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Application For Release From The Dream",
-        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 269721,
-      "name": "Application For Release From The Dream",
-      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "I Think It's Time",
-        "url": "https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "I Think It's Time",
-      "url": "https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "1800-PAINLESS",
         "url": "https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 203076,
       "name": "1800-PAINLESS",
       "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I Think It's Time",
+        "url": "https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "I Think It's Time",
+      "url": "https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
+      },
+      "artists": [
+        {
+          "name": "Brooklane",
+          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
+        }
+      ],
+      "duration_ms": 157376,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "nosebleeder",
         "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
       },
@@ -1707,6 +1723,22 @@
       "duration_ms": 133256,
       "name": "blame me for everything",
       "url": "https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1731,38 +1763,6 @@
       "duration_ms": 174380,
       "name": "Parting Gift (feat. Brendan Kelly)",
       "url": "https://open.spotify.com/track/0rjhfek5AvNObnLaiIemtf"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
-      },
-      "artists": [
-        {
-          "name": "Brooklane",
-          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
-        }
-      ],
-      "duration_ms": 157376,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "When We Were Young",
-        "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        },
-        {
-          "name": "Derek Sanders",
-          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Halloween Mixtape II",
         "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 191539,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        },
+        {
+          "name": "Derek Sanders",
+          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "The Cleanest of Houses Are Empty",
+        "url": "https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "duration_ms": 157743,
+      "name": "Fluff My Pillow",
+      "url": "https://open.spotify.com/track/6DtCHReL8JYBHX48vDagr2"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Dr. Frankenstein",
         "url": "https://open.spotify.com/album/0wMNRUO4RFJqYpYRPIcM98"
       },
@@ -2103,18 +2119,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "The Cleanest of Houses Are Empty",
-        "url": "https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI"
+        "name": "There Are Worse Things Than Being Alive",
+        "url": "https://open.spotify.com/album/7dqcKOZKfL0P4HzxNTdHFT"
       },
       "artists": [
         {
-          "name": "Carly Cosgrove",
-          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
         }
       ],
-      "duration_ms": 157743,
-      "name": "Fluff My Pillow",
-      "url": "https://open.spotify.com/track/6DtCHReL8JYBHX48vDagr2"
+      "duration_ms": 181173,
+      "name": "Say So Long",
+      "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2131,22 +2147,6 @@
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "There Are Worse Things Than Being Alive",
-        "url": "https://open.spotify.com/album/7dqcKOZKfL0P4HzxNTdHFT"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Say So Long",
-      "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
     },
     {
       "added_at": "2024-12-06 05:00:00",

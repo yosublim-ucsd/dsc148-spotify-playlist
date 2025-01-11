@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 495618,
+  "num_followers": 495662,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Richa",
-        "url": "https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu"
+        "name": "Talking Like That",
+        "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Avi Snow",
-          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
-        },
-        {
-          "name": "Tamir Regev",
-          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 242540,
-      "name": "Richa",
-      "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
+      "duration_ms": 231014,
+      "name": "Talking Like That",
+      "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -827,22 +819,30 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Talking Like That",
-        "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
+        "name": "Richa",
+        "url": "https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 231014,
-      "name": "Talking Like That",
-      "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
+      "duration_ms": 242540,
+      "name": "Richa",
+      "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 152322,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
         "name": "Calling / Like A Train",
         "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 192191,
       "name": "Calling",
       "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 152322,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
     }
   ],
   "unique_name": "Ibiza Sunset",

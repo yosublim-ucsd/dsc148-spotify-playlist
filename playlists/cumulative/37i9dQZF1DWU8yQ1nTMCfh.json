@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Dientes rotos",
+        "url": "https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "Dientes rotos",
+      "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
+    },
+    {
+      "album": {
         "name": "Dime Qu\u00e9 Pas\u00f3",
         "url": "https://open.spotify.com/album/0oEiIxzRvUDBbwfhMVMFYx"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 178142,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 220318,
       "name": "La Era Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja"
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 214556,
       "name": "Las Olas",
       "url": "https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF"
@@ -2656,7 +2678,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192000,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/31QRagEpAiKv5L4t74pWgn"
@@ -2804,7 +2826,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 193984,
       "name": "Los 90",
       "url": "https://open.spotify.com/track/2BYV6Cv4VtgxObWMynyrdf"
@@ -5814,7 +5836,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 186250,
       "name": "VOLVER A CERO",
       "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"

@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Marcin Maciejczak",
-  "num_followers": 20968,
+  "num_followers": 20971,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 106300,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "przypadkiem",
         "url": "https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 183881,
       "name": "przypadkiem",
       "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 106300,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "jeste\u015b g\u0142upi",
-        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 158692,
-      "name": "jeste\u015b g\u0142upi",
-      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Ostatnia piosenka o Tobie",
         "url": "https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 154462,
       "name": "taki nawyk",
       "url": "https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "jeste\u015b g\u0142upi",
+        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 158692,
+      "name": "jeste\u015b g\u0142upi",
+      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Znak",
-        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Znak",
-      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Wracam do siebie",
         "url": "https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 178947,
       "name": "Tak jak ja",
       "url": "https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Znak",
+        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Znak",
+      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "w\u0142asnym",
-        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "w\u0142asnym",
-      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "jak mam",
         "url": "https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 134359,
       "name": "jak mam",
       "url": "https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "w\u0142asnym",
+        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "w\u0142asnym",
+      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "zn\u00f3w patrzysz tak",
-        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
-      },
-      "artists": [
-        {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "zn\u00f3w patrzysz tak",
-      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "BLUZA",
         "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "zn\u00f3w patrzysz tak",
+        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "zn\u00f3w patrzysz tak",
+      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Bajka",
         "url": "https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 149161,
       "name": "Bajka",
       "url": "https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "zapomnia\u0142em wyda\u0107 w lipcu",
+        "url": "https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64"
+      },
+      "artists": [
+        {
+          "name": "Kacper Garncarz",
+          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
+        }
+      ],
+      "duration_ms": 173726,
+      "name": "zapomnia\u0142em wyda\u0107 w lipcu",
+      "url": "https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1263,22 +1279,6 @@
       "duration_ms": 203998,
       "name": "OMG",
       "url": "https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "zapomnia\u0142em wyda\u0107 w lipcu",
-        "url": "https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64"
-      },
-      "artists": [
-        {
-          "name": "Kacper Garncarz",
-          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
-        }
-      ],
-      "duration_ms": 173726,
-      "name": "zapomnia\u0142em wyda\u0107 w lipcu",
-      "url": "https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Narkotyk",
-        "url": "https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ"
-      },
-      "artists": [
-        {
-          "name": "PHERO",
-          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
-        }
-      ],
-      "duration_ms": 127407,
-      "name": "Narkotyk",
-      "url": "https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Polec\u0119 do gwiazd",
         "url": "https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 144960,
       "name": "Polec\u0119 do gwiazd",
       "url": "https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Narkotyk",
+        "url": "https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "duration_ms": 127407,
+      "name": "Narkotyk",
+      "url": "https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Za daleko",
-        "url": "https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x"
-      },
-      "artists": [
-        {
-          "name": "Klaudia Kowalik",
-          "url": "https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj"
-        }
-      ],
-      "duration_ms": 201739,
-      "name": "Za daleko",
-      "url": "https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "I like that",
         "url": "https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 135978,
       "name": "I like that",
       "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Za daleko",
+        "url": "https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x"
+      },
+      "artists": [
+        {
+          "name": "Klaudia Kowalik",
+          "url": "https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj"
+        }
+      ],
+      "duration_ms": 201739,
+      "name": "Za daleko",
+      "url": "https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ"
     },
     {
       "added_at": "2025-01-09 23:00:19",

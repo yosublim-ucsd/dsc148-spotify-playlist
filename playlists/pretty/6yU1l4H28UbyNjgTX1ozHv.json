@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9041,
+  "num_followers": 9042,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAFGcph9tPvNNBwmuW4wO1hNSjbLNRL",
+  "snapshot_id": "AAAFG9f89sjza52YTTUXpfTvz12Q7kQ4",
   "tracks": [
     {
       "added_at": "2024-07-26 20:16:22",
@@ -91,6 +91,26 @@
       "duration_ms": 143706,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
+    },
+    {
+      "added_at": "2025-01-10 20:04:03",
+      "album": {
+        "name": "Time After Time (Acoustic)",
+        "url": "https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        },
+        {
+          "name": "Kyson Facer",
+          "url": "https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30"
+        }
+      ],
+      "duration_ms": 184815,
+      "name": "Time After Time - Acoustic",
+      "url": "https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB"
     },
     {
       "added_at": "2024-09-06 19:00:42",
@@ -627,6 +647,22 @@
       "duration_ms": 233280,
       "name": "Hey There Delilah - Bonus Track",
       "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN"
+    },
+    {
+      "added_at": "2025-01-10 20:29:29",
+      "album": {
+        "name": "Against All Odds (Acoustic)",
+        "url": "https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "duration_ms": 197395,
+      "name": "Against All Odds - Acoustic",
+      "url": "https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe"
     },
     {
       "added_at": "2023-12-15 05:59:36",

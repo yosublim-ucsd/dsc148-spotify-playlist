@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "All the New Joints featuring Lil Baby,  The Alchemist, BAK Jay and more!",
+  "description": "All the New Joints featuring Mac Miller, Lil Baby,  Rod Wave and more!",
   "name": "New Joints",
   "tracks": [
     {
@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "cupid",
+        "url": "https://open.spotify.com/album/5DmIgNTkiwzv9aAfmqfKji"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144057,
+      "name": "3STAR",
+      "url": "https://open.spotify.com/track/4wfqTB8kAofP7YyFd8xiBB"
+    },
+    {
+      "album": {
         "name": "4 Deep",
         "url": "https://open.spotify.com/album/1sD6sVDhxpwyyAZvgALy1S"
       },
@@ -3092,6 +3110,24 @@
       "duration_ms": 236129,
       "name": "5 Days (with Denzel Curry & Meechy Darko)",
       "url": "https://open.spotify.com/track/2fGSABC7x5RCoDYWvFo7hY"
+    },
+    {
+      "album": {
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
     },
     {
       "album": {
@@ -3957,6 +3993,28 @@
     },
     {
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "99 (with Future)",
+      "url": "https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH"
+    },
+    {
+      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/4sbEtCeq0kWRNUYYy9ifAl"
       },
@@ -4194,7 +4252,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 90408,
       "name": "ABC",
       "url": "https://open.spotify.com/track/1LISI0BBTAK4wjQTMkqzOe"
@@ -17855,6 +17913,28 @@
     },
     {
       "album": {
+        "name": "Bout My Money (feat. Bossman Dlow)",
+        "url": "https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191865,
+      "name": "Bout My Money (feat. Bossman Dlow)",
+      "url": "https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX"
+    },
+    {
+      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
       },
@@ -18164,7 +18244,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 106105,
       "name": "Brand New Whip",
       "url": "https://open.spotify.com/track/3UYs6ICuDQ68wep3vlaqcl"
@@ -28624,7 +28704,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 114905,
       "name": "DEADASS",
       "url": "https://open.spotify.com/track/2v729TfRh0M6ehIymBLADW"
@@ -29124,7 +29204,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 133582,
       "name": "DELULU",
       "url": "https://open.spotify.com/track/5rY0Auy73dumyXnLoqZT6b"
@@ -37324,7 +37404,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 132714,
       "name": "Factory",
       "url": "https://open.spotify.com/track/4h9cOhgUjpXeSCj7SylYqt"
@@ -37812,7 +37892,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 86563,
       "name": "fan mail",
       "url": "https://open.spotify.com/track/73WzXkIlLGRozIFNFIR7DZ"
@@ -38416,7 +38496,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 138004,
       "name": "Fed Kicked",
       "url": "https://open.spotify.com/track/0Kc00FTWuRxzKNsOvxyk7i"
@@ -39596,7 +39676,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 164210,
       "name": "First",
       "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
@@ -47168,7 +47248,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 250886,
       "name": "Gone 2024",
       "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
@@ -49527,6 +49607,24 @@
     },
     {
       "album": {
+        "name": "Half a Ticket",
+        "url": "https://open.spotify.com/album/5KBU8NC2uAmyDPT6AT56WF"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198366,
+      "name": "Half a Ticket",
+      "url": "https://open.spotify.com/track/71NLZXDngorhA27s5qSXpG"
+    },
+    {
+      "album": {
         "name": "BlakkBoyz present Half Doin Dope/Van Gogh",
         "url": "https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc"
       },
@@ -51204,6 +51302,24 @@
     {
       "album": {
         "name": "Heat",
+        "url": "https://open.spotify.com/album/6Ek01uAVVrcmxor5QWu4yX"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126314,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/4DQgYo1trx8Pjb8PHymzdH"
+    },
+    {
+      "album": {
+        "name": "Heat",
         "url": "https://open.spotify.com/album/5JG6aaUCpKsnRpWf5zLXsv"
       },
       "artists": [
@@ -52396,6 +52512,24 @@
       "duration_ms": 209454,
       "name": "high kick",
       "url": "https://open.spotify.com/track/4CfRF1iIZXnXe0gi0RSgnU"
+    },
+    {
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/6jOW1tM2PKwmEj9i361Vgj"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/1xW99BWW5aTxZXkcp7ofT3"
     },
     {
       "album": {
@@ -66459,6 +66593,24 @@
     },
     {
       "album": {
+        "name": "Letter To Fam",
+        "url": "https://open.spotify.com/album/5r849SBlYdbG94qdK62yGk"
+      },
+      "artists": [
+        {
+          "name": "Screwly G",
+          "url": "https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "Letter To Fam",
+      "url": "https://open.spotify.com/track/0lsoE0xaGiiNOg2Ihbb0JJ"
+    },
+    {
+      "album": {
         "name": "Letter to Fam",
         "url": "https://open.spotify.com/album/53Y6vMPJVvbOQmmpQFKXXf"
       },
@@ -73676,7 +73828,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 128000,
       "name": "MILITANT",
       "url": "https://open.spotify.com/track/2uUTuPVCQq8jmpPCmFGkGJ"
@@ -74564,6 +74716,24 @@
       "duration_ms": 170710,
       "name": "MMY Freestyle",
       "url": "https://open.spotify.com/track/6cT6Qvq4eWtSlw7hsSjWOz"
+    },
+    {
+      "album": {
+        "name": "Life Of A Zootieee",
+        "url": "https://open.spotify.com/album/5ClRtHaGogVbMC50hgslxl"
+      },
+      "artists": [
+        {
+          "name": "El Snappo",
+          "url": "https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132883,
+      "name": "Mo Problems",
+      "url": "https://open.spotify.com/track/6VXjw1Unrc6ZgSZlnQ7A55"
     },
     {
       "album": {
@@ -77308,6 +77478,32 @@
       "duration_ms": 126078,
       "name": "My Life",
       "url": "https://open.spotify.com/track/3cQoYpblffkdYEOQbeIzfX"
+    },
+    {
+      "album": {
+        "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+        "url": "https://open.spotify.com/album/3G8qXEDKJI9MGdanP7FuMX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "My Love (feat. Veeze & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/10MpbqJvhf6Lqi7YaFFra9"
     },
     {
       "album": {
@@ -82232,7 +82428,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 110769,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT"
@@ -83403,6 +83599,24 @@
     },
     {
       "album": {
+        "name": "RIO FREE",
+        "url": "https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166152,
+      "name": "OFF-RAP",
+      "url": "https://open.spotify.com/track/5ZVEybUCvawEzpYz8ovuQw"
+    },
+    {
+      "album": {
         "name": "Off-White Lumberjack",
         "url": "https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4"
       },
@@ -84332,7 +84546,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160056,
       "name": "On Fleek",
       "url": "https://open.spotify.com/track/4CesVPUs4A0HupD0EAhujk"
@@ -96909,6 +97123,24 @@
     },
     {
       "album": {
+        "name": "Red Rims",
+        "url": "https://open.spotify.com/album/6Diq15Po4HNcdNwwOf9JBA"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153134,
+      "name": "Red Rims",
+      "url": "https://open.spotify.com/track/1rKqiXfu0wcp6Dfcz7ZWk2"
+    },
+    {
+      "album": {
         "name": "Memoirs In Armour",
         "url": "https://open.spotify.com/album/4HgkXIyPXtXueFq7swBqXa"
       },
@@ -99152,6 +99384,24 @@
       "duration_ms": 187317,
       "name": "Robbie Anderson (with Rob49)",
       "url": "https://open.spotify.com/track/7qNvR3FZvxnB1cdKMqz2Xu"
+    },
+    {
+      "album": {
+        "name": "The One Who Did",
+        "url": "https://open.spotify.com/album/3htiSyFe02URVZKvHRRley"
+      },
+      "artists": [
+        {
+          "name": "Drexthejoint",
+          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145425,
+      "name": "Robbin",
+      "url": "https://open.spotify.com/track/6Gqu6QOwMAnLsRc35YE9NH"
     },
     {
       "album": {
@@ -103030,6 +103280,24 @@
       "duration_ms": 105577,
       "name": "Sega",
       "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
+    },
+    {
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/5685DJYcwsH01tMwSkxsYh"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Selena",
+      "url": "https://open.spotify.com/track/37SR66nUcBynhOqSmZx3Xt"
     },
     {
       "album": {
@@ -119530,7 +119798,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 101566,
       "name": "They Forgot",
       "url": "https://open.spotify.com/track/7449XmCL1nh2nV9si7GkZk"
@@ -119952,7 +120220,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 122327,
       "name": "This Sh!T Still in Harlem",
       "url": "https://open.spotify.com/track/7BuxLux3Mn2z0Fl58RxCKU"
@@ -120232,7 +120500,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 173565,
       "name": "Throw (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
@@ -120604,6 +120872,24 @@
       "duration_ms": 169065,
       "name": "thursday! (feat. KYLE & Guapdad 4000)",
       "url": "https://open.spotify.com/track/16qQoIscY9N927DHbFHfIU"
+    },
+    {
+      "album": {
+        "name": "Tic Tic",
+        "url": "https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92344,
+      "name": "Tic Tic",
+      "url": "https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq"
     },
     {
       "album": {
@@ -129218,6 +129504,24 @@
       "duration_ms": 172094,
       "name": "Westside",
       "url": "https://open.spotify.com/track/3nq2cL2BPD5WXjp8Q4XiPS"
+    },
+    {
+      "album": {
+        "name": "Westside Connection",
+        "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Westside Connection",
+      "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
     },
     {
       "album": {

@@ -11305,6 +11305,24 @@
     },
     {
       "album": {
+        "name": "Ci\u00f2 che resta",
+        "url": "https://open.spotify.com/album/5RuzNnln3tzFu27K813mfq"
+      },
+      "artists": [
+        {
+          "name": "Bislers",
+          "url": "https://open.spotify.com/artist/7sWyzJUC2CUF6lwBR3JhVA"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114619,
+      "name": "La sindrome del coglione",
+      "url": "https://open.spotify.com/track/5fBGmnIsKhMAIn9F2byAsj"
+    },
+    {
+      "album": {
         "name": "La sola concreta realt\u00e0",
         "url": "https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX"
       },

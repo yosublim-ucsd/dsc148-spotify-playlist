@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: SAILORR",
+  "description": "Illuminating Asian artists everywhere.  Cover: Japanese Breakfast",
   "name": "Jasmine",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 171688,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/46Vo3Oxtc4aV4y1yf6ZTrt"
@@ -1500,6 +1500,24 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
     },
     {
       "album": {
@@ -9298,7 +9316,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 194172,
       "name": "LEFT OF ME",
       "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
@@ -10807,6 +10825,24 @@
     },
     {
       "album": {
+        "name": "Millie's Mom",
+        "url": "https://open.spotify.com/album/5eckkMQ5pAQXESTPmT2NU3"
+      },
+      "artists": [
+        {
+          "name": "Andy Yu",
+          "url": "https://open.spotify.com/artist/52IS4Dmu2WN4hImMbc2Naz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Millie's Mom",
+      "url": "https://open.spotify.com/track/6hQrbzXfWp9pwDcQfcEmTf"
+    },
+    {
+      "album": {
         "name": "Million Billion Trillion",
         "url": "https://open.spotify.com/album/4KLGFwlKcIoBiJDGNxPwh1"
       },
@@ -11122,7 +11158,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 167041,
       "name": "MOST WANTED MAN",
       "url": "https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7"
@@ -11760,7 +11796,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 205240,
       "name": "old fashioned christmas",
       "url": "https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg"
@@ -12054,6 +12090,24 @@
       "duration_ms": 186464,
       "name": "ORANGE LAMPSHADE",
       "url": "https://open.spotify.com/track/0Rp8nweSZPLKnBagHAwZNJ"
+    },
+    {
+      "album": {
+        "name": "Orlando in Love",
+        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Orlando in Love",
+      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
       "album": {
@@ -17878,6 +17932,24 @@
       "duration_ms": 256000,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI"
+    },
+    {
+      "album": {
+        "name": "What Do Girls Do?",
+        "url": "https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166755,
+      "name": "What Do Girls Do?",
+      "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"
     },
     {
       "album": {

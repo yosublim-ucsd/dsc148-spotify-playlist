@@ -1477,7 +1477,7 @@
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 258441,
+      "duration_ms": 259265,
       "name": "Doing Of The Lord",
       "url": "https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY"
     },
@@ -4239,6 +4239,32 @@
     },
     {
       "album": {
+        "name": "Never Fail",
+        "url": "https://open.spotify.com/album/6sQAw77gKkQrLhbHLMV4PM"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Domnik",
+          "url": "https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162455,
+      "name": "Never Fail",
+      "url": "https://open.spotify.com/track/2R8U68o5C78oyhbaLNkHaZ"
+    },
+    {
+      "album": {
         "name": "REDEEMED",
         "url": "https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S"
       },
@@ -5876,7 +5902,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"

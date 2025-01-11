@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30cf\u30af\u3002",
-  "num_followers": 16977,
+  "num_followers": 17016,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
-        "url": "https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf"
-      },
-      "artists": [
-        {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
-        }
-      ],
-      "duration_ms": 172305,
-      "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
-      "url": "https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
         "name": "\u663c\u4e0b\u304c\u308a\u306e\u661f\u3001\u7d9a\u304f\u65c5\u8def",
         "url": "https://open.spotify.com/album/7xRT0o3mBMKLdQ02vRJv07"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
+        "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf"
       },
       "artists": [
         {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
         }
       ],
-      "duration_ms": 212783,
-      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
+      "duration_ms": 172305,
+      "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -727,6 +711,22 @@
       "duration_ms": 169491,
       "name": "My Way",
       "url": "https://open.spotify.com/track/2xUsIWnfQyforCmrmC3gn3"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
+        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
+        "name": "Lunch Box",
+        "url": "https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf"
+      },
+      "artists": [
+        {
+          "name": "KUZIRA",
+          "url": "https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV"
+        }
+      ],
+      "duration_ms": 78465,
+      "name": "Lunch Box",
+      "url": "https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
         "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
         "url": "https://open.spotify.com/album/2UNqIk9W4FWvE4e8pUvWcu"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 64348,
       "name": "Week\uff01",
       "url": "https://open.spotify.com/track/1Mbc9LoJTXSimwXLo2Awdm"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
-        "name": "Lunch Box",
-        "url": "https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf"
-      },
-      "artists": [
-        {
-          "name": "KUZIRA",
-          "url": "https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV"
-        }
-      ],
-      "duration_ms": 78465,
-      "name": "Lunch Box",
-      "url": "https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
+        "name": "\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30e9\u30d6\u30e6\u30fc E.P.",
+        "url": "https://open.spotify.com/album/3YYe5r2XUyAYVcI9UC0fXo"
+      },
+      "artists": [
+        {
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "\u5026\u6020\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+      "url": "https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
         "name": "\u30eb\u30d3\u3092\u632f\u308c",
         "url": "https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS"
       },
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "3036",
-        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
-      },
-      "artists": [
-        {
-          "name": "Hump Back",
-          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
-        }
-      ],
-      "duration_ms": 70110,
-      "name": "3036",
-      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
-        "name": "\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30e9\u30d6\u30e6\u30fc E.P.",
-        "url": "https://open.spotify.com/album/3YYe5r2XUyAYVcI9UC0fXo"
-      },
-      "artists": [
-        {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "\u5026\u6020\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-      "url": "https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4r9kTQXkHYolHE2QjcAhSV"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 207065,
       "name": "\u98a8\u8239",
       "url": "https://open.spotify.com/track/4S6WOlZQdqCY9jV6zNvodB"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
+        "name": "3036",
+        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
+      },
+      "artists": [
+        {
+          "name": "Hump Back",
+          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
+        }
+      ],
+      "duration_ms": 70110,
+      "name": "3036",
+      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 157889,
-      "name": "Ebi Fry",
-      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
         "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/3ufCqe2AkWlLQblHmjMaMH"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 157889,
+      "name": "Ebi Fry",
+      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1QaRQKrmKIMfcX5Yxpicen"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 304565,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7p06kfM1f4o0fbiv0vgrCJ"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
-        "name": "LONG WEEKEND",
-        "url": "https://open.spotify.com/album/4dcZ1FFq0hejwt39iFGFu5"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 239433,
-      "name": "LONG WEEKEND",
-      "url": "https://open.spotify.com/track/07If2F0WJe7v6pRDOT407x"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
+        "name": "LONG WEEKEND",
+        "url": "https://open.spotify.com/album/4dcZ1FFq0hejwt39iFGFu5"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 239433,
+      "name": "LONG WEEKEND",
+      "url": "https://open.spotify.com/track/07If2F0WJe7v6pRDOT407x"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
         "name": "\u30b8\u30aa\u30e1\u30c8\u30ea\u30c3\u30af / and goodbye",
         "url": "https://open.spotify.com/album/3m5kqS9jeEo7YAqm5H2qXe"
       },
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/6qdUoT7zFNa9Bm61KkaJsP"
+        "name": "\u6c37\u83d3",
+        "url": "https://open.spotify.com/album/4sT2HUhA1JAmkiwjDLjJ3B"
       },
       "artists": [
         {
-          "name": "Apes",
-          "url": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
+          "name": "anewhite",
+          "url": "https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM"
         }
       ],
-      "duration_ms": 237506,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/2ROiYQ33VD3PcLfeGo31dx"
+      "duration_ms": 228683,
+      "name": "\u6c37\u83d3",
+      "url": "https://open.spotify.com/track/5zxfF3BIZvwzxq7jtl3kDu"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "\u6c37\u83d3",
-        "url": "https://open.spotify.com/album/4sT2HUhA1JAmkiwjDLjJ3B"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/6qdUoT7zFNa9Bm61KkaJsP"
       },
       "artists": [
         {
-          "name": "anewhite",
-          "url": "https://open.spotify.com/artist/1t3Ztvll4l7XhrpkePZKfM"
+          "name": "Apes",
+          "url": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
         }
       ],
-      "duration_ms": 228683,
-      "name": "\u6c37\u83d3",
-      "url": "https://open.spotify.com/track/5zxfF3BIZvwzxq7jtl3kDu"
+      "duration_ms": 237506,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2ROiYQ33VD3PcLfeGo31dx"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
+        "name": "caffeine",
+        "url": "https://open.spotify.com/album/01POmNby9TUceHjE7szVVE"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u7720\u65c5\u884c",
+          "url": "https://open.spotify.com/artist/7GgnNRjBrWIBC9rDzxLBwm"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "caffeine",
+      "url": "https://open.spotify.com/track/3EPHO38noF6taQqdugjQRr"
+    },
+    {
+      "added_at": "2025-01-09 07:00:09",
+      "album": {
         "name": "Tales of the Night",
         "url": "https://open.spotify.com/album/7qlCw6DMMLAJchFfTFjXDe"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 284096,
       "name": "\u7121\u77e5",
       "url": "https://open.spotify.com/track/2hQc0EMN09moXr3YWkNdKq"
-    },
-    {
-      "added_at": "2025-01-09 07:00:09",
-      "album": {
-        "name": "caffeine",
-        "url": "https://open.spotify.com/album/01POmNby9TUceHjE7szVVE"
-      },
-      "artists": [
-        {
-          "name": "\u4e0d\u7720\u65c5\u884c",
-          "url": "https://open.spotify.com/artist/7GgnNRjBrWIBC9rDzxLBwm"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "caffeine",
-      "url": "https://open.spotify.com/track/3EPHO38noF6taQqdugjQRr"
     },
     {
       "added_at": "2025-01-09 07:00:09",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-01-09 07:00:09",
       "album": {
-        "name": "\u8e74\u308a\u98db\u3070\u3057\u3066",
-        "url": "https://open.spotify.com/album/3DyRkS3SgnG6rDaru0rduM"
+        "name": "\u3055\u3055\u304f\u308c\u30cf\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/218LciIuZcqjaN6arceqcn"
       },
       "artists": [
         {
-          "name": "\u660e\u304f\u308b\u591c\u306e\u7f8a",
-          "url": "https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi"
+          "name": "\u30df\u30fc\u30de\u30a4\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo"
         }
       ],
-      "duration_ms": 239690,
-      "name": "\u8e74\u308a\u98db\u3070\u3057\u3066",
-      "url": "https://open.spotify.com/track/3cMORKPiDvJO2lj6bxtHem"
+      "duration_ms": 242769,
+      "name": "\u3055\u3055\u304f\u308c\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0MXnSA8i8toQeitDWhC3Oi"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

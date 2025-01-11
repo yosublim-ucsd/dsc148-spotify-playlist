@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Tiago PZK & Grupo Frontera",
+  "description": "Lo nuevo del mundo tropical. Cover: Jonathan Moly",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 229040,
       "name": "Bajo la Luna",
       "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185646,
       "name": "Dame un Poquito",
       "url": "https://open.spotify.com/track/67fRE3sQufaP4tARN79os6"
@@ -3513,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/6ZhcIQyuyuPXZTyeN6Jaro"
+      },
+      "artists": [
+        {
+          "name": "HeyBroders",
+          "url": "https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203499,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/6Gm9Myvv1jzAKBRXJjRJFR"
+    },
+    {
+      "album": {
         "name": "Encaprichao",
         "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
       },
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 168459,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
@@ -4108,7 +4126,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 255015,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/6TbJeSwYR9cIacBYLonlr3"
@@ -4736,7 +4754,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 181360,
       "name": "La Chancleta",
       "url": "https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz"
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 226539,
       "name": "La Salsa No Morir\u00e1",
       "url": "https://open.spotify.com/track/43OLMu6IYEpIpmHUUHw8MR"
@@ -6088,6 +6106,24 @@
       "duration_ms": 216760,
       "name": "Me Descontrola",
       "url": "https://open.spotify.com/track/34flp1Hbl6EkI6fudYKiHS"
+    },
+    {
+      "album": {
+        "name": "Me Enamore de Ti, y Que?",
+        "url": "https://open.spotify.com/album/6dhD9Na2qZDlMqCAdnhXNg"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Me Enamore de Ti, y Que?",
+      "url": "https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd"
     },
     {
       "album": {
@@ -7876,7 +7912,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160875,
       "name": "Piel - Remix",
       "url": "https://open.spotify.com/track/4jx34s3THTBcvIQ3mF27Df"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 219992,
       "name": "Por Mala",
       "url": "https://open.spotify.com/track/0HyLFT1hrUHijlXG7D7WjX"
@@ -8194,6 +8230,28 @@
       "duration_ms": 225459,
       "name": "P\u00e1same la Botella",
       "url": "https://open.spotify.com/track/0o6RpUevYIYYSiANL7SJZJ"
+    },
+    {
+      "album": {
+        "name": "Intro - QNPLC",
+        "url": "https://open.spotify.com/album/6GCqjkL9Qqdc0Y5RT8v1ze"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Tropikal Forever",
+          "url": "https://open.spotify.com/artist/1dZ8JzGzmLl5KwEX3rOTc4"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232517,
+      "name": "QNPLC",
+      "url": "https://open.spotify.com/track/7Jgxih7d1sSv5FQHp23vqV"
     },
     {
       "album": {
@@ -8538,7 +8596,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 244384,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/2n6oqxfxh5TrXVyymnoWnl"
@@ -8702,7 +8760,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196000,
       "name": "REPETIMOS",
       "url": "https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh"
@@ -8900,7 +8958,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 214148,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/5sNZI3pcnW4amdNlKqIx6R"
@@ -9856,7 +9914,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 284270,
       "name": "Te Buscar\u00e9",
       "url": "https://open.spotify.com/track/5K0CnXCbQSGtxx6mGwPx9Y"
@@ -10110,7 +10168,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 176294,
       "name": "TU FEO",
       "url": "https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39"
@@ -11048,6 +11106,28 @@
       "duration_ms": 242826,
       "name": "Y Si Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2B7U2WjGES5tANhnqMhi1q"
+    },
+    {
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/4sSGKyUasnz00ys394IZeR"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "Sandronyc",
+          "url": "https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168115,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/54G1IvYJQLPNlKEMxF3Kwn"
     },
     {
       "album": {

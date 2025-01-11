@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "What If...?: Season 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4geSYB18nEYbUOqGz96xMu"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111733,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/2BQu4vJE8TcWl8PEQ6OqWs"
+    },
+    {
+      "album": {
         "name": "Lessons (From \"What If...?: Season 3\")",
         "url": "https://open.spotify.com/album/37j0gxFTtKLEk7pwp8xkI5"
       },

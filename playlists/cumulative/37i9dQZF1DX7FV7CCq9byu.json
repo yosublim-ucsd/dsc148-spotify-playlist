@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1/10",
+        "url": "https://open.spotify.com/album/7yoeSIv6kOavCix2HEF6Rk"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150117,
+      "name": "1/10",
+      "url": "https://open.spotify.com/track/1hRQE2IySnBGZN4r6UgtQU"
+    },
+    {
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
       },

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-532 songs - 1 day 1 hr 29 min
+533 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Balle Balle](https://open.spotify.com/track/3UcIhXO52F1ZFEf3WmAdTb) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Balle Balle](https://open.spotify.com/album/2mfoYzMjrZe8oLeKWT5NJW) | 2:57 | 2024-01-22 | 2024-08-10 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-29 | 2023-11-08 |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-19 |
-| [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 |  |
+| [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 | 2025-01-11 |
 | [BBBB](https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/0sgCrpfFug0BxvOvmrpSv3) | 3:42 | 2023-03-29 | 2024-04-19 |
 | [BBBB](https://open.spotify.com/track/1znLcG8azH6tPHtK5hoULz) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/47vpnqefBzIDbgUz4uaBYP) | 3:42 | 2024-04-19 | 2024-08-14 |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-03-29 | 2024-04-19 |
@@ -167,6 +167,7 @@
 | [Faraar \(From "Maurh"\)](https://open.spotify.com/track/1aCSOECjcYr2UpdyygneZq) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Faraar \(From "Maurh"\)](https://open.spotify.com/album/2O5a8iuRPzGmMRzD6PzHzC) | 3:08 | 2023-05-24 | 2023-05-27 |
 | [Feature](https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG) | [Arav Sidhu](https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Feature](https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq) | 2:03 | 2024-09-19 | 2024-11-15 |
 | [Feem](https://open.spotify.com/track/40s6ANyxQ55OwyZ3jpH1Tw) | [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Backkbencherrs](https://open.spotify.com/artist/03qMNzU04fJBGdmAF4jHxS) | [Dark Matters](https://open.spotify.com/album/2BLIRxTfHWipMNxyEn3UAr) | 2:32 | 2023-05-26 | 2023-07-21 |
+| [Ferozi Chunni](https://open.spotify.com/track/4W6sV6jA0yYJPzaB2IWEol) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Ferozi Chunni](https://open.spotify.com/album/5dIwyLBKrXoKKsaToMWQIB) | 2:54 | 2025-01-10 |  |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2023-03-29 | 2023-04-25 |
 | [Fight](https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Fight](https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0) | 3:03 | 2023-05-24 | 2024-10-04 |
 | [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/7FEoHQ0OvfyYFkg2poZcPJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Fire \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/1NDXK9oOpMzt2WAzsSRXhs) | 2:16 | 2024-04-30 | 2024-05-11 |

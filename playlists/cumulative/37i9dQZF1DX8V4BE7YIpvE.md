@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-134 songs - 6 hr 59 min
+139 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Departure](https://open.spotify.com/track/1XNX3zYqm1kC440jrgqa7J) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Departure](https://open.spotify.com/album/6KIH666Du91FCUnjK8gSbx) | 2:21 | 2024-10-18 |  |
 | [Distant Stars](https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Distant Stars](https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn) | 2:33 | 2024-06-06 |  |
 | [Dream Sync](https://open.spotify.com/track/53qDR5jz1qhcaemVlIe46E) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Synthetic](https://open.spotify.com/album/5a8wgN3tp3cmZdejIofU5M) | 3:02 | 2024-06-06 | 2024-08-11 |
+| [Dream Vector](https://open.spotify.com/track/5xHZJkclaZPKPSfjBx1dG9) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Dream Vector](https://open.spotify.com/album/2aj7fxen07WpFoIWi4NzlT) | 2:52 | 2025-01-10 |  |
 | [Dreaming In Digital](https://open.spotify.com/track/6qlN8LGUnSsQp3fAzzyry0) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Dreaming In Digital](https://open.spotify.com/album/4K1j2dOWSsJ7WWk11hPg4l) | 2:26 | 2024-08-30 |  |
 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 | 2024-09-05 |  |
 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 | 2024-09-05 |  |
@@ -80,6 +81,7 @@
 | [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2024-12-03 |  |
 | [Lunar Cry \- Slowed](https://open.spotify.com/track/3zfXgVWQRQm1uUQcEeLNRs) | [auritni](https://open.spotify.com/artist/6S7iMNv0pzmmXn7nrZ2ggS), [DX7F](https://open.spotify.com/artist/757n4nNEQvSAHKh4MAnfm0) | [Lunar Cry](https://open.spotify.com/album/30P6birWfCZV15wT4plClf) | 2:18 | 2024-11-22 |  |
 | [Malibu](https://open.spotify.com/track/2Xr6SGuF6e6oOrSmqrNsbb) | [Reggi Bennett](https://open.spotify.com/artist/6I6oXTnFjRncAh2G4D0ehQ) | [Malibu](https://open.spotify.com/album/7rHA13O3Oj2iKAwIDPlbYB) | 3:09 | 2024-06-06 | 2024-07-19 |
+| [Memoria](https://open.spotify.com/track/7jYGyqqyni6559jNEhkpOW) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Memoria](https://open.spotify.com/album/1B3plYiuzea1yP6Nji1sZd) | 3:40 | 2025-01-10 |  |
 | [Meteora](https://open.spotify.com/track/440DUQsi26Bs7AiLEVFUTx) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Meteora](https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw) | 3:38 | 2024-06-06 |  |
 | [Metro](https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Evenings, Vol\. 1](https://open.spotify.com/album/10UNH2oeQQas3dRWzqODeX) | 2:46 | 2024-06-06 |  |
 | [Metro Station](https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Metro Station](https://open.spotify.com/album/0KpgNqVswTCRZgs0m871bZ) | 2:41 | 2024-06-27 |  |
@@ -101,6 +103,7 @@
 | [Passenger](https://open.spotify.com/track/5ch9iI5XU2klyaypR0jgbP) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k), [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Aether](https://open.spotify.com/album/5h8q1XHfapza8Dso5L9rnd) | 2:31 | 2024-09-05 |  |
 | [Past Life Limbo](https://open.spotify.com/track/4LCa5OgLfwGfI2THC2q2rU) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:36 | 2024-06-06 |  |
 | [Perspective](https://open.spotify.com/track/4R6lA6yiC7sBaa3ATtI0yj) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Perspective](https://open.spotify.com/album/7FBkncnhZJudVX8f6lygQy) | 2:06 | 2024-12-13 |  |
+| [phase](https://open.spotify.com/track/3tir7dIRRlcLX6lE9CN1TC) | [eenspire](https://open.spotify.com/artist/1PwDupwG2jMQGTB6E97vIp) | [phase](https://open.spotify.com/album/5kfL7Co61STo9LpgvJaykT) | 3:08 | 2025-01-10 |  |
 | [Pink Vortex](https://open.spotify.com/track/597lXxH6JjkH7xvYCrPgab) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Pink Vortex](https://open.spotify.com/album/6LB8nf8cxLLtZ079JBSIaR) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [post blast...](https://open.spotify.com/track/5L8e5LwAYgL5csKCJN1RAF) | [n3on\-horizon](https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe) | [post blast...](https://open.spotify.com/album/30wJUED0Bxwapu0eVaaT9o) | 3:06 | 2024-06-06 |  |
 | [Primatology](https://open.spotify.com/track/3te4nCqa852HkboUhdSL9g) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Filtered Smiles](https://open.spotify.com/album/5Pm1OsfYv0mKcgVQgg1ANb) | 2:35 | 2024-06-06 |  |
@@ -125,6 +128,7 @@
 | [Stardriver](https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Stardriver](https://open.spotify.com/album/12CPcqbCjUpR5TpMQGBc6y) | 4:00 | 2024-06-06 | 2024-07-17 |
 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 | 2024-06-06 | 2024-06-21 |
 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 | 2024-11-23 |
+| [Tape Surfing](https://open.spotify.com/track/0WS5DPLL0cyeYlpbS694NP) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Tape Surfing](https://open.spotify.com/album/0tfaD16fh0vZjegWmgJ6y3) | 2:49 | 2025-01-10 |  |
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 |  |
 | [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 |  |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
@@ -142,5 +146,6 @@
 | [We Began as Wanderers](https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [We Began as Wanderers](https://open.spotify.com/album/0K1zzGjDbsZbiirUV4sQCx) | 3:33 | 2024-06-06 |  |
 | [Wings](https://open.spotify.com/track/1yKXzKrj216vYqdhKxc9uc) | [MEGAS](https://open.spotify.com/artist/1e9L6JvckFG915fCtQoif6) | [Wings](https://open.spotify.com/album/4QbZ4si0RjsNKA81ytPpgR) | 3:51 | 2024-09-05 |  |
 | [Wired](https://open.spotify.com/track/1usiyjleODBeDKa53mgF8F) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wired / Akira](https://open.spotify.com/album/1uNQ6Ow4CFIIfkTPN9Y9CZ) | 3:55 | 2024-06-06 | 2024-08-24 |
+| [Your Shadow](https://open.spotify.com/track/6bLfs44TcRVDxFngI3OOPW) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [Your Shadow](https://open.spotify.com/album/1lFT9LvFun2enQGmLN6woE) | 2:19 | 2025-01-10 |  |
 
 \*This playlist was first scraped on 2024-06-12. Prior content cannot be recovered.

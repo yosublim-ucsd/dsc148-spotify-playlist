@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Sara Hebe.
 
-325 songs - 16 hr 26 min
+326 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [FE](https://open.spotify.com/track/0zZjcXrQRhn0m3UQGx4NU6) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [FE](https://open.spotify.com/album/6wNiEaMZYox4Qgs0KezHCR) | 2:49 | 2024-10-18 |  |
 | [Fe en el caos](https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH) | [WHO'SNEAKY](https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B), [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Distopya](https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao) | 2:44 | 2023-08-11 | 2024-03-09 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-11-26 |  |
+| [Fino Siempre Brego](https://open.spotify.com/track/6VphjEZkYMKVqskBXSX8JJ) | [Ele Ekis](https://open.spotify.com/artist/0AJDzNfNuHsASZt2HyobYa), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Fino Siempre Brego](https://open.spotify.com/album/7jfwv3OfdayyfmduGHuxpw) | 3:05 | 2025-01-10 |  |
 | [FLAM](https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [FLAM](https://open.spotify.com/album/3MQVKKAUZfsYeELRjC1L75) | 2:24 | 2024-12-13 |  |
 | [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 2:36 | 2023-10-20 | 2024-04-19 |
 | [FOCUS](https://open.spotify.com/track/6wY0d6mPSHOZXL0ZQGClY0) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [FOCUS](https://open.spotify.com/album/4QB0VJUZoM12np6F7ucSYP) | 2:30 | 2024-06-28 |  |

@@ -6669,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "pulse of nature",
+        "url": "https://open.spotify.com/album/2lYra9Hh0hgZtmxiG9FaGX"
+      },
+      "artists": [
+        {
+          "name": "sample mode",
+          "url": "https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141969,
+      "name": "pulse of nature",
+      "url": "https://open.spotify.com/track/6F3s9DC4k48A6Ay4YApMjm"
+    },
+    {
+      "album": {
         "name": "Pure Water",
         "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
       },

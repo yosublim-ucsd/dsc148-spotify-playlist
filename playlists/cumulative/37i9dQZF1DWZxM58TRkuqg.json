@@ -2107,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Jika",
+        "url": "https://open.spotify.com/album/6v7H5Z1KzDz9xb2XOyWCqZ"
+      },
+      "artists": [
+        {
+          "name": "Danilla",
+          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307826,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/4Qb0GwIiuaRNFTW2HI1lMA"
+    },
+    {
+      "album": {
         "name": "Jika Nanti",
         "url": "https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt"
       },
@@ -5596,7 +5618,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 168455,
       "name": "Zayang - Zayang",
       "url": "https://open.spotify.com/track/7qeXSPZSawWqLiwoU00boo"

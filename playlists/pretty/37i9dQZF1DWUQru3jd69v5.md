@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Sayf in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,288 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,345 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [COME UN FILM](https://open.spotify.com/track/1HrXIdVKE666GcZbbjT4F3) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK) | [COME UN FILM](https://open.spotify.com/album/4ZbEmtCz0wxhi0uSyzRg8Q) | 2:25 |
 | 20 | [SOLTANTO SE](https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [SOLTANTO SE](https://open.spotify.com/album/59p0X0Ig5TsELzz4VvsDbn) | 2:47 |
 | 21 | [Malanno](https://open.spotify.com/track/78S0liOSFsFz1kg5aCldVO) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Malanno](https://open.spotify.com/album/6QSa2NUbTKmxmM97hcEoVG) | 2:27 |
-| 22 | [2 Minuti Di Notorietà](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 Minuti Di Notorietà](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
+| 22 | [2 MINUTI DI NOTORIETÀ](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 MINUTI DI NOTORIETÀ](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
 | 23 | [GIOSTRE](https://open.spotify.com/track/6SPRqUyDss4DsMm8w0MUyv) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [GIOSTRE](https://open.spotify.com/album/3B1buarTXc3Pp49YHzONo0) | 2:21 |
 | 24 | [MULTIFRUIT](https://open.spotify.com/track/5wYZ9tqXBt1KRNDNfWkhMs) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [MULTIFRUIT](https://open.spotify.com/album/49rScionFCT9YeGtOH7y4x) | 2:48 |
 | 25 | [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 |

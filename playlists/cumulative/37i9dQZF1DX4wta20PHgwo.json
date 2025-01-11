@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
+    },
+    {
+      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 229680,
       "name": "See You Again My Friend",
       "url": "https://open.spotify.com/track/1d4CEHXR9dIChtwzFA6Oyb"
@@ -8150,7 +8168,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 287688,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q"
@@ -8600,6 +8618,28 @@
       "duration_ms": 405480,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6"
+    },
+    {
+      "album": {
+        "name": "The Earth Below",
+        "url": "https://open.spotify.com/album/2BjG3x58qV9CVMKvqDgkVT"
+      },
+      "artists": [
+        {
+          "name": "Julia H\u00fclsmann Quartet",
+          "url": "https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd"
+        },
+        {
+          "name": "Hildegunn \u00d8iseth",
+          "url": "https://open.spotify.com/artist/4UQCOsb6CvwVBk1yRUs8Xt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179744,
+      "name": "The Earth Below",
+      "url": "https://open.spotify.com/track/1YrJ5zGON9KBKaAKF5hiCI"
     },
     {
       "album": {

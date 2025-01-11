@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! El Mimoso Luis Antonio Lopez en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edgardo Nu\u00f1ez en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196640,
       "name": "El Bomb\u00f3n",
       "url": "https://open.spotify.com/track/2bPBTRQTJ2SKYzWyCwR6yN"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 163978,
       "name": "Fruta Prohibida (En Vivo)",
       "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
@@ -3961,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "album": {
         "name": "Le Dicen",
         "url": "https://open.spotify.com/album/4z1cTOtcm5Y3rCyiBENidv"
       },
@@ -4318,7 +4336,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 152823,
       "name": "Me Dej\u00e9 Ir Con Todo",
       "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 235155,
       "name": "Me Vieron Borracho",
       "url": "https://open.spotify.com/track/4vs5OQuttmdkdVCMFjn4sA"
@@ -4626,6 +4644,28 @@
       "duration_ms": 196438,
       "name": "Mi Ex Quiere Volver",
       "url": "https://open.spotify.com/track/0bGFH1rrhG1JhSsG8ri96s"
+    },
+    {
+      "album": {
+        "name": "Mi Funeral",
+        "url": "https://open.spotify.com/album/4zuLwWLiQPvgHBbpASMgAx"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199463,
+      "name": "Mi Funeral",
+      "url": "https://open.spotify.com/track/0pt2Wx1hLbzObpTkFYyKGW"
     },
     {
       "album": {
@@ -4806,6 +4846,24 @@
       "duration_ms": 193728,
       "name": "Muchacha - Con Grupo Firme",
       "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
+    },
+    {
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224166,
+      "name": "Muchachita De Ojos Tristes - En Vivo",
+      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
     },
     {
       "album": {
@@ -5104,7 +5162,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 283350,
       "name": "No Llega El Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t"
@@ -6512,7 +6570,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
@@ -6944,6 +7002,28 @@
       "duration_ms": 153967,
       "name": "Soy Buen Amigo",
       "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "album": {
+        "name": "Soy de Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/0njMBhaUtcZIzjr8mKDvWB"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carlos Osuna",
+          "url": "https://open.spotify.com/artist/5ZD7QGl4LwiXD35lBOI4g7"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Soy de Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/58ylor5aPoUgcg2E6sCQ7o"
     },
     {
       "album": {
@@ -7843,6 +7923,24 @@
     },
     {
       "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Una Historia Mal Contada",
+      "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
+    },
+    {
+      "album": {
         "name": "Una Julio 70",
         "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
       },
@@ -8242,7 +8340,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 188166,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"

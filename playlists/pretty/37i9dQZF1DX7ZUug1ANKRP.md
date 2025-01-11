@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848,818 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,848,905 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 35 | [Saphir](https://open.spotify.com/track/306T8vusV4CHXBkCHpme1f) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Saphir](https://open.spotify.com/album/12jeg9Iro0sfeIPi7hkl83) | 2:32 |
 | 36 | [C'est La Vie](https://open.spotify.com/track/1yBG3LKcRlGSut0ETNKclC) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [C'est La Vie](https://open.spotify.com/album/4hETHdhakAcmwVbqg8n64W) | 2:03 |
 | 37 | [Late Checkout](https://open.spotify.com/track/4zDetWCxKm1LU4IcXNVvns) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Late Checkout](https://open.spotify.com/album/7Gfq0uM4szOZyLqVjiBiKR) | 2:35 |
-| 38 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
-| 39 | [Around My Heart](https://open.spotify.com/track/6bnoFeiNxHKQFNILvqAtLp) | [NAJA](https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE) | [Around My Heart](https://open.spotify.com/album/2O9aaLBxlqQQGn2YZKcjzS) | 2:10 |
+| 38 | [Around My Heart](https://open.spotify.com/track/6bnoFeiNxHKQFNILvqAtLp) | [NAJA](https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE) | [Around My Heart](https://open.spotify.com/album/2O9aaLBxlqQQGn2YZKcjzS) | 2:10 |
+| 39 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
 | 40 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 |
 | 41 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 |
 | 42 | [Still Dancin'](https://open.spotify.com/track/6vzERjVcxRgovq6W3kdYgE) | [OHDAMN](https://open.spotify.com/artist/4ETTePotDO3hXP7ZPTAqsm), [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU) | [Still Dancin'](https://open.spotify.com/album/4o6JfaSQK6FUFKzX4iKFn6) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Paradise](https://open.spotify.com/track/4LKSa6eS413HVzxnZeJV3P) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Paradise](https://open.spotify.com/album/3VY0mErp4L6ZsufkFl9DSw) | 3:24 |
 | 50 | [High Enough](https://open.spotify.com/track/3dRQOTwTKWix4SQN6QJECQ) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [High Enough](https://open.spotify.com/album/5ov8hEzGJlq6k84wiNTCn4) | 3:11 |
 
-Snapshot ID: `Z3PbdwAAAAAVStPXZpTVfGcX6axBz39l`
+Snapshot ID: `Z4EWhQAAAAAiEagPI6hSRyUff4jhenmz`

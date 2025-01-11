@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Vale Garzón
 
-395 songs - 20 hr 48 min
+396 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Los Hombres Son Todos Iguales](https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Los Hombres Son Todos Iguales](https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY) | 4:04 | 2023-03-17 | 2023-05-06 |
 | [Love Lock](https://open.spotify.com/track/0Ru98QSQ8vScpLvZH5inPu) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Love Lock](https://open.spotify.com/album/1T98guCZGHoJU9URwGKqun) | 2:52 | 2023-10-17 | 2023-11-25 |
 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 | 2024-06-14 |  |
-| [Lucía](https://open.spotify.com/track/2fA2NRQIXZEZqfM3SRQeKn) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [De los Amores Prestados](https://open.spotify.com/album/1CSgdHYRD3LnNxEGtxAZmU) | 2:39 | 2024-10-25 |  |
+| [Lucía](https://open.spotify.com/track/2fA2NRQIXZEZqfM3SRQeKn) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [De los Amores Prestados](https://open.spotify.com/album/1CSgdHYRD3LnNxEGtxAZmU) | 2:39 | 2024-10-25 | 2025-01-11 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr) | 2:47 | 2023-11-24 | 2024-04-19 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64) | 2:47 | 2023-10-17 | 2024-05-25 |
 | [ma, peiname otra vez](https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [ma, peiname otra vez](https://open.spotify.com/album/0UB3hW289IUID3CA3IMiOB) | 2:27 | 2024-07-19 | 2024-08-31 |
@@ -233,6 +233,7 @@
 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-19 | 2024-02-24 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-11 |  |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-17 | 2024-07-27 |
+| [Mi Piel](https://open.spotify.com/track/58fQ7cd0DFCfbowqm8MZAe) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Mi Piel](https://open.spotify.com/album/4HMLFh6CByF3Pwabbddufq) | 2:51 | 2025-01-10 |  |
 | [Mi Plan de Vida \(with Abel Pintos\) \- con Abel Pintos](https://open.spotify.com/track/1rpaScS4bRHqqNwu7Nr2iw) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mi Plan de Vida \(with Abel Pintos\) \[con Abel Pintos\]](https://open.spotify.com/album/5WWcKyau1HwNlTybZpaTnu) | 3:00 | 2023-03-17 | 2023-07-29 |
 | [Mi Vida Entera](https://open.spotify.com/track/1PRCYHQcp0wdgMeStXhdva) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Mi Vida Entera](https://open.spotify.com/album/5ea2R2UdvuSVcKFV1FebRT) | 3:08 | 2024-11-08 |  |
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-03-17 | 2023-08-19 |

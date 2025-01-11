@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62160,
+  "num_followers": 62193,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3/N2gAAAAC4IS82ciZTLo63y9kIdsIU",
+  "snapshot_id": "Z4EtrgAAAAAucskFuQ1meJmERhhTfL84",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -77,6 +77,54 @@
       "url": "https://open.spotify.com/track/6G2jGoXEZjFS8ZfusbWX3f"
     },
     {
+      "added_at": "2025-01-10 14:24:15",
+      "album": {
+        "name": "Kanasale Kavithe (From \"Gajarama\")",
+        "url": "https://open.spotify.com/album/1LTR5wP9Axch2Bs90e39jo"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "duration_ms": 219637,
+      "name": "Kanasale Kavithe (From \"Gajarama\")",
+      "url": "https://open.spotify.com/track/481XYglaNyHjqi12XdAPq6"
+    },
+    {
+      "added_at": "2025-01-10 14:24:46",
+      "album": {
+        "name": "Adeneno (From \"Rudhra Garuda Purana\")",
+        "url": "https://open.spotify.com/album/23hlZQjodoLKX6ufHrkQ1W"
+      },
+      "artists": [
+        {
+          "name": "K.P.",
+          "url": "https://open.spotify.com/artist/5WRI9ZXZYvXG4hPvln546A"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Deepika Varadarajan",
+          "url": "https://open.spotify.com/artist/4Qg3YWzdOvs6UiYtdyzgLu"
+        }
+      ],
+      "duration_ms": 218922,
+      "name": "Adeneno (From \"Rudhra Garuda Purana\")",
+      "url": "https://open.spotify.com/track/1gFYi2cUem0JnP0pJDnarb"
+    },
+    {
       "added_at": "2024-11-28 10:45:45",
       "album": {
         "name": "Travel Song (From \"Kannanjaru\") (Original Motion Picture Soundtrack)",
@@ -95,6 +143,46 @@
       "duration_ms": 224000,
       "name": "Travel Song (From \"Kannanjaru\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/14rj2yQ9e9S64Cumg8HUZX"
+    },
+    {
+      "added_at": "2025-01-10 14:24:15",
+      "album": {
+        "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/2YIyypibyOKMRObUOws0qk"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "V Sridhar Sambhram",
+          "url": "https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC"
+        }
+      ],
+      "duration_ms": 292802,
+      "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/5pDR4N3CDBvmc0N50DJu37"
+    },
+    {
+      "added_at": "2025-01-10 14:24:15",
+      "album": {
+        "name": "Oh Senorita (From \"31 Days\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3YBhSmqDjw2pmMyR4pLGt8"
+      },
+      "artists": [
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "duration_ms": 129294,
+      "name": "Oh Senorita (From \"31 Days\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/6NZachdB2oMjc8agwnvgWQ"
     },
     {
       "added_at": "2025-01-09 13:23:38",
@@ -524,8 +612,8 @@
       },
       "artists": [
         {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
         },
         {
           "name": "Nakash Aziz",
@@ -1699,86 +1787,6 @@
       "duration_ms": 316875,
       "name": "Mannisu (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
-    },
-    {
-      "added_at": "2024-11-07 05:56:47",
-      "album": {
-        "name": "Hey Kogile (From \"Amaran\") (Kannada)",
-        "url": "https://open.spotify.com/album/1pjEbj9egrgq4dclWNRg6M"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Bharath Sajikumar",
-          "url": "https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i"
-        },
-        {
-          "name": "Sruthy Sivadas",
-          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 229833,
-      "name": "Hey Kogile (From \"Amaran\") (Kannada)",
-      "url": "https://open.spotify.com/track/3WzVXPoetY8w66xB65TONb"
-    },
-    {
-      "added_at": "2024-11-07 06:05:00",
-      "album": {
-        "name": "Usire Usire (From \"Amaran\") (Kannada)",
-        "url": "https://open.spotify.com/album/6yA5iemZ0bM9jaOQmS6kT4"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Soorya Shyam Gopal",
-          "url": "https://open.spotify.com/artist/0xrgxqJu2oaZXXqt9bVDot"
-        },
-        {
-          "name": "Swetha Ashok",
-          "url": "https://open.spotify.com/artist/2wNPaQCXOuv9uy8yoeZhIH"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Usire Usire (From \"Amaran\") (Kannada)",
-      "url": "https://open.spotify.com/track/3841sEYEo8cZqZboSmCN8W"
-    },
-    {
-      "added_at": "2024-11-05 10:54:50",
-      "album": {
-        "name": "Saaraayi Shaantamma (From \"Gajarama\")",
-        "url": "https://open.spotify.com/album/4N3ofjbm08s6acodigeYIz"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        },
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        },
-        {
-          "name": "Mano Murthy",
-          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Saaraayi Shaantamma (From \"Gajarama\")",
-      "url": "https://open.spotify.com/track/0IzSMwuWUq71cQ5Mgsixhg"
     }
   ],
   "unique_name": "Latest Kannada",

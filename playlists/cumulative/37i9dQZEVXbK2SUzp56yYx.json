@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
         "name": "MADE SERIES",
         "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2083,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Three Cheers for the Newlydeads",
+        "url": "https://open.spotify.com/album/53GFLq4tLWe9liCSuKL0jR"
+      },
+      "artists": [
+        {
+          "name": "Ashbury Heights",
+          "url": "https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "Christ",
+      "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 237093,
       "name": "Est-ce que tu m'aimes ? - Pilule bleue",
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
@@ -6988,10 +7024,28 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 136676,
       "name": "love getting high",
       "url": "https://open.spotify.com/track/5qCFrt4jdBf12WozRyaoWW"
+    },
+    {
+      "album": {
+        "name": "love getting high",
+        "url": "https://open.spotify.com/album/7u7Y6CUIDvcZnhOK4D141j"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136676,
+      "name": "love getting high (Elle t'a tu\u00e9)",
+      "url": "https://open.spotify.com/track/4XKGmKk3Lz2fKXoUEtjhWz"
     },
     {
       "album": {
@@ -7126,7 +7180,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -7156,7 +7210,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -7794,6 +7848,24 @@
       "duration_ms": 88653,
       "name": "MONTAGEM BOTA HIPNOSIS 1.0",
       "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM BRAVO",
+        "url": "https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "MONTAGEM BRAVO - Slowed",
+      "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
       "album": {
@@ -9805,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -10414,7 +10504,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 187389,
       "name": "Scissorhands",
       "url": "https://open.spotify.com/track/5PldHs83FjoH0kyTZw75yI"
@@ -10664,7 +10754,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 134400,
       "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
@@ -10802,6 +10892,36 @@
       "duration_ms": 191626,
       "name": "SLASH (From \u201cDeadpool & Wolverine\u201d)",
       "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
+    },
+    {
+      "album": {
+        "name": "SLAVA FUNK!",
+        "url": "https://open.spotify.com/album/68pqxVN7ab1kavv3QbEMA0"
+      },
+      "artists": [
+        {
+          "name": "MVSTERIOUS",
+          "url": "https://open.spotify.com/artist/5mU6enX6pYYKEs0zfRkm1R"
+        },
+        {
+          "name": "Hxmr",
+          "url": "https://open.spotify.com/artist/6VzAVLJ85EjjG002V4j7ka"
+        },
+        {
+          "name": "yngastrobeatz.",
+          "url": "https://open.spotify.com/artist/5sZrMlmLdssEPC5EsdPMhm"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113161,
+      "name": "SLAVA FUNK!",
+      "url": "https://open.spotify.com/track/1qeRCHejHqPBTAFPRBVzxx"
     },
     {
       "album": {
@@ -14300,7 +14420,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 103043,
       "name": "\u0410\u0440\u0438\u0442\u043c\u0438\u044f",
       "url": "https://open.spotify.com/track/6yU6ko4AlNiZrUZfmHKrv4"
@@ -15556,6 +15676,24 @@
       "duration_ms": 177857,
       "name": "\u0413\u0434\u0435-\u0442\u043e \u0442\u0430\u043c",
       "url": "https://open.spotify.com/track/1lqDxWIWoeNQ0BjNjY85z7"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
+        "url": "https://open.spotify.com/album/3MapgHBbb88Dpwl4BiZ8DT"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82285,
+      "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
+      "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
     },
     {
       "album": {
@@ -16952,7 +17090,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 168228,
       "name": "\u041a\u043b\u0430\u043d\u043e\u0432\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
       "url": "https://open.spotify.com/track/2SoPP5d6pOjzKWbWF0LFma"
@@ -19362,7 +19500,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 69473,
       "name": "\u043f\u0430\u043a\u043e\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/1WTxGDV3rlRSvR2mogTDy1"

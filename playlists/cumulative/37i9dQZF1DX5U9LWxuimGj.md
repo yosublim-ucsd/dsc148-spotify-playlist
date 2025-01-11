@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Julio Caesar
 
-189 songs - 10 hr 24 min
+190 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 | 2024-04-10 |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |
 | [Hangover](https://open.spotify.com/track/3a6WpKrvj6YrPPPjLgyOES) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [The Bed You Made](https://open.spotify.com/album/3npjvgjdC2m9L9JXGXSCfk) | 3:04 | 2023-09-15 | 2024-04-10 |
+| [Happiest I've Ever Been \- Spanglish Version](https://open.spotify.com/track/1j0LnJ4yaE1QrAWX3MDVtD) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Happiest I've Ever Been \(Spanglish Version\)](https://open.spotify.com/album/5kQib3n4H6kwDruJAuEAE6) | 2:56 | 2025-01-10 |  |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 | 2024-06-18 |
 | [Hell in a Handbag](https://open.spotify.com/track/3e9ZP37G8w1q1v71bEpeaw) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:24 | 2023-04-28 | 2024-04-19 |
 | [Hell in a Handbag](https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs) | 3:24 | 2023-03-03 | 2023-05-01 |

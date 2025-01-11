@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Emanuel Lara",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Alexxander",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 237473,
       "name": "A Pesar",
       "url": "https://open.spotify.com/track/5UKpPESWSHOOf1LPXQYfM5"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 226666,
       "name": "Abba Padre",
       "url": "https://open.spotify.com/track/37WnGZ4VCHpA8FsjKXlU8O"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 404000,
       "name": "Alfarero",
       "url": "https://open.spotify.com/track/2YtnN37BTZfLtKbI68f8u2"
@@ -2226,6 +2226,28 @@
       "duration_ms": 188800,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
+    },
+    {
+      "album": {
+        "name": "Alguien Nuevo",
+        "url": "https://open.spotify.com/album/4Q3TR0xXSMzJAmvYyvVnZ4"
+      },
+      "artists": [
+        {
+          "name": "Proyecto 67",
+          "url": "https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW"
+        },
+        {
+          "name": "Alba Pantale\u00f3n",
+          "url": "https://open.spotify.com/artist/7hCZGbhQPBR8OBMOxi2Ebm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191926,
+      "name": "Alguien Nuevo",
+      "url": "https://open.spotify.com/track/2luO73ruYrSJY8J5Anqzs0"
     },
     {
       "album": {
@@ -3874,7 +3896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 226768,
       "name": "As\u00ed Te Adorar\u00e9",
       "url": "https://open.spotify.com/track/0KF3KIOpAdmsxHl6mKWQTl"
@@ -8359,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Agradecido (en vivo)",
+        "url": "https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B"
+      },
+      "artists": [
+        {
+          "name": "Michael Hernandez",
+          "url": "https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233017,
+      "name": "Coraz\u00f3n Agradecido - en vivo",
+      "url": "https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n de David (En Vivo)",
         "url": "https://open.spotify.com/album/3qTWEDyVOMVgzchkf65ZxQ"
       },
@@ -9986,7 +10026,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 233408,
       "name": "De La Mano",
       "url": "https://open.spotify.com/track/5YS7ytkllQHupVVwkJOeHV"
@@ -12774,7 +12814,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 203136,
       "name": "El Cielo Te Proteja",
       "url": "https://open.spotify.com/track/0eqIR1BCbv9Byw19Ev7UEt"
@@ -16956,6 +16996,28 @@
     {
       "album": {
         "name": "Fiel",
+        "url": "https://open.spotify.com/album/32lSJQMbYSQ22TBeWSo2d8"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Elike",
+          "url": "https://open.spotify.com/artist/6b2IWSapGCjPyKP2WAo5k5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201941,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/3g82GgRSd2mA9OmemzXmzA"
+    },
+    {
+      "album": {
+        "name": "Fiel",
         "url": "https://open.spotify.com/album/0lZLINWF9DbplVpvkW23Gj"
       },
       "artists": [
@@ -18293,6 +18355,24 @@
     },
     {
       "album": {
+        "name": "GOZAERA",
+        "url": "https://open.spotify.com/album/2OIPDvAqI6KAQnc4Lcu7I6"
+      },
+      "artists": [
+        {
+          "name": "La Reforma",
+          "url": "https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164988,
+      "name": "GOZAERA",
+      "url": "https://open.spotify.com/track/4uoNihlyg65RXjqbtL1nH4"
+    },
+    {
+      "album": {
         "name": "Gozo",
         "url": "https://open.spotify.com/album/1mF4jR4zloStYJCaEYFpcz"
       },
@@ -18902,6 +18982,24 @@
       "duration_ms": 185700,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/6wlSmauAPAz6b5mlrbqYl5"
+    },
+    {
+      "album": {
+        "name": "Gracias (Un Viaje Sinf\u00f3nico de Fe y Esperanza)",
+        "url": "https://open.spotify.com/album/7Jz5g6am9wp7MIVSvbDCau"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261514,
+      "name": "Gracias (Un Viaje Sinf\u00f3nico de Fe y Esperanza)",
+      "url": "https://open.spotify.com/track/7na223f2psSLrQ12d6IHju"
     },
     {
       "album": {
@@ -23405,6 +23503,24 @@
     },
     {
       "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3u9UmzZ4mSV2ymIhXMOZEP"
+      },
+      "artists": [
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179063,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq"
+    },
+    {
+      "album": {
         "name": "La Samaritana",
         "url": "https://open.spotify.com/album/1LMxbZZd0npHfRd5qcb6fb"
       },
@@ -25568,7 +25684,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 237103,
       "name": "L\u00e1vame",
       "url": "https://open.spotify.com/track/2DuEKL8aW8xuDSHUgj7lQZ"
@@ -26000,7 +26116,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 417461,
       "name": "Me Alegrar\u00e9 - Live",
       "url": "https://open.spotify.com/track/3lJRXkkuOJlILTqj3Vfd47"
@@ -28568,6 +28684,28 @@
       "duration_ms": 251500,
       "name": "Mi Valor",
       "url": "https://open.spotify.com/track/6CcfPdnr6nrM9SAbeCGZKt"
+    },
+    {
+      "album": {
+        "name": "Mientras Tanto",
+        "url": "https://open.spotify.com/album/2DHq7ecguYuVPG5B1Hx2H7"
+      },
+      "artists": [
+        {
+          "name": "Pauneto",
+          "url": "https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W"
+        },
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573134,
+      "name": "Mientras Tanto",
+      "url": "https://open.spotify.com/track/4gD2Q7Q1WVVNoslNcN7Die"
     },
     {
       "album": {
@@ -33127,6 +33265,32 @@
     },
     {
       "album": {
+        "name": "Pap\u00e1 del Cielo",
+        "url": "https://open.spotify.com/album/5OPrbsAYAI2n4AH3XUhjnu"
+      },
+      "artists": [
+        {
+          "name": "Agustina Baro Graf",
+          "url": "https://open.spotify.com/artist/02lNRjwTi6jm5A30tv3Doi"
+        },
+        {
+          "name": "Katia del Cid",
+          "url": "https://open.spotify.com/artist/5ML7735ozpAWSOqaEA35NB"
+        },
+        {
+          "name": "Jonatan Narv\u00e1ez",
+          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232101,
+      "name": "Pap\u00e1 del Cielo",
+      "url": "https://open.spotify.com/track/543ASX7wfkNAZ82QA7ul19"
+    },
+    {
+      "album": {
         "name": "Pap\u00e1 Dios",
         "url": "https://open.spotify.com/album/3JTgFVmerglELRUId6HA1f"
       },
@@ -34390,7 +34554,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 329117,
       "name": "Por la Cruz (For The Cross)",
       "url": "https://open.spotify.com/track/2WBDBSeubcqnYidWWMbs17"
@@ -36306,6 +36470,24 @@
       "duration_ms": 690000,
       "name": "Qu\u00e9date T\u00fa",
       "url": "https://open.spotify.com/track/5k7lizliZUBRbz9uzPuAzj"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/2s4go9X9AYGLPJ7hvsVCAe"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170637,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/1AknhtoV7lzwCY1Cbs4Y0q"
     },
     {
       "album": {
@@ -39365,6 +39547,24 @@
     },
     {
       "album": {
+        "name": "Siempre Estuviste Ah\u00ed",
+        "url": "https://open.spotify.com/album/5CgO5YkjX8TLwbKoxnZeSr"
+      },
+      "artists": [
+        {
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Siempre Estuviste Ah\u00ed",
+      "url": "https://open.spotify.com/track/0r4hHOW1pydHO6ZS7MZHhD"
+    },
+    {
+      "album": {
         "name": "Siempre Ha Estado Aqui",
         "url": "https://open.spotify.com/album/5j7q72pbzR99ZZiErGv0LR"
       },
@@ -40126,7 +40326,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 173183,
       "name": "Sola En La Cita",
       "url": "https://open.spotify.com/track/267jk9TGb0yfVNnGnTmjoA"
@@ -45474,7 +45674,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 264451,
       "name": "T\u00fa Eres As\u00ed",
       "url": "https://open.spotify.com/track/5WN4xoG3BEMPuTrFa8fCbs"
@@ -48736,7 +48936,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 212775,
       "name": "Ya No Vivo Yo",
       "url": "https://open.spotify.com/track/0l8iGhyoDi2ybuFKXpyMM7"

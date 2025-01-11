@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "anywhere",
+        "url": "https://open.spotify.com/album/5kJLGSVqE4NSnyRnIMVL5L"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/1vCGb5pEdNZrdcPOSAUFuN"
+    },
+    {
+      "album": {
         "name": "Appealing",
         "url": "https://open.spotify.com/album/4xikKZ8fyq5iM5yjtn1ljw"
       },
@@ -2170,6 +2188,28 @@
       "duration_ms": 118400,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/0mrMtZYcXTmQZJomdf3zRz"
+    },
+    {
+      "album": {
+        "name": "cool air",
+        "url": "https://open.spotify.com/album/06364J5SveQj5KEA6sBegE"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "96 Zeus",
+          "url": "https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "cool air",
+      "url": "https://open.spotify.com/track/1e3i8l7jNR1s7NJ7B9Pe6I"
     },
     {
       "album": {
@@ -7476,7 +7516,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 125156,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/05ZVdVvMoPqfXQ0nEHkwt0"
@@ -7758,7 +7798,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 120000,
       "name": "lunar walk",
       "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
@@ -8418,7 +8458,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 189230,
       "name": "monsoon",
       "url": "https://open.spotify.com/track/0SX9lf9vg65ZFxiCd9OGCe"
@@ -14288,6 +14328,24 @@
       "duration_ms": 136666,
       "name": "vision",
       "url": "https://open.spotify.com/track/6lKuDS6wWeWfqtjzWAbsIh"
+    },
+    {
+      "album": {
+        "name": "Voyage Through Time",
+        "url": "https://open.spotify.com/album/4BahhRsozeRdFT3ow0ErDq"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Voyage Through Time",
+      "url": "https://open.spotify.com/track/0u1pc4iEw0EaLUnpaa9efY"
     },
     {
       "album": {

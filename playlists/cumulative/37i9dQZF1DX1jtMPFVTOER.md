@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-592 songs - 1 day 11 hr 22 min
+593 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 | 2022-04-29 | 2022-10-15 |
 | [Up 2 U](https://open.spotify.com/track/6rqjxPBRBBCuEZarxi7beI) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Will DiMaggio](https://open.spotify.com/artist/3vok8vbLDelLJYpYVi9IUd), [DJ EAZ](https://open.spotify.com/artist/7adbbvqd8S0Y1vc8KcSMUN) | [Outer Space b/w Up 2 U](https://open.spotify.com/album/4A5SxmCfBJu9RURexOxQYD) | 4:30 | 2021-11-12 | 2022-02-19 |
 | [Up to You](https://open.spotify.com/track/0GdeitSxIUCO33j7g710HF) | [Scott Goodwin](https://open.spotify.com/artist/2g2GZo5L6RKNOPe6bT8cSO) | [Up to You](https://open.spotify.com/album/4KpNRTT9xDrcxlIZF71Iu7) | 2:16 | 2021-12-03 | 2022-08-27 |
-| [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 | 2022-10-28 |  |
+| [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 | 2022-10-28 | 2025-01-11 |
 | [Utopia Reimagined: Euphoria](https://open.spotify.com/track/4gwOLgAVJm5jguqWEU7rFc) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Utopia Reimagined: Euphoria](https://open.spotify.com/album/2laHMAviiai4AvYD8IqFRz) | 3:43 | 2021-11-12 | 2022-06-18 |
 | [VibeNineThree \(Rework\)](https://open.spotify.com/track/3EZoiGsnVUIFC0yEUZWRMA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Alexander Mack](https://open.spotify.com/artist/5zsaFqdIEz3d7CFEZcSLyz) | [VibeNineThree \(Rework\)](https://open.spotify.com/album/3A41GuS8aj91qyB6kHd49s) | 2:43 | 2023-08-18 | 2024-10-05 |
 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 | 2024-03-01 |  |
@@ -591,6 +591,7 @@
 | [World Tour](https://open.spotify.com/track/4xElmn7BQfsHRns1UMP8dU) | [Young RJ](https://open.spotify.com/artist/5KBwAQ3DCGfHNdAcFr4eSh), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Rebel Kuzco](https://open.spotify.com/artist/5EoF6y6Of0pqpQQXoubsh0) | [World Tour](https://open.spotify.com/album/4vzLCoahP66GqaHMT0t9GR) | 2:47 | 2022-09-23 | 2023-03-25 |
 | [Wouldn't Even Notice](https://open.spotify.com/track/2IKICTRcYfmS9ZW7LsbTwK) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh) | [Wouldn't Even Notice](https://open.spotify.com/album/4CXhrvfA2cho9cnbhQ5faD) | 3:25 | 2021-11-12 | 2022-06-11 |
 | [Wrap It Up](https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Wrap It Up](https://open.spotify.com/album/6YjvL41pGMuTqtm7QK94Fi) | 3:53 | 2023-01-13 | 2023-12-09 |
+| [WRITHING IN THE WIND](https://open.spotify.com/track/1ZNJJekN6Oto599rrIAAwF) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WRITHING IN THE WIND](https://open.spotify.com/album/3vIRycVhyVtH7x30vXeqLm) | 1:24 | 2025-01-10 |  |
 | [WS4 October 2022 \- D'larm Version](https://open.spotify.com/track/028CXi6GZwjs4tEd9ENvez) | [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [D'larm](https://open.spotify.com/artist/0UkglgJtVtdxyiCWcc410a) | [WS4 October 2022 \(D'larm Version\)](https://open.spotify.com/album/3yjKth4CM3VLmSinx773bY) | 2:55 | 2023-01-20 | 2023-04-01 |
 | [Wuthering Heights \- Kassa Overall Remix](https://open.spotify.com/track/1fEwoRCXc2B5z8Qla4B2xs) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Wuthering Heights \(Kassa Overall Remix\)](https://open.spotify.com/album/6qZ70jVRFfyjPGOCn3OdiP) | 3:20 | 2023-01-20 | 2023-08-05 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [You Make Me Feel So Good](https://open.spotify.com/album/1aTswqm0IddXx54iXrPpSQ) | 3:10 | 2022-09-30 | 2023-11-11 |

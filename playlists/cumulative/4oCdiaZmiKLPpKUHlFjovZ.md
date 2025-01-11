@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Rio Da Yung Og, Key Glock, Peezy &amp; Tyga.
 
-123 songs - 5 hr 18 min
+125 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,10 @@
 | [Me And Mike](https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Me And Mike](https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW) | 2:19 | 2024-03-30 |  |
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 |  |
 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 | 2023-08-28 |  |
+| [OFF\-RAP](https://open.spotify.com/track/5ZVEybUCvawEzpYz8ovuQw) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE](https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV) | 2:46 | 2025-01-10 |  |
 | [One Me](https://open.spotify.com/track/2jcAIXXCZXz8cHD6bxkkRk) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [One Me](https://open.spotify.com/album/111eNBX4sLz9hRfnBXFGUz) | 2:16 | 2023-10-30 |  |
 | [ONLY FANS](https://open.spotify.com/track/493bo0JRXNe100o1oxswNz) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [ONLY FANS](https://open.spotify.com/album/6TyazNC4sGL6mlQ1vkfih5) | 2:17 | 2023-08-07 | 2024-05-21 |
+| [Ooweee](https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ooweee](https://open.spotify.com/album/5dO4VmJHVX6pICgk65GV8M) | 3:05 | 2025-01-10 |  |
 | [PACTO \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [PACTO \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 | 2023-07-31 |  |
 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 | 2024-04-24 |  |
 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 | 2023-08-28 |  |

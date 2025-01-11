@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Greeicy",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Vale Garz\u00f3n",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 159503,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2fA2NRQIXZEZqfM3SRQeKn"
@@ -4564,6 +4564,24 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "album": {
+        "name": "Mi Piel",
+        "url": "https://open.spotify.com/album/4HMLFh6CByF3Pwabbddufq"
+      },
+      "artists": [
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171450,
+      "name": "Mi Piel",
+      "url": "https://open.spotify.com/track/58fQ7cd0DFCfbowqm8MZAe"
     },
     {
       "album": {

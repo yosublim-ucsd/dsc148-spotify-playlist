@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: تامر حسني و رامي صبري
 
-1,302 songs - 3 day 0 hr 34 min
+1,304 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1171,6 +1171,7 @@
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [كلمني عن نفسك](https://open.spotify.com/track/0Y52u3T0C9sroUFFtY0UQ1) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [كلمني عن نفسك](https://open.spotify.com/album/1tg6iaoch6dNDoHJ3bBk1Z) | 2:36 | 2024-07-25 | 2024-09-13 |
 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 | 2024-07-29 | 2024-08-16 |
+| [لأ ثوانى](https://open.spotify.com/track/4uAN5mpBgzxOzK0qbTrumK) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [لأ ثوانى](https://open.spotify.com/album/687gIsuuNRehoRPmBmFM9d) | 4:17 | 2025-01-09 |  |
 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-06-27 | 2024-08-06 |
 | [لاموني](https://open.spotify.com/track/4k5Fyhlxmh4st5HBCxDM4h) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [لاموني](https://open.spotify.com/album/0n4nzBMbsSG70vgi4NhB96) | 3:18 | 2024-09-26 | 2024-12-13 |
 | [لحظات التجلى](https://open.spotify.com/track/22FRaouGKCZsuNdz9wlu9b) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [لحظات التجلى](https://open.spotify.com/album/0kL1oOdnut1dvfX3BFGmyd) | 3:33 | 2025-01-06 |  |
@@ -1221,6 +1222,7 @@
 | [مع السلامة يا مدرستي](https://open.spotify.com/track/2ghElagGhTA3hYj06JJujA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [مع السلامة يا مدرستي](https://open.spotify.com/album/4DkPJRBsJeJlreSF1D121I) | 3:02 | 2024-05-30 | 2024-07-12 |
 | [مع السلامه](https://open.spotify.com/track/1v7cH9Sb3zsC4tUgMTo1hd) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مع السلامه](https://open.spotify.com/album/34egkxkmaT2grMXkw7Kkkv) | 3:30 | 2024-12-13 | 2025-01-10 |
 | [معرفش ينساني Ma3refsh yensany](https://open.spotify.com/track/0rLWtukItSaXp0MuGh8aIL) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [معرفش ينساني Ma3refsh yensany](https://open.spotify.com/album/067UFFeScR8TSYslrA8TrF) | 3:32 | 2024-09-24 |  |
+| [معقول بتموت](https://open.spotify.com/track/64baAo3NdeNiFSCXm9gz49) | [Haidy Moussa](https://open.spotify.com/artist/6ZXFOb1VHMTICAYM1LUfFW) | [معقول بتموت](https://open.spotify.com/album/7qxGxvVLxbflG8VrheTEVS) | 3:23 | 2025-01-09 |  |
 | [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 | 2024-01-23 | 2024-02-24 |
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
 | [مقسوم](https://open.spotify.com/track/3Ma9SyULAULbhUYkg4OCRg) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [مقسوم](https://open.spotify.com/album/2YPUNQgMOlmhaMRdNziZXu) | 3:20 | 2024-01-30 | 2024-02-23 |

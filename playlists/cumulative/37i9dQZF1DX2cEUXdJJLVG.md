@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-379 songs - 22 hr 32 min
+380 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [SELFISH](https://open.spotify.com/track/6dVIrBdzowfuvAq1NbLcjW) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [SELFISH](https://open.spotify.com/album/3C2v8s1Wtxx975LpUmz1Q5) | 3:55 | 2023-09-12 | 2024-04-19 |
 | [Settling](https://open.spotify.com/track/3ubrxuCaFCWDTIE0pcZH70) | [The Park](https://open.spotify.com/artist/4Y6lbDkzYvLHs91DVbpeUu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Settling](https://open.spotify.com/album/5QesinUPN06YX7UKR4xDQ7) | 3:57 | 2023-07-13 |  |
 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 | 2022-09-09 | 2024-03-08 |
-| [Shedding](https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elif Dame](https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO) | [Shedding](https://open.spotify.com/album/5VkJBbs31x4t480lF7E5WR) | 2:42 | 2024-09-26 |  |
+| [Shedding](https://open.spotify.com/track/4EzIrPHgxqHbNB3ikyo0io) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elodie Jeannette](https://open.spotify.com/artist/1S8dJy0rk4PoWBW59sxNXp) | [Shedding](https://open.spotify.com/album/5VkJBbs31x4t480lF7E5WR) | 2:42 | 2024-09-26 |  |
 | [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 | 2023-04-20 | 2023-05-26 |
 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 | 2023-04-29 |
 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 | 2022-09-09 | 2023-07-08 |
@@ -382,6 +382,7 @@
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 | 2024-09-27 |
 | [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 |  |
+| [You don't listen](https://open.spotify.com/track/7JjRTtAWZND9U2XoH4Il6D) | [Moodssupply](https://open.spotify.com/artist/2EqKTm9ltVzMpSWZHpSOy2) | [You don't listen](https://open.spotify.com/album/2uK8gE6zUjiZ8vfBZvL5Y3) | 2:32 | 2025-01-10 |  |
 | [You're Home](https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [You're Home](https://open.spotify.com/album/4ynSL73wIneH2Z9jP2SGgG) | 2:08 | 2024-10-17 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |
 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-01-22 | 2024-04-19 |

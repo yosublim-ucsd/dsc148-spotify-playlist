@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Against All Odds (Acoustic)",
+        "url": "https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197395,
+      "name": "Against All Odds - Acoustic",
+      "url": "https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody (Acoustic)",
         "url": "https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND"
       },
@@ -4032,6 +4050,28 @@
       "duration_ms": 144400,
       "name": "Three Little Birds - Acoustic",
       "url": "https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8"
+    },
+    {
+      "album": {
+        "name": "Time After Time (Acoustic)",
+        "url": "https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        },
+        {
+          "name": "Kyson Facer",
+          "url": "https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184815,
+      "name": "Time After Time - Acoustic",
+      "url": "https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB"
     },
     {
       "album": {

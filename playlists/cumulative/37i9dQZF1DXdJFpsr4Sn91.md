@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-451 songs - 22 hr 32 min
+453 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-16 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 |  |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-02 |  |
+| [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 |  |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-04 | 2024-08-16 |
 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-05 | 2024-09-20 |
 | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/album/1lRIhGS3ipWijhv3A2n1wH) | 3:42 | 2024-07-02 | 2024-08-30 |
@@ -212,6 +213,7 @@
 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 | 2024-10-24 | 2024-11-08 |
 | [Kyyneliä](https://open.spotify.com/track/1A2yC2Opj4mwlEZcfk1K1g) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Kyyneliä](https://open.spotify.com/album/3LVzATV9bR7Gew8NeAMzua) | 2:58 | 2024-07-02 | 2024-07-27 |
 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 | 2024-10-24 | 2024-11-15 |
+| [L'Italiano](https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Toto Cutugno](https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ) | [L'Italiano](https://open.spotify.com/album/4Et1q7i9BrPEIndMPzrrZW) | 2:17 | 2025-01-10 |  |
 | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/album/09wnzTC0pSgc7kKfO1OYcL) | 3:01 | 2024-07-02 | 2024-07-19 |
 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 | 2024-10-03 | 2024-11-15 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2024-12-06 |

@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "4444:Reborn",
+        "url": "https://open.spotify.com/album/3hJ5n4LUTznYIsbml5gmXu"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295939,
+      "name": "44 (Forget Forever) (Mathame Remix)",
+      "url": "https://open.spotify.com/track/3sQFWyTGIe1j4dyIkzKzBO"
+    },
+    {
+      "album": {
         "name": "A Cappella",
         "url": "https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO"
       },

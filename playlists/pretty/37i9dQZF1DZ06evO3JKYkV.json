@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 70719,
+  "num_followers": 70746,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33AAAAAAACJfymAVTi+nGLvjxiBYYUm",
+  "snapshot_id": "Z38RgAAAAADptNyUr5v86fl7v3s72n63",
   "tracks": [
     {
       "added_at": null,
@@ -672,13 +672,21 @@
       },
       "artists": [
         {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        },
+        {
           "name": "Aphex Twin",
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        },
+        {
+          "name": "AFX",
+          "url": "https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U"
         }
       ],
-      "duration_ms": 224500,
-      "name": "T18A pole1 [London 03.06.17]",
-      "url": "https://open.spotify.com/track/5XTDwwTFy07rUDcGS9fvUY"
+      "duration_ms": 305000,
+      "name": "Spiral Staircase (AFX Remix) [London 14.09.2019]",
+      "url": "https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7"
     },
     {
       "added_at": null,

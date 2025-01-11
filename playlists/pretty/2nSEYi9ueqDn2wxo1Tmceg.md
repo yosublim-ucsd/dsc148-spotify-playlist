@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd\_waLOSAXrA">Panda Bear</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,513 likes - 50 songs - 3 hr 20 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,512 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [Indio](https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6) | [A Vision of Panorama](https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY), [Lapa Dula](https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC) | [Indio](https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL) | 4:44 |
 | 50 | [John on the Ceiling](https://open.spotify.com/track/2JiZW02xDHJkoI6LQm9uPR) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [John on the Ceiling](https://open.spotify.com/album/3nyceFRPsa3uKbY2i0oWTM) | 3:38 |
 
-Snapshot ID: `AAAQXItXcnxtBdOBf58YclIYak/eJxpk`
+Snapshot ID: `AAAQXtopTRsxYaHfYWB3W2EtivhkxPj5`

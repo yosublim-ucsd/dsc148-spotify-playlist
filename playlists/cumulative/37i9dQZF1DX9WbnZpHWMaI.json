@@ -252,6 +252,24 @@
     {
       "album": {
         "name": "Act A Fool",
+        "url": "https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Powell",
+          "url": "https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151627,
+      "name": "Act A Fool",
+      "url": "https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8"
+    },
+    {
+      "album": {
+        "name": "Act A Fool",
         "url": "https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID"
       },
       "artists": [
@@ -494,6 +512,24 @@
       "duration_ms": 257841,
       "name": "Are U Down",
       "url": "https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s"
+    },
+    {
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186433,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd"
     },
     {
       "album": {
@@ -842,7 +878,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 215650,
       "name": "Blackbird SR-71",
       "url": "https://open.spotify.com/track/68oNk0caJp9px4OqqmPAmS"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 225440,
       "name": "EIYAA",
       "url": "https://open.spotify.com/track/6FYMd0qCu4gN83ep4aIJ2E"
@@ -2238,6 +2274,24 @@
       "duration_ms": 348000,
       "name": "Everybody Getting Low",
       "url": "https://open.spotify.com/track/5WPXnr5RYGDJYvSYqzCTey"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3hgopGn8Ef1z2ybAPJ0Zu0"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193658,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3W3LM2eS1F81UuIjEsHXsV"
     },
     {
       "album": {
@@ -3423,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Going Higher",
+        "url": "https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197929,
+      "name": "Going Higher",
+      "url": "https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1UHF5CvMJAvzNivLNi2Z40"
       },
@@ -4117,6 +4189,28 @@
     },
     {
       "album": {
+        "name": "Hypnopompia",
+        "url": "https://open.spotify.com/album/4dS41eJY36q3V12DQoPHWW"
+      },
+      "artists": [
+        {
+          "name": "Kate Hex",
+          "url": "https://open.spotify.com/artist/5jeRWqe3aZfPrtbEQbo0KU"
+        },
+        {
+          "name": "TiaNova",
+          "url": "https://open.spotify.com/artist/0XNtPmYvavF1lPHLssfOuk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386865,
+      "name": "Hypnopompia",
+      "url": "https://open.spotify.com/track/16DdO8ytErI66liwXTh9D3"
+    },
+    {
+      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/2nseLc5hmamuX1xPZ7ZreK"
       },
@@ -4168,7 +4262,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 222400,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
@@ -5899,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
+    },
+    {
+      "album": {
         "name": "Wrestling",
         "url": "https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq"
       },
@@ -6700,7 +6812,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 229945,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ"
@@ -8398,7 +8510,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 245500,
       "name": "Turboflow",
       "url": "https://open.spotify.com/track/2AGy2Ezhnm3YYWClYxwsEN"
@@ -8546,7 +8658,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 280400,
       "name": "Underneath The Strobelights",
       "url": "https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO"

@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-322 songs - 1 day 5 hr 32 min
+323 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 | 2020-10-09 |  |
 | [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-05-31 |  |
 | [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 | 2022-05-12 | 2023-05-24 |
+| [Fair Weather](https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Fair Weather](https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd) | 4:44 | 2025-01-10 |  |
 | [Fallen \- Jazzed](https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O) | [Fallen \(Jazzed\)](https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l) | 4:24 | 2022-01-07 | 2022-08-17 |
 | [Far Away](https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Far Away](https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7) | 7:13 | 2020-12-04 | 2022-12-21 |
 | [Fatamorgana](https://open.spotify.com/track/5wsvrblb3ooRyJQol7A2tN) | [Rasmus Holm Quartet](https://open.spotify.com/artist/6Uipo5JiSrwG7oeHHE1E3Q) | [FATAMORGANA](https://open.spotify.com/album/2pK0HHq3Rc7WHfjNelmvTD) | 4:32 | 2021-06-18 | 2023-10-11 |

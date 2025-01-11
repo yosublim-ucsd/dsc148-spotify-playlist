@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "bad in bed",
+        "url": "https://open.spotify.com/album/3rJocQaLt2DOdES15IklMl"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197993,
+      "name": "bad in bed",
+      "url": "https://open.spotify.com/track/5VEbufushgdxy4ABk3zLgb"
+    },
+    {
+      "album": {
         "name": "bad times",
         "url": "https://open.spotify.com/album/47I2gUQL7qdI0iYfY5DNxo"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185759,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
@@ -1038,6 +1056,28 @@
       "duration_ms": 152946,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
+    },
+    {
+      "album": {
+        "name": "Foto",
+        "url": "https://open.spotify.com/album/5Op2BFCuXTsHWOQIkF4N1L"
+      },
+      "artists": [
+        {
+          "name": "MYKEL COSTA",
+          "url": "https://open.spotify.com/artist/5K9u03cGBr44enVvFqGzzK"
+        },
+        {
+          "name": "EAZ",
+          "url": "https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180478,
+      "name": "Foto",
+      "url": "https://open.spotify.com/track/6zrEOdAyx1vPjSFFgv8pEg"
     },
     {
       "album": {
@@ -2087,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Paperhearts",
+        "url": "https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183753,
+      "name": "Paperhearts",
+      "url": "https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv"
+    },
+    {
+      "album": {
         "name": "Pillow Song",
         "url": "https://open.spotify.com/album/70EOvr61gUGqUOvNYyEBRQ"
       },
@@ -2550,7 +2608,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 167911,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"

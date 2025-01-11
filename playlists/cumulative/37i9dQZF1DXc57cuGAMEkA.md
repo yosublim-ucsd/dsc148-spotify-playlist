@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Bad Bunny, Franz Ferdinandand, yama×WurtS, 優里 and more! cover: Bad Bunny
 
-8,055 songs - 18 day 18 hr 52 min
+8,056 songs - 18 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,6 +1341,7 @@
 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 | 2024-08-16 | 2024-08-23 |
 | [Concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2024-10-03 | 2024-10-11 |
 | [Concrete Jungle](https://open.spotify.com/track/3x7HRRiUkd3so6DdCuIsrY) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Concrete Jungle](https://open.spotify.com/album/148Ov9qRrdiVmW8ZFCkZKl) | 3:17 | 2023-08-10 | 2023-08-18 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 |  |
 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 | 2024-05-16 | 2024-05-24 |
 | [Connect The Dots](https://open.spotify.com/track/0ahWtlkee1OEm4iBZow6WO) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Connect The Dots](https://open.spotify.com/album/4FcU7hmQWLCxHsKdeBxOMu) | 2:05 | 2023-06-01 | 2023-06-09 |
 | [Conspiracy V2](https://open.spotify.com/track/7vHST6OyzmuCAHTpqu7LAr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Conspiracy V2](https://open.spotify.com/album/0EnQlROiaoX8rxDgRCyrkG) | 2:47 | 2024-08-01 | 2024-08-09 |

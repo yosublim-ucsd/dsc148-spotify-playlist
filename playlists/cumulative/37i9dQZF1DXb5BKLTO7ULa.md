@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Suzan & Freek
 
-9,256 songs - 20 day 4 hr 37 min
+9,257 songs - 20 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1613,6 +1613,7 @@
 | [Concentrate](https://open.spotify.com/track/08tKUaZyUmJZPNpWiIylL6) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Concentrate](https://open.spotify.com/album/4GiKq0Wa3bHPpotwNqZsex) | 3:33 | 2023-06-08 | 2023-06-16 |
 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 | 2024-04-04 | 2024-04-12 |
 | [Confesión](https://open.spotify.com/track/1PqnpdJoZWE3INJMzBGXlR) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Confesión](https://open.spotify.com/album/7iMuThPJ3HcETCq6KlrPXE) | 3:09 | 2023-12-08 | 2023-12-15 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 |  |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-13 | 2023-04-21 |
 | [Confetti](https://open.spotify.com/track/2QdLK8Px4ogArZbqV4fzyF) | [Hiwot Music](https://open.spotify.com/artist/6XA5RMPFFjXUEksZkHHCh7), [Hiwot](https://open.spotify.com/artist/1I4MIUVnff0JGmxgjcXeX9) | [Confetti](https://open.spotify.com/album/5aJiOr7wOCxeMZ08Jb5jbT) | 2:40 | 2023-08-17 | 2023-08-25 |
 | [Confetti Shotgun](https://open.spotify.com/track/4J45Ao8BanDiZ7N2QW2Jev) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Confetti Shotgun](https://open.spotify.com/album/5wIOtVTlHV6FNUnmrdneLs) | 3:08 | 2023-04-20 | 2023-04-28 |

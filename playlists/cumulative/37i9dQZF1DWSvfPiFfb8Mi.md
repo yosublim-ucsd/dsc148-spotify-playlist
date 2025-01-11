@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-340 songs - 22 hr 26 min
+341 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 | 2023-10-27 |  |
 | [Disco Dancing \(feat\. Ayoni\) \- Lazywax Remix](https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9) | [Namy](https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Disco Dancing \(feat\. Ayoni\) \[Lazywax Remix\]](https://open.spotify.com/album/3nZuiK8r2Rk89xH240mhH5) | 6:42 | 2023-05-19 | 2023-07-29 |
 | [Disco Maniac](https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Disco Maniac](https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD) | 2:24 | 2023-05-19 | 2024-09-12 |
+| [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-10 |  |
 | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/track/2vHpvjpGvISOnDrhls2wd4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/album/3xdYgfhCPGNKdEihLuEOiB) | 3:59 | 2021-07-24 | 2022-06-21 |
 | [do I really scare you?](https://open.spotify.com/track/0CvIGlsdn8QT4cT3EzMnYS) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [do I really scare you?](https://open.spotify.com/album/5LfpokYXn1BI20ScEELq8h) | 3:00 | 2023-06-23 | 2023-08-18 |
 | [Domino](https://open.spotify.com/track/4VaMlcKj3wWdFhOeyYCDgM) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Domino](https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK) | 4:31 | 2021-07-24 | 2023-05-20 |
@@ -227,7 +228,7 @@
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
-| [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 | 2024-08-30 |  |
+| [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 | 2024-08-30 | 2025-01-11 |
 | [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 | 2024-10-04 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 |  |

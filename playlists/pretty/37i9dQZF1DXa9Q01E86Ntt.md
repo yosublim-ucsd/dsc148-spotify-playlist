@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,480 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,505 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 12 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 13 | [TIBETAN DANCE](https://open.spotify.com/track/4AbkIYykiZVzWbQaUCdloT) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ongaku Zukan \-2015 Edition\-](https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR) | 5:03 |
 | 14 | [変革の世紀 \- ピアノ・ソロ](https://open.spotify.com/track/6LVZrwMtVshH2x4gad9jTf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [変革の世紀](https://open.spotify.com/album/3GEighWZunz7IbtsiVWd16) | 3:22 |
-| 15 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 |
+| 15 | [Life, Life](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 |
 | 16 | [Happy End](https://open.spotify.com/track/1t0wA9xkyYZnlPuT6x0cJE) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [THREE](https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc) | 5:23 |
 | 17 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
 | 18 | [Seven Samurai \- ending theme](https://open.spotify.com/track/6zw0DPKOhqYC3yWM4HruKW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [THREE](https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc) | 5:45 |

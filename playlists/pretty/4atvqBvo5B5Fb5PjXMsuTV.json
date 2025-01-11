@@ -1,13 +1,109 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Jan 19:02 UTC.",
-  "num_followers": 86,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Jan 23:02 UTC.",
+  "num_followers": 87,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOZt0+HQCHt3gpudyxbkTDGcipz4Pf",
+  "snapshot_id": "AAAOcKQ8UZps+hJbrQQVvlU3jT5l2Im/",
   "tracks": [
+    {
+      "added_at": "2025-01-10 09:02:54",
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
+    },
+    {
+      "added_at": "2025-01-10 23:02:47",
+      "album": {
+        "name": "When We Kiss",
+        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 212682,
+      "name": "When We Kiss",
+      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
+    },
+    {
+      "added_at": "2025-01-10 14:02:54",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/7j5Yv657U7sLd5AoLlm5ZU"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 335233,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/6zkQMyz95McIOpoR01l0T9"
+    },
+    {
+      "added_at": "2025-01-10 19:02:51",
+      "album": {
+        "name": "Single File Line",
+        "url": "https://open.spotify.com/album/5ubqjn1OiCSkv9RAF9sFsy"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 130673,
+      "name": "Single File Line",
+      "url": "https://open.spotify.com/track/3jZTAWOSNWaWauQ03WX9da"
+    },
+    {
+      "added_at": "2025-01-10 09:02:54",
+      "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "added_at": "2025-01-10 09:02:54",
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/4dF8UpDyIp7wld4rbmmyf1"
+      },
+      "artists": [
+        {
+          "name": "1oneam",
+          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/1SH8lZ4fP6dt7PjEhji4pD"
+    },
     {
       "added_at": "2025-01-09 19:02:27",
       "album": {
@@ -39,6 +135,54 @@
       "duration_ms": 205632,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
+    },
+    {
+      "added_at": "2025-01-10 19:02:51",
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
+    },
+    {
+      "added_at": "2025-01-10 19:02:51",
+      "album": {
+        "name": "Dead forever",
+        "url": "https://open.spotify.com/album/2EGCZY7MOJLFtIhbvn1sDR"
+      },
+      "artists": [
+        {
+          "name": "venturing",
+          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
+        }
+      ],
+      "duration_ms": 243645,
+      "name": "Dead forever",
+      "url": "https://open.spotify.com/track/2zPu1BwyJ90Rfxp37ZVjgm"
+    },
+    {
+      "added_at": "2025-01-10 23:02:47",
+      "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2025-01-09 04:02:30",
@@ -215,6 +359,26 @@
       "duration_ms": 282042,
       "name": "Ferry Lady",
       "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
+    },
+    {
+      "added_at": "2025-01-10 09:02:54",
+      "album": {
+        "name": "Nothing For Free",
+        "url": "https://open.spotify.com/album/6QjzoSdwuKMeMdeomvaZhQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        },
+        {
+          "name": "808 Wigguh",
+          "url": "https://open.spotify.com/artist/5FLD7rDhW2tNfYIymZXPsJ"
+        }
+      ],
+      "duration_ms": 144465,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/0XgWkTbe4G9mQHkPv9mhzS"
     },
     {
       "added_at": "2025-01-03 23:02:40",
@@ -747,194 +911,6 @@
       "duration_ms": 157599,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/2mJd5j7c5Jc58R6YIBCEPe"
-    },
-    {
-      "added_at": "2024-12-28 09:02:25",
-      "album": {
-        "name": "panelinha do diabo (DISS RAPKHAOS)",
-        "url": "https://open.spotify.com/album/1xfKGJ5Pxh2xAvEhc7KGTq"
-      },
-      "artists": [
-        {
-          "name": "COPA",
-          "url": "https://open.spotify.com/artist/7tYGxLSeKCdeKIBKltCi94"
-        },
-        {
-          "name": "IKU THE KID",
-          "url": "https://open.spotify.com/artist/27rSFoEywL1cIeKc7hAswn"
-        },
-        {
-          "name": "YUNG EXU",
-          "url": "https://open.spotify.com/artist/3DXjbJTy8X1dniEV37jd89"
-        }
-      ],
-      "duration_ms": 685583,
-      "name": "panelinha do diabo (DISS RAPKHAOS)",
-      "url": "https://open.spotify.com/track/62U12qdWdBd6E0U0JDQ33l"
-    },
-    {
-      "added_at": "2024-12-24 04:02:26",
-      "album": {
-        "name": "from",
-        "url": "https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "from",
-      "url": "https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87"
-    },
-    {
-      "added_at": "2024-12-23 14:02:37",
-      "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/4GKRgu7kLbEPjkOG3wiMhU"
-      },
-      "artists": [
-        {
-          "name": "Kim Kardashian",
-          "url": "https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt"
-        }
-      ],
-      "duration_ms": 209677,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA"
-    },
-    {
-      "added_at": "2024-12-25 19:02:42",
-      "album": {
-        "name": "Jitnunkebi (Winter's Song)",
-        "url": "https://open.spotify.com/album/0z1ASNgc6V1lyYrQ8z3Lr8"
-      },
-      "artists": [
-        {
-          "name": "Asian Glow",
-          "url": "https://open.spotify.com/artist/74om4qLxb9MIsubhtvxQQJ"
-        }
-      ],
-      "duration_ms": 430101,
-      "name": "Jitnunkebi (Winter's Song)",
-      "url": "https://open.spotify.com/track/66AGzpId4asIo8irfw0WAY"
-    },
-    {
-      "added_at": "2024-12-22 09:03:03",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
-    },
-    {
-      "added_at": "2024-12-21 09:02:52",
-      "album": {
-        "name": "ChikiBam!",
-        "url": "https://open.spotify.com/album/41FALJCRZHYuaJnBaAlqlN"
-      },
-      "artists": [
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        },
-        {
-          "name": "Transgresorcorruptor",
-          "url": "https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3"
-        }
-      ],
-      "duration_ms": 231423,
-      "name": "ChikiBam!",
-      "url": "https://open.spotify.com/track/7LvlyJwsMj9vd8vdJn1CDh"
-    },
-    {
-      "added_at": "2024-12-21 23:03:13",
-      "album": {
-        "name": "TS3",
-        "url": "https://open.spotify.com/album/4uPHXwQukvX8nesUKFiFTO"
-      },
-      "artists": [
-        {
-          "name": "K Suave",
-          "url": "https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "TS3",
-      "url": "https://open.spotify.com/track/3UOkWxI8Dm8j0coa7oE5Pv"
-    },
-    {
-      "added_at": "2024-12-21 23:03:13",
-      "album": {
-        "name": "Come Back To Me (Shadow The Hedgehog Song)",
-        "url": "https://open.spotify.com/album/7xIrUCTT5WTCe5GPayvR44"
-      },
-      "artists": [
-        {
-          "name": "LongestSoloEver",
-          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
-        },
-        {
-          "name": "HalaCG",
-          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
-        },
-        {
-          "name": "Breeton Boi",
-          "url": "https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Come Back To Me (Shadow The Hedgehog Song)",
-      "url": "https://open.spotify.com/track/3FLCHzfeXSHKx8sWxYfNeT"
-    },
-    {
-      "added_at": "2024-12-21 09:02:52",
-      "album": {
-        "name": "I Want a Bowl of Ethereal",
-        "url": "https://open.spotify.com/album/4yGTWAirid2wWLVGy22VI9"
-      },
-      "artists": [
-        {
-          "name": "Acidgvrl",
-          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
-        },
-        {
-          "name": "SadGirlsVsTheWorld",
-          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
-        },
-        {
-          "name": "J\u00fbki",
-          "url": "https://open.spotify.com/artist/34077kOsdrnCQJpod7rj5x"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "I Want a Bowl of Ethereal",
-      "url": "https://open.spotify.com/track/32GOP7QKjG8HDHTQWsz7oR"
-    },
-    {
-      "added_at": "2024-12-22 19:02:52",
-      "album": {
-        "name": "ICKY",
-        "url": "https://open.spotify.com/album/4CboKUWt3SCC6iKsDWyDI8"
-      },
-      "artists": [
-        {
-          "name": "2shanez",
-          "url": "https://open.spotify.com/artist/3WJh6tiFV4GzcwBPrjsH2v"
-        }
-      ],
-      "duration_ms": 96911,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/6pSu31TOKgjDceSskEW4jf"
     }
   ],
   "unique_name": "New Singles Now",

@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 149576,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 111293,
       "name": "Mimar Voc\u00ea",
       "url": "https://open.spotify.com/track/6YkgFcnZO2mFf8voFJujY5"
@@ -3586,6 +3586,24 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "album": {
+        "name": "N\u00eaga Meiguice",
+        "url": "https://open.spotify.com/album/1zyH9rnEtQw1io8H1r8hvP"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203347,
+      "name": "N\u00eaga Meiguice",
+      "url": "https://open.spotify.com/track/2D1mu0wDAKHT9z9lQPHaDT"
     },
     {
       "album": {
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 182325,
       "name": "Quero Acordar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"

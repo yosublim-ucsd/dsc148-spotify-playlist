@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Josh Ross
+> The home of Canadian country music\. Cover: James Barker Band
 
-177 songs - 9 hr 40 min
+179 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 | 2024-09-14 |
 | [Halfway](https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Halfway](https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3) | 3:39 | 2024-08-23 | 2024-09-14 |
 | [Hangover At My Place](https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Hangover At My Place](https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD) | 3:16 | 2024-09-13 |  |
+| [Happy Ever After You](https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v) | 3:17 | 2025-01-10 |  |
 | [He's The One](https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [He's The One](https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT) | 3:13 | 2024-08-23 |  |
 | [Heartbreak Saloon](https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Heartbreak Saloon](https://open.spotify.com/album/67fo7zpzdcwoYr7vfXHbhn) | 4:07 | 2024-08-16 | 2024-10-19 |
 | [HELL YEAH](https://open.spotify.com/track/6ihqdWcWjIMoTtdPgevo2K) | [Andy Colonico](https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO) | [HELL YEAH](https://open.spotify.com/album/4hI2zD9yAGH86zksyQE1U6) | 3:20 | 2024-06-28 | 2024-07-19 |
@@ -76,7 +77,7 @@
 | [I Came Here to Leave You](https://open.spotify.com/track/6g9Qf4VIsk8NRGCjuXIp1e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui) | 2:58 | 2024-06-28 | 2024-09-14 |
 | [I Grew Up On A Farm](https://open.spotify.com/track/3pBvU01semQ9Aia5KzoVGn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [I Grew Up On A Farm](https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv) | 3:11 | 2024-06-28 | 2024-08-10 |
 | [I Miss Tom Petty](https://open.spotify.com/track/2cKLJiaJwgoPDEMNqibPxn) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [I Miss Tom Petty](https://open.spotify.com/album/2jipnmsimfXo4shzek45q2) | 3:06 | 2024-07-05 | 2024-10-19 |
-| [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 | 2024-10-04 |  |
+| [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 | 2024-10-04 | 2025-01-11 |
 | [If I Drink Enough](https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F) | 2:51 | 2024-08-09 |  |
 | [In Love With La](https://open.spotify.com/track/2lgWZMHYkOJG6695htHd5O) | [Emilie Roberts](https://open.spotify.com/artist/7J4Swtcm5xXwk5FRarp4v0) | [In Love With La](https://open.spotify.com/album/6XKWwqhcz0hXgimpL4jfze) | 3:14 | 2024-10-18 | 2024-11-02 |
 | [Jealous Of Jesus](https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Jealous Of Jesus](https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj) | 3:36 | 2024-11-15 |  |
@@ -171,7 +172,7 @@
 | [What Got Me Here](https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz) | [Jason Kirkness](https://open.spotify.com/artist/6gzw8meygQ3Yl6zfBdNiDQ) | [What Got Me Here](https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP) | 3:16 | 2024-11-22 |  |
 | [What Shoulder](https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [What Shoulder](https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy) | 2:56 | 2024-07-12 | 2024-09-07 |
 | [What Were You Thinking](https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [What Were You Thinking](https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt) | 3:36 | 2024-10-04 |  |
-| [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 | 2024-10-18 |  |
+| [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 | 2024-10-18 | 2025-01-11 |
 | [Whether You Love Me or Not](https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Whether You Love Me or Not](https://open.spotify.com/album/6BsAYtZi9spVp8zw2JF5Ue) | 3:28 | 2024-06-28 | 2024-07-13 |
 | [Whiskey Bottle](https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Whiskey Bottle](https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e) | 2:58 | 2024-06-28 | 2024-09-14 |
 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 | 2024-06-28 | 2024-10-12 |
@@ -182,6 +183,7 @@
 | [Wreckin' this Truck](https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [From A to B](https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF) | 3:32 | 2024-07-19 | 2024-11-02 |
 | [Written All Over It](https://open.spotify.com/track/6oX7x3oEqDJ0uf0iw3Z0TL) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Written All Over It](https://open.spotify.com/album/77aqU7xpaxrWB1KsLzlZEJ) | 3:04 | 2024-06-28 | 2024-08-31 |
 | [You and Me](https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [You and Me](https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3) | 2:27 | 2024-08-16 |  |
+| [You Didn’t Hear It From Me](https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [You Didn’t Hear It From Me](https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv) | 3:09 | 2025-01-10 |  |
 | [Your Mama Would Hate Me](https://open.spotify.com/track/375dfgV3eOlNGGtPXrorXG) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak), [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Your Mama Would Hate Me](https://open.spotify.com/album/4Z7SxkeZHMsO555QCGADwk) | 2:53 | 2024-06-28 | 2024-10-05 |
 | [Your Time to Stay](https://open.spotify.com/track/0xb6hOMY4KxjoSEHgeslZQ) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Your Time to Stay](https://open.spotify.com/album/3kIPmiOQBUlVuTKcTykGvl) | 2:41 | 2024-09-27 | 2024-10-19 |
 | [Youth](https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Youth](https://open.spotify.com/album/5nMzr2speC3Wj7dlk718M6) | 3:16 | 2024-10-04 | 2024-11-23 |

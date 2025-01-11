@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-674 songs - 2 day 17 hr 55 min
+675 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-04-05 | 2023-04-29 |
 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-04-05 | 2023-04-20 |
 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-05 | 2024-04-19 |
+| [Euphoria \- Jan Blomqvist Remix Edit](https://open.spotify.com/track/77XYcWypukNOCbRw8yhlfc) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Euphoria \(Jan Blomqvist Remix Edit\)](https://open.spotify.com/album/5m5ULfpL5r7gKdey90SX3u) | 3:34 | 2025-01-10 |  |
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-12-17 | 2022-07-28 |
 | [Expander](https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Expander](https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ) | 7:24 | 2022-09-30 | 2022-10-08 |
 | [Explore](https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Explore](https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L) | 4:59 | 2022-09-30 | 2022-10-08 |
@@ -424,7 +425,7 @@
 | [Organic](https://open.spotify.com/track/278bKEd7Fus9UYUReNULqb) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [In Search of the End, Pt\. II](https://open.spotify.com/album/4A4tHDjf79N2Hbs5z26qdA) | 7:06 | 2019-08-06\* | 2020-01-08 |
 | [Osmania](https://open.spotify.com/track/0w01wALkj28OhGVI1ZSpLf) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Osmania](https://open.spotify.com/album/002uFU6VK2WksuIQgVYSOk) | 3:55 | 2021-12-17 | 2022-04-17 |
 | [Otherside](https://open.spotify.com/track/7oTqFPv5TdRyso9NkaLsyW) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Otherside](https://open.spotify.com/album/12QFIDVPfjQxIzHKKVRnGq) | 3:08 | 2020-12-24 | 2021-02-27 |
-| [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 | 2021-02-27 |  |
+| [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 | 2021-02-27 | 2025-01-11 |
 | [Otomo](https://open.spotify.com/track/3VRemRqHZi7qiWzJfc684f) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Otomo](https://open.spotify.com/album/2zSMwsGd7r6fkJBoXkv3lQ) | 6:11 | 2021-11-28 | 2022-07-11 |
 | [Our Destiny](https://open.spotify.com/track/0irQRf0rsfuQTTkGXB2csl) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Our Destiny](https://open.spotify.com/album/1ZrEv1LhZ8D5ZlnMhRYanF) | 8:00 | 2020-06-20 | 2020-10-03 |
 | [Over This](https://open.spotify.com/track/5QBoohH8QfwtCrH2ZSWpJ8) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Over This](https://open.spotify.com/album/4CW8zt2ESTeGcImRoJLIni) | 3:53 | 2020-09-11 | 2022-10-01 |

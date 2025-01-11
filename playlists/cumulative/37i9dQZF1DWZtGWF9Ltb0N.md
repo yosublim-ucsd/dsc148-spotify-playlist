@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-722 songs - 2 day 0 hr 47 min
+724 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bleed](https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:20 | 2022-08-12 | 2024-11-09 |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-02-17 | 2024-09-14 |
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-09-15 | 2024-02-03 |
-| [BODIES](https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [BODIES](https://open.spotify.com/album/60wKp6mKfrdUEYGppNPVN9) | 4:11 | 2024-08-23 |  |
+| [BODIES](https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [BODIES](https://open.spotify.com/album/60wKp6mKfrdUEYGppNPVN9) | 4:11 | 2024-08-23 | 2025-01-11 |
 | [Boi](https://open.spotify.com/track/7aCc1Qi6GLpzR3yOzgGJnl) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Boi](https://open.spotify.com/album/2EpK3T7VOSuuJeFWGsdqof) | 3:38 | 2023-09-15 | 2023-10-28 |
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Bonker.s](https://open.spotify.com/track/2JpKHShAfduhwMMU7oJvfx) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Bonker.s](https://open.spotify.com/album/1e8j0JFqQfRIy36IqPNHtU) | 3:15 | 2024-11-08 |  |
@@ -486,7 +486,7 @@
 | [Profound](https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Kaleidoscope, Vol\. 2](https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY) | 5:04 | 2022-02-17 | 2022-07-30 |
 | [Psycho Sushi](https://open.spotify.com/track/5QtuIc4VSjUp2nniV903bZ) | [Eva808](https://open.spotify.com/artist/6BgBdBrs55ObAN04jkmn0Q) | [Psycho Sushi](https://open.spotify.com/album/4RjrGw3HvUfW6fefKoHJfS) | 4:23 | 2022-02-17 | 2022-04-09 |
 | [Psychosis](https://open.spotify.com/track/2VTpMLEAkRwy1fpokBElm6) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Psychosis](https://open.spotify.com/album/3LjPEsUdZeRAVxTBjdgm5z) | 4:02 | 2024-02-16 |  |
-| [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 | 2022-02-17 |  |
+| [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 | 2022-02-17 | 2025-01-11 |
 | [Pula Riddim](https://open.spotify.com/track/0G1wBqjlZBfs76i3BO4hIc) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Hold and Pull](https://open.spotify.com/album/1tSfn3zNanP0h8b9qEebEq) | 5:12 | 2022-02-17 | 2022-07-01 |
 | [Pulah](https://open.spotify.com/track/4IUjouPv1U45nvpmb0ZIC4) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Pulah](https://open.spotify.com/album/6qqnpJWz4oecaOmDXkGwfJ) | 3:05 | 2022-05-27 | 2022-11-11 |
 | [Pulse](https://open.spotify.com/track/5g7gJzOgSt8iujy6DORM50) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Pulse](https://open.spotify.com/album/78tirUQlTQeqiZpTyXdXkO) | 2:27 | 2023-09-29 |  |
@@ -562,6 +562,7 @@
 | [Shuriken](https://open.spotify.com/track/6Q4h3t4NS4UDL8P2jsuYS7) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Headland](https://open.spotify.com/artist/1lgQK2ZzhWHY54kWPABNAb) | [Shuriken](https://open.spotify.com/album/4BSyCTMEaBAgIasCcT001h) | 6:00 | 2023-06-09 | 2023-08-24 |
 | [Sick Fing](https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Sick Fing](https://open.spotify.com/album/3DWjqUtrpV32qaHWwyrhkd) | 4:12 | 2022-07-01 | 2022-10-22 |
 | [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 | 2024-03-22 |  |
+| [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 | 2025-01-10 |  |
 | [Simplicity](https://open.spotify.com/track/4VlfpC3JkhxPhZtypJ1j0U) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Simplicity](https://open.spotify.com/album/6WZDjTXxLKKviWuAgd71xv) | 3:52 | 2024-04-19 |  |
 | [Single Entity](https://open.spotify.com/track/6boVvpFAMZgqdoFOPnHaGx) | [Killawatt](https://open.spotify.com/artist/0WaR9ydw7sZikp1dfHV8Xc) | [This Is Dubstep 2013](https://open.spotify.com/album/3662bNO8Ynjc0kMXvo1BXW) | 5:36 | 2022-02-17 | 2022-07-24 |
 | [Sinker](https://open.spotify.com/track/0FnaZWJgBpObO0SsIiy3Cb) | [Goth\-Trad](https://open.spotify.com/artist/133pV477MVSsj1MHgsrIc9) | [Sinker / Sunbeam VIP](https://open.spotify.com/album/1NWNgQdgp03DVaMtEguJ6c) | 5:15 | 2022-02-17 | 2022-04-08 |
@@ -691,6 +692,7 @@
 | [Void](https://open.spotify.com/track/6XkIosvL893aYi8lD5KDVy) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Void](https://open.spotify.com/album/46zHod6Ohy5qzsX7nc9fcO) | 2:16 | 2023-03-17 | 2023-05-08 |
 | [Voodoo Ish](https://open.spotify.com/track/7inGk5zHtRI27UfgI9esff) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Donnie Danko](https://open.spotify.com/artist/6rxntQEFOoobBvTGd1MNFX) | [Voodoo Ish](https://open.spotify.com/album/7nTF9NDGtd5qHQNfQF8uJh) | 3:17 | 2023-01-13 | 2024-05-25 |
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
+| [Wake UP](https://open.spotify.com/track/5tiKz376uXROAzXTdDZi2a) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Wake UP](https://open.spotify.com/album/2WcBVDyY61Ma7KIWTftcQB) | 3:46 | 2025-01-10 |  |
 | [Wanchai](https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Wanchai](https://open.spotify.com/album/0KxrYioG8RSZf2YK6ntuOb) | 3:46 | 2023-09-22 | 2024-08-20 |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
 | [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-08-18 |

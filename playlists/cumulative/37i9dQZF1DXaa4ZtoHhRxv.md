@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-211 songs - 11 hr 20 min
+212 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [One Big Country Song \- RoadHouse Remix](https://open.spotify.com/track/7LQ3fdrgP5ZlkpSFIYFSYq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [RoadHouse](https://open.spotify.com/artist/6Nf3jLrIOWnKsvdpJcup2y) | [One Big Country Song \(RoadHouse Remix\)](https://open.spotify.com/album/7mmzLcJUhdzQfJs1z0FxG1) | 3:10 | 2021-12-10 |  |
 | [One More Night](https://open.spotify.com/track/2AVPzA25KIhxm7TXSNBKF1) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 2:37 | 2021-12-10 |  |
 | [One Night Left](https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Night Left](https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4) | 3:27 | 2022-11-18 |  |
+| [One Of Them Girls \(VAVO Remix\)](https://open.spotify.com/track/0CjLazxB3sgVj5tLOj2hKR) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [One Of Them Girls \(VAVO Remix\)](https://open.spotify.com/album/0F9eRfVQYGuj2XuEObJU3w) | 2:54 | 2025-01-10 |  |
 | [One Tequila \- MC4D Remix](https://open.spotify.com/track/5LCjdMljRMFOLsq5yPCAYE) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI) | [One Tequila \(MC4D Remix\)](https://open.spotify.com/album/7gkhhR2zuXPypvrUPD7Ktx) | 3:04 | 2023-09-15 |  |
 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 | 2021-12-10 |  |
 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 | 2024-03-01 |  |

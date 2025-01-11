@@ -1,13 +1,37 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 132353,
+  "num_followers": 132398,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAABmc4ZA73wF5dUZS3gkYrEL",
+  "snapshot_id": "Z4CpXQAAAAAstoonqRwp6bMW/v38qAG+",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
+        "name": "220",
+        "url": "https://open.spotify.com/album/2EToGNnXG3eM5yuTasrokh"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        },
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "220",
+      "url": "https://open.spotify.com/track/7c0YUHgp50nEISswBMsZqq"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -739,26 +763,6 @@
       "duration_ms": 181709,
       "name": "Only Tonight",
       "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Thieves",
-        "url": "https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S"
-      },
-      "artists": [
-        {
-          "name": "Alex Cherney",
-          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
-        },
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 244823,
-      "name": "Take My Heart Away",
-      "url": "https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB"
     },
     {
       "added_at": "2024-03-15 04:01:00",

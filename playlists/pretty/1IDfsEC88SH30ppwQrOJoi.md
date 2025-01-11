@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,398 likes - 91 songs - 4 hr 31 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,397 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 89 | [All Night Long](https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Nate James](https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:59 |
 | 90 | [All Night](https://open.spotify.com/track/0s8S6DLgldcYVR0pvL4Z7t) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy) | [All Night](https://open.spotify.com/album/1Px6f3ysBmcKMQHKffIMoD) | 2:20 |
 | 91 | [4U \- Edu Campos Remix](https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Edu Campos](https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 |
+| 92 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 |
+| 93 | [Diamonds](https://open.spotify.com/track/15RRojwJin9SYzZopZ8PDm) | [Ian G](https://open.spotify.com/artist/2nQYxgKdzxuDMstR4zAg7g), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Diamonds](https://open.spotify.com/album/4m1QQzp3Rz5w0NTiYWL2tC) | 2:36 |
 
-Snapshot ID: `AAAKKBxEjrdBR+ou72XTkBOUTkCyuEN4`
+Snapshot ID: `AAAKKg6P77PcMA1+WwlJp+iIKSFo/WMD`

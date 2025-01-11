@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 12489,
+  "num_followers": 12512,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33AAAAAAADQZ4Z+r52jX0BKBotuvAba",
+  "snapshot_id": "Z38RgAAAAAC9tP6hu4CIeg/cvY7HT5cy",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+      "duration_ms": 161133,
+      "name": "Steamboat",
+      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Steamboat",
-      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "added_at": null,

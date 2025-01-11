@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370,124 likes - 190 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370,257 likes - 190 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

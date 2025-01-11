@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 354721,
+  "num_followers": 354828,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du5AAAAAC40RSbLaJlSV7pqo7Ld7yF",
+  "snapshot_id": "Z4CpWQAAAABHe3EKUn+gmC3Wr8Kf++83",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:09",
+      "album": {
+        "name": "Your Light",
+        "url": "https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6"
+    },
     {
       "added_at": "2025-01-03 05:00:20",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 192000,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf"
     },
     {
       "added_at": "2024-10-18 04:00:00",

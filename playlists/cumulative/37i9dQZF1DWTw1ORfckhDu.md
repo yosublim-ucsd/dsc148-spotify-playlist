@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa SHRTY.
 
-770 songs - 1 day 12 hr 34 min
+771 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Hautajaiset](https://open.spotify.com/track/3DaL9LNmDqVyE4RiqDIGj4) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Hautajaiset](https://open.spotify.com/album/09bwleTFRG6VZ8FKcAV8nH) | 3:23 | 2024-01-04 | 2024-04-12 |
 | [Heikkouteni \(feat\. TUULI\)](https://open.spotify.com/track/1NwbEj6H1dRsgPcd7CKJNa) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Heikkouteni \(feat\. TUULI\)](https://open.spotify.com/album/7wZliZxFJkex0nchrnWtFe) | 3:03 | 2024-02-29 | 2024-06-01 |
 | [Helene Schjerfbeck](https://open.spotify.com/track/5uwazsy0hDAimuZsRJ80zN) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Helene Schjerfbeck](https://open.spotify.com/album/6O4cA21L2nNUqALNmqjGZV) | 2:28 | 2024-02-22 | 2024-03-15 |
+| [Hellcat](https://open.spotify.com/track/1h5PLDRhFtTo1RqEj1nx3w) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [Hellcat](https://open.spotify.com/album/2IE8s3W5UUk3uVk3qDbg6B) | 2:34 | 2025-01-10 |  |
 | [Helsingis on tulva \(feat\. Tupe.\)](https://open.spotify.com/track/2wChCqIBwqiD84H5cn17kR) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Helsingis on tulva \(feat\. Tupe.\)](https://open.spotify.com/album/6j4z0Wasx2GXnM37GLp9uo) | 2:20 | 2023-09-21 | 2023-10-06 |
 | [Hennessy](https://open.spotify.com/track/0QOBCavteYsPL8QRJYrB68) | [RPN](https://open.spotify.com/artist/6dtQtirlNUUC5eUqcfivHy), [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q), [Kunelius](https://open.spotify.com/artist/66Tmd6eeAzmH3ZVbYaWr8o) | [Hennessy](https://open.spotify.com/album/3ZXu1oHEFLmtRstDA4jCw2) | 3:52 | 2024-08-08 | 2024-08-16 |
 | [hetken onnellinen](https://open.spotify.com/track/6N70ubRRYja97l359v4IcU) | [Aitio](https://open.spotify.com/artist/0OafXDsXpxU3Pz1Ci11ira), [Samuli Heimo](https://open.spotify.com/artist/0y9v1aZtpENgyB9VlYoBeW) | [hetken onnellinen](https://open.spotify.com/album/6EuPi060ZBCZvfdDuW8UgA) | 2:50 | 2024-05-09 | 2024-07-02 |
@@ -712,7 +713,7 @@
 | [UPSET](https://open.spotify.com/track/3rA6GMPodPP30dV0X8S9oD) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [UPSET](https://open.spotify.com/album/5DWeJJEbyd9HLubYMLGOI2) | 3:07 | 2023-12-14 | 2024-01-05 |
 | [Urpo](https://open.spotify.com/track/7go7eCE32tIGSNsfQIx6Uq) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Urpo](https://open.spotify.com/album/72ipO4FTjXIuhwozG9qZUh) | 3:20 | 2023-12-21 | 2024-01-05 |
 | [UUS VUOS SAMA MÄ](https://open.spotify.com/track/6lrdUifi9Bym7R22HtXbP8) | [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [UUS VUOS SAMA MÄ](https://open.spotify.com/album/2JquxU9arQ3QQkqAGh8Jy7) | 2:34 | 2024-01-25 | 2024-02-02 |
-| [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 |  |
+| [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 | 2025-01-11 |
 | [vaaleenpunainen tuuli](https://open.spotify.com/track/5dkQgHTiFMq3x5gWFpSi9L) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN) | [sadboi](https://open.spotify.com/album/4dXT10ipv9kGWJZpcHPSDC) | 2:31 | 2024-03-07 | 2024-03-22 |
 | [Vaan sä](https://open.spotify.com/track/01yA7KxtfCIonnl9BE7ayr) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Vaan sä](https://open.spotify.com/album/02mV5H3nlWdAvppMrx9TQ1) | 2:42 | 2024-02-15 | 2024-05-10 |
 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 | 2024-10-25 |

@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 70654,
+  "num_followers": 70688,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du5AAAAAAc3PpC79pUyigTiJ62NpzR",
+  "snapshot_id": "Z4CpWAAAAAClAnp39bXEDbgj2OTjHObO",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP"
+    },
     {
       "added_at": "2025-01-03 05:00:20",
       "album": {
@@ -443,22 +459,6 @@
       "duration_ms": 298000,
       "name": "Embrace (feat. Bill Moio)",
       "url": "https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Dancin' Shoes",
-        "url": "https://open.spotify.com/album/6belLLcGyIpignX9wYStN8"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T"
     },
     {
       "added_at": "2024-04-19 04:01:00",

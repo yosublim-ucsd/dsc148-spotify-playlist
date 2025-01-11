@@ -6013,6 +6013,28 @@
     },
     {
       "album": {
+        "name": "Known By You (Live)",
+        "url": "https://open.spotify.com/album/3CJaSJ6sruq0ntn4BzbQfl"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 659982,
+      "name": "Known By You - Live",
+      "url": "https://open.spotify.com/track/0vOw510PyX1EIuRZwURX9H"
+    },
+    {
+      "album": {
         "name": "Lay It All Down",
         "url": "https://open.spotify.com/album/56wIBe9Y5eD0u5szbFFHP1"
       },

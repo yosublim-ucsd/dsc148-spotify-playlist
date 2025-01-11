@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18494,
+  "num_followers": 18495,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
         "name": "Like Nothing",
         "url": "https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 171000,
       "name": "Like Nothing (Feat. YOUHA, Kim Seungmin)",
       "url": "https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Fashion Hoarder",
-        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        }
-      ],
-      "duration_ms": 187061,
-      "name": "Fashion Hoarder",
-      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 180006,
       "name": "GOOD",
       "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Fashion Hoarder",
+        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "duration_ms": 187061,
+      "name": "Fashion Hoarder",
+      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
     },
     {
       "added_at": "2024-10-08 11:00:53",

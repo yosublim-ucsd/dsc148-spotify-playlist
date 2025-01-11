@@ -307,6 +307,28 @@
     },
     {
       "album": {
+        "name": "Aimer \u00c0 Moiti\u00e9 (Calema X Tayc Remix)",
+        "url": "https://open.spotify.com/album/23UnRzYd32ffjSaxhoAveN"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215790,
+      "name": "Aimer \u00c0 Moiti\u00e9 - Calema X Tayc Remix",
+      "url": "https://open.spotify.com/track/70MKQVLd0BzLnBpaHRylEo"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 382585,
+  "num_followers": 382587,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAAl3KCgcfRBGplvjnjTAHq0",
+  "snapshot_id": "Z4CpWAAAAAAQiCTRIpRyqb2Wr3ywaFoP",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:08",
+      "album": {
+        "name": "Back In Town (again)",
+        "url": "https://open.spotify.com/album/6SYYXVPvTi1wKBOLocdSZQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Back In Town (again)",
+      "url": "https://open.spotify.com/track/1bY8DaFmvQeP9ulGrAA6J1"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -2291,22 +2307,6 @@
       "duration_ms": 206541,
       "name": "The Little Man Who Wasn't There",
       "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     },
     {
       "added_at": "2024-11-04 16:02:20",

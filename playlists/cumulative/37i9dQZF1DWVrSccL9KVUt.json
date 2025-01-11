@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Gracie Binion",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: TAYA",
   "name": "Women of Faith",
   "tracks": [
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK"
+    },
     {
       "album": {
         "name": "6:12",
@@ -897,6 +915,24 @@
     },
     {
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203824,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
+    },
+    {
+      "album": {
         "name": "For Your Glory",
         "url": "https://open.spotify.com/album/6IAvSdF3pVGPueVGcWtazv"
       },
@@ -1196,7 +1232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 201973,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/4HjHupE2zwoz5GQLWIywhY"
@@ -3615,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Worship!",
+        "url": "https://open.spotify.com/album/3oYzCAKcT1AVna2vPCYWxF"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241574,
+      "name": "Worship!",
+      "url": "https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr"
+    },
+    {
+      "album": {
         "name": "Wouldn't Change a Thing",
         "url": "https://open.spotify.com/album/7yl6G54uyUIn9FdgjYiqqU"
       },
@@ -3644,7 +3698,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 313815,
       "name": "Yes",
       "url": "https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z"

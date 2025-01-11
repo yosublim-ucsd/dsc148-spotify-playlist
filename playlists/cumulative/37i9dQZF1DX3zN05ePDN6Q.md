@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-597 songs - 1 day 7 hr 25 min
+598 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,8 +135,9 @@
 | [Corre Corre](https://open.spotify.com/track/0ne5XUx9CN1AQ0iPrGhs1n) | [NORTRAGAMUS](https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV) | [Corre Corre](https://open.spotify.com/album/2doH1fNHgSAqATTCu76g9o) | 3:03 | 2024-06-07 |  |
 | [Correria](https://open.spotify.com/track/4nH9etbzEQzpO8mCHbcHJp) | [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [Pepzi](https://open.spotify.com/artist/0UA5ouG9CGXcO3q1yXCOdx), [Daime](https://open.spotify.com/artist/0sDtPkmhXtYGo5Wvat3oBO) | [Correria](https://open.spotify.com/album/3bR57Lscy4QXmCfXyGN3ho) | 4:16 | 2022-03-18 | 2022-04-16 |
 | [Cortexiphan \#05](https://open.spotify.com/track/0kLlpRIX89EGeU7yRwqjzR) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Cortexiphan\*](https://open.spotify.com/album/1UE0RyxtK6BvbYIFG1igbJ) | 3:07 | 2022-12-25 | 2023-06-24 |
-| [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 | 2023-05-26 |  |
+| [Crimes e Grifes](https://open.spotify.com/track/7eOfgiWtwy0uxqE5nw5QtO) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Crimes e Grifes](https://open.spotify.com/album/5M9GN1TWB7KmnsphNtFhcH) | 2:08 | 2023-05-26 | 2025-01-11 |
 | [Cuidado Com Esse Rap](https://open.spotify.com/track/24WpgtbMcuxMHJjGp8S2UB) | [Ediá](https://open.spotify.com/artist/4tBBagfCtD97xY1QXsWapv), [Madg Beats](https://open.spotify.com/artist/6aqEmCVJr7dDuE8UmV1KWS), [Patrick Rerison](https://open.spotify.com/artist/0ceeSIorv6dEqgKSL7Cz6o) | [Cuidado Com Esse Rap](https://open.spotify.com/album/7yhma1v5tKDqLHfk7lTqXY) | 3:00 | 2022-05-20 | 2022-05-28 |
+| [Cyberpunk Master](https://open.spotify.com/track/5XJhUfegTq1ilrkWNEN9iY) | [Baby Moi](https://open.spotify.com/artist/7GMvnbDLmJSj8yluxxgMpp), [gust](https://open.spotify.com/artist/0R0BBNcI0nMs1bylMczTBt) | [Cyberpunk Master](https://open.spotify.com/album/7kiG0W5fymAZy2XTLd8dt3) | 1:49 | 2025-01-10 |  |
 | [Cypher Até depois do fim 005](https://open.spotify.com/track/1xmOWgPBUHwhUrfNyJg1sK) | [Blackrap](https://open.spotify.com/artist/5eKqcPHHRDJ9EgBWpx8SU8), [Unção 23](https://open.spotify.com/artist/6A01zp4aQ7NTxpQUJGDiav), [MXNX J](https://open.spotify.com/artist/6c1GmshoT3RcLiXQyASkrs), [MC Avalanche](https://open.spotify.com/artist/0rivT1IB11hkTTmFYauOpL), [DUXH](https://open.spotify.com/artist/1X6QzOrERhUin2zZx2P2Kq), [RAFICK VDV](https://open.spotify.com/artist/0E0mGAzbBtJFKef6VR5Xtc), [TOMGB](https://open.spotify.com/artist/3MDGbeg95Q4tDekNI0S6tb) | [Cypher Até depois do fim 005](https://open.spotify.com/album/7ygGk4m0Z6wYyuRqrhjXaC) | 9:25 | 2022-03-18 | 2022-10-29 |
 | [Cães & Fogos](https://open.spotify.com/track/45wFv5zyrIumgSYb4bpLpF) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Torha](https://open.spotify.com/artist/0qTWpm6bIsQteve5t3Cyqg) | [Cães & Fogos](https://open.spotify.com/album/4aOwl45iVsDnB9xZKaA7P7) | 4:08 | 2023-11-03 | 2024-05-21 |
 | [Céu Azul](https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND) | [Uterço](https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm) | [Original Marginal Rap](https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT) | 4:03 | 2022-12-02 | 2023-08-12 |

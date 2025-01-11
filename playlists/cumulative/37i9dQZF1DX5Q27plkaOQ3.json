@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Stoned Level & MUERTE",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with LEVEL UP",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 216827,
       "name": "Always Dreaming, Hardly Distracted",
       "url": "https://open.spotify.com/track/0nRAD6uv8Tejptt4AbbF3B"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Ape Shit",
       "url": "https://open.spotify.com/track/18iIaFPwTlRhDWTcCWpwel"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 135652,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3kUYp1az3JfWhHZ62PEbUR"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 249600,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4sQtIAaCMlgZpVoSF9mwVJ"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 222857,
       "name": "Badman Sound - VIP",
       "url": "https://open.spotify.com/track/7ljcfgmhZ9OqkB9j2hamjs"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 147529,
       "name": "BDASWY",
       "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2822,6 +2822,24 @@
       "duration_ms": 180800,
       "name": "Catchin A Vibe - Original Mix",
       "url": "https://open.spotify.com/track/6LtPtA337boR9e4bBDuBht"
+    },
+    {
+      "album": {
+        "name": "Cavern Shanty",
+        "url": "https://open.spotify.com/album/6vFLrXgau9mvUCrsLpzByl"
+      },
+      "artists": [
+        {
+          "name": "Aweminus",
+          "url": "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230128,
+      "name": "Cavern Shanty",
+      "url": "https://open.spotify.com/track/4HhdACdfqgvrD9au0cat2R"
     },
     {
       "album": {
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 216998,
       "name": "Death Wish (with Micah Martin)",
       "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
@@ -4700,7 +4718,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 225857,
       "name": "Don't You Dare Go Hollow",
       "url": "https://open.spotify.com/track/26TKv9T50hSeZUi995fg5x"
@@ -4744,7 +4762,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 163862,
       "name": "DOODLE",
       "url": "https://open.spotify.com/track/5DphXBn0OLpQHBXHkVmoyP"
@@ -5009,6 +5027,28 @@
     },
     {
       "album": {
+        "name": "Duckstep",
+        "url": "https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Duckstep",
+      "url": "https://open.spotify.com/track/0ZR8mLmdbqHZQrilm5lpBZ"
+    },
+    {
+      "album": {
         "name": "DUH",
         "url": "https://open.spotify.com/album/6XUrox8qCe1fBRuqMgRMO8"
       },
@@ -5184,7 +5224,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 208551,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/2iIviHQn2HK6KibGEtJXQm"
@@ -5866,7 +5906,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 124081,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2Zin7IOCSXxhQtdoFU4zdk"
@@ -5932,7 +5972,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 181846,
       "name": "FEEL THIS",
       "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
@@ -6332,7 +6372,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 254896,
       "name": "Forget My Name",
       "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
@@ -6562,7 +6602,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 219428,
       "name": "Fully Gassed",
       "url": "https://open.spotify.com/track/7hH1xdQzkbvyqAaWq0i5Pd"
@@ -7008,7 +7048,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 236800,
       "name": "GLITCH",
       "url": "https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799"
@@ -7214,7 +7254,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/0MwLwN2dFTMOZUZ0msjXOv"
@@ -7770,6 +7810,24 @@
       "duration_ms": 201038,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3NBUmLtUa5mmAqRpcppjta"
+    },
+    {
+      "album": {
+        "name": "Hold Me One More Time",
+        "url": "https://open.spotify.com/album/3XsZon2TnZSGEud8rGUfNn"
+      },
+      "artists": [
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Hold Me One More Time",
+      "url": "https://open.spotify.com/track/6VbvigV2ODddEjJwpOMkPm"
     },
     {
       "album": {
@@ -9657,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "LOST MY MIND",
+        "url": "https://open.spotify.com/album/40KiR2AHMLIn8W7PeUXYWI"
+      },
+      "artists": [
+        {
+          "name": "ELEVATD",
+          "url": "https://open.spotify.com/artist/4Jp2Y29zopLWCqPWRt2TCR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234267,
+      "name": "LOST MY MIND",
+      "url": "https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j"
+    },
+    {
+      "album": {
         "name": "LOUD PACK",
         "url": "https://open.spotify.com/album/5gUUKOr7E26tC0mEjIGwm3"
       },
@@ -10202,7 +10278,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 159714,
       "name": "Mind Expanding",
       "url": "https://open.spotify.com/track/1qDiEg3sSCvRqPUsu1p9sU"
@@ -10364,6 +10440,24 @@
       "duration_ms": 210857,
       "name": "MOON VISION",
       "url": "https://open.spotify.com/track/79rm5EauwnHFiroUBKIRy6"
+    },
+    {
+      "album": {
+        "name": "MOONPIE",
+        "url": "https://open.spotify.com/album/6ICJwC2F2rOtE3kE9o4lUf"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "MOONPIE",
+      "url": "https://open.spotify.com/track/4zM28jGeHMcjA0YzPq92tW"
     },
     {
       "album": {
@@ -11028,7 +11122,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185142,
       "name": "No Man's Land",
       "url": "https://open.spotify.com/track/3nALdbtF15cI6X8BC4b1vP"
@@ -12436,7 +12530,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 210482,
       "name": "Pugilist Pit",
       "url": "https://open.spotify.com/track/5o8jJo5vTJtVQfIWeceveB"
@@ -13174,7 +13268,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 224000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb"
@@ -13376,7 +13470,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 137622,
       "name": "RIPPLE",
       "url": "https://open.spotify.com/track/36BXjNnD0Vm6CYHf69K7zB"
@@ -14754,7 +14848,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 266482,
       "name": "Someone Else - Blanke Remix",
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
@@ -15456,7 +15550,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160000,
       "name": "STORM THE CASTLE",
       "url": "https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR"
@@ -15474,7 +15568,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 248275,
       "name": "Strapped",
       "url": "https://open.spotify.com/track/5LRjTa2Gx621pNhX0i04RU"
@@ -16151,6 +16245,24 @@
     },
     {
       "album": {
+        "name": "Sapphire Souls EP",
+        "url": "https://open.spotify.com/album/0QxA22wXMzFBaPU0gWu2Mh"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "That One Dubstep Song",
+      "url": "https://open.spotify.com/track/1nSehdAtoqUouTAHuR8buS"
+    },
+    {
+      "album": {
         "name": "The Banana Song",
         "url": "https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs"
       },
@@ -16456,6 +16568,28 @@
       "duration_ms": 193287,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw"
+    },
+    {
+      "album": {
+        "name": "The Row Boat Song",
+        "url": "https://open.spotify.com/album/2uRPOUJ7b7thDs9tAYYG3W"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "The Row Boat Song",
+      "url": "https://open.spotify.com/track/2fKiVXn3pucFQFsF16SjW9"
     },
     {
       "album": {
@@ -16934,7 +17068,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 171428,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/2uPvR3tMh4C445InROPuDL"
@@ -17211,6 +17345,28 @@
     },
     {
       "album": {
+        "name": "True Trench Times",
+        "url": "https://open.spotify.com/album/2LEjhTw6ma4KTnMSPyNR5o"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "True Trench Times",
+      "url": "https://open.spotify.com/track/6IkbuuGlMF3DGcsBnJIbgD"
+    },
+    {
+      "album": {
         "name": "Trust No One",
         "url": "https://open.spotify.com/album/1RswqdN7LMbfpmmRBWdmow"
       },
@@ -17288,7 +17444,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 238344,
       "name": "Turn It Up - Slushii & Afinity VIP",
       "url": "https://open.spotify.com/track/1Z0sPQusIl7lmuIcee9HYa"
@@ -18098,7 +18254,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 188689,
       "name": "Whoa Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"

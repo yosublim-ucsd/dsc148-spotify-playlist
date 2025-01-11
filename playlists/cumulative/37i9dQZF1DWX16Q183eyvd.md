@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-158 songs - 7 hr 24 min
+160 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Believe In Yourself](https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF) | [Cali Sadé](https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC) | [Believe In Yourself](https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7) | 2:33 | 2024-01-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 | 2024-01-30 |  |
 | [Big Feelings](https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Big Feelings](https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn) | 3:01 | 2024-07-26 |  |
+| [Big Kid Energy](https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Big Kid Energy](https://open.spotify.com/album/3YIkAwtzKdqWVvk1HtMLNG) | 1:57 | 2025-01-10 |  |
 | [Black and White](https://open.spotify.com/track/2tL2sP4QCuO3gJJ84opH0J) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:19 | 2023-10-10 | 2024-01-31 |
 | [Black and White](https://open.spotify.com/track/5nni7e0KD2XviqyGPPBFCU) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:19 | 2021-11-19 | 2023-11-04 |
 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 | 2021-11-19 | 2024-01-31 |
@@ -42,8 +43,9 @@
 | [Daydream Baby](https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Daydream Baby](https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS) | 3:26 | 2024-01-30 |  |
 | [Do My Dance](https://open.spotify.com/track/56LCZNVDZBgVXmsP37ksgy) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:30 | 2021-11-19 | 2023-04-09 |
 | [Ears Hang Low](https://open.spotify.com/track/5sOLB4bKpM3zwehO7QtqL0) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Ears Hang Low](https://open.spotify.com/album/17rNMcXIlGWog0ChFvhFUf) | 2:01 | 2024-05-31 | 2024-06-15 |
+| [Elephant Song](https://open.spotify.com/track/3ojab84Z6hRFFgNYkDpcLi) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Elephant Song](https://open.spotify.com/album/1saNdYBtgdZ7xJJd2Nk8mR) | 2:02 | 2025-01-10 |  |
 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 | 2024-01-30 |  |
-| [Get Down](https://open.spotify.com/track/4JD9VCKWznWPK4LOKkhB4L) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Get Down](https://open.spotify.com/album/4AtJoWhmSaL3PHnnRQXo9Y) | 2:16 | 2024-06-14 |  |
+| [Get Down](https://open.spotify.com/track/4JD9VCKWznWPK4LOKkhB4L) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Get Down](https://open.spotify.com/album/4AtJoWhmSaL3PHnnRQXo9Y) | 2:16 | 2024-06-14 | 2025-01-11 |
 | [Get You A Friend](https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Movement](https://open.spotify.com/album/1QxVv43hGh5XB1glM74gPw) | 3:00 | 2024-01-30 | 2024-05-04 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-11-19 | 2024-01-31 |
 | [Getting Silly](https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 1:50 | 2021-11-19 | 2024-01-31 |
@@ -107,7 +109,7 @@
 | [No Limits](https://open.spotify.com/track/3lp8uKSytH2EkthguoNZcS) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Culture Kidz](https://open.spotify.com/album/20h68tcBMmHaDVobHNilSC) | 2:36 | 2024-06-21 |  |
 | [Old Town Road](https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Old Town Road](https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn) | 1:50 | 2021-11-19 | 2024-01-31 |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-11-19 | 2024-01-31 |
-| [Once I Caught A Fish Alive](https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Once I Caught A Fish Alive](https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN) | 2:38 | 2024-04-19 |  |
+| [Once I Caught A Fish Alive](https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Once I Caught A Fish Alive](https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN) | 2:38 | 2024-04-19 | 2025-01-11 |
 | [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 | 2022-02-04 | 2022-11-13 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 2:52 | 2021-11-19 | 2022-07-29 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-02-04 | 2024-01-31 |

@@ -27833,6 +27833,24 @@
     },
     {
       "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
+    },
+    {
+      "album": {
         "name": "Heroin",
         "url": "https://open.spotify.com/album/2HckI1fsA3RnwLE8Rot4TP"
       },
@@ -65379,7 +65397,7 @@
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169734,
+      "duration_ms": 168401,
       "name": "Ung Og Rig",
       "url": "https://open.spotify.com/track/4aTLjXt07JCuQ6j8KbeJZh"
     },

@@ -1,12 +1,12 @@
 {
-  "description": "Brand new music from Bad Bunny (pictured), JADE, Joy Crookes",
-  "num_followers": 870438,
+  "description": "Brand new music from Bad Bunny (pictured), JADE, Joy Crookes and more!",
+  "num_followers": 871209,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjGAAAAAAE2BOiboNp/ab59ClXae9V",
+  "snapshot_id": "Z4EHlAAAAAAMw8yI4vP6GwN+OUlFU0SS",
   "tracks": [
     {
       "added_at": "2025-01-10 00:00:24",
@@ -747,6 +747,30 @@
       "duration_ms": 219737,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
     },
     {
       "added_at": "2025-01-10 00:00:24",

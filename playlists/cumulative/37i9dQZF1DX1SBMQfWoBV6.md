@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-90 songs - 6 hr 30 min
+97 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,23 +28,28 @@
 | [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 | 2023-04-14 |  |
 | [Electric Pulses](https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 2:58 | 2023-04-14 |  |
 | [Enchanting](https://open.spotify.com/track/3JBLGpxaBZrhnrOwmUV99n) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Lifetracks](https://open.spotify.com/album/1wM3q5NJN8n0Y2hi4fPfSi) | 5:13 | 2023-01-31 |  |
+| [Examination](https://open.spotify.com/track/4w9Yi4A3EtDSS9GnBx74qs) | [Northern Sirens](https://open.spotify.com/artist/5qtIa4GIOYRDRH18X2Ru1C) | [Examination](https://open.spotify.com/album/1BZ53yWtcXww1sjyxeiuKd) | 4:52 | 2025-01-10 |  |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2023-01-31 |  |
 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 | 2023-05-19 |  |
+| [Fields of Iris](https://open.spotify.com/track/7lM6rrQSb5gMNiGN4EOCIQ) | [Les Luke](https://open.spotify.com/artist/32CcGw6tNOp1TJRFKBIMjg) | [Fields of Iris](https://open.spotify.com/album/6tNDda7O8j4cqUGV1sWJiJ) | 2:24 | 2025-01-10 |  |
 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |
 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 | 2023-10-13 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 | 2023-10-05 |
 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 | 2023-05-19 |  |
-| [Horizon](https://open.spotify.com/track/2W1jmfrFO5STsABKGaOr4P) | [Bantu Jafari](https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl) | [Horizon](https://open.spotify.com/album/7Cw9y65xClxqlenBlo7t3c) | 2:35 | 2024-11-15 |  |
+| [Horizon](https://open.spotify.com/track/2W1jmfrFO5STsABKGaOr4P) | [Bantu Jafari](https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl) | [Horizon](https://open.spotify.com/album/7Cw9y65xClxqlenBlo7t3c) | 2:35 | 2024-11-15 | 2025-01-11 |
 | [Hypnotic Forrest](https://open.spotify.com/track/0Rrhf0uAZgUeAOOuhjezWe) | [Eternal Corridor](https://open.spotify.com/artist/7cseoGU5nNgcyx9QqTFVuO) | [Hypnotic Forrest](https://open.spotify.com/album/4KrhbAGwescsCP7ymufGlV) | 2:48 | 2023-11-24 |  |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-31 | 2024-03-28 |
 | [In and out of Days](https://open.spotify.com/track/0Rw6XHubnNlZ7joTug4ogA) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Where Moss Grows](https://open.spotify.com/album/6o5cdOMQFtNjJD7TQAVb7j) | 5:24 | 2023-01-31 |  |
 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 | 2023-01-31 |  |
 | [Isostacy](https://open.spotify.com/track/6zwtd6jCS3T4ol5cjVnwNu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Remembrance](https://open.spotify.com/album/2kyXBYYTBjF0vQIux6Vl3D) | 5:24 | 2023-01-31 |  |
 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2023-01-31 |  |
+| [Lavender](https://open.spotify.com/track/1htwBX3EQI0Yn4mRxqa3Ex) | [Ali Neroli](https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR) | [Lavender](https://open.spotify.com/album/7IRB6MzhikdomeqICBAUUW) | 2:09 | 2025-01-10 |  |
+| [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2025-01-10 |  |
 | [Mesa](https://open.spotify.com/track/5DKCnRq996KYGkzOwSWcGV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mesa](https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30) | 4:48 | 2023-01-31 |  |
 | [Na](https://open.spotify.com/track/0igayHoCeYUH4KuZubiq4u) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/6Vco7xYNpXBhgHkANMHQXb) | 4:55 | 2023-01-31 |  |
 | [Night Hammer](https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Golden Age of Dereliction](https://open.spotify.com/album/29gXtFxpaHQZIC3Ab13Q5s) | 5:24 | 2023-01-31 |  |
 | [Opalescent](https://open.spotify.com/track/4Bpx1CO7TsoaLKxQ4anISr) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/04GI4HyiQkhccc95GVAaan) | 2:11 | 2023-01-31 |  |
+| [Orchid](https://open.spotify.com/track/4sOwnjnmJVbvODmibHP6NA) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Orchid](https://open.spotify.com/album/5gSmCor6UGPw8cKWg8utL7) | 4:12 | 2025-01-10 |  |
 | [Outer Space \- Remastered Meditation Lounge Mix](https://open.spotify.com/track/64F9fI3h6rA2fBcvQI5HGu) | [Airstream](https://open.spotify.com/artist/64ujeKTqpc294czhOH2Dcq) | [Weightless & Smooth \- The Chill Adventure](https://open.spotify.com/album/5X173nYYGZSQzFw4YD6lZH) | 6:33 | 2023-01-31 |  |
 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 | 2023-01-31 |  |
 | [Police Bribe](https://open.spotify.com/track/1yklYLJIko5j4Xyl7lWyl4) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Eden](https://open.spotify.com/album/5OAhAX8l7bD69fqhgKuGoH) | 6:31 | 2023-01-31 |  |
@@ -79,6 +84,7 @@
 | [Strands](https://open.spotify.com/track/0XA6999Nceq9KDYlqC7H06) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Strands](https://open.spotify.com/album/2W0Onu4JKgSYhJAzR19cZ0) | 5:17 | 2023-01-31 | 2023-10-05 |
 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 | 2023-01-31 |  |
 | [Talk from Home](https://open.spotify.com/track/48rB6oYm5Tej08IHn6aJsB) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 3:58 | 2023-01-31 |  |
+| [The Featherwinged Beetle](https://open.spotify.com/track/1W3keID7xtx3kE8ZVB3wl0) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [The Featherwinged Beetle](https://open.spotify.com/album/3EJW0H4QvaoSd7uF5D52Zm) | 4:20 | 2025-01-10 |  |
 | [The Nature Remaining](https://open.spotify.com/track/37b5FbBDQCxAPherM5mCsv) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 2:34 | 2023-01-31 |  |
 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 | 2023-01-31 |  |
 | [Thumb](https://open.spotify.com/track/0xMBvIDJFsMbrs1BHDVpFq) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Lefhanded Fuqs](https://open.spotify.com/album/0oRaS0KTSRRAOfZnZova2C) | 3:45 | 2023-01-31 |  |
@@ -95,6 +101,7 @@
 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 | 2023-01-31 |  |
 | [Western Electric](https://open.spotify.com/track/2o5dP3S3q7kPmxfRYYCIy0) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [301C Symphony](https://open.spotify.com/album/2Tfx8gkK7DH8xUPqFl7a0U) | 3:01 | 2024-03-27 |  |
 | [Western Electric](https://open.spotify.com/track/5LwWTwkjy0IZLbneYZ6IXS) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [301C Symphony](https://open.spotify.com/album/7xoinXkUgCctFPr9VnzY6u) | 3:01 | 2023-01-31 | 2024-04-19 |
+| [Where Water Meets the Rocks](https://open.spotify.com/track/0rMs9p8b6HElUjBACisyI5) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Where Water Meets the Rocks](https://open.spotify.com/album/4RITLFjrrqRuNOkqPkI1zV) | 3:43 | 2025-01-10 |  |
 | [White Fragment](https://open.spotify.com/track/2wnKNjSi5RMSIUgNMV46W7) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:11 | 2023-01-31 | 2023-11-25 |
 | [Willing Suspension of Disbelief](https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 8:07 | 2023-01-31 |  |
 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2023-01-31 |  |

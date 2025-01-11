@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek
 
-176 songs - 7 hr 24 min
+177 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [KIWI](https://open.spotify.com/track/1i0Q1EMNlUIsNQloJbtPm8) | [Riccardo](https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv) | [KIWI](https://open.spotify.com/album/51N5wyt8OKLIXI4lazjf8C) | 3:08 | 2024-08-12 | 2024-12-10 |
 | [Kiyamasa](https://open.spotify.com/track/522cl3tPjPb021NcLwrK1f) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Kiyamasa / Body](https://open.spotify.com/album/4LdIZfwVOYpvwKrsmJzJo9) | 3:12 | 2024-06-28 | 2024-08-27 |
 | [K¡K¡](https://open.spotify.com/track/0RH3Zeo1bLOKmtOGi9LZJ2) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Lio](https://open.spotify.com/artist/63FkGNSVb9VB4Is1V3Q9Nj), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Jung & machen Geld](https://open.spotify.com/album/6dUdLyCrv5lFjki79qSGLh) | 3:18 | 2024-07-25 | 2024-12-10 |
-| [La Money](https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [La Money](https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9) | 2:31 | 2024-07-25 |  |
+| [La Money](https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [La Money](https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9) | 2:31 | 2024-07-25 | 2025-01-11 |
 | [Lamine](https://open.spotify.com/track/4Fjfqk9NoOYRl1w863xrXo) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Mr\. Untouchable](https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz) | 2:16 | 2024-11-07 |  |
 | [Lamine Yamal](https://open.spotify.com/track/3ZM01BVFb8bKWiHP59wgaV) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Der Yavuz](https://open.spotify.com/artist/59qNA3x8KEFnzFWINGlkyt) | [Lamine Yamal](https://open.spotify.com/album/10WFXYspuSRfhlGY5dUe4h) | 2:30 | 2024-08-26 |  |
 | [Lass es zu](https://open.spotify.com/track/2OcddgkDq1HKmtyRy41iYw) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Lass es zu](https://open.spotify.com/album/39927gRpsBJCzUrlGJiFP6) | 2:34 | 2024-08-01 | 2024-08-13 |
@@ -118,6 +118,7 @@
 | [Milano](https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Milano](https://open.spotify.com/album/6XY09Dk3iJQSF7vlri1SPw) | 2:44 | 2024-08-26 |  |
 | [Mittelmeer](https://open.spotify.com/track/5iviRbXQMPPJJrK6nTjYGA) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Mittelmeer](https://open.spotify.com/album/29z9beb0haultY7O6b0UMu) | 2:40 | 2024-11-25 |  |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-06-28 | 2024-08-02 |
+| [Moja Draga](https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Moja Draga](https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo) | 2:09 | 2025-01-10 |  |
 | [MON AMI \(feat\. MERO, Guè & Emis Killa\)](https://open.spotify.com/track/3A4OIQpuwZbSZgGSrdm4LR) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [MON AMI \(feat\. MERO, Guè & Emis Killa\)](https://open.spotify.com/album/4WgLyGfFVhfzQ1zCQJFO9l) | 3:14 | 2024-06-28 | 2024-12-10 |
 | [Moneygram](https://open.spotify.com/track/5549emVzAX5wUXPNm6V43e) | [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts) | [Moneygram](https://open.spotify.com/album/0EWy7iCpUK4fAxeh6yhWF7) | 3:18 | 2024-07-25 | 2024-08-13 |
 | [MONTENEGRO \(feat\. RAF Camora\)](https://open.spotify.com/track/0xuaMTaQFsfaLPuMoYUQoP) | [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [AKELA](https://open.spotify.com/album/2J4MQ5VDmWZ1P5ZPtfp3OI) | 2:56 | 2024-06-28 | 2024-07-27 |

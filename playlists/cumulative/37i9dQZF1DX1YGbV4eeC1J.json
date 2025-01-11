@@ -3247,6 +3247,28 @@
     },
     {
       "album": {
+        "name": "Nikupe",
+        "url": "https://open.spotify.com/album/65ETlCyBOkiigBCXDkHAdl"
+      },
+      "artists": [
+        {
+          "name": "Dayna Nyange",
+          "url": "https://open.spotify.com/artist/6boNchRYpMDrSO2PDuQ7nU"
+        },
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194661,
+      "name": "Nikupe",
+      "url": "https://open.spotify.com/track/3nBM9r7MO6wt01ArmJN3qk"
+    },
+    {
+      "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
       },

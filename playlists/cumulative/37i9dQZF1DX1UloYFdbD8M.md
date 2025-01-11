@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-256 songs - 17 hr 0 min
+257 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 | 2023-07-28 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 | 2023-10-06 | 2024-04-19 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-06-23 |  |
+| [MANGALAM](https://open.spotify.com/track/3vncUpj0365hkip0iGZRJl) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [MANGALAM](https://open.spotify.com/album/5EUCfEjwcEvqjsHjPWlJ3q) | 3:20 | 2025-01-10 |  |
 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 | 2023-07-28 | 2024-07-16 |
 | [Mask](https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mask](https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP) | 3:20 | 2024-08-30 |  |
 | [Mayathe](https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [Mayathe](https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv) | 2:26 | 2024-07-16 |  |
@@ -151,7 +152,7 @@
 | [Naamiravil](https://open.spotify.com/track/43BgaTwtMm6CNH4b87ewOB) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Naamiravil](https://open.spotify.com/album/6RrQmFIHubqNqdrZAwmajZ) | 3:04 | 2023-11-21 | 2024-01-04 |
 | [Nada Nada](https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:04 | 2023-07-27 | 2024-06-12 |
 | [Nathune](https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Nathune](https://open.spotify.com/album/65H3bdPm0glKN2zF1WGeEN) | 4:10 | 2024-09-02 |  |
-| [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 |  |
+| [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 | 2025-01-11 |
 | [Ne Mathram](https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [Ne Mathram](https://open.spotify.com/album/1b9FDYIr9PM38BwZzd63bQ) | 3:14 | 2022-07-13 | 2023-07-28 |
 | [Ne Po](https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Ne Po](https://open.spotify.com/album/5RwYNI6oeKE0YGhhwM2H9X) | 2:35 | 2023-05-26 | 2023-07-28 |
 | [Nee](https://open.spotify.com/track/5keOoevbbXa3pTVxleldpB) | [Abhi Sulaimani](https://open.spotify.com/artist/6OCXNGT9pE7hOScBz8RSOp), [Pralib](https://open.spotify.com/artist/0nZwy2b9Zih6xQeFbDKyhJ) | [Nee](https://open.spotify.com/album/1WkJppqHSBQvdqnWx0xRtN) | 3:22 | 2024-12-12 |  |

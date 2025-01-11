@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: ROSÉ & Bruno Mars
+> The hottest 50\. Cover: Bad Bunny
 
 1,177 songs - 2 day 15 hr 5 min
 

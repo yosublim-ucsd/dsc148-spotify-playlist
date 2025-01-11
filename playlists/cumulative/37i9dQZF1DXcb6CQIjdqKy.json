@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: The Afters",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Bethel Music",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185301,
       "name": "a lil Church (nobody\u2019s too lost)",
       "url": "https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 154642,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/7isyx7w05tPTItfoheZ7TA"
@@ -2311,6 +2311,28 @@
     },
     {
       "album": {
+        "name": "Can't Steal My Joy (feat. Brandon Lake)",
+        "url": "https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213751,
+      "name": "Can't Steal My Joy (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa"
+    },
+    {
+      "album": {
         "name": "Been a Minute",
         "url": "https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J"
       },
@@ -3020,7 +3042,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 238336,
       "name": "Dare You To Move",
       "url": "https://open.spotify.com/track/5ACfoDwpvwGiq6z1SEZlFp"
@@ -4445,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203824,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
+    },
+    {
+      "album": {
         "name": "SURVEY: Part 1",
         "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
       },
@@ -4836,6 +4876,42 @@
       "duration_ms": 251261,
       "name": "God Can Use A Broken Man",
       "url": "https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z"
+    },
+    {
+      "album": {
+        "name": "God Did It",
+        "url": "https://open.spotify.com/album/0dF6LIQolKm7tA25QEuZTV"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169421,
+      "name": "God Did It",
+      "url": "https://open.spotify.com/track/2dFiX90LHhRw8XVixqOcKD"
+    },
+    {
+      "album": {
+        "name": "God Did It",
+        "url": "https://open.spotify.com/album/7qBsxgbh9WxBobhLyVnuiU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213815,
+      "name": "God Did It",
+      "url": "https://open.spotify.com/track/4qRjzfGWDeEVwfZ066GI3s"
     },
     {
       "album": {
@@ -6050,7 +6126,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 355706,
       "name": "He Has Done Great Things - Live",
       "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
@@ -9333,6 +9409,24 @@
     },
     {
       "album": {
+        "name": "Lay Down (Safe & Sound)",
+        "url": "https://open.spotify.com/album/4GwhYSSlg0Ig7rMtTWLQ3R"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179252,
+      "name": "Lay Down (Safe & Sound)",
+      "url": "https://open.spotify.com/track/1vjcfpxVT6jIv6W834hIiQ"
+    },
+    {
+      "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/4zCQTxGGVRYQXQtakZeqnV"
       },
@@ -9578,6 +9672,32 @@
       "duration_ms": 252567,
       "name": "Let It Begin",
       "url": "https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO"
+    },
+    {
+      "album": {
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/1UqIz18Y3PAkflXfI67Zeg"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252047,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/3dpXt0Dy7g1Aaewb7LG0YE"
     },
     {
       "album": {
@@ -10246,7 +10366,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 195240,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0ZQWc4M5WU12imMyPf9HEt"
@@ -11048,7 +11168,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 242455,
       "name": "My Hope Is Jesus",
       "url": "https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr"
@@ -12100,7 +12220,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 273402,
       "name": "ONE OF A KIND",
       "url": "https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO"
@@ -16048,6 +16168,28 @@
       "duration_ms": 219692,
       "name": "The Church",
       "url": "https://open.spotify.com/track/6r71GI3mbJzpoUFqbGTOC6"
+    },
+    {
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420019,
+      "name": "The Church - Live",
+      "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Maua Sama & Jay Melody
 
-257 songs - 14 hr 35 min
+258 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 | 2024-05-02 | 2024-10-25 |
 | [Nikatoke Nao](https://open.spotify.com/track/6BHdibLa2cNJ049jTjQ3E8) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL) | [Nikatoke Nao](https://open.spotify.com/album/5epvY4TABqhIZQYO2u4I3F) | 3:22 | 2024-11-07 | 2024-11-29 |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
+| [Nikupe](https://open.spotify.com/track/3nBM9r7MO6wt01ArmJN3qk) | [Dayna Nyange](https://open.spotify.com/artist/6boNchRYpMDrSO2PDuQ7nU), [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikupe](https://open.spotify.com/album/65ETlCyBOkiigBCXDkHAdl) | 3:14 | 2025-01-09 |  |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimekoma](https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Nimekoma](https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM) | 3:33 | 2024-09-20 | 2024-12-20 |
 | [Nimepatikana](https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Nimepatikana](https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp) | 2:43 | 2024-10-31 |  |

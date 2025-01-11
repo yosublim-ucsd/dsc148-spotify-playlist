@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 169468,
       "name": "Baker",
       "url": "https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 212287,
       "name": "even forever",
       "url": "https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI"
@@ -1250,6 +1250,24 @@
       "duration_ms": 175733,
       "name": "Forever Was Never Enough",
       "url": "https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8"
+    },
+    {
+      "album": {
+        "name": "Forget Yer Name",
+        "url": "https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Dreams",
+          "url": "https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Forget Yer Name",
+      "url": "https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4"
     },
     {
       "album": {
@@ -1814,6 +1832,24 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "album": {
+        "name": "Lovers' Gothic B-Sides",
+        "url": "https://open.spotify.com/album/6S5xqaYspMbrLCgJ3HKWPw"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efa Davies",
+          "url": "https://open.spotify.com/artist/0lh6MgBGOmOeCfNWQPnXsf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "In Real Life",
+      "url": "https://open.spotify.com/track/0pOHm2ThTCM0UsrHuRsvWI"
     },
     {
       "album": {

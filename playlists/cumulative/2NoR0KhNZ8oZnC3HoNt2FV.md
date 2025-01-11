@@ -4,7 +4,7 @@
 
 > 
 
-1,001 songs - 2 day 9 hr 56 min
+1,002 songs - 2 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-03-22 | 2024-05-04 |
 | [We Rock The Mic Right](https://open.spotify.com/track/2PTKIV07QGrdWkq2Sq5inG) | [Redhead Kingpin](https://open.spotify.com/artist/3eru99lOKhgL99zE3hZOxw), [The FBI](https://open.spotify.com/artist/5rUK6aQHZ7WsIc5O6cyUzx) | [A Shade Of Red](https://open.spotify.com/album/0klRdY0I6UW3Xam0fIEuiu) | 4:29 | 2023-11-30 | 2024-08-08 |
 | [Weather the Storm \(feat\. Meek Mill & Lil Baby\)](https://open.spotify.com/track/6xVhqLT40s5sVhepe9Mckc) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 2:33 | 2024-01-25 |  |
+| [Westside Connection](https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Westside Connection](https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG) | 2:44 | 2025-01-10 |  |
 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2024-01-25 |  |
 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 | 2024-01-25 |  |
 | [What It Sound Like \(feat\. B\-Real\)](https://open.spotify.com/track/4wnXIdWJnzomFK6u00cT5Y) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [RICO](https://open.spotify.com/album/0J3hclSnZfuOPYi0SMJLjH) | 4:13 | 2024-01-25 |  |

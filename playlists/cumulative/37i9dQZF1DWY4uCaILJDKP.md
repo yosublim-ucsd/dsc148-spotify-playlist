@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-157 songs - 10 hr 40 min
+159 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [TOP SECRET](https://open.spotify.com/track/0WXqtcLh7Q6V1587YcQiZ0) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [10th Anniversary ALL TIME BEST / Yellow \[2010\-2020\]](https://open.spotify.com/album/717Bk7GgGixXrprqK5CtWZ) | 3:47 | 2022-07-12 | 2024-04-19 |
 | [TOP SECRET](https://open.spotify.com/track/6Vx8nFFLMZe0SS60OnRRF9) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [TOP SECRET](https://open.spotify.com/album/4xPDF3LIm9WNsLo3oQBJN5) | 3:48 | 2022-03-08 |  |
 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 | 2022-03-08 |  |
+| [W.W.D ENDING](https://open.spotify.com/track/1kOyu8laPBY5FDSMhpcFSj) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [W.W.D ENDING](https://open.spotify.com/album/7yTKsdpUndtp5If6UcY4g8) | 4:33 | 2025-01-10 |  |
 | [Walk My Way](https://open.spotify.com/track/6qwc5HJlfeY766XkKJUWKk) | [Rurika Yokoyama](https://open.spotify.com/artist/0hsUr6BMfIcA0KDbPoJMKi) | [ラピスラズリ](https://open.spotify.com/album/6skpg8b0ZOAmk7YAzicf1z) | 4:23 | 2022-03-08 |  |
 | [We Are DISH//](https://open.spotify.com/track/4zZ0ZCSzMOFAI8VdpsJZ0m) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [MAIN DISH](https://open.spotify.com/album/0Non0wr9XcV0FE8JZpovcH) | 4:00 | 2022-03-08 |  |
 | [We Go! \-On Your Mark\-](https://open.spotify.com/track/1LgsZldOk4HvHkFOTkK0zm) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [We Go!](https://open.spotify.com/album/5NRbYR1pRrwF4UVckWFFkJ) | 4:03 | 2022-07-12 | 2024-04-19 |
@@ -158,6 +159,7 @@
 | [純情エクスタシィ](https://open.spotify.com/track/4349NJ84hgXnpCECVIFulf) | [危険日チャレンジガールズ!](https://open.spotify.com/artist/0lTgvNB4GOIwow433FyPJG), [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [YATSUI MATOME　～SELECTION～](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 3:36 | 2022-03-08 |  |
 | [終わらない歌](https://open.spotify.com/track/5q2k4ZcQxv0B8lnb8G4B6g) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [終わらない歌](https://open.spotify.com/album/2lbFEf1xibFfNrq7jsu2oo) | 3:40 | 2022-03-08 |  |
 | [絶唱！なにわで生まれた少女たち](https://open.spotify.com/track/2nAeK63zz8YGcufGW16Y58) | [TACOYAKI RAINBOW](https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq) | [絶唱！なにわで生まれた少女たち \(Special Edition\)](https://open.spotify.com/album/1RfkKGbNIT3yhqkkDLyuwi) | 4:34 | 2022-03-08 |  |
+| [自分キログラム](https://open.spotify.com/track/0ZYebJLkuA9hiZTMon2xvD) | [ALL IN](https://open.spotify.com/artist/4nv5YPEq0pGqERWTpG86ej) | [自分キログラム](https://open.spotify.com/album/79CaxgIuSw3cLQND1zCEsa) | 3:03 | 2025-01-10 |  |
 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 | 2022-03-08 |  |
 | [表裏一体](https://open.spotify.com/track/6aBOMQNskwFTl330WjOkrO) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [表裏一体](https://open.spotify.com/album/0vduACUV6AI6yH3n4h7WdX) | 5:36 | 2022-03-08 |  |
 | [誠\-Live for Justice\-](https://open.spotify.com/track/1L5wceNlns34OuiQ1UycYO) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:32 | 2022-03-08 |  |

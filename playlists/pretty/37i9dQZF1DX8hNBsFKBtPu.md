@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 🖤 Caroline Dubois
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,742 likes - 154 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,745 likes - 154 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 41 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 42 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 43 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 |
-| 44 | [Som Om \(feat\. Mumle\)](https://open.spotify.com/track/1gCY02xjTwjQkKOYgWdO0B) | [TV\-2](https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup), [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Som Om \(feat\. Mumle\)](https://open.spotify.com/album/0Wd0Ky9stG9qokr9L87xR8) | 3:32 |
+| 44 | [Som om \(feat\. Mumle\)](https://open.spotify.com/track/1gCY02xjTwjQkKOYgWdO0B) | [TV\-2](https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup), [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Som om \(feat\. Mumle\)](https://open.spotify.com/album/0Wd0Ky9stG9qokr9L87xR8) | 3:32 |
 | 45 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 46 | [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 |
 | 47 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |

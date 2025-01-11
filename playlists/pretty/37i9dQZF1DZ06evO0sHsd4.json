@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 11522,
+  "num_followers": 11533,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33AAAAAAADdqWLuHvPAyydXgYvtN5Zm",
+  "snapshot_id": "Z38RgAAAAAAfocJA7xRRYOgQBaKZ9+9C",
   "tracks": [
     {
       "added_at": null,
@@ -446,11 +446,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "El Juanpa",
+          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Donde Estamos Hoy",
-      "url": "https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A"
+      "duration_ms": 171093,
+      "name": "La Vida Real",
+      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
     },
     {
       "added_at": null,
@@ -510,15 +514,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "El Juanpa",
-          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 171093,
-      "name": "La Vida Real",
-      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
+      "duration_ms": 162346,
+      "name": "Donde Estamos Hoy",
+      "url": "https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta el Dia de Hoy",
-        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Hasta el Dia de Hoy",
-      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Busque",
         "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta el Dia de Hoy",
+        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Hasta el Dia de Hoy",
+      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vueltas De La Vida",
         "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
       },
@@ -585,8 +585,8 @@
         }
       ],
       "duration_ms": 136000,
-      "name": "Flow Criminal",
-      "url": "https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL"
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
     },
     {
       "added_at": null,
@@ -649,8 +649,8 @@
         }
       ],
       "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
+      "name": "Flow Criminal",
+      "url": "https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL"
     },
     {
       "added_at": null,

@@ -2369,6 +2369,80 @@
     },
     {
       "album": {
+        "name": "Combinaci\u00f3n Perfecta",
+        "url": "https://open.spotify.com/album/5PJyWlrEh8SunKAXnsElXJ"
+      },
+      "artists": [
+        {
+          "name": "RmM",
+          "url": "https://open.spotify.com/artist/2BpKTwf66fXq9RrrVYbgRj"
+        },
+        {
+          "name": "Ray De La Paz",
+          "url": "https://open.spotify.com/artist/7vCuHLeYJEynulecY53BwH"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        },
+        {
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+        },
+        {
+          "name": "Van Lester",
+          "url": "https://open.spotify.com/artist/4b9MBGHPz8RNjMFFEji4L5"
+        },
+        {
+          "name": "Jose Alberto",
+          "url": "https://open.spotify.com/artist/0Ij5XvrnnRFo7wCrUrwV5x"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        },
+        {
+          "name": "Domingo Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 684666,
+      "name": "R.M.M. Ritmo Mundo Musical - Larga Duraci\u00f3n",
+      "url": "https://open.spotify.com/track/1aFdWjeQZ8PHwHW6l8ecSW"
+    },
+    {
+      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -2822,7 +2896,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196440,
       "name": "Virgencita - Happy Colors Remix",
       "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"

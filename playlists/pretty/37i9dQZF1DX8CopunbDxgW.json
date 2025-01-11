@@ -1,28 +1,28 @@
 {
-  "description": "The best indie dance tracks of the moment \ud83d\udd4a\ufe0f with Biig Piig",
-  "num_followers": 876402,
+  "description": "The best indie dance tracks of the moment \ud83e\udde0 with Mild Minds",
+  "num_followers": 876378,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3gIWQAAAAAjYa1QjsCMiV7qwbEGQQ0Q",
+  "snapshot_id": "Z4CpcQAAAABnoi0oX9F5J4U8SfgPMEHO",
   "tracks": [
     {
-      "added_at": "2024-12-13 05:00:16",
+      "added_at": "2025-01-10 05:00:33",
       "album": {
-        "name": "Ponytail",
-        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Ponytail",
-      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
+      "duration_ms": 161184,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -65,20 +65,24 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
-      "added_at": "2025-01-03 05:16:19",
+      "added_at": "2025-01-10 05:00:33",
       "album": {
-        "name": "What Have You Done For Me Lately",
-        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+        "name": "Disco Nap",
+        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
       "artists": [
         {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 209644,
-      "name": "What Have You Done For Me Lately",
-      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
+      "duration_ms": 193226,
+      "name": "Disco Nap",
+      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -101,6 +105,70 @@
       "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "Day Is Long (I Don't Want To Love You)",
+        "url": "https://open.spotify.com/album/61W8kAH0sVLMpWuWeKD9q2"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Day Is Long (I Don't Want To Love You)",
+      "url": "https://open.spotify.com/track/68YA5OHbGzn9nFdQ2lgGe5"
+    },
+    {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Ponytail",
+      "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
+    },
+    {
       "added_at": "2024-12-23 22:02:12",
       "album": {
         "name": "L\u00f8veskatt",
@@ -115,6 +183,58 @@
       "duration_ms": 287185,
       "name": "L\u00f8veskatt",
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "its all good",
+        "url": "https://open.spotify.com/album/0ysYJqP60Gqgv6tS2V8GUX"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        }
+      ],
+      "duration_ms": 140536,
+      "name": "thebaddest",
+      "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2024-12-23 22:02:12",
@@ -157,20 +277,20 @@
       "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2025-01-10 05:00:33",
       "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/5tSovhsliXyWRyX20GWJgx"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
         }
       ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+      "duration_ms": 199797,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/39RoLSWrXpOraQp0tvaXWl"
     },
     {
       "added_at": "2025-01-03 05:16:19",
@@ -189,20 +309,40 @@
       "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "its all good",
-        "url": "https://open.spotify.com/album/0ysYJqP60Gqgv6tS2V8GUX"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7"
       },
       "artists": [
         {
-          "name": "informal.",
-          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
         }
       ],
-      "duration_ms": 140536,
-      "name": "thebaddest",
-      "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
+      "duration_ms": 210967,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb"
+    },
+    {
+      "added_at": "2025-01-03 05:16:19",
+      "album": {
+        "name": "What Have You Done For Me Lately",
+        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "duration_ms": 209644,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -281,6 +421,22 @@
       "url": "https://open.spotify.com/track/1cKjXJVvNSSDeZgI8fgOI0"
     },
     {
+      "added_at": "2025-01-10 05:00:33",
+      "album": {
+        "name": "Let It Grow",
+        "url": "https://open.spotify.com/album/5aA7OMN45iR1fO8cgvkAau"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "duration_ms": 284222,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/7jcGRUfoREyKkpuvIv4Sd9"
+    },
+    {
       "added_at": "2024-12-13 05:00:16",
       "album": {
         "name": "all right",
@@ -297,24 +453,20 @@
       "url": "https://open.spotify.com/track/00Wh6uftzgxQ4y29YzV2Yh"
     },
     {
-      "added_at": "2025-01-03 15:55:05",
+      "added_at": "2025-01-10 05:00:33",
       "album": {
-        "name": "Leave Me Slowly (Babsy. Remix)",
-        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
+        "name": "Contact High",
+        "url": "https://open.spotify.com/album/62zhw2g1eehQgmL6Oae2s1"
       },
       "artists": [
         {
-          "name": "Starsmith",
-          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
-        },
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+          "name": "Wake the Wild",
+          "url": "https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Leave Me Slowly - Babsy. Remix",
-      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
+      "duration_ms": 181200,
+      "name": "Contact High",
+      "url": "https://open.spotify.com/track/26bF60vYrsNKijlusq2nqQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -351,26 +503,6 @@
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb"
     },
     {
       "added_at": "2024-12-23 22:02:12",
@@ -439,6 +571,26 @@
       "duration_ms": 198345,
       "name": "CLUB VENUS",
       "url": "https://open.spotify.com/track/2u59qcbLQS07RZQSkjv4qC"
+    },
+    {
+      "added_at": "2025-01-03 15:55:05",
+      "album": {
+        "name": "Leave Me Slowly (Babsy. Remix)",
+        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
+      },
+      "artists": [
+        {
+          "name": "Starsmith",
+          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
+        },
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Leave Me Slowly - Babsy. Remix",
+      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -541,22 +693,6 @@
       "url": "https://open.spotify.com/track/26mCESsJXRzt5ZIlzjSKfW"
     },
     {
-      "added_at": "2024-12-06 17:57:12",
-      "album": {
-        "name": "Day Starter / Affection",
-        "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Day Starter",
-      "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
-    },
-    {
       "added_at": "2024-12-13 05:00:16",
       "album": {
         "name": "Where You Are",
@@ -575,26 +711,6 @@
       "duration_ms": 269000,
       "name": "Infinite Health - Vocal Edit",
       "url": "https://open.spotify.com/track/6EmCvCVSwUxmar8o061jgU"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
-      },
-      "artists": [
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        },
-        {
-          "name": "Vrdnyn",
-          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -651,22 +767,6 @@
       "duration_ms": 240094,
       "name": "choke enough",
       "url": "https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "found",
-        "url": "https://open.spotify.com/album/5LMte7IKVvSiPUa7QcKckq"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "found",
-      "url": "https://open.spotify.com/track/5JH6fXDF7AMWMyRPj20q1P"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -821,26 +921,6 @@
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
-      "added_at": "2024-11-29 06:43:52",
-      "album": {
-        "name": "Water Pistol (Killen. Remix)",
-        "url": "https://open.spotify.com/album/10l4hCpM2pON4RYhE7SjKe"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        },
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 176074,
-      "name": "Water Pistol - Killen. Remix",
-      "url": "https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "That Feeling",
@@ -871,26 +951,6 @@
       "duration_ms": 225531,
       "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
       "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Good Kisses",
-        "url": "https://open.spotify.com/album/30P5LzvjUMniT9wJcIAM0H"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Good Kisses",
-      "url": "https://open.spotify.com/track/7bjwvWMuGobr3qre7d0Lpc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1141,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1yE1gkhMwOERD571EKUYcn"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Minha Vida - Hope",
-        "url": "https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "In Love We Know Ourselves",
-      "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Highlight",
@@ -1187,22 +1231,6 @@
       "duration_ms": 182847,
       "name": "Rising Stars",
       "url": "https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Back Then, Computer Sound",
-        "url": "https://open.spotify.com/album/03vLK8v8cerigbfUKJlIxb"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 230001,
-      "name": "4byfour",
-      "url": "https://open.spotify.com/track/4xf4ZZCWTDO4Xnm3qQ2Y0k"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1491,22 +1519,6 @@
       "duration_ms": 196586,
       "name": "When We're Together",
       "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Radiance",
-        "url": "https://open.spotify.com/album/25gU260ly5bJJNE9D8QP3n"
-      },
-      "artists": [
-        {
-          "name": "Jabberwocky",
-          "url": "https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/6cTeBB2HaCgPR4dJoZ3wb8"
     },
     {
       "added_at": "2024-09-27 04:00:00",

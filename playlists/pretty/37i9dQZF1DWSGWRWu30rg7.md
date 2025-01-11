@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Jaz Rowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,736 likes - 87 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,738 likes - 87 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 27 | [Setelahnya](https://open.spotify.com/track/6d1KNcsDw2G0HmDDkJMFZo) | [Geura](https://open.spotify.com/artist/3IHpVA8oikoCOjTx8orBO8) | [Dansa Melirih](https://open.spotify.com/album/2SdMze1dHI1JJQbB6fxT0C) | 4:19 |
 | 28 | [Surat Pemutusan Hubungan Kerja](https://open.spotify.com/track/5IgPH1tUqSubce9iZZ4G2I) | [BAHMAN](https://open.spotify.com/artist/6bsBzEPBMAMReE7Hi4Tinz) | [Surat Pemutusan Hubungan Kerja](https://open.spotify.com/album/0hkBgPiN7JzNXELa421kwY) | 3:42 |
 | 29 | [Tak Ada Ketakutan](https://open.spotify.com/track/3asKSfCK7j7DlFN0A1QtLu) | [GESTUR](https://open.spotify.com/artist/1lRGWrGuZ6XE4lYfsosuGy) | [Yang Dicita\-Citakan](https://open.spotify.com/album/0G6rrIw7Gnr5Q0Hci2liNJ) | 3:17 |
-| 30 | [Berani Bermimpi \(Tegar Original Motion Picture Soudtrack\)](https://open.spotify.com/track/76t5KvH6k0r1pEmdPOYWDy) | [Teman Tegar Kids Choir](https://open.spotify.com/artist/3IbzP748AVbuUWhLPOenZ6) | [Berani Bermimpi \(Tegar Original Motion Picture Soudtrack\)](https://open.spotify.com/album/6HPlAqsDrs800Fx9aNG4yc) | 5:23 |
+| 30 | [Berani Bermimpi \(Tegar Original Motion Picture Soundtrack\)](https://open.spotify.com/track/76t5KvH6k0r1pEmdPOYWDy) | [Teman Tegar Kids Choir](https://open.spotify.com/artist/3IbzP748AVbuUWhLPOenZ6) | [Berani Bermimpi \(Tegar Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HPlAqsDrs800Fx9aNG4yc) | 5:23 |
 | 31 | [Till I Met You](https://open.spotify.com/track/688wmLmuCfJeDHiMaZXjfg) | [GreenBeans](https://open.spotify.com/artist/5qJ06d6IUTsXBRMsNXazft) | [Till I Met You](https://open.spotify.com/album/3QNO3FuW1tzD4vasxdQXpd) | 3:40 |
 | 32 | [1 + 1](https://open.spotify.com/track/6xKeKcCshfqbFrBoRLNmV2) | [8tually](https://open.spotify.com/artist/5n2NxAh2czs3UNE5SeB9Xv), [Puspita Larasati](https://open.spotify.com/artist/2nPrlldfmQgUrjmxn9UOGy) | [1 + 1](https://open.spotify.com/album/43WybN8rvxsav7fljQMIN1) | 2:41 |
 | 33 | [Safer Space](https://open.spotify.com/track/3yp4wLIV3hf3gxtIhDLdqC) | [Eleanore](https://open.spotify.com/artist/2OihdcruhTRWeFispzCCuA) | [Safer Space](https://open.spotify.com/album/3zuyvE13O4P9vgmYHSaKfU) | 3:06 |

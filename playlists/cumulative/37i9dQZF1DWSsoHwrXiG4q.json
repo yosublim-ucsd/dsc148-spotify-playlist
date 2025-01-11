@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 266860,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/5JX5doCTQJ9tQsLp9FJIYa"
@@ -2518,6 +2518,24 @@
       "duration_ms": 308976,
       "name": "Spyglass",
       "url": "https://open.spotify.com/track/4EaghxJQ9BR1uWufJYgame"
+    },
+    {
+      "album": {
+        "name": "Peach Roundabout",
+        "url": "https://open.spotify.com/album/0vRQdAZQmmXQqFNtpwD7Ya"
+      },
+      "artists": [
+        {
+          "name": "T-Shirts & Sweats",
+          "url": "https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300464,
+      "name": "Stardust Avenue",
+      "url": "https://open.spotify.com/track/0a0APxSGS6S1QHR5nI3VBW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Young Franco",
-  "num_followers": 388967,
+  "num_followers": 389322,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
       "duration_ms": 187666,
       "name": "Your New Favorite Song",
       "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
+    },
+    {
+      "added_at": "2025-01-09 13:00:35",
+      "album": {
+        "name": "We Own The Night",
+        "url": "https://open.spotify.com/album/3rjm6IbpXCCvb8rZ7S226J"
+      },
+      "artists": [
+        {
+          "name": "Black Atlass",
+          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
+        }
+      ],
+      "duration_ms": 231145,
+      "name": "We Own The Night",
+      "url": "https://open.spotify.com/track/2WSi6FyPF1vbZnT5xM3OJz"
     },
     {
       "added_at": "2025-01-09 13:00:35",

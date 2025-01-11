@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 210774,
+  "num_followers": 210837,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Desert",
-        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
-      },
-      "artists": [
-        {
-          "name": "Ask Carol",
-          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
-        }
-      ],
-      "duration_ms": 331785,
-      "name": "Desert",
-      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 263880,
       "name": "fare thee well",
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 180364,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Ask Carol",
+          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
         }
       ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+      "duration_ms": 331785,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Malory",
         "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
-      },
-      "artists": [
-        {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
-        }
-      ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Love Me One More Time",
+        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
+      },
+      "artists": [
+        {
+          "name": "Jonas Wallin",
+          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Love Me One More Time",
+      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Love Me One More Time",
-        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wallin",
-          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Love Me One More Time",
-      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Broken Road",
         "url": "https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 202000,
       "name": "Broken Road",
       "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     }
   ],
   "unique_name": "Nordic Folk",

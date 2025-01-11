@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover - Armaan Malik",
+  "description": "Latest music from your fav I-Pop artists. Cover - Raghav Chaitanya",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -324,6 +324,28 @@
       "duration_ms": 154285,
       "name": "Aadhe Waade",
       "url": "https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt"
+    },
+    {
+      "album": {
+        "name": "Aadhey Adhoorey",
+        "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "Aadhey Adhoorey",
+      "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
     },
     {
       "album": {
@@ -3443,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Begana",
+        "url": "https://open.spotify.com/album/13m7C6AagZdiRgUI8Hs9vR"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265064,
+      "name": "Begana",
+      "url": "https://open.spotify.com/track/5bGfwF9UalwiwJXHrDxQhe"
+    },
+    {
+      "album": {
         "name": "Beh Ja",
         "url": "https://open.spotify.com/album/6CL86AnZObaVblefmeQ4rj"
       },
@@ -4214,6 +4254,32 @@
       "duration_ms": 183230,
       "name": "Bura / Bhala",
       "url": "https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa"
+    },
+    {
+      "album": {
+        "name": "Buri Nazar Waale",
+        "url": "https://open.spotify.com/album/4qpU3ucVM97YyH2HTFieVy"
+      },
+      "artists": [
+        {
+          "name": "Inder Chahal",
+          "url": "https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk"
+        },
+        {
+          "name": "1EYE",
+          "url": "https://open.spotify.com/artist/2a4Rd6f40lapL7mKgbLsxP"
+        },
+        {
+          "name": "Nikk Muzik",
+          "url": "https://open.spotify.com/artist/507S6Ga4V20yRYw1IrRaHu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Buri Nazar Waale",
+      "url": "https://open.spotify.com/track/3vbBDFjF57rM8pWVKwRWKm"
     },
     {
       "album": {
@@ -6620,7 +6686,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 194568,
       "name": "Dil Na Hoga",
       "url": "https://open.spotify.com/track/6puwbifZYn7q64EsSHZWrw"
@@ -9349,6 +9415,28 @@
     },
     {
       "album": {
+        "name": "Harjayi Ve",
+        "url": "https://open.spotify.com/album/7iPBC85RzSsFHnKh713yio"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188606,
+      "name": "Harjayi Ve",
+      "url": "https://open.spotify.com/track/3bWvAtIwh2cI3Yuq4xj5E6"
+    },
+    {
+      "album": {
         "name": "Hasde Zara",
         "url": "https://open.spotify.com/album/4mXRRgAhonFWVZAXcFNRNM"
       },
@@ -9614,7 +9702,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 151384,
       "name": "Heera",
       "url": "https://open.spotify.com/track/0q5EZaawpTjQfWMa31txgT"
@@ -12322,6 +12410,32 @@
       "duration_ms": 165400,
       "name": "Jhooti Si",
       "url": "https://open.spotify.com/track/622d1Z8ToHDwFLlcM03qSG"
+    },
+    {
+      "album": {
+        "name": "JI Huzoor",
+        "url": "https://open.spotify.com/album/6VSnqYAzZyq1r5XFIcYiCg"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Abhijit Vaghani",
+          "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        },
+        {
+          "name": "Bhrigu Parashar",
+          "url": "https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "JI Huzoor",
+      "url": "https://open.spotify.com/track/5iGbrt26SrpaOAQZ03FtRJ"
     },
     {
       "album": {
@@ -19076,7 +19190,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 145025,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01"
@@ -20812,7 +20926,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 136438,
       "name": "Punjab",
       "url": "https://open.spotify.com/track/1inAjXPJ74BrbYnqrkN1oy"
@@ -22697,6 +22811,28 @@
     },
     {
       "album": {
+        "name": "Sajan Bin",
+        "url": "https://open.spotify.com/album/1N6x1lNOVfGEe6QJNuHCa6"
+      },
+      "artists": [
+        {
+          "name": "Aakanksha Sharma",
+          "url": "https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw"
+        },
+        {
+          "name": "Geetesh Yadav",
+          "url": "https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165791,
+      "name": "Sajan Bin",
+      "url": "https://open.spotify.com/track/7KDam7M3C4U7mxBRaO3mJE"
+    },
+    {
+      "album": {
         "name": "Azaad Collab",
         "url": "https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK"
       },
@@ -22716,7 +22852,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 195193,
       "name": "Sajaniya",
       "url": "https://open.spotify.com/track/12kUQe8uMERj3XBNl84ESz"
@@ -25930,7 +26066,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 190000,
       "name": "Theek Hi Hoya",
       "url": "https://open.spotify.com/track/38trEEPqopci3VHpM90Pch"

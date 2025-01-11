@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: An die ferne Geliebte, Op. 98 (Arr. Liszt for Solo Piano as S. 469): No. 6, Nimm sie hin denn, diese Lieder",
+        "url": "https://open.spotify.com/album/6F6ldXUonksOYxk2fobeEQ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249573,
+      "name": "An die ferne Geliebte, Op. 98 (Arr. Liszt for Solo Piano as S. 469): No. 6, Nimm sie hin denn, diese Lieder",
+      "url": "https://open.spotify.com/track/1ggsbVQXnzIGJs7ZCAaThM"
+    },
+    {
+      "album": {
         "name": "Beethoven: Bagatelles and Dances, Vol. 3",
         "url": "https://open.spotify.com/album/7p0JWnWj9C8oCq6KBuBwJe"
       },

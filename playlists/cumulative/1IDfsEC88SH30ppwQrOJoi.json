@@ -181,6 +181,24 @@
     },
     {
       "album": {
+        "name": "Act A Fool",
+        "url": "https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Powell",
+          "url": "https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151627,
+      "name": "Act A Fool",
+      "url": "https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8"
+    },
+    {
+      "album": {
         "name": "Adidas & Pearls",
         "url": "https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN"
       },
@@ -1620,6 +1638,28 @@
       "duration_ms": 216309,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/2qvjpnM1ZtLqGEcXgcaFRf"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4m1QQzp3Rz5w0NTiYWL2tC"
+      },
+      "artists": [
+        {
+          "name": "Ian G",
+          "url": "https://open.spotify.com/artist/2nQYxgKdzxuDMstR4zAg7g"
+        },
+        {
+          "name": "Ruff Loaderz",
+          "url": "https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/15RRojwJin9SYzZopZ8PDm"
     },
     {
       "album": {

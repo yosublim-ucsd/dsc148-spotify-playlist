@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Jay Sc\u00f8tt",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Aliocha Schneider",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -278,6 +278,28 @@
       "duration_ms": 146752,
       "name": "Comme Avant",
       "url": "https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV"
+    },
+    {
+      "album": {
+        "name": "Comme la mer",
+        "url": "https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        },
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254696,
+      "name": "Comme la mer",
+      "url": "https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS"
     },
     {
       "album": {
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196146,
       "name": "Le ciel o\u00f9 je me terre",
       "url": "https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J"
@@ -1296,6 +1318,24 @@
       "duration_ms": 175200,
       "name": "Les ponts",
       "url": "https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty"
+    },
+    {
+      "album": {
+        "name": "Limousine",
+        "url": "https://open.spotify.com/album/1LK10U5eEFMAaqbxX22ied"
+      },
+      "artists": [
+        {
+          "name": "Damien Robitaille",
+          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187798,
+      "name": "Limousine",
+      "url": "https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM"
     },
     {
       "album": {
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 210000,
       "name": "R\u00e9pondre aux oiseaux",
       "url": "https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt"
@@ -1950,6 +1990,24 @@
       "duration_ms": 193323,
       "name": "Te laisser des mots",
       "url": "https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT"
+    },
+    {
+      "album": {
+        "name": "Tenir debout",
+        "url": "https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216483,
+      "name": "Tenir debout",
+      "url": "https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z"
     },
     {
       "album": {
@@ -2220,7 +2278,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 193411,
       "name": "\u00c9milie",
       "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"

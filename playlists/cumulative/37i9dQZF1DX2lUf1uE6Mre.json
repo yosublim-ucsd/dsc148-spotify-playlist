@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 151033,
       "name": "La Money",
       "url": "https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa"
@@ -2330,6 +2330,28 @@
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj"
+    },
+    {
+      "album": {
+        "name": "Moja Draga",
+        "url": "https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Rina",
+          "url": "https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129498,
+      "name": "Moja Draga",
+      "url": "https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS"
     },
     {
       "album": {

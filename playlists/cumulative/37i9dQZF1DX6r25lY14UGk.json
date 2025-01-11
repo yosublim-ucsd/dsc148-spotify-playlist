@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Laurie Berkner",
+  "description": "New releases for the kids. Cover: The Wiggles",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Big Kid Energy",
+        "url": "https://open.spotify.com/album/3YIkAwtzKdqWVvk1HtMLNG"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117209,
+      "name": "Big Kid Energy",
+      "url": "https://open.spotify.com/track/0plhaGeJwkHKIyqWG2uIY2"
+    },
+    {
+      "album": {
         "name": "Big Red Ute",
         "url": "https://open.spotify.com/album/1HqaEKusGhe7DBbqqdJuN4"
       },
@@ -1440,6 +1458,24 @@
       "duration_ms": 124190,
       "name": "Brunch Munch",
       "url": "https://open.spotify.com/track/5nYJUHUJNSwVMfU5wyTq7M"
+    },
+    {
+      "album": {
+        "name": "GoNoodle Dance Party: What Time Is It?",
+        "url": "https://open.spotify.com/album/6X1Y7BuCeqjZhVc2ecFheN"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121028,
+      "name": "Brush Your Teeth",
+      "url": "https://open.spotify.com/track/7yfvCVvKID415PQDqhCvYn"
     },
     {
       "album": {
@@ -2803,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Elephant Song",
+        "url": "https://open.spotify.com/album/1saNdYBtgdZ7xJJd2Nk8mR"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122526,
+      "name": "Elephant Song",
+      "url": "https://open.spotify.com/track/3ojab84Z6hRFFgNYkDpcLi"
+    },
+    {
+      "album": {
         "name": "Los Fabulosos",
         "url": "https://open.spotify.com/album/5T5kQhE6o4QClLQUOVrs38"
       },
@@ -3724,6 +3778,24 @@
       "duration_ms": 260000,
       "name": "Fun with Phonics",
       "url": "https://open.spotify.com/track/5V4zgFjNlc7JLbWqU2rrlh"
+    },
+    {
+      "album": {
+        "name": "Funky Dance Party",
+        "url": "https://open.spotify.com/album/48hdRiMIlisq7KUtODUhLy"
+      },
+      "artists": [
+        {
+          "name": "Ollie Octopus",
+          "url": "https://open.spotify.com/artist/58H7eRtIkHTl4PIzQ98cBf"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136383,
+      "name": "Funky Dance Party",
+      "url": "https://open.spotify.com/track/77A0iynk04xduAhoKlzfp9"
     },
     {
       "album": {
@@ -10805,6 +10877,24 @@
     },
     {
       "album": {
+        "name": "Hogi Curiosity Songs",
+        "url": "https://open.spotify.com/album/7MqG1VVIOccU6PxU4NowNN"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68532,
+      "name": "The Hiccup Song",
+      "url": "https://open.spotify.com/track/3RvylqlTdibGjZ8T5aWWGZ"
+    },
+    {
+      "album": {
         "name": "That\u2019s What It\u2019s All About",
         "url": "https://open.spotify.com/album/39W3IfLx31FApjKBebnIV2"
       },
@@ -12526,6 +12616,28 @@
       "duration_ms": 41158,
       "name": "Wiggle and Shake",
       "url": "https://open.spotify.com/track/34DbBP5KsyG4e85b7acmnr"
+    },
+    {
+      "album": {
+        "name": "Wiggle Up, Giddy Up!",
+        "url": "https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157709,
+      "name": "Wiggle Up, Giddy Up!",
+      "url": "https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg"
     },
     {
       "album": {

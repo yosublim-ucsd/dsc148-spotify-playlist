@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "You're Awful, I Love You",
+        "url": "https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Lake Pontchartrain",
+      "url": "https://open.spotify.com/track/079xRk9N70NzB2vF0oMRRj"
+    },
+    {
+      "album": {
         "name": "The Sunset Tree",
         "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
       },

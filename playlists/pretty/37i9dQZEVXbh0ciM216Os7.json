@@ -6,10 +6,310 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB+eHbl91xn+Bm4QstlosC4",
+  "snapshot_id": "AAAAAAAAAABa3pUE7lljV//teICEkGxN",
   "tracks": [
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "D.R.U.M.",
+        "url": "https://open.spotify.com/album/1PULAobYUp788oRacOSPuD"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "duration_ms": 222009,
+      "name": "D.R.U.M.",
+      "url": "https://open.spotify.com/track/14V7DHBpuaweyPXXo4Zrxh"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/4Rqi5LGQFLn9SyHITZlyDh"
+      },
+      "artists": [
+        {
+          "name": "Dylan Owen",
+          "url": "https://open.spotify.com/artist/3tBtdC4EFE4bNqkt7JP0Co"
+        },
+        {
+          "name": "Abstract",
+          "url": "https://open.spotify.com/artist/7lkYBcrLM4JmVgeha1xNl6"
+        }
+      ],
+      "duration_ms": 151040,
+      "name": "Hawaii",
+      "url": "https://open.spotify.com/track/4FU7Eo5wRBu7hC8hxzDF6t"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Lionel Rich",
+        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
+      },
+      "artists": [
+        {
+          "name": "jacuzzi jefferson",
+          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+        },
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "Lionel Rich",
+      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Disappear (Morales 12\" Remix)",
+        "url": "https://open.spotify.com/album/07spIwEwfzUs73ATX4FNF7"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "duration_ms": 395226,
+      "name": "Disappear - Morales 12\" Mix",
+      "url": "https://open.spotify.com/track/4LdfjHLN9QmDXIL3SM1Z6l"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "All Business",
+        "url": "https://open.spotify.com/album/6J89HPRzMqeZds3P5JVTN2"
+      },
+      "artists": [
+        {
+          "name": "Sippinjuiceluke",
+          "url": "https://open.spotify.com/artist/6SkeNFcqKit98fEd0RPwrw"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "All Business",
+      "url": "https://open.spotify.com/track/1oFu0bg5nI7jvKFyQRMHUz"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "K.O.T.J.",
+        "url": "https://open.spotify.com/album/7kPlopRmlSSWThtxbRHYRC"
+      },
+      "artists": [
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "duration_ms": 260019,
+      "name": "K.O.T.J.",
+      "url": "https://open.spotify.com/track/5GJhYH1QYXwKD7gTE39oyM"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "247365",
+        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
+      },
+      "artists": [
+        {
+          "name": "MC.SUPRA",
+          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "247365",
+      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "laugh n cry",
+        "url": "https://open.spotify.com/album/6h4qsbfsrgt9EqKU7a8IzJ"
+      },
+      "artists": [
+        {
+          "name": "Dilly Yung",
+          "url": "https://open.spotify.com/artist/4YkMAl39Ivylkhs6rhaB0I"
+        },
+        {
+          "name": "King Geedorah",
+          "url": "https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa"
+        },
+        {
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "laughter",
+      "url": "https://open.spotify.com/track/0g77ZCFjyV1cWkWN3MVVYd"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Alter Ego (feat. Eminem)",
+        "url": "https://open.spotify.com/album/2LUWCihTuzpeW2POZhClra"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "DJ Rell",
+          "url": "https://open.spotify.com/artist/4sw1fHktKBWUVIoSUGGxrT"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Alter Ego (feat. Eminem)",
+      "url": "https://open.spotify.com/track/4fchxVAOV4T6fkaL8jkNou"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "American Primeval (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0N1aDLJfHd3s78yZINQAqH"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "A Melancholy",
+      "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Eventyr I: Strid",
+        "url": "https://open.spotify.com/album/7umQf4GPP3taEvL5nA7Uh0"
+      },
+      "artists": [
+        {
+          "name": "Kveld",
+          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "Brynhildirs Vrede",
+      "url": "https://open.spotify.com/track/2YmbhctU2TrCombmTSCkEZ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
@@ -25,7 +325,87 @@
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 163722,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "I'm on 4.0",
         "url": "https://open.spotify.com/album/3HTzCvsNFUCUVp2ZwSaGF7"
@@ -85,35 +465,27 @@
       "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Strange Universe",
-        "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
+        "name": "Last Wednesday",
+        "url": "https://open.spotify.com/album/1tolQbrKbmTyBgaIkxEojh"
       },
       "artists": [
         {
-          "name": "Non Phixion",
-          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+          "name": "Chris Webby",
+          "url": "https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM"
         },
         {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Lord Goat",
-          "url": "https://open.spotify.com/artist/1jEQ9dVjupKqchhxVIkHyD"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
         }
       ],
-      "duration_ms": 128394,
-      "name": "Strange Universe (The CZAR-KEYS Remix)",
-      "url": "https://open.spotify.com/track/3HPpG7OGpUE6C2sjBn3JLr"
+      "duration_ms": 286000,
+      "name": "A Tale Of 2 Kings (feat. Tech N9ne)",
+      "url": "https://open.spotify.com/track/19fmLObxPn65nyyCcqUWVK"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "Movies On Demand",
         "url": "https://open.spotify.com/album/23ZTlzMpNcnYYHKmqCsWnQ"
@@ -153,395 +525,7 @@
       "url": "https://open.spotify.com/track/1jNYG5jS1UARLTnI5DqA8p"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Lethal Industry (Rose Ringed Remix)",
-        "url": "https://open.spotify.com/album/0Cqne3jR9G6Pjx1LG8VZIC"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Rose Ringed",
-          "url": "https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "Lethal Industry (Rose Ringed Remix)",
-      "url": "https://open.spotify.com/track/7G4XrZlnEUpng7NrRXOnb8"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "PREY",
-        "url": "https://open.spotify.com/album/5dkx20BaGJVP7NhAyrwY1E"
-      },
-      "artists": [
-        {
-          "name": "Lil McAdz",
-          "url": "https://open.spotify.com/artist/0cSVhxGPBHmXyO6zmvHgbn"
-        },
-        {
-          "name": "Probz",
-          "url": "https://open.spotify.com/artist/0bcDn1bsn5TsALf7SImnFn"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Felc",
-          "url": "https://open.spotify.com/artist/540sPwcilqpSmIZPgyPKXF"
-        }
-      ],
-      "duration_ms": 216277,
-      "name": "MUSIC STORY",
-      "url": "https://open.spotify.com/track/0tgTddCceTDvjyrAVHvPaT"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "ALL BUSINESS",
-        "url": "https://open.spotify.com/album/1aTz8gfZiLMfuLiWOVXafd"
-      },
-      "artists": [
-        {
-          "name": "The Massholez",
-          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Sean Price",
-          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
-        }
-      ],
-      "duration_ms": 238620,
-      "name": "ALL BUSINESS",
-      "url": "https://open.spotify.com/track/4EGbNjLBi1Iui8t7D27PAi"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Raise The Glass Single",
-        "url": "https://open.spotify.com/album/01oYcWqjnS7J2cG53HUvWN"
-      },
-      "artists": [
-        {
-          "name": "The Incomplete Orchestra",
-          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Lone Wolf",
-          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
-        },
-        {
-          "name": "P-Earl Gray",
-          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Chi Mi Na Morbheanna - NYE Bash!",
-      "url": "https://open.spotify.com/track/73XCWE0txnDu2ffCVa4yuW"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Your Little Suburbia Is In Ruins",
-        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 245325,
-      "name": "Your Little Suburbia Is In Ruins",
-      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Cut Your Roses Down (Sure Is Pure Mix)",
-        "url": "https://open.spotify.com/album/3y823dxddhM3K7drjMZt4u"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 511493,
-      "name": "Cut Your Roses Down - Sure Is Pure Mix",
-      "url": "https://open.spotify.com/track/5GhzWt6dtmUqsWugWI16MU"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Philip Glass: Etude No.6",
-        "url": "https://open.spotify.com/album/2C7jFwKmwccy1iNbMeUe6g"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Halcyon String Quartet",
-          "url": "https://open.spotify.com/artist/4QQn5qeygvBoaA2VsRhBQO"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Etude No.6 (arranged for string quartet)",
-      "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Ivar's Revenge (Cyantist & Mr.Main Remix)",
-        "url": "https://open.spotify.com/album/2lWLwzPHx5TV7Y8tpoORQ0"
-      },
-      "artists": [
-        {
-          "name": "Danheim",
-          "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
-        },
-        {
-          "name": "Cyantist",
-          "url": "https://open.spotify.com/artist/1u7JDHuc3k2tlRMuaPOP9v"
-        },
-        {
-          "name": "Mr.Main",
-          "url": "https://open.spotify.com/artist/5clMkOZxSMXlddnQrdtzrk"
-        }
-      ],
-      "duration_ms": 275322,
-      "name": "Ivar's Revenge - Cyantist & Mr.Main Remix",
-      "url": "https://open.spotify.com/track/67M3SJ3sjHmPFQpfQrv143"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Take Me to the Beach (feat. Ado)",
-        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Take Me to the Beach (feat. Ado)",
-      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 202937,
-      "name": "Hymn to Virgil",
-      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Montagem Lunar Diamante",
-        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
-      },
-      "artists": [
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "WXCHSXN",
-          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
-        }
-      ],
-      "duration_ms": 185177,
-      "name": "Montagem Lunar Diamante - Slowed",
-      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Missionary",
-        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 213739,
-      "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
-      "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Missionary",
-        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 163722,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Last Wednesday",
-        "url": "https://open.spotify.com/album/1tolQbrKbmTyBgaIkxEojh"
-      },
-      "artists": [
-        {
-          "name": "Chris Webby",
-          "url": "https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "A Tale Of 2 Kings (feat. Tech N9ne)",
-      "url": "https://open.spotify.com/track/19fmLObxPn65nyyCcqUWVK"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "Let Us Pray: Chapter X",
         "url": "https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug"
@@ -569,7 +553,7 @@
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "Lift Me Up (feat. Moby)",
         "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
@@ -593,39 +577,7 @@
       "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "The Art of War 2.0",
-        "url": "https://open.spotify.com/album/1hgoedH8YqRiPqw7ldIl3o"
-      },
-      "artists": [
-        {
-          "name": "Lu",
-          "url": "https://open.spotify.com/artist/1lHCLXrgfaUK8kfuHHZ0Ub"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 313391,
-      "name": "The Art of War 2.0",
-      "url": "https://open.spotify.com/track/2nxULEDxFEcPJQCazokXlS"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "Asteroids (Redux)",
         "url": "https://open.spotify.com/album/1viuwpXUtbu89JFAvLyBEZ"
@@ -645,7 +597,7 @@
       "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
         "name": "The Bells",
         "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
@@ -661,30 +613,10 @@
       "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
     },
     {
-      "added_at": "2025-01-03 05:00:00",
+      "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Supra Cum Laude",
-        "url": "https://open.spotify.com/album/4jMbEHGDgPnrDk7qmg7boq"
-      },
-      "artists": [
-        {
-          "name": "MC.SUPRA",
-          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Humble & Hungry",
-      "url": "https://open.spotify.com/track/0bl5BKfmYXZyyMm3b75eIB"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "The Gift No One Wants!",
-        "url": "https://open.spotify.com/album/7KtBoYq6BjuOqCK5x7KjgG"
+        "name": "Janus 1",
+        "url": "https://open.spotify.com/album/0qiNzaJJZlUawZK6lE862y"
       },
       "artists": [
         {
@@ -692,21 +624,57 @@
           "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
         },
         {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Lone Wolf",
+          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
         },
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "P-Earl Gray",
+          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
         }
       ],
-      "duration_ms": 286020,
-      "name": "Zoo - Original",
-      "url": "https://open.spotify.com/track/3KYyXPUc4B65DXnqTFEgoF"
+      "duration_ms": 246400,
+      "name": "Chi Mi Na Morbheanna - NYE Bash!",
+      "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Philip Glass: Etude No.6",
+        "url": "https://open.spotify.com/album/2C7jFwKmwccy1iNbMeUe6g"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Halcyon String Quartet",
+          "url": "https://open.spotify.com/artist/4QQn5qeygvBoaA2VsRhBQO"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Etude No.6 (arranged for string quartet)",
+      "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลย์ลิสต์พิเศษวันเด็ก เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: BamBam
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,997 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,081 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

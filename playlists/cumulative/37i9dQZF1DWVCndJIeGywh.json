@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 911750,
       "name": "Fantasia on a Theme by Thomas Tallis",
       "url": "https://open.spotify.com/track/6Mf7oE0z8vae3TnyN4mOYk"
@@ -734,6 +734,32 @@
       "duration_ms": 913200,
       "name": "Fantasia on a Theme by Thomas Tallis",
       "url": "https://open.spotify.com/track/04daeztQJg7lyDDAHJ70rT"
+    },
+    {
+      "album": {
+        "name": "Romantic Favorites for Strings (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1PZ9DdMSoEOUtvCdkQYKH3"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086533,
+      "name": "Fantasia on a Theme by Thomas Tallis",
+      "url": "https://open.spotify.com/track/2yJVk6jfa2xAEqVb2qDFgn"
     },
     {
       "album": {
@@ -1001,6 +1027,32 @@
     },
     {
       "album": {
+        "name": "Judith Weir: Still, Glowing",
+        "url": "https://open.spotify.com/album/1nuXPZeetr7ljOb92Bh5YP"
+      },
+      "artists": [
+        {
+          "name": "Judith Weir",
+          "url": "https://open.spotify.com/artist/4AhGJX48US2OIdpSG7oo5c"
+        },
+        {
+          "name": "Dalia Stasevska",
+          "url": "https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Judith Weir: Still, Glowing",
+      "url": "https://open.spotify.com/track/1G21KFQwoxRWGqhB4gNw5J"
+    },
+    {
+      "album": {
         "name": "Purcell / Handel: Theatre Music",
         "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
       },
@@ -1248,6 +1300,28 @@
       "duration_ms": 644600,
       "name": "Norfolk Rhapsody No.1 in E minor",
       "url": "https://open.spotify.com/track/1t04Z9hjSHJuwTIbfr0D3H"
+    },
+    {
+      "album": {
+        "name": "Palladio Reimagined: 2. Largo",
+        "url": "https://open.spotify.com/album/7j6KyKv6ZKeYbzSHANxuoU"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352423,
+      "name": "Palladio Reimagined: 2. Largo",
+      "url": "https://open.spotify.com/track/2nKVNgpcvRCawtxiAq2Kb0"
     },
     {
       "album": {
@@ -1546,6 +1620,40 @@
       "duration_ms": 271853,
       "name": "The Moon (version for strings)",
       "url": "https://open.spotify.com/track/05y7FttJgrRiMmq1C5Ut57"
+    },
+    {
+      "album": {
+        "name": "Holst: The Planets",
+        "url": "https://open.spotify.com/album/3oZ7W9wMKYTbS9y1BXPD8R"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Vladimir Jurowski",
+          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
+        },
+        {
+          "name": "London Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/7GUhTBqD7CAbbIjjBd0SdN"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Neville Creed",
+          "url": "https://open.spotify.com/artist/5NZbFEagW04SQnp1Bw5trZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425611,
+      "name": "The Planets Suite, Op. 32: IV. Jupiter",
+      "url": "https://open.spotify.com/track/0n6HtcfZzpbpK2awWFjt8W"
     },
     {
       "album": {

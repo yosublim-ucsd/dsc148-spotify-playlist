@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6aZ9vrXqd1U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6aZ9vrXqd1U)
 
-### [GUNDAM SERIES \-ガンダムシリーズ\-](https://open.spotify.com/playlist/37i9dQZF1DX6aZ9vrXqd1U)
+### [GUNDAM SERIES](https://open.spotify.com/playlist/37i9dQZF1DX6aZ9vrXqd1U)
 
-> Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
+> Enjoy music from GUNDAM series! ©創通・サンライズ
 
 343 songs - 23 hr 53 min
 

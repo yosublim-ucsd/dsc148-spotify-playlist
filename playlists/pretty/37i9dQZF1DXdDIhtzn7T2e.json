@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 82461,
+  "num_followers": 82458,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAADKKI8u2ZsPvzT9mtyEHzjR",
+  "snapshot_id": "Z4CpcwAAAADuTImzrWwpSao+TdxSZKij",
   "tracks": [
     {
       "added_at": "2024-04-20 04:00:00",
@@ -463,6 +463,26 @@
       "duration_ms": 183076,
       "name": "Smoke It - Demo",
       "url": "https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq"
+    },
+    {
+      "added_at": "2025-01-10 05:00:35",
+      "album": {
+        "name": "this little lighter of mine (joy version)",
+        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "this little lighter of mine (joy version)",
+      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
     },
     {
       "added_at": "2024-04-20 04:00:00",

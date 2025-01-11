@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
@@ -9844,7 +9844,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 180224,
       "name": "Contigo el 2025",
       "url": "https://open.spotify.com/track/1x57piY4gMV0gFMk1sLb8A"
@@ -14242,6 +14242,24 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
+    },
+    {
+      "album": {
+        "name": "EL PIZON",
+        "url": "https://open.spotify.com/album/2xb094zKZFkltrLV5Qlvru"
+      },
+      "artists": [
+        {
+          "name": "LOS PLEBES DE OLANCHO",
+          "url": "https://open.spotify.com/artist/7tTNibXm5wh1h2nICjYy9H"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173389,
+      "name": "EL PIZON",
+      "url": "https://open.spotify.com/track/6KeJdCUdBbG3Ram1yx1HqJ"
     },
     {
       "album": {
@@ -19692,6 +19710,28 @@
       "duration_ms": 216568,
       "name": "Herida Abierta",
       "url": "https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK"
+    },
+    {
+      "album": {
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
     },
     {
       "album": {
@@ -26590,7 +26630,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -34422,7 +34462,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 215327,
       "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
       "url": "https://open.spotify.com/track/2qfwJirVvrA8bVvq9zH7yB"
@@ -48080,6 +48120,10 @@
         {
           "name": "Kenny Die",
           "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Sebas",
+          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
         }
       ],
       "date_added": "2024-12-21",

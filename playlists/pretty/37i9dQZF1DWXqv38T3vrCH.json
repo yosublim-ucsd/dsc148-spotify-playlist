@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 341519,
+  "num_followers": 341471,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Baby You're a Haunted House",
-        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
-      },
-      "artists": [
-        {
-          "name": "Gerard Way",
-          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
-        }
-      ],
-      "duration_ms": 166361,
-      "name": "Baby You're a Haunted House",
-      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 220413,
       "name": "Twin Skeleton's (Hotel In NYC)",
       "url": "https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Baby You're a Haunted House",
+        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
+      },
+      "artists": [
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "duration_ms": 166361,
+      "name": "Baby You're a Haunted House",
+      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Happy Happy Halloween",
-        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
-      },
-      "artists": [
-        {
-          "name": "Surfbort",
-          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
-        }
-      ],
-      "duration_ms": 137770,
-      "name": "Happy Happy Halloween",
-      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 306426,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Happy Happy Halloween",
+        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
+      },
+      "artists": [
+        {
+          "name": "Surfbort",
+          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+        }
+      ],
+      "duration_ms": 137770,
+      "name": "Happy Happy Halloween",
+      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
     },
     {
       "added_at": "2024-10-11 19:37:59",

@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Blinker",
+        "url": "https://open.spotify.com/album/3qI53JSHxW0JJTNCTuex82"
+      },
+      "artists": [
+        {
+          "name": "TUKAN",
+          "url": "https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215997,
+      "name": "Blinker",
+      "url": "https://open.spotify.com/track/42Qx9cM3rWfc3BIVVeEEiU"
+    },
+    {
+      "album": {
         "name": "blueworld 22",
         "url": "https://open.spotify.com/album/02KT0X5QybcivH8aUV0wP1"
       },
@@ -2045,6 +2063,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1llate (AceMo Remix)",
+        "url": "https://open.spotify.com/album/1XXsVRBQjtDnmGcK0kkd1b"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Danny Daze",
+          "url": "https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB"
+        },
+        {
+          "name": "AceMo",
+          "url": "https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257362,
+      "name": "C\u00e1llate - AceMo Remix",
+      "url": "https://open.spotify.com/track/6JhyDADQu9JmZhy8eya3CB"
+    },
+    {
+      "album": {
         "name": "D33P",
         "url": "https://open.spotify.com/album/62N6BE9wGsZHjqHINaWjNo"
       },
@@ -2436,6 +2480,24 @@
       "duration_ms": 241777,
       "name": "Don't Touch Me Baby",
       "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "album": {
+        "name": "Double BBL",
+        "url": "https://open.spotify.com/album/6gniwz4AyZTmWxUjjb26aj"
+      },
+      "artists": [
+        {
+          "name": "Kilbourne",
+          "url": "https://open.spotify.com/artist/2puJJyoBDCIvN9N7M4yRh3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277807,
+      "name": "Double BBL",
+      "url": "https://open.spotify.com/track/2BYMrlTKNeF7ogsBgDX2dA"
     },
     {
       "album": {
@@ -3442,7 +3504,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192899,
       "name": "GiGi",
       "url": "https://open.spotify.com/track/7n2vLTUO8JahfIXqa5WcxQ"
@@ -4272,7 +4334,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 314000,
       "name": "I Can Move Move",
       "url": "https://open.spotify.com/track/5iE7vv9UJv0EmIPYRow2cq"
@@ -5332,7 +5394,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 322176,
       "name": "Loon Call",
       "url": "https://open.spotify.com/track/7y4Ipx5htF0J5sTMgQK4md"
@@ -6610,7 +6672,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 201606,
       "name": "Pulgueiro Baile",
       "url": "https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0"

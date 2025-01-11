@@ -1,6 +1,6 @@
 {
   "description": "Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373349,
+  "num_followers": 373338,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Garota Nota 100",
         "url": "https://open.spotify.com/album/4sm3HXOFuUd3Of7myM4zTN"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 228568,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/1ZyrfB6T0Cm9wFXAjJQQWE"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "TunTunTun (Spotify Singles)",
         "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 351496,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "Vou Querer De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "Dorme Com Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 215554,
       "name": "Dorme Com Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -1187,30 +1187,18 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "Ningu\u00e9m Precisa Se Odiar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ROdOIwYZFhZYzy3D4VXGo"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
         }
       ],
-      "duration_ms": 324923,
-      "name": "HINO DOS D",
-      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
+      "duration_ms": 157225,
+      "name": "Ningu\u00e9m Precisa Se Odiar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0PbchTAcLGIoweqrEckmBl"
     }
   ],
   "unique_name": "AMPLIFIKA",

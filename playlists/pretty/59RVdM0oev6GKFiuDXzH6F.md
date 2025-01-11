@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,247 likes - 151 songs - 8 hr 18 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,248 likes - 155 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,9 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 149 | [Resist](https://open.spotify.com/track/6zOQx3eE6KBeMIIzU5MY7c) | [Anton Fokin](https://open.spotify.com/artist/1R6vJR7oJ6P1JEWPTlFaJ4) | [Resist](https://open.spotify.com/album/7tVMkMP2ikD6uriFUHayd1) | 3:25 |
 | 150 | [Belong](https://open.spotify.com/track/0CXFf0z31erRYLuIeH5n0C) | [Jeancy](https://open.spotify.com/artist/0kpzYqz5RW4Cl9HpYrxhEX) | [Belong](https://open.spotify.com/album/3flVwgi4XMribalzMjRPMn) | 3:08 |
 | 151 | [I Adore You](https://open.spotify.com/track/28krR81IAm705Bphamcc5P) | [Bearibo](https://open.spotify.com/artist/6kYMznx3QSZrhDIrd5cCEL) | [I Adore You](https://open.spotify.com/album/5GZe9XtOEL8UYpXBHmnZVZ) | 3:46 |
+| 152 | [Humpty Dumpty](https://open.spotify.com/track/0si4CtK4GNt9yWRd8QcvQx) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Humpty Dumpty](https://open.spotify.com/album/0jJlBjvYNqsmEv5e05wWR0) | 3:02 |
+| 153 | [Man On The Internet](https://open.spotify.com/track/1uhpwRggf9AaJws3idWFPF) | [Ex Music](https://open.spotify.com/artist/4UdV3xkQivY94241kmSshU), [Boy Acuff](https://open.spotify.com/artist/2qxZ69Xo2jUsgf0liEv4sM) | [Man On The Internet](https://open.spotify.com/album/7C7FAWzlJ6zqAFY0BvI0AV) | 2:35 |
+| 154 | [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 |
+| 155 | [Go Down \- Radio Mix](https://open.spotify.com/track/5rknguMmLNVo3nssfJiThj) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR), [Ivax](https://open.spotify.com/artist/7E0QQ55VuvXNy0iF3mop5x) | [Go Down](https://open.spotify.com/album/37oTqjeAYIQH7AYT8thNkJ) | 3:14 |
 
-Snapshot ID: `AAAPxSmke27/uAYucaba5X6LKJmauLOI`
+Snapshot ID: `AAAPySlwPV14M1/4QJfNS3Uvgisp9jLm`

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Always Gonna Be",
+        "url": "https://open.spotify.com/album/2qbFUHwgiby2t5NtkRNMZ8"
+      },
+      "artists": [
+        {
+          "name": "Karli June",
+          "url": "https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182692,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/4nAInEc0V3n1fEx8Nr9Dap"
+    },
+    {
+      "album": {
         "name": "Am I Okay?",
         "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 148626,
       "name": "Damn Good Country Song",
       "url": "https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38"
@@ -1474,6 +1492,24 @@
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
+    },
+    {
+      "album": {
+        "name": "Drunk Love",
+        "url": "https://open.spotify.com/album/6gChKbfnQ9grgqW6xx80LZ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240437,
+      "name": "Drunk Love",
+      "url": "https://open.spotify.com/track/4rKhNylzPiJGKFMq7rn8tn"
     },
     {
       "album": {
@@ -2025,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Happiest I've Ever Been (Spanglish Version)",
+        "url": "https://open.spotify.com/album/5kQib3n4H6kwDruJAuEAE6"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176073,
+      "name": "Happiest I've Ever Been - Spanglish Version",
+      "url": "https://open.spotify.com/track/1j0LnJ4yaE1QrAWX3MDVtD"
+    },
+    {
+      "album": {
         "name": "Hard Luck & Circumstances",
         "url": "https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E"
       },
@@ -2137,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Hello Whiskey",
+        "url": "https://open.spotify.com/album/1tp9l3w0s4YgffZFAmJNSK"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262346,
+      "name": "Hello Whiskey",
+      "url": "https://open.spotify.com/track/482qnAUubbTntyywad6oru"
+    },
+    {
+      "album": {
         "name": "Here To Stay",
         "url": "https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN"
       },
@@ -2224,7 +2296,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 175288,
       "name": "High Life",
       "url": "https://open.spotify.com/track/1N3w24NO5PLKygjGmzljki"
@@ -3698,7 +3770,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 196904,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6"
@@ -3828,6 +3900,24 @@
       "duration_ms": 172163,
       "name": "Sip",
       "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/3hZCtdmRCee5ceFggxahJJ"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165988,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq"
     },
     {
       "album": {
@@ -4056,7 +4146,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 175066,
       "name": "Started Stoppin'",
       "url": "https://open.spotify.com/track/0cw6yDjjU0cYNVZoKpEEK3"
@@ -4284,7 +4374,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 191233,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1VbtpLopDW6a0GKQEG4Kzb"

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 505713,
+  "num_followers": 505820,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33AAAAAAAA+rySDykGL0zVsVzoR8lcG",
+  "snapshot_id": "Z38RgAAAAAAJNlEaF6TCVSYrX0H7PIqS",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Nice",
-        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "FMIF",
+          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
         }
       ],
-      "duration_ms": 228714,
-      "name": "Be Nice",
-      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
+      "duration_ms": 234506,
+      "name": "I Gotta Feeling - FMIF Remix; Edit",
+      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+        "name": "Be Nice",
+        "url": "https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "FMIF",
-          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 234506,
-      "name": "I Gotta Feeling - FMIF Remix; Edit",
-      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
+      "duration_ms": 228714,
+      "name": "Be Nice",
+      "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
     },
     {
       "added_at": null,

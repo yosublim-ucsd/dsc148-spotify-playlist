@@ -911,6 +911,36 @@
     },
     {
       "album": {
+        "name": "Adeneno (From \"Rudhra Garuda Purana\")",
+        "url": "https://open.spotify.com/album/23hlZQjodoLKX6ufHrkQ1W"
+      },
+      "artists": [
+        {
+          "name": "K.P.",
+          "url": "https://open.spotify.com/artist/5WRI9ZXZYvXG4hPvln546A"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Deepika Varadarajan",
+          "url": "https://open.spotify.com/artist/4Qg3YWzdOvs6UiYtdyzgLu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218922,
+      "name": "Adeneno (From \"Rudhra Garuda Purana\")",
+      "url": "https://open.spotify.com/track/1gFYi2cUem0JnP0pJDnarb"
+    },
+    {
+      "album": {
         "name": "Ae Tagaru Kano Ninu Mama (Dhum) [From \"Ae Tagaru Kano Ninu Mama\"]",
         "url": "https://open.spotify.com/album/0icZhdqeiIjKwTcednRnTg"
       },
@@ -12132,7 +12162,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 229833,
       "name": "Hey Kogile (From \"Amaran\") (Kannada)",
       "url": "https://open.spotify.com/track/3WzVXPoetY8w66xB65TONb"
@@ -12948,8 +12978,8 @@
       },
       "artists": [
         {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
         },
         {
           "name": "Nakash Aziz",
@@ -15682,6 +15712,28 @@
       "duration_ms": 275121,
       "name": "Kampuni Kampuni (From \"Hare Rama Hare Krishna\")",
       "url": "https://open.spotify.com/track/5DJAai44e2nxD837GvDMHq"
+    },
+    {
+      "album": {
+        "name": "Kanasale Kavithe (From \"Gajarama\")",
+        "url": "https://open.spotify.com/album/1LTR5wP9Axch2Bs90e39jo"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219637,
+      "name": "Kanasale Kavithe (From \"Gajarama\")",
+      "url": "https://open.spotify.com/track/481XYglaNyHjqi12XdAPq6"
     },
     {
       "album": {
@@ -21731,6 +21783,32 @@
     },
     {
       "album": {
+        "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/2YIyypibyOKMRObUOws0qk"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "V Sridhar Sambhram",
+          "url": "https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292802,
+      "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/5pDR4N3CDBvmc0N50DJu37"
+    },
+    {
+      "album": {
         "name": "Sanju Weds Geetha 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6q8i2wJfR8Lo61UtPChZSo"
       },
@@ -25753,6 +25831,24 @@
     },
     {
       "album": {
+        "name": "Oh Senorita (From \"31 Days\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3YBhSmqDjw2pmMyR4pLGt8"
+      },
+      "artists": [
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129294,
+      "name": "Oh Senorita (From \"31 Days\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/6NZachdB2oMjc8agwnvgWQ"
+    },
+    {
+      "album": {
         "name": "Oh Sundara (From \"Life Is Beautifu\") - Single",
         "url": "https://open.spotify.com/album/2KUcSTpanCzyxGOsQdGzQX"
       },
@@ -29260,7 +29356,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 259881,
       "name": "Saaraayi Shaantamma (From \"Gajarama\")",
       "url": "https://open.spotify.com/track/0IzSMwuWUq71cQ5Mgsixhg"
@@ -33252,7 +33348,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 210000,
       "name": "Usire Usire (From \"Amaran\") (Kannada)",
       "url": "https://open.spotify.com/track/3841sEYEo8cZqZboSmCN8W"

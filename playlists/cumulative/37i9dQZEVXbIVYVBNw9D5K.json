@@ -282,7 +282,7 @@
       },
       "artists": [
         {
-          "name": "Ati242",
+          "name": "Ati",
           "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
@@ -1075,19 +1075,19 @@
       "artists": [
         {
           "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6ijkx3JFSiQo2YEfEVIPJd"
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
         },
         {
           "name": "Wegh",
           "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
         },
         {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        },
-        {
           "name": "EGE!",
           "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         }
       ],
       "date_added": "2024-12-21",
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Ba\u011f\u0131\u015fla",
+        "url": "https://open.spotify.com/album/2se3g3MA4orPR1OI5TjWOP"
+      },
+      "artists": [
+        {
+          "name": "Funda Arar",
+          "url": "https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217324,
+      "name": "Ba\u011f\u0131\u015fla",
+      "url": "https://open.spotify.com/track/43Kpm3kz8904r3DCvrCx5h"
+    },
+    {
+      "album": {
         "name": "Ba\u015fa Sar",
         "url": "https://open.spotify.com/album/7reVX131NVuP74udQg1LPs"
       },
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 173750,
       "name": "Bir Karanfil",
       "url": "https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ"
@@ -5603,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2024-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "De\u011fi\u015fmene Ra\u011fmen",
+      "url": "https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw"
+    },
+    {
+      "album": {
         "name": "De\u011fi\u015fmene Ra\u011fmen",
         "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
       },
@@ -5618,24 +5654,6 @@
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
-    },
-    {
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "date_added": "2024-10-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185786,
-      "name": "De\u011fi\u015fmene Ra\u011fmen",
-      "url": "https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw"
     },
     {
       "album": {
@@ -9036,7 +9054,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202325,
       "name": "Halbuki",
       "url": "https://open.spotify.com/track/5RZH849e1ZWa2qeVz6O3mK"
@@ -9202,7 +9220,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 287333,
       "name": "Hat\u0131ran Yeter",
       "url": "https://open.spotify.com/track/05MvdMKvVahOp9X64639DN"
@@ -10356,7 +10374,7 @@
       },
       "artists": [
         {
-          "name": "Ati242",
+          "name": "Ati",
           "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
@@ -14559,6 +14577,24 @@
     },
     {
       "album": {
+        "name": "Ki\u015fiye \u00d6zel",
+        "url": "https://open.spotify.com/album/0YKWM0fWJPqohGAIj9nTEw"
+      },
+      "artists": [
+        {
+          "name": "Emre Altu\u011f",
+          "url": "https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285720,
+      "name": "Neyleyim",
+      "url": "https://open.spotify.com/track/3QSJlPYxNXCBP0y4SNB2E7"
+    },
+    {
+      "album": {
         "name": "Bir G\u00fczellik Yap",
         "url": "https://open.spotify.com/album/6sgW7vemlJlYinVjTSpLhp"
       },
@@ -14628,7 +14664,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 258159,
       "name": "Nil\u00fcfer",
       "url": "https://open.spotify.com/track/4cHrCNJTdMfbtY0fjc5ged"
@@ -16125,7 +16161,7 @@
       "artists": [
         {
           "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6ijkx3JFSiQo2YEfEVIPJd"
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
         }
       ],
       "date_added": "2024-12-21",
@@ -16650,7 +16686,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 280266,
       "name": "Sabah\u00e7\u0131 Kahvesi",
       "url": "https://open.spotify.com/track/2Opk6XL5mU2SwL3bdfMB5P"
@@ -18386,7 +18422,7 @@
       },
       "artists": [
         {
-          "name": "Ati242",
+          "name": "Ati",
           "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
@@ -18820,7 +18856,7 @@
       },
       "artists": [
         {
-          "name": "Ati242",
+          "name": "Ati",
           "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
@@ -20084,7 +20120,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 265964,
       "name": "Yank\u0131",
       "url": "https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk"

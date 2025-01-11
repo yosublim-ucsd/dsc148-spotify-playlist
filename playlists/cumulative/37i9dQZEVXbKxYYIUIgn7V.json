@@ -3449,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Brauch nur dich",
+        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144926,
+      "name": "Brauch nur dich",
+      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "album": {
         "name": "Braunes Rauschen",
         "url": "https://open.spotify.com/album/2AG0IMraftrgYzk6aL3C5M"
       },
@@ -19320,7 +19338,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 280266,
       "name": "Sabah\u00e7\u0131 Kahvesi",
       "url": "https://open.spotify.com/track/2Opk6XL5mU2SwL3bdfMB5P"
@@ -20472,7 +20490,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 129487,
       "name": "Sigma Boy - Remix",
       "url": "https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy"
@@ -25766,7 +25784,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"

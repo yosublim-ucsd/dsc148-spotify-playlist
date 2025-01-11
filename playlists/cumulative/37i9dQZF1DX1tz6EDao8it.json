@@ -651,6 +651,40 @@
     },
     {
       "album": {
+        "name": "Dune II Suite",
+        "url": "https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Juan Garcia Herreros",
+          "url": "https://open.spotify.com/artist/4VuZZ0AqoOhIoVopAufsei"
+        },
+        {
+          "name": "Aleksandra Suklar",
+          "url": "https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "Dune II Suite: Part 2, A Time of Quiet Between the Storms",
+      "url": "https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B"
+    },
+    {
+      "album": {
         "name": "Gladiator: 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
       },

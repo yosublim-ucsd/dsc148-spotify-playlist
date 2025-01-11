@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Jay Scøtt
+> De la musique québécoise pour tous les goûts\. Photo: Aliocha Schneider
 
-120 songs - 6 hr 25 min
+123 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 | 2024-06-28 | 2024-11-16 |
 | [Coffee](https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Dub Silence](https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr), [Adamo](https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:47 | 2024-07-26 |  |
 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
+| [Comme la mer](https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Comme la mer](https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8) | 4:14 | 2025-01-10 |  |
 | [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 | 2024-11-23 |
 | [Coup de poing](https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Coup de poing](https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf) | 2:53 | 2024-09-27 | 2024-11-09 |
 | [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-29 |  |
@@ -64,7 +65,7 @@
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2024-06-28 |  |
 | [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 | 2024-09-27 |  |
 | [Le bac des objets perdus](https://open.spotify.com/track/3v04ebsMGllMReChKTAfZw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6), [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [Antigéographiquement](https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd) | 5:05 | 2024-06-28 | 2024-08-24 |
-| [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-06-28 |  |
+| [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-06-28 | 2025-01-11 |
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 |  |
 | [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 |  |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
@@ -77,6 +78,7 @@
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 | 2024-09-28 |
 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 | 2024-06-28 |  |
 | [Les ponts](https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Les ponts](https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO) | 2:55 | 2024-06-28 | 2024-09-14 |
+| [Limousine](https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Limousine](https://open.spotify.com/album/1LK10U5eEFMAaqbxX22ied) | 3:07 | 2025-01-10 |  |
 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 | 2024-08-17 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 |  |
 | [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 |  |
@@ -99,7 +101,7 @@
 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 | 2024-11-15 |  |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
-| [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 |  |
+| [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 | 2025-01-11 |
 | [Révolution \(la chanson\) \- Radio Édith](https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Révolution \(la chanson\) \[Radio Édith\]](https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Se laisser aller](https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Se laisser aller](https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX) | 3:18 | 2024-06-28 |  |
 | [Ses dents](https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Domino](https://open.spotify.com/album/2byAS1tMRGriUyCeXF8Y1D) | 2:47 | 2024-11-22 |  |
@@ -112,6 +114,7 @@
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 |  |
 | [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 | 2024-10-05 |
 | [Te laisser des mots](https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Te laisser des mots](https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7) | 3:13 | 2024-06-28 |  |
+| [Tenir debout](https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Tenir debout](https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35) | 3:36 | 2025-01-10 |  |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-06-28 |  |
 | [tout est cassé](https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [tout est cassé](https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6) | 2:03 | 2024-08-30 |  |
 | [Tout passe](https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Quatorze](https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m) | 2:58 | 2024-06-28 |  |
@@ -126,7 +129,7 @@
 | [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 | 2024-10-05 |
 | [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 |  |
 | [À la bonne place au bon moment](https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Perro del amor](https://open.spotify.com/album/458c5LdX8nbbNR3qtyQzBc) | 2:53 | 2024-11-08 |  |
-| [Émilie](https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Émilie](https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI) | 3:13 | 2024-09-27 |  |
+| [Émilie](https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Émilie](https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI) | 3:13 | 2024-09-27 | 2025-01-11 |
 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-06-28 | 2024-09-21 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

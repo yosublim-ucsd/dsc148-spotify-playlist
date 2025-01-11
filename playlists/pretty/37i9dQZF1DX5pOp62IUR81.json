@@ -1,13 +1,33 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180481,
+  "num_followers": 180464,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2TYpgAAAACN2dPvFCD3u4YUO/fVCHcI",
+  "snapshot_id": "Z4GOrwAAAACcF5Aump40uEIxoNpYJVch",
   "tracks": [
+    {
+      "added_at": "2025-01-10 21:18:39",
+      "album": {
+        "name": "What If...?: Season 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4geSYB18nEYbUOqGz96xMu"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 111733,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/2BQu4vJE8TcWl8PEQ6OqWs"
+    },
     {
       "added_at": "2024-10-18 22:43:16",
       "album": {

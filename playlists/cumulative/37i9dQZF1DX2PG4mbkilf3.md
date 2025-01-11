@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with Rhyan Douglas from Brampton, ON.
+> This is R&B in Canada\. Elevate your aura with Skiifall from Montréal, QC.
 
-1,245 songs - 2 day 17 hr 8 min
+1,247 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 | 2024-02-02 | 2024-03-30 |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-04-15 | 2022-08-13 |
 | [Butterflies \(feat\. Jon Kabongo\)](https://open.spotify.com/track/2VOKV4QkTWUiVffeEsyx4M) | [Jada Hope](https://open.spotify.com/artist/59uniRaSOJEqNwMnepeebq), [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO) | [Butterflies \(feat\. Jon Kabongo\)](https://open.spotify.com/album/5sTHYveDNtmGSiNTtfrAq5) | 3:48 | 2023-12-01 | 2024-01-20 |
-| [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 | 2024-10-25 |  |
+| [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 | 2024-10-25 | 2025-01-11 |
 | [BY YOU](https://open.spotify.com/track/1aAubp3aQR97YCRAmwD3Tm) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [BY YOU](https://open.spotify.com/album/4NhPfR28P2UPOhH9gucT1A) | 2:44 | 2024-08-02 | 2024-10-19 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 | 2022-10-08 |
 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 | 2022-06-24 | 2022-10-01 |
@@ -445,6 +445,7 @@
 | [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 | 2023-11-17 | 2023-11-24 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-13 | 2023-05-27 |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-01-13 | 2023-02-11 |
+| [Her World](https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I’m Gone](https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi) | 2:25 | 2025-01-10 |  |
 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 | 2022-07-15 | 2023-02-04 |
 | [Hesitate \(feat\. Sarz\)](https://open.spotify.com/track/7yt0Ztij2cYSDilBj9R9qb) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Eastend Confessions \(Deluxe\)](https://open.spotify.com/album/5H8WUe2npp5IM6Yv5AFR5h) | 2:19 | 2024-06-28 | 2024-08-24 |
 | [hey cinderella](https://open.spotify.com/track/58VbwpkRwzTyK43hIYkrZP) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [hey cinderella](https://open.spotify.com/album/54faiWodB3OiRvKjH5zQzE) | 2:02 | 2024-11-22 |  |
@@ -979,6 +980,7 @@
 | [Smooth It Out \(feat\. pHoenix Pagliacci\)](https://open.spotify.com/track/2dnFumlUmVOKPd5pbrBQiD) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Smooth It Out \(feat\. pHoenix Pagliacci\)](https://open.spotify.com/album/223kSw3sc2fO5RfYwjCdsR) | 3:51 | 2022-11-25 | 2023-01-28 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-09-15 |  |
 | [So Familiar](https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [So Familiar](https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb) | 3:58 | 2024-04-19 | 2024-08-31 |
+| [SOFT GURL ERA](https://open.spotify.com/track/1JjwXiQCUBydL1yT5zwkBh) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SOFT GURL ERA](https://open.spotify.com/album/6O5QojSBDfDm1PZLY5V5aQ) | 2:07 | 2025-01-10 |  |
 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 | 2024-01-13 |
 | [solitude/martini on mars](https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 3:15 | 2022-07-29 | 2022-11-26 |
 | [Solo](https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 1:58 | 2024-12-06 |  |
@@ -1117,7 +1119,7 @@
 | [till the morning](https://open.spotify.com/track/76iMDaTanvz3bB0iCOndb6) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [till the morning](https://open.spotify.com/album/6yQN308bnDoCgxFpNsRvQ2) | 3:40 | 2024-05-31 | 2024-08-03 |
 | [Till We're Halos](https://open.spotify.com/track/0jMgJfzNi56zdxoEsoXda1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Things I Should've Said](https://open.spotify.com/album/4yvOcGMKAl1zsU2laXyvNM) | 3:19 | 2024-08-16 | 2024-09-28 |
 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 | 2022-02-18 | 2022-03-26 |
-| [TIME MACHINE](https://open.spotify.com/track/4V1zv7F26JrUVIi5CcujWa) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [TIME MACHINE](https://open.spotify.com/album/1HZSzpjnFlzeBkwrMEPWCr) | 3:17 | 2024-11-22 |  |
+| [TIME MACHINE](https://open.spotify.com/track/4V1zv7F26JrUVIi5CcujWa) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [TIME MACHINE](https://open.spotify.com/album/1HZSzpjnFlzeBkwrMEPWCr) | 3:17 | 2024-11-22 | 2025-01-11 |
 | [Time Takes Time](https://open.spotify.com/track/0uThwHV1oVOkmukuMqBzyk) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Time Takes Time](https://open.spotify.com/album/2JaEdiZ1Wal9hp9tUuGw7F) | 3:26 | 2024-10-18 | 2024-11-23 |
 | [Timeless](https://open.spotify.com/track/4I85wWrb3A7FHTS2zk0sxt) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Timeless](https://open.spotify.com/album/5RpBKBd0Kd28Ajy6JgRHbV) | 3:30 | 2024-02-09 | 2024-04-19 |
 | [Together](https://open.spotify.com/track/4T6CiCgwT6dJhJIu7apvOf) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Together](https://open.spotify.com/album/35l8DmMMxqArybkEYSrQGj) | 2:43 | 2022-08-05 | 2022-09-24 |

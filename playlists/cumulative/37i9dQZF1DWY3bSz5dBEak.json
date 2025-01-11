@@ -1567,6 +1567,50 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio",
+        "url": "https://open.spotify.com/album/3aBFsXQFh2UIB20dKpzPUY"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Marc-Andr\u00e9 Hamelin",
+          "url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470000,
+      "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/5pP4SV7pyoyn9Ig5zTMsWD"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Op. 2/3 & 106",
+        "url": "https://open.spotify.com/album/19YCbCGzyDyJ7uRofk01OR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Marc-Andr\u00e9 Hamelin",
+          "url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai",
+      "url": "https://open.spotify.com/track/62nYmO7f8Yim9deQbRabnG"
+    },
+    {
+      "album": {
         "name": "Beethoven Piano Sonatas Nos. 18, 26, 27, 30",
         "url": "https://open.spotify.com/album/3sjVNkbfETPWmywvBtpbEF"
       },

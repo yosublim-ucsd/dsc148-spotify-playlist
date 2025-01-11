@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 134142,
       "name": "A Trip for You",
       "url": "https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 147445,
       "name": "Ballroom Samba",
       "url": "https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 128265,
       "name": "Coffee Bar",
       "url": "https://open.spotify.com/track/7LnYs3WmQFJvwAKWDHhfws"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 116923,
       "name": "floating",
       "url": "https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 95853,
       "name": "frozen grapes",
       "url": "https://open.spotify.com/track/5vMkAdCEgGVbPqmyFR9fB8"
@@ -3600,7 +3600,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 141428,
       "name": "Her Favorite Song",
       "url": "https://open.spotify.com/track/5AlnC8OAyRCObPgv0clFl0"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 159000,
       "name": "Incredibly happy",
       "url": "https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF"
@@ -3948,6 +3948,24 @@
       "duration_ms": 106680,
       "name": "Increment Incline",
       "url": "https://open.spotify.com/track/0uUfB7ntFR7lPofeqayndv"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7Il3l8XuksBQg1zWYG0G9x"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127407,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/20EsumCqXt0cJNbz2cTBcq"
     },
     {
       "album": {
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 168500,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/4aTsPXxE0UJV1kZMmUOBI8"
@@ -5010,7 +5028,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 129655,
       "name": "Lo Que Queda",
       "url": "https://open.spotify.com/track/2O5U7PvbZI0zgwZwbI7rCr"
@@ -5826,7 +5844,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 200229,
       "name": "Monterey Bay",
       "url": "https://open.spotify.com/track/7LRNS0jnlKe7zdoepaNzWN"
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 165517,
       "name": "Onda Suave",
       "url": "https://open.spotify.com/track/2ZPjy4lDG3mAKCAgL6OZdw"
@@ -6876,7 +6894,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 142969,
       "name": "Peoples Plan",
       "url": "https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR"
@@ -7712,6 +7730,24 @@
       "duration_ms": 160975,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H"
+    },
+    {
+      "album": {
+        "name": "Sandbar",
+        "url": "https://open.spotify.com/album/1wK7uQ22a2oPpIYMqCmDB9"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128707,
+      "name": "Sandbar",
+      "url": "https://open.spotify.com/track/1nDvGmBhWuYOX2rlexBOio"
     },
     {
       "album": {

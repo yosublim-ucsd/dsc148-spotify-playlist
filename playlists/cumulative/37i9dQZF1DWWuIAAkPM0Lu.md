@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">MAS</a> laver en <a href="spotify:track:04oUfyBc6pT1svmfkYnsZU">Lønningsdag</a> til os 🤌
 
-3,594 songs - 7 day 18 hr 32 min
+3,595 songs - 7 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1420,6 +1420,7 @@
 | [herified](https://open.spotify.com/track/4zDJ2lMHQoAF7pzQmb9tkS) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [herified](https://open.spotify.com/album/3U1VXrTdjumXDApgn2lqco) | 2:52 | 2024-10-17 | 2024-10-25 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-23 | 2024-06-01 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-05-09 | 2024-05-17 |
+| [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-10 |  |
 | [Heroin](https://open.spotify.com/track/2v0gnbezyKtEasSFs6BlRy) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Heroin](https://open.spotify.com/album/2HckI1fsA3RnwLE8Rot4TP) | 3:08 | 2024-10-31 | 2024-11-08 |
 | [Hey](https://open.spotify.com/track/3s0J7zz00CFoc35XjZlG3Q) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Hey](https://open.spotify.com/album/6BzWXIsAAJCVYdbRurYEDc) | 3:48 | 2024-11-21 | 2024-11-29 |
 | [Hey Dreams](https://open.spotify.com/track/3fqOvQsb8oIe0U0U0rnGu0) | [Honey Hideout](https://open.spotify.com/artist/6blUWk3SHx3BUADljMqCGA) | [Hey Dreams](https://open.spotify.com/album/3Xz4zxVSXw36yn3S0skCmr) | 3:31 | 2024-05-16 | 2024-05-24 |
@@ -3323,7 +3324,7 @@
 | [Underbart](https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Underbart](https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl) | 2:34 | 2024-05-09 | 2024-05-17 |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-17 | 2024-10-25 |
 | [Ung Og Kåd Og Smuk](https://open.spotify.com/track/5s4bYUvG74kUxsTlsEpcB3) | [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A) | [FællesSkaber](https://open.spotify.com/album/6Wjj3r30Awr4jqDFT7fhck) | 4:02 | 2024-10-31 | 2024-11-08 |
-| [Ung Og Rig](https://open.spotify.com/track/4aTLjXt07JCuQ6j8KbeJZh) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Ung Og Rig](https://open.spotify.com/album/5n3LInknJest2NMbrP2ovM) | 2:49 | 2025-01-09 |  |
+| [Ung Og Rig](https://open.spotify.com/track/4aTLjXt07JCuQ6j8KbeJZh) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Ung Og Rig](https://open.spotify.com/album/5n3LInknJest2NMbrP2ovM) | 2:48 | 2025-01-09 |  |
 | [Ung, Dum og Forelsket \(feat\. Marcus.wav\)](https://open.spotify.com/track/5NnIHhNURtKKqRDb3WIXT2) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Mumler Ikke](https://open.spotify.com/album/2BqcbwyLGCvbNOVwPyAd3a) | 2:42 | 2024-10-24 | 2024-11-01 |
 | [Unique](https://open.spotify.com/track/3A0s5jdnIrY7lvXsPoRg5o) | [Fazli](https://open.spotify.com/artist/2v8a46faPAvga8txSr7I1A) | [Unique](https://open.spotify.com/album/5j9XZXPrHNkc8ItggJy4iB) | 2:54 | 2024-05-16 | 2024-05-24 |
 | [Unstable](https://open.spotify.com/track/2PsKMjaliyVtRtqa5yhh1j) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Unstable](https://open.spotify.com/album/2xTREBmE4i3u1Tq7OkfjrR) | 2:36 | 2024-10-10 | 2024-10-18 |

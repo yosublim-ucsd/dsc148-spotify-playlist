@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Dream Vector",
+        "url": "https://open.spotify.com/album/2aj7fxen07WpFoIWi4NzlT"
+      },
+      "artists": [
+        {
+          "name": "Mellow Fields",
+          "url": "https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172994,
+      "name": "Dream Vector",
+      "url": "https://open.spotify.com/track/5xHZJkclaZPKPSfjBx1dG9"
+    },
+    {
+      "album": {
         "name": "Dreaming In Digital",
         "url": "https://open.spotify.com/album/4K1j2dOWSsJ7WWk11hPg4l"
       },
@@ -1325,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1B3plYiuzea1yP6Nji1sZd"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "NiElsir",
+          "url": "https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/7jYGyqqyni6559jNEhkpOW"
+    },
+    {
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw"
       },
@@ -1708,6 +1748,24 @@
       "duration_ms": 126317,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/4R6lA6yiC7sBaa3ATtI0yj"
+    },
+    {
+      "album": {
+        "name": "phase",
+        "url": "https://open.spotify.com/album/5kfL7Co61STo9LpgvJaykT"
+      },
+      "artists": [
+        {
+          "name": "eenspire",
+          "url": "https://open.spotify.com/artist/1PwDupwG2jMQGTB6E97vIp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "phase",
+      "url": "https://open.spotify.com/track/3tir7dIRRlcLX6lE9CN1TC"
     },
     {
       "album": {
@@ -2151,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Tape Surfing",
+        "url": "https://open.spotify.com/album/0tfaD16fh0vZjegWmgJ6y3"
+      },
+      "artists": [
+        {
+          "name": "Alex Boychuk",
+          "url": "https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Tape Surfing",
+      "url": "https://open.spotify.com/track/0WS5DPLL0cyeYlpbS694NP"
+    },
+    {
+      "album": {
         "name": "Tarzana",
         "url": "https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0"
       },
@@ -2458,6 +2534,24 @@
       "duration_ms": 235874,
       "name": "Wired",
       "url": "https://open.spotify.com/track/1usiyjleODBeDKa53mgF8F"
+    },
+    {
+      "album": {
+        "name": "Your Shadow",
+        "url": "https://open.spotify.com/album/1lFT9LvFun2enQGmLN6woE"
+      },
+      "artists": [
+        {
+          "name": "c152",
+          "url": "https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Your Shadow",
+      "url": "https://open.spotify.com/track/6bLfs44TcRVDxFngI3OOPW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8V4BE7YIpvE"

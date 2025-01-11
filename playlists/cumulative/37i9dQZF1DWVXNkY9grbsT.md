@@ -2,7 +2,7 @@
 
 ### [Electronic X](https://open.spotify.com/playlist/37i9dQZF1DWVXNkY9grbsT)
 
-> Genre\-defying artists pushing boundaries in electronic ambient music
+> Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
 415 songs - 1 day 10 hr 40 min
 
@@ -40,7 +40,7 @@
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
 | [All Things Burn](https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:41 | 2023-07-13 | 2023-08-12 |
 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 | 2023-11-24 |  |
-| [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 | 2025-01-10 |
+| [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 |  |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 |  |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 |  |
 | [Antikythera Rddl](https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX), [Distant Fires Burning](https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z) | [R Abacus Lndr](https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf) | 7:12 | 2023-09-22 |  |
@@ -66,7 +66,7 @@
 | [Beacon of Light](https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:12 | 2023-11-14 | 2023-12-02 |
 | [Beasts](https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Birds & Beasts](https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p) | 10:02 | 2024-06-28 | 2024-09-07 |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 | 2023-08-12 |
-| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 |  |
+| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2025-01-11 |
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 |  |
 | [Bio Sewer](https://open.spotify.com/track/3inPfJLR4LowaHdYNK8z1j) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Troll](https://open.spotify.com/album/4Qbxrp2hxHtJMcg0tznazB) | 4:00 | 2024-09-06 |  |
 | [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 | 2025-01-09 |  |

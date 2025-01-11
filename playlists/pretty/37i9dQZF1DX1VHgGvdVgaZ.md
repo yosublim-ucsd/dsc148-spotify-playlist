@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,346 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,361 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 25 | [Charukesi \(Violin Solo\)](https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:24 |
 | 26 | [Kurai Onrum Illai \- Ragamalika \- Adi \(Live\)](https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Haridwaramangalam A.K\. Palanivel](https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7) | [Chinnajiru Kiliye \(Live\)](https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia) | 4:15 |
 | 27 | [Nadhatanumanisam](https://open.spotify.com/track/2EkDCXZOkMbL0d8miDIXNT) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 4:04 |
-| 28 | [Annapoorne Visalakshi \(Raga: Sama; Tala: Adi\)](https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t) | [Sikkil Mala Chandrasekhar](https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo) | [Annapoorne Visalakshi \- Sikkil Mala Chandrasekhar](https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ) | 5:41 |
-| 29 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
+| 28 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
+| 29 | [Raga Bhairavi / Raagam\-Taanam](https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [The Carnatic Violin](https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1) | 17:47 |
 | 30 | [Chinnanchiru Kiliye](https://open.spotify.com/track/3MgaXk7yPkjmM1FtzuINjk) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Amazing Veena](https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d) | 9:48 |
-| 31 | [Raga Bhairavi / Raagam\-Taanam](https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [The Carnatic Violin](https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1) | 17:47 |
+| 31 | [Annapoorne Visalakshi \(Raga: Sama; Tala: Adi\)](https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t) | [Sikkil Mala Chandrasekhar](https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo) | [Annapoorne Visalakshi \- Sikkil Mala Chandrasekhar](https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ) | 5:41 |
 | 32 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
 | 33 | [Jagadhanandha karaka \- Nattai \- Adi](https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 9:39 |
 | 34 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |

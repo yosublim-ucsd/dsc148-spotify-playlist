@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-485 songs - 1 day 10 hr 18 min
+486 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 |  |
 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 | 2023-02-24 | 2023-08-26 |
 | [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 |  |
+| [Let's Talk](https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Let's Talk](https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE) | 4:08 | 2025-01-10 |  |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2020-10-30 | 2022-03-18 |
 | [Let’s Take A Ride](https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:14 | 2023-05-12 | 2024-04-19 |
 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 | 2024-06-07 |  |
@@ -447,7 +448,7 @@
 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 | 2023-04-15 |
 | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/album/6MbLLwq7JSEllOn6cEg103) | 8:29 | 2023-08-11 |  |
 | [Tighten Up](https://open.spotify.com/track/2UbVCeUDdrTeEPOXNep8AW) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb) | [Tighten Up](https://open.spotify.com/album/6zxIf0gr0GqrDBJNi7wvSi) | 4:19 | 2024-03-08 | 2024-09-21 |
-| [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 | 2024-04-19 |  |
+| [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 | 2024-04-19 | 2025-01-11 |
 | [Timelines \(Alto sax\)](https://open.spotify.com/track/3J01LedVe3Q0gMQmkdHQwG) | [LeSend](https://open.spotify.com/artist/0fRyjG92ERQSAF2LCpXnGA), [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Mio Costans](https://open.spotify.com/artist/3NBy5bUfAVtcQZZiWFz3er), [Albert Fratris](https://open.spotify.com/artist/4jqRqGYJTBEyO7LybN062o), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [Timelines \(Alto sax\)](https://open.spotify.com/album/4s9v6WCuvJTIeKRO6xSvaT) | 4:02 | 2024-01-26 |  |
 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 | 2020-10-30 | 2022-03-18 |
 | [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-26 | 2023-04-15 |

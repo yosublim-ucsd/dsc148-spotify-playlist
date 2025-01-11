@@ -1,12 +1,12 @@
 {
   "description": "indie tunes with country experimentation featuring music from Merce Lemon \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
-  "num_followers": 80165,
+  "num_followers": 80210,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAAx5Jf0Ry5xSZDHwYl/w4sG",
+  "snapshot_id": "Z4CpdgAAAAA0Bb4085HjKzmTH6Z8y4DP",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 180560,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/48J2UDdWb0wVy5cAk45CdW"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/2n1DVJVWUsZeeVIpmRcpI7"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/07kDDE5Oq1qPkvH5LA2zQP"
     },
     {
       "added_at": "2024-11-22 05:00:00",

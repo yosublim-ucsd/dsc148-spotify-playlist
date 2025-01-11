@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 140698,
+  "num_followers": 140748,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33AAAAAAACnci7FnlR+cJmRsOrIYBiG",
+  "snapshot_id": "Z38RgAAAAACOPT6auW5/AuklEws9xg1V",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/0wRiSqoiIYvQUw19eRHUo0"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

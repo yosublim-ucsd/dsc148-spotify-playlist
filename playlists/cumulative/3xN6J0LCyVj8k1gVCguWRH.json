@@ -24858,7 +24858,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 227200,
       "name": "First Time In Forever",
       "url": "https://open.spotify.com/track/5xuqO4eaU92gzXfj1KEuiA"
@@ -43650,7 +43650,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 249909,
       "name": "Love Is Just a Game",
       "url": "https://open.spotify.com/track/192mOloztYn7BBPGn8gR7A"
@@ -62087,6 +62087,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0OWnadGqaH2gxNu5d3crYe"
+      },
+      "artists": [
+        {
+          "name": "Kyla-Belle",
+          "url": "https://open.spotify.com/artist/0DJQfhWgJx7DmocFciTyrR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204791,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/506z9idswzK8r9UuybLdzR"
+    },
+    {
+      "album": {
         "name": "SCHOOL KIDS",
         "url": "https://open.spotify.com/album/7dNveDAfiCHB7hWlFaHX6A"
       },
@@ -71493,6 +71511,24 @@
     },
     {
       "album": {
+        "name": "The Future (belongs to us)",
+        "url": "https://open.spotify.com/album/4wSqqwWrk2PK6bISBrjiUQ"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "The Future (belongs to us)",
+      "url": "https://open.spotify.com/track/7jxRXONOkeVaXoZXdlOx91"
+    },
+    {
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/389Rn5t0Dol8G5aMhTSgnS"
       },
@@ -74380,6 +74416,24 @@
       "duration_ms": 164000,
       "name": "Tornadoes",
       "url": "https://open.spotify.com/track/420Sz4QC6l1OMBKmGkC2T0"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4mZb8W1Pq6pBNvj9J17Qd6"
+      },
+      "artists": [
+        {
+          "name": "Hunter Callahan",
+          "url": "https://open.spotify.com/artist/27dv19EXicRtTPYK3m2yJ1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259746,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1KRrPwF725EsTOnz942sSy"
     },
     {
       "album": {
@@ -78608,7 +78662,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 245333,
       "name": "Wayward Dreaming",
       "url": "https://open.spotify.com/track/4J3Akpsnss5Rk2y5ZJvqMG"
@@ -81042,6 +81096,24 @@
       "duration_ms": 212596,
       "name": "With The Winds of Change",
       "url": "https://open.spotify.com/track/7MduS4nv4lLVLEOxtqtfVm"
+    },
+    {
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "album": {

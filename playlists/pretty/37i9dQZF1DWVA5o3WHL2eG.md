@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,836 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [AYO](https://open.spotify.com/track/6xcXWtozmzlRLqjP4r9vQx) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [AYO](https://open.spotify.com/album/2N8i9Y1eqRdNU5kb8RpL0P) | 2:05 |
 | 6 | [KERATIN](https://open.spotify.com/track/2niU7dFrXyMGnA4asf2PGW) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [KERATIN](https://open.spotify.com/album/0mOisXtzjfFJfXgHMeTN96) | 2:30 |
 | 7 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 |
-| 8 | [Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sternenstaub](https://open.spotify.com/album/7cXtMQMeaqtkvUgt4TDNyN) | 2:01 |
+| 8 | [Bestie](https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Bestie](https://open.spotify.com/album/4BaH1nl12hQphpeVd6Zzot) | 1:59 |
 | 9 | [La La La](https://open.spotify.com/track/2sjDZ02lwMYJCGIt3DQNXU) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La La La](https://open.spotify.com/album/0BE6qA3OxYQUxASa9OLtYh) | 2:12 |
-| 10 | [Bestie](https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Bestie](https://open.spotify.com/album/4BaH1nl12hQphpeVd6Zzot) | 1:59 |
+| 10 | [Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sternenstaub](https://open.spotify.com/album/7cXtMQMeaqtkvUgt4TDNyN) | 2:01 |
 | 11 | [wieder...](https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [wieder...](https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS) | 3:06 |
 | 12 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
 | 13 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 23 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
-| 24 | [ubahn oder uber](https://open.spotify.com/track/6J95N9nUV5QUXhLAwKAOvU) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ubahn oder uber](https://open.spotify.com/album/5kT7viGhEOMYSHU7BjIk10) | 2:18 |
-| 25 | [Wir sehen uns wieder](https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Wir sehen uns wieder](https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB) | 2:30 |
-| 26 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 24 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 25 | [ubahn oder uber](https://open.spotify.com/track/6J95N9nUV5QUXhLAwKAOvU) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ubahn oder uber](https://open.spotify.com/album/5kT7viGhEOMYSHU7BjIk10) | 2:18 |
+| 26 | [Wir sehen uns wieder](https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Wir sehen uns wieder](https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB) | 2:30 |
 | 27 | [Vagabund](https://open.spotify.com/track/3TexmyJ4AW17QrRgHN3AXO) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq) | [Vagabund](https://open.spotify.com/album/1Gh8VCZns55jh3A2x40UPn) | 2:32 |
 | 28 | [1000 KLEINE TODE](https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [1000 KLEINE TODE](https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ) | 3:12 |
 | 29 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |

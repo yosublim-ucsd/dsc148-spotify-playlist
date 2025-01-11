@@ -1,12 +1,12 @@
 {
-  "description": "Ally Evenson",
-  "num_followers": 1173472,
+  "description": "japanese breakfast \ud83d\udd6f\ufe0f\ud83c\udf80\u2728\ud83c\udf47",
+  "num_followers": 1173603,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z33ftwAAAAA7sbhWIRhqJIzfqxkiJx/N",
+  "snapshot_id": "Z4CpdgAAAADFDhcAxGpqSOyv2O50PxkT",
   "tracks": [
     {
       "added_at": "2025-01-08 02:15:19",
@@ -39,6 +39,22 @@
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/2VbHxRWhhYbWNAFIwjL4zw"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
     },
     {
       "added_at": "2024-12-11 18:28:53",
@@ -103,6 +119,22 @@
       "duration_ms": 183564,
       "name": "With Only Your Mouth",
       "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
     },
     {
       "added_at": "2024-12-17 21:11:52",
@@ -203,6 +235,22 @@
       "duration_ms": 227584,
       "name": "Black Train",
       "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 251637,
+      "name": "Nausica\u00e4 (Love Will Be Revealed)",
+      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
     },
     {
       "added_at": "2024-12-20 05:00:38",

@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 133333,
       "name": "Bee",
       "url": "https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 166016,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/3rwIf7BFzYPV2vrDhDJeXb"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 191216,
       "name": "Corridors",
       "url": "https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 213559,
       "name": "F@F",
       "url": "https://open.spotify.com/track/2fb8xvdu2oIcSy6MHvF8E8"
@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 139636,
       "name": "flirty talk",
       "url": "https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m"
@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 162925,
       "name": "Jade",
       "url": "https://open.spotify.com/track/12TAqPz8zq7tiwFsEyZtwD"
@@ -6580,7 +6580,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 162476,
       "name": "Just be",
       "url": "https://open.spotify.com/track/2kNJzU65s4ntGsn5QS9VrV"
@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192035,
       "name": "Kerbside Poetry",
       "url": "https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv"
@@ -6832,7 +6832,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 162153,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
@@ -7516,7 +7516,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 218000,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40"
@@ -9084,7 +9084,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 152835,
       "name": "Nothing But Flame",
       "url": "https://open.spotify.com/track/4akHYbKXfEbQZ7oBpwZM9L"
@@ -9145,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "Nuv\u00e9line",
+        "url": "https://open.spotify.com/album/7xHCSFzBgZHK4MHDbcMSdz"
+      },
+      "artists": [
+        {
+          "name": "Bongrand",
+          "url": "https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156999,
+      "name": "Nuv\u00e9line",
+      "url": "https://open.spotify.com/track/30Rcsy3YrqtKQ2emO4AaQ1"
+    },
+    {
+      "album": {
         "name": "NVM",
         "url": "https://open.spotify.com/album/1gGQhagIt71G0DZ37mJrg7"
       },
@@ -9192,7 +9210,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 202758,
       "name": "OMG Coffee",
       "url": "https://open.spotify.com/track/0NMoB00vQXRPYs4xiUahBj"
@@ -9300,7 +9318,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 210025,
       "name": "One Day Back",
       "url": "https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag"
@@ -9714,7 +9732,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 180722,
       "name": "Pendeln",
       "url": "https://open.spotify.com/track/3sNJk8AHxK2MMGk1n1bZw3"
@@ -9822,7 +9840,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 128000,
       "name": "Piano Park",
       "url": "https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ"
@@ -10514,7 +10532,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 136217,
       "name": "Readings",
       "url": "https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP"
@@ -10608,6 +10626,24 @@
       "duration_ms": 84705,
       "name": "Relaxing Pulse",
       "url": "https://open.spotify.com/track/6peccsbRf9GTFIriaGxfRX"
+    },
+    {
+      "album": {
+        "name": "Reserved Only",
+        "url": "https://open.spotify.com/album/1BChI7BycutVE2YP4QGQ6o"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Reserved Only",
+      "url": "https://open.spotify.com/track/6ZGntxXkwV2rEKEdARBYIM"
     },
     {
       "album": {
@@ -11026,6 +11062,24 @@
       "duration_ms": 188400,
       "name": "Salt Water Taffy",
       "url": "https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6"
+    },
+    {
+      "album": {
+        "name": "Saltburn",
+        "url": "https://open.spotify.com/album/43ptIhw7f7gajAFyVDDekS"
+      },
+      "artists": [
+        {
+          "name": "Solmera",
+          "url": "https://open.spotify.com/artist/29qrdBH2YXriHj5oUgnmPx"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Saltburn",
+      "url": "https://open.spotify.com/track/0xs6poNvfGEALAg5e3Zhpi"
     },
     {
       "album": {
@@ -11616,7 +11670,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 163496,
       "name": "shake up",
       "url": "https://open.spotify.com/track/3l5NJqRefs82iuDAEcBXPO"
@@ -12070,7 +12124,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 197397,
       "name": "Smoke N' Stuff",
       "url": "https://open.spotify.com/track/76GzwL91UGF3mczJ5rD1JU"
@@ -12809,6 +12863,24 @@
     },
     {
       "album": {
+        "name": "Summer Vibes",
+        "url": "https://open.spotify.com/album/21tUDtVddFNj5m3AwfgVOw"
+      },
+      "artists": [
+        {
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Summer Vibes",
+      "url": "https://open.spotify.com/track/1VK07i1ljaHirIwqOlzHZW"
+    },
+    {
+      "album": {
         "name": "Summertime Swing",
         "url": "https://open.spotify.com/album/5IVXvvM2yFYjUN0ektPumJ"
       },
@@ -13076,7 +13148,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 130024,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3TYF3RI9u0EzSQZkjp4MZ6"
@@ -13659,6 +13731,24 @@
     },
     {
       "album": {
+        "name": "The Next Morning",
+        "url": "https://open.spotify.com/album/2rT4qP0xxhTpow4brUeUau"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "The Next Morning",
+      "url": "https://open.spotify.com/track/19HMYmoV0N0mZh8HuR0uae"
+    },
+    {
+      "album": {
         "name": "The Propeller (Chill out Mix)",
         "url": "https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu"
       },
@@ -13904,7 +13994,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 191000,
       "name": "Tide",
       "url": "https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY"
@@ -14127,6 +14217,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Trails",
+        "url": "https://open.spotify.com/album/7yq36VWDk8HFu3c2ATJURj"
+      },
+      "artists": [
+        {
+          "name": "Gallway Flex",
+          "url": "https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Tranquil Trails",
+      "url": "https://open.spotify.com/track/7hjO6QE3mT5CaR11Q2mA3p"
+    },
+    {
+      "album": {
         "name": "Transform",
         "url": "https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB"
       },
@@ -14294,7 +14402,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 124285,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/15HntUgJrBgxcM19YHweix"
@@ -14928,7 +15036,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 156290,
       "name": "Where When",
       "url": "https://open.spotify.com/track/0WJjY4u7gtDDgKseWFXiG3"
@@ -14950,6 +15058,24 @@
       "duration_ms": 157541,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/2Rc175pRb0yVu01JiZJzrZ"
+    },
+    {
+      "album": {
+        "name": "While Coffee Brews",
+        "url": "https://open.spotify.com/album/42SE9uaQNVcAXoHEJpjgkO"
+      },
+      "artists": [
+        {
+          "name": "longwayfromhome",
+          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124017,
+      "name": "While Coffee Brews",
+      "url": "https://open.spotify.com/track/5F6Jdqh11eZK36IH9t5pTr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo : Styleto
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,868 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,975 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 43 | [Cowboy](https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Cowboy](https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4) | 3:37 |
 | 44 | [Dormir en cuillère](https://open.spotify.com/track/62C3xySr6Q3NWFSsHhZhF9) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Zouzou](https://open.spotify.com/album/1SBkbQTV02JGuDpSS8o5BH) | 3:31 |
 | 45 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 |
-| 46 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 |
-| 47 | [Adorer](https://open.spotify.com/track/2A0fiFC0aaMzUGgudG3w8x) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe) | [Adorer](https://open.spotify.com/album/7uCxw62zvzZ2BBo2yEHuCh) | 3:36 |
-| 48 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 |
-| 49 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 |
-| 50 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 |
+| 46 | [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 |
+| 47 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 |
+| 48 | [Adorer](https://open.spotify.com/track/2A0fiFC0aaMzUGgudG3w8x) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe) | [Adorer](https://open.spotify.com/album/7uCxw62zvzZ2BBo2yEHuCh) | 3:36 |
+| 49 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 |
+| 50 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 |
 
-Snapshot ID: `Z4BU8QAAAAArd3Y3skVY3skjeZbDg1/e`
+Snapshot ID: `Z4GNkgAAAABgtnhphWNUgNefft6/FJtf`

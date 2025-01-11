@@ -2,7 +2,7 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Las más pegadas\. Cover: Rauw Alejandro
+> Las más pegadas\. Cover: Bad Bunny
 
 346 songs - 22 hr 7 min
 

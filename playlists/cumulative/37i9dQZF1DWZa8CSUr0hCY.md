@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-258 songs - 11 hr 21 min
+260 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Hertz](https://open.spotify.com/track/4iZ2xIWITnUiSJYAsVkKy6) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Vacations](https://open.spotify.com/album/4abXoseVkIbthiSLFKhIi9) | 1:50 | 2022-08-30 |  |
 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 | 2024-08-29 |  |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-08-30 |  |
-| [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 | 2022-08-30 |  |
+| [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 | 2022-08-30 | 2025-01-11 |
 | [Hypnotherapy](https://open.spotify.com/track/1Tsxj8punF8dB99vPTXFLY) | [Gates](https://open.spotify.com/artist/3x0KH9fZDv0z0NvgCp1vUX) | [Hypnotherapy](https://open.spotify.com/album/35GDQlJ4tc92UxVch8Guku) | 2:01 | 2020-10-20\* | 2022-08-31 |
 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 | 2023-12-01 |  |
 | [If Only](https://open.spotify.com/track/0XbMHMNMSvvKXthvVx7cN3) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo) | [If Only](https://open.spotify.com/album/3Md8pLB46iZi3fC5QURPnL) | 4:12 | 2024-12-19 |  |
@@ -133,8 +133,9 @@
 | [Kyiv](https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo) | [Levin](https://open.spotify.com/artist/14z9YXlyvDrv11EdLohOEI) | [Kyiv](https://open.spotify.com/album/0jpBP7SN2oONwtpi2X0uHZ) | 2:39 | 2022-08-30 | 2023-12-02 |
 | [La Cienega](https://open.spotify.com/track/7qzuwMS8wVfmoC8430eilc) | [Mad Chronic](https://open.spotify.com/artist/6EZ4ixvQRudMRAcxGGH3Dt) | [La Cienega](https://open.spotify.com/album/5HBeiFVPMLF3almA7kI6MS) | 1:59 | 2020-10-20\* | 2021-03-14 |
 | [Laidback](https://open.spotify.com/track/4m9jblUj3gs3FWIScji4tZ) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [Laidback](https://open.spotify.com/album/1hOZLvVtxrusTKNBoiPCXi) | 2:02 | 2024-01-25 |  |
-| [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-08-29 |  |
+| [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-08-29 | 2025-01-11 |
 | [Last Days of Summer](https://open.spotify.com/track/3FsBpfFdkScMDLRXoJbixf) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Last Days of Summer](https://open.spotify.com/album/6QXnQxEAS9BIHSvHLk8uR3) | 1:44 | 2022-09-08 |  |
+| [Late Afternoon](https://open.spotify.com/track/4SSHqZyPpKmFULQItEFGGq) | [Ayana](https://open.spotify.com/artist/2XxAaO0zTocRCMeJXVzDbe) | [Late Afternoon](https://open.spotify.com/album/5PudaU7dIExp0R1Yif5lfL) | 3:00 | 2025-01-10 |  |
 | [Later than Expected](https://open.spotify.com/track/6HgEAcfg947yBIDa4363gK) | [Taffey](https://open.spotify.com/artist/4MWmf6kH27GnNMCv2qTu0h) | [Later Than Expected](https://open.spotify.com/album/4sqMz9sqZ0Rvawoc4Bcvan) | 2:32 | 2022-08-30 |  |
 | [Laundry Tessomancy](https://open.spotify.com/track/043xe58AMUGPJgCnRJynj9) | [Violet Blanca](https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj) | [Laundry Tessomancy](https://open.spotify.com/album/0EJbkfTfesTIJYAPoInRKG) | 2:01 | 2024-08-29 |  |
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-30 |  |
@@ -220,6 +221,7 @@
 | [Sunny Side Up](https://open.spotify.com/track/6dm7WJaojB6PoGbeSWCsZ7) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunny Side Up](https://open.spotify.com/album/2B3m5QghqotMLdgKYcMen0) | 2:02 | 2022-08-30 |  |
 | [Sunny Vibes](https://open.spotify.com/track/4lTyqdmfbUqExL0R0JuiMJ) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Hip Dozer, Vol\. 4](https://open.spotify.com/album/2iusiYOu2LBcsJQK8Vn1wG) | 3:36 | 2020-11-06 | 2022-08-31 |
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2022-08-30 |  |
+| [Sunset Sparkles](https://open.spotify.com/track/5JlUUaheRL9yKUhMxmqVUP) | [Avalon](https://open.spotify.com/artist/2YIjmvZ7WoMTHgHOu6Ebxy), [Pedigree Cuts](https://open.spotify.com/artist/1YRhOKfCrO8uDCYRTXC445) | [Dreams In Motion](https://open.spotify.com/album/3HnvKio4JbAnORD6Uv0a5v) | 4:30 | 2025-01-10 |  |
 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 | 2022-08-30 |  |
 | [Suspended In Stillness](https://open.spotify.com/track/1DUKmawSPiPk3WZJ7H6gqW) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Suspended In Stillness](https://open.spotify.com/album/0F4kbaMQpA6qWESdZAem3D) | 2:04 | 2023-11-05 |  |
 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 | 2020-11-06 | 2022-08-31 |

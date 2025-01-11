@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Arena y Mar",
+        "url": "https://open.spotify.com/album/4adqT2DBSfGEi2GkvMQ9vG"
+      },
+      "artists": [
+        {
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "Arena y Mar",
+      "url": "https://open.spotify.com/track/7m5O0Qhg8rFzlHPpPYiBJi"
+    },
+    {
+      "album": {
         "name": "Arrepent\u00edo",
         "url": "https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp"
       },

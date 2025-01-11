@@ -9059,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/6aJX58u9Y1FYCKURKTyalb"
+      },
+      "artists": [
+        {
+          "name": "Peech.",
+          "url": "https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5OX7MT8X5uFe6Y8atDluEB"
+    },
+    {
+      "album": {
         "name": "Without People (Deluxe)",
         "url": "https://open.spotify.com/album/61s6rViH39OjqfrPigQ3cy"
       },

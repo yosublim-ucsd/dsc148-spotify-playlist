@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Automobile",
+        "url": "https://open.spotify.com/album/0KazOuPQ2bdJM7i8yAy9mr"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184492,
+      "name": "Automobile",
+      "url": "https://open.spotify.com/track/7rpAvCMra4EMOJEbB28AKV"
+    },
+    {
+      "album": {
         "name": "Autumn of Humanity",
         "url": "https://open.spotify.com/album/3bHPoiEwneq98KkchYMcCH"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 203733,
       "name": "Looking for a Fight",
       "url": "https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv"
@@ -3290,6 +3308,28 @@
       "duration_ms": 294546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB"
+    },
+    {
+      "album": {
+        "name": "Make It (Live To Tape Session)",
+        "url": "https://open.spotify.com/album/3pgUURlyqRdc13C5DnBQ8A"
+      },
+      "artists": [
+        {
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+        },
+        {
+          "name": "Rhett Shull",
+          "url": "https://open.spotify.com/artist/5llKYgJlzPpMaDPmuATus5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630000,
+      "name": "Make It - Live To Tape Session",
+      "url": "https://open.spotify.com/track/5nAT9cIj9PbqM3F7A0iKYv"
     },
     {
       "album": {
@@ -3466,7 +3506,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY"

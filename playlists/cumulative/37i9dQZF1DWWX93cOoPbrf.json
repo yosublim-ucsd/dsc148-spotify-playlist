@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. Tony Aguirre en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones.  en portada. Juan Freer, miguel cornejo en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
@@ -7188,7 +7188,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 180000,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/4yBK8JxOLTnTk9skiPp3ED"
@@ -13217,6 +13217,28 @@
     },
     {
       "album": {
+        "name": "Esquizofr\u00e9nico",
+        "url": "https://open.spotify.com/album/6FRVntDjOU4TJvfd3MLsNp"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155972,
+      "name": "Esquizofr\u00e9nico",
+      "url": "https://open.spotify.com/track/3mgIxp9WuwIMKOlLRq3HVg"
+    },
+    {
+      "album": {
         "name": "Esta Herencia (En Vivo)",
         "url": "https://open.spotify.com/album/0h5xnpE6MAF8gJziOMUISm"
       },
@@ -13556,6 +13578,24 @@
       "duration_ms": 219421,
       "name": "Fiesta en la Sierra",
       "url": "https://open.spotify.com/track/0AzfPctno9CCG2bQAZgcP9"
+    },
+    {
+      "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304553,
+      "name": "Fiesta En La Sierra - En Vivo",
+      "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
     },
     {
       "album": {
@@ -15515,6 +15555,24 @@
     },
     {
       "album": {
+        "name": "Joven De La Sierra",
+        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196603,
+      "name": "Joven De La Sierra",
+      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+    },
+    {
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/3grZSbOEYhcSMdkD5Dd9ey"
       },
@@ -17294,7 +17352,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 130614,
       "name": "LA PATRULLA",
       "url": "https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ"
@@ -17849,6 +17907,24 @@
     },
     {
       "album": {
+        "name": "Corridos Metaf\u00edsicos",
+        "url": "https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171065,
+      "name": "La Vida Es Un Juego",
+      "url": "https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q"
+    },
+    {
+      "album": {
         "name": "La Vitoliza (En Vivo)",
         "url": "https://open.spotify.com/album/0yOUmmISiNvYFN79OA58Tz"
       },
@@ -18065,6 +18141,28 @@
     },
     {
       "album": {
+        "name": "Lamberto Verdugo (Live)",
+        "url": "https://open.spotify.com/album/52Y9ejA4lrabYUw1Yq4xgn"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "Lamberto Verdugo - Live",
+      "url": "https://open.spotify.com/track/7CLZfPHCo5Kz4FPOmAIy7V"
+    },
+    {
+      "album": {
         "name": "Lamborghini Azul (En Vivo)",
         "url": "https://open.spotify.com/album/1C6S7LZeFZFztndffpNPMv"
       },
@@ -18138,6 +18236,28 @@
       "duration_ms": 129114,
       "name": "Las Amistades De Hoy",
       "url": "https://open.spotify.com/track/5InISvx0CjKYiNRaqVZfqU"
+    },
+    {
+      "album": {
+        "name": "Las Camionetas",
+        "url": "https://open.spotify.com/album/2BMQOZ8uwdZp8pgR58vMRw"
+      },
+      "artists": [
+        {
+          "name": "Los Cervantez",
+          "url": "https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134976,
+      "name": "Las Camionetas",
+      "url": "https://open.spotify.com/track/0gKf7cSVzK54KGuk4ZR0Ah"
     },
     {
       "album": {
@@ -21707,6 +21827,28 @@
     },
     {
       "album": {
+        "name": "No Me Corto La Melena",
+        "url": "https://open.spotify.com/album/7Mk0T6mAn5HQqORz01sOm7"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Jesus Paez",
+          "url": "https://open.spotify.com/artist/3WZl3iuisqkeyDTJVOxid2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149290,
+      "name": "No Me Corto La Melena",
+      "url": "https://open.spotify.com/track/2LHdrOHbOLZwOhaalsdvPw"
+    },
+    {
+      "album": {
         "name": "No Me Dan De Comer",
         "url": "https://open.spotify.com/album/25ewEa2DuUcs8VMvicEyF5"
       },
@@ -23188,7 +23330,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 160000,
       "name": "Por Si Se Les Olvidaba",
       "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
@@ -23404,7 +23546,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
@@ -24682,7 +24824,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 175271,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
@@ -24700,7 +24842,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 192512,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/1yDadW3HsfUDEeJkJq9cOW"
@@ -27700,7 +27842,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 147500,
       "name": "Voy Enfierrado",
       "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
@@ -28218,6 +28360,28 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "album": {
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "album": {

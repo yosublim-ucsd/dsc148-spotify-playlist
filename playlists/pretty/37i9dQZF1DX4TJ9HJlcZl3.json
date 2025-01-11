@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 17346,
+  "num_followers": 17360,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAACPlMXcn4PAS5qdU3VKHkkc",
+  "snapshot_id": "Z4CpXQAAAAB3PsbaCNUL6gr41/awqX3K",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
+        "name": "I Got It Bad For You",
+        "url": "https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "I Got It Bad For You",
+      "url": "https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS"
+    },
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
@@ -131,22 +147,6 @@
       "duration_ms": 159453,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pocket Music",
-        "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
-      },
-      "artists": [
-        {
-          "name": "Sun Rai",
-          "url": "https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr"
-        }
-      ],
-      "duration_ms": 266704,
-      "name": "San Francisco Street",
-      "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
     },
     {
       "added_at": "2024-03-22 04:01:00",

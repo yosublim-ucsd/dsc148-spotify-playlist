@@ -4,7 +4,7 @@
 
 > Guè in cover + tutte le migliori uscite della settimana!
 
-3,142 songs - 6 day 14 hr 42 min
+3,144 songs - 6 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Complici](https://open.spotify.com/track/2pfHwRtJJfqBhpPQDLH244) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/4RczpFb6idMcXELvvLEtnT) | 2:53 | 2024-05-16 | 2024-05-24 |
 | [Comprendo](https://open.spotify.com/track/1TTTXti79eGYmR1kE7VI9r) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Comprendo](https://open.spotify.com/album/67dHBx9SPvbc0fiz8KzgPv) | 3:33 | 2024-08-08 | 2024-08-16 |
 | [Con Le Mani Al Cielo \(feat\. M¥SS KETA\)](https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Con Le Mani Al Cielo \(feat\. M¥SS KETA\)](https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm) | 2:27 | 2024-09-19 | 2024-09-27 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-10 |  |
 | [Confine](https://open.spotify.com/track/5sTNaylsQ7im9ixODCJ3GD) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [Confine](https://open.spotify.com/album/6YFlmQhpwVbdYbwNJ03GU2) | 3:10 | 2024-09-12 | 2024-09-20 |
 | [CONNESSIONI](https://open.spotify.com/track/3226Ic03UZOn0B6tpIdkHV) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [CONNESSIONI](https://open.spotify.com/album/3QkywTts6ZTydkQb0ckFnQ) | 2:16 | 2024-10-03 | 2024-10-11 |
 | [Constelación](https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Constelación](https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV) | 3:20 | 2024-10-31 | 2024-11-08 |
@@ -2101,6 +2102,7 @@
 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-02 | 2025-01-10 |
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-09-26 | 2024-10-04 |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 | 2024-10-04 |
+| [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 | 2025-01-10 |  |
 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 | 2024-09-19 | 2024-09-27 |
 | [Passato](https://open.spotify.com/track/5lU0oXUWl9Mgiv4X416Lfr) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Flashback](https://open.spotify.com/album/6UhtkOxYvNYvFVQh6X3mo1) | 2:35 | 2024-08-01 | 2024-08-09 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-25 | 2024-08-02 |

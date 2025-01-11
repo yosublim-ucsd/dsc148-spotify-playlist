@@ -2,12 +2,13 @@
 
 ### [Women of Faith](https://open.spotify.com/playlist/37i9dQZF1DWVrSccL9KVUt)
 
-> Celebrating the women of all the genres of Christian & Gospel music!  Cover: Gracie Binion
+> Celebrating the women of all the genres of Christian & Gospel music!  Cover: TAYA
 
-197 songs - 15 hr 5 min
+200 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24/7](https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [24/7](https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP) | 3:00 | 2025-01-10 |  |
 | [6:12](https://open.spotify.com/track/63r3KVVPQQqiYyogfKilWF) | [Martina Marie](https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria) | [6:12](https://open.spotify.com/album/4t5LBNJtZWBuSYDivhrzGp) | 2:50 | 2024-12-09 |  |
 | [A Million Chances](https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [A Million Chances](https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn) | 3:21 | 2024-12-09 |  |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-03-09 | 2024-07-27 |
@@ -54,6 +55,7 @@
 | [Faithful \(Paradoxology\)](https://open.spotify.com/track/7xOOHNV0eB6lmVmpnkR6TJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Paradoxology](https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk) | 5:49 | 2021-03-02 | 2024-07-27 |
 | [Focus](https://open.spotify.com/track/6OT9HWfdJrGyWDmktbXR2t) | [Leah McFall](https://open.spotify.com/artist/0TPCAiL47d77TFdFLqsjCw) | [Focus](https://open.spotify.com/album/2857SSKmXkcoKOJBdsZUL4) | 2:56 | 2024-07-26 |  |
 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 | 2022-03-09 | 2024-07-27 |
+| [For What It's Worth](https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [For What It's Worth](https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E) | 3:23 | 2025-01-10 |  |
 | [For Your Glory](https://open.spotify.com/track/6AQWVm4CSPxd8xNmgWjwmA) | [Claire Odogbo](https://open.spotify.com/artist/0aYZZ1xnZxsz4YwxJ0f5xu) | [For Your Glory](https://open.spotify.com/album/6IAvSdF3pVGPueVGcWtazv) | 3:59 | 2022-03-09 | 2024-07-27 |
 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 | 2021-03-02 | 2024-07-27 |
 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 | 2021-03-02 | 2022-03-10 |
@@ -70,7 +72,7 @@
 | [Healing](https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Healing](https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY) | 3:24 | 2021-03-02 | 2024-07-27 |
 | [Heaven Invade \- Live](https://open.spotify.com/track/0MiivvQA6j1yHa76w3GAJK) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 4:20 | 2021-03-02 | 2024-07-27 |
 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 | 2021-03-02 | 2024-07-27 |
-| [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 | 2024-07-26 |  |
+| [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 | 2024-07-26 | 2025-01-11 |
 | [Highlands \(Song of Ascent\)](https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Songs I've Needed](https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO) | 6:31 | 2024-07-26 |  |
 | [Hold On To Me](https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hold On To Me](https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2) | 3:05 | 2021-03-02 | 2024-07-27 |
 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 | 2021-03-02 | 2024-07-27 |
@@ -134,7 +136,7 @@
 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 | 2024-10-11 |  |
 | [On My Way](https://open.spotify.com/track/5Gfr1cjffOUecAS6NUcZ24) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [On My Way](https://open.spotify.com/album/0g0vIYmoUAgqFjmIjZXr56) | 3:35 | 2024-12-09 |  |
 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 | 2021-03-02 | 2024-07-27 |
-| [Paper Thin](https://open.spotify.com/track/4HjHupE2zwoz5GQLWIywhY) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Hard Truths](https://open.spotify.com/album/34UW86M5riHc8OKtWMJVjd) | 3:21 | 2024-07-26 |  |
+| [Paper Thin](https://open.spotify.com/track/4HjHupE2zwoz5GQLWIywhY) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Hard Truths](https://open.spotify.com/album/34UW86M5riHc8OKtWMJVjd) | 3:21 | 2024-07-26 | 2025-01-11 |
 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 | 2021-03-02 | 2024-07-27 |
 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2021-03-02 | 2022-03-10 |
 | [Perfect](https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY) | [Perfect](https://open.spotify.com/album/6EkIUiWQSjDnBpA5pOgzxD) | 3:24 | 2024-07-26 |  |
@@ -195,8 +197,9 @@
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/7GwlxrT8PTxGkZ1CGIQloh) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/6AKEEwiDMELLDm9IwaiuFn) | 7:29 | 2021-03-02 | 2022-03-10 |
 | [With You \(Paradoxology\)](https://open.spotify.com/track/2dbXF6IGhuq6O63bJ1TFYr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Paradoxology](https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk) | 6:04 | 2021-03-02 | 2022-03-10 |
 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 | 2021-03-02 | 2024-07-27 |
+| [Worship!](https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Worship!](https://open.spotify.com/album/3oYzCAKcT1AVna2vPCYWxF) | 4:01 | 2025-01-10 |  |
 | [Wouldn't Change a Thing](https://open.spotify.com/track/0Ci05XtL8veIKewQRDlbgo) | [Steph Alessi Muiña](https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd) | [Wouldn't Change a Thing](https://open.spotify.com/album/7yl6G54uyUIn9FdgjYiqqU) | 3:16 | 2022-03-09 | 2024-07-27 |
-| [Yes](https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Yes](https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ) | 5:13 | 2024-07-26 |  |
+| [Yes](https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Yes](https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ) | 5:13 | 2024-07-26 | 2025-01-11 |
 | [You](https://open.spotify.com/track/2YSNfO41UBRtie1PdSzcHI) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [You](https://open.spotify.com/album/4SdEJ5G1rxK7RnX3023RwQ) | 2:59 | 2024-12-09 |  |
 | [You Have My Yes \(feat\. Naomi Raine\)](https://open.spotify.com/track/4Jq4Iru3LBhVE5uzmzpFv8) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 5:18 | 2022-03-09 | 2024-07-27 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2021-03-02 | 2022-03-10 |

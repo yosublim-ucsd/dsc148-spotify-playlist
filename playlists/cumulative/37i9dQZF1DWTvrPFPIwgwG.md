@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-233 songs - 20 hr 10 min
+234 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 | 2022-09-09 |  |
 | [Digno É o Cordeiro \- Ao Vivo](https://open.spotify.com/track/3sCeJIZ0xpg1XoEGL2s4Eg) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Thiago Henrique](https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY) | [Digno É o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/0WxRxi8OXotE4gyNKBfTqo) | 9:32 | 2024-08-16 | 2024-10-26 |
 | [Dono da Promessa \- Ao Vivo](https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dono da Promessa \(Ao Vivo\)](https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS) | 5:57 | 2023-11-03 |  |
+| [Ele Chegou](https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Ele Chegou](https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx) | 4:24 | 2025-01-10 |  |
 | [Ele Está Comigo](https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL) | [Pedro Henrique](https://open.spotify.com/artist/12YKDiuuJtcmYTKJ8z4gx0) | [Ele Está Comigo](https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP) | 5:09 | 2023-02-25 | 2023-05-06 |
 | [Ele Não Mudou](https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Mudou](https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4) | 4:29 | 2022-09-09 |  |
 | [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 | 2022-09-09 | 2023-02-04 |
@@ -135,7 +136,7 @@
 | [Nunca Foi Sorte \(Ao Vivo\)](https://open.spotify.com/track/0SuCzPj1jCFS2Sp6MKWbML) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Nunca Foi Sorte \(Ao Vivo\)](https://open.spotify.com/album/5o0Foz8gmXqmP0xS2yx6uC) | 5:44 | 2023-01-24 | 2023-09-02 |
 | [Não Abrimos Mão do Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Não Abrimos Mão do Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD) | 10:47 | 2024-08-16 |  |
 | [Não Desista de Orar \- Ao Vivo](https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Não Desista de Orar \(Ao Vivo\)](https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj) | 8:05 | 2023-05-12 |  |
-| [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2022-09-09 |  |
+| [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2022-09-09 | 2025-01-11 |
 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 | 2023-03-03 |  |
 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 | 2022-09-09 |  |
 | [O Amor de Deus](https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Jesus e Eu](https://open.spotify.com/album/3yirJSowuG0LVwqiuOjN8l) | 4:02 | 2023-04-15 | 2023-05-06 |

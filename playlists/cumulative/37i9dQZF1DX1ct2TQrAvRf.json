@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Seedhe Maut",
+  "description": "India's Rap Scene. Cover- DIVINE",
   "name": "RAP 91",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 154555,
       "name": "BADA",
       "url": "https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K"
@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/0W7heKaA6nCObhSIouybei"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/49KgyOphHcrubDxA3PaO55"
+    },
+    {
+      "album": {
         "name": "KARAM",
         "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
       },
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 217959,
       "name": "RAP-TA",
       "url": "https://open.spotify.com/track/3yrAv4sjiBGRnkCxkXxH5d"
@@ -4370,6 +4388,28 @@
       "duration_ms": 158769,
       "name": "Taambdi Chaamdi",
       "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
+    },
+    {
+      "album": {
+        "name": "Tantrums",
+        "url": "https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Tantrums",
+      "url": "https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf"
     },
     {
       "album": {

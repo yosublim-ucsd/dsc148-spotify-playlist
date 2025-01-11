@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  ARTY, Louis III
 
-1,261 songs - 2 day 19 hr 25 min
+1,262 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Deep Inside](https://open.spotify.com/track/4UyLsFc8HIcj7k4N6fXBWt) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/6UTg9bOa4onk9dE1vJRIsY) | 3:22 | 2024-05-07 | 2024-05-10 |
 | [Deep Inside](https://open.spotify.com/track/5FN4yel9Y0rZEgWA0yrJoI) | [Supermassive](https://open.spotify.com/artist/7FDiLldYsjt7Y3rwNQkIIQ), [Ben Boas](https://open.spotify.com/artist/7BtYYvgHW1nRpoohmxKp3N) | [Deep Inside](https://open.spotify.com/album/5muTKLIEJtJO1Z0kgID4Jf) | 2:14 | 2023-08-31 | 2024-02-09 |
 | [Deep Inside \- Eelke Kleijn Deep Inside The '90s Remix](https://open.spotify.com/track/5HQjq1Qr89Yr54UDV77iL7) | [Amirali](https://open.spotify.com/artist/5HbNxuQxsJRdjqfJ6wNh17), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Deep Inside \(Eelke Kleijn Deep Inside The '90s Remix\)](https://open.spotify.com/album/11qWeyYF1jlqdde6XEpSiy) | 2:59 | 2024-01-18 | 2024-08-31 |
+| [Deepest Blue](https://open.spotify.com/track/53iLXQnxe3YxWPztZdUPx9) | [Deepest Blue](https://open.spotify.com/artist/4ncjEFfj7Zd2LPzd9LOVsY) | [Deepest Blue](https://open.spotify.com/album/61xkURYo5drLDes6rzMJSV) | 3:28 | 2025-01-10 |  |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2022-06-09 | 2023-06-06 |
 | [Destination \(A State of Trance 2024 Anthem\)](https://open.spotify.com/track/19PFTbAdVN1Y1KP5YXplkD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 3:13 | 2024-01-18 | 2024-08-31 |
 | [Destination \(A State of Trance 2024 Anthem\)](https://open.spotify.com/track/5LoRqa8PUNO3tJJr3hQWm8) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Destination \(A State of Trance 2024 Anthem\)](https://open.spotify.com/album/188iP2IxeRI57gJGUeuVI5) | 3:13 | 2023-09-21 | 2024-02-23 |

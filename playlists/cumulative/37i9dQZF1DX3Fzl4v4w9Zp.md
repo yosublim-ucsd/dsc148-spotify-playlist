@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Sierra Ferrell
 
-742 songs - 1 day 21 hr 44 min
+743 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Long Journey Home](https://open.spotify.com/track/2dTTuGhULqhoWkw8LRBdE4) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Race Records](https://open.spotify.com/album/5ROffy9rfJLuZTgqCJdMFG) | 3:07 | 2021-12-17 | 2022-04-02 |
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-12-17 | 2022-06-18 |
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-08-05 | 2023-05-13 |
+| [Look Up](https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:10 | 2025-01-10 |  |
 | [Lost Lover's Eyes](https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK) | [Vince Herman](https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG) | [Lost Lover's Eyes](https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG) | 3:23 | 2022-11-11 | 2024-02-03 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-21 | 2022-11-19 |
 | [Love Of A Girl](https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Love Of A Girl](https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g) | 3:16 | 2024-03-01 | 2024-04-13 |

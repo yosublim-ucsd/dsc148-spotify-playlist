@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 786961,
+  "num_followers": 787050,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -287,18 +271,34 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
       "artists": [
         {
-          "name": "The American Spirit",
-          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Sons & Daughters",
-      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "The American Spirit",
+          "url": "https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3"
         }
       ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+      "duration_ms": 242266,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Tin Type",
         "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 194493,
       "name": "Cadillac Dust",
       "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ"
       },
@@ -1371,18 +1387,50 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+        "name": "Raise Hell",
+        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat The Devil's Tattoo",
+      "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
+      },
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1419,22 +1467,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Singing Bones",
-        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
-      },
-      "artists": [
-        {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Far From Any Road",
-      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Heaven Depends",
         "url": "https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5"
       },
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Raise Hell",
-        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Let Love In",
         "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat The Devil's Tattoo",
-      "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
     },
     {
       "added_at": "2024-07-05 18:50:08",

@@ -4,7 +4,7 @@
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-98 songs - 4 hr 17 min
+100 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [夢のよう](https://open.spotify.com/track/3Ez0YT4hBH7l6pMrGJ2WGv) | [Chica](https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:25 | 2024-03-24 |  |
 | [女子会](https://open.spotify.com/track/67plKHndOw7OLCPpDxtD2f) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:04 | 2024-03-24 |  |
 | [妓女のお仕事](https://open.spotify.com/track/7ytrCstQ7Urb895x5VGBaf) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:35 | 2024-03-24 |  |
+| [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-10 |  |
 | [後宮](https://open.spotify.com/track/28Tinhg7aQNGt53C4m1aqy) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:17 | 2024-03-24 |  |
 | [恫喝](https://open.spotify.com/track/59MKG9dFZoHc3fdmnyfezj) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:27 | 2024-03-24 |  |
 | [想い咲く時（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/612TOuGBMHSUhmFzqtasqM) | [アオイエマ。](https://open.spotify.com/artist/4uWEWwSROGiLuoaYnATvgn), [内田ましろ](https://open.spotify.com/artist/7arDNJAk4aH7PIG52EWblU), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [想い咲く時（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3GIVcGt262nsUZMkm02Ecb) | 4:38 | 2024-03-24 |  |
@@ -92,6 +93,7 @@
 | [毒見役の少女](https://open.spotify.com/track/4u3w9n9YSglLlGBxic1WLI) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:01 | 2024-03-24 |  |
 | [状況把握](https://open.spotify.com/track/3OAc9CISqXIREn8NnAx4Q0) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:15 | 2024-03-24 |  |
 | [猫猫の日常](https://open.spotify.com/track/0DrKC2QQvK8x7EjSZWCKLQ) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:57 | 2024-03-24 |  |
+| [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-10 |  |
 | [私はただの女官](https://open.spotify.com/track/0iKC4aP0IDyykc992q7ZxE) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:07 | 2024-03-24 |  |
 | [秘めた意思](https://open.spotify.com/track/5jYIzHUV1OD3pVqq8h6Bqq) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:48 | 2024-03-24 |  |
 | [緑青館](https://open.spotify.com/track/0oB7SobL2HP0dhhlfsWZtD) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:49 | 2024-03-24 |  |

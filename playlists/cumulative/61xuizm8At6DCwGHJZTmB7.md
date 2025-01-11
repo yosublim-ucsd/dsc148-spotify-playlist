@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-550 songs - 2 day 5 hr 27 min
+551 songs - 2 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [King Of Kings](https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:25 | 2023-12-01 |  |
 | [Kingdom Is Coming \- Live](https://open.spotify.com/track/2bE582D6srOGjJjP14sCyW) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Bradley Riddle](https://open.spotify.com/artist/52dEgQZjyA9H9YPAgQo2eD) | [Kingdom Is Coming \(Live\)](https://open.spotify.com/album/2cDFQIMmkaRfuJOLf9b9yy) | 4:49 | 2024-04-05 | 2024-09-10 |
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
+| [Known By You \- Live](https://open.spotify.com/track/0vOw510PyX1EIuRZwURX9H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Known By You \(Live\)](https://open.spotify.com/album/3CJaSJ6sruq0ntn4BzbQfl) | 10:59 | 2025-01-10 |  |
 | [Lay It All Down](https://open.spotify.com/track/0d5Qst55vayJAUCs6Sx02i) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/56wIBe9Y5eD0u5szbFFHP1) | 7:04 | 2022-09-23 | 2023-04-04 |
 | [Lay It All Down](https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/0NrENMCYUG5l6wAgYiGQxB) | 7:04 | 2022-09-09 | 2023-04-15 |
 | [Lead Me To The Cross](https://open.spotify.com/track/7i2ZmmyLzE7NcFAJl30mKY) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 4:18 | 2023-03-31 | 2023-12-14 |

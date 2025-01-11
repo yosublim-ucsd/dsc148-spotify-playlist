@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-1,127 songs - 2 day 11 hr 33 min
+1,128 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [4 Da Kidz](https://open.spotify.com/track/2ZDRkJrKbceJRgLKkuex14) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:04 | 2021-10-07\* | 2021-11-20 |
 | [42](https://open.spotify.com/track/5NKs8f3O7Xemhd6aYXqho2) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Money For Dummies](https://open.spotify.com/album/6hzpnXuANSTGRpIztwRjFa) | 3:07 | 2023-01-06 | 2023-02-25 |
 | [42’s and Babushkas](https://open.spotify.com/track/6mc7OCqOWNzBDBqVC35ida) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Rose Gold](https://open.spotify.com/album/7FJQ3bXOk6ysZRHYekFPXL) | 2:06 | 2023-09-29 | 2023-10-14 |
+| [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 |  |
 | [5 to 10](https://open.spotify.com/track/7BUnCxc0dae9HwelFz719W) | [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp), [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [Fog City \(full\)](https://open.spotify.com/album/1cgx5z9T4NryDXaS2dO9EN) | 2:23 | 2024-03-15 | 2024-11-02 |
 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 | 2023-02-17 | 2023-04-01 |
 | [79th and Stony Island](https://open.spotify.com/track/41t7RkFBjaEFoGvr29QhYL) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Component System with the Auto Reverse](https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk) | 4:02 | 2022-10-07 | 2022-11-26 |
@@ -405,7 +406,7 @@
 | [Fortune 500](https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 2:52 | 2023-04-07 | 2023-06-10 |
 | [Fragile](https://open.spotify.com/track/4x2MPVow6tEB7NTxEOdFuc) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Fragile](https://open.spotify.com/album/672yUzPtgtSo31iaSjwEfj) | 3:03 | 2024-08-02 | 2024-08-31 |
 | [fragment levis](https://open.spotify.com/track/54IMHWaO3DdzUfhGRBEON4) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [YOKOSUKA BOY](https://open.spotify.com/album/57RYzEdmuP4pq5P0oUpdU2) | 2:31 | 2024-12-20 | 2025-01-04 |
-| [Free My Dogs](https://open.spotify.com/track/1MAv3UXsamsfgo0CuSHGY7) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Once In A Blue Moon](https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF) | 3:04 | 2024-12-13 |  |
+| [Free My Dogs](https://open.spotify.com/track/1MAv3UXsamsfgo0CuSHGY7) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Once In A Blue Moon](https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF) | 3:04 | 2024-12-13 | 2025-01-11 |
 | [Free My Mind](https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX) | 3:25 | 2023-10-13 | 2023-11-11 |
 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 | 2022-08-26 | 2022-11-19 |
 | [Freeman](https://open.spotify.com/track/4Zg0lLdrF1IJ32IOOZBHGr) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 2:34 | 2024-05-24 | 2024-08-10 |

@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Blas\u00e9",
+        "url": "https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+        },
+        {
+          "name": "Trio SR9",
+          "url": "https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198847,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm"
+    },
+    {
+      "album": {
         "name": "C'est fou comme je t'aime",
         "url": "https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm"
       },
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 185066,
       "name": "Le secret",
       "url": "https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE"

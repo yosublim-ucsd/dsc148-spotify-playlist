@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-300 songs - 21 hr 58 min
+301 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Follow You](https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Kanita](https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge) | [Follow You](https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ) | 2:58 | 2021-06-04 | 2023-10-01 |
 | [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 | 2022-01-03 |  |
 | [Fur](https://open.spotify.com/track/4u6ljcfLSWPIeqCa94jRFu) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [BuVu](https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy) | [Fur](https://open.spotify.com/album/2VntJqtkExVpftATLphtwV) | 6:19 | 2023-01-13 | 2023-03-04 |
+| [Galata](https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau) | [Galata](https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk) | 3:00 | 2025-01-10 |  |
 | [Galaxy](https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA) | [Müslüm Arı](https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ) | [Galaxy](https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et) | 2:48 | 2023-06-29 |  |
 | [Give a Little \(feat\. Naila\)](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little \(feat\. Naila\)](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 | 2023-03-18 |
@@ -305,7 +306,7 @@
 | [Zagora](https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4) | 5:25 | 2022-06-27 | 2022-12-13 |
 | [Zamen \- Amine K Remix](https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr) | [Mario Bazouri](https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sultan \(Inc\. Derun & Amine K Remix\)](https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G) | 6:51 | 2020-10-18\* | 2022-11-13 |
 | [Zid Lmel](https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Maalem Hammam](https://open.spotify.com/artist/29PS9kUTTCcpFIKaP9DAx2) | [Healing Rituals](https://open.spotify.com/album/4e7kuCNjfnklXTS1dsR53y) | 7:50 | 2020-10-18\* | 2022-06-29 |
-| [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 |  |
+| [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 | 2025-01-11 |
 | [Çem Vano \- Remix](https://open.spotify.com/track/7zb0bX0Jd1xoL5lYxHzKta) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mikail Aslan \- Çem Vano \(HVMZA Remix\)](https://open.spotify.com/album/0mWKvv4QJX1ne4ZZHL0YPM) | 5:59 | 2023-07-04 | 2023-09-05 |
 | [Детство \(Jad Halal Remix\)](https://open.spotify.com/track/2WilwAlTwOerWnvg6iYsPI) | [Rauf](https://open.spotify.com/artist/3p9D7WV7zSXawXq8qzSZLt), [Faik](https://open.spotify.com/artist/2QaHcHzbIucoNA73CkRaF2), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Детство \(Jad Halal Remix\)](https://open.spotify.com/album/4Lp4X2wQn6Ly27v85Vg7GB) | 3:11 | 2020-10-18\* | 2021-03-30 |
 

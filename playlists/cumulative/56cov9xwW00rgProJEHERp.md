@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-210 songs - 12 hr 2 min
+212 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 | 2024-07-12 | 2024-12-07 |
 | [Bad Taste](https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad Taste](https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna) | 3:31 | 2023-12-08 | 2024-01-20 |
 | [Bad World](https://open.spotify.com/track/1lCDMDAsX8nWrb4ccXROV9) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad World](https://open.spotify.com/album/64D0ObUw3v5MAD7ZvDmeJQ) | 2:55 | 2024-07-26 | 2024-10-19 |
-| [Baker](https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Baker](https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ) | 2:49 | 2024-07-19 |  |
+| [Baker](https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Baker](https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ) | 2:49 | 2024-07-19 | 2025-01-11 |
 | [Beautiful Eyes](https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Beautiful Eyes](https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4) | 2:49 | 2024-01-19 | 2024-11-23 |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-13 |  |
 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 | 2024-03-15 | 2024-08-24 |
@@ -61,7 +61,7 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-12-08 | 2024-11-09 |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-02-16 | 2024-08-24 |
 | [Enemies](https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Manic Party](https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE) | 3:15 | 2023-12-08 | 2024-05-11 |
-| [even forever](https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [even forever](https://open.spotify.com/album/4RgTLxSbndjcpFA4bTRSeA) | 3:32 | 2024-07-19 |  |
+| [even forever](https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [even forever](https://open.spotify.com/album/4RgTLxSbndjcpFA4bTRSeA) | 3:32 | 2024-07-19 | 2025-01-11 |
 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 | 2024-08-23 |  |
 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-03 |  |
 | [Everybody Hurts](https://open.spotify.com/track/43y7ax8AhUk035FqJPXcdK) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Everybody Hurts](https://open.spotify.com/album/0AKWuGnuXTxCC7vrdpyW6c) | 4:50 | 2024-11-22 |  |
@@ -76,6 +76,7 @@
 | [Flowers on the Moon](https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Flowers on the Moon](https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp) | 3:28 | 2024-03-15 | 2024-11-23 |
 | [For The Living](https://open.spotify.com/track/1ubDKiPd70vAcckgoyA4Ot) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [For The Living](https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus) | 2:59 | 2024-02-23 | 2024-08-17 |
 | [Forever Was Never Enough](https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Forever Was Never Enough](https://open.spotify.com/album/5OPbWgMmKfLsir6Er33VIm) | 2:55 | 2024-01-26 | 2024-07-20 |
+| [Forget Yer Name](https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Forget Yer Name](https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ) | 3:32 | 2025-01-10 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 | 2024-11-23 |
 | [Full Rainbow](https://open.spotify.com/track/74gLJXOYDPAYWufPS3u541) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow](https://open.spotify.com/album/2cBahwXU17hiSZMgJJ77YI) | 3:30 | 2024-10-18 |  |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-20 |  |
@@ -106,6 +107,7 @@
 | [If I Could](https://open.spotify.com/track/758ub6jq4Asxf5XPGHZ5bY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [If I Could](https://open.spotify.com/album/3plcQp2JGT7Iv9QCRfuOwJ) | 3:36 | 2024-11-29 |  |
 | [If I Had A Boat](https://open.spotify.com/track/24GbPSzYcU0AWxXvlDssl7) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If I Had A Boat](https://open.spotify.com/album/6rXAQdtTmfB5hmDz7tw2se) | 3:06 | 2024-12-06 |  |
 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2023-12-08 | 2024-07-13 |
+| [In Real Life](https://open.spotify.com/track/0pOHm2ThTCM0UsrHuRsvWI) | [Maïa Davies](https://open.spotify.com/artist/0lh6MgBGOmOeCfNWQPnXsf) | [Lovers' Gothic B\-Sides](https://open.spotify.com/album/6S5xqaYspMbrLCgJ3HKWPw) | 4:18 | 2025-01-10 |  |
 | [Indifferent](https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Sprig](https://open.spotify.com/album/5N9ULyK2ntVIQLdw9Kw1nS) | 3:00 | 2024-11-22 |  |
 | [Is it fun for you?](https://open.spotify.com/track/6vgQ5R04b4pbPk0TxlPIP2) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Is it fun for you?](https://open.spotify.com/album/6Q6kH5zoYQq3F7rYMcuAHK) | 2:52 | 2024-11-22 |  |
 | [Is This What Love Is?](https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Is This What Love Is?](https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt) | 3:37 | 2024-03-22 | 2024-07-06 |

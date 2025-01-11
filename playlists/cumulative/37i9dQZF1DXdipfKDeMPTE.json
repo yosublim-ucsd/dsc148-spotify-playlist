@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 125624,
       "name": "For moments I feel faint",
       "url": "https://open.spotify.com/track/3sIswN4uYoDFjAP2eTDdQo"
@@ -7311,6 +7311,28 @@
     },
     {
       "album": {
+        "name": "Niigata",
+        "url": "https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71"
+      },
+      "artists": [
+        {
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
+        },
+        {
+          "name": "Smoke Trees",
+          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Niigata",
+      "url": "https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A"
+    },
+    {
+      "album": {
         "name": "fin alley",
         "url": "https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj"
       },
@@ -9447,6 +9469,24 @@
     },
     {
       "album": {
+        "name": "Skylghts",
+        "url": "https://open.spotify.com/album/2PR7GoyCdyQ2hgEeEF8P3y"
+      },
+      "artists": [
+        {
+          "name": "Recaps",
+          "url": "https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Skylghts",
+      "url": "https://open.spotify.com/track/2o0dQMcekq9d0PpQIvOfma"
+    },
+    {
+      "album": {
         "name": "Skylines",
         "url": "https://open.spotify.com/album/7k9zg9J556Yxl2CYLZkCdG"
       },
@@ -10592,6 +10632,28 @@
       "duration_ms": 159849,
       "name": "thaws / thoughts",
       "url": "https://open.spotify.com/track/7efIiYXXWIzqMgWHzhtL5A"
+    },
+    {
+      "album": {
+        "name": "The Calm",
+        "url": "https://open.spotify.com/album/3tqdmNTAsBljKWpJKE1jcZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Prime",
+          "url": "https://open.spotify.com/artist/15B9ZmmgDysKO1mJggYWgU"
+        },
+        {
+          "name": "Future of Lofi",
+          "url": "https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123687,
+      "name": "The Calm",
+      "url": "https://open.spotify.com/track/1r11FNdYPaGKYzTaW6H857"
     },
     {
       "album": {

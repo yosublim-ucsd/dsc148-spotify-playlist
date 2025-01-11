@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Examination",
+        "url": "https://open.spotify.com/album/1BZ53yWtcXww1sjyxeiuKd"
+      },
+      "artists": [
+        {
+          "name": "Northern Sirens",
+          "url": "https://open.spotify.com/artist/5qtIa4GIOYRDRH18X2Ru1C"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292363,
+      "name": "Examination",
+      "url": "https://open.spotify.com/track/4w9Yi4A3EtDSS9GnBx74qs"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9"
       },
@@ -402,6 +420,24 @@
       "duration_ms": 221500,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh"
+    },
+    {
+      "album": {
+        "name": "Fields of Iris",
+        "url": "https://open.spotify.com/album/6tNDda7O8j4cqUGV1sWJiJ"
+      },
+      "artists": [
+        {
+          "name": "Les Luke",
+          "url": "https://open.spotify.com/artist/32CcGw6tNOp1TJRFKBIMjg"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144868,
+      "name": "Fields of Iris",
+      "url": "https://open.spotify.com/track/7lM6rrQSb5gMNiGN4EOCIQ"
     },
     {
       "album": {
@@ -488,7 +524,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 155000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2W1jmfrFO5STsABKGaOr4P"
@@ -603,6 +639,42 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/7IRB6MzhikdomeqICBAUUW"
+      },
+      "artists": [
+        {
+          "name": "Ali Neroli",
+          "url": "https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/1htwBX3EQI0Yn4mRxqa3Ex"
+    },
+    {
+      "album": {
+        "name": "Lost Valley",
+        "url": "https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN"
+      },
+      "artists": [
+        {
+          "name": "Aurora Wave",
+          "url": "https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181427,
+      "name": "Lost Valley",
+      "url": "https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ"
+    },
+    {
+      "album": {
         "name": "Mesa",
         "url": "https://open.spotify.com/album/1bZmrAVkNM71HIrVHSDP30"
       },
@@ -676,6 +748,24 @@
       "duration_ms": 131400,
       "name": "Opalescent",
       "url": "https://open.spotify.com/track/4Bpx1CO7TsoaLKxQ4anISr"
+    },
+    {
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5gSmCor6UGPw8cKWg8utL7"
+      },
+      "artists": [
+        {
+          "name": "Silentro",
+          "url": "https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252467,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/4sOwnjnmJVbvODmibHP6NA"
     },
     {
       "album": {
@@ -1295,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "The Featherwinged Beetle",
+        "url": "https://open.spotify.com/album/3EJW0H4QvaoSd7uF5D52Zm"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260259,
+      "name": "The Featherwinged Beetle",
+      "url": "https://open.spotify.com/track/1W3keID7xtx3kE8ZVB3wl0"
+    },
+    {
+      "album": {
         "name": "Nonlin",
         "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
@@ -1580,6 +1688,24 @@
       "duration_ms": 181805,
       "name": "Western Electric",
       "url": "https://open.spotify.com/track/5LwWTwkjy0IZLbneYZ6IXS"
+    },
+    {
+      "album": {
+        "name": "Where Water Meets the Rocks",
+        "url": "https://open.spotify.com/album/4RITLFjrrqRuNOkqPkI1zV"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223363,
+      "name": "Where Water Meets the Rocks",
+      "url": "https://open.spotify.com/track/0rMs9p8b6HElUjBACisyI5"
     },
     {
       "album": {

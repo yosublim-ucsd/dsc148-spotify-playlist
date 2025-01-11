@@ -2867,6 +2867,36 @@
     },
     {
       "album": {
+        "name": "Believe (Shooting Stars)",
+        "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Believe (Shooting Stars)",
+      "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
+    },
+    {
+      "album": {
         "name": "Believe in Love",
         "url": "https://open.spotify.com/album/1ueDVJM95iLoIUsRFnnYhW"
       },
@@ -4726,6 +4756,24 @@
       "duration_ms": 282401,
       "name": "Close My Eyes - Don Diablo Edit",
       "url": "https://open.spotify.com/track/5whHivUi23obAx8lnZyDdg"
+    },
+    {
+      "album": {
+        "name": "close to you",
+        "url": "https://open.spotify.com/album/24JnGLaMQtaML78QIjNuM7"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "close to you",
+      "url": "https://open.spotify.com/track/2a657moilAHrsI75o595Mz"
     },
     {
       "album": {
@@ -16168,7 +16216,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
@@ -16682,6 +16730,44 @@
       "duration_ms": 233454,
       "name": "Matches (feat. Aaron Richards)",
       "url": "https://open.spotify.com/track/6k7wBCUsG2oGb8PT0WZL6n"
+    },
+    {
+      "album": {
+        "name": "Me Gusta (AM\u00c9M\u00c9 Remix)",
+        "url": "https://open.spotify.com/album/0qjrSdCW8LITJxRxAqkiE0"
+      },
+      "artists": [
+        {
+          "name": "AZZUR",
+          "url": "https://open.spotify.com/artist/4hCr8iPcZafmAQ8quCnqm2"
+        },
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Konvex (FR)",
+          "url": "https://open.spotify.com/artist/39vERtaB8quqGRumGCILC3"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209145,
+      "name": "Me Gusta - AM\u00c9M\u00c9 Remix",
+      "url": "https://open.spotify.com/track/4RQjpPh7CNR14YyZAwVB1o"
     },
     {
       "album": {
@@ -18008,7 +18094,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 207360,
       "name": "Never Loved You Like That",
       "url": "https://open.spotify.com/track/3eaya4A2mIUwmiQo3TcpSi"
@@ -27038,7 +27124,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 189743,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"

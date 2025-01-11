@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Bethel Music",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Seph Schlueter",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 240210,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/3RDsOd9SKVy3TiwQ8Y0xzI"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 270496,
       "name": "Come Into The Light",
       "url": "https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 355706,
       "name": "He Has Done Great Things - Live",
       "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 227085,
       "name": "HEART AND MIND",
       "url": "https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1"
@@ -8349,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/0qCl8ZVtzAf3rUTJrsYjBz"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368124,
+      "name": "Make Room - NEW Version",
+      "url": "https://open.spotify.com/track/5bcFYUqNGMNsxkqK3FmUqL"
+    },
+    {
+      "album": {
         "name": "Making Room",
         "url": "https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo"
       },
@@ -8480,6 +8498,24 @@
       "duration_ms": 308864,
       "name": "Miracle in Me",
       "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/5KCKJqJbOk50ZvEuhh3DAN"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389647,
+      "name": "Miracle Worker - Live",
+      "url": "https://open.spotify.com/track/30wjheQzye2Jwtiy0pOT8D"
     },
     {
       "album": {
@@ -10833,6 +10869,24 @@
     },
     {
       "album": {
+        "name": "RESURRECTION HERE",
+        "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256892,
+      "name": "RESURRECTION HERE",
+      "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
+    },
+    {
+      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/3ShHQPOWPmRQybY6gh1b4g"
       },
@@ -10914,6 +10968,32 @@
       "duration_ms": 521042,
       "name": "Revelation Song - Live",
       "url": "https://open.spotify.com/track/64Vcux99vOGYkJ6u9KY2A4"
+    },
+    {
+      "album": {
+        "name": "Revival Generation",
+        "url": "https://open.spotify.com/album/0YkqZZgySScdHHzEOXdR5m"
+      },
+      "artists": [
+        {
+          "name": "Gather Worship",
+          "url": "https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Josh Aaron",
+          "url": "https://open.spotify.com/artist/0OUhJ3j9QAcwF8ntqJ6bZG"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "REVIVAL GENERATION",
+      "url": "https://open.spotify.com/track/1evlqx86VEjtiY2EaHk5jE"
     },
     {
       "album": {
@@ -11586,7 +11666,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 282040,
       "name": "Spirit Of God (Breathe In Us) - Songs For Church (Live)",
       "url": "https://open.spotify.com/track/5DXLxxwIcuLOZI0FIu9f4t"
@@ -12367,6 +12447,28 @@
     },
     {
       "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420019,
+      "name": "The Church - Live",
+      "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -12400,7 +12502,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 245475,
       "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
       "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
@@ -14747,6 +14849,24 @@
     },
     {
       "album": {
+        "name": "Words We'll Sing Forever",
+        "url": "https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268018,
+      "name": "Words We'll Sing Forever",
+      "url": "https://open.spotify.com/track/52nHwiyey8yFvn9Wo4SXTt"
+    },
+    {
+      "album": {
         "name": "Worship Through It",
         "url": "https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg"
       },
@@ -14788,6 +14908,24 @@
       "duration_ms": 334597,
       "name": "Worship Works - Live From VOUSCon",
       "url": "https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5"
+    },
+    {
+      "album": {
+        "name": "Worship!",
+        "url": "https://open.spotify.com/album/3oYzCAKcT1AVna2vPCYWxF"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241574,
+      "name": "Worship!",
+      "url": "https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr"
     },
     {
       "album": {
@@ -15030,7 +15168,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-11",
       "duration_ms": 313815,
       "name": "Yes",
       "url": "https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z"

@@ -1,15 +1,39 @@
 {
-  "description": "The home of Canadian country music. Cover: Josh Ross",
-  "num_followers": 80014,
+  "description": "The home of Canadian country music. Cover: James Barker Band",
+  "num_followers": 80015,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6AAAAADpYEhgbwVTJgMg66trjqC4",
+  "snapshot_id": "Z4CpWQAAAADzSqDv1gqDVoLi8sheXlm8",
   "tracks": [
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
+      "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+    },
+    {
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Molly's Song",
         "url": "https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr"
@@ -25,7 +49,7 @@
       "url": "https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC"
@@ -41,7 +65,7 @@
       "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
@@ -61,7 +85,23 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
+      "album": {
+        "name": "You Didn\u2019t Hear It From Me",
+        "url": "https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i"
+    },
+    {
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU"
@@ -77,7 +117,7 @@
       "url": "https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
@@ -93,7 +133,7 @@
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex"
@@ -109,7 +149,7 @@
       "url": "https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/56EZ3QjVfDtzSUdag8ZHAG"
@@ -125,7 +165,7 @@
       "url": "https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Bruce County (From The Beginning)",
         "url": "https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq"
@@ -141,7 +181,7 @@
       "url": "https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Hey Mom I Made It",
         "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
@@ -157,7 +197,7 @@
       "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Think of Me",
         "url": "https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr"
@@ -173,7 +213,7 @@
       "url": "https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Quits",
         "url": "https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Never Not Care",
         "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "home",
         "url": "https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib"
@@ -257,23 +297,7 @@
       "url": "https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
-      "album": {
-        "name": "When I Hear That Song",
-        "url": "https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn"
-      },
-      "artists": [
-        {
-          "name": "Tony Stevens",
-          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
-        }
-      ],
-      "duration_ms": 202690,
-      "name": "When I Hear That Song",
-      "url": "https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN"
-    },
-    {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "From A Man's Perspective",
         "url": "https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Coming Home To You (Bigger Houses)",
         "url": "https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl"
@@ -309,7 +333,7 @@
       "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
@@ -325,7 +349,7 @@
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
@@ -361,7 +385,7 @@
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Stay a Little Longer",
         "url": "https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb"
@@ -377,7 +401,7 @@
       "url": "https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
@@ -393,7 +417,7 @@
       "url": "https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Want This Beer (Feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
@@ -413,7 +437,7 @@
       "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Jealous Of Jesus",
         "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
@@ -429,7 +453,7 @@
       "url": "https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "What Got Me Here",
         "url": "https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP"
@@ -445,7 +469,7 @@
       "url": "https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Things My Mama Says",
         "url": "https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH"
@@ -461,7 +485,7 @@
       "url": "https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "My Bedroom",
         "url": "https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z"
@@ -485,7 +509,7 @@
       "url": "https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Good Man",
         "url": "https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh"
@@ -501,7 +525,7 @@
       "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Boots Don't (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr"
@@ -541,7 +565,7 @@
       "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Neon Cowboy",
         "url": "https://open.spotify.com/album/5scVpTM1JZYZGzOJ2jZVtw"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/4SoxGhG9jDK86qCXFKOkRJ"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Coast to Coast",
         "url": "https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/18fqq295kEELwCmgky7y9a"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "He's The One",
         "url": "https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F"
@@ -625,7 +649,7 @@
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "LIFE OUT HERE",
         "url": "https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Didn't See It Coming",
         "url": "https://open.spotify.com/album/0IFkISeD6tB1NmN0pvL4tq"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/350wMFVRZe1HGKOjcOLCWa"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Kitchen Floor",
         "url": "https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs"
@@ -693,7 +717,7 @@
       "url": "https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Five Beers From Now",
         "url": "https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Feels Country To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "She Stole My Harley",
         "url": "https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/3TI9SGLtL24wm0sZTTLGFv"
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/1TVvBBJbngg3UIHMYieufG"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Love and Hate",
         "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
@@ -797,7 +821,7 @@
       "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "What Were You Thinking",
         "url": "https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt"
@@ -813,7 +837,7 @@
       "url": "https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Terri Clark: Take Two",
         "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
@@ -833,7 +857,7 @@
       "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
     },
     {
-      "added_at": "2025-01-03 05:00:24",
+      "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "She's Me (Deluxe)",
         "url": "https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny"
@@ -847,22 +871,6 @@
       "duration_ms": 161543,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
-    },
-    {
-      "added_at": "2025-01-03 05:00:24",
-      "album": {
-        "name": "I Need A Saviour",
-        "url": "https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc"
-      },
-      "artists": [
-        {
-          "name": "Luke Boland",
-          "url": "https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "I Need A Saviour",
-      "url": "https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk"
     }
   ],
   "unique_name": "North Country",
