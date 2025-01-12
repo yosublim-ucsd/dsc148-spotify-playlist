@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 390001,
+  "num_followers": 390019,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "Workin' Hard",
+        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 239070,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "KIZAO",
         "url": "https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "Workin' Hard",
-        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 239070,
-      "name": "Workin' Hard",
-      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u6708\u3078\u884c\u3053\u3046",
-        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "\u6708\u3078\u884c\u3053\u3046",
-      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "50%",
         "url": "https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 303716,
       "name": "50%",
       "url": "https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "\u6708\u3078\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "\u6708\u3078\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "CHEESE CAKE",
         "url": "https://open.spotify.com/album/5bCs6T5NIVD23cUC7tKiPg"
       },
@@ -1431,6 +1415,38 @@
       "duration_ms": 124933,
       "name": "CHEESE CAKE",
       "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
+        "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 143240,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+      "duration_ms": 195657,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1495,22 +1511,6 @@
       "duration_ms": 267401,
       "name": "Get Back To \u4eba\u751f",
       "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "\u751f\u547d\u4f53",
+      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
         "url": "https://open.spotify.com/album/2cPmSTET4CPxpxtNeTFYjb"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 210625,
       "name": "\u30c6\u30a3\u30d5\u30a1\u30cb\u30fc\u3067\u671d\u98df\u3092",
       "url": "https://open.spotify.com/track/7pE0DPxq4Q0pQqGzU4qyUj"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "\u751f\u547d\u4f53",
-        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "\u751f\u547d\u4f53",
-      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
     }
   ],
   "unique_name": "Tokyo Rising",

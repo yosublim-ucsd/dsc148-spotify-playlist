@@ -4,7 +4,7 @@
 
 > mostly furry
 
-278 songs - 14 hr 3 min
+279 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Boy Kisser](https://open.spotify.com/track/67AQyaNi33N6fo8HB59b3j) | [Furrivana](https://open.spotify.com/artist/2NpJJZgFqodNGnBWk1MMut), [Connor Ruri](https://open.spotify.com/artist/4kQcaLgXALExu9AY3An7xd) | [We should like totally KISS](https://open.spotify.com/album/6Zd4E8vVL11OE1ZCbMzjLx) | 4:44 | 2023-11-18 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-11-18 |  |
 | [Bullet In My Head](https://open.spotify.com/track/5DNApaEoUucYyhTgSsyf2v) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Bullet In My Head](https://open.spotify.com/album/3znxS6jPv8BoZQjdf5cwsh) | 2:25 | 2024-07-12 |  |
+| [Buttered Toast](https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Buttered Toast](https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS) | 3:57 | 2025-01-11 |  |
 | [Candlelight](https://open.spotify.com/track/4rYjeNrjGCXRLpMcLmFZOY) | [Bardic](https://open.spotify.com/artist/5G4QNDP33DfiOnwft13JtB) | [Candlelight](https://open.spotify.com/album/2XvwA3Qv4G9Rx58TZUlhHz) | 2:48 | 2023-12-07 |  |
 | [Cat Chase](https://open.spotify.com/track/042ImWHeDEIWwx9ZEBQSF6) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:19 | 2024-12-24 |  |
 | [Chipflake](https://open.spotify.com/track/5SY1a41AfPSnomiurviWTz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:30 | 2023-11-18 |  |

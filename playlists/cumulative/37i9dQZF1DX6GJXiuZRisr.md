@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-555 songs - 1 day 14 hr 48 min
+556 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [I’ll Be There](https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I’ll Be There](https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W) | 3:11 | 2024-10-25 |  |
 | [JOI \- Part II](https://open.spotify.com/track/6Fp3dJOpkDtIUhKDu3Ha8M) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [JOI \(Part II\)](https://open.spotify.com/album/25Tb0K01fQPTvh0ipkN9ea) | 3:59 | 2024-07-02 |  |
 | [Julieta](https://open.spotify.com/track/2lLcfRJK6pNyn1WvDkyUtu) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Julieta](https://open.spotify.com/album/2ASQaFqPgGc7WNU4m4hfmx) | 4:19 | 2021-07-02 | 2022-04-18 |
+| [Jupiter](https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Jupiter](https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c) | 5:30 | 2025-01-10 |  |
 | [Just A Dream](https://open.spotify.com/track/5QCFCmu2pCzQE2uobbJ3jt) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Delta Underground](https://open.spotify.com/artist/4Em4896BPudV7MWlWuFlU8) | [Just A Dream](https://open.spotify.com/album/5VVrT9vPhk3FOS8hs0xIJR) | 3:29 | 2021-05-07 | 2022-07-28 |
 | [Just The Kinda Feeling](https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:34 | 2023-10-27 | 2024-04-13 |
 | [Just the Kinda Feeling](https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:34 | 2023-02-03 | 2023-10-12 |
@@ -321,7 +322,7 @@
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-05-07 | 2024-04-06 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/02u5cHxHuJ6NpUIhGsdbU7) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle \(Lane 8 Remix\)](https://open.spotify.com/album/1Arn6M713Pq2l6JuGcENCC) | 4:09 | 2021-05-07 | 2022-07-29 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
-| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 |  |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2025-01-12 |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
 | [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 |  |
 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-19 |  |

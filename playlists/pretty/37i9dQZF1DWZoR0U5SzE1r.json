@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 335038,
+  "num_followers": 335330,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 265133,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "SEVEN (Live)",
-        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 283964,
-      "name": "Honey In The Rock - Live",
-      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Endless Years",
         "url": "https://open.spotify.com/album/4UVvmClozVCOUjQ89uKdaP"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 304828,
       "name": "Set a Fire",
       "url": "https://open.spotify.com/track/3LSna6W1dRf2QbsUgmRoFf"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 283964,
+      "name": "Honey In The Rock - Live",
+      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Voice of Truth",
-      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 242401,
       "name": "Famous For (I Believe)",
       "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Homemade Worship by Handmade People",
-        "url": "https://open.spotify.com/album/3PQxDfQIKM2GXWiLpMeFCw"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Build Your Kingdom Here",
-      "url": "https://open.spotify.com/track/0yqWOXyvDtC2ol1Idz8r8J"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Burning Lights",
         "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Homemade Worship by Handmade People",
+        "url": "https://open.spotify.com/album/3PQxDfQIKM2GXWiLpMeFCw"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Build Your Kingdom Here",
+      "url": "https://open.spotify.com/track/0yqWOXyvDtC2ol1Idz8r8J"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1211,22 +1227,6 @@
       "duration_ms": 401760,
       "name": "This I Believe (The Creed) - Live",
       "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Praise You In This Storm",
-      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Hymn Of Heaven",
-      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Battle Belongs",
-        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 287532,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Awakening - Live From Chicago",
         "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Battle Belongs",
+        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 287532,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Christ Be Magnified",
         "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Adoration",
-        "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "He Reigns",
-      "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Pure Heart (Live)",
-        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
-      },
-      "artists": [
-        {
-          "name": "Lenny LeBlanc",
-          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "There Is None Like You - Live",
-      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Pure Heart (Live)",
+        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
+      },
+      "artists": [
+        {
+          "name": "Lenny LeBlanc",
+          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "There Is None Like You - Live",
+      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "King Of Glory (Live)",
-        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "King Of Glory - Live",
-      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Look What God Has Done",
         "url": "https://open.spotify.com/album/7eOYGeQDyPKRbiizEkGObi"
       },
@@ -2155,6 +2135,26 @@
       "duration_ms": 244666,
       "name": "Look What God Has Done - Live",
       "url": "https://open.spotify.com/track/1a5ZUohQyPCZ99qSdr8hBL"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "King Of Glory - Live",
+      "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2751,22 +2751,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "In Jesus Name (God Of Possible)",
         "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
@@ -2779,6 +2763,22 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2799,22 +2799,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "All The Earth",
-        "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
+        "name": "Into the Deep (Live)",
+        "url": "https://open.spotify.com/album/0AE58KihwvtHYKcALMQjGy"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
         }
       ],
-      "duration_ms": 486944,
-      "name": "Peace Be Still (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
+      "duration_ms": 388133,
+      "name": "Into the Deep (Live)",
+      "url": "https://open.spotify.com/track/01GHOdYIsJfrFBqsPpXd6k"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2835,18 +2831,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Into the Deep (Live)",
-        "url": "https://open.spotify.com/album/0AE58KihwvtHYKcALMQjGy"
+        "name": "All The Earth",
+        "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
       "artists": [
         {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 388133,
-      "name": "Into the Deep (Live)",
-      "url": "https://open.spotify.com/track/01GHOdYIsJfrFBqsPpXd6k"
+      "duration_ms": 486944,
+      "name": "Peace Be Still (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
     },
     {
       "added_at": "2024-12-11 10:16:32",

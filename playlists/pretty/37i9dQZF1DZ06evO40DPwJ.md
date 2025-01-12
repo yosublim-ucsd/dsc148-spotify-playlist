@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,686 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 17 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
 | 18 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
 | 19 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
-| 20 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
+| 20 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
 | 21 | [Moving On](https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:51 |
-| 22 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
+| 22 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
 | 23 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
 | 24 | [Come On Girl](https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:32 |
 | 25 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 43 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `Z38RgAAAAADx3iiOQeSyT1MExMDs+B4E`
+Snapshot ID: `Z4BjAAAAAABLv0grkqHqVslP/LAGKH5r`

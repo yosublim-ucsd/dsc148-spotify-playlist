@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Ni Valia La Pena",
+        "url": "https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240774,
+      "name": "Ni Valia La Pena",
+      "url": "https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe"
+    },
+    {
+      "album": {
         "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
         "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },

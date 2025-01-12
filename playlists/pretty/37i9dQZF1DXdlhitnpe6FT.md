@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,739 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,939 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 38 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 39 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
 | 40 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
-| 41 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
-| 42 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
+| 41 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
+| 42 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
 | 43 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
 | 44 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 45 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 90 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:06 |
 | 91 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 |
 | 92 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
-| 93 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
+| 93 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
 | 94 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
-| 95 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
+| 95 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
 | 96 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
 | 97 | [Joy](https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus) | [Apollo 100](https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 2:43 |
 | 98 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 |

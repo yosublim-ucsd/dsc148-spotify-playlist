@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 93208,
+  "num_followers": 93234,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADCAzRKc38YlK2PYRz3LagM",
+  "snapshot_id": "Z4BjAAAAAADFRaKdDVZqZNOJH8Mht0fW",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136899,
-      "name": "Time Today",
-      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 136366,
       "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Quickie",
-      "url": "https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "F My BM",
+      "url": "https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 184067,
       "name": "Certified Dripper 2 (with MoneyBagg Yo)",
       "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "F My BM",
-      "url": "https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 89616,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 89616,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
     },
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 142437,
-      "name": "Motion God",
-      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
+      "duration_ms": 142451,
+      "name": "Keep It Low (feat. Future)",
+      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
     },
     {
       "added_at": null,
@@ -494,15 +498,11 @@
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 142451,
-      "name": "Keep It Low (feat. Future)",
-      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
+      "duration_ms": 142437,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 128009,
-      "name": "50/50 (Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Served (Deluxe)",
         "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 199495,
       "name": "No Chill (feat. Lil Baby & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "50/50 (Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

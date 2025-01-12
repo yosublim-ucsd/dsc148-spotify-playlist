@@ -4725,7 +4725,7 @@
     },
     {
       "album": {
-        "name": "Ride Or Die",
+        "name": "Ride or Die",
         "url": "https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX"
       },
       "artists": [
@@ -4738,7 +4738,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169189,
-      "name": "Ride Or Die",
+      "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv"
     },
     {
@@ -6880,6 +6880,24 @@
       "duration_ms": 207958,
       "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
       "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u306e\u5203",
+        "url": "https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "\u8a00\u306e\u5203",
+      "url": "https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ"
     },
     {
       "album": {

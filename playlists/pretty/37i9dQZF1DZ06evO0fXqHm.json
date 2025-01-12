@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1624,
+  "num_followers": 1626,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABahvsD2SpKgPuiCCvQOS1s",
+  "snapshot_id": "Z4BjAAAAAAApSRJbnZkkBre3bfDWzswg",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEIO (BLACKMIX)",
+        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "MEIO - BLACKMIX",
+      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Vida",
         "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
       },
@@ -475,26 +499,6 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
     },
     {
       "added_at": null,
@@ -523,26 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEIO (BLACKMIX)",
-        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
       "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 149571,
-      "name": "MEIO - BLACKMIX",
-      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fica Tudo Bem",
         "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 168960,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balan\u00e7a Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
       "artists": [
         {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Balan\u00e7a Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
+      "duration_ms": 224500,
+      "name": "Olha Beb\u00ea",
+      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+        "name": "Balan\u00e7a Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Olha Beb\u00ea",
-      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
+      "duration_ms": 204444,
+      "name": "Balan\u00e7a Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
     },
     {
       "added_at": null,

@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 197472,
       "name": "BEINT UPP",
       "url": "https://open.spotify.com/track/3fOrhireBkcUP0F5dkIrfK"
@@ -19282,7 +19282,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -21893,6 +21893,32 @@
     },
     {
       "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ"
+      },
+      "artists": [
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        },
+        {
+          "name": "Kristjan Saenz",
+          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157428,
+      "name": "KOMA",
+      "url": "https://open.spotify.com/track/3XnfPFUWrsLklxX8g3MpWL"
+    },
+    {
+      "album": {
         "name": "Komdu um j\u00f3lin",
         "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
       },
@@ -23880,6 +23906,32 @@
       "duration_ms": 56006,
       "name": "Logni\u00f0 undan storminum - Skit",
       "url": "https://open.spotify.com/track/772WN0vI1bFnnidQ9nYrqM"
+    },
+    {
+      "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137218,
+      "name": "LOKU\u00d0 AUGU",
+      "url": "https://open.spotify.com/track/6aS0Tex633d2JYjjk42yvy"
     },
     {
       "album": {
@@ -26640,7 +26692,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 164680,
       "name": "Morguns\u00f3lin",
       "url": "https://open.spotify.com/track/2XOTjxBCQRTWZE1akIgqE3"
@@ -27256,6 +27308,32 @@
       "duration_ms": 148628,
       "name": "M\u00e1var",
       "url": "https://open.spotify.com/track/6kzqyQTd2SOyMml8ikEZi5"
+    },
+    {
+      "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ"
+      },
+      "artists": [
+        {
+          "name": "Theod\u00f3r G\u00edsli ",
+          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
+        },
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208904,
+      "name": "M\u00c9R",
+      "url": "https://open.spotify.com/track/4QTltqbwVVQdhc9dy3fq6O"
     },
     {
       "album": {
@@ -29086,6 +29164,32 @@
       "duration_ms": 204629,
       "name": "Ok Ok pt 2",
       "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
+    },
+    {
+      "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ"
+      },
+      "artists": [
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "Theod\u00f3r G\u00edsli ",
+          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "OKAYY",
+      "url": "https://open.spotify.com/track/5CD8DMXQdAjtwGjuxWpLc1"
     },
     {
       "album": {
@@ -33304,7 +33408,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 254266,
       "name": "Running Sideways",
       "url": "https://open.spotify.com/track/6Nyp2At2kTCDi6TDABuYUp"
@@ -33548,6 +33652,32 @@
       "duration_ms": 176618,
       "name": "R\u00f3sin",
       "url": "https://open.spotify.com/track/6pl6s8A3YRX3CKSEFGbKbM"
+    },
+    {
+      "album": {
+        "name": "KAPITAL",
+        "url": "https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ"
+      },
+      "artists": [
+        {
+          "name": "Kristjan Saenz",
+          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154233,
+      "name": "R\u00d3SUM",
+      "url": "https://open.spotify.com/track/2xG7pXTBGsh1U3XX4tdpkZ"
     },
     {
       "album": {
@@ -41648,7 +41778,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 212544,
       "name": "True Love",
       "url": "https://open.spotify.com/track/3QyGiprAQCrye6u1IPcuTE"
@@ -44726,7 +44856,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

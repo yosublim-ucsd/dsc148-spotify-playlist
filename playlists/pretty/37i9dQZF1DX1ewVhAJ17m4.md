@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,189 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,227 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 60 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 61 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
 | 62 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
-| 63 | [Viral](https://open.spotify.com/track/0OCMecwvr1aBI2usN1LuHp) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 2:39 |
-| 64 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
+| 63 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
+| 64 | [Viral](https://open.spotify.com/track/0OCMecwvr1aBI2usN1LuHp) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 2:39 |
 | 65 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
 | 66 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
 | 67 | [PET WITH THE TISM](https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [PET WITH THE TISM](https://open.spotify.com/album/6Al5pUbSlNO6YW6L2iYFcB) | 2:43 |

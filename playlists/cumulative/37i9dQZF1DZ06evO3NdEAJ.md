@@ -4,13 +4,14 @@
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 27 min
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [900 Cigarros](https://open.spotify.com/track/5l9Yiss1tK7DFlOIZ6VumO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:03 | 2024-08-08 |  |
 | [A Decir Verdad](https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:48 | 2024-08-08 |  |
 | [A Modo de Festejo](https://open.spotify.com/track/7fUQ2lIwbdjQrPATWfT55g) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [A Modo de Festejo](https://open.spotify.com/album/3vlVahTHKYc9BBUa2L7ixn) | 3:04 | 2024-08-08 |  |
+| [Aunque me Dejes en Visto](https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Aunque me Dejes en Visto](https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3) | 2:37 | 2025-01-12 |  |
 | [Bailando](https://open.spotify.com/track/7u9sBmRyQrKdewaT4YxHtm) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Bailando](https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P) | 3:23 | 2024-08-08 |  |
 | [Basta](https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:14 | 2024-08-08 |  |
 | [Beses a Quien Beses](https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Beses a Quien Beses](https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj) | 2:57 | 2024-08-08 |  |

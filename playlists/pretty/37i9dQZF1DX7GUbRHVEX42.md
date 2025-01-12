@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: H.E.R & Lila Ike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,696 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,759 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 31 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 |
 | 32 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
 | 33 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
-| 34 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
-| 35 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
+| 34 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
+| 35 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 36 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 37 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 38 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |

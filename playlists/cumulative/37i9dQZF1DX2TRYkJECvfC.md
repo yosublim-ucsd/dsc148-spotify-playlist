@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-565 songs - 1 day 23 hr 19 min
+566 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Every Cow Has A Bird](https://open.spotify.com/track/2yvoDFXqwBYnLfddc5GgOs) | [Guti & Dubshape](https://open.spotify.com/artist/6tJPCovbmTJlZiKQ89583A) | [Every Cow Has a Bird / Bueno](https://open.spotify.com/album/4G3qqew3FYFFTQpt72i8wa) | 7:55 | 2023-11-17 | 2024-04-13 |
 | [Every Cow Has A Bird \- original mix](https://open.spotify.com/track/1Gu8YosrIxq31SoQA1Nwfh) | [Guti & Dubshape](https://open.spotify.com/artist/6tJPCovbmTJlZiKQ89583A) | [Every Cow Has A Bird / Bueno](https://open.spotify.com/album/6liHJOZ7VRPt96kREPCKN1) | 7:55 | 2022-05-03 | 2023-11-05 |
 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 | 2024-01-19 | 2024-07-13 |
+| [Everyday](https://open.spotify.com/track/3W3LM2eS1F81UuIjEsHXsV) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Everyday](https://open.spotify.com/album/3hgopGn8Ef1z2ybAPJ0Zu0) | 3:13 | 2025-01-10 |  |
 | [EVERYTHINGSALRIGHT](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [EVERYTHINGSALRIGHT](https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG) | 2:55 | 2023-06-30 |  |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-28 |  |
 | [Fade](https://open.spotify.com/track/1bNo2ybJL8rmZzOdd6T3sG) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Fade](https://open.spotify.com/album/29CnJBF1VbNG79dvyguEzj) | 3:18 | 2023-02-03 |  |
@@ -466,7 +467,7 @@
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 |  |
 | [Stay](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [For You, Forever](https://open.spotify.com/album/6VD0r8s4NhjszZzoZxcf6S) | 3:53 | 2023-09-08 |  |
 | [Stop That Man](https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ) | [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [Stop That Man](https://open.spotify.com/album/2XFXFozuoCAtegfasbZezP) | 2:50 | 2021-12-08 | 2022-02-22 |
-| [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 |  |
+| [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 | 2025-01-12 |
 | [Sumatra \- Lstn Remix](https://open.spotify.com/track/23jieIC481GBJSSisCISOj) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sumatra \(Lstn Remix\)](https://open.spotify.com/album/0VDPMeq01iUSHoUOm5CGef) | 3:21 | 2021-12-08 | 2022-02-22 |
 | [Summer Heartbreak](https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN) | [Summer Heartbreak](https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR) | 3:49 | 2023-03-03 | 2024-07-13 |
 | [Summer Rain](https://open.spotify.com/track/4xA4HIVl08B1IDq3SwmCVH) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Summer Rain](https://open.spotify.com/album/6zNp7UCCpgvmKJOkdgzBtF) | 6:12 | 2021-12-08 | 2022-07-29 |

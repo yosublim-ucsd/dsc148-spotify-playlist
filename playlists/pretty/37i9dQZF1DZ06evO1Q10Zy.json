@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 35892,
+  "num_followers": 35894,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABSu2CZXRI0QNaxzZ49pYNJ",
+  "snapshot_id": "Z4BjAAAAAABCg9zsX59Rt67UyF6OPURW",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 340386,
       "name": "Exceptional",
       "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 134666,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 283360,
       "name": "Always Be My Sunshine",
       "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 134666,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 293733,
-      "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 342360,
-      "name": "And Our Feelings",
-      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
+      "duration_ms": 293733,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back With A Heart",
-        "url": "https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "I Honestly Love You",
-      "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out (Extended)",
         "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 195579,
       "name": "Sometimes (with Jenevieve)",
       "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back With A Heart",
+        "url": "https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "I Honestly Love You",
+      "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
+      "duration_ms": 340200,
+      "name": "When Your Body Gets Weak",
+      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
     }
   ],
   "unique_name": "This Is Babyface",

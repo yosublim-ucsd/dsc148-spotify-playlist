@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,521 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 13 | [Tierra Sin Nombre](https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 3:21 |
 | 14 | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:48 |
 | 15 | [Reventón Unisex](https://open.spotify.com/track/41HebIRHAPoidrilXQ0udy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 4:04 |
-| 16 | [Reventón Unixes](https://open.spotify.com/track/7ke3SABFuGMPM18NJcJz6j) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mas Caliente..\. La Niña Fresa](https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a) | 3:54 |
+| 16 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
 | 17 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 |
 | 18 | [Revolución Tecno](https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:21 |
 | 19 | [No Dejes De Preocuparte](https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:52 |
-| 20 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
+| 20 | [Reventón Unixes](https://open.spotify.com/track/7ke3SABFuGMPM18NJcJz6j) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mas Caliente..\. La Niña Fresa](https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a) | 3:54 |
 | 21 | [Jacarandosa](https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 3:10 |
 | 22 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 |
 | 23 | [Caderas Lait](https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:36 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 36 | [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 |
 | 37 | [Con un poquito de amor](https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:09 |
 | 38 | [Dame Chamoy](https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf) | [Marea Musical](https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL), [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Dame Chamoy](https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T) | 2:26 |
-| 39 | [Como un Tatuaje](https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
-| 40 | [Luna](https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna](https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl) | 3:26 |
+| 39 | [Luna](https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna](https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl) | 3:26 |
+| 40 | [Como un Tatuaje](https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
 | 41 | [Clases de baile](https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:59 |
 | 42 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 |
 | 43 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 49 | [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [¿De Qué Color Es Tu Brassiere?](https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq) | 3:08 |
 | 50 | [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 |
 
-Snapshot ID: `Z38RgAAAAAD1oFp5bMM1fhZVK47pPiF+`
+Snapshot ID: `Z4BjAAAAAAACroB+Rvux0j/+b0F1+ECP`

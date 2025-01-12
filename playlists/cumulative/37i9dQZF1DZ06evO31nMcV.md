@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 7 min
+66 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [The Way It Was](https://open.spotify.com/track/7B5Xs96cpGcl4zHNuZ9nLB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Way It Was](https://open.spotify.com/album/1OOhYgpQiNlwt17PDvMkPM) | 3:20 | 2024-10-02 | 2024-10-13 |
 | [Together Without You](https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:27 | 2024-10-11 | 2024-10-28 |
 | [Together Without You](https://open.spotify.com/track/2STpnOCDlWxS5JdtsLWaFA) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You](https://open.spotify.com/album/4SPaZt0yKuLHkB4bd5mEfA) | 3:27 | 2024-10-02 | 2024-10-11 |
+| [Together Without You \(Solo Piano Version\)](https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You \(Solo Piano Version\)](https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8) | 3:33 | 2025-01-12 |  |
 | [Truth Vibrations](https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Piano Karma](https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr) | 2:34 | 2024-10-02 |  |
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2024-10-02 |  |
 | [Waterfalls](https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:05 | 2024-10-02 |  |

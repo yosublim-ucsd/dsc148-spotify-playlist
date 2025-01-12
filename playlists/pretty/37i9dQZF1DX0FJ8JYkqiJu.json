@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 397161,
+  "num_followers": 397218,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "No Gravity (feat. Bava)",
-      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "No Gravity (feat. Bava)",
+      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 290625,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Lights Go Out",
         "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
       },
@@ -931,22 +911,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Raye",
-        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 290409,
-      "name": "Raye",
-      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -967,6 +947,26 @@
       "duration_ms": 221707,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Raye",
+        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 290409,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
-        }
-      ],
-      "duration_ms": 258644,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Gave You Everything",
-        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
-      },
-      "artists": [
-        {
-          "name": "Modern Living",
-          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "some kind of peace",
         "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
+        "name": "Gave You Everything",
+        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
       },
       "artists": [
         {
-          "name": "Future Soundscapes",
-          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
+          "name": "Modern Living",
+          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
+      "duration_ms": 202500,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1247,6 +1231,22 @@
       "duration_ms": 192133,
       "name": "Here",
       "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
+      },
+      "artists": [
+        {
+          "name": "Future Soundscapes",
+          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1307,26 +1307,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
         },
         {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "No.oN",
+          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
         }
       ],
-      "duration_ms": 190000,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
+      "duration_ms": 115847,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1347,22 +1343,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
       },
       "artists": [
         {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         },
         {
-          "name": "No.oN",
-          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 115847,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE"
+      "duration_ms": 190000,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
     }
   ],
   "unique_name": "Just Chill",

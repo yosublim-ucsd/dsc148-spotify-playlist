@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลย์ลิสต์พิเศษวันเด็ก เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: เล็ก รัชเมศฐ์
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,638 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,726 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 3 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 |
 | 4 | [ถ้าหากฉันรู้ว่ามันจะเจ็บ \(ALT\. ENDING\)](https://open.spotify.com/track/05OkPDrO17g0cU4gXjGR0H) | [Lomosonic](https://open.spotify.com/artist/3RnRECOTd7fAWTPgmwRYMc) | [ถ้าหากฉันรู้ว่ามันจะเจ็บ \(ALT\. ENDING\)](https://open.spotify.com/album/1NF8GzDpRk4Mhhhz5IlP6b) | 3:54 |
 | 5 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 |
-| 6 | [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 6 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 7 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 |
 | 8 | [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 |
 | 9 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |

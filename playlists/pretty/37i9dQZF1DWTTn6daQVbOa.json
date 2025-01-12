@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 849259,
+  "num_followers": 849634,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+      "duration_ms": 326320,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Way We Were",
-        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2023-03-13 08:18:56",
@@ -1679,6 +1663,22 @@
       "duration_ms": 233533,
       "name": "I Hope That I Don't Fall In Love With You",
       "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Behind Closed Doors",
         "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 277413,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Diana & Marvin (Expanded Edition)",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Rose Royce III: Strikes Again!",
-        "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Gather Me",
         "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 215026,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Rose Royce III: Strikes Again!",
+        "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Love Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Diana Ross",
-        "url": "https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
-      "url": "https://open.spotify.com/track/6qNCLr8GOZOMZJKjfIhxiE"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 197626,
       "name": "And I Love You So",
       "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Diana Ross",
+        "url": "https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
+      "url": "https://open.spotify.com/track/6qNCLr8GOZOMZJKjfIhxiE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Wings Greatest",
-        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Mull Of Kintyre",
-      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Danny's Song",
         "url": "https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs"
       },
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Touch Me In The Morning",
-        "url": "https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7"
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
+      "duration_ms": 286346,
+      "name": "Mull Of Kintyre",
+      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2311,6 +2295,22 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Touch Me In The Morning",
+        "url": "https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
     },
     {
       "added_at": "2022-09-23 05:26:33",

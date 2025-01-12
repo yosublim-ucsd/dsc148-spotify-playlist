@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,852 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,895 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 18 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
 | 19 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 20 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
-| 21 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
-| 22 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
+| 21 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
+| 22 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
 | 23 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 |
 | 24 | [Presence of Thor](https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:14 |
 | 25 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 31 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
 | 32 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
 | 33 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 |
-| 34 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
-| 35 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 34 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 35 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
 | 36 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
 | 37 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
 | 38 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |

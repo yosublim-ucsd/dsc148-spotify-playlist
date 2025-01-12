@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11310,
+  "num_followers": 11313,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAukJJZRu4L1L9wD6+9fotM",
+  "snapshot_id": "Z4BjAAAAAAAGDCqa5PMh+xSsxw3xQsbf",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 130406,
       "name": "Baptize",
       "url": "https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

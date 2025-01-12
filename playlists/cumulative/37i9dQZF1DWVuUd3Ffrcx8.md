@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Alan Walker\)
 
-354 songs - 19 hr 24 min
+355 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-06-28 | 2024-07-27 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-08 | 2024-10-18 |
 | [Renaissance](https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 1:38 | 2024-07-18 | 2024-09-27 |
-| [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 | 2025-01-09 |  |
+| [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 | 2025-01-09 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-04 |
 | [RODEO](https://open.spotify.com/track/0XHFv970OR2DsFuZ5wphN2) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RODEO](https://open.spotify.com/album/3rJ5KX09jYLvNEVKAaK1oh) | 2:41 | 2024-06-28 | 2024-07-27 |
 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 | 2024-09-05 | 2024-11-15 |
@@ -361,6 +361,7 @@
 | [モノトーン](https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [モノトーン](https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ) | 3:30 | 2024-10-03 | 2024-12-06 |
 | [洗脳](https://open.spotify.com/track/7BwIgYclDsf0Uz9HtmEr7o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [洗脳](https://open.spotify.com/album/05an3ewJsJNLI6ip7yYwJK) | 2:51 | 2024-08-22 | 2024-10-25 |
 | [舞台に立って](https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [舞台に立って](https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku) | 3:27 | 2024-07-25 | 2024-10-04 |
+| [言の刃](https://open.spotify.com/track/7z1bhmlycYsU9QhkaoxgqQ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [言の刃](https://open.spotify.com/album/0p0ymgcHuWEI0jLYLndA6Q) | 3:22 | 2025-01-11 |  |
 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2024-08-12 | 2024-12-06 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61824,
+  "num_followers": 61826,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAjLOE6qexbrqN4QmuWE/GM",
+  "snapshot_id": "Z4BjAAAAAADOmYtESuC8FockuHmkU2ki",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La M\u00e1quina Persona",
         "url": "https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 163846,
       "name": "Si Esto Es",
       "url": "https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
-        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231423,
-      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
-      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feliz Breakup",
         "url": "https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 207185,
       "name": "Feliz Breakup",
       "url": "https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
+        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231423,
+      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
+      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada en el Mundo",
+        "url": "https://open.spotify.com/album/58HK6YSgDmdE7WZ4GIDe3G"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 156543,
+      "name": "Nada en el Mundo",
+      "url": "https://open.spotify.com/track/5RDh1l1UpE76JMSZfllGdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Realismo M\u00e1gico",
         "url": "https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P"
       },
@@ -859,26 +875,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Si nos dejan",
-      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
     },
     {
       "added_at": null,
@@ -915,6 +911,26 @@
       "duration_ms": 263386,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Si nos dejan",
+      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada en el Mundo",
-        "url": "https://open.spotify.com/album/58HK6YSgDmdE7WZ4GIDe3G"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 156543,
-      "name": "Nada en el Mundo",
-      "url": "https://open.spotify.com/track/5RDh1l1UpE76JMSZfllGdJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vu\u00e9lame el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
       },
@@ -991,6 +991,26 @@
       "duration_ms": 201471,
       "name": "A un Paso de Baile de Ti",
       "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     },
     {
       "added_at": null,
@@ -1031,26 +1051,6 @@
       "duration_ms": 235661,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

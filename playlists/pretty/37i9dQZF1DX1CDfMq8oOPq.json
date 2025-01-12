@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 62715,
+  "num_followers": 62761,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Nuvem de Testemunhas - Spotify Singles",
-        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 93377,
-      "name": "Nuvem de Testemunhas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "Eu amo ser negona",
         "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 157013,
       "name": "Eu amo ser negona",
       "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Nuvem de Testemunhas - Spotify Singles",
+        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 93377,
+      "name": "Nuvem de Testemunhas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Date",
-        "url": "https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Date",
-      "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "EPIFANIA",
         "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 213125,
       "name": "LOVE COMMUNITY",
       "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Date",
+        "url": "https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Date",
+      "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
     },
     {
       "added_at": "2024-12-13 13:06:33",

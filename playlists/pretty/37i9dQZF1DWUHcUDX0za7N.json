@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Antiworld Gangsters ",
-  "num_followers": 58332,
+  "num_followers": 58351,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "Te Button",
-        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Te Button",
-      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
         "name": "Year of the Underdogs",
         "url": "https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 184800,
       "name": "YOTU Cypher",
       "url": "https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
+        "name": "Te Button",
+        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Te Button",
+      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "Astaghfirullah",
-        "url": "https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Astaghfirullah",
-      "url": "https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1331,18 +1311,38 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "In Bils We Trust",
-        "url": "https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN"
+        "name": "Astaghfirullah",
+        "url": "https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw"
       },
       "artists": [
         {
-          "name": "Bils",
-          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
         }
       ],
-      "duration_ms": 120750,
-      "name": "Influencer Girl",
-      "url": "https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv"
+      "duration_ms": 160078,
+      "name": "Astaghfirullah",
+      "url": "https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
+        "name": "Afro Jersey",
+        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+      },
+      "artists": [
+        {
+          "name": "Nizzy",
+          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "Afro Jersey",
-        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+        "name": "In Bils We Trust",
+        "url": "https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN"
       },
       "artists": [
         {
-          "name": "Nizzy",
-          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+          "name": "Bils",
+          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
         }
       ],
-      "duration_ms": 140487,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
+      "duration_ms": 120750,
+      "name": "Influencer Girl",
+      "url": "https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv"
     },
     {
       "added_at": "2024-12-19 21:32:13",

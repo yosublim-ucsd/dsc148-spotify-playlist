@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67613,
+  "num_followers": 67614,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 166849,
       "name": "breath away",
       "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Sittin' On Top Of The World",
         "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
       },
@@ -527,22 +511,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Pray for Me",
         "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
       },
@@ -555,6 +523,38 @@
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "duration_ms": 177730,
+      "name": "Prettier",
+      "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 172893,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U"
-      },
-      "artists": [
-        {
-          "name": "JAY1",
-          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
-        }
-      ],
-      "duration_ms": 177730,
-      "name": "Prettier",
-      "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "just want u to feel something",
-        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 170151,
-      "name": "just want u to feel something",
-      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+        "name": "just want u to feel something",
+        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
       },
       "artists": [
         {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+      "duration_ms": 170151,
+      "name": "just want u to feel something",
+      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -959,6 +943,22 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Hey Homie",
-        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189874,
-      "name": "Hey Homie",
-      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 208719,
       "name": "Phone Down",
       "url": "https://open.spotify.com/track/3aapF0aOexc3GMvVuu2Wdw"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Hey Homie",
+        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189874,
+      "name": "Hey Homie",
+      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
     },
     {
       "added_at": "2024-12-20 20:54:00",

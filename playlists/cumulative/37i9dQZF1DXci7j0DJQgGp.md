@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-423 songs - 1 day 2 hr 39 min
+424 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2024-01-16 |  |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-09-16 | 2022-09-20 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 | 2023-01-16 |
+| [Grace](https://open.spotify.com/track/6w6rXsCnYcvDcHU6GMq8fZ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 4:13 | 2024-03-08 |  |
 | [Grow into Love](https://open.spotify.com/track/2D3OzSwTcwuNWWs8MacKqz) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Grow Into Love](https://open.spotify.com/album/07dS6wpMwR5hqfH0Mf8KRp) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-16 | 2024-04-19 |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-06-10 | 2022-09-15 |
@@ -312,7 +313,7 @@
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2022-03-25 | 2022-04-20 |
 | [Second Chance](https://open.spotify.com/track/21bU7CRxpiTtSdQjoTLQ7Q) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Something's Changing](https://open.spotify.com/album/1yQ0RmQJ0dVOMhKfwWfMjG) | 3:23 | 2022-03-25 | 2022-04-18 |
 | [Seems Impossible](https://open.spotify.com/track/6qY4yXWtLEuYJSkf46dNBM) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [becalmyounglovers](https://open.spotify.com/album/2v6unA9iS25xjas5WVHzEE) | 3:54 | 2022-03-25 | 2022-04-20 |
-| [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 | 2021-12-17 |  |
+| [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 | 2021-12-17 | 2025-01-12 |
 | [Shane](https://open.spotify.com/track/35goAAwRgw83du1h0Ulare) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Shane](https://open.spotify.com/album/1WaMYVxngDmjliUb3mcVka) | 3:41 | 2021-12-17 | 2022-07-29 |
 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 | 2022-03-25 | 2023-01-10 |
 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 | 2022-06-10 | 2022-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href=“spotify:artist:5tV1Vm3Zn8D0tmPHohokmC”>Reni Jusis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,947 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,967 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 26 | [Pali się](https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Pali się](https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h) | 2:20 |
 | 27 | [Ludzie z cukru](https://open.spotify.com/track/7f4Dvfkxluuu8ycrH16MZS) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Ludzie z cukru](https://open.spotify.com/album/1WEmH3H9Ks1WHUEH0rd7Wv) | 3:16 |
 | 28 | [Kochaj mnie znów](https://open.spotify.com/track/1CuMmyGktUVQPgiIidI0i3) | [Beata Kozidrak](https://open.spotify.com/artist/0GF5CJ7nKXsMTiWHK4ZQJN) | [Kochaj mnie znów](https://open.spotify.com/album/2nheS04LhjDGCKImcoaQ7o) | 3:44 |
-| 29 | [100 lat zaśpiewam Ci](https://open.spotify.com/track/7vM1uD5sypvcfheIWs6RNG) | [fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [100 lat zaśpiewam Ci](https://open.spotify.com/album/19FDTiTLvafHJ1VjuK317a) | 3:57 |
+| 29 | [100 lat zaśpiewam Ci](https://open.spotify.com/track/7vM1uD5sypvcfheIWs6RNG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [100 lat zaśpiewam Ci](https://open.spotify.com/album/19FDTiTLvafHJ1VjuK317a) | 3:57 |
 | 30 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
 | 31 | [Księżniczki](https://open.spotify.com/track/6eVic4PXw2oqtG2d8KQRxa) | [Inee](https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [13](https://open.spotify.com/album/4Jd1sidpnYmU0fiicPc5qQ) | 3:11 |
 | 32 | [Mam coś na bani](https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Mam coś na bani](https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni) | 4:35 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 618819,
+  "num_followers": 618906,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAkQ4+3JjmyO3innp7MhQH3",
+  "snapshot_id": "Z4BjAAAAAABhuikD0UQUhBP7TegHER7d",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 297877,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+      "duration_ms": 269696,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 297877,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert for a New South Africa (Durban) [Live]",
-        "url": "https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE"
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Love Is - 2024 Mix",
-      "url": "https://open.spotify.com/track/1LirjrKLn5i6Y4YiukHs1P"
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+        "name": "The Concert for a New South Africa (Durban) [Live]",
+        "url": "https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
+      "duration_ms": 197640,
+      "name": "Love Is - 2024 Mix",
+      "url": "https://open.spotify.com/track/1LirjrKLn5i6Y4YiukHs1P"
     },
     {
       "added_at": null,

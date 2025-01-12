@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 325218,
+  "num_followers": 325302,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 211470,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2024-09-02 12:32:28",

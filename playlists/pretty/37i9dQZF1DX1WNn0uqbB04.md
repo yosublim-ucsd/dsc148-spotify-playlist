@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,562 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,565 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 65 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 66 | [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 |
 | 67 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 |
-| 68 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
-| 69 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
+| 68 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
+| 69 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
 | 70 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
 
 Snapshot ID: `Zyj3VgAAAADwmZZQ70MrJz2qJJfphYkH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Jerk x Jollof! <a href="https://www.instagram.com/reel/DEh9W\_xIbtt/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">ICYMI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,901 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,939 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

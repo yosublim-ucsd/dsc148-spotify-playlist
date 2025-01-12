@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,564 likes - 98 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,580 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,6 +105,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 95 | [Better Safe Than Sorry](https://open.spotify.com/track/3EDpF7be60BW9FiRiLNZlR) | [Erica Sjöström](https://open.spotify.com/artist/37jRdbfw8rTJpfOGfER8WT) | [Better Safe Than Sorry](https://open.spotify.com/album/1UhuqoxA7NiCs0M9XeowDh) | 2:43 |
 | 96 | [Look Up](https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:10 |
 | 97 | [Gull](https://open.spotify.com/track/4gmCT6MEmla0z33JAbY8QE) | [iglo](https://open.spotify.com/artist/6mTtwH6HvpnJHVYV9litUu) | [Gull](https://open.spotify.com/album/1ghzwt6OFfWqoR78ehuKfc) | 3:08 |
-| 98 | [Heaven](https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe) | [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [spr1te](https://open.spotify.com/artist/7cpwHwxd59M9Y7d5xjg3n9) | [Heaven](https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN) | 3:35 |
+| 98 | [Heaven](https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe) | [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [Spr1te](https://open.spotify.com/artist/3XHSXSRk6VlYeU47uM8VZP) | [Heaven](https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN) | 3:35 |
 
 Snapshot ID: `Z4DO5gAAAABn9iAeiLusUBxpnmhaek6h`

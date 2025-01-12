@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,262 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,255 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 53 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |
 | 54 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/4weFccuXOr6pFIC58i5cvq) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK), [His Harmonica](https://open.spotify.com/artist/3SZ6jDra9YUYwBfwICOY9p), [Houserockers](https://open.spotify.com/artist/2lB3JZ8mfRSa63NWZs4r6R) | [Merry Christmas Baby \(1950\-1951\)](https://open.spotify.com/album/35QfACrmI15EQdKUSQCZ3o) | 2:34 |
 | 55 | [Happy New Year](https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of](https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8) | 3:17 |
-| 56 | [Santa Claus Is Back In Town](https://open.spotify.com/track/0ZoZqNYk87V3tul0yrwXG0) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [A Very Special Christmas 3](https://open.spotify.com/album/2hEKlY7YRSh80urtq66VgB) | 4:19 |
-| 57 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 |
-| 58 | [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 |
-| 59 | [Please Come Home For Christmas](https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2) | [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 4:22 |
-| 60 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |
+| 56 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 |
+| 57 | [Santa Claus Is Back In Town](https://open.spotify.com/track/0ZoZqNYk87V3tul0yrwXG0) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [A Very Special Christmas 3](https://open.spotify.com/album/2hEKlY7YRSh80urtq66VgB) | 4:19 |
+| 58 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 |
+| 59 | [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 |
+| 60 | [Please Come Home For Christmas](https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2) | [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 4:22 |
 | 61 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 | 62 | [Winter Wonderland](https://open.spotify.com/track/1VN41eUF6GgeZdNIYSVj6b) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:08 |
 | 63 | [Christmas Blues](https://open.spotify.com/track/1zAJrTZdszRzt12vxc0GN3) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Blues for Christmas](https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc) | 5:48 |

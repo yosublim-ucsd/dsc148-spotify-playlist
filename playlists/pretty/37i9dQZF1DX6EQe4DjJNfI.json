@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176486,
+  "num_followers": 176512,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,22 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
+        "name": "Como Posso Amar Assim?",
+        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 193905,
+      "name": "Como Posso Amar Assim?",
+      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
-        "name": "Como Posso Amar Assim?",
-        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 193905,
-      "name": "Como Posso Amar Assim?",
-      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
+        "name": "tudo com voc\u00ea vira arte",
+        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 160416,
+      "name": "tudo com voc\u00ea vira arte",
+      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
-        "name": "tudo com voc\u00ea vira arte",
-        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 160416,
-      "name": "tudo com voc\u00ea vira arte",
-      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
       },
       "artists": [
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+      "duration_ms": 150031,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -499,22 +515,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150031,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-12-20 03:01:12",

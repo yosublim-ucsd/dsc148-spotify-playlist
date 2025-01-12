@@ -15722,12 +15722,12 @@
           "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
         },
         {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
           "name": "G.A",
           "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
         }
       ],
       "date_added": "2025-01-10",
@@ -20957,7 +20957,7 @@
     },
     {
       "album": {
-        "name": "Nave nova",
+        "name": "Nave Nova",
         "url": "https://open.spotify.com/album/2ab1EWZf4kiyLycQ2VyRCA"
       },
       "artists": [
@@ -20974,7 +20974,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159147,
-      "name": "Nave nova",
+      "name": "Nave Nova",
       "url": "https://open.spotify.com/track/4mo9gKEwZ4aoF18dy854fF"
     },
     {
@@ -26260,6 +26260,24 @@
       "duration_ms": 162162,
       "name": "QUEM FAZ A ONDA?",
       "url": "https://open.spotify.com/track/0uzghnGEuqoYslK6pAyaff"
+    },
+    {
+      "album": {
+        "name": "Quer Me Dar Dica ???",
+        "url": "https://open.spotify.com/album/2PxIb5FBWmfIbDJaZn4IPN"
+      },
+      "artists": [
+        {
+          "name": "Deen",
+          "url": "https://open.spotify.com/artist/47fGjlTTUxeh3rcGZYEDDP"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "Quer Me Dar Dica ???",
+      "url": "https://open.spotify.com/track/6Qj0c61bRTkiMbXVPfPCV0"
     },
     {
       "album": {

@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
@@ -1487,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "album": {
         "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
         "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
@@ -1610,7 +1654,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
@@ -1704,7 +1748,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 154076,
       "name": "People Come And Go",
       "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"

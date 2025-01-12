@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-150 songs - 8 hr 0 min
+152 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2024-06-27 |  |
 | [80's](https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [80's](https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV) | 3:30 | 2024-06-27 |  |
 | [A Beautiful Life \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 3:38 | 2024-06-27 |  |
+| [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-06-27 |  |
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-06-27 | 2024-09-02 |
@@ -41,7 +42,7 @@
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 | 2025-01-10 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2024-06-27 |  |
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-06-27 | 2024-07-22 |
-| [December](https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [December](https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2) | 2:41 | 2024-11-21 |  |
+| [December](https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [December](https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2) | 2:41 | 2024-11-21 | 2025-01-12 |
 | [Deep Down \- From the Film ‘The Abyss’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘The Abyss’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2024-06-27 |  |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-11-15 |
@@ -133,6 +134,7 @@
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2024-08-25 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 |  |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2024-06-27 |  |
+| [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 |  |
 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2024-06-27 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-06-27 |  |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-07-20 |
@@ -150,7 +152,7 @@
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2024-06-27 |  |
 | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI) | 3:24 | 2024-06-27 |  |
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2024-06-27 |  |
-| [We Were in Love](https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [We Were in Love](https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6) | 2:39 | 2024-06-27 |  |
+| [We Were in Love](https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [We Were in Love](https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6) | 2:39 | 2024-06-27 | 2025-01-12 |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 |  |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-06-27 | 2024-09-21 |
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-06-27 | 2024-09-13 |

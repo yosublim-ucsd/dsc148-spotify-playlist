@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,994 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,016 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 13 | [Water No Get Enemy](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 11:00 |
 | 14 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
 | 15 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/3LlkLlNseWG7fhcx9h32zW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/7pkfTolBN0Msk96o77wsU7) | 4:30 |
-| 16 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
-| 17 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
+| 16 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
+| 17 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 | 18 | [Ife Si Na Chi](https://open.spotify.com/track/6jKk72CeCmtCG1KaJyaxRB) | [Celestine Ukwu](https://open.spotify.com/artist/2XX5UnnAfyUaPTNsYZWLzB) | [Igede](https://open.spotify.com/album/7dxh76o90e3XcCbTW74WuO) | 5:10 |
 | 19 | [Zombie](https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 12:23 |
 | 20 | [Lagos Party Remix \(feat\. Naeto C, D'Banj, 9ice, eLDee & Muna\)](https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [The W Experience](https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW) | 6:06 |

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-728 songs - 1 day 19 hr 23 min
+729 songs - 1 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 | 2021-12-24 | 2023-06-17 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-08-19 | 2024-09-07 |
 | [brotes \(versión acústica\)](https://open.spotify.com/track/2glJdcppaKzD5mtDaLc0K2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:51 | 2021-12-24 | 2022-07-20 |
+| [Bruja](https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2) | [Nito Serrano y Lapurasangre](https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Bruja](https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D) | 4:33 | 2025-01-10 |  |
 | [Buena Suerte](https://open.spotify.com/track/71iaqPqdztdnNjOtbp7cd6) | [Borja Mompó](https://open.spotify.com/artist/2PWJ25ZIEw45wC8VHW6g4l) | [Buena Suerte](https://open.spotify.com/album/03AcOq36bBDcytuBfI3QWp) | 3:47 | 2021-12-24 | 2022-01-11 |
 | [busco](https://open.spotify.com/track/1dBasjgtFj2VtDLWDmgQQB) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [busco](https://open.spotify.com/album/52gCH61zIwOUaE4XzzXJTp) | 2:58 | 2023-09-29 | 2024-01-27 |
 | [busco](https://open.spotify.com/track/7CwXJzNp7VGBxJSTOEvqeK) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS), [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo) | [busco](https://open.spotify.com/album/0fpZeb0EiEydoprxH1llEn) | 3:01 | 2024-05-30 |  |
@@ -523,7 +524,7 @@
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
 | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR) | 5:00 | 2024-06-21 |  |
-| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 |  |
+| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 | 2025-01-12 |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Profecía](https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Profecía](https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np) | 2:59 | 2024-01-26 | 2024-02-17 |

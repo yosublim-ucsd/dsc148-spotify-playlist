@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12044,
+  "num_followers": 12045,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACuQK7t/faDEHMmBijN2doz",
+  "snapshot_id": "Z4BjAAAAAAC8PdpEjIEFVb+2wO/8Lesq",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Everytime I See My Baby - Remastered",
-      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
+      "duration_ms": 140866,
+      "name": "Let It Be Me - Remastered",
+      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
     },
     {
       "added_at": null,
@@ -499,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of The Delfonics",
-        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 300710,
-      "name": "For the Love I Gave to You",
-      "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Let It Be Me - Remastered",
-      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 118186,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Everytime I See My Baby - Remastered",
+      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of The Delfonics",
+        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 300710,
+      "name": "For the Love I Gave to You",
+      "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 186466,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
     },
     {
       "added_at": null,
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of The Best Vol. 1",
-        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 223082,
-      "name": "Didn't I Blow Your Mind - Re-Record",
-      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
+      "duration_ms": 186466,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Best Vol. 1",
+        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 223082,
+      "name": "Didn't I Blow Your Mind - Re-Record",
+      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Can't Go On Living",
-      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Can't Go On Living",
+      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
     },
     {
       "added_at": null,

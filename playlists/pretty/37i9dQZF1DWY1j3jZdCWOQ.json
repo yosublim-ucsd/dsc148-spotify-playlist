@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 554736,
+  "num_followers": 554812,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -471,6 +455,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
-      },
-      "artists": [
-        {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "The Bidding",
-      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "The Bidding",
+      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
-      "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Beachboy",
         "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Until the Day I Die",
-      "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq"
+      "duration_ms": 187880,
+      "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
+      "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -1043,6 +1027,22 @@
       "duration_ms": 189373,
       "name": "crushcrushcrush",
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Until the Day I Die",
+      "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Tonight (demo)",
-      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
     },
     {
       "added_at": "2024-12-02 16:21:41",

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-415 songs - 1 day 10 hr 40 min
+416 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 |  |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 |  |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 |  |
-| [Antikythera Rddl](https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX), [Distant Fires Burning](https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z) | [R Abacus Lndr](https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf) | 7:12 | 2023-09-22 |  |
+| [Antikythera Rddl](https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX), [Distant Fires Burning](https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z) | [R Abacus Lndr](https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf) | 7:12 | 2023-09-22 | 2025-01-12 |
 | [Apex](https://open.spotify.com/track/50NjjRZnsN4RPr24gTytvQ) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Apex](https://open.spotify.com/album/2Z0EWPd2f9orQ2RQ5kfEel) | 7:36 | 2022-02-11 | 2023-07-29 |
 | [Apparences](https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [L'attente](https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi) | 5:26 | 2022-11-22 | 2024-04-19 |
 | [Apparences](https://open.spotify.com/track/2x70m39lWNsjwgG2bmx2aT) | [Eskadet](https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG) | [Apparences](https://open.spotify.com/album/4DYOGwqjqOBxw1HuC6zjyk) | 5:26 | 2022-03-25 | 2022-07-20 |
@@ -58,6 +58,7 @@
 | [Atmosphere](https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Balmy Evening](https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7) | 3:03 | 2022-10-16 | 2025-01-10 |
 | [Au couchant](https://open.spotify.com/track/7DozGDrYgAFPULqQNU7RMM) | [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Au couchant](https://open.spotify.com/album/5L2MRm6DXOTGEasWuOKta5) | 5:44 | 2023-12-01 |  |
 | [Aun Cyc](https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9) | [Pataphysical](https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC) | [Periphera](https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY) | 4:39 | 2023-08-18 | 2024-12-04 |
+| [Aurora](https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Daze](https://open.spotify.com/album/2L8CyJKXjKp0ohDGgHhCOg) | 2:52 | 2025-01-09 |  |
 | [Automat](https://open.spotify.com/track/3SG6FtF7AErbRaI4g9PBFV) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/6nJGDBiVAFu0fIrO1kc2hH) | 6:10 | 2022-02-18 | 2022-07-26 |
 | [Automat](https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo) | [Recent Arts](https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc), [Tobias Freund](https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX), [Valentina Berthelon](https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW) | [Hypertext](https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi) | 6:10 | 2022-11-22 | 2023-09-22 |
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/5jDMfbG58TUZxTobCpYCBU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI \(Joseph Shabason + Vibrant Matter Remix\)](https://open.spotify.com/album/0HJypKWzMjEfqfqwARGvBl) | 3:56 | 2022-04-01 | 2022-07-29 |

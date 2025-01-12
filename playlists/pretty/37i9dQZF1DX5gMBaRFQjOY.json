@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 509604,
+  "num_followers": 509843,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "I Ain't Never - Single Version",
-      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 146733,
       "name": "It Must Be Love - Single Version",
       "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "duration_ms": 113640,
+      "name": "I Ain't Never - Single Version",
+      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2024-07-05 20:27:10",

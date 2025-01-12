@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,480 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,510 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 14 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 |
 | 15 | [PIJNSTILLERS](https://open.spotify.com/track/7mNXDtOxk8XTx9o73FXySS) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [PIJNSTILLERS / BLAKKA BOY](https://open.spotify.com/album/1gVkIkZN6xBqPhBK72CnHG) | 2:53 |
 | 16 | [Telefoon](https://open.spotify.com/track/3cXw2y6y83RurC7sRF7tOJ) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [SOLO](https://open.spotify.com/album/2zkP3n2mrNgupdJgbWX2k5) | 2:41 |
-| 17 | [Dammie \- REMIX](https://open.spotify.com/track/0seomVGhruiFOkBUSaTyjj) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [Dammie \(REMIX\)](https://open.spotify.com/album/0buwh9wF83aKugKgncvWPu) | 3:30 |
+| 17 | [Dammie \- REMIX](https://open.spotify.com/track/0seomVGhruiFOkBUSaTyjj) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Dammie \(REMIX\)](https://open.spotify.com/album/0buwh9wF83aKugKgncvWPu) | 3:30 |
 | 18 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 19 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 | 20 | [Hoogtevrees](https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoogtevrees](https://open.spotify.com/album/5gyOFMVzZiV8YeT7xsmpss) | 2:39 |

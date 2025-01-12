@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 351898,
+  "num_followers": 351982,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Blackbyrd",
+        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 470546,
       "name": "I'll Stay",
       "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Blackbyrd",
-        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Love Is The Answer (Expanded)",
-        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "Bridge Through Time",
-      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 271800,
       "name": "Dear Limmertz",
       "url": "https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Love Is The Answer (Expanded)",
+        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "Bridge Through Time",
+      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -563,18 +563,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
       "artists": [
         {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Tanya Morgan",
+          "url": "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
         }
       ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
+      "duration_ms": 226920,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -599,26 +607,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
       "artists": [
         {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        },
-        {
-          "name": "Tanya Morgan",
-          "url": "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
         }
       ],
-      "duration_ms": 226920,
-      "name": "All or Nothing",
-      "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "C'\u00e9tait un rendez-vous",
-        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
-      },
-      "artists": [
-        {
-          "name": "Arms and Sleepers",
-          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
-        }
-      ],
-      "duration_ms": 320737,
-      "name": "C'\u00e9tait un rendez-vous",
-      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
-    },
-    {
       "added_at": "2024-08-12 13:49:26",
       "album": {
         "name": "In The Breaks",
@@ -1315,6 +1299,22 @@
       "duration_ms": 289933,
       "name": "In The Breaks",
       "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "C'\u00e9tait un rendez-vous",
+        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+      },
+      "artists": [
+        {
+          "name": "Arms and Sleepers",
+          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+        }
+      ],
+      "duration_ms": 320737,
+      "name": "C'\u00e9tait un rendez-vous",
+      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
       "added_at": "2022-07-14 19:24:43",

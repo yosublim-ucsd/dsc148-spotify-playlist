@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Qing Madi",
-  "num_followers": 591850,
+  "num_followers": 591947,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-01-10 00:01:35",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2025-01-10 00:01:35",
-      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": "2025-01-10 00:01:35",
+      "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2025-01-10 00:01:35",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-01-10 00:01:35",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "hell and back",
-      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
-    },
-    {
-      "added_at": "2025-01-10 00:01:35",
-      "album": {
         "name": "POE",
         "url": "https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206000,
       "name": "POE",
       "url": "https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1"
+    },
+    {
+      "added_at": "2025-01-10 00:01:35",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "hell and back",
+      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
       "added_at": "2025-01-10 00:01:35",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-01-10 00:01:35",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2025-01-10 00:01:35",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2025-01-10 00:01:35",
       "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+    },
+    {
+      "added_at": "2025-01-10 00:01:35",
+      "album": {
         "name": "Hard Guy Confessions",
         "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
@@ -1171,26 +1171,6 @@
       "duration_ms": 234767,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
-    },
-    {
-      "added_at": "2025-01-10 00:01:35",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lagbaja",
-          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "back n forth",
-      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
     },
     {
       "added_at": "2025-01-10 00:01:35",
@@ -1223,6 +1203,26 @@
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
+    },
+    {
+      "added_at": "2025-01-10 00:01:35",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lagbaja",
+          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "back n forth",
+      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
     },
     {
       "added_at": "2025-01-10 00:01:35",

@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 25 min
+90 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 | 2022-06-01 |  |
 | [Distancia Maldita](https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:06 | 2022-06-01 |  |
 | [El Amor De Nosotros](https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Flor De Naranjo](https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3) | 2:30 | 2022-06-17 |  |
+| [El Calabaceado](https://open.spotify.com/track/1oJHl4NMi38rzFTlEItTHF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Calabaceado](https://open.spotify.com/album/70CuV3x2GVtz0b6LI48r4S) | 2:40 | 2025-01-12 |  |
 | [El Careto Y El Comando](https://open.spotify.com/track/0HuP5xLv151vNqT7e7AH9O) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:02 | 2022-06-01 | 2023-11-11 |
 | [El Hijo Del Campo](https://open.spotify.com/track/0DLX5l27nAvkwGRaojT1tp) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:31 | 2024-03-11 | 2024-07-15 |
 | [El Preso de Nuevo León](https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [22 Exitos](https://open.spotify.com/album/1Clyyw4jsXIdcZ9ZXV8GOk) | 3:01 | 2022-06-01 | 2022-10-13 |

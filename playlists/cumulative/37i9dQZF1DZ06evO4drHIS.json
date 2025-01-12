@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks"
+    },
+    {
+      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },

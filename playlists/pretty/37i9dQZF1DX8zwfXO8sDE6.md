@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,437 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,450 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 8 | [SUMMER BLUE](https://open.spotify.com/track/5W4ojZyjeSz4VUzamBodcN) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/0Ph3tt5m0Kvna94MT2BMji) | 3:59 |
 | 9 | [HOLD ME TIGHT](https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:53 |
 | 10 | [ON THE MOVE](https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 5:51 |
-| 11 | [私自身](https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR) | [Ayumi Ishida](https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX), [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [アワー・コネクション](https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1) | 3:19 |
-| 12 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
+| 11 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
+| 12 | [私自身](https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR) | [Ayumi Ishida](https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX), [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [アワー・コネクション](https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1) | 3:19 |
 | 13 | [COBALT HOUR](https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:33 |
 | 14 | [CLOSE YOUR EYES](https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 4:54 |
 | 15 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 39 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
 | 40 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
 | 41 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
-| 42 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
+| 42 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
 | 43 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
 | 44 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
 | 45 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |

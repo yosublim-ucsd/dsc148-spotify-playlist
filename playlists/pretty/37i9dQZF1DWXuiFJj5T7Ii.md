@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 
 > Our editors' picks for best country songs of the year\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,186 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,375 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 15 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 16 | [Think I'm In Love With You](https://open.spotify.com/track/3Gn1zuHNLtGuGEOXwq0k7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:42 |
 | 17 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
-| 18 | [Darlin'](https://open.spotify.com/track/7iY452ThkgaeJ2BU7EuMDj) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Missin' Me Missin' You](https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe) | 2:45 |
+| 18 | [Darlin'](https://open.spotify.com/track/7iY452ThkgaeJ2BU7EuMDj) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [MISSIN' ME MISSIN' YOU](https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe) | 2:45 |
 | 19 | [House Again](https://open.spotify.com/track/6rSxWLdzLKLE07pdKi64wP) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Hudson Westbrook](https://open.spotify.com/album/11p50hPPDIJ02CCECbKdli) | 3:22 |
 | 20 | [I'm Gonna Love You](https://open.spotify.com/track/08wyXJO5ZcqloLYbpufenQ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:08 |
 | 21 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |

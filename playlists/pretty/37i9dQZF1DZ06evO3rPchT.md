@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,320 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,362 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 26 | [AIN'T A BAD DAY](https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:22 |
 | 27 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 | 28 | [Hillbilly Deluxe \(with HARDY\)](https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:28 |
-| 29 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 2:41 |
-| 30 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
+| 29 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
+| 30 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 2:41 |
 | 31 | [A ROCK](https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:40 |
 | 32 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
-| 33 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
-| 34 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/7d97WagcXzbZBibBk5NmcY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:11 |
+| 33 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/7d97WagcXzbZBibBk5NmcY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:11 |
+| 34 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
 | 35 | [Boy From The South \(HARDY feat\. Cole Swindell, Dustin Lynch\)](https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:05 |
 | 36 | [4X4](https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:42 |
 | 37 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 |
 | 50 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 
-Snapshot ID: `Z38RgAAAAABEVwwkRi778rs6JU1iIi7b`
+Snapshot ID: `Z4BjAAAAAAAm4OBmbY2paG4ozMRJmQZI`

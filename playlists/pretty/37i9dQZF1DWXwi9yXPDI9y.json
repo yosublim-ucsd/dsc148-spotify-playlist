@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 140885,
+  "num_followers": 141011,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Show Me The Way To Go Home",
+      "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 163106,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Show Me The Way To Go Home",
-      "url": "https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Jazz 'Round Midnight: Ballads",
         "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 222666,
       "name": "I'm Through With Love",
       "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Amoureusement V\u00f4tre",
         "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -659,6 +643,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Steppin'Out: Astaire Sings",
-        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 284933,
       "name": "My Conception",
       "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Steppin'Out: Astaire Sings",
+        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
         "name": "The Imperious Dinah Washington",
         "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 467626,
       "name": "Diane",
       "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
         "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 181666,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2024-06-03 15:00:13",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-03 15:00:13",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
-    },
-    {
-      "added_at": "2024-06-03 15:00:13",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 528226,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
+    },
+    {
+      "added_at": "2024-06-03 15:00:13",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2024-06-03 15:00:13",

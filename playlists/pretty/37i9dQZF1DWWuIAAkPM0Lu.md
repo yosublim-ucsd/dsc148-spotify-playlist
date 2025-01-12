@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">MAS</a> laver en <a href="spotify:track:04oUfyBc6pT1svmfkYnsZU">Lønningsdag</a> til os 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,037 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,051 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

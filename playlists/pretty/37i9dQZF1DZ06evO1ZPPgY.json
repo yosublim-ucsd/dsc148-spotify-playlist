@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 222780,
+  "num_followers": 222824,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADCL73VwPQmvWnIw980dXFk",
+  "snapshot_id": "Z4BjAAAAAACYj0i7dSy5+Auh1MT++IN5",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Message is Love",
-        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "You're The One I Need",
-      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 276466,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Message is Love",
+        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "You're The One I Need",
+      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 340826,
       "name": "Lady, Sweet Lady",
       "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 467640,
-      "name": "You Turned My Whole World Around",
-      "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 344600,
       "name": "Anything You Want Me To",
       "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 467640,
+      "name": "You Turned My Whole World Around",
+      "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
     },
     {
       "added_at": null,

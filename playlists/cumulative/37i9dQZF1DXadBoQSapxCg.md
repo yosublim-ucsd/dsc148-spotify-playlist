@@ -4,7 +4,7 @@
 
 > Apaga a luz e deixa rolar.
 
-92 songs - 4 hr 59 min
+93 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 | 2023-06-16 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2023-06-16 | 2024-04-19 |
 | [Inconsequente](https://open.spotify.com/track/0SYzDDMpHG1rqlzccSo6gH) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [Espelho](https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6) | 3:22 | 2023-06-16 | 2024-04-19 |
+| [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 | 2025-01-09 |  |
 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 | 2023-06-16 |  |
 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 | 2023-06-16 |  |
 | [Lingerie](https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Lingerie](https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx) | 3:29 | 2023-06-16 |  |
@@ -76,7 +77,7 @@
 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 | 2023-06-16 |  |
 | [Singular](https://open.spotify.com/track/0yTMkAKfAHDSEh4CQhKU26) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Singular](https://open.spotify.com/album/3ffB44QD77vSxTGv95cTFG) | 4:27 | 2023-06-16 | 2024-04-19 |
 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 | 2023-06-16 |  |
-| [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 | 2024-03-08 |  |
+| [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 | 2024-03-08 | 2025-01-12 |
 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 | 2023-06-16 | 2024-10-08 |
 | [STR!PP3R](https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [STR!PP3R](https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9) | 3:07 | 2023-09-29 |  |
 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 | 2023-06-16 |  |

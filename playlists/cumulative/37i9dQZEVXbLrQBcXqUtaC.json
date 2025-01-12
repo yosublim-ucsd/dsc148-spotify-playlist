@@ -544,6 +544,10 @@
         {
           "name": "UdieNnx",
           "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2025-01-03",
@@ -3218,7 +3222,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -8618,7 +8622,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 219962,
       "name": "Gole Naz - \u0645\u0637\u0644\u0648\u0628\u0629 .",
       "url": "https://open.spotify.com/track/3nwJLRabtGse9HNJFbhRa8"
@@ -13036,7 +13040,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv"
@@ -13612,7 +13616,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -17380,7 +17384,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -21324,7 +21328,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21342,7 +21346,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -22190,7 +22194,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -24272,7 +24276,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -25407,6 +25411,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 | \u0627\u0645\u064a\u0634\u0627\u0647\u0627 \u0647\u064a\u0646\u0648 \u060c \u0627\u0644\u0648 \u0627\u0644\u0648 \u062d\u0628\u064a\u0628\u064a \u062d\u0644\u0648 - \u062d\u0644\u0648\u0629 \u0648 \u062a\u062d\u0628\u0646\u064a",
+        "url": "https://open.spotify.com/album/5wSWTQzMaPDbfIX5VbruT4"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
+          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 | \u0627\u0645\u064a\u0634\u0627\u0647\u0627 \u0647\u064a\u0646\u0648 \u060c \u0627\u0644\u0648 \u0627\u0644\u0648 \u062d\u0628\u064a\u0628\u064a \u062d\u0644\u0648 - \u062d\u0644\u0648\u0629 \u0648 \u062a\u062d\u0628\u0646\u064a",
+      "url": "https://open.spotify.com/track/72UIiHVf6KjC7oAItoVxIa"
+    },
+    {
+      "album": {
         "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 | \u0627\u0644\u0644\u0647 \u0648\u064a\u0627\u0647 \u0631\u0627\u062d \u0627\u0646\u0633\u0627\u0647 - \u062a\u0631\u0643 \u0627\u0644\u0631\u0648\u062d \u0628\u0627\u0644\u0645 \u062e\u0644\u0627\u0647\u0627 - \u0628\u0637\u064a\u0626",
         "url": "https://open.spotify.com/album/0xCr0yZd6oyWMkfQELMFCa"
       },
@@ -25688,7 +25710,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 271487,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/55M85JzoZcGUGL3vzqTSNo"
@@ -28322,7 +28344,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 210714,
       "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"

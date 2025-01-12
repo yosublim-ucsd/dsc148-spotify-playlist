@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265043,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO"
+    },
+    {
+      "album": {
         "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11"
       },

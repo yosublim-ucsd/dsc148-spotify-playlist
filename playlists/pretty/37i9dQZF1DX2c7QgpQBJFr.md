@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: SARAFINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,549 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,556 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 33 | [Speciali +](https://open.spotify.com/track/0UwZWPgwJMvdstEZUTEaMl) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Speciali +](https://open.spotify.com/album/5qLvhBeNHl6FgWfSKk7eMn) | 2:58 |
 | 34 | [Acqua](https://open.spotify.com/track/0QDTFzLlUiTNnUBzctA1jC) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Acqua](https://open.spotify.com/album/7de7ckXQSsG6lqqvL3e6VI) | 2:45 |
 | 35 | [Cose che non hai detto](https://open.spotify.com/track/5ts6bgafEMqJXlQacKsgaX) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [Cose che non hai detto](https://open.spotify.com/album/3MuCzplgnRJZ1mpvf36MpO) | 3:26 |
-| 36 | [COSE DA NON FARE MAI:](https://open.spotify.com/track/6E84CSTbmwEJ0orkVbpcCV) | [RYEL](https://open.spotify.com/artist/38Xj1qE3vKhHTLk6hvoo8w) | [COSE DA NON FARE MAI:](https://open.spotify.com/album/0TuClq80NjxI2Ao9UuBs8b) | 2:28 |
+| 36 | [COSE DA NON FARE MAI:](https://open.spotify.com/track/6E84CSTbmwEJ0orkVbpcCV) | [ryel](https://open.spotify.com/artist/6pzPq4qQnjswqcVoX9JYyn) | [COSE DA NON FARE MAI:](https://open.spotify.com/album/0TuClq80NjxI2Ao9UuBs8b) | 2:28 |
 | 37 | [echo](https://open.spotify.com/track/3ifNyXqb7qGcG3py1IyAo3) | [leoluca](https://open.spotify.com/artist/6uoBNsycy2K9rz6rxUE20h) | [echo](https://open.spotify.com/album/3YXyCF3bGireRzLGkfIHJj) | 3:01 |
 | 38 | [Sei Dappertutto](https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 2:32 |
 | 39 | [Erano More](https://open.spotify.com/track/5QPnP4B7BWPV2bnePCG8L2) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Erano More](https://open.spotify.com/album/1OPHsPlARIB1UoHcLQKm1z) | 3:14 |

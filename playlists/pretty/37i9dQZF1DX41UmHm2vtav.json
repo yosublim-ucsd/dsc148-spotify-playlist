@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 476800,
+  "num_followers": 476921,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -407,30 +407,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
         "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 209032,
       "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
       "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -907,30 +907,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Halfway (feat. Twan Ray)",
-        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 158416,
-      "name": "Halfway (feat. Twan Ray)",
-      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -955,6 +931,30 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Halfway (feat. Twan Ray)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 158416,
+      "name": "Halfway (feat. Twan Ray)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -971,6 +971,34 @@
       "duration_ms": 192000,
       "name": "Z\u00e9 do caro\u00e7o",
       "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "TRIXL",
+          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1015,34 +1043,6 @@
       "duration_ms": 177516,
       "name": "Presente do Mar",
       "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "TRIXL",
-          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 160429,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Os Paralamas Do Sucesso - 10 Remixes",
-        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "O Beco - (Tropkillaz Remix)",
-      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
         "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Os Paralamas Do Sucesso - 10 Remixes",
+        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "O Beco - (Tropkillaz Remix)",
+      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1467,6 +1467,30 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Olhos Coloridos (Rap Singulares)",
+        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "MarVixx",
+          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
+        },
+        {
+          "name": "Simone Malafaia",
+          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Olhos Coloridos (Rap Singulares)",
+      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1527,30 +1551,6 @@
       "duration_ms": 209014,
       "name": "A Dois Passos do Para\u00edso - Remix",
       "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     }
   ],
   "unique_name": "Festa na Praia",

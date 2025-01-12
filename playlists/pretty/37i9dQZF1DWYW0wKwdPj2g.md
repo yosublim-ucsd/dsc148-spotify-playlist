@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Preye Odede
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,408 likes - 108 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,439 likes - 108 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

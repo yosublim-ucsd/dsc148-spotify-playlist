@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-3,031 songs - 6 day 17 hr 9 min
+3,032 songs - 6 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2388,6 +2388,7 @@
 | [Rue de l'ours \(feat\. Safia Nolin\) \- Remix](https://open.spotify.com/track/01cCkCZuJIpht5RBWhdyWj) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours \(feat\. Safia Nolin\) \[Remix\]](https://open.spotify.com/album/15optAEiyxZOz7m69YGIdk) | 4:29 | 2022-02-25 | 2022-03-05 |
 | [Rue Freestyle](https://open.spotify.com/track/7H9K48Yn76WID2zjrgLTPc) | [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN) | [Rue Freestyle](https://open.spotify.com/album/0nm8j4kvHnbeTdl5pHC2aO) | 1:04 | 2021-12-31 | 2022-01-22 |
 | [Rue Freestyle 3](https://open.spotify.com/track/7ojviF9wfaNpV54xTra2k2) | [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN) | [Rue Freestyle 3](https://open.spotify.com/album/1GRkHyEBC7D0ELG6EjOLoI) | 1:06 | 2022-03-11 | 2022-03-18 |
+| [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 | 2025-01-10 |  |
 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 | 2022-06-17 | 2022-07-02 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-05-03 | 2024-05-11 |
 | [Réseau](https://open.spotify.com/track/3tQQqlX436aDst7fMfpgFC) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Réseau](https://open.spotify.com/album/58k1RD0gROZwJQpWEH9Atc) | 3:00 | 2025-01-10 |  |
@@ -2437,7 +2438,7 @@
 | [Sans toi](https://open.spotify.com/track/27dE3zWfKbtxLG62bZRVS1) | [Jake and Fanny](https://open.spotify.com/artist/4hbqKOMb7ZdxxMRFv8T6P6) | [Deux](https://open.spotify.com/album/4gYgICLi5ID4syIqIgz6rM) | 2:49 | 2021-12-31 | 2022-01-08 |
 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 | 2024-04-05 | 2024-05-18 |
 | [Sans toi](https://open.spotify.com/track/5QVvxHXCAkx2WVwVH9rGB5) | [Passion Poire](https://open.spotify.com/artist/6O7S83SFDd2xDlCKQmad3l) | [Sans toi](https://open.spotify.com/album/3cPEx5vZJKVzRjVJ9qd1Bv) | 2:46 | 2024-07-05 | 2024-07-13 |
-| [Sans toi](https://open.spotify.com/track/7Bpms8NIDxsJ7lqfyLfoyv) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Stories](https://open.spotify.com/album/6pOnhEjbFYuCube8Mz9b6X) | 3:54 | 2025-01-03 |  |
+| [Sans toi](https://open.spotify.com/track/7Bpms8NIDxsJ7lqfyLfoyv) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Stories](https://open.spotify.com/album/6pOnhEjbFYuCube8Mz9b6X) | 3:54 | 2025-01-03 | 2025-01-12 |
 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 | 2022-09-02 | 2022-09-17 |
 | [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 | 2024-08-30 | 2024-09-07 |
 | [SATAN 3](https://open.spotify.com/track/3kl3bF5F3tBOQDSJQvsjrq) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [VV5](https://open.spotify.com/album/5uUFOGf7Ia6F3j2t1NhB4H) | 3:03 | 2022-12-16 | 2023-01-21 |

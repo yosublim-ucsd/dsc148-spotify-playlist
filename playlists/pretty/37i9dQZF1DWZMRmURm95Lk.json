@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Bassi Maestro in cover per i 30 anni della sua carriera \ud83e\udee1",
-  "num_followers": 44605,
+  "num_followers": 44622,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
         "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
         "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 141090,
       "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1035,18 +1035,26 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+        "name": "Sulla Mappa",
+        "url": "https://open.spotify.com/album/7pLBScHAnbqAPI5hSup5re"
       },
       "artists": [
         {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Dj Jay-K",
+          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
+        },
+        {
+          "name": "Maxi B",
+          "url": "https://open.spotify.com/artist/50Gl7LkqNurrE6MBpoQYlM"
         }
       ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+      "duration_ms": 235280,
+      "name": "Sulla Mappa",
+      "url": "https://open.spotify.com/track/3bpS9D8v6COtrVsGHzI4dh"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1095,26 +1103,18 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Sulla Mappa",
-        "url": "https://open.spotify.com/album/7pLBScHAnbqAPI5hSup5re"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
       "artists": [
         {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Dj Jay-K",
-          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
-        },
-        {
-          "name": "Maxi B",
-          "url": "https://open.spotify.com/artist/50Gl7LkqNurrE6MBpoQYlM"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Sulla Mappa",
-      "url": "https://open.spotify.com/track/3bpS9D8v6COtrVsGHzI4dh"
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Wa Zina (feat. Willie Peyote)",
-        "url": "https://open.spotify.com/album/07xgfzoSPQg8XNSs6ua3W8"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Wa Zina (feat. Willie Peyote)",
-      "url": "https://open.spotify.com/track/5CSmXf8CqvbgE3fLqh1oH9"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
+        "name": "Wa Zina (feat. Willie Peyote)",
+        "url": "https://open.spotify.com/album/07xgfzoSPQg8XNSs6ua3W8"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Wa Zina (feat. Willie Peyote)",
+      "url": "https://open.spotify.com/track/5CSmXf8CqvbgE3fLqh1oH9"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        }
-      ],
-      "duration_ms": 148334,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 193122,
       "name": "Quante Notti (feat. Franco126)",
       "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        }
+      ],
+      "duration_ms": 148334,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1767,30 +1767,18 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
+        "name": "Di vizi di forma virt\u00f9",
+        "url": "https://open.spotify.com/album/1nL50vpMlnJ4cjKzufjslp"
       },
       "artists": [
         {
-          "name": "Joelz",
-          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
-        },
-        {
-          "name": "Dave_Zeta",
-          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
         }
       ],
-      "duration_ms": 242758,
-      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
-      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+      "duration_ms": 197950,
+      "name": "SMS alla madonna",
+      "url": "https://open.spotify.com/track/21KVSTtS8LlWcYUSjbuHZj"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1819,18 +1807,30 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Di vizi di forma virt\u00f9",
-        "url": "https://open.spotify.com/album/1nL50vpMlnJ4cjKzufjslp"
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
       "artists": [
         {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+        },
+        {
+          "name": "Dave_Zeta",
+          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
         }
       ],
-      "duration_ms": 197950,
-      "name": "SMS alla madonna",
-      "url": "https://open.spotify.com/track/21KVSTtS8LlWcYUSjbuHZj"
+      "duration_ms": 242758,
+      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
+      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -1943,30 +1943,6 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Polvere",
-        "url": "https://open.spotify.com/album/1hV0vQLqGdXdUIbWlSD4lE"
-      },
-      "artists": [
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        },
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Polvere",
-      "url": "https://open.spotify.com/track/0ZxyOQxv2taUCbf2azdWmB"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 261810,
       "name": "Black Rain, pt. 2",
       "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
+        "name": "Polvere",
+        "url": "https://open.spotify.com/album/1hV0vQLqGdXdUIbWlSD4lE"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Polvere",
+      "url": "https://open.spotify.com/track/0ZxyOQxv2taUCbf2azdWmB"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
+        "name": "John princekin 2",
+        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
+      },
+      "artists": [
+        {
+          "name": "XVI Religion",
+          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
+        }
+      ],
+      "duration_ms": 357262,
+      "name": "Una svastica sul sole",
+      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
         "name": "Ragazzi fuori",
         "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 189145,
       "name": "Ragazzi fuori",
       "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
-        "name": "John princekin 2",
-        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
-      },
-      "artists": [
-        {
-          "name": "XVI Religion",
-          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
-        }
-      ],
-      "duration_ms": 357262,
-      "name": "Una svastica sul sole",
-      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
         "name": "Formula (feat. Raige & Ensi)",
         "url": "https://open.spotify.com/album/6zyTM0pcUTapaLY9Hb3Au4"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 229629,
       "name": "Formula (feat. Raige & Ensi)",
       "url": "https://open.spotify.com/track/6aJuccoMllaZpSdDiWK1O2"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
+        "name": "IL CUORE E LA FAME",
+        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "4 Secondi",
+      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
         "name": "Amore puro",
         "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
       },
@@ -2571,22 +2587,6 @@
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
-        "name": "IL CUORE E LA FAME",
-        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "4 Secondi",
-      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -2735,50 +2735,6 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
-        "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Ugo Borghetti",
-          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
-        },
-        {
-          "name": "Chiky Realeza",
-          "url": "https://open.spotify.com/artist/7oy0pingNJByahqhT0epVx"
-        },
-        {
-          "name": "Ketama126",
-          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
-        },
-        {
-          "name": "Zinghero",
-          "url": "https://open.spotify.com/artist/2YjJSwI8YUk44D9ZdceX6D"
-        },
-        {
-          "name": "Barrabravas",
-          "url": "https://open.spotify.com/artist/41zZmUOaeKXQNcMxfDaObJ"
-        },
-        {
-          "name": "Luciano Lamanna",
-          "url": "https://open.spotify.com/artist/2bGfoG3BXmcZ0hgDjPcFZf"
-        },
-        {
-          "name": "Funkyman",
-          "url": "https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb"
-        }
-      ],
-      "duration_ms": 296264,
-      "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
-      "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
-    },
-    {
-      "added_at": "2025-01-09 23:01:32",
-      "album": {
         "name": "Scrivo Ancora 3",
         "url": "https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2"
       },
@@ -2827,22 +2783,46 @@
     {
       "added_at": "2025-01-09 23:01:32",
       "album": {
-        "name": "Delacroix",
-        "url": "https://open.spotify.com/album/4JszbcB0Tng0GqCF2gmYUS"
+        "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
+        "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
       },
       "artists": [
         {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         },
         {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+          "name": "Ugo Borghetti",
+          "url": "https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi"
+        },
+        {
+          "name": "Chiky Realeza",
+          "url": "https://open.spotify.com/artist/7oy0pingNJByahqhT0epVx"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Zinghero",
+          "url": "https://open.spotify.com/artist/2YjJSwI8YUk44D9ZdceX6D"
+        },
+        {
+          "name": "Barrabravas",
+          "url": "https://open.spotify.com/artist/41zZmUOaeKXQNcMxfDaObJ"
+        },
+        {
+          "name": "Luciano Lamanna",
+          "url": "https://open.spotify.com/artist/2bGfoG3BXmcZ0hgDjPcFZf"
+        },
+        {
+          "name": "Funkyman",
+          "url": "https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb"
         }
       ],
-      "duration_ms": 121874,
-      "name": "Delacroix",
-      "url": "https://open.spotify.com/track/0mW9Y9YZqGKCON2QJ1HSbB"
+      "duration_ms": 296264,
+      "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
+      "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
     },
     {
       "added_at": "2025-01-09 23:01:32",
@@ -2863,6 +2843,26 @@
       "duration_ms": 159000,
       "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
       "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2025-01-09 23:01:32",
+      "album": {
+        "name": "Delacroix",
+        "url": "https://open.spotify.com/album/4JszbcB0Tng0GqCF2gmYUS"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "Delacroix",
+      "url": "https://open.spotify.com/track/0mW9Y9YZqGKCON2QJ1HSbB"
     },
     {
       "added_at": "2025-01-09 23:01:32",

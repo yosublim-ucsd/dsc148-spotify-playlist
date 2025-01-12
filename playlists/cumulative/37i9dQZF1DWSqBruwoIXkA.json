@@ -6706,7 +6706,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
@@ -15216,6 +15216,24 @@
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189806,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14822,
+  "num_followers": 14824,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Koncert w Rozmarino",
-        "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
-      },
-      "artists": [
-        {
-          "name": "S\u0142awek Wierzcholski",
-          "url": "https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y"
-        },
-        {
-          "name": "Nocna Zmiana Bluesa",
-          "url": "https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I"
-        }
-      ],
-      "duration_ms": 301021,
-      "name": "Polski blues",
-      "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Frukstrakt",
         "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
       },
@@ -1427,18 +1407,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "TiriTaka (Polish Jazz, Vol. 62)",
-        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
+        "name": "Koncert w Rozmarino",
+        "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
       },
       "artists": [
         {
-          "name": "Kazimierz Jonkisz Quintet",
-          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
+          "name": "S\u0142awek Wierzcholski",
+          "url": "https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y"
+        },
+        {
+          "name": "Nocna Zmiana Bluesa",
+          "url": "https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I"
         }
       ],
-      "duration_ms": 369013,
-      "name": "Tiritaka",
-      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
+      "duration_ms": 301021,
+      "name": "Polski blues",
+      "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1467,6 +1451,22 @@
       "duration_ms": 481986,
       "name": "De Joe",
       "url": "https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "TiriTaka (Polish Jazz, Vol. 62)",
+        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
+      },
+      "artists": [
+        {
+          "name": "Kazimierz Jonkisz Quintet",
+          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
+        }
+      ],
+      "duration_ms": 369013,
+      "name": "Tiritaka",
+      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Pokolenie Ko\u0144ca \u015awiata",
+        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
+      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
         "url": "https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 238518,
       "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
       "url": "https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Pokolenie Ko\u0144ca \u015awiata",
-        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
-      },
-      "artists": [
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        }
-      ],
-      "duration_ms": 168351,
-      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
-      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
       "added_at": "2024-03-25 08:52:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 7995,
+  "num_followers": 7997,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABPPncW/ZY84w8T2FZ1R42V",
+  "snapshot_id": "Z4BjAAAAAACpXNfeWrEiTthjCl3XKXHx",
   "tracks": [
     {
       "added_at": null,
@@ -83,18 +83,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extra\u00f1os de Nuevo",
-        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
       "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
       "added_at": null,
@@ -115,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
       },
       "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
     },
     {
       "added_at": null,

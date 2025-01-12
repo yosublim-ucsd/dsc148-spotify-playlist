@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-772 songs - 1 day 10 hr 50 min
+773 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
 | [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 |  |
 | [sea birth](https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [sea birth](https://open.spotify.com/album/2VrDUcY0fGBOoLi7g4khGa) | 2:38 | 2022-01-06 | 2022-01-09 |
+| [Seadragon](https://open.spotify.com/track/7boUHR6t1fhZ3ClhU8lJ3C) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Seadragon](https://open.spotify.com/album/5TsByUC60f0sDd5FjadG1B) | 2:40 | 2024-12-14 |  |
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 |  |
 | [Sector z](https://open.spotify.com/track/4mTFQFFS6bmrtsedqMMGrR) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Kief Tape, Vol\. 1](https://open.spotify.com/album/2am4WMyfxP3HDGRxhB9WjP) | 2:35 | 2022-01-06 | 2022-07-20 |
 | [Sepia Drop](https://open.spotify.com/track/2LQ1CYH5NfUPz5usHviuxB) | [mic.b a.k.a 73Pike Set](https://open.spotify.com/artist/52thcpFLoyqpsYH62cs6QT) | [Moon Trail](https://open.spotify.com/album/0TxbsET65pJcL3G1hkgUZX) | 4:40 | 2021-12-23 | 2022-07-28 |
@@ -633,7 +634,7 @@
 | [STAY](https://open.spotify.com/track/3IDcH2PSdCnmjhi0ycCobL) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [STAY](https://open.spotify.com/album/28f2iwEkztfDPYtperPi1a) | 2:20 | 2022-12-22 | 2023-01-19 |
 | [Stay Around](https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Stay Around](https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5) | 2:01 | 2022-04-07 | 2024-06-04 |
 | [Stay Vision](https://open.spotify.com/track/3Gfh3KyQG1CXIUWkjHBSdh) | [Doubutsu System](https://open.spotify.com/artist/1rZhGbtNcaBkLQ9eRNcyd1) | [Stay Vision](https://open.spotify.com/album/4fFov7GjS6C2JBVWNcqKCZ) | 2:04 | 2021-12-23 | 2022-07-21 |
-| [Step to Your Mind](https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Step to Your Mind](https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V) | 1:36 | 2021-12-23 |  |
+| [Step to Your Mind](https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Step to Your Mind](https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V) | 1:36 | 2021-12-23 | 2025-01-12 |
 | [Steps](https://open.spotify.com/track/1CYBYu49XVfhKk0esW3qUF) | [Katsuya](https://open.spotify.com/artist/6aBNUuE4j0CEyKACJGPFAD) | [CIRCLES](https://open.spotify.com/album/7vF5T5P5rLHeOut7L4Xsy6) | 1:50 | 2022-01-06 | 2022-07-28 |
 | [Still Flyin'](https://open.spotify.com/track/2SGT9gVsBZF7tqfZtPN6zz) | [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Still Flyin'](https://open.spotify.com/album/1oMERc2gPq0z5ajA3MqEtU) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Still Rivers](https://open.spotify.com/track/2aocpfQKBhTKhI8KcpwkQ5) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Still Rivers](https://open.spotify.com/album/2sR542VVLs1dchuyMOMdAA) | 2:18 | 2022-01-13 | 2024-04-29 |
@@ -694,7 +695,7 @@
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
 | [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 | 2023-11-24 |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-11 | 2023-05-05 |
-| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 |  |
+| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 | 2025-01-12 |
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 |  |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 | 2024-04-19 |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |
@@ -771,7 +772,7 @@
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-26 |  |
 | [オダイジン](https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [藤沢 2021](https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV) | 2:30 | 2024-09-25 |  |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
-| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2023-06-30 |
+| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2024-12-09 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |

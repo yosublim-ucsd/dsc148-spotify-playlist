@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: LISA, ROSAL\u00cdA",
-  "num_followers": 83552,
+  "num_followers": 83548,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "killer queen",
-        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
+        "name": "counting crimes",
+        "url": "https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW"
       },
       "artists": [
         {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 178888,
-      "name": "killer queen",
-      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
+      "duration_ms": 182676,
+      "name": "counting crimes",
+      "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "counting crimes",
-        "url": "https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW"
+        "name": "killer queen",
+        "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 182676,
-      "name": "counting crimes",
-      "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
+      "duration_ms": 178888,
+      "name": "killer queen",
+      "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156529,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
-    },
-    {
-      "added_at": "2024-09-19 14:00:00",
-      "album": {
         "name": "please put me in a medically induced coma",
         "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 186902,
       "name": "please put me in a medically induced coma",
       "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
+    },
+    {
+      "added_at": "2024-09-19 14:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 156529,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
     },
     {
       "added_at": "2024-09-19 14:00:00",

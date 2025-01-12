@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,310 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,311 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 26 | [78 flow](https://open.spotify.com/track/4Hp1floq6WB8SLg8OIoa6T) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Опричники](https://open.spotify.com/album/0lO58r3X3BvNQPbCoBHafl) | 1:56 |
 | 27 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 |
 | 28 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
-| 29 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
+| 29 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 30 | [Her loss](https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Royal Bastards](https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs) | 1:26 |
 | 31 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 32 | [Батареи](https://open.spotify.com/track/0Oj8rpo6eiGvJmnLs4ZrkH) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Всё Что Вокруг](https://open.spotify.com/album/28pieKTvyLISIQ4IZBuFXH) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 50 | [hermaeus mora](https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [hermaeus mora](https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60) | 1:27 |
 
-Snapshot ID: `LxSKyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxXeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "amo a natureza / foto: SZA",
-  "num_followers": 610838,
+  "num_followers": 610807,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
-        "name": "AGORA",
-        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "AGORA",
-      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
-        "name": "Girl, so confusing featuring lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -731,6 +711,26 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
         "name": "WE PRAY (TINI Version)",
         "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 198546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
+        "name": "WOMAN\u2019S WORLD",
+        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -903,22 +919,6 @@
       "duration_ms": 213384,
       "name": "the boy is mine (with Brandy, Monica) - Remix",
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
-        "name": "I Never Loved You",
-        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 249530,
-      "name": "I Never Loved You",
-      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
+        "name": "I Never Loved You",
+        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 249530,
+      "name": "I Never Loved You",
+      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
       "added_at": "2024-12-20 20:01:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-20 20:01:22",
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 161976,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
+    },
+    {
+      "added_at": "2024-12-20 20:01:22",
+      "album": {
         "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
         "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
-    },
-    {
-      "added_at": "2024-12-20 20:01:22",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 161976,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
     },
     {
       "added_at": "2024-12-20 20:01:22",

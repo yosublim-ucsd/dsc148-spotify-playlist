@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 554911,
+  "num_followers": 555175,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Youngblood (Acoustic)",
+        "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220995,
+      "name": "Youngblood - Acoustic",
+      "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "Youngblood (Acoustic)",
-        "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 220995,
-      "name": "Youngblood - Acoustic",
-      "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 369105,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "SUGAR EP.",
-        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 369105,
-      "name": "Dove",
-      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Forgive Me Friend (Acoustic Version)",
         "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 228160,
       "name": "Forgive Me Friend - Acoustic Version",
       "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Native (Deluxe)",
+        "url": "https://open.spotify.com/album/0wSR2N7uqWwhJmqXBVeW65"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "If I Lose Myself - Acoustic",
+      "url": "https://open.spotify.com/track/1lYzsAfTHSpJdoKs9nyPhP"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "T-Shirts (Acoustic)",
         "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
       },
@@ -1911,6 +1927,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/5U1JnfMBjhibuXLfJq04g1"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/4I6oc3FccCUbVMOI7hXJzR"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk"
       },
@@ -1927,22 +1959,6 @@
       "duration_ms": 224560,
       "name": "You Don't Know Me - Acoustic Version",
       "url": "https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/5U1JnfMBjhibuXLfJq04g1"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/4I6oc3FccCUbVMOI7hXJzR"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1975,22 +1991,6 @@
       "duration_ms": 178053,
       "name": "Ol' Sweet Day",
       "url": "https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "Native (Deluxe)",
-        "url": "https://open.spotify.com/album/0wSR2N7uqWwhJmqXBVeW65"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "If I Lose Myself - Acoustic",
-      "url": "https://open.spotify.com/track/1lYzsAfTHSpJdoKs9nyPhP"
     },
     {
       "added_at": "2024-07-01 15:02:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 669862,
+  "num_followers": 670105,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADr5R/llE2Zt2OW6LfvYipK",
+  "snapshot_id": "Z4BjAAAAAAD9E483rc60qJsNkryPBDsL",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
+      "duration_ms": 161773,
+      "name": "Somebody\u2019s Problem",
+      "url": "https://open.spotify.com/track/42lqBjPYlmL1EXpMDXvhSN"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 161773,
-      "name": "Somebody\u2019s Problem",
-      "url": "https://open.spotify.com/track/42lqBjPYlmL1EXpMDXvhSN"
+      "duration_ms": 147893,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
     },
     {
       "added_at": null,

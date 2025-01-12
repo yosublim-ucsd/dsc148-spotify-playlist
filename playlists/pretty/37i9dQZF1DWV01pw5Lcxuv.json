@@ -1,6 +1,6 @@
 {
   "description": "Las que nunca pasan de moda. ",
-  "num_followers": 612012,
+  "num_followers": 612064,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
@@ -35,22 +35,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-05-07 19:49:34",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Living In The Background",
         "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 378946,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 255760,
       "name": "Conga",
       "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Gracias Por La Musica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 333133,
       "name": "Chiquitita - Spanish Version",
       "url": "https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
     },
     {
       "added_at": "2024-05-07 19:49:34",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 166731,
-      "name": "Hagamos Un Trato",
-      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Al Norte Del Sur",
         "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 309973,
       "name": "Louis",
       "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 166731,
+      "name": "Hagamos Un Trato",
+      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
     },
     {
       "added_at": "2021-05-21 05:05:27",

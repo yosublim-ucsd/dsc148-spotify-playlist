@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Noche De Enciclopedia",
+        "url": "https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Noche De Enciclopedia",
+      "url": "https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ"
+    },
+    {
+      "album": {
         "name": "Otro Perdedor",
         "url": "https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD"
       },

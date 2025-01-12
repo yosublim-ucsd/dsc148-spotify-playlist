@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 152470,
       "name": "BETO",
       "url": "https://open.spotify.com/track/7kw7SFD6fFF4aaGOcGHOVD"
@@ -13294,7 +13294,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -23572,7 +23572,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 173488,
       "name": "num\u0103r\u00e2nd victorii",
       "url": "https://open.spotify.com/track/5t01Xfv8tF0qwxTlqXilX5"
@@ -28518,7 +28518,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 238016,
       "name": "R\u0102GU\u0218IT",
       "url": "https://open.spotify.com/track/5eDUjRGEYTvEtlGUIOR7Mh"
@@ -31182,7 +31182,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 140314,
       "name": "SPUNE-MI",
       "url": "https://open.spotify.com/track/7L7fhdO5F0tPnt6ILSgj58"
@@ -31848,10 +31848,32 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 180666,
       "name": "Stuff (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
+    },
+    {
+      "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Stuff (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
     },
     {
       "album": {
@@ -31990,7 +32012,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/7fuZr7YvNC22Ld6FjOMfXy"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Oscar Ortiz y Los Primos del Este ",
-  "num_followers": 273854,
+  "num_followers": 273863,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
         "name": "Los Remixes 2.0",
         "url": "https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 226333,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
+        "name": "Besar Tu Piel (Con Buenos Aires) [En Vivo]",
+        "url": "https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Besar Tu Piel (Con Buenos Aires) - En Vivo",
+      "url": "https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 157058,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
-        "name": "Besar Tu Piel (Con Buenos Aires) [En Vivo]",
-        "url": "https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Besar Tu Piel (Con Buenos Aires) - En Vivo",
-      "url": "https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1815,8 +1815,8 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "No me llames m\u00e1s",
-        "url": "https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ"
+        "name": "Solo Para Entendidos (En Vivo)",
+        "url": "https://open.spotify.com/album/4RtIpsti0qbITAECVct2JI"
       },
       "artists": [
         {
@@ -1824,9 +1824,9 @@
           "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
         }
       ],
-      "duration_ms": 196667,
-      "name": "No me llames m\u00e1s",
-      "url": "https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b"
+      "duration_ms": 121476,
+      "name": "El Humo Del Cigarrillo - En Vivo",
+      "url": "https://open.spotify.com/track/269oxRs2kMDnAJGkWie7oy"
     },
     {
       "added_at": "2025-01-05 18:13:53",

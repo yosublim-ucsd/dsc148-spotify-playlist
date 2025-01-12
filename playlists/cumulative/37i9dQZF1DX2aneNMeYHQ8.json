@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 160882,
       "name": "Death Valley High",
       "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 182000,
       "name": "Does Only God Know That We're Lonely?",
       "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 209922,
       "name": "Get a Life",
       "url": "https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG"
@@ -4080,6 +4080,24 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "album": {
+        "name": "I Got It Bad For You",
+        "url": "https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "I Got It Bad For You",
+      "url": "https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS"
     },
     {
       "album": {
@@ -6227,6 +6245,28 @@
     },
     {
       "album": {
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK"
       },
@@ -6470,6 +6510,24 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
     },
     {
       "album": {
@@ -6905,6 +6963,28 @@
     },
     {
       "album": {
+        "name": "Room On Your Shoulder",
+        "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Room On Your Shoulder",
+      "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
+    },
+    {
+      "album": {
         "name": "Rubberband Man",
         "url": "https://open.spotify.com/album/2VpwH6aLll433843htWOL6"
       },
@@ -7121,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
+    },
+    {
+      "album": {
         "name": "scream!",
         "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
       },
@@ -7150,7 +7248,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 411742,
       "name": "Screamland",
       "url": "https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB"
@@ -9996,7 +10094,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 276076,
       "name": "Zombie (Wild Coming Out)",
       "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"

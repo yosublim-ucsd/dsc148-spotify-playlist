@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 681692,
+  "num_followers": 681860,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 164545,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 220177,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "GOLDEN HOUR : Part.1",
-        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 172381,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "GOLDEN HOUR : Part.1",
+        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 172381,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -967,38 +967,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186570,
-      "name": "Sugar Rush Ride",
-      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -1019,18 +987,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1051,6 +1019,38 @@
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 187310,
       "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
       "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "TAP - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "TAP",
-      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "TAP",
+      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "The 4th Mini Album 'VERSUS'",
-        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "KISS OF LIFE",
         "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 165135,
       "name": "BIBI Vengeance",
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "The 4th Mini Album 'VERSUS'",
+        "url": "https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
+        "name": "A Giant Step",
+        "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 316944,
+      "name": "AEAO",
+      "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
         "name": "SAD SONG",
         "url": "https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 199122,
       "name": "Pretty Savage",
       "url": "https://open.spotify.com/track/28tufPkTcXmdNqTvi9hsoG"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "Twicetagram",
-        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/6Jkcg39vqttJezD7nfqrSj"
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8"
     }
   ],
   "unique_name": "Energy Booster: K-Pop",

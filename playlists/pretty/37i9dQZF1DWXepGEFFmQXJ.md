@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,108 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,362 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 9 | [Blue](https://open.spotify.com/track/6FK7WhvGRjkSoHKtE7P3OW) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Blue](https://open.spotify.com/album/2KIFJECaJaGKFQJFgH5dzA) | 3:31 |
 | 10 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 |
 | 11 | [Drunk Love](https://open.spotify.com/track/4rKhNylzPiJGKFMq7rn8tn) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Drunk Love](https://open.spotify.com/album/6gChKbfnQ9grgqW6xx80LZ) | 4:00 |
-| 12 | [Dancing In The Rain](https://open.spotify.com/track/0JIot0cZgFmg9XZarQHBIe) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Dancing In The Rain](https://open.spotify.com/album/2pa962JOvurrfZEz9q4Kq1) | 2:38 |
+| 12 | [DANCING IN THE RAIN](https://open.spotify.com/track/0JIot0cZgFmg9XZarQHBIe) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [DANCING IN THE RAIN](https://open.spotify.com/album/2pa962JOvurrfZEz9q4Kq1) | 2:38 |
 | 13 | [Midnight in Texas](https://open.spotify.com/track/3ZyktpL0Wgc6bqUytmb8EM) | [John Hart](https://open.spotify.com/artist/6ayfFEJZpuJX47KjRfO4hr), [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Midnight in Texas](https://open.spotify.com/album/6DcOE0ERFOgWiMDJGPcber) | 4:03 |
 | 14 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 |
 | 15 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 |

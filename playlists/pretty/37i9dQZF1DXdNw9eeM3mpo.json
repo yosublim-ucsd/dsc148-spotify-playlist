@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 472838,
+  "num_followers": 472903,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,18 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Emulsion de Skape",
-        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
       "artists": [
         {
-          "name": "La Matatena",
-          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
-        },
-        {
-          "name": "Desorden P\u00fablico",
-          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
         }
       ],
-      "duration_ms": 143200,
-      "name": "Ste Ska",
-      "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
+      "duration_ms": 299253,
+      "name": "Solo un Minuto",
+      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -727,18 +723,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+        "name": "Emulsion de Skape",
+        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+          "name": "La Matatena",
+          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
+        },
+        {
+          "name": "Desorden P\u00fablico",
+          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
         }
       ],
-      "duration_ms": 299253,
-      "name": "Solo un Minuto",
-      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
+      "duration_ms": 143200,
+      "name": "Ste Ska",
+      "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 248371,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
         "name": "Revoluci\u00f3n Ska",
         "url": "https://open.spotify.com/album/2RAOafSouYFgyEKRzUQala"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "En La Tormenta",
         "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
       "artists": [
         {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
       "artists": [
         {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1215,22 +1231,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 190012,
+      "name": "El Peor Momento",
+      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 190012,
-      "name": "El Peor Momento",
-      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 142252,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 142252,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
     },
     {
       "added_at": "2025-01-10 06:00:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Bad Bunny, Franz Ferdinandand, yama×WurtS, 優里 and more! cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,511 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,518 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 70 | [Wonder](https://open.spotify.com/track/483U0QATlToljk5Kb35RAM) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wonder](https://open.spotify.com/album/1GDNevtXNRMvKs0NiYbU6O) | 2:23 |
 | 71 | [Rephobia](https://open.spotify.com/track/1wwykqXZsUaT8KM8qEXBTA) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [Rephobia](https://open.spotify.com/album/6ITY7GpWZo610E1tKEc6fs) | 5:33 |
 | 72 | [It's Not Over](https://open.spotify.com/track/1Bj6JeWfju9qTFzD6PTLhd) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [The End Will Show Us How](https://open.spotify.com/album/0tQNVwSxVYCwaEa8HfHCd4) | 4:52 |
-| 73 | [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 73 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 74 | [blue eyes](https://open.spotify.com/track/3J7qngUlqAQOgyKEmYZkLp) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [blue eyes](https://open.spotify.com/album/7KIHq0QV9uwLcmbmZzU6LV) | 2:56 |
 | 75 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 |
 | 76 | [Happy Ever After You](https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v) | 3:17 |

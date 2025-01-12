@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen.
 
-916 songs - 2 day 2 hr 36 min
+917 songs - 2 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-21 | 2023-04-02 |
 | [Hollow](https://open.spotify.com/track/6034K3E2tySzsHMMqZZbA0) | [Farrah](https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [Hollow](https://open.spotify.com/album/3s7pP00cy4RdoSo5w7VygD) | 3:00 | 2021-08-06 | 2022-07-21 |
 | [Holoban](https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Holoban](https://open.spotify.com/album/3ePY1PKYkLYZqTZ6mwXRU4) | 2:33 | 2024-04-04 | 2024-04-12 |
-| [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 | 2024-12-19 |  |
+| [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 | 2024-12-19 | 2025-01-12 |
 | [Home](https://open.spotify.com/track/73AJKu43I5e6MsTBYaNcfM) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH) | [Colors of Your Heart](https://open.spotify.com/album/2X1QKZakJ970AjXhaKH6oi) | 2:37 | 2022-06-03 | 2023-05-13 |
 | [Home](https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:14 | 2021-08-06 | 2023-02-04 |
 | [Honest](https://open.spotify.com/track/1k3J7o5b0tDUzbllLycVUJ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Honest](https://open.spotify.com/album/7t6TgWkJUkrtbMtcpk7sh0) | 3:48 | 2021-08-06 | 2023-02-11 |
@@ -494,6 +494,7 @@
 | [Look Into My Eyes](https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [2:M](https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs) | 3:40 | 2024-12-12 |  |
 | [Losing My Mind](https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [The Deep End](https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD) | 3:26 | 2022-06-03 | 2023-05-13 |
 | [Lost](https://open.spotify.com/track/2gPlXEZuNmKwbS6GGcfsJ9) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Lind](https://open.spotify.com/artist/6ZQBXGkfsnDOQjTnb2lGMI) | [Lost](https://open.spotify.com/album/7oxGGHmcPDXDWxnRnnoQCv) | 2:17 | 2024-07-25 | 2024-08-09 |
+| [Lost In Mumbai \- IMANU Remix](https://open.spotify.com/track/0VWayAeovmiY52OeltaRo9) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Antagonist Remixes \(Part II\)](https://open.spotify.com/album/3hnm57ktjH8oJcses785xf) | 3:23 | 2025-01-09 |  |
 | [lost it](https://open.spotify.com/track/4jWAiDWY7915SrymRWvITL) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8), [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [lost it](https://open.spotify.com/album/4zchaqOOhhE7b4bDfdXjp6) | 3:50 | 2023-10-05 | 2023-10-08 |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2023-11-09 | 2024-07-19 |
 | [Lost Someone](https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG) | [HAELIUM](https://open.spotify.com/artist/2BTb9bZeph6qXO5EmjVbbm) | [Lost Someone](https://open.spotify.com/album/3WWjgicP39dV8MUWRV1uIL) | 3:44 | 2021-08-06 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 272239,
+  "num_followers": 272340,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bear Cat / Walkin' in the Rain",
         "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 170057,
       "name": "Bear Cat",
       "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",

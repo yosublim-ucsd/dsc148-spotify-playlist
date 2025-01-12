@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 820 likes - 277 songs - 14 hr 1 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 821 likes - 278 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 275 | [The Bad End](https://open.spotify.com/track/2t9WfgABrzFz8mf1mneGaq) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:11 |
 | 276 | [Birthday Song](https://open.spotify.com/track/4D9ySWAIUxMWdWeNmsLuva) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:18 |
 | 277 | [Puro Dance](https://open.spotify.com/track/17lvuXGfdOBXEact6fPlPQ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:10 |
+| 278 | [Buttered Toast](https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Buttered Toast](https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS) | 3:57 |
 
-Snapshot ID: `AAABTLvAnj9670dDKqGi69hzGp1jF7w8`
+Snapshot ID: `AAABTRQXT92Du9J4vtiWaL6lAw9+67NJ`

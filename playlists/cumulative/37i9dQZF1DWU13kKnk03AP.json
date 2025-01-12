@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "By Your Side (In My Mind)",
+        "url": "https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177148,
+      "name": "By Your Side (In My Mind)",
+      "url": "https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89"
+    },
+    {
+      "album": {
         "name": "Pacifico (Deluxe)",
         "url": "https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A"
       },
@@ -2897,6 +2915,32 @@
     },
     {
       "album": {
+        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
+    },
+    {
+      "album": {
         "name": "Confetti (feat. Saweetie)",
         "url": "https://open.spotify.com/album/2EDgDBPKLD7o6JVYyWKCxu"
       },
@@ -3018,7 +3062,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
@@ -8816,7 +8860,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 190790,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6"

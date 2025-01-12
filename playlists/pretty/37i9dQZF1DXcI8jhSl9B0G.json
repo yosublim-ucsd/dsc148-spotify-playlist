@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74975,
+  "num_followers": 74972,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Oh My Girl",
+        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
+      },
+      "artists": [
+        {
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+        }
+      ],
+      "duration_ms": 168393,
+      "name": "Oh My Girl",
+      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
@@ -479,26 +495,6 @@
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "5am Paradise (Acoustic) [Sunrise Version]",
-        "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        },
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "5am Paradise (Acoustic) - Sunrise Version",
-      "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Oh My Girl",
-        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
+        "name": "5am Paradise (Acoustic) [Sunrise Version]",
+        "url": "https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4"
       },
       "artists": [
         {
-          "name": "Freight Train Foxes",
-          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
         }
       ],
-      "duration_ms": 168393,
-      "name": "Oh My Girl",
-      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
+      "duration_ms": 203300,
+      "name": "5am Paradise (Acoustic) - Sunrise Version",
+      "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 215147,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Where'd You Go",
         "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 219479,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 215147,
+      "name": "Where the Light Is",
+      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Race",
         "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205999,
       "name": "The Race",
       "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Sweetest Days",
-        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "The Sweetest Days",
-      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Winner Takes It All",
         "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 319798,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Wanna Be with You",
-        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Wanna Be with You",
-      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Hit or Miss",
         "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 235280,
       "name": "Laundromat",
       "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Wanna Be with You",
+        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Wanna Be with You",
+      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",

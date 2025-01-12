@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1080083,
+  "num_followers": 1080145,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABFRbLUoHV5+YN8w8N2H4eW",
+  "snapshot_id": "Z4BjAAAAAACdkafDQKb6CAY88GeKzpQO",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 286466,
       "name": "Bridge Burning",
       "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 266533,
       "name": "Dear Rosemary",
       "url": "https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": null,

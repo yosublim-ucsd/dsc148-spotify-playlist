@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4299,
+  "num_followers": 4300,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAA6xnPpc85vT9SCt6qa665C",
+  "snapshot_id": "Z4BjAAAAAADSAQSG9oiWhHWhj4djRZ8w",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mientras",
         "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 190540,
       "name": "Mientras",
       "url": "https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
       "duration_ms": 188924,
       "name": "Agradezco",
       "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Mestizo",
+      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 187226,
       "name": "Mi Ciudad Es Fresca",
       "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Mestizo",
-      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
     },
     {
       "added_at": null,
@@ -879,6 +879,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Hood",
+        "url": "https://open.spotify.com/album/28aKhF6U8oavtisSPOqwsw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "One Hood",
+      "url": "https://open.spotify.com/track/4BngReMiuIjovvG7LAel8T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -919,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hood",
-        "url": "https://open.spotify.com/album/28aKhF6U8oavtisSPOqwsw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Foyone",
-          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "One Hood",
-      "url": "https://open.spotify.com/track/4BngReMiuIjovvG7LAel8T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rap Conciencia",
         "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
       },
@@ -959,6 +959,26 @@
       "duration_ms": 232560,
       "name": "Las Cinco Rosas",
       "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": null,
@@ -983,26 +1003,6 @@
       "duration_ms": 224071,
       "name": "Colombianos World Wide",
       "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emancipaci\u00f3n",
+        "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 234056,
+      "name": "Emancipaci\u00f3n",
+      "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 183809,
       "name": "Hijos de los D\u00edas",
       "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emancipaci\u00f3n",
-        "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 234056,
-      "name": "Emancipaci\u00f3n",
-      "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"
     },
     {
       "added_at": null,

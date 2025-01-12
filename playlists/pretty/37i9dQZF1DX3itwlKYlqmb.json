@@ -1,6 +1,6 @@
 {
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
-  "num_followers": 93354,
+  "num_followers": 93391,
   "original_name": "La Albercada",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 193933,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Todo a Su Tiempo",
-        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 238240,
-      "name": "Todo a Su Tiempo",
-      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1155,22 +1171,6 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 168511,
       "name": "Entre las de 20",
       "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
     },
     {
       "added_at": "2024-11-27 00:07:48",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-11-27 00:07:48",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2024-11-27 00:07:48",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+    },
+    {
+      "added_at": "2024-11-27 00:07:48",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2024-11-27 00:07:48",

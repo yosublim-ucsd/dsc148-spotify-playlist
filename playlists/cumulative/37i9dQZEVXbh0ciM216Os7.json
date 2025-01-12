@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 246853,
       "name": "A Melancholy",
       "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 286200,
       "name": "Brynhildirs Vrede",
       "url": "https://open.spotify.com/track/2YmbhctU2TrCombmTSCkEZ"
@@ -16301,6 +16301,24 @@
     },
     {
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "album": {
         "name": "IAMFUNK!",
         "url": "https://open.spotify.com/album/0X2RC4BA6Bs6GTj9zicPUz"
       },
@@ -18584,6 +18602,40 @@
       "duration_ms": 202937,
       "name": "Hymn to Virgil",
       "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
+    },
+    {
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
     },
     {
       "album": {
@@ -21172,7 +21224,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 260019,
       "name": "K.O.T.J.",
       "url": "https://open.spotify.com/track/5GJhYH1QYXwKD7gTE39oyM"
@@ -22448,7 +22500,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 185666,
       "name": "laughter",
       "url": "https://open.spotify.com/track/0g77ZCFjyV1cWkWN3MVVYd"
@@ -23042,7 +23094,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 215652,
       "name": "Lift Me Up (feat. Moby)",
       "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
@@ -23854,6 +23906,24 @@
       "duration_ms": 204923,
       "name": "Loaded Gun",
       "url": "https://open.spotify.com/track/2kt75Q0nhLQRD3458eN5Mw"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
       "album": {
@@ -26058,7 +26128,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -28695,6 +28765,48 @@
     },
     {
       "album": {
+        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166861,
+      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
+    },
+    {
+      "album": {
         "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
         "url": "https://open.spotify.com/album/66ifWgXVUmxAaVaaOYqkYm"
       },
@@ -30974,6 +31086,28 @@
       "duration_ms": 138270,
       "name": "Pierre-feuille",
       "url": "https://open.spotify.com/track/44vnhlt0FqQUE1zW2n22A6"
+    },
+    {
+      "album": {
+        "name": "Pink Dreads",
+        "url": "https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120417,
+      "name": "Pink Dreads",
+      "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
     },
     {
       "album": {
@@ -38856,7 +38990,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
@@ -41987,6 +42121,24 @@
     },
     {
       "album": {
+        "name": "trouble",
+        "url": "https://open.spotify.com/album/3l54dy6FmhlacUqizE6aYE"
+      },
+      "artists": [
+        {
+          "name": "ocean sixteen",
+          "url": "https://open.spotify.com/artist/0Pwqw5EGBF7yk6Dvs1W5c2"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157431,
+      "name": "trouble",
+      "url": "https://open.spotify.com/track/44SzxGEURZ5PP79gwnbomI"
+    },
+    {
+      "album": {
         "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
       },
@@ -42696,7 +42848,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 241040,
       "name": "Until I\u2019m Gone",
       "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"

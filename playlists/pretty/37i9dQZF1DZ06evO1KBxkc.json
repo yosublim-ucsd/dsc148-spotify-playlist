@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 200751,
+  "num_followers": 200753,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAEqsdv2EzzToYGiSBiwX+R",
+  "snapshot_id": "Z4BjAAAAAACTJ/IDiqM2Aqt1lgWNMkWB",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 205702,
       "name": "24 Hours (feat. Lil Durk) [Bonus]",
       "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 213360,
       "name": "Somebody (feat. Future)",
       "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Did Me Wrong",
-      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
       "added_at": null,

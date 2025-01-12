@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Fejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,478 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,060 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 3 | [Beevi](https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Beevi](https://open.spotify.com/album/3iNJIpyJQCMr2qC2vZ3d8X) | 2:59 |
 | 4 | [SAMBAR](https://open.spotify.com/track/4fGVuqgcERFN92zNeUbvAp) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [SAMBAR](https://open.spotify.com/album/2hmXetO6cB2A8UtYctz1ul) | 3:44 |
 | 5 | [Varavu](https://open.spotify.com/track/4z4Ga5Q74ME9wQZKvP2keQ) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Varavu](https://open.spotify.com/album/2jCaTaMTrZZ0yb3eGp4a4L) | 2:33 |
-| 6 | [Thollal](https://open.spotify.com/track/66u5SJ10AGPHpBREOhZFhW) | [NISHAD MECHERI](https://open.spotify.com/artist/5GkjcNLMN7z0ayMhCSWb7p), [NAJRAN KABEER](https://open.spotify.com/artist/3GyKlyUkAUXO5JkMgD4ar4), [Ashi](https://open.spotify.com/artist/78J4tTMn2yVUt7k9jwMzCz) | [Thollal](https://open.spotify.com/album/3rNFIhf2s1s7Q37scScpdA) | 3:54 |
+| 6 | [Thollal](https://open.spotify.com/track/66u5SJ10AGPHpBREOhZFhW) | [NISHAD MECHERI](https://open.spotify.com/artist/5GkjcNLMN7z0ayMhCSWb7p), [NAJRAN KABEER](https://open.spotify.com/artist/3GyKlyUkAUXO5JkMgD4ar4), [Ashi](https://open.spotify.com/artist/1r4Ag1UH92ToySUnpmsHaL) | [Thollal](https://open.spotify.com/album/3rNFIhf2s1s7Q37scScpdA) | 3:54 |
 | 7 | [The Chorakkali](https://open.spotify.com/track/7iBx8S3ik0ElAnfRKzTThY) | [Achu Kumaran](https://open.spotify.com/artist/0ysT4lXaEJIiG1pHnjQrlb), [Abhijith Manoj](https://open.spotify.com/artist/444BdW7e1Pp5GQfuai58Ui), [Jayadevan Vasudevan](https://open.spotify.com/artist/5x77C2AOuGSfRt2S6bxJTO) | [The Chorakkali](https://open.spotify.com/album/4vx7AOHXCid4qV9yf9lFMF) | 2:15 |
 | 8 | [Minnal Pinar \- Red Bull 64 Bars](https://open.spotify.com/track/7MKITouwx3C8lS8bWqEJTr) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Minnal Pinar \(Red Bull 64 Bars\)](https://open.spotify.com/album/212I9yWYp3ytaW7hN3Zl2b) | 3:07 |
 | 9 | [VARANAM](https://open.spotify.com/track/3PJgW0Mo7h8GLlNaK3ZGwA) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Simmo](https://open.spotify.com/artist/1jKClD0DpaGTCeUVlWEjbm) | [VARANAM](https://open.spotify.com/album/0J2B5OG4xZOES7Y5ThALtt) | 2:12 |

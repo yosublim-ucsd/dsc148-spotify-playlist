@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 144674,
       "name": "ESCAPATE",
       "url": "https://open.spotify.com/track/6HrALJOMsfPCCbUo5cJCON"
@@ -7930,7 +7930,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ"
@@ -19401,6 +19401,24 @@
     },
     {
       "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/6jjRjYFUvTOVltEByTJnWn"
+      },
+      "artists": [
+        {
+          "name": "Alexa Ferrari",
+          "url": "https://open.spotify.com/artist/6DyPa98UKrIJWeqjOTZlng"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150315,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/0I4XVXrfsSXXpfu0fKh9SI"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -21312,7 +21330,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

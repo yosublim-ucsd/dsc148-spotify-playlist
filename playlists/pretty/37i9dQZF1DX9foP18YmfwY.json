@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 341357,
+  "num_followers": 341420,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Acima dos Telhados (Acoustic)",
         "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 395298,
       "name": "Acima dos Telhados - Acoustic",
       "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
+        "name": "Seguir Viagem",
+        "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Carpejani",
+          "url": "https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW"
+        }
+      ],
+      "duration_ms": 218599,
+      "name": "Seguir Viagem",
+      "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
         "name": "\u00d3 Maria Concebida",
         "url": "https://open.spotify.com/album/5Mn9pjNvcGtEHxCmPCOKIJ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 252500,
       "name": "E Voc\u00ea Vem",
       "url": "https://open.spotify.com/track/3lWTUXrp5oMAttsBdPnrqO"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
-        "name": "Seguir Viagem",
-        "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Carpejani",
-          "url": "https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW"
-        }
-      ],
-      "duration_ms": 218599,
-      "name": "Seguir Viagem",
-      "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
     },
     {
       "added_at": "2024-12-20 03:01:13",

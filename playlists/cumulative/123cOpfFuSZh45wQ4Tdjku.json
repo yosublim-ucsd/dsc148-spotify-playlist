@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Buttered Toast",
+        "url": "https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS"
+      },
+      "artists": [
+        {
+          "name": "Arctica The Fox",
+          "url": "https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237562,
+      "name": "Buttered Toast",
+      "url": "https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe"
+    },
+    {
+      "album": {
         "name": "Candlelight",
         "url": "https://open.spotify.com/album/2XvwA3Qv4G9Rx58TZUlhHz"
       },

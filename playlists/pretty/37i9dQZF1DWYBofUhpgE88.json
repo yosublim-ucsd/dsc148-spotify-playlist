@@ -1,6 +1,6 @@
 {
   "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f  ",
-  "num_followers": 352765,
+  "num_followers": 352772,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -939,30 +939,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 144210,
       "name": "TT LE GIRLZ (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Freestyler (Rock The Microphone)",
         "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 174000,
       "name": "Freestyler (Rock The Microphone)",
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        }
-      ],
-      "duration_ms": 149091,
-      "name": "HELLO KITTY (feat. Sillyelly)",
-      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "duration_ms": 149091,
+      "name": "HELLO KITTY (feat. Sillyelly)",
+      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "COME UN TUONO (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 179545,
       "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
       "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "COME UN TUONO (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "SOUTH OF FRANCE (REMIX)",
         "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 183919,
       "name": "SOUTH OF FRANCE - REMIX",
       "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-12-13 06:01:24",

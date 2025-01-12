@@ -4,7 +4,7 @@
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 16 min
+40 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 | 2023-04-02 |  |
 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 | 2023-04-02 |  |
 | [Feels Like Music](https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:05 | 2023-04-02 |  |
+| [God Did It](https://open.spotify.com/track/6MdvwmSn9YUJNn2tC4A7dk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Did It](https://open.spotify.com/album/7LwKfcVB3TofLntabYDKBl) | 2:49 | 2025-01-12 |  |
 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 | 2023-04-02 |  |
 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 | 2023-04-02 |  |
 | [If She Only Knew](https://open.spotify.com/track/5l14L8mxpCQKA0cHYJowHt) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:24 | 2023-04-02 | 2023-12-27 |

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Lisandro Aristimu\u00f1o.",
-  "num_followers": 26401,
+  "num_followers": 26403,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "21 DE ENERo",
         "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 174954,
       "name": "21 DE ENERo",
       "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
+        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 277351,
+      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
+      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "El Viejo",
         "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 209261,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
-        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 277351,
-      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
-      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
-      },
-      "artists": [
-        {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
-        }
-      ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "UNDESASTRE",
         "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "T\u00c1",
-        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Ana Mar\u00eda",
-      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -499,6 +483,22 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -835,22 +835,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Sampa",
-        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+        "name": "Nace una Madre",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 269540,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+      "duration_ms": 144545,
+      "name": "Nace una Madre",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -871,18 +867,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Nace una Madre",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+        "name": "Sampa",
+        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Nace una Madre",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 269540,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Recuerdos de Ypacara\u00ed",
         "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Lo cant\u00e9",
-        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
-      },
-      "artists": [
-        {
-          "name": "Florencia N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
-        }
-      ],
-      "duration_ms": 246812,
-      "name": "Lo cant\u00e9",
-      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Las Mareas",
         "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 194085,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Lo cant\u00e9",
+        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
+      },
+      "artists": [
+        {
+          "name": "Florencia N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
+        }
+      ],
+      "duration_ms": 246812,
+      "name": "Lo cant\u00e9",
+      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
-        }
-      ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Hunde",
+        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
+      },
+      "artists": [
+        {
+          "name": "Patuco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
+        },
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "El \u00daltimo Mate",
+      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "De Un Fulgor a Otro",
         "url": "https://open.spotify.com/album/7ftmbJGtDgGLGCnfJWEdqG"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 274748,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Hunde",
-        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
-      },
-      "artists": [
-        {
-          "name": "Patuco L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
-        },
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "El \u00daltimo Mate",
-      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "LIVE SESSION",
+        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
+      },
+      "artists": [
+        {
+          "name": "Joaquin del Mundo",
+          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Felipa y la Luna",
+      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 191339,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "LIVE SESSION",
-        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
-      },
-      "artists": [
-        {
-          "name": "Joaquin del Mundo",
-          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Felipa y la Luna",
-      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
     },
     {
       "added_at": "2024-12-20 03:00:01",

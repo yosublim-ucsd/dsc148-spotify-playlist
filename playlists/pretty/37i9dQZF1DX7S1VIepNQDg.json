@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Don't Really Care",
+        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Don't Really Care",
+      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "die young",
         "url": "https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 164732,
       "name": "die young",
       "url": "https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Don't Really Care",
-        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
-      },
-      "artists": [
-        {
-          "name": "Djanaba",
-          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Don't Really Care",
-      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
     },
     {
       "added_at": "2023-12-19 09:07:27",

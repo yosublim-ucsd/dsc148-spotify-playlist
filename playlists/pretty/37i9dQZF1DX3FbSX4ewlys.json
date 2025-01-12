@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 43731,
+  "num_followers": 43757,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -199,6 +183,22 @@
       "duration_ms": 217573,
       "name": "Genie In a Bottle",
       "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Adicion",
         "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 253000,
       "name": "Manto Estelar",
       "url": "https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2024-07-05 01:24:37",

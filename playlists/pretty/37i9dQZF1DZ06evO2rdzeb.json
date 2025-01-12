@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 12512,
+  "num_followers": 12536,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAC9tP6hu4CIeg/cvY7HT5cy",
+  "snapshot_id": "Z4BjAAAAAADPemHjleGOr6dJ/f24zDR2",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+      "duration_ms": 173253,
+      "name": "A Love of Some Kind",
+      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "A Love of Some Kind",
-      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,723 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,983 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 90 | [JT Coming](https://open.spotify.com/track/3Ur9zMHlzsCTnuEW9vXNyT) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 1:47 |
 | 91 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
 | 92 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
-| 93 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:00 |
+| 93 | [F U 2x](https://open.spotify.com/track/2ubNuGSCWRRxUfojPRebiA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:57 |
 | 94 | [She Different \(feat\. Hunxho\)](https://open.spotify.com/track/0e2ZX4GqBX7dqU4pyYrraq) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [I Control My Destiny](https://open.spotify.com/album/6fWjCSSbTChMFfqrWSkpun) | 2:52 |
 | 95 | [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 |
 | 96 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Smokey](https://open.spotify.com/track/1Y1HWLs5X8Umezek2FwLMM) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Personification](https://open.spotify.com/album/5KTBzUMO8wPc2DxWI0x9Hj) | 3:13 |
 | 100 | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [4AM at Coffee Zone \(Florida Avengers\)](https://open.spotify.com/album/66NR2OZONVrcKdN8ukHxgX) | 2:45 |
 
-Snapshot ID: `Z4CpdgAAAAA9ZyqAt9jcn6E+6MChk+F0`
+Snapshot ID: `Z4KzhAAAAAA29akASIwzsYra1bSip7rG`

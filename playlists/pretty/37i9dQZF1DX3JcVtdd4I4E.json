@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7140,
+  "num_followers": 7143,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+        "name": "Fuck Off",
+        "url": "https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ"
       },
       "artists": [
         {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 171899,
-      "name": "Pluto - Bonus Track",
-      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+      "duration_ms": 172800,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fuck Off",
-        "url": "https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Fuck Off",
-      "url": "https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn"
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 218454,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "911",
-      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "And Then Came You",
-        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 195909,
-      "name": "And Then Came You",
-      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162389,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "And Then Came You",
+        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 195909,
+      "name": "And Then Came You",
+      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201026,
       "name": "I Should\u2019ve Danced More",
       "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Don't Know Love",
-        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "I Don\u2019t Know Love",
-      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -895,6 +879,38 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "I Don't Know Love",
+        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "I Don\u2019t Know Love",
+      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Roses N Guns",
         "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
       },
@@ -923,38 +939,6 @@
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 144051,
       "name": "Wishing well",
       "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 168411,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Lupins In Blue",
         "url": "https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc"
       },
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Effort",
-        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
       },
       "artists": [
         {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 151947,
-      "name": "Effort",
-      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "THE ONE AFTER ME",
-        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 147859,
-      "name": "COFFEE REMIX",
-      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
+      "duration_ms": 168411,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 138953,
       "name": "glued to the floor",
       "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "THE ONE AFTER ME",
+        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 147859,
+      "name": "COFFEE REMIX",
+      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Backa",
-        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
-      },
-      "artists": [
-        {
-          "name": "Zoe Lobos",
-          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
-        }
-      ],
-      "duration_ms": 158388,
-      "name": "Backa",
-      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 178454,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Legend of Ely",
+        "url": "https://open.spotify.com/album/7Ci2YH3SZUO6mk2djiHH7J"
+      },
+      "artists": [
+        {
+          "name": "Ely Eira",
+          "url": "https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Legend (Fortress)",
+      "url": "https://open.spotify.com/track/6j0WPaER95jkSIWRTxMatl"
     }
   ],
   "unique_name": "GRL PWR",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT takes you back to the pop scene of the mid 2010s as Meghan Trainor's Title is turning 10\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,492 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300,603 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

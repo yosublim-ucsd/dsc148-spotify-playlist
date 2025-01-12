@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi?si=8qAf3MaYSQODbI4Vns1YKA">Dominic Neill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,460 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wild for the Night](https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Wild for the Night](https://open.spotify.com/album/2LlX6jiXRlwc0FgIaNde96) | 2:51 |
+| 1 | [wild for the night](https://open.spotify.com/track/04kGR7jjWKNFmh4ymVBUg9) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [wild for the night](https://open.spotify.com/album/2LlX6jiXRlwc0FgIaNde96) | 2:51 |
 | 2 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
 | 3 | [Falling](https://open.spotify.com/track/1K7Cdvi2IZ1wdDtYLpGCo6) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:42 |
 | 4 | [Nothing But Love](https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Nothing But Love](https://open.spotify.com/album/5CZ7DmZ5Wjpat1kI11RcLK) | 2:23 |

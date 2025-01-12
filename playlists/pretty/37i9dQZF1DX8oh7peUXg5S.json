@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Valeria Castro.",
-  "num_followers": 334523,
+  "num_followers": 334742,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "50 Palos",
         "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 185743,
       "name": "Humo",
       "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 241937,
       "name": "Un D\u00eda de Estos",
       "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Ajuste de cuentas",
-        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
       "artists": [
         {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
+      "duration_ms": 256894,
+      "name": "Puede Ser Que la Conozcas",
+      "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+        "name": "Ajuste de cuentas",
+        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
       },
       "artists": [
         {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
         }
       ],
-      "duration_ms": 256894,
-      "name": "Puede Ser Que la Conozcas",
-      "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
+      "duration_ms": 242586,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
+        "name": "Les Seves Primeres Can\u00e7ons",
+        "url": "https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke"
+      },
+      "artists": [
+        {
+          "name": "Lluis Llach",
+          "url": "https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0"
+        }
+      ],
+      "duration_ms": 144680,
+      "name": "L'estaca",
+      "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 308333,
       "name": "Un Solo Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
-        "name": "Les Seves Primeres Can\u00e7ons",
-        "url": "https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke"
-      },
-      "artists": [
-        {
-          "name": "Lluis Llach",
-          "url": "https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0"
-        }
-      ],
-      "duration_ms": 144680,
-      "name": "L'estaca",
-      "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"
     },
     {
       "added_at": "2025-01-09 16:18:10",

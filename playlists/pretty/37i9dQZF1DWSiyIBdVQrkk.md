@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,245,710 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,245,866 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 100 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 |
 | 101 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 102 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
-| 103 | [Dash Wata](https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:53 |
-| 104 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
+| 103 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
+| 104 | [Dash Wata](https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:53 |
 | 105 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 106 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
 | 107 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |

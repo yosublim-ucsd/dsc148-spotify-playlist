@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href=“spotify:artist:1hQJVFqdypfYIUK91Pzadr”>Karolina Prasał</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,161 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,198 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

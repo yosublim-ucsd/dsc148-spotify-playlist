@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 655307,
+  "num_followers": 655507,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABjGCdpXfokhd8/bZpnhDfT",
+  "snapshot_id": "Z4BjAAAAAAChxNLyJzZ++foRwqD/ckx1",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me When It\u2019s Over",
-        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 296933,
-      "name": "Tell Me When It\u2019s Over",
-      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessings and Miracles",
         "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 226853,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me When It\u2019s Over",
+        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 296933,
+      "name": "Tell Me When It\u2019s Over",
+      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": null,

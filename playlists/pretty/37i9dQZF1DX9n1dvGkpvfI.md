@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="spotify:artist:4FZ3j1oH43e7cukCALsCwf">Jack White</a> and the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,904 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,913 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

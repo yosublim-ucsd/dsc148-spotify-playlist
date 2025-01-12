@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,773 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,807 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 21 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
 | 22 | [Amigos](https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 2:54 |
 | 23 | [Aún Sigo Cantando](https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:21 |
-| 24 | [Conciencia Contrareloj](https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:57 |
+| 24 | [No Me Verás](https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 3:50 |
 | 25 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
-| 26 | [No Me Verás](https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 3:50 |
+| 26 | [Conciencia Contrareloj](https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:57 |
 | 27 | [Mil Horas \- En Vivo](https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:16 |
-| 28 | [Simulacro de Tensión](https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:30 |
+| 28 | [Dale Pascual](https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 3:14 |
 | 29 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
-| 30 | [Dale Pascual](https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 3:14 |
+| 30 | [Simulacro de Tensión](https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:30 |
 | 31 | [Buscando la Manera](https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habia Una Vez](https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C) | 2:59 |
-| 32 | [Solo Dame Otra Oportunidad](https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 4:31 |
-| 33 | [Y Ahora Te Vas](https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Y Ahora Te Vas](https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP) | 4:19 |
-| 34 | [Era Un Angel](https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 3:35 |
+| 32 | [Y Ahora Te Vas](https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Y Ahora Te Vas](https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP) | 4:19 |
+| 33 | [Era Un Angel](https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 3:35 |
+| 34 | [Solo Dame Otra Oportunidad](https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 4:31 |
 | 35 | [El Ataque de las Chicas Cocodrilo \(En Vivo\)](https://open.spotify.com/track/7qQTnO5dsxAn6iNDqC7w9l) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:09 |
 | 36 | [Tan Solo Un Instante](https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:24 |
 | 37 | [Sos un Perdedor](https://open.spotify.com/track/3ksGCNSE0jPcGPA1hTH9Ij) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 49 | [Piel De Nopal](https://open.spotify.com/track/7dTbN5bleSdRYghCppUAUI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:06 |
 | 50 | [Tequila \- En Vivo](https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:06 |
 
-Snapshot ID: `Z38RgAAAAADJcmVEch7aE55vOvSgSgPl`
+Snapshot ID: `Z4BjAAAAAABqywH4EofsxG2nR+pqPbZV`

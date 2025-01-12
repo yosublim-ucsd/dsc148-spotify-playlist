@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,001 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,124 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 64 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |
 | 65 | [Cocaine Model](https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 4:15 |
 | 66 | [I Wanna Feel \- Radio Edit](https://open.spotify.com/track/1rj4TnlFsWbxjMXdCCsrzt) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel \(Remixes\)](https://open.spotify.com/album/4JGh8iizIHkiMm6GrRf43u) | 3:05 |
-| 67 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
-| 68 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
+| 67 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
+| 68 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
 | 69 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 70 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 |
 | 71 | [My Heart](https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT) | 4:26 |

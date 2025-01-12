@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34731,
+  "num_followers": 34742,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADy4U8JBAXSjZkjmdpYdC4N",
+  "snapshot_id": "Z4BjAAAAAABY4EU7Vbe/UWvzlcqe0G+J",
   "tracks": [
     {
       "added_at": null,
@@ -335,30 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Quer F1 Com o G?",
-        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "T\u00e1 Jogando Demais",
-      "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pede Chamando de Amor",
         "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 119248,
       "name": "Pede Chamando de Amor",
       "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem Quer F1 Com o G?",
+        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "T\u00e1 Jogando Demais",
+      "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrocha da Treta",
         "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 144013,
       "name": "Arrocha da Treta (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darma",
         "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/00ABHTTYd120ikzA4XkZwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bate Com Vontade (Remix)",
-        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
-      },
-      "artists": [
-        {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Tarik Lima",
-          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Bate Com Vontade - Remix",
-      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Cara do Abacaxi Classic",
         "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 145750,
       "name": "Empurra Empurra",
       "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
+      },
+      "artists": [
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
+        }
+      ],
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade - Remix",
+      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nois Bate com a Polpa da Bunda",
+        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Nois Bate com a Polpa da Bunda",
+      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PANCADA",
         "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
       },
@@ -1055,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nois Bate com a Polpa da Bunda",
-        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Nois Bate com a Polpa da Bunda",
-      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentando no Pula Pula",
         "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 174962,
       "name": "Sentando no Pula Pula",
       "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Se T\u00e1 Maravilhosa",
-        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
-      },
-      "artists": [
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Como Se T\u00e1 Maravilhosa",
-      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
     },
     {
       "added_at": null,
@@ -1167,6 +1147,26 @@
       "duration_ms": 511029,
       "name": "SET COQUETEL MOLOTOV",
       "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Se T\u00e1 Maravilhosa",
+        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Como Se T\u00e1 Maravilhosa",
+      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
     },
     {
       "added_at": null,
@@ -1367,34 +1367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catucad\u00e3o",
-        "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
-      },
-      "artists": [
-        {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
-        }
-      ],
-      "duration_ms": 138900,
-      "name": "Catucad\u00e3o",
-      "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Sigilo (Medley Delas)",
         "url": "https://open.spotify.com/album/2E5N59Rpxao35WYArCIEzo"
       },
@@ -1419,6 +1391,34 @@
       "duration_ms": 225230,
       "name": "No Sigilo (Medley Delas)",
       "url": "https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catucad\u00e3o",
+        "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 138900,
+      "name": "Catucad\u00e3o",
+      "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
     },
     {
       "added_at": null,

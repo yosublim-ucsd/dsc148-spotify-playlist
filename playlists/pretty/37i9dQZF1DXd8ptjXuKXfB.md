@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,628 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,646 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 49 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 |
 | 50 | [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 |
 | 51 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
-| 52 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
+| 52 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 |
 | 53 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 |
 | 54 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 |
-| 55 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 |
+| 55 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
 | 56 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 |
 | 57 | [Mámor](https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:56 |
-| 58 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
+| 58 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 59 | [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 |
 | 60 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 | 61 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 74 | [C'est la vie](https://open.spotify.com/track/0JXcCXu1MGlMg7UBsbAv2z) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [C'est la vie](https://open.spotify.com/album/50HT256QPt4DIkxnLZps0e) | 3:14 |
 | 75 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 |
 | 76 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
-| 77 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 |
-| 78 | [KINT VAGYOK A SORON](https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:04 |
+| 77 | [KINT VAGYOK A SORON](https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:04 |
+| 78 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 |
 | 79 | [15](https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:24 |
 | 80 | [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 |
 

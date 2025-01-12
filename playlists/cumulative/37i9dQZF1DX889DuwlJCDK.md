@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ハク。
 
-906 songs - 2 day 7 hr 3 min
+907 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Kiosk](https://open.spotify.com/track/2KXFAXPhgBmGVMOjwwuyVI) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Kiosk](https://open.spotify.com/album/1OkQBtiXuNatib4zGprcPN) | 2:23 | 2024-03-13 | 2024-03-20 |
 | [kiosk](https://open.spotify.com/track/3wWr0nKtfzZ8rmooyRzDMr) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [kiosk](https://open.spotify.com/album/10LhGyloC0ETF9uPtqdjVr) | 2:23 | 2024-03-12 | 2024-03-14 |
 | [kirakirayou](https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [kirakirayou](https://open.spotify.com/album/384GpFtH2AIVEienGR2CgF) | 3:08 | 2023-09-20 | 2023-09-27 |
-| [kit!](https://open.spotify.com/track/1o2bK85qJSopkUmPIq5B6T) | [Epifunnies](https://open.spotify.com/artist/740qWJg44PuvjiyaO5mhKA) | [kit!](https://open.spotify.com/album/1j2THTUy1e3Lnik0K8HGY5) | 5:33 | 2024-12-24 |  |
+| [kit!](https://open.spotify.com/track/1o2bK85qJSopkUmPIq5B6T) | [Epifunnies](https://open.spotify.com/artist/740qWJg44PuvjiyaO5mhKA) | [kit!](https://open.spotify.com/album/1j2THTUy1e3Lnik0K8HGY5) | 5:33 | 2024-12-24 | 2025-01-12 |
 | [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 | 2024-01-31 | 2024-03-06 |
 | [Koiwamoumoku](https://open.spotify.com/track/01cPDnLoiWyCl0Sj9G5xjd) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Koiwamoumoku](https://open.spotify.com/album/14Ef8OVGMVRFNsBdeCmRxi) | 3:29 | 2024-01-23 | 2024-02-21 |
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-14 | 2023-12-20 |
@@ -216,6 +216,7 @@
 | [Love Song ga Iranai Kimi e](https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Love Song ga Iranai Kimi e](https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN) | 3:43 | 2024-01-16 | 2024-02-07 |
 | [Love you](https://open.spotify.com/track/6EiYkXXJoDyTNDvIL8UiYk) | [NALUCK](https://open.spotify.com/artist/2pJw4suJbxO2ZUhNQMwJOq) | [piece](https://open.spotify.com/album/5oSSCIICpZWjsKHSMzMErq) | 3:59 | 2023-12-05 | 2023-12-13 |
 | [lowkey](https://open.spotify.com/track/0Zhvac48LN24ULEtZaAeWr) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [酸いも甘いも、好きも嫌いも](https://open.spotify.com/album/5sCWQBhe39iThEpiTGnCGI) | 2:57 | 2023-10-31 | 2023-11-22 |
+| [LSD](https://open.spotify.com/track/1CaHQd528Xcn0Jrj6rxjaM) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [pink II](https://open.spotify.com/album/4Qh5vpPfJWDvC51dtBKbXL) | 3:17 | 2025-01-09 |  |
 | [LUCKY BOY](https://open.spotify.com/track/5assUIrvcCBk6wTw0YLNYT) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [LUCKY BOY](https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA) | 2:32 | 2024-09-17 | 2024-10-02 |
 | [Lunch Box](https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [Lunch Box](https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf) | 1:18 | 2025-01-07 |  |
 | [Lūcifer](https://open.spotify.com/track/1RtC6BpTJcChw0901aHqXu) | [ko shinonome](https://open.spotify.com/artist/14cmTPiiGSZZ3gW6AWAp10), [Riho Nishikata](https://open.spotify.com/artist/4xU4KNUaARwgoW0LYDYwq8) | [Lūcifer](https://open.spotify.com/album/2Z8REeACZ10kZyLfWkTcZl) | 3:21 | 2024-12-03 | 2024-12-11 |

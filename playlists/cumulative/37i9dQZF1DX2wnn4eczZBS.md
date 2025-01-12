@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: S10
 
-135 songs - 7 hr 6 min
+138 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ademwolken \(Hier en Nu\)](https://open.spotify.com/track/53QPiRUZWgHn5jvjTh4GIq) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ademwolken \(Hier en Nu\)](https://open.spotify.com/album/60IY4NX6lsq6V4U3nXCHuA) | 3:24 | 2024-07-25 | 2024-10-23 |
 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 | 2024-10-22 |  |
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
+| [Als Ik Verdwaal](https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Als Ik Verdwaal](https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9) | 2:33 | 2025-01-10 |  |
 | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/track/3yKjaxF1VWjzJXJ1uL8l03) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB) | 3:24 | 2024-09-12 | 2025-01-11 |
 | [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 | 2024-11-21 |  |
 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 | 2025-01-10 |  |
@@ -27,8 +28,9 @@
 | [Boter, Kaas en Eieren](https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Calls From The Hull vol\. III](https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y) | 1:45 | 2024-10-09 | 2025-01-11 |
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 | 2024-08-02 |
 | [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 |  |
+| [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 |  |
 | [Deze Stilte](https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Deze Stilte](https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV) | 2:29 | 2024-09-13 | 2025-01-11 |
-| [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 |  |
+| [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 | 2025-01-12 |
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 | 2024-09-13 |  |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 | 2024-10-25 |
@@ -90,9 +92,9 @@
 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-07 |  |
 | [Mijn Naam is Niemand](https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Mijn Naam Is Niemand](https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw) | 3:22 | 2024-06-26 | 2024-10-25 |
 | [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 |  |
-| [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 |  |
+| [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
-| [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 |  |
+| [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 | 2025-01-12 |
 | [NEEM ER EEN BIJ MEID](https://open.spotify.com/track/6vdctqis5ixBZewv7oC08f) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [MAR & AR VAN BOTER BIJ DE VIS](https://open.spotify.com/album/7bAO1sGEqCU6iIj0xRpJdM) | 2:50 | 2024-06-27 | 2024-07-27 |
 | [Niet Meer Los\(t\)](https://open.spotify.com/track/7FlKQRrHWiz6joBJyW7KHk) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Niet Meer Los\(t\)](https://open.spotify.com/album/6dlyRC7jWaZHKScKx6J2t0) | 3:17 | 2024-11-14 | 2025-01-11 |
 | [Niets Is Voor Altijd](https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu) | [ANNABELLE](https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H) | [Niets Is Voor Altijd](https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW) | 3:07 | 2024-06-26 | 2024-07-06 |
@@ -133,6 +135,7 @@
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 | 2024-08-02 |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-09-12 |  |
+| [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 | 2025-01-10 |  |
 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-06-26 | 2024-07-19 |
 | [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:23 | 2024-06-26 | 2024-10-10 |
 | [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 | 2024-10-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,759 likes - 50 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,837 likes - 50 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 17 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 |
 | 18 | [Shivoham](https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:29 |
 | 19 | [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [His Holiness The Dalai Lama](https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 |
-| 20 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
-| 21 | [The End Of Suffering](https://open.spotify.com/track/29cXtyDKRZXqS5tGgVgK2F) | [Gary Malkin](https://open.spotify.com/artist/7cZvGGhX1EVTClGSqhrvtY), [Thich Nhat Hanh](https://open.spotify.com/artist/270IOtdDWXOUR4YZXMUFJZ), [Dan Alvarez](https://open.spotify.com/artist/3AlqldQ9PkBDPfXjPIggFW) | [Graceful Passages](https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX) | 7:13 |
+| 20 | [The End Of Suffering](https://open.spotify.com/track/29cXtyDKRZXqS5tGgVgK2F) | [Gary Malkin](https://open.spotify.com/artist/7cZvGGhX1EVTClGSqhrvtY), [Thich Nhat Hanh](https://open.spotify.com/artist/270IOtdDWXOUR4YZXMUFJZ), [Dan Alvarez](https://open.spotify.com/artist/3AlqldQ9PkBDPfXjPIggFW) | [Graceful Passages](https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX) | 7:13 |
+| 21 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
 | 22 | [Medicine Buddha](https://open.spotify.com/track/7jNagGQtwQxeAFoJAhPDia) | [Tinna Tình](https://open.spotify.com/artist/6PYJL7J4R74JFJBpobiyO3) | [Buddhist Mantras, Vol\. 1](https://open.spotify.com/album/1oOuBr8IZQ6PLvT5nLzC0t) | 7:36 |
 | 23 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 |
 | 24 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 |

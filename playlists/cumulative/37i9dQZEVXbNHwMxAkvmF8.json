@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Doktor - Torz",
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
@@ -11916,7 +11916,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 159677,
       "name": "Kettesben",
       "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
@@ -13872,6 +13872,36 @@
       "duration_ms": 31653,
       "name": "M3",
       "url": "https://open.spotify.com/track/1mr4BzyaEMawNo1KqnaEyn"
+    },
+    {
+      "album": {
+        "name": "Ma Este Trap",
+        "url": "https://open.spotify.com/album/2aoQqRKgVDxF0tX9Guwl7w"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Szalai",
+          "url": "https://open.spotify.com/artist/7kDEAMv0Mem8bBG4vwoENq"
+        },
+        {
+          "name": "Susa",
+          "url": "https://open.spotify.com/artist/2SKopMv2qSNLLxFI7X4tgZ"
+        },
+        {
+          "name": "Bal\u00e1zs-Piri Soma",
+          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192432,
+      "name": "Ma Este Trap",
+      "url": "https://open.spotify.com/track/4hAOLBADBfH8cWCH2sGYDu"
     },
     {
       "album": {
@@ -17402,7 +17432,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -22496,7 +22526,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "SZ\u00cdVTIPR\u00d3",
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
@@ -26340,7 +26370,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 181672,
       "name": "Without You (feat. Sandro Cavazza)",
       "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"

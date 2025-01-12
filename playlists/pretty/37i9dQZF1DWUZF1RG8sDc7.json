@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 142851,
+  "num_followers": 142934,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Muere una Flor",
-      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "40 Vallenatos Poderosos",
         "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 294746,
       "name": "Paro de Mi Corazon",
       "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Muere una Flor",
+      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Son los Gigantes",
-        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Vivo por Ti",
-      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 264720,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Son los Gigantes",
+        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Vivo por Ti",
+      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Dime pajarito",
-      "url": "https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -1083,18 +1067,42 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+        "name": "La Combinaci\u00f3n Vallenata",
+        "url": "https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO"
       },
       "artists": [
         {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
           "name": "Binomio de Oro de Am\u00e9rica",
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        },
+        {
+          "name": "Alex Manga",
+          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
         }
       ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
+      "duration_ms": 272533,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Dime pajarito",
+      "url": "https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

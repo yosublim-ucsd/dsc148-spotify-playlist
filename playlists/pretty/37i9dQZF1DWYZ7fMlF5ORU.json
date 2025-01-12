@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 169434,
+  "num_followers": 169493,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+        "name": "O Dom da Vida",
+        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+          "name": "Fabi Oliveira",
+          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
+        },
+        {
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
         }
       ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+      "duration_ms": 228000,
+      "name": "O Dom da Vida",
+      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -211,22 +215,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "O Dom da Vida",
-        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
       "artists": [
         {
-          "name": "Fabi Oliveira",
-          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
-        },
-        {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 228000,
-      "name": "O Dom da Vida",
-      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 255568,
       "name": "Um Pedido",
       "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2024-12-27 03:01:07",

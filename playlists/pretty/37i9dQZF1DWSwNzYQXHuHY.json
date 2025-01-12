@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10490,
+  "num_followers": 10498,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
-      },
-      "artists": [
-        {
-          "name": "Jang Beom June",
-          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
-        }
-      ],
-      "duration_ms": 168492,
-      "name": "Your Shampoo Scent In The Flowers",
-      "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "something between us (Romance 101 X george)",
         "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 248076,
       "name": "something between us (Romance 101 X george)",
       "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "duration_ms": 168492,
+      "name": "Your Shampoo Scent In The Flowers",
+      "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
+        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
+        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
+      },
+      "artists": [
+        {
+          "name": "hiko",
+          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
+        },
+        {
+          "name": "Hoody(\ud6c4\ub514)",
+          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
+      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
         "name": "What's On Your Mind? (Feat. UNE)",
         "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 156857,
       "name": "What's On Your Mind? (Feat. UNE)",
       "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
-        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
-        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
-      },
-      "artists": [
-        {
-          "name": "hiko",
-          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
-        },
-        {
-          "name": "Hoody(\ud6c4\ub514)",
-          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
-      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -635,26 +635,6 @@
       "duration_ms": 241544,
       "name": "Friends to lovers",
       "url": "https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -747,6 +727,26 @@
       "duration_ms": 187853,
       "name": "Love me Again",
       "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-11-29 09:47:19",

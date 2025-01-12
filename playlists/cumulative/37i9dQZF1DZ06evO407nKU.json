@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Mayonesa",
+        "url": "https://open.spotify.com/album/1pjnTDvXAikn1T3L7FJSFg"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188099,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/4ufTPmPBN7jWN92U7IIH9Y"
+    },
+    {
+      "album": {
         "name": "Me Equivoqu\u00e9",
         "url": "https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7"
       },

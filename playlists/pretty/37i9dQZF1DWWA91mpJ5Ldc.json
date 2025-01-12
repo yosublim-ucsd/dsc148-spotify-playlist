@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 130300,
+  "num_followers": 130334,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 234712,
       "name": "Posso Dizer",
       "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2025-01-02 14:44:47",

@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 56 min
+62 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [BEYOND](https://open.spotify.com/track/0cbxHYeQrL9Bz6IjyIWSQi) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [BEYOND](https://open.spotify.com/album/6kC3TwttInYBMtp7jQK06T) | 3:44 | 2024-07-08 |  |
 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 | 2022-12-23 |  |
 | [BURN!](https://open.spotify.com/track/1ByTaifgTZiSkcGfUE9Aqy) | [C.Melo 2000](https://open.spotify.com/artist/0yXdV5R98B2ro9g21c3KA0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Lamekid \(Deluxe\)](https://open.spotify.com/album/0EGbKrLbfjXhdTCKOiBmwP) | 3:07 | 2022-12-23 | 2023-10-02 |
+| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-01-12 |  |
 | [CLIMAX BULLETS](https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:06 | 2023-01-26 |  |
 | [Dance You, Matilda](https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:29 | 2022-12-23 |  |
 | [DAZE N SUNSHINE](https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:03 | 2022-12-23 |  |

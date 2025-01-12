@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 31 min
+67 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Me Traes Loquito \- En Vivo](https://open.spotify.com/track/33CrmjCt84VBCwbwYDHpdp) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:10 | 2023-03-10 |  |
 | [Mejor Me Voy \- Versión Norteño En Vivo](https://open.spotify.com/track/4oz1JPgjMQjlX14vjlqEt7) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:01 | 2024-01-16 | 2025-01-07 |
 | [Merecía Más](https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Merecía Más](https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa) | 3:01 | 2023-03-10 |  |
+| [Ni Valia La Pena](https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [Ni Valia La Pena](https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc) | 4:00 | 2025-01-12 |  |
 | [No Lo Hice Bien \- En Vivo](https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:11 | 2023-03-10 |  |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2023-03-10 |  |
 | [No Volveré \- Versión Banda En Vivo](https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:22 | 2023-03-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373338,
+  "num_followers": 373323,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,34 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 145812,
+      "name": "CONFISS\u00d5ES PT2",
+      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -107,34 +135,6 @@
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 145812,
-      "name": "CONFISS\u00d5ES PT2",
-      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -383,18 +383,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
       "artists": [
         {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         }
       ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
+      "duration_ms": 187253,
+      "name": "nssmnsb",
+      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -427,22 +431,18 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
         }
       ],
-      "duration_ms": 187253,
-      "name": "nssmnsb",
-      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 451284,
-      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 170454,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Rivais",
-        "url": "https://open.spotify.com/album/1JQ07ymMHWRIZiM3OUVQdi"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        },
-        {
-          "name": "Fabin",
-          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
-        }
-      ],
-      "duration_ms": 152607,
-      "name": "Rivais",
-      "url": "https://open.spotify.com/track/1e7JH5Fuv4rkMX8Odo0Kpz"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 139355,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "Rivais",
+        "url": "https://open.spotify.com/album/1JQ07ymMHWRIZiM3OUVQdi"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        }
+      ],
+      "duration_ms": 152607,
+      "name": "Rivais",
+      "url": "https://open.spotify.com/track/1e7JH5Fuv4rkMX8Odo0Kpz"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Voc\u00ea Parece Com Vergonha",
-        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Voc\u00ea Parece Com Vergonha",
-      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Saudade Tatuada (Ao Vivo)",
         "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 193192,
       "name": "Saudade Tatuada - Ao Vivo",
       "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "Ningu\u00e9m Precisa Se Odiar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ROdOIwYZFhZYzy3D4VXGo"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 157225,
+      "name": "Ningu\u00e9m Precisa Se Odiar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0PbchTAcLGIoweqrEckmBl"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -1143,62 +1159,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Sigo Frio",
-        "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
       },
       "artists": [
         {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Ryxn Pablo",
-          "url": "https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Sigo Frio",
-      "url": "https://open.spotify.com/track/6HLY75qUVX62UxxmQcZPul"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Ningu\u00e9m Precisa Se Odiar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ROdOIwYZFhZYzy3D4VXGo"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 157225,
-      "name": "Ningu\u00e9m Precisa Se Odiar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0PbchTAcLGIoweqrEckmBl"
+      "duration_ms": 140727,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
     }
   ],
   "unique_name": "AMPLIFIKA",

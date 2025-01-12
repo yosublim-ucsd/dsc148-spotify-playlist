@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Sandpaper and Silk",
+        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242975,
+      "name": "Sandpaper And Silk",
+      "url": "https://open.spotify.com/track/5jC6Qa2r8l3FsAGlm5YeZu"
+    },
+    {
+      "album": {
         "name": "If Only You Were Lonely",
         "url": "https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 180093,
       "name": "So Hopelessly",
       "url": "https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh"

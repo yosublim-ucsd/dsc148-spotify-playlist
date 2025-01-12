@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,883 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,932 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [La Alegría de Mi Vida](https://open.spotify.com/track/50bKm4l0hvyK5I9F94mcdf) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [La Alegría de Mi Vida](https://open.spotify.com/album/2z4C2qaCxP7YzdBVt3Y2xi) | 2:55 |
 | 15 | [Acelerao](https://open.spotify.com/track/2tmmxq1nTLzFQyuaKWoyTc) | [Naomi V.](https://open.spotify.com/artist/11a8kjfzltll9RtPWAGfDp), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Acelerao](https://open.spotify.com/album/31aVxJJ9UveqTb0GF5qTgv) | 3:20 |
 | 16 | [SI O NO](https://open.spotify.com/track/1E5LUC8mbqtPFunZmWNnzw) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z) | [SI O NO](https://open.spotify.com/album/5rjOMNOJkdHlnzLpNbdyU8) | 2:46 |
-| 17 | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/track/6pDVxiNmOfVThYqYTWH78Q) | [CA$TA](https://open.spotify.com/artist/77UhGseMZfVuY7PpbmpuyZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH) | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/album/7tpVihRcGUfMetVO6mVzco) | 2:58 |
+| 17 | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/track/6pDVxiNmOfVThYqYTWH78Q) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [CA$TA](https://open.spotify.com/artist/77UhGseMZfVuY7PpbmpuyZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH) | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/album/7tpVihRcGUfMetVO6mVzco) | 2:58 |
 | 18 | [BLANQUITA](https://open.spotify.com/track/7MOeU5nxbbgD90VFdpBFmH) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [BLANQUITA](https://open.spotify.com/album/1bV4LIWER9M9rieQWXr8Vu) | 2:00 |
 | 19 | [Tirando Flow Sesh \#18](https://open.spotify.com/track/3aES0HTnjHJHpHv45EJ88P) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [Tirando Flow Sesh \#18](https://open.spotify.com/album/0B4IvO6CdUMouwEdQDjtMG) | 2:20 |
 | 20 | [TE COMO TOA \(feat\. Matt Hunter\)](https://open.spotify.com/track/71dUQtqnhVDwixg3tg70O3) | [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Jas Marty](https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [TE COMO TOA \(feat\. Matt Hunter\)](https://open.spotify.com/album/6ouDd9ZRWwHW4aYSNp8Abm) | 3:43 |

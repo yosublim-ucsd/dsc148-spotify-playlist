@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > nyeste bedste rap i dk <a href="spotify:artist:1GLzVjVa7bLnAcD1At98j3">@Omar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,519 likes - 51 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,526 likes - 51 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 303614,
+  "num_followers": 303640,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "Rose Colored Glasses",
         "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200493,
       "name": "Rose Colored Glasses",
       "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "Before The Next Teardrop Falls",
         "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171761,
       "name": "Wasted Days And Wasted Nights",
       "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "This Way Is My Way",
-        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 134226,
-      "name": "Snowbird",
-      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -947,18 +947,22 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 154560,
+      "name": "You're The Reason Our Kids Are Ugly",
+      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -979,22 +983,18 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2024-11-04 17:53:04",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-11-04 17:53:04",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
-    },
-    {
-      "added_at": "2024-11-04 17:53:04",
-      "album": {
         "name": "Oak Ridge Boys Greatest Hits",
         "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 174226,
       "name": "Y'all Come Back Saloon",
       "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
+    },
+    {
+      "added_at": "2024-11-04 17:53:04",
+      "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     }
   ],
   "unique_name": "70s Country",

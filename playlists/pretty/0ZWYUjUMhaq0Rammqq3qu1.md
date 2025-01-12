@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Tune in for the perfect soundtrack for this year's Thanksgiving Dinner!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 115,235 likes - 43 songs - 2 hr 35 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 115,222 likes - 43 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 71222,
+  "num_followers": 71253,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
+        "name": "Y Su Newen Ranchero",
+        "url": "https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1is del sur",
+          "url": "https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Mis Ojos Estuvieron Llorando",
+      "url": "https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 493347,
       "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
       "url": "https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
-        "name": "Y Su Newen Ranchero",
-        "url": "https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1is del sur",
-          "url": "https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Mis Ojos Estuvieron Llorando",
-      "url": "https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "\u00c9xitos de Antolog\u00eda",
-        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Las Flores de Tu Florero",
-      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "EN HONOR A NUESTRO HERMANO",
         "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 258140,
       "name": "Vuelvo a las Cantinas",
       "url": "https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "\u00c9xitos de Antolog\u00eda",
+        "url": "https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee"
+      },
+      "artists": [
+        {
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "Relatos de Mi Vida",
         "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 264448,
       "name": "Cantina de Mi Barrio",
       "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
-      },
-      "artists": [
-        {
-          "name": "Los Halcones Negros",
-          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
-        }
-      ],
-      "duration_ms": 182317,
-      "name": "M\u00e1tame a Besos",
-      "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
+      },
+      "artists": [
+        {
+          "name": "Los Halcones Negros",
+          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
+        }
+      ],
+      "duration_ms": 182317,
+      "name": "M\u00e1tame a Besos",
+      "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
       },
       "artists": [
         {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
         }
       ],
-      "duration_ms": 684016,
-      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
         }
       ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+      "duration_ms": 684016,
+      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1391,6 +1375,22 @@
       "duration_ms": 212040,
       "name": "Claveles de Enero",
       "url": "https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 143413,
       "name": "La Fotograf\u00eda",
       "url": "https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2024-12-06 17:24:44",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-06 17:24:44",
       "album": {
-        "name": "Todos a la Pista",
-        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Sandoval De Calbuco",
-          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
-        }
-      ],
-      "duration_ms": 270883,
-      "name": "Como Quisiera Poder",
-      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
-    },
-    {
-      "added_at": "2024-12-06 17:24:44",
-      "album": {
         "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
         "url": "https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 752378,
       "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
       "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
+    },
+    {
+      "added_at": "2024-12-06 17:24:44",
+      "album": {
+        "name": "Todos a la Pista",
+        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Sandoval De Calbuco",
+          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
+        }
+      ],
+      "duration_ms": 270883,
+      "name": "Como Quisiera Poder",
+      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
     },
     {
       "added_at": "2024-12-06 17:24:44",

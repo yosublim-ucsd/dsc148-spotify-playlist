@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,502 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,510 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 57 | [ラブリーベイビー](https://open.spotify.com/track/4vxdk93S9U0gfSLg1GYxQC) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [意地と光](https://open.spotify.com/album/5bGkOLzV6DxWEBYtnqAOLH) | 3:57 |
 | 58 | [Incarnation](https://open.spotify.com/track/2pg1TkWWTFUALftksUZ0ND) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Incarnation](https://open.spotify.com/album/09LOUe1UXiYyBUctfTBR6o) | 4:36 |
 | 59 | [カラフル](https://open.spotify.com/track/633UGabN4vcnYdvvmNqMU3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [カラフル](https://open.spotify.com/album/1cwEmkybJPPlQMsHEZ8nFa) | 4:23 |
-| 60 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
+| 60 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
 | 61 | [ひとりぼっちと廊下の窓](https://open.spotify.com/track/5tDnrXI3oowmppw6Zl6FTy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 3:19 |
-| 62 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
-| 63 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
+| 62 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
+| 63 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
 | 64 | [ヘントウタイ](https://open.spotify.com/track/5acubt3tZ9wsDNM2wSM89d) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ヘントウタイ](https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ) | 3:48 |
-| 65 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
+| 65 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
 | 66 | [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 |
 | 67 | [シナモン](https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [シナモン](https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA) | 3:53 |
-| 68 | [花一匁](https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [TOYS](https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4) | 4:36 |
-| 69 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
+| 68 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
+| 69 | [花一匁](https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [TOYS](https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4) | 4:36 |
 | 70 | [消えちゃう前に](https://open.spotify.com/track/3BD3gEngtnvHJnwEq1yAhr) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [7 Deadly Guilt](https://open.spotify.com/album/0AZlFiD8WXjtUvUwCfP9oj) | 3:44 |
 | 71 | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1) | 5:43 |
 | 72 | [合鍵とアイロニー](https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [合鍵とアイロニー](https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf) | 2:52 |

@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-284 songs - 13 hr 24 min
+285 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/5jgX1p4HWumq7VD0xurygG) | 2:38 | 2023-04-24 | 2024-04-19 |
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/5VDpXmKgYlhwcDRm7Mzgm8) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/23kRnl0gIuVBMmeOn1DWae) | 1:17 | 2023-05-30 | 2023-12-19 |
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9) | 1:17 | 2023-01-24 | 2023-04-30 |
-| [Peace Of Mind](https://open.spotify.com/track/4VRVPzvG6bleF8tvfYhBxX) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Peace Of Mind](https://open.spotify.com/album/2wZIPAxLs8TMTt9ieu6hiY) | 2:48 | 2024-11-28 |  |
+| [Peace Of Mind](https://open.spotify.com/track/4VRVPzvG6bleF8tvfYhBxX) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Peace Of Mind](https://open.spotify.com/album/2wZIPAxLs8TMTt9ieu6hiY) | 2:48 | 2024-11-28 | 2025-01-12 |
 | [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-28 |  |
 | [Peaceful Path](https://open.spotify.com/track/5IKuaAWFfvwTPCs0mrSJYa) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Peaceful Path](https://open.spotify.com/album/4HiC9a7PFHX75Le0nXNwBX) | 2:19 | 2023-05-19 |  |
 | [Peaceful Place & Sunday Mornings](https://open.spotify.com/track/5zPzkbW31xa6qmkTiTgL3j) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXII](https://open.spotify.com/album/5VNH9QQzeqTgpojNFFYzgw) | 2:22 | 2023-01-24 | 2023-02-14 |
@@ -237,6 +237,7 @@
 | [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 |  |
 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 |  |
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-05 |  |
+| [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2024-12-20 |  |
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
 | [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |

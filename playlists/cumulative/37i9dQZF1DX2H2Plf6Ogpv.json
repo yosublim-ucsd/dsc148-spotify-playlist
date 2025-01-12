@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "The Gloss",
+        "url": "https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226286,
+      "name": "Keys Down If You Stay",
+      "url": "https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy"
+    },
+    {
+      "album": {
         "name": "La fiesta",
         "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 168625,
       "name": "Teach Me To Be Bad",
       "url": "https://open.spotify.com/track/2f3JUM4a2jJnmJrMvDDIpN"

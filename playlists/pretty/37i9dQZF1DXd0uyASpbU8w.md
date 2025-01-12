@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw?si=qoTsjA4ARUaeHLwne\-Ukaw">Moonchild Sanelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,748 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,771 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 17 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 18 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
 | 19 | [Coming Home](https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Coming Home](https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS) | 4:25 |
-| 20 | [Sihawukele](https://open.spotify.com/track/0oxFJacW92iqelTfXXvvY6) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Mkhonzeni](https://open.spotify.com/album/7pektPGdEANY95kbDRrG01) | 6:30 |
+| 20 | [Sihawukele](https://open.spotify.com/track/0oxFJacW92iqelTfXXvvY6) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Qdeep](https://open.spotify.com/artist/2rrZi0sFAC1kk9TB4hGSRC) | [Mkhonzeni](https://open.spotify.com/album/7pektPGdEANY95kbDRrG01) | 6:30 |
 | 21 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 |
 | 22 | [WORSHIP ON 45](https://open.spotify.com/track/7IMjbkab8zrgJlXrciW9Yy) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio) | [WORSHIP ON 45](https://open.spotify.com/album/3908jHERfeZOtydQ8tu1Bi) | 5:51 |
 | 23 | [WRITHING IN THE WIND](https://open.spotify.com/track/1ZNJJekN6Oto599rrIAAwF) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WRITHING IN THE WIND](https://open.spotify.com/album/3vIRycVhyVtH7x30vXeqLm) | 1:24 |

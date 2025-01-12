@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 45790,
+  "num_followers": 45810,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+    },
+    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -811,22 +827,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2024-03-16 00:36:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Chacho",
-        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
-      },
-      "artists": [
-        {
-          "name": "Carmelo Torres & Los Toscos",
-          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
-        }
-      ],
-      "duration_ms": 241639,
-      "name": "La Camisola",
-      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Invasi\u00f3n",
         "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
       },
@@ -1357,20 +1341,20 @@
       "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
-      "added_at": "2022-07-01 02:22:57",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Bueltatzen",
-        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+        "name": "El Chacho",
+        "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
       },
       "artists": [
         {
-          "name": "Goxua\u00b4n Salsa",
-          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+          "name": "Carmelo Torres & Los Toscos",
+          "url": "https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ"
         }
       ],
-      "duration_ms": 258898,
-      "name": "Bueltatzen",
-      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
+      "duration_ms": 241639,
+      "name": "La Camisola",
+      "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1387,6 +1371,22 @@
       "duration_ms": 401929,
       "name": "Cumbia Oce\u00e1nica",
       "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+    },
+    {
+      "added_at": "2022-07-01 02:22:57",
+      "album": {
+        "name": "Bueltatzen",
+        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+      },
+      "artists": [
+        {
+          "name": "Goxua\u00b4n Salsa",
+          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+        }
+      ],
+      "duration_ms": 258898,
+      "name": "Bueltatzen",
+      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1457,26 +1457,6 @@
       "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
     },
     {
-      "added_at": "2022-01-13 01:01:34",
-      "album": {
-        "name": "Mary Sol",
-        "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
-      },
-      "artists": [
-        {
-          "name": "Papi Perez",
-          "url": "https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo"
-        },
-        {
-          "name": "Chirimoyo",
-          "url": "https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Mary Sol",
-      "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
@@ -1495,6 +1475,26 @@
       "duration_ms": 216826,
       "name": "Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+    },
+    {
+      "added_at": "2022-01-13 01:01:34",
+      "album": {
+        "name": "Mary Sol",
+        "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
+      },
+      "artists": [
+        {
+          "name": "Papi Perez",
+          "url": "https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo"
+        },
+        {
+          "name": "Chirimoyo",
+          "url": "https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Mary Sol",
+      "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
     },
     {
       "added_at": "2022-03-11 03:32:16",

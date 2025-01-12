@@ -4982,10 +4982,28 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "BANG BANG BANG - KR Ver.",
+      "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
     },
     {
       "album": {
@@ -9466,7 +9484,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 222528,
       "name": "Como Duele El Amor",
       "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
@@ -9960,7 +9978,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -20627,6 +20645,40 @@
     },
     {
       "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+        },
+        {
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+        },
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
+    },
+    {
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -26772,7 +26824,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -26802,7 +26854,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -37230,7 +37282,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"

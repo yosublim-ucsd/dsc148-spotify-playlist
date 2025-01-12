@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78824,
+  "num_followers": 78869,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -235,58 +235,6 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "In Synergy",
-        "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "In Synergy",
-      "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
         "name": "Fear Means Nothing",
         "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
       },
@@ -311,22 +259,74 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
       },
       "artists": [
         {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
+      "duration_ms": 152093,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/2fV64H3NI4XvL05XVdhoip"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 299608,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/4bdtUZWlQTi22F4TLu9NVV"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "In Synergy",
+        "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "In Synergy",
+      "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -355,6 +355,26 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
         "name": "Rip City",
         "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 161327,
       "name": "Rip City",
       "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "Trip to Defqon.1",
-        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "JDX",
-          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
-        }
-      ],
-      "duration_ms": 222116,
-      "name": "Trip to Defqon.1",
-      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -427,6 +427,26 @@
       "duration_ms": 213073,
       "name": "Life's A Bitch",
       "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "Trip to Defqon.1",
+        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+        }
+      ],
+      "duration_ms": 222116,
+      "name": "Trip to Defqon.1",
+      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -507,6 +527,22 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
+        "name": "Holy Calamity",
+        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Holy Calamity",
+      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
         "name": "Know Me Like",
         "url": "https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO"
       },
@@ -523,6 +559,26 @@
       "duration_ms": 159292,
       "name": "Know Me Like",
       "url": "https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "Bounce To This (Official Bounce Anthem 2024)",
+        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
+      },
+      "artists": [
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Bounce To This - Official Bounce Anthem 2024",
+      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -551,26 +607,6 @@
       "duration_ms": 158750,
       "name": "F.R.E.N.C.H.C.O.R.E.",
       "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "Bounce To This (Official Bounce Anthem 2024)",
-        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
-      },
-      "artists": [
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Bounce To This - Official Bounce Anthem 2024",
-      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -671,26 +707,6 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
-        "name": "Trip to Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Trip to Espa\u00f1a",
-      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
         "name": "The Light (Defqon.1 2024 BLACK OST)",
         "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
       },
@@ -771,6 +787,26 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
+        "name": "Trip to Espa\u00f1a",
+        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Trip to Espa\u00f1a",
+      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
         "name": "Het Beest Is Wakker",
         "url": "https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6"
       },
@@ -815,18 +851,22 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
-        "name": "ART IS DEAD",
-        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+        "name": "Furious Anger",
+        "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
       "artists": [
         {
           "name": "Broken Minds",
           "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
         }
       ],
-      "duration_ms": 214670,
-      "name": "ART IS DEAD",
-      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+      "duration_ms": 205647,
+      "name": "Furious Anger",
+      "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
     },
     {
       "added_at": "2025-01-10 10:22:26",
@@ -919,6 +959,22 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
+        "name": "ART IS DEAD",
+        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "ART IS DEAD",
+      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/2yQJU6Roc1t19xenK1fsuG"
       },
@@ -931,58 +987,6 @@
       "duration_ms": 185684,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5RtTmPNjAruYPREVNhBaer"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
-        "name": "Furious Anger",
-        "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "Furious Anger",
-      "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

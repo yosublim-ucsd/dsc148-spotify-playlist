@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153608,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
+    },
+    {
+      "album": {
         "name": "Als Jij Zegt Dat Het Liefde Is",
         "url": "https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB"
       },
@@ -359,6 +377,24 @@
     },
     {
       "album": {
+        "name": "David Bowie/Beckham",
+        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156112,
+      "name": "David Bowie/Beckham",
+      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
+    },
+    {
+      "album": {
         "name": "Deze Stilte",
         "url": "https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV"
       },
@@ -388,7 +424,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 257917,
       "name": "Die Wonen Niet Hier",
       "url": "https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 145320,
       "name": "MooiMooiMooi",
       "url": "https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ"
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 120000,
       "name": "Nachtblind",
       "url": "https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3"
@@ -2324,6 +2360,24 @@
       "duration_ms": 250230,
       "name": "Wolk breekt",
       "url": "https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ"
+    },
+    {
+      "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
     },
     {
       "album": {

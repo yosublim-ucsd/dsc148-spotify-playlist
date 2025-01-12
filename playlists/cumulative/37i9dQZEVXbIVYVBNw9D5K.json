@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -8757,6 +8757,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
+        "url": "https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168774,
+      "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
+      "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
+    },
+    {
+      "album": {
         "name": "G\u00fcl\u00fc\u015f\u00fcne Yan\u0131yorum",
         "url": "https://open.spotify.com/album/0j819GekftC9QyypkgPlLx"
       },
@@ -9054,7 +9072,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 202325,
       "name": "Halbuki",
       "url": "https://open.spotify.com/track/5RZH849e1ZWa2qeVz6O3mK"
@@ -20916,7 +20934,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"

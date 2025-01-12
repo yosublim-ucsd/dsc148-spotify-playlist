@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 195324,
+  "num_followers": 195385,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 479546,
-      "name": "Atomic Bomb",
-      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 273058,
       "name": "Parev' Ajere",
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
-    },
-    {
       "added_at": "2024-02-10 20:45:47",
       "album": {
         "name": "Feira De Mangaio",
@@ -687,6 +671,22 @@
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
-    },
-    {
       "added_at": "2022-08-31 03:53:27",
       "album": {
         "name": "Under No Nation (Radio Edit)",
@@ -887,6 +871,22 @@
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2023-11-23 03:51:02",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
       "added_at": "2022-03-04 21:17:03",
       "album": {
         "name": "The Age of Aquarius",
@@ -1199,6 +1183,22 @@
       "duration_ms": 241157,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
     },
     {
+      "added_at": "2022-03-04 03:59:12",
+      "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+    },
+    {
       "added_at": "2024-02-02 05:27:19",
       "album": {
         "name": "Nomad",
@@ -1449,20 +1465,20 @@
       "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
     },
     {
-      "added_at": "2022-03-04 03:59:12",
+      "added_at": "2023-06-07 04:01:30",
       "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
       },
       "artists": [
         {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1481,20 +1497,20 @@
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
+      "added_at": "2024-08-21 02:38:50",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
         }
       ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+      "duration_ms": 169944,
+      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
     },
     {
       "added_at": "2022-02-25 04:25:29",
@@ -1511,38 +1527,6 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2022-11-17 21:26:17",
-      "album": {
-        "name": "Whaya",
-        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 226404,
-      "name": "Whaya",
-      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
-    },
-    {
-      "added_at": "2024-08-21 02:38:50",
-      "album": {
-        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
     },
     {
       "added_at": "2023-02-10 03:09:47",
@@ -1575,6 +1559,22 @@
       "duration_ms": 348813,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+    },
+    {
+      "added_at": "2022-11-17 21:26:17",
+      "album": {
+        "name": "Whaya",
+        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 226404,
+      "name": "Whaya",
+      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
     },
     {
       "added_at": "2021-10-20 20:05:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,013 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,042 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 18 | [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 |
 | 19 | [SUITS](https://open.spotify.com/track/0w19TUXDP7bisIGNggAMqE) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [SUITS](https://open.spotify.com/album/3krMuoYtD0BPqg8tVYn4tj) | 2:57 |
 | 20 | [Ab3ad Mada](https://open.spotify.com/track/3LIvkJqC0gMlyl3MZrOps1) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/5YYncq0VrMap6McmmNXiPO) | 3:05 |
-| 21 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
-| 22 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
+| 21 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
+| 22 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
 | 23 | [NATARQA](https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:01 |
 | 24 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
 | 25 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |

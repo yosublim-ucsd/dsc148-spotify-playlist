@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,933 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,958 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 22 | [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 |
 | 23 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 |
 | 24 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
-| 25 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
-| 26 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
+| 25 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
+| 26 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
 | 27 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 |
 | 28 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
 | 29 | [Nothing Matters](https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2) | 3:02 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 34 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 35 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 |
 | 36 | [The Stranger](https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:42 |
-| 37 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
-| 38 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |
+| 37 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 |
+| 38 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 39 | [They Don't Love It](https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 1:53 |
 | 40 | [there she goes](https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [there she goes](https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL) | 2:42 |
 | 41 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 |

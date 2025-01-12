@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,934 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,964 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 79 | [Meet Me In The Woods](https://open.spotify.com/track/7wYt8tyEAcA9UFsM0vx8Pi) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
 | 80 | [Rain Forest Ambience with Medium Distant Bird Chirps and Crickets with Sporadic Close up Exotic Bird Calls and Distant Howler Monkey](https://open.spotify.com/track/2znPXY4YpOqHMrmEUlcTL1) | [The Hollywood Edge Sound Effects Library](https://open.spotify.com/artist/45dR66czwTjbWT4VaTNP8l) | [Nature Ambiences, Vol\. 2](https://open.spotify.com/album/5e7gIIAYQGCJEoMHjUZYAs) | 2:51 |
 | 81 | [Night Rain](https://open.spotify.com/track/5gLZB1i22XDHiHQwhXCYrQ) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:18 |
-| 82 | [Crickets in the Forest Glade](https://open.spotify.com/track/1VtgOi1QYr82UOh38NPK5y) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 2:02 |
-| 83 | [Forest At Sleep \- Seamless](https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Forest At Sleep](https://open.spotify.com/album/3zjxQ9nSOaUo6h8z8f6hKU) | 2:56 |
+| 82 | [Forest At Sleep \- Seamless](https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Forest At Sleep](https://open.spotify.com/album/3zjxQ9nSOaUo6h8z8f6hKU) | 2:56 |
+| 83 | [Crickets in the Forest Glade](https://open.spotify.com/track/1VtgOi1QYr82UOh38NPK5y) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 2:02 |
 | 84 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
-| 85 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 |
-| 86 | [Insects and Jungle Rain](https://open.spotify.com/track/4Fq1o5T3jMFTewig8vzd0H) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Jungle and African Wildlife](https://open.spotify.com/album/2Z7ALtog5KfzKCjwiSDsSc) | 3:00 |
-| 87 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 |
+| 85 | [Insects and Jungle Rain](https://open.spotify.com/track/4Fq1o5T3jMFTewig8vzd0H) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Jungle and African Wildlife](https://open.spotify.com/album/2Z7ALtog5KfzKCjwiSDsSc) | 3:00 |
+| 86 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 |
+| 87 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 |
 | 88 | [Rain Forest Birds](https://open.spotify.com/track/0CB5yrOeZ2ZRTM13sruVcI) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 3:05 |
 | 89 | [Dreams In The Woods](https://open.spotify.com/track/1MSdapcq0Zu6C7CZ1A6enr) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
 | 90 | [Moonlit Tropics \(Jungle\)](https://open.spotify.com/track/2IP5Zk9blC6qFzjoq1svyS) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 5:11 |

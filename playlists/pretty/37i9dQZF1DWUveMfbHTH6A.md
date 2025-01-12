@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,711 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,803 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 49 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
 | 50 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 51 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
-| 52 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
-| 53 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
+| 52 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
+| 53 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 54 | [control.](https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [control.](https://open.spotify.com/album/0QZV1HiWtdLqD9YO7pm0uA) | 4:17 |
 | 55 | [Came Thru](https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Thinking With My Ears](https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk) | 2:37 |
 | 56 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 67 | [The Bed I Made](https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [The Bed I Made](https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a) | 3:52 |
 | 68 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |
 | 69 | [HELLO PITI](https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Cómo duele si es tan bonito](https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18) | 2:23 |
-| 70 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
-| 71 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
+| 70 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
+| 71 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
 | 72 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
 | 73 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 |
 | 74 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |

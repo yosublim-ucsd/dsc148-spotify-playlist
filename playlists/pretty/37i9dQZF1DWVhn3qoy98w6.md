@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: FEZE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,125 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,132 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,825 likes - 47 songs - 2 hr 32 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,826 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 7 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
 | 8 | [Bounce It](https://open.spotify.com/track/2nDW6RRvpzsC6vBgBatwTf) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Bae & Bounce It](https://open.spotify.com/album/2wvFnq1M01S8leQAGpZkJG) | 4:36 |
 | 9 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
-| 10 | [Without Me](https://open.spotify.com/track/0fPToGi0oEi64ocyXgI0WN) | [Aldor](https://open.spotify.com/artist/2prRkk6DdBRZ8QbDQdslE4), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv), [Ponymeadow](https://open.spotify.com/artist/4ha50NFeAHHGnxI6SxWrmS) | [Without Me](https://open.spotify.com/album/2ItNl6fOFp9R6nSGxR0kkU) | 3:09 |
+| 10 | [Without Me](https://open.spotify.com/track/0fPToGi0oEi64ocyXgI0WN) | [Aldor](https://open.spotify.com/artist/2prRkk6DdBRZ8QbDQdslE4), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv) | [Without Me](https://open.spotify.com/album/2ItNl6fOFp9R6nSGxR0kkU) | 3:09 |
 | 11 | [Miracle](https://open.spotify.com/track/196vYOLRFZbyUYXlIjDHf8) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Miracle](https://open.spotify.com/album/5FNVIQiCLGT9oCQPT2lfIt) | 3:30 |
 | 12 | [The Edge \(of the End\)](https://open.spotify.com/track/0DlHcmxGyzgXKiiLrb2Lhu) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [The Edge \(of the End\)](https://open.spotify.com/album/0IuZGAGfcajSUvyP5I9G36) | 2:55 |
 | 13 | [Promise Me](https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB) | [Harmonee](https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2) | [Promise Me](https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4) | 4:26 |

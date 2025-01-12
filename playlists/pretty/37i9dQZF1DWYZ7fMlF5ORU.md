@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,434 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,493 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 8 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 |
 | 9 | [O Amor de Deus](https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Cuida de Mim](https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY) | 5:01 |
 | 10 | [Os Anjos Te Louvam \- Ao Vivo](https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:13 |
-| 11 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
+| 11 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
 | 12 | [Vem](https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 3:42 |
-| 13 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
+| 13 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
 | 14 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
 | 15 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
 | 16 | [Fará Outra Vez](https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [One Vision](https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o) | 4:17 |
-| 17 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
-| 18 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 17 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 18 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
 | 19 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 |
 | 20 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
 | 21 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |

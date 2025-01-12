@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Arjun Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,575 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,583 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

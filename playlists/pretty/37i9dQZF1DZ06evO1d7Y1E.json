@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 115875,
+  "num_followers": 115883,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAApXz8sUcK76ZpcuhcWfJuy",
+  "snapshot_id": "Z4BjAAAAAAA+HO6xZOhE9lOsDStB0vmM",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 143255,
-      "name": "Sonho Dos Cria",
-      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
+      "duration_ms": 240000,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/4W7Y0EsaVPh87WKC1etOHA"
     },
     {
       "added_at": null,
@@ -511,30 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/4W7Y0EsaVPh87WKC1etOHA"
+      "duration_ms": 143255,
+      "name": "Sonho Dos Cria",
+      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
     },
     {
       "added_at": null,

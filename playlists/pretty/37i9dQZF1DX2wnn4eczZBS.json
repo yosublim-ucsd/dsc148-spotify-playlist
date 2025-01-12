@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: S10",
-  "num_followers": 9781,
+  "num_followers": 9787,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "ER IS HOOP*",
         "url": "https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 178610,
       "name": "IK LACH MAAR IK HUIL",
       "url": "https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Eclips",
-        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 206154,
-      "name": "Soms Regen Ik Ook",
-      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Eclips",
+        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 206154,
+      "name": "Soms Regen Ik Ook",
+      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Zonder Naam",
         "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 181333,
       "name": "Zonder Naam",
       "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Kinderboerderij (Keiblij)",
-        "url": "https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "Kinderboerderij (Keiblij)",
-      "url": "https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Het Outro",
-        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
+        "name": "Kinderboerderij (Keiblij)",
+        "url": "https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9"
       },
       "artists": [
         {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
         }
       ],
-      "duration_ms": 200223,
-      "name": "Het Outro",
-      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+      "duration_ms": 197596,
+      "name": "Kinderboerderij (Keiblij)",
+      "url": "https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -407,6 +407,22 @@
       "duration_ms": 207813,
       "name": "Shirt Uit (feat. Sef)",
       "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Het Outro",
+        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Het Outro",
+      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -511,18 +527,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Dwars",
-        "url": "https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ"
+        "name": "alsof",
+        "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
       },
       "artists": [
         {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
         }
       ],
-      "duration_ms": 176041,
-      "name": "Dwars",
-      "url": "https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8"
+      "duration_ms": 212091,
+      "name": "alsof",
+      "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -543,18 +559,34 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "alsof",
-        "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
+        "name": "David Bowie/Beckham",
+        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
       "artists": [
         {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 212091,
-      "name": "alsof",
-      "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
+      "duration_ms": 156112,
+      "name": "David Bowie/Beckham",
+      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Naamloze Liefde",
+        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+      },
+      "artists": [
+        {
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "Nieuw Begin",
+      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -575,18 +607,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Naamloze Liefde",
-        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+        "name": "Dwars",
+        "url": "https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ"
       },
       "artists": [
         {
-          "name": "Roos Blufpand",
-          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
         }
       ],
-      "duration_ms": 157752,
-      "name": "Nieuw Begin",
-      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+      "duration_ms": 176041,
+      "name": "Dwars",
+      "url": "https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -623,22 +655,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Een Filosofie Van Het Riool",
-        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Een Filosofie Van Het Riool",
-      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "platland",
         "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
       },
@@ -651,6 +667,22 @@
       "duration_ms": 206590,
       "name": "platland",
       "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Doe Eens Raar",
+        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Doe Eens Raar",
+      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -707,22 +739,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Ik Voel Voor Jou",
-        "url": "https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2"
-      },
-      "artists": [
-        {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
-        }
-      ],
-      "duration_ms": 190126,
-      "name": "Ik Voel Voor Jou",
-      "url": "https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Koortsdroom",
         "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
       },
@@ -735,6 +751,22 @@
       "duration_ms": 162039,
       "name": "Koortsdroom (Nooit Spijt)",
       "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Ik Voel Voor Jou",
+        "url": "https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 190126,
+      "name": "Ik Voel Voor Jou",
+      "url": "https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -755,8 +787,8 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Doe Eens Raar",
-        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
+        "name": "Een Filosofie Van Het Riool",
+        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
       },
       "artists": [
         {
@@ -764,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 227320,
-      "name": "Doe Eens Raar",
-      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
+      "duration_ms": 326653,
+      "name": "Een Filosofie Van Het Riool",
+      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -787,50 +819,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Nachtblind",
-        "url": "https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40"
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
       },
       "artists": [
         {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Nachtblind",
-      "url": "https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Die Wonen Niet Hier",
-        "url": "https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt"
-      },
-      "artists": [
-        {
-          "name": "dorpsstraat 3",
-          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
-        }
-      ],
-      "duration_ms": 257917,
-      "name": "Die Wonen Niet Hier",
-      "url": "https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "MooiMooiMooi",
-        "url": "https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T"
-      },
-      "artists": [
-        {
-          "name": "SKINC",
-          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
-        }
-      ],
-      "duration_ms": 145320,
-      "name": "MooiMooiMooi",
-      "url": "https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ"
+      "duration_ms": 153608,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
     }
   ],
   "unique_name": "indiepuntnl",

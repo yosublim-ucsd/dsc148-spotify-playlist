@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Batas Senja
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,050 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,057 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 2 | [Teman Saja \- Acoustic](https://open.spotify.com/track/1DkBhhifKFstqd5VU0Zxna) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [Teman Saja \(Acoustic\)](https://open.spotify.com/album/2L1MY1TZh4uHvgyrR6wXHK) | 3:12 |
 | 3 | [Antara Kita](https://open.spotify.com/track/2GU8Xs5cuFuxjvc21MQzij) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Antara Kita](https://open.spotify.com/album/1iptQNpfeyDYIjbBKfnT7R) | 3:55 |
 | 4 | [Dilematika](https://open.spotify.com/track/3R7Ryee4bVWVmzUXSNbK6x) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [Dilematika](https://open.spotify.com/album/0ce65ImaJF88cW5kxDqFVs) | 3:53 |
-| 5 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [Pia](https://open.spotify.com/artist/6jAxLXKAHGOTWqIlNblxF8), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
+| 5 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
 | 6 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 7 | [Sunny](https://open.spotify.com/track/3xDn55ZJ7rLVRHatqgLnKe) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Bapak](https://open.spotify.com/album/2UYAW0k92IScW5aI0ulo1E) | 4:25 |
 | 8 | [Mencintaimu \- \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mencintaimu \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK) | 4:54 |

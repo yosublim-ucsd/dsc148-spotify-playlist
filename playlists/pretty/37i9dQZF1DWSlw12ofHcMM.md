@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,760 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,114 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 37 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 38 | [Bluephoria](https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe) | 4:32 |
 | 39 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
-| 40 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 |
-| 41 | [Carnival of Crows '06](https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [Back in '06](https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3) | 3:11 |
+| 40 | [Carnival of Crows '06](https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [Back in '06](https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3) | 3:11 |
+| 41 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 |
 | 42 | [Blood on Your Knees](https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Ruby Red](https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk) | 3:42 |
 | 43 | [Be](https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:49 |
 | 44 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
 | 45 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
-| 46 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
+| 46 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 47 | [Trouble In Mind](https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ) | 3:42 |
-| 48 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
+| 48 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 49 | [Ain't No Angel](https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Ain't No Angel](https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F) | 3:43 |
 | 50 | [Rocky](https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Love and the Death of Damnation](https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW) | 3:57 |
 

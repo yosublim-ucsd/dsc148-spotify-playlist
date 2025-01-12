@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-214 songs - 16 hr 36 min
+215 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 | 2024-12-14 |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
+| [It's A Fine Day \- Hard Techno Remix](https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY) | [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Grym](https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k), [Moxius](https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR) | [It's A Fine Day \(Hard Techno Remix\)](https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM) | 2:33 | 2025-01-09 |  |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 |  |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-13 |  |
@@ -167,7 +168,7 @@
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 |  |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
-| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
+| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 | 2025-01-12 |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |

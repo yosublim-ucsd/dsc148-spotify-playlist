@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 680363,
+  "num_followers": 680386,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Dividido",
-        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Dividido",
-      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Dividido",
+        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Dividido",
+      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
       "added_at": "2022-04-01 06:20:39",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+    },
+    {
       "added_at": "2022-04-17 19:24:57",
       "album": {
         "name": "No Me Quieres (feat. Fabi Reyna)",
@@ -1539,22 +1555,6 @@
       "duration_ms": 203076,
       "name": "No Me Quieres (feat. Fabi Reyna)",
       "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
-    },
-    {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2023-02-03 04:48:46",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
-      },
-      "artists": [
-        {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Flora y Fauna",
         "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 173311,
       "name": "Amor Frutero",
       "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+      },
+      "artists": [
+        {
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1883,18 +1883,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "La Comitiva",
+          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
         }
       ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+      "duration_ms": 181723,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
     }
   ],
   "unique_name": "Tropical Vibe",

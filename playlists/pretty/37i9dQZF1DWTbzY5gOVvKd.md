@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,380 likes - 99 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,602 likes - 99 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 34 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
 | 35 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 4:10 |
 | 36 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
-| 37 | [Sunday Kind of Love](https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [A Song For You](https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51) | 3:31 |
-| 38 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
+| 37 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
+| 38 | [Sunday Kind of Love](https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [A Song For You](https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51) | 3:31 |
 | 39 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 |
 | 40 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 41 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 |

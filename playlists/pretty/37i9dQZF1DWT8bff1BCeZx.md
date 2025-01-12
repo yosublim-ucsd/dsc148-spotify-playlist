@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,489 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,502 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 34 | [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 |
 | 35 | [Oba Alasepe](https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oba Alasepe](https://open.spotify.com/album/7h0BhlNZZUnG78qmDvsSmq) | 4:31 |
 | 36 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 |
-| 37 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
-| 38 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
+| 37 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
+| 38 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
 | 39 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 40 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
 | 41 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 46 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
 | 47 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
 | 48 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 49 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 |
-| 50 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
+| 49 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
+| 50 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
 
 Snapshot ID: `Z4BjXQAAAADvHJlFOFmyDi2xY/k2/KE5`

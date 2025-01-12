@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "El Calabaceado",
+        "url": "https://open.spotify.com/album/70CuV3x2GVtz0b6LI48r4S"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "El Calabaceado",
+      "url": "https://open.spotify.com/track/1oJHl4NMi38rzFTlEItTHF"
+    },
+    {
+      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },

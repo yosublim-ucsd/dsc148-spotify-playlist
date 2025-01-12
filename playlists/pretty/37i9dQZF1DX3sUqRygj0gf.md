@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,149 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,147 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 4 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 |
 | 5 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 |
 | 6 | [Christmas Always Finds Me \- Acoustic](https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Christmas Always Finds Me \(Acoustic\)](https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ) | 3:04 |
-| 7 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
-| 8 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 |
+| 7 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 |
+| 8 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
 | 9 | [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 |
 | 10 | [Old Toy Trains](https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Old Toy Trains](https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4) | 2:45 |
 | 11 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 18 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |
 | 19 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
 | 20 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
-| 21 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
-| 22 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
+| 21 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
+| 22 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
 | 23 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
 | 24 | [Maybe Next Christmas](https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Maybe Next Christmas](https://open.spotify.com/album/5NaGbKAz6tToBAeK09bhpj) | 2:29 |
 | 25 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 452407,
+  "num_followers": 452466,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Backstage Baddies",
@@ -1115,6 +1095,26 @@
       "duration_ms": 181818,
       "name": "Backstage Baddies",
       "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1161,24 +1161,20 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
         }
       ],
-      "duration_ms": 166874,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+      "duration_ms": 140307,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1207,6 +1203,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Got That",
+        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Got That",
+      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 178300,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
-    },
-    {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
         },
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "added_at": "2024-09-30 15:01:28",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
       },
       "artists": [
         {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         },
         {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         }
       ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Pa Pa Pa (feat. MC Maromba)",
@@ -1615,38 +1631,6 @@
       "duration_ms": 139687,
       "name": "Pa Pa Pa (feat. MC Maromba)",
       "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1687,6 +1671,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -1705,6 +1709,22 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
       "added_at": "2024-11-30 00:47:45",
       "album": {
         "name": "Let Them Take Them",
@@ -1719,26 +1739,6 @@
       "duration_ms": 181875,
       "name": "Let Them Take Them",
       "url": "https://open.spotify.com/track/6TUglCcH2jDhKom4wxMzfS"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "CULT CHROME",
-        "url": "https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn"
-    },
-    {
       "added_at": "2024-09-30 15:01:28",
       "album": {
         "name": "Numb",
@@ -1995,6 +1979,22 @@
       "duration_ms": 229846,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "CULT CHROME",
+        "url": "https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2057,24 +2057,20 @@
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/4Futqdz65JImRIxgili4sx"
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j"
       },
       "artists": [
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        },
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
+      "duration_ms": 189214,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2093,20 +2089,24 @@
       "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-08-16 14:00:00",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j"
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/4Futqdz65JImRIxgili4sx"
       },
       "artists": [
         {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
         }
       ],
-      "duration_ms": 189214,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+      "duration_ms": 172500,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2189,24 +2189,20 @@
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
     },
     {
-      "added_at": "2024-09-30 15:01:28",
+      "added_at": "2024-06-28 14:01:45",
       "album": {
-        "name": "MAKE DAT SHAKE",
-        "url": "https://open.spotify.com/album/2t60xx910jdrgVkpYN9RMi"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
       },
       "artists": [
         {
-          "name": "ON THE HUNT",
-          "url": "https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 147040,
-      "name": "MAKE DAT SHAKE",
-      "url": "https://open.spotify.com/track/34r7OlJi5an3Ojs5MHgfqb"
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2227,6 +2223,26 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
+    {
+      "added_at": "2024-09-30 15:01:28",
+      "album": {
+        "name": "MAKE DAT SHAKE",
+        "url": "https://open.spotify.com/album/2t60xx910jdrgVkpYN9RMi"
+      },
+      "artists": [
+        {
+          "name": "ON THE HUNT",
+          "url": "https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "MAKE DAT SHAKE",
+      "url": "https://open.spotify.com/track/34r7OlJi5an3Ojs5MHgfqb"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2265,6 +2281,22 @@
       "url": "https://open.spotify.com/track/5ElgsT69PjIdtLzZxV7DcX"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Turn Up The Volume",
@@ -2285,56 +2317,20 @@
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
-      "added_at": "2024-06-28 14:01:45",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+        "name": "Max Out!",
+        "url": "https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9"
       },
       "artists": [
         {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+          "name": "LittGloss",
+          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
         }
       ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
-      },
-      "artists": [
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "Maximo",
-          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
-        }
-      ],
-      "duration_ms": 182798,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
+      "duration_ms": 152343,
+      "name": "Max Out!",
+      "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
     },
     {
       "added_at": "2024-06-24 15:40:12",
@@ -2357,36 +2353,24 @@
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 150639,
-      "name": "What She Said",
-      "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Max Out!",
-        "url": "https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9"
-      },
-      "artists": [
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        },
         {
-          "name": "LittGloss",
-          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+          "name": "Maximo",
+          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
         }
       ],
-      "duration_ms": 152343,
-      "name": "Max Out!",
-      "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
+      "duration_ms": 182798,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2407,6 +2391,22 @@
       "duration_ms": 162519,
       "name": "Badman Calling (feat. XO Man)",
       "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 150639,
+      "name": "What She Said",
+      "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
     },
     {
       "added_at": "2024-04-19 04:00:00",

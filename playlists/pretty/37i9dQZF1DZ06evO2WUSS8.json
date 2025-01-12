@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14459,
+  "num_followers": 14463,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABCADst+z8EfxDr4RAUtDsL",
+  "snapshot_id": "Z4BjAAAAAABpAzD9r9Lc7mkwxjoRH2Df",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JERUSALEMA",
-        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "JERUSALEMA",
-      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 272000,
       "name": "Naima",
       "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JERUSALEMA",
+        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 329189,
+      "name": "JERUSALEMA",
+      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
     },
     {
       "added_at": null,
@@ -703,42 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Rising (Live)",
-        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OYO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Samba Pa Ti",
-      "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -775,6 +739,42 @@
       "duration_ms": 194164,
       "name": "Keep Rising - The Woman King",
       "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OYO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 258226,
       "name": "Djin Djin",
       "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 328813,
-      "name": "Crosseyed and Painless",
-      "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Calypso !",
         "url": "https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 249000,
       "name": "Wah Fu Dance (feat. Angelique Kidjo)",
       "url": "https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 328813,
+      "name": "Crosseyed and Painless",
+      "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
     },
     {
       "added_at": null,

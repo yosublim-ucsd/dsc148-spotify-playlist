@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 118235,
+  "num_followers": 118264,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -359,34 +375,22 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+        "name": "War Ina Babylon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
         }
       ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+      "duration_ms": 206306,
+      "name": "Chase The Devil",
+      "url": "https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -423,22 +427,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "War Ina Babylon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
       "artists": [
         {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
-        },
-        {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Chase The Devil",
-      "url": "https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv"
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Cartola (1974)",
-        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "Lotus 72 D",
         "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 180490,
       "name": "Lotus 72 D - Fast Version",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Pata Pata",
-        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Pata Pata - Stereo Version",
-      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "The Best of Dandy Livingstone",
         "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 162466,
       "name": "Rudy, a Message to You",
       "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Pata Pata - Stereo Version",
+      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Pa\u00eds Tropical",
-      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
         "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Pa\u00eds Tropical",
+      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -691,22 +691,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 221440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -763,22 +759,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
-        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
-      },
-      "artists": [
-        {
-          "name": "Kamuran Akkor",
-          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "You've Got a Woman",
         "url": "https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 205920,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
+        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
+      },
+      "artists": [
+        {
+          "name": "Kamuran Akkor",
+          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
+        "name": "En \u0130yileriyle G\u00fczin ile Baha",
+        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
+      },
+      "artists": [
+        {
+          "name": "G\u00fczin \u0130le Baha",
+          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
+      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "En \u0130yileriyle G\u00fczin ile Baha",
-        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
       "artists": [
         {
-          "name": "G\u00fczin \u0130le Baha",
-          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
-      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+      "duration_ms": 149420,
+      "name": "Que Bandeira",
+      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+        "name": "Dead Dance",
+        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
       },
       "artists": [
         {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "Opez",
+          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
         }
       ],
-      "duration_ms": 149420,
-      "name": "Que Bandeira",
-      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
+      "duration_ms": 215056,
+      "name": "Balera De Mar",
+      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1343,22 +1359,6 @@
       "duration_ms": 295080,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
-        "name": "Dead Dance",
-        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
-      },
-      "artists": [
-        {
-          "name": "Opez",
-          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
-        }
-      ],
-      "duration_ms": 215056,
-      "name": "Balera De Mar",
-      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": "2025-01-08 15:13:47",
-      "album": {
         "name": "Jimmy, Renda-Se/ Irene",
         "url": "https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 217640,
       "name": "Jimmy, Renda-Se",
       "url": "https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn"
+    },
+    {
+      "added_at": "2025-01-08 15:13:47",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Caetano Veloso",
-        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
         }
       ],
-      "duration_ms": 222106,
-      "name": "Tropic\u00e1lia - Remastered 2006",
-      "url": "https://open.spotify.com/track/4cMbAhrwsZsAHceaGvZy9y"
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     },
     {
       "added_at": "2025-01-08 15:13:47",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-01-08 15:13:47",
       "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+      "duration_ms": 222106,
+      "name": "Tropic\u00e1lia - Remastered 2006",
+      "url": "https://open.spotify.com/track/4cMbAhrwsZsAHceaGvZy9y"
     },
     {
       "added_at": "2025-01-08 15:13:47",

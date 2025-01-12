@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Maren Morris & Julia Michaels
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,307 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,439 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 49 | [Stockholm](https://open.spotify.com/track/1fpoxY4mEHXBkZNmpQ9Itv) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Stockholm](https://open.spotify.com/album/6IdkNH1QMlH3gu72u7EttR) | 2:30 |
 | 50 | [In My Head](https://open.spotify.com/track/5Vlg5Qm3TysFToj2wwfHRW) | [Katie Buxton](https://open.spotify.com/artist/6HIvdxEp3DJ5IoiPcqIquO) | [Do You Ever Think of Me?](https://open.spotify.com/album/4wSEkpqTUe31RALycF7O8N) | 3:10 |
 | 51 | [I Got It Bad For You](https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [I Got It Bad For You](https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP) | 3:16 |
-| 52 | [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 52 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 53 | [NOT DEAD](https://open.spotify.com/track/221pirh5AGzrpUuizpmQ20) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [ALTER \[Pt\. I\]](https://open.spotify.com/album/4YzgKawY6JM87wg4igB4Pp) | 2:40 |
 | 54 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 |
 | 55 | [If I'm Gone](https://open.spotify.com/track/7BXzTX4jie2wZVRvndqkgQ) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Phases](https://open.spotify.com/album/0gA89Jn9DXRTghUU5iWWz8) | 3:40 |

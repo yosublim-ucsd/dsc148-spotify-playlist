@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
-  "num_followers": 198390,
+  "num_followers": 199217,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
+        "name": "When The Bass Is Too Loud EP",
+        "url": "https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 272008,
+      "name": "When The Bass Is Too Loud",
+      "url": "https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
         "name": "Underneath The Strobelights (Exhale VA005)",
         "url": "https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
-        "name": "When The Bass Is Too Loud EP",
-        "url": "https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 272008,
-      "name": "When The Bass Is Too Loud",
-      "url": "https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "INNERGATE RECORDS",
-          "url": "https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
         "name": "Deine Angst",
         "url": "https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
-        "name": "Close Your Eyes EP",
-        "url": "https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9"
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt"
       },
       "artists": [
         {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "INNERGATE RECORDS",
+          "url": "https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9"
         }
       ],
-      "duration_ms": 301080,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
+      "duration_ms": 411000,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -983,6 +967,22 @@
       "duration_ms": 297290,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
+        "name": "Close Your Eyes EP",
+        "url": "https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
         "name": "Shadows Come Alive",
         "url": "https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 179154,
       "name": "Shadows Come Alive",
       "url": "https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
-        "name": "Ragnarok",
-        "url": "https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10"
-      },
-      "artists": [
-        {
-          "name": "BY\u00d8RN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 315294,
-      "name": "Ragnarok",
-      "url": "https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
         "name": "Dance MothaF*cka (David Temessi Rework)",
         "url": "https://open.spotify.com/album/2plhnrhPtvomfOwjj22Aoc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 315880,
       "name": "Dance MothaF*cka - David Temessi Rework",
       "url": "https://open.spotify.com/track/3nVdemOGu6iLeDFpyS8KIf"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
+        "name": "Ragnarok",
+        "url": "https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10"
+      },
+      "artists": [
+        {
+          "name": "BY\u00d8RN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 315294,
+      "name": "Ragnarok",
+      "url": "https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
+        "name": "The Moment That Matters",
+        "url": "https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo"
+      },
+      "artists": [
+        {
+          "name": "Di\u00f8n",
+          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "The Moment That Matters",
+      "url": "https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
         "name": "Phatt Bass",
         "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 255584,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
-        "name": "The Moment That Matters",
-        "url": "https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo"
-      },
-      "artists": [
-        {
-          "name": "Di\u00f8n",
-          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "The Moment That Matters",
-      "url": "https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS"
     },
     {
       "added_at": "2025-01-09 10:43:41",
@@ -1831,6 +1831,30 @@
     {
       "added_at": "2025-01-09 10:43:41",
       "album": {
+        "name": "It's A Fine Day (Hard Techno Remix)",
+        "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
+      },
+      "artists": [
+        {
+          "name": "GEWOONRAVES",
+          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
+        },
+        {
+          "name": "Grym",
+          "url": "https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k"
+        },
+        {
+          "name": "Moxius",
+          "url": "https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR"
+        }
+      ],
+      "duration_ms": 153222,
+      "name": "It's A Fine Day - Hard Techno Remix",
+      "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
+    },
+    {
+      "added_at": "2025-01-09 10:43:41",
+      "album": {
         "name": "Oh My God!",
         "url": "https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS"
       },
@@ -1867,26 +1891,6 @@
       "duration_ms": 273105,
       "name": "Move It",
       "url": "https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo"
-    },
-    {
-      "added_at": "2025-01-09 10:43:41",
-      "album": {
-        "name": "Save Me (Remixes)",
-        "url": "https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3"
-      },
-      "artists": [
-        {
-          "name": "Frankyeffe",
-          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
-        },
-        {
-          "name": "RiVid",
-          "url": "https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp"
-        }
-      ],
-      "duration_ms": 291456,
-      "name": "Save Me - RiVid Remix",
-      "url": "https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX"
     }
   ],
   "unique_name": "Hard Techno",

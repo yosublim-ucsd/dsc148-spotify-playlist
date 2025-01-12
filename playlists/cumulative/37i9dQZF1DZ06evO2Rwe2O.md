@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 53 min
+73 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 | 2023-03-10 | 2024-12-29 |
 | [Killing Me Again](https://open.spotify.com/track/1d3xMVFov84ZP5agqsovZi) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 4:41 | 2024-05-13 | 2024-11-27 |
 | [Lavish](https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:43 | 2023-03-10 |  |
-| [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 | 2024-03-16 |  |
+| [Let It Begin](https://open.spotify.com/track/5GRk64fuIMFDUY6MJ5HpeO) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/5uaE6PEmXaM9qkEknV2qFj) | 4:12 | 2024-03-16 | 2025-01-12 |
+| [Let It Begin](https://open.spotify.com/track/3dpXt0Dy7g1Aaewb7LG0YE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Let It Begin](https://open.spotify.com/album/1UqIz18Y3PAkflXfI67Zeg) | 4:12 | 2025-01-12 |  |
 | [Let It Rise](https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 4:33 | 2023-03-10 |  |
 | [Love Come To Life](https://open.spotify.com/track/26FQmwQ538RwRB7vV3KLjR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:46 | 2023-03-10 |  |
 | [Maker of the Wind](https://open.spotify.com/track/0c6ycONajngTNG7TPTAEKN) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:30 | 2023-03-10 |  |
@@ -52,6 +53,7 @@
 | [Neighborhoods](https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:33 | 2023-03-10 |  |
 | [New Every Morning](https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:28 | 2023-03-10 | 2025-01-05 |
 | [No Other Name](https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 4:48 | 2023-03-10 |  |
+| [O Nome](https://open.spotify.com/track/7fsGARNuFja2BVUoKjIHkv) | [Joe Vasconcelos](https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [O Nome](https://open.spotify.com/album/6L1dilQnI8R8mPom8IzOGm) | 4:30 | 2025-01-12 |  |
 | [Only Jesus](https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:13 | 2024-08-20 |  |
 | [Overwhelmed](https://open.spotify.com/track/0UcyrdirFfmpzEKQJ47Ixr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 5:29 | 2023-03-10 |  |
 | [Pharisee](https://open.spotify.com/track/5NfAXtsQWP3YNN22skAj2p) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 2:43 | 2024-07-01 | 2024-07-04 |

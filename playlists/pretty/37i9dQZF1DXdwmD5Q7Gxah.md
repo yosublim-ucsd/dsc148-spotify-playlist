@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > japanese breakfast 🕯️🎀✨🍇
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,603 likes - 153 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,765 likes - 153 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

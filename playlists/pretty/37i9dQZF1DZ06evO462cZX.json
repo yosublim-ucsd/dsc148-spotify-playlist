@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42521,
+  "num_followers": 42528,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABbbVSsxA4pBWjpi4Nq/lPx",
+  "snapshot_id": "Z4BjAAAAAAB9ERqaVs0PJPe/tSJJ8tun",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring It Back (feat. Max Styler)",
         "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 172115,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -835,26 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
-        "url": "https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj"
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
-      "url": "https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ"
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -879,6 +875,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+        "url": "https://open.spotify.com/album/2NUCKKuJNCYgE7LjBy49Pj"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Inv\u00edtame A Un Caf\u00e9 (Steve Aoki & Deorro Remix)",
+      "url": "https://open.spotify.com/track/2D75sVKFfKAhb9V9kChgKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Descontrol",
         "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 154761,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,

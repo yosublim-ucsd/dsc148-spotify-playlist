@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2163540,
+  "num_followers": 2163687,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
+      "added_at": "2025-01-07 17:42:41",
       "album": {
-        "name": "something to remember",
-        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
       },
       "artists": [
         {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
         }
       ],
-      "duration_ms": 162224,
-      "name": "something to remember",
-      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -663,6 +663,22 @@
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -789,22 +805,6 @@
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2025-01-07 17:42:41",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
-      },
-      "artists": [
-        {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
-    },
-    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "WE PRAY",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "SLOW IT DOWN",
         "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 142935,
       "name": "SLOW IT DOWN",
       "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 163228,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1593,6 +1593,30 @@
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+        "url": "https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
+      "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
+    },
+    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "Fall Into Me",
@@ -1667,6 +1691,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Yes I'm A Mess",
+        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Yes I'm A Mess",
+      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "I Forgive You [(Chromeo Remix) [radio edit]]",
         "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
       },
@@ -1683,22 +1723,6 @@
       "duration_ms": 201123,
       "name": "I Forgive You - (Chromeo Remix) [radio edit]",
       "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Yes I'm A Mess",
-        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Yes I'm A Mess",
-      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1749,40 +1773,20 @@
       "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
+      "added_at": "2025-01-10 05:00:42",
       "album": {
-        "name": "ORIGIN (Deluxe)",
-        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+        "name": "By Your Side (In My Mind)",
+        "url": "https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 187675,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6"
+      "duration_ms": 177148,
+      "name": "By Your Side (In My Mind)",
+      "url": "https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89"
     }
   ],
   "unique_name": "Daily Lift",

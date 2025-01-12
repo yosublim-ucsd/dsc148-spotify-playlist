@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,769 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,785 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 59 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 60 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
 | 61 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
-| 62 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO the Drag Clown](https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
-| 63 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
+| 62 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
+| 63 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO the Drag Clown](https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
 | 64 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
 | 65 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 66 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |

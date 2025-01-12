@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-641 songs - 1 day 9 hr 12 min
+643 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Better Off Stalking U](https://open.spotify.com/track/1C1EdOfblkIxbJxuq0Bdmb) | [Hospital](https://open.spotify.com/artist/2M4OJxOPHE7Foqcymmbojd) | [Better Off Stalking U](https://open.spotify.com/album/5KD8Sh127OY7oYD4dmugOH) | 2:47 | 2024-12-16 |  |
 | [BIG SHOT \(Deltarune Chapter 2\)](https://open.spotify.com/track/1UYKLDCVUtVCDyA4OXErec) | [Xtha](https://open.spotify.com/artist/7CINZTW4RTKs0n2fAvIoqq) | [BIG SHOT \(Deltarune Chapter 2\)](https://open.spotify.com/album/1KkxY723Njzti7rWkbRkHP) | 3:58 | 2024-12-15 |  |
 | [Black Friday](https://open.spotify.com/track/3I8mSGE0w3ruxHKpYnkAgo) | [The Kendrick](https://open.spotify.com/artist/6sgQ14R6R8cbRAcY2WB95b) | [Black Friday](https://open.spotify.com/album/4hhtyjAOMAhr1pxSn6bPH2) | 6:56 | 2024-12-15 |  |
+| [Black Mass](https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Black Mass](https://open.spotify.com/album/23aOWuA3ezrcNekrUG9miW) | 6:50 | 2025-01-11 |  |
 | [Blade Leaked](https://open.spotify.com/track/70OS1oj3fNt63TqkDkpMzC) | [Thirty40](https://open.spotify.com/artist/3Ue8xildie3NtdQWolOvzM) | [Blade Leaked](https://open.spotify.com/album/33CE9Bv5VVfakDpDZXQKoe) | 3:37 | 2024-12-15 |  |
 | [Blend W](https://open.spotify.com/track/66mF65DIL4oWccTdimBp5U) | [mewtenDoo](https://open.spotify.com/artist/2pmXudrsEKqCJhEez7UbHn) | [Blend W](https://open.spotify.com/album/7iSDu3iYJOweZ4rm4kyPw2) | 1:32 | 2024-12-15 |  |
 | [Blow](https://open.spotify.com/track/7Gg06PehkTkKEvoWtJwtLs) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Mr\. Diddle](https://open.spotify.com/album/5zO7TMFzvJLEtBPAFIrSOB) | 2:56 | 2024-12-15 |  |
@@ -384,6 +385,7 @@
 | [Monday Through Sunday](https://open.spotify.com/track/7MBhM0yKSAXKMLQAmNr03k) | [Lil Majo](https://open.spotify.com/artist/2KE59bPqiPq9Z1Z9B4gtOM) | [Whole Lotta Red V2](https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY) | 3:44 | 2024-12-15 |  |
 | [monster >:3](https://open.spotify.com/track/3EYHVKyWmCRO43D353DskH) | [foxxlust](https://open.spotify.com/artist/59z0uoCfR6du9cJue8YUco), [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ) | [SPARKLEDOG ANTHEM!](https://open.spotify.com/album/2bQAO8VAUvSZ8QKNdoa5pV) | 2:50 | 2024-12-16 |  |
 | [Mood Explosion \- Radio Edit](https://open.spotify.com/track/6IsEdukXHHjbDbqibyCz8i) | [Rayman Rave](https://open.spotify.com/artist/68k7oHbNM3MuYr4YVvZ8AH) | [Harmony Destruction](https://open.spotify.com/album/3HefRXrgVp99odTv5bS050) | 2:46 | 2024-12-15 |  |
+| [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/track/2dBV1RnDWmwnWMvSxSN2wJ) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/album/2UMjkN7VWK0MZTnDmAx2O6) | 8:33 | 2025-01-11 |  |
 | [More Than Friends](https://open.spotify.com/track/1yn0apYsGQUPpOVefmcvG0) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [AJR \- EP](https://open.spotify.com/album/35bu7GHptaPfMIFwIRWpTx) | 3:36 | 2024-12-15 |  |
 | [More Than Friends](https://open.spotify.com/track/5a5K0iisBrqEduGD7yEYFZ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [More Than Friends \- Single](https://open.spotify.com/album/16QAFF1xXaP49ZCD1FU9uW) | 3:36 | 2024-12-15 |  |
 | [Moved On](https://open.spotify.com/track/6LzWAoXpGeLMOrnlXRlVuH) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Vol\. 3 Dispersed Thinking](https://open.spotify.com/album/57K4XaNkJo4LschM3ufPXd) | 3:32 | 2024-12-15 |  |

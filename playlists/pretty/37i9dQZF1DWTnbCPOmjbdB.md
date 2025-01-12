@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Karolina Stanisławczyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,413 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,433 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 14 | [Momenty](https://open.spotify.com/track/1V308vfYwSw9QqY1kL0Toz) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC) | [Momenty](https://open.spotify.com/album/6moIpmNAGkA74XdJvxTPPG) | 2:18 |
 | 15 | [Bursztynowe Koraliki](https://open.spotify.com/track/5hoFcKelVv20tFGK46X4rY) | [Pan Savyan](https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT), [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Bursztynowe Koraliki](https://open.spotify.com/album/0rQ0uNsnzi7AoG3WjWN9FZ) | 3:46 |
 | 16 | [Trochę Za Blisko](https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Trochę Za Blisko](https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1) | 2:29 |
-| 17 | [Miej odważne serce](https://open.spotify.com/track/2tyOc2qjwTapTupR3gY1Cd) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Nati](https://open.spotify.com/artist/7oZa5mwNruqp1N8Qj1M2sF), [Blanka Wydrzyńska](https://open.spotify.com/artist/6oTnXEBNPLRMwxl3Bcuvfs), [Julian Cudak](https://open.spotify.com/artist/7jOYoE9GGKEdEdAP7gfj6e) | [Kleks i wynalazek Filipa Golarza](https://open.spotify.com/album/1VOaejx01alZaMWdi7q6MO) | 2:58 |
+| 17 | [Miej odważne serce](https://open.spotify.com/track/2tyOc2qjwTapTupR3gY1Cd) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Nati](https://open.spotify.com/artist/04wjWLVo1ZVDQqMWVfb5KE), [Blanka Wydrzyńska](https://open.spotify.com/artist/6oTnXEBNPLRMwxl3Bcuvfs), [Julian Cudak](https://open.spotify.com/artist/7jOYoE9GGKEdEdAP7gfj6e) | [Kleks i wynalazek Filipa Golarza](https://open.spotify.com/album/1VOaejx01alZaMWdi7q6MO) | 2:58 |
 | 18 | [Daj Mi Znać](https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1) | [Motyl](https://open.spotify.com/artist/4RXtFJNqv5jLkwPAOE5rP7), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [Daj Mi Znać](https://open.spotify.com/album/5cCz3TGg6Md3Yv9qj0FjtF) | 2:26 |
 | 19 | [Dom Nad Wodą](https://open.spotify.com/track/4yYEMvHEvmT2V7BQNReuIv) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Dom Nad Wodą](https://open.spotify.com/album/7vq9UO4zeOLafqzhwdOx5h) | 3:14 |
 | 20 | [Będzie jaśniej](https://open.spotify.com/track/5dlSal73zNRaMgbaO10xu1) | [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ), [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Będzie jaśniej](https://open.spotify.com/album/5eDqn2pvDB5RXJ8qd1UhC5) | 2:45 |

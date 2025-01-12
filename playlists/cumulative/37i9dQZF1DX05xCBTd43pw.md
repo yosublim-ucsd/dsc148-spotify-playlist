@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-171 songs - 8 hr 32 min
+173 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
+| [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-02 |  |
 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 | 2024-10-18 |  |
@@ -98,6 +99,7 @@
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [last dance](https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [last dance](https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX) | 3:07 | 2024-11-22 | 2024-12-21 |
+| [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-10 |  |
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
 | [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-20 | 2025-01-03 |
@@ -159,10 +161,10 @@
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 | 2024-11-29 |  |
-| [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 |  |
+| [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
-| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 |  |
+| [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-01-12 |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2024-11-15 |
 | [Vibe](https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Vibe](https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0) | 3:00 | 2024-07-04 | 2024-08-28 |

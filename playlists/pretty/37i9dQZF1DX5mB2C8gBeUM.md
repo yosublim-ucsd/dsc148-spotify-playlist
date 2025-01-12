@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,528 likes - 141 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,516 likes - 141 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 4 | [Smoke](https://open.spotify.com/track/2QaKqCBZzBossC940glm6N) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Smoke](https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev) | 2:27 |
 | 5 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 6 | [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 |
-| 7 | [Missin' Me Missin' You](https://open.spotify.com/track/6ioFnr4tVGy4kHhyK2fOAw) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Missin' Me Missin' You](https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe) | 2:40 |
+| 7 | [MISSIN' ME MISSIN' YOU](https://open.spotify.com/track/6ioFnr4tVGy4kHhyK2fOAw) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [MISSIN' ME MISSIN' YOU](https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe) | 2:40 |
 | 8 | [Cry Baby \- Country Mix](https://open.spotify.com/track/41TCIYS95e0stZl93Q5Czd) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cry Baby \(Country Mix\)](https://open.spotify.com/album/173Ayi570r5PZUhjYGeUTs) | 2:34 |
 | 9 | [Liar](https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:24 |
 | 10 | [Before I Wake](https://open.spotify.com/track/2dZ01Y9mydQwsqNns0Nrej) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Before I Wake](https://open.spotify.com/album/06MGG8jfvAsbbrHcLvhxD8) | 2:47 |

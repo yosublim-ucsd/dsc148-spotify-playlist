@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Kapo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,551 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,602 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 40 | [SAL Y AGUA BENDITA](https://open.spotify.com/track/76V2s3WNJzByDdWrU31zYj) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea) | [SAL Y AGUA BENDITA](https://open.spotify.com/album/0bZ8GoOoelTbBwyl5A963S) | 2:24 |
 | 41 | [Donde siempre he estado](https://open.spotify.com/track/6UxBOftXfbBmcIhxgnIWZd) | [KALENN](https://open.spotify.com/artist/3y6SuQCMOv2OAVXxgp6GFW) | [Donde siempre he estado](https://open.spotify.com/album/03W0a7Bf1IDNHidzbCWak0) | 3:21 |
 | 42 | [ORIGAMI](https://open.spotify.com/track/4AC3SSYAO1I3FQZk0bU29B) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [ORIGAMI](https://open.spotify.com/album/6mDjJHBFqlgJnbQTT3Fodc) | 2:16 |
-| 43 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:57 |
+| 43 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:56 |
 | 44 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 45 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 46 | [BRUCE WAYNE](https://open.spotify.com/track/3JQrBnoL9z8BJKaexLOqf9) | [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [BRUCE WAYNE](https://open.spotify.com/album/5yC9R6zxAaACVP9zIIoA8z) | 1:49 |

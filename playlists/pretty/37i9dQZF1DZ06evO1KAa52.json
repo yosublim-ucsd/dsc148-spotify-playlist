@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 644395,
+  "num_followers": 644473,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABer3S1xWJbXdPUvHT/lrO6",
+  "snapshot_id": "Z4BjAAAAAACEqLyJzJzSNymbSusIuRgw",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D (Justin Timberlake Remix)",
-        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "3D (Justin Timberlake Remix)",
-      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 246026,
       "name": "Love Never Felt So Good",
       "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3D (Justin Timberlake Remix)",
+        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "3D (Justin Timberlake Remix)",
+      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "LoveStoned / I Think She Knows (Interlude)",
+      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 176466,
       "name": "Together Now",
       "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "LoveStoned / I Think She Knows (Interlude)",
-      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
     },
     {
       "added_at": null,

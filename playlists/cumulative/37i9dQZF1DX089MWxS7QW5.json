@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+    },
+    {
+      "album": {
         "name": "Jimmy Choo",
         "url": "https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z"
       },

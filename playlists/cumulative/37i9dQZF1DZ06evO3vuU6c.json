@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 213632,
       "name": "Incredible (feat. Labrinth)",
       "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
@@ -1980,10 +1980,36 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 121772,
       "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
       "url": "https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP"
+    },
+    {
+      "album": {
+        "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt"
+      },
+      "artists": [
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115060,
+      "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo) - Sped Up",
+      "url": "https://open.spotify.com/track/7aUTVHluesNeM2KuZ7eEbb"
     },
     {
       "album": {

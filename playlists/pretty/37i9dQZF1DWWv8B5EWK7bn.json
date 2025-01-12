@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 196368,
+  "num_followers": 196417,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/5CBO4dDJIJlYpicO7HNyFI"
     },
     {
+      "added_at": "2024-08-29 03:39:02",
+      "album": {
+        "name": "If I Promise To Miss You, Will You Go Away",
+        "url": "https://open.spotify.com/album/5l22b8qA3UUkrYFLfVWsnI"
+      },
+      "artists": [
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "RAL2222 - Radio Edit",
+      "url": "https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL"
+    },
+    {
       "added_at": "2024-08-22 17:06:21",
       "album": {
         "name": "Organs",
@@ -303,22 +319,6 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
-    },
-    {
-      "added_at": "2024-08-29 03:39:02",
-      "album": {
-        "name": "If I Promise To Miss You, Will You Go Away",
-        "url": "https://open.spotify.com/album/5l22b8qA3UUkrYFLfVWsnI"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "RAL2222 - Radio Edit",
-      "url": "https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL"
     },
     {
       "added_at": "2024-08-19 21:05:23",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "& the Charm",
-        "url": "https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 269446,
-      "name": "Sandrail Silhouette",
-      "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
-    },
-    {
       "added_at": "2024-05-03 16:59:29",
       "album": {
         "name": "The Turning Ground",
@@ -471,6 +455,22 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "& the Charm",
+        "url": "https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 269446,
+      "name": "Sandrail Silhouette",
+      "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
     },
     {
       "added_at": "2024-04-15 18:24:59",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
     },
     {
-      "added_at": "2024-11-22 17:13:57",
+      "added_at": "2023-06-07 23:32:59",
       "album": {
-        "name": "Triple Fire",
-        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
         {
-          "name": "Geneva Jacuzzi",
-          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Dry",
-      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2024-03-22 00:00:20",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
-      "added_at": "2023-06-07 23:32:59",
+      "added_at": "2024-11-22 17:13:57",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Triple Fire",
+        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Geneva Jacuzzi",
+          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
         }
       ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+      "duration_ms": 217733,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
     },
     {
-      "added_at": "2024-06-13 00:32:04",
-      "album": {
-        "name": "Me Gustas Pero No Te Quiero",
-        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
-      },
-      "artists": [
-        {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Me Gustas Pero No Te Quiero",
-      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1231,6 +1215,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2024-06-13 00:32:04",
+      "album": {
+        "name": "Me Gustas Pero No Te Quiero",
+        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Me Gustas Pero No Te Quiero",
+      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2024-09-18 13:52:43",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
       "added_at": "2024-06-24 14:36:20",
       "album": {
         "name": "Los manantiales",
@@ -1365,22 +1349,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
       "added_at": "2024-01-30 05:23:45",
       "album": {
         "name": "Life Drummer",
@@ -1395,6 +1363,38 @@
       "duration_ms": 158638,
       "name": "Life Drummer",
       "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2023-08-08 03:45:10",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2023-06-05 20:56:02",
@@ -1461,6 +1461,22 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1479,22 +1495,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2023-03-24 15:38:14",

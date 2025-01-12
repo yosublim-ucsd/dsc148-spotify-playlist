@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Una Historia Mal Contada",
+      "url": "https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G"
+    },
+    {
+      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
       },

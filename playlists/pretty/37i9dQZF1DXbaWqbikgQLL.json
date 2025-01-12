@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 33166,
+  "num_followers": 33202,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -319,22 +303,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 265589,
+      "name": "No Tengo Tiempo",
+      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 235821,
       "name": "Spanish Girl",
       "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 265589,
-      "name": "No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Sue\u00f1os de Anoche",
         "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 237666,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Mi Cuerpo No Esta Hecho de Metal",
-        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes de la Salsa",
-          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
-        }
-      ],
-      "duration_ms": 279591,
-      "name": "Mi Cuerpo No Esta Hecho de Metal",
-      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 290089,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Mi Cuerpo No Esta Hecho de Metal",
+        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes de la Salsa",
+          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
+        }
+      ],
+      "duration_ms": 279591,
+      "name": "Mi Cuerpo No Esta Hecho de Metal",
+      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 335621,
       "name": "A Esa Gran Velocidad",
       "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 255746,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2339,8 +2339,8 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
@@ -2348,9 +2348,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 326640,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Con Musica Del Barrio y Para El Barrio",
-        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "El Baile De San Juan",
-      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "La Perla Colombiana 20 Exitos (Vol 1)",
         "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 218853,
       "name": "Agua de vida",
       "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Con Musica Del Barrio y Para El Barrio",
+        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "El Baile De San Juan",
+      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2435,8 +2435,8 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
       "artists": [
         {
@@ -2444,9 +2444,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2024-07-02 23:02:31",

@@ -4,7 +4,7 @@
 
 > Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-258 songs - 15 hr 25 min
+260 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [About Damn Time](https://open.spotify.com/track/0WAZjg3J6VavTvnCCCa3sY) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Viral Hits: Rewind](https://open.spotify.com/album/0In57J2lQkZVXSkFTmzuut) | 3:11 | 2023-12-09 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 | 2022-04-19 | 2022-10-05 |
 | [Ain't Nobody](https://open.spotify.com/track/5v4dJnJh5HC6mUUNQTl3PF) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:40 | 2022-10-04 |  |
+| [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2025-01-11 |  |
 | [All of the Stars](https://open.spotify.com/track/3Th56VIq2sEaEmPPETu7p5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:57 | 2022-11-14 | 2023-02-03 |
 | [All This Time](https://open.spotify.com/track/3jBZ215eVz9qwazMIQNSOO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:02 | 2022-11-14 | 2023-02-03 |
 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 | 2022-04-19 |  |
@@ -59,6 +60,7 @@
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-02-02 | 2023-08-20 |
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/6YAYMDHymSAYZsmYqGVOXs) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:21 | 2022-10-04 |  |
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/7ePFDzrnLt3Ynqgy2UFWri) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:21 | 2022-04-19 | 2022-10-05 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-01-11 |  |
 | [distance](https://open.spotify.com/track/5WDlNHQW1LmcQIA15oGjiW) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 3:56 | 2022-11-14 |  |
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2022-11-14 | 2023-05-31 |
 | [Don't Start Now](https://open.spotify.com/track/1Cqby5gdwLYzHMsjojpUDb) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:03 | 2022-10-04 |  |

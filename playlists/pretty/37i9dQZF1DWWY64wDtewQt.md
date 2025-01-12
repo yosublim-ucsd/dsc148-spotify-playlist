@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,412,559 likes - 100 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,416,901 likes - 100 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 37 | [DNA](https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [DNA](https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY) | 1:28 |
 | 38 | [GHOST!](https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3) | 3:51 |
 | 39 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
-| 40 | [ACIDO](https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC) | [ACIDO](https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee) | 1:15 |
+| 40 | [ACIDO](https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [ACIDO](https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee) | 1:15 |
 | 41 | [AVANGARD \- Slowed](https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD \(Slowed\)](https://open.spotify.com/album/6Ye61eIVj9IhshMtVmYRNM) | 3:19 |
 | 42 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 43 | [AUTOMOTIVO MANGOS](https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE) | [DJ BRZ 013](https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8) | [AUTOMOTIVO MANGOS](https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC) | 1:35 |

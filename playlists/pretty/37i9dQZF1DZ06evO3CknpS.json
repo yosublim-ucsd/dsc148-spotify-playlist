@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
-  "num_followers": 1588,
+  "num_followers": 1589,
   "original_name": "This Is Clara Rockmore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADyr+Bj3svPpJVxm/Sz1G5i",
+  "snapshot_id": "Z4BjAAAAAADokoyn0hSwgWt9WU5SAiGN",
   "tracks": [
     {
       "added_at": null,
@@ -180,12 +180,8 @@
       },
       "artists": [
         {
-          "name": "Daviod Garland",
-          "url": "https://open.spotify.com/artist/0CIXE3ZoSDRb6sE2Vr7fdV"
-        },
-        {
-          "name": "David Garland",
-          "url": "https://open.spotify.com/artist/3oS1slqwJmcbNAngVjvXBR"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -196,9 +192,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 439640,
-      "name": "WNYC Radio Broadcast, September 12, 1995",
-      "url": "https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -280,8 +276,12 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Daviod Garland",
+          "url": "https://open.spotify.com/artist/0CIXE3ZoSDRb6sE2Vr7fdV"
+        },
+        {
+          "name": "David Garland",
+          "url": "https://open.spotify.com/artist/3oS1slqwJmcbNAngVjvXBR"
         },
         {
           "name": "Clara Rockmore",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 439640,
+      "name": "WNYC Radio Broadcast, September 12, 1995",
+      "url": "https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Commentary 2",
-      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+      "duration_ms": 63106,
+      "name": "Commentary 6",
+      "url": "https://open.spotify.com/track/37JMZzhw88Btj0MyUzNCms"
     },
     {
       "added_at": null,
@@ -656,8 +656,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -668,29 +668,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "Habanera",
-      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
+      "duration_ms": 401813,
+      "name": "Sonata for violin and piano in A major: Allegretto ben moderato",
+      "url": "https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6"
     },
     {
       "added_at": null,
@@ -720,13 +700,17 @@
       },
       "artists": [
         {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
+      "duration_ms": 179106,
+      "name": "Habanera",
+      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

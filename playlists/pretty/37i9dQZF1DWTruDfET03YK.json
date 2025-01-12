@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 35732,
+  "num_followers": 35773,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/0YP2zvKNM70QgRaHqUOtXG"
     },
     {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Gallina Pintadita, Vol. 2",
-        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Mariposita",
-      "url": "https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5"
-    },
-    {
       "added_at": "2022-07-11 22:47:32",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
@@ -55,6 +39,22 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Mariposita",
+      "url": "https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Gallina Pintadita, Vol. 1",
-        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 107674,
-      "name": "Pollito Amarillito",
-      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Phineas And Ferb",
         "url": "https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU"
       },
@@ -201,6 +185,22 @@
       "url": "https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ"
     },
     {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "100 A\u00f1os...100 Exitos",
+        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 150373,
+      "name": "Escuela de Perritos",
+      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
+    },
+    {
       "added_at": "2022-07-11 22:47:32",
       "album": {
         "name": "La Granja de Zen\u00f3n Vol. 2",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "100 A\u00f1os...100 Exitos",
-        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
       },
       "artists": [
         {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
         }
       ],
-      "duration_ms": 150373,
-      "name": "Escuela de Perritos",
-      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
+      "duration_ms": 107674,
+      "name": "Pollito Amarillito",
+      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Super \u00c9xitos",
-        "url": "https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 162175,
-      "name": "El Baile del Gorila - Versi\u00f3n 2019",
-      "url": "https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Besos, Abrazos y Apapachos",
         "url": "https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 131478,
       "name": "El Cocodrilo y el Orangut\u00e1n",
       "url": "https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 162175,
+      "name": "El Baile del Gorila - Versi\u00f3n 2019",
+      "url": "https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq"
     },
     {
       "added_at": "2020-04-23 19:03:50",

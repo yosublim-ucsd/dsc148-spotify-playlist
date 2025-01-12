@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2274,
+  "num_followers": 2276,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADQAkBYaRViyGuDKlATf80M",
+  "snapshot_id": "Z4BjAAAAAADlo6r2n0N87WEHx7oNguFr",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 305200,
-      "name": "The Harp of New Albion: IV. Cadence on the Wind",
-      "url": "https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ"
+      "duration_ms": 3108333,
+      "name": "Descending Moonshine Dervishes",
+      "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 3108333,
-      "name": "Descending Moonshine Dervishes",
-      "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
+      "duration_ms": 305200,
+      "name": "The Harp of New Albion: IV. Cadence on the Wind",
+      "url": "https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
+        "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 613746,
+      "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
+      "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Steve Reich: Six Pianos & Terry Riley: Keyboard Study #1",
         "url": "https://open.spotify.com/album/4tZdDTJcXvF7mDH9MTlC01"
       },
@@ -563,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 389453,
-      "name": "Cancion Desierto",
-      "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
@@ -595,22 +599,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
-        "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
         }
       ],
-      "duration_ms": 613746,
-      "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
-      "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
+      "duration_ms": 289346,
+      "name": "St. Francis and the Birds",
+      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 389453,
+      "name": "Cancion Desierto",
+      "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. I",
-        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "St. Francis and the Birds",
-      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 347906,
+      "name": "Crucifixion Voices",
+      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Acension Final Chord Rising",
-      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
     },
     {
       "added_at": null,
@@ -732,9 +732,25 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 585933,
-      "name": "The Harp of New Albion: IX. Circle of Wolves",
-      "url": "https://open.spotify.com/track/0TckD7ISMjg0kZ9flglQcs"
+      "duration_ms": 514266,
+      "name": "The Harp of New Albion: VII. Ascending Whale Dreams",
+      "url": "https://open.spotify.com/track/1OfrxTBcsI8P1q6HbkZTYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Acension Final Chord Rising",
+      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
     },
     {
       "added_at": null,
@@ -751,38 +767,6 @@
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 347906,
-      "name": "Crucifixion Voices",
-      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Wi Linky Dem - Island Vibes Riddim",
-        "url": "https://open.spotify.com/album/0UliYJ6TJoBkLTA6cpVP9y"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Never Leave I",
-      "url": "https://open.spotify.com/track/3fbrJruhyq5ph3jCNd8D1g"
     },
     {
       "added_at": null,
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "All Wi Linky Dem - Island Vibes Riddim",
+        "url": "https://open.spotify.com/album/0UliYJ6TJoBkLTA6cpVP9y"
       },
       "artists": [
         {
@@ -816,41 +800,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
-      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1344000,
-      "name": "Embroidery",
-      "url": "https://open.spotify.com/track/7JfzN0hGy9zY2ixV9Q7f3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Land's End",
-      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
+      "duration_ms": 208573,
+      "name": "Never Leave I",
+      "url": "https://open.spotify.com/track/3fbrJruhyq5ph3jCNd8D1g"
     },
     {
       "added_at": null,
@@ -880,9 +832,61 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Tango Ladeado",
-      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+      "duration_ms": 448026,
+      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
+      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion's Throne",
+        "url": "https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Amelia Cuni",
+          "url": "https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW"
+        }
+      ],
+      "duration_ms": 989200,
+      "name": "Cantico",
+      "url": "https://open.spotify.com/track/4dtNBT81Ybmf0OAXrnWekN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1344000,
+      "name": "Embroidery",
+      "url": "https://open.spotify.com/track/7JfzN0hGy9zY2ixV9Q7f3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+        "url": "https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 2388746,
+      "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+      "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
     }
   ],
   "unique_name": "This Is Terry Riley",

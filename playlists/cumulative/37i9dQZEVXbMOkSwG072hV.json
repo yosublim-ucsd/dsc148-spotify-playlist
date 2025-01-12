@@ -11831,6 +11831,24 @@
     },
     {
       "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "album": {
         "name": "Chevette do Jac\u00f3",
         "url": "https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C"
       },
@@ -12650,7 +12668,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 237391,
       "name": "Coisas Que N\u00e3o Aprendi Contigo",
       "url": "https://open.spotify.com/track/2BeuVzxvag6fpg3whPJrFr"
@@ -41506,7 +41524,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 171600,
       "name": "Nunca Tenha Medo",
       "url": "https://open.spotify.com/track/3VoOJIr5YuAs2L3XHFWZRB"
@@ -66138,7 +66156,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 495857,
       "name": "\u00c9 Ele",
       "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"

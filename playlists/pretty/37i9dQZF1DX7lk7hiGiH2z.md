@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,172 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,181 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 17 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 |
 | 18 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:20 |
 | 19 | [Wär' Dezember doch für immer \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten, Holger Stockhaus\)](https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1), [Holger Stockhaus](https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:58 |
-| 20 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 |
-| 21 | [Spuren im Schnee](https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:18 |
+| 20 | [Spuren im Schnee](https://open.spotify.com/track/62o6dJHwohn5vvPKE3EWUh) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:18 |
+| 21 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 |
 | 22 | [Das muss wohl der Winter sein \(Giraffenaffensong\)](https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:55 |
 | 23 | [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 |
 | 24 | [Schnee im Gefrierfach](https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17) | [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:54 |

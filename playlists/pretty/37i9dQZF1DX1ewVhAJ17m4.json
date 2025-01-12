@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 587189,
+  "num_followers": 587227,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Feeling Not Found",
-        "url": "https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 159285,
-      "name": "Viral",
-      "url": "https://open.spotify.com/track/0OCMecwvr1aBI2usN1LuHp"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "I Think I'm in Love",
         "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179000,
       "name": "I Think I'm in Love",
       "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Feeling Not Found",
+        "url": "https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 159285,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/0OCMecwvr1aBI2usN1LuHp"
     },
     {
       "added_at": "2024-11-18 17:19:05",

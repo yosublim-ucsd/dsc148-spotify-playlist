@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1476837,
+  "num_followers": 1476874,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Wild Love (Acoustic)",
         "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Too Much To Ask (Acoustic)",
-        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 221598,
-      "name": "Too Much To Ask - Acoustic",
-      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "S.O.S.: Save Our Soul",
         "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 278146,
       "name": "Love And Happiness",
       "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Too Much To Ask (Acoustic)",
+        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 221598,
+      "name": "Too Much To Ask - Acoustic",
+      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mercy (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Change of Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
+      },
+      "artists": [
+        {
+          "name": "New Portals",
+          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "Change of Mind - Acoustic",
+      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Meet The Moonlight",
         "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Change of Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
+        "name": "I Don't Love You (I'm Just Lonely) [Acoustic]",
+        "url": "https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e"
       },
       "artists": [
         {
-          "name": "New Portals",
-          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
         }
       ],
-      "duration_ms": 183209,
-      "name": "Change of Mind - Acoustic",
-      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
+      "duration_ms": 183722,
+      "name": "I Don't Love You (I'm Just Lonely) - Acoustic",
+      "url": "https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "I Don't Love You (I'm Just Lonely) [Acoustic]",
-        "url": "https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        }
-      ],
-      "duration_ms": 183722,
-      "name": "I Don't Love You (I'm Just Lonely) - Acoustic",
-      "url": "https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lost On You",
         "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 195579,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 234775,
       "name": "Chemicals - Acoustic",
       "url": "https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 43 min
+67 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Calzones De Bolitas](https://open.spotify.com/track/0FpwNEP4wq4iFN3W2M5HaH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:32 | 2022-06-01 |  |
 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 | 2022-06-01 |  |
 | [Con Cachete, Pechito y Ombligo](https://open.spotify.com/track/7oOUcy1kdApoVieDcOqWtS) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 2:40 | 2025-01-08 | 2025-01-09 |
+| [Cosa Caliente](https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Cosa Caliente](https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT) | 2:57 | 2025-01-12 |  |
 | [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 | 2022-08-20 |  |
 | [Cumbia de Guadalajara](https://open.spotify.com/track/3fKaaPbgoRLcjxKHM2W8aE) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 2:07 | 2024-11-25 | 2024-12-02 |
 | [Dale Biberon](https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:24 | 2022-06-02 |  |
@@ -39,6 +40,7 @@
 | [La Gloria](https://open.spotify.com/track/0xxWVVr3D85JT28d8YZ9gd) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:27 | 2022-06-01 | 2024-01-16 |
 | [La Guera Karla](https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:51 | 2022-06-01 |  |
 | [La Zopilota](https://open.spotify.com/track/0O2deB5pxdslRiBMhwWtEw) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 2:05 | 2024-11-29 | 2024-12-01 |
+| [Leña de Pirul](https://open.spotify.com/track/3rQ6MwMNsGQfU1zW3XgnMK) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:43 | 2025-01-12 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:26 | 2022-06-01 |  |
 | [Lolita La Cevichera](https://open.spotify.com/track/2I16xsBvYgqVAaL4pd4Z8B) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:28 | 2022-06-01 |  |
 | [Los Mosquitos](https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 4:08 | 2024-01-03 | 2024-07-14 |

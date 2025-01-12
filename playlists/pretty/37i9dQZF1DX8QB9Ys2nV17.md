@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,152 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,187 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rollin' On](https://open.spotify.com/track/4PrEiwUcs8jMOAk1b5BueL) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 5:08 |
 | 2 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
 | 3 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
-| 4 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
-| 5 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 4 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 5 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 6 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
 | 7 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 8 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 53 | [Hard Times, Bad Decisions](https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU) | [Lisa Mann](https://open.spotify.com/artist/119v7X6k46bE5xgwuWawbt) | [Hard Times, Bad Decisions](https://open.spotify.com/album/4woumpJLb24RBzibZkh3OB) | 4:31 |
 | 54 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
 | 55 | [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 |
-| 56 | [Played the Game](https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 4:45 |
-| 57 | [Later On](https://open.spotify.com/track/2GnsJUt8AcHJDrt0zxcQAk) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Spiritus](https://open.spotify.com/album/6HSLZoEk44as8CH9vG8O1g) | 5:38 |
+| 56 | [Later On](https://open.spotify.com/track/2GnsJUt8AcHJDrt0zxcQAk) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Spiritus](https://open.spotify.com/album/6HSLZoEk44as8CH9vG8O1g) | 5:38 |
+| 57 | [Played the Game](https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 4:45 |
 | 58 | [My Man Called Me](https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/0cTXGsOEadB2wpKMtIzhN0) | 3:34 |
 | 59 | [What's the Matter with You](https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:52 |
 | 60 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |

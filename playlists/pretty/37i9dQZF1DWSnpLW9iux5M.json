@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 66680,
+  "num_followers": 66670,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,22 @@
     {
       "added_at": "2024-12-13 04:49:19",
       "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        },
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
+      "duration_ms": 218067,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1"
     },
     {
       "added_at": "2024-12-13 04:49:19",
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-12-13 04:49:19",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u"
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
       },
       "artists": [
         {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        },
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 218067,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1"
+      "duration_ms": 230026,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
     },
     {
       "added_at": "2024-12-13 04:49:19",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-12-13 04:49:19",
       "album": {
+        "name": "He Shall Reign",
+        "url": "https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "HFP Music",
+          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "He Shall Reign",
+      "url": "https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf"
+    },
+    {
+      "added_at": "2024-12-13 04:49:19",
+      "album": {
         "name": "Mothers And Shepherds",
         "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 270133,
       "name": "For Unto Us (A Child Is Born)",
       "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
-    },
-    {
-      "added_at": "2024-12-13 04:49:19",
-      "album": {
-        "name": "He Shall Reign",
-        "url": "https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "HFP Music",
-          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "He Shall Reign",
-      "url": "https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf"
     },
     {
       "added_at": "2024-12-13 04:49:19",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-12-13 04:49:19",
       "album": {
-        "name": "Feels Like Christmas",
-        "url": "https://open.spotify.com/album/6egjmIejK5PFjc5iMOBc1e"
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
       },
       "artists": [
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Feels Like Christmas",
-      "url": "https://open.spotify.com/track/4s4GAKfmRRgnttXZFAAODm"
+      "duration_ms": 235100,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
     },
     {
       "added_at": "2024-12-13 04:49:19",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-12-13 04:49:19",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
+        "name": "Feels Like Christmas",
+        "url": "https://open.spotify.com/album/6egjmIejK5PFjc5iMOBc1e"
       },
       "artists": [
         {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
         }
       ],
-      "duration_ms": 235100,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+      "duration_ms": 137142,
+      "name": "Feels Like Christmas",
+      "url": "https://open.spotify.com/track/4s4GAKfmRRgnttXZFAAODm"
     },
     {
       "added_at": "2024-12-13 04:49:19",

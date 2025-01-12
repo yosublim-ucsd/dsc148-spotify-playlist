@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 42 min
+84 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 | 2023-08-08 |  |
 | [Tu Reemplazo](https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Tu Reemplazo](https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE) | 2:23 | 2024-11-17 |  |
 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 | 2023-08-08 |  |
+| [Una Historia Mal Contada](https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Una Historia Mal Contada](https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x) | 2:40 | 2025-01-12 |  |
 | [Valió la Pena Equivocarme](https://open.spotify.com/track/3Tg6vd7RNktpxZCqp3sQjA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:46 | 2023-08-08 |  |
 | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/track/6bANxR8naOx4pnq1795q31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R) | 4:01 | 2024-03-27 |  |
 | [Y Que Quede Claro](https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:09 | 2023-08-08 |  |

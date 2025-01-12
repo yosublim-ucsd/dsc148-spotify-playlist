@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 320560,
+  "num_followers": 320664,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAXDNCWduAiu+LjaiBWtH7B",
+  "snapshot_id": "Z4BjAAAAAAD4QuNO4OSVYJh3FIMHz2hd",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Gripa Colombiana",
-      "url": "https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs"
+      "duration_ms": 155066,
+      "name": "Tus Verdades",
+      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Tus Verdades",
-      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
+      "duration_ms": 185186,
+      "name": "Gripa Colombiana",
+      "url": "https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
       "duration_ms": 153221,
       "name": "El \u00c1guila Blanca (En Vivo)",
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Mundo De Amor",
+      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
       "duration_ms": 224933,
       "name": "La Chica Sexy",
       "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Mundo De Amor",
-      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
     },
     {
       "added_at": null,

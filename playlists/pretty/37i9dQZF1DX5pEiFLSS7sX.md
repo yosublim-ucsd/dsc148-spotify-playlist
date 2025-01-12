@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,090 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,145 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 45 | [Nobody Like You \(Live\)](https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 7:22 |
 | 46 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 47 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well \(Live\)](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
-| 48 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
-| 49 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
+| 48 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
+| 49 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 50 | [Wait Upon the Lord \(Spontaneous\) \- Live](https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 7:02 |
 | 51 | [Jesus, Come Be the Center \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 8:08 |
 | 52 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 59 | [Set My Heart \- Live](https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:12 |
 | 60 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
 | 61 | [Lift My Eyes](https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:39 |
-| 62 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
-| 63 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
+| 62 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
+| 63 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
 | 64 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |
 | 65 | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj) | 5:56 |
 | 66 | [Nothing Else / All I Need Is You \- Medley / Live](https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Live At Church: Mixtape Vol\. 1](https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC) | 11:59 |

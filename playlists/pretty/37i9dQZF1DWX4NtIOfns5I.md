@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Mon Rovîa on 🔁
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,913 likes - 139 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,929 likes - 139 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

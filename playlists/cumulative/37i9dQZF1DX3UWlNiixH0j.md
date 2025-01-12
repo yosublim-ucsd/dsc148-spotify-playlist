@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: あっこゴリラ
 
-2,067 songs - 5 day 8 hr 52 min
+2,068 songs - 5 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 | 2023-07-25 | 2023-07-27 |
 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/181YGGJQCMlBzrwWFLmjkx), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 | 2023-07-25 | 2023-08-02 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-02 |
+| [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 | 2025-01-09 |  |
 | [A+B=C](https://open.spotify.com/track/6SpX6WLTYuw5VYWtXBZVgf) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [A+B=C](https://open.spotify.com/album/0l7AACwqmbndNL9ALRg05C) | 3:44 | 2023-09-21 | 2023-10-14 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 | 2024-01-03 |
 | [Abashiri](https://open.spotify.com/track/3a9ueatZGLkUplRDom7dTg) | [野流](https://open.spotify.com/artist/6bTrJ4B7LxftnnxkDaK5gm) | [Estuary](https://open.spotify.com/album/6KKrF25xemhPZ7HUuMWL5V) | 5:46 | 2024-11-05 | 2024-11-13 |
@@ -1950,7 +1951,7 @@
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 | 2024-03-12 | 2024-04-09 |
 | [生活](https://open.spotify.com/track/2GlvyUJN2SE6DEW2IMPg94) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活](https://open.spotify.com/album/2XktYRaoQiQ0z2V2AmTBlP) | 5:13 | 2024-05-17 | 2024-07-03 |
-| [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 | 2024-12-24 |  |
+| [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 | 2024-12-24 | 2025-01-12 |
 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 | 2023-11-21 | 2024-02-14 |
 | [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-23 |
 | [白鯨 \- Compuma Remix](https://open.spotify.com/track/5aTijhh78tFKguVwZFGhjk) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy), [Compuma](https://open.spotify.com/artist/6NjXizlPfK6qb4YhzcJZQO) | [再吉](https://open.spotify.com/album/2OPbfSolXfz1ReQXgV65tK) | 6:43 | 2024-05-21 | 2024-05-29 |

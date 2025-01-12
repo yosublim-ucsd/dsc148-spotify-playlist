@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 678722,
+  "num_followers": 678841,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In Continuum",
-        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
-      },
-      "artists": [
-        {
-          "name": "Destinity",
-          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Protector",
         "url": "https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 321970,
       "name": "Protector",
       "url": "https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "In Continuum",
+        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
+      },
+      "artists": [
+        {
+          "name": "Destinity",
+          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf"
-      },
-      "artists": [
-        {
-          "name": "Awakening Sun",
-          "url": "https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v"
-        }
-      ],
-      "duration_ms": 213638,
-      "name": "Void Silence",
-      "url": "https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Poverty of Self",
         "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 205669,
       "name": "Poverty of Self",
       "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf"
+      },
+      "artists": [
+        {
+          "name": "Awakening Sun",
+          "url": "https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v"
+        }
+      ],
+      "duration_ms": 213638,
+      "name": "Void Silence",
+      "url": "https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p"
+      },
+      "artists": [
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Narcissus",
+      "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "I Am Your God",
         "url": "https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Narcissus",
-        "url": "https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p"
+        "name": "All Hail The Void",
+        "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
       },
       "artists": [
         {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+          "name": "Enabler",
+          "url": "https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI"
         }
       ],
-      "duration_ms": 188972,
-      "name": "Narcissus",
-      "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
+      "duration_ms": 216455,
+      "name": "All Hail the Void",
+      "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1771,22 +1787,6 @@
       "duration_ms": 168164,
       "name": "Strength to Draw the Line",
       "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "All Hail The Void",
-        "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
-      },
-      "artists": [
-        {
-          "name": "Enabler",
-          "url": "https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI"
-        }
-      ],
-      "duration_ms": 216455,
-      "name": "All Hail the Void",
-      "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Sadness Rains",
-        "url": "https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW"
+        "name": "Army of Cops",
+        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
       },
       "artists": [
         {
-          "name": "Violent Life Violent Death",
-          "url": "https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ"
+          "name": "Pig Destroyer",
+          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Sadness Rains",
-      "url": "https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv"
+      "duration_ms": 198333,
+      "name": "Army of Cops",
+      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
     },
     {
       "added_at": "2023-01-18 15:54:17",

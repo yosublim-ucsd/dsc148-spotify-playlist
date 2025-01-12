@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647 likes - 19 songs - 35 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 649 likes - 19 songs - 36 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 |
 | 16 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 |
 | 17 | [The Remsen](https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:24 |
-| 18 | [Kentucky State Championship 1963](https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
+| 18 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
 | 19 | [Dear Roy...](https://open.spotify.com/track/4hfGKgAnzb9jJx7cEQGfqE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:46 |
 
-Snapshot ID: `Z38RgAAAAADNj+wzqJKCdiwHukjeSysj`
+Snapshot ID: `Z4BjAAAAAAC/K00tT06qvBRVM9PxlQdg`

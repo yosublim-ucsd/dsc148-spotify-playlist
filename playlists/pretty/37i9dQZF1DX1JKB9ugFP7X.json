@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24382,
+  "num_followers": 24389,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "PARA AFUERA",
-        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 154737,
-      "name": "PARA AFUERA",
-      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "PARA AFUERA",
+        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 154737,
+      "name": "PARA AFUERA",
+      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "El Magnetismo",
-        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Regresar\u00e1s \u2606",
         "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 219681,
       "name": "Regresar\u00e1s \u2606",
       "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "El Magnetismo",
+        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Gritan Fuerte",
-        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
+        "name": "FLAPS",
+        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
       "artists": [
         {
           "name": "Lucia Tacchetti",
           "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Gritan Fuerte",
-      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
+      "duration_ms": 225173,
+      "name": "Flaps",
+      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1147,22 +1151,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/0CwUm54LvUnYb2KkrxMSVL"
       },
@@ -1179,18 +1167,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1215,6 +1203,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Bum (Chocamos un Auto)",
         "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
       },
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "FLAPS",
-        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
+        "name": "Gritan Fuerte",
+        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
       },
       "artists": [
         {
           "name": "Lucia Tacchetti",
           "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
         }
       ],
-      "duration_ms": 225173,
-      "name": "Flaps",
-      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+      "duration_ms": 212893,
+      "name": "Gritan Fuerte",
+      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Bienvenide Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Bienvenide Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Si No Vas a Venir",
         "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
       },
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+        "name": "Bienvenide Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW"
       },
       "artists": [
         {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
         }
       ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+      "duration_ms": 196000,
+      "name": "Bienvenide Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1427,6 +1407,26 @@
       "duration_ms": 2137877,
       "name": "Atempera la Distancia (Club Set)",
       "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2024-11-15 03:00:00",

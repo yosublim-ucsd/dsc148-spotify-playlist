@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u300e\u30e6\u30a4\u30ab\u300f",
-  "num_followers": 116462,
+  "num_followers": 116503,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 260903,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
         "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
         "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 146935,
       "name": "it\u2019s okay",
       "url": "https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
-        "name": "\u76f8\u601d\u76f8\u611b",
-        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
-      },
-      "artists": [
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 260903,
-      "name": "\u76f8\u601d\u76f8\u611b",
-      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
-        "name": "HEART BEAT",
-        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 335465,
-      "name": "HEART BEAT",
-      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
         "name": "\u308f\u3092\u3093",
         "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 270900,
       "name": "\u308f\u3092\u3093",
       "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
+        "name": "HEART BEAT",
+        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 335465,
+      "name": "HEART BEAT",
+      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
-        "name": "Party!!",
-        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Party!!",
-      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
         "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
         "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 235466,
       "name": "\u30af\u30ba\u30ea\u5ff5",
       "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
+        "name": "Party!!",
+        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Party!!",
+      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -1303,6 +1303,38 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
+        "name": "tulip",
+        "url": "https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 181022,
+      "name": "\u3046\u305f\u305f\u306d",
+      "url": "https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
+        "name": "\u604b\u3092\u3057\u3066",
+        "url": "https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "duration_ms": 363461,
+      "name": "\u604b\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
         "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
         "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
       },
@@ -1335,18 +1367,18 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
-        "name": "tulip",
-        "url": "https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT"
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
       },
       "artists": [
         {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 181022,
-      "name": "\u3046\u305f\u305f\u306d",
-      "url": "https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x"
+      "duration_ms": 143240,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -1367,18 +1399,18 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 143240,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+      "duration_ms": 260000,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -1403,34 +1435,18 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
-        "name": "\u604b\u3092\u3057\u3066",
-        "url": "https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio"
-      },
-      "artists": [
-        {
-          "name": "HY",
-          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
-        }
-      ],
-      "duration_ms": 363461,
-      "name": "\u604b\u3092\u3057\u3066",
-      "url": "https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc"
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -1479,22 +1495,6 @@
       "duration_ms": 230666,
       "name": "\u307e\u305a\u306f\u4eca\u65e5\u304b\u3089",
       "url": "https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 299255,
-      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
       "added_at": "2025-01-09 07:00:10",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-01-09 07:00:10",
       "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/57B7wdk6YuFHxDZyBERvTK"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 266139,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
+    },
+    {
+      "added_at": "2025-01-09 07:00:10",
+      "album": {
         "name": "\u611b\u697d",
         "url": "https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 180633,
       "name": "\u611b\u697d",
       "url": "https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g"
-    },
-    {
-      "added_at": "2025-01-09 07:00:10",
-      "album": {
-        "name": "Present",
-        "url": "https://open.spotify.com/album/57B7wdk6YuFHxDZyBERvTK"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 266139,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
     },
     {
       "added_at": "2025-01-09 07:00:10",

@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18712,
+  "num_followers": 18713,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 337565,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Soft Power",
@@ -335,6 +319,22 @@
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Eldest Daughter Of An Eldest Daughter",
-        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Faery King",
-      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Rubicon",
@@ -399,6 +383,22 @@
       "duration_ms": 213611,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "My Dawgs",
         "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "RNZ\u014c SZN",
-        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
-      },
-      "artists": [
-        {
-          "name": "RNZ\u014c",
-          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "RNZ\u014c SZN",
-      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -905,22 +921,6 @@
       "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
@@ -935,22 +935,6 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
-    },
-    {
-      "added_at": "2024-12-12 13:00:02",
-      "album": {
-        "name": "How Can We Lose When We\u2019re So Sincere?!",
-        "url": "https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK"
-      },
-      "artists": [
-        {
-          "name": "Lontalius",
-          "url": "https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Apologise / City",
-      "url": "https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -975,6 +959,22 @@
       "duration_ms": 221000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL"
+    },
+    {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "How Can We Lose When We\u2019re So Sincere?!",
+        "url": "https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK"
+      },
+      "artists": [
+        {
+          "name": "Lontalius",
+          "url": "https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Apologise / City",
+      "url": "https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9"
     },
     {
       "added_at": "2024-12-05 13:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "English Boy",
-        "url": "https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf"
-      },
-      "artists": [
-        {
-          "name": "PARK RD",
-          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
-        }
-      ],
-      "duration_ms": 181006,
-      "name": "English Boy",
-      "url": "https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "GO!",
@@ -1063,6 +1047,22 @@
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "English Boy",
+        "url": "https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "duration_ms": 181006,
+      "name": "English Boy",
+      "url": "https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67"
     },
     {
       "added_at": "2024-12-12 13:00:02",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Bigger",
-        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Bigger",
-      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "SLO MO",
-        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 335043,
-      "name": "Stand Straight",
-      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 232615,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "SLO MO",
+        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 335043,
+      "name": "Stand Straight",
+      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
     },
     {
       "added_at": "2024-10-24 13:00:00",

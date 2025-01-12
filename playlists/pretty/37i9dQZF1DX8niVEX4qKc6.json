@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 188344,
+  "num_followers": 188365,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
-        "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
-      "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
+        "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
+      "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "No S\u00e9 Si Es Baires O Madrid",
         "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 237946,
       "name": "11 y 6",
       "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Constelaciones en el Luna Park (En Vivo)",
         "url": "https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Seminare",
-        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
-      },
-      "artists": [
-        {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "Seminare",
-      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1511,6 +1495,22 @@
       "duration_ms": 221651,
       "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
       "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Seminare",
+        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "Seminare",
+      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "PAJARITOS (Versiones)",
         "url": "https://open.spotify.com/album/31DWQYCVs3CcqoSFLxTYtn"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Nada Mas Que Vos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 182241,
-      "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1707,6 +1691,22 @@
       "duration_ms": 204879,
       "name": "Amor de Barricada",
       "url": "https://open.spotify.com/track/6jeARvnnjf2rGkixopI5zT"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Nada Mas Que Vos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 182241,
+      "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"
     },
     {
       "added_at": "2024-12-20 03:00:01",

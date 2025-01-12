@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集
 
-[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 15 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 257 likes - 15 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

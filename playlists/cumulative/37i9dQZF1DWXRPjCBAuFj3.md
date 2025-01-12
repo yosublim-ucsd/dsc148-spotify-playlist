@@ -4,7 +4,7 @@
 
 > Il rap è uno sport competitivo 🔥 Cover: Doechii 🐍
 
-733 songs - 1 day 14 hr 28 min
+734 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2022-12-16 | 2023-01-25 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-22 | 2022-10-19 |
 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-06-20 | 2024-10-07 |
+| [99 \(with Future\)](https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:52 | 2025-01-10 |  |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-07 |  |
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-08-08 |  |
 | [Adrenalean](https://open.spotify.com/track/0klIln517VMntb0BAesVuR) | [menace Santana](https://open.spotify.com/artist/5Y5EJ20jDQkkB213zwuDXR) | [Adrenalean](https://open.spotify.com/album/6UQtl3xS1bK5lpotk4p9xn) | 2:12 | 2024-01-26 | 2024-04-07 |
@@ -196,7 +197,7 @@
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-06-30 | 2023-08-19 |
 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 | 2023-03-16 | 2023-03-31 |
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-15 | 2024-11-26 |
-| [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-21 |  |
+| [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-21 | 2025-01-12 |
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-07-26 | 2023-09-24 |
 | [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-10-06 | 2024-01-09 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2022-05-10 | 2022-07-27 |

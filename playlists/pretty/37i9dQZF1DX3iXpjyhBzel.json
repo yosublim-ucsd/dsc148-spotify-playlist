@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Drops INA",
-  "num_followers": 1109523,
+  "num_followers": 1109835,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Eu Quero Ser Grato",
-        "url": "https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Kaique e Felipe",
-          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
-        }
-      ],
-      "duration_ms": 192403,
-      "name": "Eu Quero Ser Grato",
-      "url": "https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Eu Quero Ser Grato",
+        "url": "https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        }
+      ],
+      "duration_ms": 192403,
+      "name": "Eu Quero Ser Grato",
+      "url": "https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Eu Confio em Ti",
-        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        }
-      ],
-      "duration_ms": 303582,
-      "name": "Eu Confio em Ti",
-      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 255600,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Eu Confio em Ti",
+        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        }
+      ],
+      "duration_ms": 303582,
+      "name": "Eu Confio em Ti",
+      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Deus N\u00e3o Falhar\u00e1",
         "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 243252,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 309590,
-      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1139,22 +1115,26 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
+        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         },
         {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 377246,
-      "name": "O C\u00e9u Responde Diferente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
+      "duration_ms": 309590,
+      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1171,6 +1151,26 @@
       "duration_ms": 528693,
       "name": "O Nome de Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "duration_ms": 377246,
+      "name": "O C\u00e9u Responde Diferente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 420477,
-      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y"
       },
@@ -1251,22 +1235,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Brilha Tua Luz",
-        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+        "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 295997,
-      "name": "Brilha Tua Luz",
-      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
+      "duration_ms": 420477,
+      "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1287,6 +1267,26 @@
       "duration_ms": 497600,
       "name": "Seu Amor / Diante da Cruz",
       "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
       "artists": [
         {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2025-01-10 03:01:06",

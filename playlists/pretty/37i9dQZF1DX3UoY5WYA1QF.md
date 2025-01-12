@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,253 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,467 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 96 | [El Padrino](https://open.spotify.com/track/7zqJRHLM9MfoHj0WRRgAn2) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:15 |
 | 97 | [El Consentido](https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Consentido](https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm) | 3:21 |
 | 98 | [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 |
-| 99 | [Mr\. Mandilón](https://open.spotify.com/track/3krnQOyZoTT54l1Bnzo4Xi) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Volví Pa´l Pueblo Acompañado Vol\. 1](https://open.spotify.com/album/27tyk3niWuwlHWl8wCCRGT) | 3:15 |
-| 100 | [Estuve](https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:32 |
+| 99 | [Estuve](https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:32 |
+| 100 | [Cada Mañana](https://open.spotify.com/track/7Hi3l1vdmvQGOwvLP2FQRo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Otra Vez](https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF) | 3:24 |
 
 Snapshot ID: `ZpDGYAAAAADluNQWO9gzR1ifKcEmpoau`

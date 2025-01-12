@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 38 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 38 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 29 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
 | 30 | [She's Strong](https://open.spotify.com/track/5jK2To0EsnOGhc1Xzo6aev) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors EP](https://open.spotify.com/album/5TfPH2ZBgw7iuQOdYDx1Bs) | 4:42 |
 | 31 | [New Harrison Again](https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Tasty Raps, Vol\. 1](https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn) | 2:32 |
-| 32 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
+| 32 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 |
 | 33 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 |
 | 34 | [How Can It Be \(feat\. Maddee\)](https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:00 |
 | 35 | [So Far From Home](https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 |
 | 36 | [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 |
-| 37 | [Checkpoint Titanium](https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:44 |
+| 37 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 | 38 | [Collage](https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 3:42 |
 
-Snapshot ID: `Z38RgAAAAAAbVza3UMUVbiDfQ2D6rnoj`
+Snapshot ID: `Z4BjAAAAAACN1az8DMOJC1rlph583mit`

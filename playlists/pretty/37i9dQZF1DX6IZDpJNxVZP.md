@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,346 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,337 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I Want For Christmas Is You](https://open.spotify.com/track/4vGYtGuPN3gTQTW7oVeyNo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas \- 2024](https://open.spotify.com/album/2vJ7QIv3w2gLJMREBzVjeD) | 3:18 |
 | 2 | [Frosty the Snowman](https://open.spotify.com/track/6TiaW1NGPlUJ2GR0GgoX0p) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Raffi's Christmas Album: A Collection of Christmas Songs for Children](https://open.spotify.com/album/5IxSJky6odPV5q2DkIj688) | 2:03 |
 | 3 | [Jingle Meows](https://open.spotify.com/track/5sAxRoAmdnxftcCq7gIjkC) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Meowy Christmas](https://open.spotify.com/album/0k7nPAfUSUnmnUss7IwoBu) | 2:06 |
-| 4 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/5ScY9oz1gCgqmnt8oqA4ai) | [Mini Mix](https://open.spotify.com/artist/4pQjrI2vShyWFZUQzkjRgf) | [Christmas Kids Hits](https://open.spotify.com/album/5wzXKDciSbEHScl60tXTGR) | 1:02 |
+| 4 | [LOCA NAVIDAD](https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [LOCA NAVIDAD](https://open.spotify.com/album/59RAxEjafry6sNP6CPw06b) | 2:36 |
 | 5 | [Deck The Halls](https://open.spotify.com/track/4gP2ESQlBm0drE6UUhmAr5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Deck the Halls with MusicClubKids!](https://open.spotify.com/album/6VwAB01urKaj2iAUNklGRZ) | 2:04 |
-| 6 | [LOCA NAVIDAD](https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [LOCA NAVIDAD](https://open.spotify.com/album/59RAxEjafry6sNP6CPw06b) | 2:36 |
+| 6 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/5ScY9oz1gCgqmnt8oqA4ai) | [Mini Mix](https://open.spotify.com/artist/4pQjrI2vShyWFZUQzkjRgf) | [Christmas Kids Hits](https://open.spotify.com/album/5wzXKDciSbEHScl60tXTGR) | 1:02 |
 | 7 | [Frosty the Snowman](https://open.spotify.com/track/0TmWpsweTtZSty7T2GUApN) | [Merry Tunes for Kids](https://open.spotify.com/artist/0X4FAPKfMPm0khHzF9SBix) | [Christmas Tunes for Kids \(Vol\. 1\)](https://open.spotify.com/album/5yCmqdA1ePOlV2RTS3HdKj) | 1:53 |
 | 8 | [Family Christmas Fun](https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Let's Jump In! The Album \(Deluxe\)](https://open.spotify.com/album/2ane689azA1Q2g1RE8IEMo) | 3:36 |
 | 9 | [It's Snowing](https://open.spotify.com/track/3K3GKqRPMWEZw9VDp6xh6e) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [It's the Holidays!](https://open.spotify.com/album/1LmaYUsLeq86ssX6fk3q5A) | 2:33 |

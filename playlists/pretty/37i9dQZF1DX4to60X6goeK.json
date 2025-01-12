@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 67281,
+  "num_followers": 67312,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
         "name": "Out & About",
         "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 153600,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2025-01-10 10:02:50",

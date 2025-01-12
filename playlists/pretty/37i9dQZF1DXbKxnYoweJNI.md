@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: RPG x Black MIC x BG8LOCC
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,401 likes - 128 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,403 likes - 128 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 10 | [搭積木的人](https://open.spotify.com/track/6s7UIOrNSMAYoDZ7vYPqOl) | [简弘亦](https://open.spotify.com/artist/3uZusDWkeRroyeQeX6DV8w) | [搭積木的人](https://open.spotify.com/album/7DCkj2By3OQvqQxpyuEjo5) | 4:15 |
 | 11 | [分開或許妳會快樂](https://open.spotify.com/track/3qk5oktdpbCHUEDQUNStGm) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [分開或許妳會快樂](https://open.spotify.com/album/5DRUHOeHWJrvh889WkgqHr) | 3:48 |
 | 12 | [飲勝](https://open.spotify.com/track/0WQZ7PD6ThXHQF3zW8Zggd) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [飲勝](https://open.spotify.com/album/3HmpJRoSVloTpyc4wbXUbK) | 4:29 |
-| 13 | [归零](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
+| 13 | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
 | 14 | [好久不見](https://open.spotify.com/track/5xWEjTvI5ZcrleWQBxwmJ8) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [好久不見](https://open.spotify.com/album/3gVmJvOG55D2gKx7IAHQ0u) | 3:40 |
 | 15 | [廢棄清理](https://open.spotify.com/track/5VRtvKBkpZIxKqtZIvK4Tp) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [廢棄清理](https://open.spotify.com/album/1hg6wNzp3DpzLVSHMTuc4m) | 3:01 |
 | 16 | [TTYL](https://open.spotify.com/track/6ZNCCEHyU70fSeWZJtp1Ok) | [史斯宇](https://open.spotify.com/artist/5KFPBuZ5A3eHa3PHZVD2cx) | [柔韌有餘 Gentle Armor](https://open.spotify.com/album/5B8QQIdDrP7ehoM0KIFULd) | 4:35 |

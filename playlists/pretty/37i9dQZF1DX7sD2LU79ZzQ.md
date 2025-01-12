@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Timun Jelita
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,433 likes - 78 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,473 likes - 78 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 10 | [Janji Setia \- Special Live Session](https://open.spotify.com/track/1UL4DpL10im6LNixoAgTUM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini \(Special Live Session\)](https://open.spotify.com/album/24C4sem4cDgQOISrt4jiSy) | 4:40 |
 | 11 | [Teman Saja \- Acoustic](https://open.spotify.com/track/1DkBhhifKFstqd5VU0Zxna) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [Teman Saja \(Acoustic\)](https://open.spotify.com/album/2L1MY1TZh4uHvgyrR6wXHK) | 3:12 |
 | 12 | [Apa Artinya Aku](https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Apa Artinya Aku](https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP) | 4:02 |
-| 13 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [Pia](https://open.spotify.com/artist/6jAxLXKAHGOTWqIlNblxF8), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
+| 13 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
 | 14 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 15 | [Kembalilah](https://open.spotify.com/track/5QsEBDvwOBvRFRSIgVmD0i) | [Jelita Tobing](https://open.spotify.com/artist/4t7oBqRaNXJqx3pJa5Nj5E) | [Kembalilah](https://open.spotify.com/album/4NhyRvFyCdaoGba8TEEkma) | 4:17 |
 | 16 | [Tak Biasa](https://open.spotify.com/track/0eOERo9bi3NKqaFz4zz4II) | [Jaz Rowe](https://open.spotify.com/artist/5OawJtVhHaAxoXkotlKpbI) | [Tak Biasa](https://open.spotify.com/album/3Wq5E0BDvyKL2glh1mHfRq) | 3:24 |

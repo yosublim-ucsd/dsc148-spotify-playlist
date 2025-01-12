@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,828 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,866 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 32 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 |
 | 33 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
 | 34 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
-| 35 | [Cleopatra / “Gobernante”](https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Cleopatra / “Gobernante”](https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh) | 2:59 |
-| 36 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
+| 35 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
+| 36 | [Cleopatra / “Gobernante”](https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Cleopatra / “Gobernante”](https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh) | 2:59 |
 | 37 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 |
 | 38 | [Desde Que Te Bese](https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [LDCR: Los Del Corazón Roto](https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW) | 3:02 |
 | 39 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 |
 | 50 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 
-Snapshot ID: `Z38RgAAAAADlzWJ2ej2OYKAVSuZLQFHz`
+Snapshot ID: `Z4BjAAAAAACROrmkBV9AwAxQn5DuYgz2`

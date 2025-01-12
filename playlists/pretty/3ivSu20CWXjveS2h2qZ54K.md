@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,680 likes - 74 songs - 4 hr 9 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,682 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 17 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 |
 | 18 | [Las Ganas](https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx) | [Las Ganas](https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm) | 2:54 |
 | 19 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 |
-| 20 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:57 |
+| 20 | [Tequila y flechas](https://open.spotify.com/track/2OeEAMsmU9crn39lHKffzp) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [Tequila y flechas](https://open.spotify.com/album/71jI5arR8T210rGQHqkRxM) | 2:56 |
 | 21 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 |
 | 22 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 23 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 |

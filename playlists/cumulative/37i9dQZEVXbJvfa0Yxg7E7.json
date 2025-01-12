@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -1534,7 +1560,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 209360,
       "name": "Alt kjem til g\u00e5 bra, mamma.",
       "url": "https://open.spotify.com/track/2BUfpotqAMeEr9zzNJBx8l"
@@ -1832,6 +1858,28 @@
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "album": {
@@ -3518,7 +3566,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -16504,7 +16552,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -16906,7 +16954,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -19795,6 +19843,28 @@
     },
     {
       "album": {
+        "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+        "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165528,
+      "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
+      "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
+    },
+    {
+      "album": {
         "name": "KJ\u00d8PE HELE SVERIGE",
         "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
       },
@@ -20280,7 +20350,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -20302,7 +20372,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -20452,6 +20522,28 @@
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
+    },
+    {
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153207,
+      "name": "Last Song feat Faouzia",
+      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
     },
     {
       "album": {
@@ -23564,7 +23656,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 208983,
       "name": "Min far",
       "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
@@ -26156,6 +26248,28 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+    },
+    {
+      "album": {
+        "name": "One Day You\u00b4ll Dance For Me, New York City",
+        "url": "https://open.spotify.com/album/73cI9NfBju6sZU3JYuXODE"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182059,
+      "name": "One Day You\u00b4ll Dance For Me, New York City",
+      "url": "https://open.spotify.com/track/78Tl4mJ6HZd2dQqyS91MqG"
     },
     {
       "album": {
@@ -32942,7 +33056,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 172000,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7nW7RLKOCwcVVCbmc1LQ54"
@@ -34838,7 +34952,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -34856,7 +34970,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -34896,7 +35010,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -34918,7 +35032,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -35648,7 +35762,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -35702,7 +35816,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -38388,6 +38502,24 @@
       "duration_ms": 175698,
       "name": "Wish You Were Here (feat. Khalid)",
       "url": "https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189806,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
       "album": {

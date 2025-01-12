@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1049026,
+  "num_followers": 1049085,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Medley da Gaiola (DENNIS Remix)",
-        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
           "name": "DENNIS",
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Medley da Gaiola - DENNIS Remix",
-      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -879,22 +879,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+        "name": "Medley da Gaiola (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         },
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         }
       ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
+      "duration_ms": 239999,
+      "name": "Medley da Gaiola - DENNIS Remix",
+      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Physical (Alok Remix)",
-        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Physical - Alok Remix",
-      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alien (Topic Remix)",
-        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Alien - Topic Remix",
-      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Metaphor",
         "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 202000,
       "name": "Metaphor",
       "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Alien (Topic Remix)",
+        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Alien - Topic Remix",
+      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
     },
     {
       "added_at": "2024-11-15 03:00:00",

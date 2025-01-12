@@ -773,6 +773,40 @@
     },
     {
       "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139605,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+    },
+    {
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -1532,7 +1566,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 206608,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe"

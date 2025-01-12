@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 439499,
+  "num_followers": 439534,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAD2GVhMhh5bqG8XfkwtIwC9",
+  "snapshot_id": "Z4BjAAAAAADPlahZEh4z9g1BYVhC33lV",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Regreso de Chico",
-        "url": "https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG"
+        "name": "10 Kilates (Con Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
       },
       "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 261140,
-      "name": "El Regreso de Chico",
-      "url": "https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota"
+      "duration_ms": 167282,
+      "name": "El Perseverante",
+      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Kilates (Con Norte\u00f1o)",
-        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+        "name": "El Regreso de Chico",
+        "url": "https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG"
       },
       "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 167282,
-      "name": "El Perseverante",
-      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+      "duration_ms": 261140,
+      "name": "El Regreso de Chico",
+      "url": "https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota"
     },
     {
       "added_at": null,

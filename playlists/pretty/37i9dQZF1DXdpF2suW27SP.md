@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LON3R JOHNY & ProfJam entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,600 likes - 69 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,591 likes - 69 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 12 | [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 |
 | 13 | [MISSA A METADE](https://open.spotify.com/track/77cZgSYlpLPCoDtL3IuY9Q) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [MISSA A METADE](https://open.spotify.com/album/6AEItJ41BirJxtmrgtydTc) | 3:12 |
 | 14 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
-| 15 | [Namorar Dá Medo](https://open.spotify.com/track/5n3RfToptMuNzW0BGRn9Oa) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [WILLZONE](https://open.spotify.com/artist/3lhyaO9a9uxjZh8Q7tcKg5) | [Namorar Dá Medo](https://open.spotify.com/album/7neSJ0Udu8lXAzGUOJ7Kad) | 2:52 |
+| 15 | [Namorar Dá Medo](https://open.spotify.com/track/5n3RfToptMuNzW0BGRn9Oa) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [WILLZONE](https://open.spotify.com/artist/3lhyaO9a9uxjZh8Q7tcKg5), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Namorar Dá Medo](https://open.spotify.com/album/7neSJ0Udu8lXAzGUOJ7Kad) | 2:52 |
 | 16 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
 | 17 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |
 | 18 | [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 |

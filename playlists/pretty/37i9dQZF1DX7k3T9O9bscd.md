@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Hermanos Gutiérrez on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,418 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,514 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 29 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
 | 30 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
 | 31 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
-| 32 | [Cascabel](https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Cascabel](https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG) | 6:32 |
+| 32 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 33 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
-| 34 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
-| 35 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
+| 34 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
+| 35 | [Cascabel](https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Cascabel](https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG) | 6:32 |
 | 36 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
 | 37 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
 | 38 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 52 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 53 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 |
 | 54 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 55 | [attention](https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD) | 7:05 |
-| 56 | [Moon Needs The Owl Pt\. 1](https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R) | [Upupayāma](https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD) | [Moon Needs The Owl Pt\. 1](https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx) | 4:58 |
+| 55 | [Moon Needs The Owl Pt\. 1](https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R) | [Upupayāma](https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD) | [Moon Needs The Owl Pt\. 1](https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx) | 4:58 |
+| 56 | [attention](https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD) | 7:05 |
 | 57 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 58 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
 | 59 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 67 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 68 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
 | 69 | [Dune](https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s) | [Spiny Norman](https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K) | [Dune](https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC) | 3:59 |
-| 70 | [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 |
-| 71 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 70 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 71 | [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 |
 | 72 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 |
 | 73 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 74 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 76 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 77 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 |
 | 78 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 |
-| 79 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
-| 80 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 |
+| 79 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 |
+| 80 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
 | 81 | [Starlight](https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [World's Most Stressed Out Gardener](https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43) | 3:59 |
 | 82 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 |
 | 83 | [Mother Seletta](https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Non Ex Orbis](https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq) | 8:06 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 97 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 |
 | 98 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 |
 | 99 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 100 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
+| 100 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
 
 Snapshot ID: `Z3xn7QAAAADOEZ3RaSrs3ZRv2JGJoFn5`

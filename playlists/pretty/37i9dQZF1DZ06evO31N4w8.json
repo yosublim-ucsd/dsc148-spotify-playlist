@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 61007,
+  "num_followers": 61017,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAC+eApa7oMVVjUkhq2kc5BR",
+  "snapshot_id": "Z4BjAAAAAABc23YOcTheR6EfkDZDi6UH",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Mi Amor No Lo Mereces",
-      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Sabor Amargo",
-      "url": "https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3"
+      "duration_ms": 159840,
+      "name": "Mi Amor No Lo Mereces",
+      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 177600,
       "name": "Desde la Otra Mesa",
       "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Sabor Amargo",
+      "url": "https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Falsa y Mancornadora",
-      "url": "https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Firme",
         "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 211962,
       "name": "Presiento Que Voy a Llorar",
       "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Falsa y Mancornadora",
+      "url": "https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 202573,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
     },
     {
       "added_at": null,

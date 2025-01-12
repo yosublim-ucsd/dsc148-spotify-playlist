@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Nej au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,886 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,918 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 83 | [Her World](https://open.spotify.com/track/4TNhWf5i5vvXoFlgHAMibJ) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Her World](https://open.spotify.com/album/3fusfgcor6dCV3gBB1Wf53) | 2:25 |
 | 84 | [Milkshake \(Shaking Like A Milkshake\)](https://open.spotify.com/track/3J2XQrsfuFvbLYIxlBYIKY) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Milkshake \(Shaking Like A Milkshake\)](https://open.spotify.com/album/0H0GIVPxDYuUhhfA2oqshP) | 2:30 |
 | 85 | [Making My Daydream Real](https://open.spotify.com/track/01hkjNOdQi6RIk6Q1zOurd) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Benny Kane](https://open.spotify.com/artist/3d3XBfj0Sm9LDyBM8CoqUB) | [Making My Daydream Real](https://open.spotify.com/album/7lNH0x9SFXs9wCJVvhvPXj) | 2:57 |
-| 86 | [Rocket](https://open.spotify.com/track/6bczDYo1OaCczScJPDxRVZ) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt) | [Rocket](https://open.spotify.com/album/1mkMRIRwqA2nOHnGV9XDNI) | 3:29 |
+| 86 | [Rocket](https://open.spotify.com/track/6bczDYo1OaCczScJPDxRVZ) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt), [Samson For President](https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb) | [Rocket](https://open.spotify.com/album/1mkMRIRwqA2nOHnGV9XDNI) | 3:29 |
 | 87 | [Où va la chance \- Françoise Hardy Cover](https://open.spotify.com/track/6pEPwhRR8kiwKY3mw3vjEb) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Où va la chance \(Françoise Hardy Cover\)](https://open.spotify.com/album/2mr2BtUoxYHL15s4AXorev) | 3:55 |
 | 88 | [Zombie](https://open.spotify.com/track/5jp3CfoQLxLSRKhscLqb1p) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Zombie](https://open.spotify.com/album/5ACLv4gC6phkXw8NcQ83Fd) | 2:06 |
 | 89 | [Punching ball](https://open.spotify.com/track/34dqtLzT3dorVLEGo6nvEP) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Punching ball](https://open.spotify.com/album/2lG7gM4CWX0y83os33ND8W) | 3:20 |

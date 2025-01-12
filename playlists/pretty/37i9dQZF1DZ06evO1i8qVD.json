@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 34745,
+  "num_followers": 34749,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACuXyn/Jqam1rWyIsF6VLIr",
+  "snapshot_id": "Z4BjAAAAAADVCOBIB655/kaqPZUW4N+X",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 275680,
       "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 339466,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
     },
     {
       "added_at": null,

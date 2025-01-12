@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 404835,
+  "num_followers": 404933,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABrbOEtFkz+yGQkH8K0MmUZ",
+  "snapshot_id": "Z4BjAAAAAACVJ/aBZGiKC2lv5EHb5uwF",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 360013,
+      "name": "High Times - Remastered 2013",
+      "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Hot Tequila Brown",
+      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Hot Tequila Brown",
-      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 360013,
-      "name": "High Times - Remastered 2013",
-      "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 167277,
+  "num_followers": 167348,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 283893,
       "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
       "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+      },
+      "artists": [
+        {
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+        }
+      ],
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "A Voice",
         "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
       },
       "artists": [
         {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
         }
       ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
-      },
-      "artists": [
-        {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
-        }
-      ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 211893,
       "name": "Okay Far Away",
       "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Featuring EP",
+        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
+      },
+      "artists": [
+        {
+          "name": "Meryl Rudy",
+          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 176543,
+      "name": "I'd Run to the Moon",
+      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "No Meanness",
         "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
@@ -1047,42 +1067,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Featuring EP",
-        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
-      },
-      "artists": [
-        {
-          "name": "Meryl Rudy",
-          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "I'd Run to the Moon",
-      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 246423,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
-      },
-      "artists": [
-        {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Midnight Jones",
         "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
       },
       "artists": [
         {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
         }
       ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1275,22 +1259,34 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Softer Than You Know",
-        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
       },
       "artists": [
         {
-          "name": "Frans Bak",
-          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
-        },
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Softer Than You Know",
-      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+        "name": "Softer Than You Know",
+        "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
       "artists": [
         {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         }
       ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+      "duration_ms": 208013,
+      "name": "Softer Than You Know",
+      "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
     },
     {
       "added_at": "2024-09-18 05:02:09",

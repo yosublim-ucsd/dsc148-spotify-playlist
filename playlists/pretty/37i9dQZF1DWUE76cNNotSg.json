@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 548442,
+  "num_followers": 548493,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
+        "name": "If We Go Down",
+        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "If We Go Down",
+      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
         "name": "2 AM",
         "url": "https://open.spotify.com/album/3Mf73h0N9s0N9fMyTWA2rC"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 220640,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "If We Go Down",
-        "url": "https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "If We Go Down",
-      "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
     },
     {
       "added_at": "2025-01-10 05:00:37",

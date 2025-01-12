@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,660 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,671 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 3 | [Scream With Me](https://open.spotify.com/track/7ss73yV5efYHgm9bAQ98JM) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 2:52 |
 | 4 | [Not Falling](https://open.spotify.com/track/15TzkwxGNvM3RGib0YkH4T) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:03 |
 | 5 | [Forget to Remember \- From Saw II \- Original Soundtrack](https://open.spotify.com/track/0h5D9uxuZRAfq6qMMX34vN) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:35 |
-| 6 | [Do What You Do](https://open.spotify.com/track/4Icu8prpEka7ufeeyVlj7a) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:36 |
-| 7 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
+| 6 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
+| 7 | [Do What You Do](https://open.spotify.com/track/4Icu8prpEka7ufeeyVlj7a) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:36 |
 | 8 | [World So Cold](https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 5:36 |
 | 9 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
 | 10 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 35 | [Heard It All Before](https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 6:05 |
 | 36 | [Some Assembly Required](https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 2:46 |
 | 37 | [Not Falling Intro](https://open.spotify.com/track/32tWmBSAXZmjhFhPNhgsh4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 0:30 |
-| 38 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
-| 39 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
+| 38 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
+| 39 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
 | 40 | [Poop Loser](https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 1:22 |
 
-Snapshot ID: `Z38RgAAAAACOYt9sSCdKuPS3sZhVl+yk`
+Snapshot ID: `Z4BjAAAAAADY0wN6YpkyXu1UzY6P8/Up`

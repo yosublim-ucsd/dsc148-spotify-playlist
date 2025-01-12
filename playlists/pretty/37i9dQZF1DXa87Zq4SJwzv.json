@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 68600,
+  "num_followers": 68625,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Mundo Lite",
+        "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Duele El Amor",
+      "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Mundo Lite",
-        "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
-      },
-      "artists": [
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Duele El Amor",
-      "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -371,6 +371,38 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 222383,
+      "name": "quiero sentirme bien",
+      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 222383,
-      "name": "quiero sentirme bien",
-      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "El alma al aire",
         "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 308560,
       "name": "Cuando nadie me ve",
       "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Fantas\u00eda Pop",
-        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Cada Que...",
-      "url": "https://open.spotify.com/track/22cB3FJq4vAb2gnUUbux2i"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 249426,
       "name": "Fuimos Amor",
       "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Fantas\u00eda Pop",
+        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Cada Que...",
+      "url": "https://open.spotify.com/track/22cB3FJq4vAb2gnUUbux2i"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 212293,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "me gusta que me gustes",
-        "url": "https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv"
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 155159,
-      "name": "me gusta que me gustes",
-      "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
+      "duration_ms": 220777,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -987,22 +987,6 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 220777,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -1035,6 +1019,22 @@
       "duration_ms": 125706,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2R7ZNlng7Kjdo0Pp4TWNXa"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "me gusta que me gustes",
+        "url": "https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 155159,
+      "name": "me gusta que me gustes",
+      "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
     },
     {
       "added_at": "2024-06-24 20:26:35",

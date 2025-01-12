@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: HyunJin\(현진\)\)
 
-460 songs - 1 day 1 hr 3 min
+461 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [izzana \(Feat\. OLNL\)](https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [izzana \(Feat\. OLNL\)](https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N) | 3:32 | 2024-04-30 | 2024-08-11 |
 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 | 2024-04-05 | 2024-08-07 |
 | [Jealousy](https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jealousy](https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr) | 2:55 | 2022-06-09 | 2022-09-06 |
+| [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-11 |  |
 | [Jimmy Choo](https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Jimmy Choo](https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z) | 3:17 | 2023-10-27 | 2024-03-16 |
 | [Just Be Here](https://open.spotify.com/track/4Dffc36mG23WsfT2pSYdmv) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Just Be Here](https://open.spotify.com/album/05xU7EhMXDvPTxnyg9Jkll) | 3:39 | 2024-12-05 |  |
 | [karaoke love \(Feat\. Ugly Duck\)](https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [karaoke love](https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM) | 3:33 | 2023-07-14 | 2023-11-03 |

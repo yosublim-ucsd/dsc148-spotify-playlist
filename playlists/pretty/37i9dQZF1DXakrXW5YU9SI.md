@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,772 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,821 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 36 | [Dom](https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Dom](https://open.spotify.com/album/1PXmcDT1vXrj1HKSKFRcO3) | 3:05 |
 | 37 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
 | 38 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 |
-| 39 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
-| 40 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
-| 41 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
+| 39 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
+| 40 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
+| 41 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 42 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
 | 43 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
 | 44 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 53 | [Próba](https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Archie](https://open.spotify.com/artist/7MfeMkE24VwoEnNKR2RA8u) | [Dobrostan](https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV) | 3:05 |
 | 54 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
 | 55 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 |
-| 56 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
-| 57 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
+| 56 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
+| 57 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
 | 58 | [Na Siłę](https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [W Domu EP](https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ) | 3:54 |
 | 59 | [my, „artyści”](https://open.spotify.com/track/4TTvKjB4D60JVEfTeFB1wx) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Żony Hollywood](https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW) | 3:22 |
-| 60 | [może jutro](https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może jutro](https://open.spotify.com/album/5XljoD2PB55bc5EertXoMP) | 3:48 |
+| 60 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
 
 Snapshot ID: `Z4DsqwAAAACNm1XtEnrIza7+RujUNr6X`

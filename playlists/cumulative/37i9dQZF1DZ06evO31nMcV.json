@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Together Without You (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213688,
+      "name": "Together Without You (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT"
+    },
+    {
+      "album": {
         "name": "Piano Karma",
         "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },

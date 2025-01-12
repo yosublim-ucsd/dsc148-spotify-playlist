@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-226 songs - 11 hr 42 min
+227 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 | 2024-04-04 | 2024-05-10 |
 | [En La Batalla](https://open.spotify.com/track/6cMzrfhTShDac4wRTDPJ6w) | [REO](https://open.spotify.com/artist/5u0DB8dhYFxaW2Wwl5Fnr2) | [Con Dolor](https://open.spotify.com/album/03bpNQfxpjadNsU3zlQLlg) | 2:55 | 2024-12-19 |  |
 | [En Mi Nube](https://open.spotify.com/track/5b5SH7YGKsXjjqBuvTZ4D2) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [En Mi Nube](https://open.spotify.com/album/50VrsloTbWj0E0CDdPvFcH) | 3:33 | 2024-04-18 | 2024-06-21 |
-| [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 | 2024-07-19 | 2025-01-11 |
+| [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 | 2024-07-19 |  |
 | [Enamorado de la Muerte](https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB) | 3:49 | 2023-12-08 | 2024-04-19 |
 | [Enemigo a las Puertas](https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:15 | 2024-05-09 |  |
 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 | 2023-12-08 |  |
@@ -116,7 +116,7 @@
 | [Jarama](https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Jarama](https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh) | 3:37 | 2023-12-08 |  |
 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 | 2023-12-08 |  |
 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 | 2023-12-08 | 2024-04-19 |
-| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 |  |
+| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 | 2025-01-12 |
 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 | 2023-12-08 |  |
 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 | 2023-12-08 |  |
@@ -130,6 +130,7 @@
 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 | 2024-06-20 |  |
 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 | 2023-12-08 | 2024-04-19 |
 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 | 2024-05-09 |  |
+| [Libre y Salvaje](https://open.spotify.com/track/2t7r2yemAOH1Bua8VAjcst) | [Bicho Papão](https://open.spotify.com/artist/5RKgBCziINv0ItycupgH3U), [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Libre y Salvaje](https://open.spotify.com/album/1kl7bpPTQQaFBr8wG6iKdS) | 3:16 | 2025-01-09 |  |
 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 | 2023-12-08 |  |
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
 | [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 | 2024-09-26 |  |
@@ -164,7 +165,7 @@
 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 | 2023-12-08 | 2024-06-28 |
 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 | 2023-12-28 | 2024-04-19 |
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
-| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 |  |
+| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 | 2025-01-12 |
 | [Nuestra guerra](https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Nuestra guerra](https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf) | 5:05 | 2024-04-11 | 2024-06-21 |
 | [Nueva libertad](https://open.spotify.com/track/3UtJ8omZiJbHynoIbi4mQE) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M) | [A cuchillo](https://open.spotify.com/album/0I0MU6bbaZ6xvgtsEgXOz2) | 1:45 | 2024-11-07 | 2024-12-06 |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 | 2024-07-20 |

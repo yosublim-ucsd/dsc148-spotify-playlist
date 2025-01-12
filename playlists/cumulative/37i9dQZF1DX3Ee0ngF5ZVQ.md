@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-675 songs - 1 day 16 hr 14 min
+677 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 |  |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
 | [Guess Some Dreams Come True](https://open.spotify.com/track/3huD0tFdSCq5NZ6rM5G1Ug) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Guess Some Dreams Come True](https://open.spotify.com/album/26WPzOLfAPiBfTd3NLI0l8) | 4:19 | 2022-02-25 | 2022-07-19 |
+| [Haggard Blues](https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Haggard Blues](https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK) | 3:07 | 2025-01-10 |  |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-08-05 |  |
 | [Hang Me Out to Dry](https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Hang Me Out to Dry](https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK) | 3:57 | 2021-12-17 | 2022-12-08 |
 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 | 2023-10-20 |  |
@@ -288,7 +289,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
 | [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 | 2024-10-01 |
-| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 |  |
+| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 | 2025-01-12 |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2023-06-28 |
 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 | 2023-06-23 | 2024-04-19 |
 | [I Ain't Drinkin' anymore](https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo) | [Sister C](https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6) | [I Ain't Drinkin' anymore](https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy) | 3:17 | 2024-02-23 | 2024-05-18 |
@@ -385,6 +386,7 @@
 | [Miles and Miles of You](https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/5G5NGWji2d6bSjnNzpxr90) | 4:01 | 2022-01-21 | 2022-07-29 |
 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 | 2022-08-05 | 2023-09-02 |
 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 | 2024-09-20 |  |
+| [Mobile](https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Mobile](https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO) | 4:16 | 2025-01-10 |  |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 | 2024-04-19 |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 |  |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2023-09-02 |
@@ -655,7 +657,7 @@
 | [Whiskey to Work](https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Never Not Love You](https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD) | 3:24 | 2024-09-27 |  |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 | 2021-12-17 | 2022-07-22 |
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
-| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 |  |
+| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 | 2025-01-12 |
 | [Whole Lotta Heaven](https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Whole Lotta Heaven](https://open.spotify.com/album/7cRUHxfuLWHl0VMe7imioy) | 3:09 | 2022-01-21 | 2022-08-12 |
 | [Whole Lotta Lubbock](https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Whole Lotta Lubbock](https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY) | 3:12 | 2024-08-09 |  |
 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 | 2023-07-07 | 2024-05-18 |

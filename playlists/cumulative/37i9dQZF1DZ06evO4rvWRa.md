@@ -4,7 +4,7 @@
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 8 min
+88 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ignite](https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [SEUNGRI](https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx) | [Ignite](https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1) | 3:30 | 2023-06-18 |  |
 | [Land Of The Heroes](https://open.spotify.com/track/3bS1gINcg6wc0y0oo44ErT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Land Of The Heroes](https://open.spotify.com/album/1GIulTqUySS1jzQSb1Nqhn) | 2:56 | 2023-07-10 | 2024-04-03 |
 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 | 2023-09-21 | 2023-12-14 |
+| [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-12 |  |
 | [Legends Never Die \- \(Remix\)](https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho) | 2:47 | 2023-06-18 |  |
 | [Lifeline](https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 3:22 | 2024-08-13 |  |
 | [Lily](https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:15 | 2023-06-18 |  |

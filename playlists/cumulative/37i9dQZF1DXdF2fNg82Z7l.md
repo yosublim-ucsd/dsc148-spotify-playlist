@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-208 songs - 10 hr 45 min
+209 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [737](https://open.spotify.com/track/6AS9eFRFKCbzySHljxjspE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [737](https://open.spotify.com/album/1BXvwn6HlOu6gcVG7gVq6C) | 2:32 | 2024-03-14 | 2024-07-30 |
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-10-17 | 2024-11-08 |
-| [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-07-29 |  |
+| [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-07-29 | 2025-01-12 |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-03-14 | 2024-07-30 |
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2024-10-24 | 2024-11-12 |
 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 | 2024-03-14 | 2024-10-05 |
@@ -139,6 +139,7 @@
 | [PIÑA COLADA](https://open.spotify.com/track/5imfVFtpjD0Rp67Nli7LhZ) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PIÑA COLADA](https://open.spotify.com/album/4DphN2rCJ7q0EZfhwWzhNE) | 1:56 | 2024-03-14 | 2024-10-05 |
 | [Playa \(feat\. Skilla Baby\)](https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:14 | 2024-07-29 | 2024-10-05 |
 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 | 2024-10-04 |  |
+| [Pray for Me](https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Pray for Me](https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR) | 7:14 | 2025-01-09 |  |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2024-10-04 |  |
 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2024-10-04 |  |
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-07-29 | 2024-10-05 |

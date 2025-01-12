@@ -4,7 +4,7 @@
 
 > Stormy f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-348 songs - 18 hr 38 min
+349 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-25 | 2024-11-18 |
 | [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 | 2023-05-23 |
 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 | 2023-09-01 | 2024-06-21 |
+| [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 | 2025-01-11 |  |
 | [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 | 2023-08-24 |
 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 | 2024-06-14 |  |
 | [KALIMATE](https://open.spotify.com/track/5OUUHEiGme4cC9O5X1Sowe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [CoBrA](https://open.spotify.com/album/1TYlN09LJ6bYts6HlgVGa5) | 1:58 | 2024-01-26 | 2024-02-10 |
@@ -261,7 +262,7 @@
 | [Rehab](https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523) | [Yo Asel](https://open.spotify.com/artist/4DWssq4DfReHOpK7BEVPgo), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Rehab](https://open.spotify.com/album/3zsV6gi1HFVr3j4EiPWJED) | 3:16 | 2024-04-19 | 2024-07-13 |
 | [Roche](https://open.spotify.com/track/7MmZnaetGl0Rfj11bgI3RE) | [100Alien](https://open.spotify.com/artist/0WSNCqjksPt4RrSitACgLW) | [Everything Asfi](https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF) | 2:30 | 2024-12-07 | 2025-01-01 |
 | [ROMEO](https://open.spotify.com/track/0b8ed9KxYS34522QeBncH7) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [ROMEO](https://open.spotify.com/album/42QiHBjANb2V2ZeDthCcwn) | 3:16 | 2023-07-13 | 2023-08-20 |
-| [Romeo.](https://open.spotify.com/track/3aGf4j38Jqgg2kBpPkzr6Z) | [GCFOREAL](https://open.spotify.com/artist/7d85jErT1HPgYMQqMiwbDv) | [Romeo.](https://open.spotify.com/album/2m9Lamm1w5pQU9pO3evOtZ) | 2:24 | 2024-12-25 |  |
+| [Romeo.](https://open.spotify.com/track/3aGf4j38Jqgg2kBpPkzr6Z) | [GCFOREAL](https://open.spotify.com/artist/7d85jErT1HPgYMQqMiwbDv) | [Romeo.](https://open.spotify.com/album/2m9Lamm1w5pQU9pO3evOtZ) | 2:24 | 2024-12-25 | 2025-01-12 |
 | [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-07-18 | 2024-07-23 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
 | [Rwicha](https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Rwicha](https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP) | 2:56 | 2024-01-06 | 2024-05-26 |

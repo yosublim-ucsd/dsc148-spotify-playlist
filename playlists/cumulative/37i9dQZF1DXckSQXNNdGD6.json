@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 132680,
       "name": "Collar Fular",
       "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
@@ -2622,6 +2622,24 @@
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "album": {
+        "name": "Yo soy libre",
+        "url": "https://open.spotify.com/album/38WTKxI463xDnjG8N0NLSD"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro Montes",
+          "url": "https://open.spotify.com/artist/4hMzxHjYxcIi0nIbFlceYw"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177575,
+      "name": "Yo soy libre",
+      "url": "https://open.spotify.com/track/6z1Vx0MseGkN7iygli7fIo"
     },
     {
       "album": {

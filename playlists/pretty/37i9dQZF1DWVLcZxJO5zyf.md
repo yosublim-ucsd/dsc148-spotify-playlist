@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Marcelo Tofani, Djonga
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354,991 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354,908 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,220 songs - 2 day 19 hr 44 min
+1,221 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 | 2023-06-30 | 2023-07-05 |
 | [Billetes De 100](https://open.spotify.com/track/4tWOrZqaelCejCT3Th8Phq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:44 | 2021-09-12 | 2021-09-13 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
+| [BLANQUITA](https://open.spotify.com/track/7MOeU5nxbbgD90VFdpBFmH) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [BLANQUITA](https://open.spotify.com/album/1bV4LIWER9M9rieQWXr8Vu) | 2:00 | 2025-01-11 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-07-04 |
 | [BOKeTE](https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:35 | 2025-01-06 |  |
 | [Boquita de Caramelo](https://open.spotify.com/track/12bHtWebsbKBzUDmghtKbb) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Una Leyenda: Rodolfo Aicardi \(Exitos\)](https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn) | 3:22 | 2021-12-10 | 2025-01-04 |
@@ -502,7 +503,7 @@
 | [HULU](https://open.spotify.com/track/6GrGYZbYt9Yq8R5aiSWZ0j) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:01 | 2021-08-22 | 2021-08-28 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-09 | 2024-05-03 |
 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 | 2024-12-03 | 2024-12-06 |
-| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-12-24 |  |
+| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-12-24 | 2025-01-12 |
 | [Idiota](https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:03 | 2021-07-18 | 2021-07-20 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2021-06-06 | 2021-06-13 |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-13 | 2024-02-10 |

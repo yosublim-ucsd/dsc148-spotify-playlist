@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,247 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,257 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 19 | [Rich](https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:36 |
 | 20 | [Fleez](https://open.spotify.com/track/65w1d96FbYPmccz3ZdNOdA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 3:58 |
 | 21 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
-| 22 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 |
+| 22 | [Phenomena](https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:10 |
 | 23 | [Black Tongue](https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:59 |
 | 24 | [Lovebomb](https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 5:06 |
 | 25 | [Runaway](https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:13 |
-| 26 | [Phenomena](https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:10 |
+| 26 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 |
 | 27 | [Despair](https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:48 |
 | 28 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 |
 | 29 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 37 | [Poor Song](https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:04 |
 | 38 | [Dragon Queen](https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 4:02 |
 | 39 | [Mosquito](https://open.spotify.com/track/4W3nSbpunIWQmrhnkpiyE0) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 2:59 |
-| 40 | [Sheena Is A Punk Rocker](https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [War Child Presents Heroes Vol\. 1](https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2) | 2:36 |
-| 41 | [Thirteen \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:17 |
+| 40 | [Thirteen \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:17 |
+| 41 | [Sheena Is A Punk Rocker](https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [War Child Presents Heroes Vol\. 1](https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2) | 2:36 |
 | 42 | [Little Shadow](https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:56 |
 | 43 | [Wedding Song](https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:54 |
 | 44 | [Art Star](https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 50 | [Our Time](https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:23 |
 | 51 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
 
-Snapshot ID: `Z38RgAAAAABUU2J8vabxB39hcjbSDRrF`
+Snapshot ID: `Z4BjAAAAAAAEECmviU2ikCRdOyNbVkBL`

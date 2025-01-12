@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Cosa Caliente",
+        "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
+      },
+      "artists": [
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        },
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177782,
+      "name": "Cosa Caliente",
+      "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
+    },
+    {
+      "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
@@ -560,6 +582,24 @@
       "duration_ms": 125586,
       "name": "La Zopilota",
       "url": "https://open.spotify.com/track/0O2deB5pxdslRiBMhwWtEw"
+    },
+    {
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163440,
+      "name": "Le\u00f1a de Pirul",
+      "url": "https://open.spotify.com/track/3rQ6MwMNsGQfU1zW3XgnMK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 10 | [Go Down](https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [Kent & flosso](https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD), [Coco Finger](https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib) | [Go Down](https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T) | 3:27 |
 | 11 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
 | 12 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
-| 13 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
-| 14 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
+| 13 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
+| 14 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
 | 15 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 16 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 17 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 27 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 | 28 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 29 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
-| 30 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
-| 31 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
+| 30 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
+| 31 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
 | 32 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
 | 33 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
 | 34 | [Rambada](https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Rambada](https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0) | 2:41 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 45 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 | 46 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 47 | [Oli Wamanyi](https://open.spotify.com/track/5rRlxoSTCymLQpR1Ry8Auw) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Oli Wamanyi](https://open.spotify.com/album/2mDRR9bvkyJ1hvh3PLdSo0) | 3:53 |
-| 48 | [Bailando](https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Bailando](https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9) | 3:04 |
+| 48 | [Marijuana](https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bruno K](https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Marijuana](https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg) | 3:39 |
 | 49 | [Semi Final](https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Dush](https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ) | [Semi Final](https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0) | 2:52 |
 | 50 | [Bway](https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j) | [Quin Smile Music](https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao), [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho) | [Bway](https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL) | 2:38 |
 

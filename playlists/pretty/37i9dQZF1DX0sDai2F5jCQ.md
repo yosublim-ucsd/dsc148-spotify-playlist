@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: The 046
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,044 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,030 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 27 | [Million Dreams](https://open.spotify.com/track/1vBJfOXGFx63YZcrYwq7ZR) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Million Dreams](https://open.spotify.com/album/7mycWlNkhRUY4MXZXQpBmD) | 2:14 |
 | 28 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 |
 | 29 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
-| 30 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o), [Jayden Waaka](https://open.spotify.com/artist/1Ec0Xi4kKoKJ1jAPJ2I3T3) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 |
+| 30 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 |
 | 31 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 |
 | 32 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 | 33 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |

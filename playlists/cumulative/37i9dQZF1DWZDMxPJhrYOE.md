@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-325 songs - 16 hr 42 min
+327 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-31 | 2024-08-09 |
 | [Heartbreaker From Tennessee](https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Heartbreaker From Tennessee](https://open.spotify.com/album/6Imjg8TtPxOpudGWMqUeCH) | 2:12 | 2024-12-05 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2024-09-27 |
-| [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-07 |  |
+| [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-07 | 2025-01-12 |
 | [Hej](https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hej](https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S) | 2:15 | 2024-08-01 | 2024-09-15 |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-21 |  |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-07-25 | 2024-09-27 |
@@ -164,6 +164,7 @@
 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 | 2024-09-05 | 2024-09-27 |
 | [Hvor Solen Ik' Skinner](https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq), [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Hvor Solen Ik' Skinner](https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m) | 2:44 | 2024-09-12 | 2024-10-13 |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-06 |  |
+| [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-10 |  |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-07-01 | 2024-08-01 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-01 | 2024-08-17 |
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-22 | 2024-10-08 |
@@ -256,7 +257,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-01 | 2024-07-27 |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 | 2024-12-06 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-19 |  |
-| [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 |  |
+| [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 | 2025-01-12 |
 | [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-14 |  |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-21 | 2024-11-11 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-25 | 2024-09-27 |
@@ -327,6 +328,7 @@
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2024-10-25 |
 | [Whoops](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 | 2024-07-01 | 2024-09-11 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2025-01-10 |
+| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-10 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-09-27 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-07-01 | 2024-08-01 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2024-11-21 |  |

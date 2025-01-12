@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 130215,
+  "num_followers": 130370,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAARx8iV6nnPu5RmcQnSMeA+",
+  "snapshot_id": "Z4BjAAAAAABrVIoOviUBu7lNchwIn2QG",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "NOTHING LESS",
-      "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 163438,
       "name": "Temptations",
       "url": "https://open.spotify.com/track/1bgpUVB4gPYYNpMBLeyiid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "NOTHING LESS",
+      "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 376061,
-      "name": "SAVAGE ANTHEM",
-      "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 240700,
       "name": "You've Been Missed",
       "url": "https://open.spotify.com/track/21w7eTmB3r5LFSyvCUQRO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 376061,
+      "name": "SAVAGE ANTHEM",
+      "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
     },
     {
       "added_at": null,

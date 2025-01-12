@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,454 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,468 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 28 | [D.O.T.S \- FloFilz Remix](https://open.spotify.com/track/3l2CBCiEeD7kUqaGYkd6T7) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [D.O.T.S \(FloFilz Remix\)](https://open.spotify.com/album/4sZMPJhB9tLBkoqD9rTBZU) | 2:28 |
 | 29 | [haloes](https://open.spotify.com/track/54zbMMBTlxVurjPEWe4hUs) | [førget.](https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi) | [haloes](https://open.spotify.com/album/3ToJV3r9dqHtwYPLlsoCMf) | 2:08 |
 | 30 | [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 |
-| 31 | [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 |
-| 32 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
+| 31 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
+| 32 | [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
 | 35 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 43 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
 | 44 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 45 | [i feel lost \- orchestral reprise](https://open.spotify.com/track/7l2XviJ7uk4cijQXPd7uEO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Astral Projection \(Deluxe Edition\)](https://open.spotify.com/album/3GILJJDr4pbDI3pH8lNyJr) | 2:44 |
-| 46 | [Timeless](https://open.spotify.com/track/1E1rUNs8vXVxgNzSA2GOEV) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN) | [Timeless](https://open.spotify.com/album/0jwCKkBPRs6VWd14Kpp4Qv) | 3:29 |
-| 47 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
+| 46 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
+| 47 | [Timeless](https://open.spotify.com/track/1E1rUNs8vXVxgNzSA2GOEV) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN) | [Timeless](https://open.spotify.com/album/0jwCKkBPRs6VWd14Kpp4Qv) | 3:29 |
 | 48 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
 | 49 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 50 | [Mere](https://open.spotify.com/track/1lgRxqzRNd0wl9tADyL3LC) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Alta Ripa](https://open.spotify.com/album/4NoGuBtIrBwCI2hCJmdlF6) | 3:01 |

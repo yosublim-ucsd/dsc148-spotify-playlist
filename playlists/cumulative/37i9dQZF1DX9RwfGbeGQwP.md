@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,519 songs - 2 day 9 hr 13 min
+1,520 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 | 2024-05-25 |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 | 2023-09-16 |
-| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 |  |
+| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 | 2025-01-12 |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-01-27 | 2022-09-09 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-01-27 | 2022-09-17 |
@@ -615,6 +615,7 @@
 | [Illuminated](https://open.spotify.com/track/7JGzBYYOPMpR4J0bttU32b) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Illuminated](https://open.spotify.com/album/0FmNls6a4NskzGGH4JiFtd) | 1:49 | 2023-03-08 | 2024-08-25 |
 | [immanent](https://open.spotify.com/track/1N1TBYrQ2VGKzQ1JyTMXSq) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [immanent](https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v) | 2:22 | 2024-01-19 | 2024-03-14 |
 | [Imperfections](https://open.spotify.com/track/5r8XVRTEAFBJFHWPlqMJ4m) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Imperfections](https://open.spotify.com/album/6JNuMqF0exqLWCleqcKL7c) | 2:18 | 2022-10-28 | 2023-02-25 |
+| [impromptu love](https://open.spotify.com/track/136bCLrehD1YeAqsFSZhVs) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [impromptu love](https://open.spotify.com/album/5LzfVJgkagIRWtQNTZo7Oy) | 2:04 | 2025-01-10 |  |
 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 | 2022-09-09 | 2023-09-16 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2022-01-27 | 2022-06-10 |
 | [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 |  |
@@ -1404,7 +1405,7 @@
 | [Tuesday](https://open.spotify.com/track/4i6soSPJv5nE00bolyoxZ3) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Gxldxn Fxnch](https://open.spotify.com/artist/05mJfp9M0IpJ6k07ikXIkB) | [Tuesday](https://open.spotify.com/album/5jNxny3pje8T25KIxIrQWw) | 3:30 | 2022-12-16 | 2023-03-25 |
 | [Tuesday, July 14](https://open.spotify.com/track/4yhW6u0AjkMvwUY4z9TPeQ) | [Dogman Chill](https://open.spotify.com/artist/24bL1XqEUecJLJp9V1jzd2) | [Tuesday, July 14](https://open.spotify.com/album/5SNvq17CajTfZrNHcxP3qc) | 2:00 | 2022-01-27 | 2022-06-03 |
 | [Turn Around](https://open.spotify.com/track/7wT0YJGsvdE4X8HDRPWloG) | [OldSchool G](https://open.spotify.com/artist/7BBTJSwpMnCqBtFZO7LULK) | [Old Tape](https://open.spotify.com/album/6CbPhpL2mZNzS9Am8ndtzZ) | 1:20 | 2022-01-27 | 2022-06-10 |
-| [Twentytwo](https://open.spotify.com/track/11lrWKtaMaQsgoleR6M4Ea) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Twentytwo](https://open.spotify.com/album/6kgPXQsdHR7hcUUahI5QzE) | 2:28 | 2022-09-23 | 2024-08-31 |
+| [Twentytwo](https://open.spotify.com/track/11lrWKtaMaQsgoleR6M4Ea) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Twentytwo](https://open.spotify.com/album/6kgPXQsdHR7hcUUahI5QzE) | 2:28 | 2022-09-23 |  |
 | [Two Five One](https://open.spotify.com/track/2niptOSHZYwcElHREtt4hZ) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Singularity In Motion](https://open.spotify.com/album/4AytRuRaGA1h2LwZrIlrfu) | 1:51 | 2022-01-27 | 2022-06-03 |
 | [Two Step](https://open.spotify.com/track/416tVSMjiWMYCV4lfRqP39) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Two Step](https://open.spotify.com/album/0vTcLSVmxJWr43j0YAVdmj) | 2:07 | 2022-10-28 | 2023-03-25 |
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-01-27 | 2022-07-08 |
@@ -1487,7 +1488,7 @@
 | [Who Would Have Thought](https://open.spotify.com/track/27jvsfhkGIMB9xZw8PLBat) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Temple](https://open.spotify.com/artist/6UNs36YZYRZ22WGU2KhMrV), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 09](https://open.spotify.com/album/2txV34NwxnslE7c9I4RyNK) | 2:26 | 2022-04-15 | 2022-11-12 |
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2022-11-26 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-01-27 | 2022-10-29 |
-| [Willy Wonkerson](https://open.spotify.com/track/27qc2sgOlvAx8nsHUEgKNE) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Willy Wonkerson](https://open.spotify.com/album/0WFt8taNq4pliMd7fUjLWl) | 2:09 | 2024-12-06 |  |
+| [Willy Wonkerson](https://open.spotify.com/track/27qc2sgOlvAx8nsHUEgKNE) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Willy Wonkerson](https://open.spotify.com/album/0WFt8taNq4pliMd7fUjLWl) | 2:09 | 2024-12-06 | 2025-01-12 |
 | [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 | 2023-10-27 |  |
 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 | 2022-01-27 | 2022-06-10 |
 | [Window Shopping in Tokyo](https://open.spotify.com/track/00ufVBit2H8lLif3nD6QDj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Window Shopping in Tokyo](https://open.spotify.com/album/43DPCU4944DtLnuJrahPqg) | 3:14 | 2023-03-16 | 2023-09-05 |

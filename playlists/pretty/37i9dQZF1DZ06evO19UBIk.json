@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 667181,
+  "num_followers": 667256,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABy1C2B/MlxutxFsF36/hg+",
+  "snapshot_id": "Z4BjAAAAAADdBEjKcH8/6DLgMvqoDHXh",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Town (Live)",
         "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 96643,
       "name": "Mack The Knife - Live 1968",
       "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": null,

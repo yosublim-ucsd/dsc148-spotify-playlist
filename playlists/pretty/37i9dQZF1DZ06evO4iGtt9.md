@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,491 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 17 | [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 |
 | 18 | [Sanko](https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 |
 | 19 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
-| 20 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 |
-| 21 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
+| 20 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 |
+| 21 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 |
 | 22 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
 | 23 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 |
 | 24 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 |
 | 25 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 |
 | 26 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 27 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
-| 28 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
-| 29 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
+| 28 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
+| 29 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 | 30 | [True Story](https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:25 |
 | 31 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
 | 32 | [BLESSINGS \(feat\. Eugy Official\)](https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [TREASURE \(feat\. Alpha P, Olamide & Phyno\)](https://open.spotify.com/track/4XcL8MB78aDAlbGQVntnph) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 3:34 |
 | 50 | [Chulo Bother Nobody](https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:34 |
 
-Snapshot ID: `Z38RgAAAAADEZCvO9YfmqgAqjKVuWTei`
+Snapshot ID: `Z4BjAAAAAADhDLVF7Bjcp3pKyg2rSCOt`

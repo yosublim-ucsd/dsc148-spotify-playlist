@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 250707,
+  "num_followers": 250766,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Amorcito Enfermito",
-      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Qui\u00e9reme Menos",
         "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 213283,
       "name": "Qui\u00e9reme Menos",
       "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Amorcito Enfermito",
+      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 221080,
       "name": "Bailando Con El",
       "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
-        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Coraz\u00f3n Culpable",
-      "url": "https://open.spotify.com/track/198HWHhymECcoWD5udzWzH"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 229613,
       "name": "La Luz De Mis Ojos",
       "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
+        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 361093,
+      "name": "Coraz\u00f3n Culpable",
+      "url": "https://open.spotify.com/track/198HWHhymECcoWD5udzWzH"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
-        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 282626,
-      "name": "Por Mi Timidez",
-      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
+        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Por Mi Timidez",
+      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Los 12 Exitos De Kiko Rodriguez",
         "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
       },
@@ -1651,22 +1635,34 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "La Historia de Mi Vida: El Final, Vol. 1",
-        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Bellas",
-      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
+      "duration_ms": 283413,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1719,18 +1715,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
+        "name": "La Historia de Mi Vida: El Final, Vol. 1",
+        "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 283413,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+      "duration_ms": 243500,
+      "name": "Bellas",
+      "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
     },
     {
       "added_at": "2024-08-23 04:59:00",

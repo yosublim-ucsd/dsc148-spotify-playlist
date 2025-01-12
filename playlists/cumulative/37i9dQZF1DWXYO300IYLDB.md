@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-475 songs - 1 day 4 hr 18 min
+476 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [From Gold](https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 3:34 | 2023-04-13 | 2024-04-19 |
 | [From My Side](https://open.spotify.com/track/0MtwU2O5WxNXzE9UeFNqXg) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [From My Side](https://open.spotify.com/album/5qqmp9a4tJjR6vNphVdTYA) | 4:01 | 2023-02-28 | 2023-03-22 |
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-11-29 |
+| [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2025-01-09 |  |
 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 | 2023-10-05 | 2024-04-19 |
 | [Ghost](https://open.spotify.com/track/61YfUTSPKWTrhqAw66utw1) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/7hSCtKJ7bQmr4w8YlJFACH) | 3:33 | 2023-10-05 | 2024-11-08 |
 | [Girl from the North Country](https://open.spotify.com/track/739sLmfUkVFoyPtb0C3263) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:19 | 2024-11-07 |  |
@@ -304,7 +305,7 @@
 | [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 | 2024-11-07 |  |
 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-14 | 2024-01-12 |
 | [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 | 2023-01-11 |
-| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 |  |
+| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 | 2025-01-12 |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2022-12-14 | 2024-04-19 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-10-20 | 2024-11-08 |
 | [Rising Sun \- Acoustic](https://open.spotify.com/track/766uOGvYLSbajyNX0i5Wa5) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Rising Sun \(Acoustic\)](https://open.spotify.com/album/6H1556NY9N2joed2bSH5zn) | 2:58 | 2022-10-20 | 2022-12-14 |

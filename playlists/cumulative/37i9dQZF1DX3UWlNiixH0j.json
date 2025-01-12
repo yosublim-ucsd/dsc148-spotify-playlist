@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "A Winter Song",
+        "url": "https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo"
+      },
+      "artists": [
+        {
+          "name": "yk (Hello1103)",
+          "url": "https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "A Winter Song",
+      "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
+    },
+    {
+      "album": {
         "name": "A+B=C",
         "url": "https://open.spotify.com/album/0l7AACwqmbndNL9ALRg05C"
       },
@@ -36432,7 +36450,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 252493,
       "name": "\u751f\u6d3b - re-recording",
       "url": "https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG"

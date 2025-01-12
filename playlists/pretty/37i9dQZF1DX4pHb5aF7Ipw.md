@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,332 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,339 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 13 | [The Singh Anthem](https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Warriors Honour](https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN) | 3:44 |
 | 14 | [2025 FLOW](https://open.spotify.com/track/0o6j2OLr5tUvpGldAYjLUw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [2025 FLOW](https://open.spotify.com/album/7rhYIxUBvfOSO5QuCoMVKx) | 6:08 |
 | 15 | [Punjab](https://open.spotify.com/track/1inAjXPJ74BrbYnqrkN1oy) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Punjab](https://open.spotify.com/album/3x0dWg7gNfDbFmuxok0FVg) | 2:16 |
-| 16 | [Knock Out](https://open.spotify.com/track/0ZB0r2hhVcletU076W6v9y) | [Nav Brar](https://open.spotify.com/artist/2jtFoi94vB7e2aQX78Je0O) | [Knock Out](https://open.spotify.com/album/0ZNiNTFJP2NhsrhWihtSPk) | 2:16 |
+| 16 | [Knock Out](https://open.spotify.com/track/0ZB0r2hhVcletU076W6v9y) | [Nav Brar](https://open.spotify.com/artist/2jtFoi94vB7e2aQX78Je0O), [Aloof](https://open.spotify.com/artist/7GuZcMfBZ1gx0UjGLoEGDV) | [Knock Out](https://open.spotify.com/album/0ZNiNTFJP2NhsrhWihtSPk) | 2:16 |
 | 17 | [Shingaar](https://open.spotify.com/track/0apu9olWa3pa5JoXljuDeT) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Vision](https://open.spotify.com/album/5Siy0qCtL6AH7usGrS7KaU) | 2:21 |
 | 18 | [Puadh Ki Vaar](https://open.spotify.com/track/6HGtJUnsIZ8GaYkvT2tkgk) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Puadh Ki Vaar](https://open.spotify.com/album/0LJ0Hobb9xIoVWK4BUvKy2) | 4:48 |
 | 19 | [3 Case](https://open.spotify.com/track/29LOwNLNY7U5gbrtDQhS6r) | [Sukhrawal](https://open.spotify.com/artist/49HWqbDp2hrzvorAAbTqaD), [AD Yaar](https://open.spotify.com/artist/7gnnzRTepcTqsIHIybl5rQ) | [3 Case](https://open.spotify.com/album/4QdzzhZ3KL5mxEbihrajXs) | 2:57 |

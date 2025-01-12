@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 512706,
+  "num_followers": 512760,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "The Allman Brothers Band (Deluxe)",
         "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 317438,
       "name": "Whipping Post",
       "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Open All Night",
-        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Don't Pass Me By",
-      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 220533,
       "name": "Before the Bullets Fly",
       "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Open All Night",
+        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Don't Pass Me By",
+      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
-      },
-      "artists": [
-        {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 255840,
       "name": "Island",
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+      },
+      "artists": [
+        {
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2024-07-05 17:03:45",

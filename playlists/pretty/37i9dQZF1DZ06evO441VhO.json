@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17349,
+  "num_followers": 17352,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAgkaY0wBmw2cAOP3ahsal1",
+  "snapshot_id": "Z4BjAAAAAACVmWT1tlkk3jmIKb1xzkLv",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lay Me to Rest",
-        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+        "name": "Lay Me to Rest",
+        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+      "duration_ms": 219760,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
     },
     {
       "added_at": null,

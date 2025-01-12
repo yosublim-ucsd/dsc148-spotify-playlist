@@ -4,7 +4,7 @@
 
 > The hottest out the south: Lil Baby
 
-1,731 songs - 3 day 9 hr 33 min
+1,732 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Extra](https://open.spotify.com/track/4QoR7gJ9h4TAhkgCsK8pfK) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Extra](https://open.spotify.com/album/2TALbqpMCkY81EYSlzO3xo) | 2:51 | 2024-07-12 | 2024-07-19 |
 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 | 2023-03-17 | 2023-04-29 |
 | [Eye Know](https://open.spotify.com/track/1EKOslsEZTqm7iAdzu06d5) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Eye Know](https://open.spotify.com/album/3wSZdqiKzgyYIVfgGAomaf) | 1:49 | 2024-07-19 | 2024-08-03 |
+| [F U 2x](https://open.spotify.com/track/2ubNuGSCWRRxUfojPRebiA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:57 | 2025-01-11 |  |
 | [F\*\*k The Rap Game](https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [F\*\*k The Rap Game](https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC) | 4:10 | 2024-06-21 | 2024-06-29 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 | 2022-07-23 |
 | [F4U](https://open.spotify.com/track/7iOrxO0nc8QANh6dNlyoEk) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:02 | 2024-04-05 | 2024-04-19 |
@@ -1446,7 +1447,7 @@
 | [Stressed Out](https://open.spotify.com/track/77jOw64pELbZ5l0blrTia9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Stressed Out](https://open.spotify.com/album/7h5D9kukzQLLAOKJTIbDzu) | 4:03 | 2024-04-12 | 2024-04-19 |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-07 | 2023-06-24 |
 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 | 2022-07-15 | 2022-08-20 |
-| [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:00 | 2025-01-10 |  |
+| [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:00 | 2025-01-10 | 2025-01-12 |
 | [STUFF HER \(with Moneybagg Yo\)](https://open.spotify.com/track/2wWOKVZ7HpFCL39NvduZse) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:12 | 2024-10-18 | 2024-11-16 |
 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-28 | 2024-07-27 |
 | [Substance Abuse](https://open.spotify.com/track/6dHoRoSGgRkVy34GzE1Jjo) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Substance Abuse](https://open.spotify.com/album/3CGvZx0GJeihDYibVOlT0o) | 2:24 | 2024-10-25 | 2024-11-09 |

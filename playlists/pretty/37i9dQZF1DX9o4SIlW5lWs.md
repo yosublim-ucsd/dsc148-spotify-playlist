@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,699 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,875 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 86 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
 | 87 | [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 |
 | 88 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
-| 89 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
-| 90 | [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 |
-| 91 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
+| 89 | [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 |
+| 90 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
+| 91 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
 | 92 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 |
-| 93 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 93 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
 | 94 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
 | 95 | [Dime Quien](https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Grupo Anaconda](https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t) | [Dime Quien](https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza) | 3:05 |
 | 96 | [Te Juro Que No Es Verdad](https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Juro Que No Es Verdad](https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO) | 2:35 |

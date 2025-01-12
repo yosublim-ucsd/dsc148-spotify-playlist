@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,543 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,563 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 1 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 2 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 |
 | 3 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 |
 | 4 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 25 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/4g0yJrjRI8Zmouy6ZVzXu8), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
 | 26 | [aku sorang](https://open.spotify.com/track/0E7etbeEEkEnvACqf7PzTy) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [aku sorang](https://open.spotify.com/album/3KKIZMVtlP5DjJwa6eTEK5) | 3:06 |
 | 27 | [Kamu Tak Sendiri](https://open.spotify.com/track/0SQnaRBCYYnGOCFu8zulgM) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kamu Tak Sendiri](https://open.spotify.com/album/191UHeJM1r2tNbi7N7rs99) | 3:35 |
-| 28 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [Pia](https://open.spotify.com/artist/6jAxLXKAHGOTWqIlNblxF8), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
+| 28 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
 | 29 | [Turn Of A Page](https://open.spotify.com/track/1HNnSG7sMI2MgT5xTyIy5x) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Turn Of A Page](https://open.spotify.com/album/0EMjG1EEOtMW0RvJdVuime) | 4:13 |
 | 30 | [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 |
 | 31 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 |

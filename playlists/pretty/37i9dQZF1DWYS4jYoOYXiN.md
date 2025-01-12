@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,333 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,362 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 20 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Latin Bugalu](https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH) | 2:28 |
 | 21 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
 | 22 | [Pastime Paradise](https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Cuna](https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy) | 8:34 |
-| 23 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
-| 24 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
+| 23 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
+| 24 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
 | 25 | [Columbia's Boogaloo](https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:06 |
 | 26 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
 | 27 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 33 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
 | 34 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
 | 35 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
-| 36 | [Cha Cha Cha Con Pachanga](https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31) | [Randy Carlos And His Orchestra](https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y) | [The Best Of](https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1) | 2:27 |
-| 37 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
+| 36 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
+| 37 | [Cha Cha Cha Con Pachanga](https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31) | [Randy Carlos And His Orchestra](https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y) | [The Best Of](https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1) | 2:27 |
 | 38 | [I'll Be A Happy Man](https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK) | [The Latin Blues Band Featuring Luis Aviles](https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM), [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W) | [Take A Trip Pussycat \(feat\. Luis Aviles\)](https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ) | 3:34 |
 | 39 | [Fever](https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [La Lupe \- Greatest Hits](https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ) | 2:45 |
 | 40 | [Pow Wow](https://open.spotify.com/track/33iZ7YZRt32eqtsRIEe7yj) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Orchestra Corchado](https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW) | [Pow Wow](https://open.spotify.com/album/3JZjVes4oar3ZOF3EmToMx) | 3:48 |

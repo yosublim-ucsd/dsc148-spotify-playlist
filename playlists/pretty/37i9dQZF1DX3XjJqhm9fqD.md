@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,834 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,916 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 24 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 25 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
 | 26 | [Tolere w](https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef) | [Tolere w](https://open.spotify.com/album/5IfNKfgGX5QRWm0mK0CFz3) | 4:39 |
-| 27 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 |
-| 28 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:03 |
+| 27 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:03 |
+| 28 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 |
 | 29 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 |
 | 30 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 |
 | 31 | [Dlo Dous](https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB) | 5:13 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 65 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
 | 66 | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 |
 | 67 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
-| 68 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
-| 69 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
-| 70 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
-| 71 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
+| 68 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 69 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
+| 70 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
+| 71 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
 | 72 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 73 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 |
 | 74 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 80 | [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 |
 | 81 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
 | 82 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
-| 83 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
-| 84 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
+| 83 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
+| 84 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
 | 85 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
 | 86 | [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 |
 | 87 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 97 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
 | 98 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
-| 100 | [PA KRIYE](https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [PA KRIYE](https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC) | 3:35 |
+| 100 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 
 Snapshot ID: `Z0AP0AAAAAAFiLkhnLU29Li6Yu4zhxAH`

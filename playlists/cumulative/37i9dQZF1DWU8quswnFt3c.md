@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Evangelia
 
-2,230 songs - 5 day 3 hr 16 min
+2,231 songs - 5 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-10-02 | 2024-10-17 |
 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 | 2023-01-04 | 2023-02-02 |
 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-06 | 2023-10-05 |
+| [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-08 |  |
 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 | 2023-01-05 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-08-02 | 2023-09-07 |
 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 | 2024-04-17 | 2024-06-06 |
@@ -1311,7 +1312,7 @@
 | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ) | [Luna Đào](https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB) | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha) | 5:50 | 2023-01-04 | 2023-02-02 |
 | [Ni Jana](https://open.spotify.com/track/4YxsJyL48q7NZiiCj0uib0) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Radhika Madan](https://open.spotify.com/artist/3YdyN1kW3803p2ovKeuPel) | [Ni Jana](https://open.spotify.com/album/14AM22a3ypN7tCMH89RXYj) | 3:25 | 2021-12-11 | 2022-01-06 |
 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 | 2023-05-03 | 2023-07-06 |
-| [Nice To Meet Me](https://open.spotify.com/track/4JMzwHV7MIYeuYGKJ6Rggw) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:04 | 2025-01-08 |  |
+| [Nice To Meet Me](https://open.spotify.com/track/4JMzwHV7MIYeuYGKJ6Rggw) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:04 | 2025-01-08 | 2025-01-12 |
 | [Nicht allein](https://open.spotify.com/track/0gocDi3YsNnoRqq7h0phrO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Nicht allein](https://open.spotify.com/album/2yBf4nxTUP8l12Hy7fG3u1) | 2:23 | 2022-02-02 | 2022-02-10 |
 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 | 2023-10-04 | 2023-11-17 |
 | [Niebo było różowe](https://open.spotify.com/track/60KK0iXcaShxA55KXy1WcF) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Niebo było różowe](https://open.spotify.com/album/361lqwHWr1wDsFvp8AgP9s) | 4:14 | 2021-12-11 | 2022-01-06 |

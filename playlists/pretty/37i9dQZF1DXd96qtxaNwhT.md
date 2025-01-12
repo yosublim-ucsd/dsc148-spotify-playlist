@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,809 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,821 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 44 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 45 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 |
 | 46 | [Lovesick](https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs) | [Jack Robertson](https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T), [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Lovesick](https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB) | 3:44 |
-| 47 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
-| 48 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
+| 47 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
+| 48 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
 | 49 | [The Hardest Part](https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [The Hardest Part](https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT) | 2:57 |
 | 50 | [War](https://open.spotify.com/track/4zNoXBUdKdxlfsjIUV28LW) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [War](https://open.spotify.com/album/5dCQvmy45qliQlRjMOMUyQ) | 3:22 |
 | 51 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 69 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
 | 70 | [Do You See Me](https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t) | [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Do You See Me](https://open.spotify.com/album/7dRTJTJmi4hxWW0ADcJc4Y) | 3:39 |
 | 71 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 |
-| 72 | [Stay](https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx) | [Eliza Hull](https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M) | [Here They Come](https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO) | 4:12 |
+| 72 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
 | 73 | [Letter](https://open.spotify.com/track/60uatEuP0mKDRp1pZFMox7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/45KJEa5bL7lxWpVtH4Qt70) | 3:09 |
-| 74 | [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 |
+| 74 | [Stay](https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx) | [Eliza Hull](https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M) | [Here They Come](https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO) | 4:12 |
 | 75 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 |
-| 76 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
+| 76 | [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 |
 | 77 | [Love is](https://open.spotify.com/track/6gVUVgC2NfhOucSkAEu5MC) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Love is](https://open.spotify.com/album/6KAjESvcnTcu2IGlfAXfj1) | 2:00 |
 | 78 | [Bootleg Firecracker \- Nighttime Piano Version](https://open.spotify.com/track/1nh8UCTZBvmMtdPJtl2mML) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker \(Nighttime Piano Version\)](https://open.spotify.com/album/6SlfLPcW4lmtB9PuL7BAjG) | 2:34 |
 | 79 | [Parachute](https://open.spotify.com/track/5mj1vlO55sNKmj9SqGalAI) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Parachute](https://open.spotify.com/album/5I2hhY2vmuHgafQZzSnDmv) | 3:04 |

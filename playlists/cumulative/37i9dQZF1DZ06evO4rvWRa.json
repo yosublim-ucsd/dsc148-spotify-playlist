@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153207,
+      "name": "Last Song feat Faouzia",
+      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
+    },
+    {
+      "album": {
         "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho"
       },

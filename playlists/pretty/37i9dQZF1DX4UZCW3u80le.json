@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 159628,
+  "num_followers": 159886,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2024-12-27 16:37:04",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Pocketful Of Sunshine",
         "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 202906,
       "name": "Pocketful of Sunshine",
       "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 266893,
       "name": "U Remind Me",
       "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Haven't Met You Yet",
-      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -2147,18 +2163,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz"
       },
       "artists": [
         {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+      "duration_ms": 175093,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2179,22 +2195,6 @@
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Jason Derulo",
-        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Whatcha Say",
-      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Year Of The Gentleman (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 234360,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Jason Derulo",
+        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "The Evolution of Robin Thicke",
+        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Lost Without U",
+      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 237053,
       "name": "Like a Boy",
       "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
     },
     {
       "added_at": "2024-07-12 20:54:16",

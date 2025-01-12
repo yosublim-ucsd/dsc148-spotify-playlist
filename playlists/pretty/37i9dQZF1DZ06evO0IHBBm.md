@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,293 likes - 45 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,294 likes - 45 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 44 | [Vai Ficar Bem](https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Ficar Bem](https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg) | 1:56 |
 | 45 | [Questão de Tempo](https://open.spotify.com/track/4k7hKaTgrtsGRO86Zjr2IX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 
-Snapshot ID: `Z38RgAAAAAD+MrrIkTEcigcGQ5n5DYOe`
+Snapshot ID: `Z4BjAAAAAADordjCplhUKkRWp0EeJ7Zb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,284 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,327 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 36 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
 | 37 | [Skanda Teaser Theme](https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Skanda Teaser Theme](https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1) | 0:54 |
 | 38 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 |
-| 39 | [Hero Entry](https://open.spotify.com/track/4sKe2yK6ceIhoBYRdr8BLY) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:08 |
-| 40 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
+| 39 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
+| 40 | [Hero Entry](https://open.spotify.com/track/4sKe2yK6ceIhoBYRdr8BLY) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:08 |
 | 41 | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 |
 | 42 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 |
-| 43 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
-| 44 | [Soul Of Kshanam](https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Kshanam](https://open.spotify.com/album/4WvpxyKl3UVyoCU7BOFxSn) | 1:50 |
+| 43 | [Soul Of Kshanam](https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Kshanam](https://open.spotify.com/album/4WvpxyKl3UVyoCU7BOFxSn) | 1:50 |
+| 44 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
 | 45 | [Shock Theme](https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Shock](https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk) | 2:29 |
 | 46 | [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 |
 | 47 | [Stranger in Black \- Theme Song](https://open.spotify.com/track/0PIRM1sf42d0BvnMIQuaKx) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Chennai Chorale](https://open.spotify.com/artist/35oks2waDWUhJqH4Lodvcu) | [Aparichitudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LscBzYzac0rt3i2FMmgtw) | 2:44 |

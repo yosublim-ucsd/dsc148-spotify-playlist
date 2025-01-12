@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,974 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,006 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 20 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
 | 21 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 22 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
-| 23 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
-| 24 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
-| 25 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
-| 26 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
+| 23 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
+| 24 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
+| 25 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
+| 26 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
 | 27 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
-| 28 | [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 |
-| 29 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
-| 30 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
-| 31 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
+| 28 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
+| 29 | [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 |
+| 30 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
+| 31 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 32 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
 | 33 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 |
 | 34 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 |

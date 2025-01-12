@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: N.A.N.A",
-  "num_followers": 145499,
+  "num_followers": 145495,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -291,34 +291,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "J\u00f3ias do Bairro",
-        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "J\u00f3ias do Bairro",
-      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -347,6 +319,34 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "J\u00f3ias do Bairro",
+        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "duration_ms": 171285,
+      "name": "J\u00f3ias do Bairro",
+      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2025-01-03 03:01:06",

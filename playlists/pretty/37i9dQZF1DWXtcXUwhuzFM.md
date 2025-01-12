@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa JVG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,656 likes - 98 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,673 likes - 98 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

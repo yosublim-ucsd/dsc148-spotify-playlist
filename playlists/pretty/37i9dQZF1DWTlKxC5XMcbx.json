@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61773,
+  "num_followers": 61774,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -335,8 +335,8 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+      "duration_ms": 414240,
+      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 372786,
-      "name": "I'm A Fool To Want You - Remastered 2006",
-      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "The Body & The Soul",
         "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 202773,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - Remastered 2006",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -511,8 +511,8 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 414240,
-      "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+      },
+      "artists": [
+        {
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "Rhapsody in Blue",
         "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Bob Acri",
-        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
-      },
-      "artists": [
-        {
-          "name": "Bob Acri",
-          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sleep Away",
-      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "And Suddenly There Was Love",
         "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 267142,
       "name": "And Suddenly There Was Love",
       "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "Bob Acri",
+        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+      },
+      "artists": [
+        {
+          "name": "Bob Acri",
+          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sleep Away",
+      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
         "name": "All Blues (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
       },
@@ -1015,6 +1031,22 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
+        "name": "Evans",
+        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 248165,
+      "name": "Evans",
+      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -1031,38 +1063,6 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
-        "name": "Evans",
-        "url": "https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 248165,
-      "name": "Evans",
-      "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 416986,
-      "name": "Mule - Remastered",
-      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175606,
       "name": "Five Years Ago",
       "url": "https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 416986,
+      "name": "Mule - Remastered",
+      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
+        "name": "The Mourning of a Star",
+        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 77533,
+      "name": "Interlude No. 3",
+      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "The Mourning of a Star",
-        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
         }
       ],
-      "duration_ms": 77533,
-      "name": "Interlude No. 3",
-      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+      "duration_ms": 333346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -1295,22 +1311,6 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 333346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

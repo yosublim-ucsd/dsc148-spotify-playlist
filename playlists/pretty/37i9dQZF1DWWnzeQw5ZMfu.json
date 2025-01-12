@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
-  "num_followers": 70628,
+  "num_followers": 70641,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
     },
     {
-      "added_at": "2024-11-25 23:19:58",
-      "album": {
-        "name": "last night's mascara (live from Short n' Sweet Tour)",
-        "url": "https://open.spotify.com/album/2RyExw05UDb33LK7uoz302"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 165130,
-      "name": "last night's mascara - live from Short n' Sweet Tour",
-      "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
-    },
-    {
       "added_at": "2024-12-20 05:00:24",
       "album": {
         "name": "Live At Eventim Apollo",
@@ -443,6 +427,22 @@
       "duration_ms": 268770,
       "name": "Dive - Live At Eventim Apollo",
       "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
+    },
+    {
+      "added_at": "2024-11-25 23:19:58",
+      "album": {
+        "name": "last night's mascara (live from Short n' Sweet Tour)",
+        "url": "https://open.spotify.com/album/2RyExw05UDb33LK7uoz302"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 165130,
+      "name": "last night's mascara - live from Short n' Sweet Tour",
+      "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Touching Toes (Live At Eventim Apollo)",
+        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 147624,
+      "name": "Touching Toes - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
+    },
+    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
@@ -559,22 +575,6 @@
       "duration_ms": 241293,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
       "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Touching Toes (Live At Eventim Apollo)",
-        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 147624,
-      "name": "Touching Toes - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ego Talking (Live)",
-        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Ego Talking - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
-    },
-    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Still The One: Live From Vegas",
@@ -671,6 +655,22 @@
       "duration_ms": 215786,
       "name": "You're Still The One - Live",
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ego Talking (Live)",
+        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Ego Talking - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Nostalgia (Live from Los Angeles)",
-        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Garden Life (Live)",
-      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
-    },
-    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
@@ -1011,6 +995,22 @@
       "duration_ms": 250586,
       "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Nostalgia (Live from Los Angeles)",
+        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "Garden Life (Live)",
+      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "mine (Live From The Belasco)",
-        "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 202338,
-      "name": "mine - Live From The Belasco",
-      "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+        "name": "mine (Live From The Belasco)",
+        "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
+      "duration_ms": 202338,
+      "name": "mine - Live From The Belasco",
+      "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1539,6 +1523,22 @@
       "duration_ms": 226226,
       "name": "My Love Is Your Love - Live from Late Show with David Letterman",
       "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-10-18 19:54:54",

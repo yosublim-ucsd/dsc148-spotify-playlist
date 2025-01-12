@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Luna Zuazu.
 
-133 songs - 6 hr 31 min
+134 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [CASI ALGO](https://open.spotify.com/track/1uGkcgGo5kq25dSJHOXQEL) | [ERRE JODR](https://open.spotify.com/artist/6kKVoJYoyaI1AKZOcOTv4u) | [CASI ALGO](https://open.spotify.com/album/5CQlx7B3h6eftZe63cz6IS) | 2:49 | 2024-11-05 | 2024-12-05 |
 | [CATAЯATA](https://open.spotify.com/track/6G11Yc4cgQKfZKb6qA7jy2) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [CATAЯATA](https://open.spotify.com/album/4NsEdE7dGWOqmkCH5ADstB) | 2:55 | 2024-11-05 | 2024-12-05 |
 | [Chula](https://open.spotify.com/track/3hr6gcpXYhtny2aIbKfEIY) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Chula](https://open.spotify.com/album/3prYMzhMUEE3LGGAPRI6Sk) | 3:13 | 2024-09-03 | 2024-10-02 |
-| [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 | 2024-06-05 |  |
+| [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 | 2024-06-05 | 2025-01-12 |
 | [compartir](https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [compartir](https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1) | 2:45 | 2024-12-04 |  |
 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 | 2024-06-05 |  |
 | [Conexión](https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Conexión](https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e) | 2:33 | 2024-07-02 | 2024-09-04 |
@@ -138,6 +138,7 @@
 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 | 2024-12-04 |  |
 | [Y q más da](https://open.spotify.com/track/44gwcQaWBtZiAo32wddGAL) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Y q más da](https://open.spotify.com/album/4ChNZTumfZjlC5QfdcrwoH) | 2:29 | 2024-06-05 | 2024-07-03 |
 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 | 2024-12-04 |  |
+| [Yo soy libre](https://open.spotify.com/track/6z1Vx0MseGkN7iygli7fIo) | [Álvaro Montes](https://open.spotify.com/artist/4hMzxHjYxcIi0nIbFlceYw) | [Yo soy libre](https://open.spotify.com/album/38WTKxI463xDnjG8N0NLSD) | 2:57 | 2025-01-07 |  |
 | [YO TENGO 1 NOVIO](https://open.spotify.com/track/3qDGHY8GRvpjrc1jUB6yVr) | [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN) | [YO TENGO 1 NOVIO](https://open.spotify.com/album/0qgozUdsKSeqL8qnBokVsb) | 2:06 | 2024-08-06 | 2024-09-04 |
 | [¿Qué ha pasado?](https://open.spotify.com/track/1tgNGn3dmVankBzzBkzt18) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [¿Qué ha pasado?](https://open.spotify.com/album/6IvElxMrJA1bk7uRJfb9cI) | 4:05 | 2024-07-03 | 2024-07-22 |
 | [Éxtasis](https://open.spotify.com/track/5TSphrC9zuwCkee6vipDXl) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Éxtasis](https://open.spotify.com/album/1Ef1ajEw5q9GFax0zzmOjk) | 2:45 | 2024-10-01 | 2024-12-06 |

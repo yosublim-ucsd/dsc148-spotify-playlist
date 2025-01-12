@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Mikromusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,368 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,382 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 28 | [Gdzie Chcesz Biec?](https://open.spotify.com/track/1sSJJhT5erbfW4Hla7xHiF) | [Bibobit](https://open.spotify.com/artist/30nbDQcIKNaKHQFCE97DBX) | [Gdzie Chcesz Biec?](https://open.spotify.com/album/6wpIjOTahabrCz4lMDKjmP) | 5:42 |
 | 29 | [Jeden smutek](https://open.spotify.com/track/0embiNjtOdlKEkZHiKoC8f) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Paplajki](https://open.spotify.com/artist/5Pu1wcbGGN9l55I6LbwePQ) | [Jeden smutek](https://open.spotify.com/album/2cEkuEzeBK1gtHVKTtZsMr) | 2:43 |
 | 30 | [Co Ze Mną](https://open.spotify.com/track/7n12vTc3dxUdDeH1TmjYsv) | [GAYA](https://open.spotify.com/artist/50GdbX0ugTIjZ15kc5lBie) | [Co Ze Mną](https://open.spotify.com/album/6ttrJhwHzWoEWQD4Zn8LxT) | 2:46 |
-| 31 | [100 lat zaśpiewam Ci](https://open.spotify.com/track/7vM1uD5sypvcfheIWs6RNG) | [fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [100 lat zaśpiewam Ci](https://open.spotify.com/album/19FDTiTLvafHJ1VjuK317a) | 3:57 |
+| 31 | [100 lat zaśpiewam Ci](https://open.spotify.com/track/7vM1uD5sypvcfheIWs6RNG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [100 lat zaśpiewam Ci](https://open.spotify.com/album/19FDTiTLvafHJ1VjuK317a) | 3:57 |
 | 32 | [INSTYNKT](https://open.spotify.com/track/4PqHKDz8hzjZZaG36HZzN9) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [INSTYNKT](https://open.spotify.com/album/0YqrRng4HZJZojbAy3bKJ3) | 3:31 |
 | 33 | [może jutro](https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może jutro](https://open.spotify.com/album/5XljoD2PB55bc5EertXoMP) | 3:48 |
 | 34 | [Wigilia](https://open.spotify.com/track/7rAbO9yCHSydk8ZlhtjkZT) | [Julita Ziela Zielińska](https://open.spotify.com/artist/7jS2YufaCykbNcmGLq37Wl) | [Wigilia](https://open.spotify.com/album/5MjLWErvZPb4YG2ECo2ZX1) | 5:04 |

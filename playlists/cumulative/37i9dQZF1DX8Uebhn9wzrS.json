@@ -18196,7 +18196,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 127717,
       "name": "Kame House",
       "url": "https://open.spotify.com/track/3uLcMHUGmLerRqw7QTdQ31"
@@ -33892,6 +33892,24 @@
       "duration_ms": 167690,
       "name": "Startup",
       "url": "https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf"
+    },
+    {
+      "album": {
+        "name": "stay here forever",
+        "url": "https://open.spotify.com/album/4NLgYPTckHgyaiG3bZNqHP"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "stay here forever",
+      "url": "https://open.spotify.com/track/7a6pu1aq2siFqMiLsLTcbB"
     },
     {
       "album": {

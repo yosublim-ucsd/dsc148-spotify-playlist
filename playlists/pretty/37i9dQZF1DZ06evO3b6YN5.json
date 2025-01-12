@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 31483,
+  "num_followers": 31487,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAA5o1+ZlKRt9aMVbEQRvc6V",
+  "snapshot_id": "Z4BjAAAAAADLXItz5JjSnswOZyP55/+9",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 258268,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 289842,
       "name": "Primavera 2020 (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 258268,
-      "name": "Color",
-      "url": "https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-224 songs - 13 hr 47 min
+225 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2024-05-31 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-26 |  |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-26 |  |
-| [Figure Numatic](https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Figure Numatic](https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt) | 6:10 | 2024-05-31 |  |
+| [Figure Numatic](https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Figure Numatic](https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt) | 6:10 | 2024-05-31 | 2025-01-12 |
 | [Fill My Little World](https://open.spotify.com/track/1JOxCh2Aa08z8cNJQJhWBJ) | [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [Twelve Stops And Home \(Deluxe\)](https://open.spotify.com/album/5Ai60Vctzaepu3zjS0NDaE) | 4:07 | 2024-05-31 |  |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2024-05-31 |  |
 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 | 2024-05-31 |  |
@@ -180,6 +180,7 @@
 | [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2024-05-31 |  |
 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 | 2024-05-31 | 2024-11-09 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2024-05-31 |  |
+| [Seize the Night](https://open.spotify.com/track/0HaSK4Tw1IHqvyoYJTqoYz) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [Postcards from Ursa Minor](https://open.spotify.com/album/3LNhhfULKzi281J8kszKk4) | 4:19 | 2024-05-31 |  |
 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 | 2024-05-31 |  |
 | [She's So Lovely](https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Scouting For Girls \(Expanded Edition\)](https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV) | 3:43 | 2024-05-31 |  |
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2024-05-31 |  |

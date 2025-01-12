@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,485 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,563 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |
-| 2 | [Torre Eiffel \- Ao Vivo](https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 |
+| 2 | [Daqui pra Sempre](https://open.spotify.com/track/5LCegtYPODbcqbTE5CZVv8) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 |
 | 3 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 |
 | 4 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
 | 5 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 9 | [Não Teve Amor](https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 3:12 |
 | 10 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
 | 11 | [Olha Bem pra Mim](https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Olha Bem pra Mim](https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59) | 3:52 |
-| 12 | [Daqui pra Sempre](https://open.spotify.com/track/5LCegtYPODbcqbTE5CZVv8) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 |
+| 12 | [Torre Eiffel \- Ao Vivo](https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 |
 | 13 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
 | 14 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 15 | [Me Telefona](https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em São Paulo](https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD) | 3:09 |

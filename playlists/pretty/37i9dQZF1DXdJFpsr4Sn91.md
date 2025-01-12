@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,996 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,005 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 4 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 |
 | 5 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
 | 6 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
-| 7 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
-| 8 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
-| 9 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
+| 7 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
+| 8 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
+| 9 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 10 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 |
 | 11 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
 | 12 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
 | 13 | [Menolippu](https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Menolippu](https://open.spotify.com/album/3rNuYNwHjSYQoCECmXkFzo) | 2:50 |
-| 14 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 |
-| 15 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 14 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 15 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 |
 | 16 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 |
 | 17 | [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/track/1G5KFkMaAbhfvfzcA7HEZr) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/album/0jJ707AXc4OCXFoikKMriF) | 2:49 |
 | 18 | [Haloo](https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Haloo](https://open.spotify.com/album/6yUjFKMT9jwzsq59fMfwcZ) | 2:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 75 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 76 | [Menneisyys](https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Menneisyys](https://open.spotify.com/album/29IATF11KR4niQR5ceedGg) | 2:31 |
 
-Snapshot ID: `Z4DB9QAAAAD+yfhj4vPAfFAh1TWce4Cj`
+Snapshot ID: `Z4LDpQAAAACKy9mK9SI7fyDYSTGJexi4`

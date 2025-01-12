@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 906370,
+  "num_followers": 906457,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAAE2YLBd3/WATCaMBcGQB4",
+  "snapshot_id": "Z4BjAAAAAAAFFNG43WPdElMQD2k4rSlX",
   "tracks": [
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "H.Y.B. (feat. Bas & Central Cee)",
-      "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 202040,
       "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
       "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "H.Y.B. (feat. Bas & Central Cee)",
+      "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "Crocodile Tearz",
-      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 301064,
       "name": "G.O.M.D",
       "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": null,
@@ -547,6 +547,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292865,
+      "name": "Apparently",
+      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -572,29 +628,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 292865,
-      "name": "Apparently",
-      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Planez",
-      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+      "duration_ms": 242697,
+      "name": "January 28th",
+      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
     },
     {
       "added_at": null,
@@ -608,13 +644,13 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 234386,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+      "duration_ms": 190653,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
     },
     {
       "added_at": null,
@@ -639,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242697,
-      "name": "January 28th",
-      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
     },
     {
       "added_at": null,

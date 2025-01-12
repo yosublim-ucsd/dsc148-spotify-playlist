@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/4BaH1nl12hQphpeVd6Zzot"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4"
+    },
+    {
+      "album": {
         "name": "BIERBAUCH\ud83c\udf7a",
         "url": "https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO"
       },
@@ -7015,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231626,
+      "name": "FANTASTIC BABY - Japanese ver.",
+      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
+    },
+    {
+      "album": {
         "name": "Fantazija",
         "url": "https://open.spotify.com/album/3YFrHQo29msSQeqUsP1weC"
       },
@@ -9116,7 +9152,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 287333,
       "name": "Hat\u0131ran Yeter",
       "url": "https://open.spotify.com/track/05MvdMKvVahOp9X64639DN"
@@ -11196,7 +11232,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 99844,
       "name": "Im Doing Fine",
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
@@ -12448,7 +12484,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 160441,
       "name": "K\u00f6nigin der Nacht",
       "url": "https://open.spotify.com/track/6SQcoO3H6MzcV6dhqIN1bW"
@@ -18226,7 +18262,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"

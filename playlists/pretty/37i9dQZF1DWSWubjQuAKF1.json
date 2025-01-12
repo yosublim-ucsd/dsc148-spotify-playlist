@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Marcin Maciejczak",
-  "num_followers": 20971,
+  "num_followers": 20970,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "oby\u015b to by\u0142a Ty",
-        "url": "https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl"
-      },
-      "artists": [
-        {
-          "name": "Artur Sikorski",
-          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
-        }
-      ],
-      "duration_ms": 134988,
-      "name": "oby\u015b to by\u0142a Ty",
-      "url": "https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "nie p\u0142acz dziewczyno",
         "url": "https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 168294,
       "name": "nie p\u0142acz dziewczyno",
       "url": "https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "oby\u015b to by\u0142a Ty",
+        "url": "https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl"
+      },
+      "artists": [
+        {
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+        }
+      ],
+      "duration_ms": 134988,
+      "name": "oby\u015b to by\u0142a Ty",
+      "url": "https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Powiedz",
-        "url": "https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Powiedz",
-      "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Pastelowe Kredki",
         "url": "https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 120000,
       "name": "Pastelowe Kredki",
       "url": "https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Powiedz",
+        "url": "https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Powiedz",
+      "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "z papieru",
-        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+        "name": "hyperstar",
+        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
       },
       "artists": [
         {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
         }
       ],
-      "duration_ms": 142336,
-      "name": "Gadu\u0142a",
-      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+      "duration_ms": 153750,
+      "name": "hyperstar",
+      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "hyperstar",
-        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
       "artists": [
         {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
-      "duration_ms": 153750,
-      "name": "hyperstar",
-      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
+      "duration_ms": 142336,
+      "name": "Gadu\u0142a",
+      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "BLUZA",
-        "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 170964,
-      "name": "BLUZA",
-      "url": "https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "+2 z\u0142amane serca",
         "url": "https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff"
       },
@@ -1203,34 +1187,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "zn\u00f3w patrzysz tak",
-        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
+        "name": "BLUZA",
+        "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
       "artists": [
         {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
         }
       ],
-      "duration_ms": 191355,
-      "name": "zn\u00f3w patrzysz tak",
-      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Bajka",
-        "url": "https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF"
-      },
-      "artists": [
-        {
-          "name": "SaMa",
-          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
-        }
-      ],
-      "duration_ms": 149161,
-      "name": "Bajka",
-      "url": "https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1"
+      "duration_ms": 170964,
+      "name": "BLUZA",
+      "url": "https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "zn\u00f3w patrzysz tak",
+        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "zn\u00f3w patrzysz tak",
+      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Zostaniesz na zawsze?",
         "url": "https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 174591,
       "name": "Zostaniesz na zawsze?",
       "url": "https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Bajka",
+        "url": "https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF"
+      },
+      "artists": [
+        {
+          "name": "SaMa",
+          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
+        }
+      ],
+      "duration_ms": 149161,
+      "name": "Bajka",
+      "url": "https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1311,6 +1311,22 @@
       "duration_ms": 184137,
       "name": "Dom",
       "url": "https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Bejbe!",
+        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Bejbe!",
+      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Bejbe!",
-        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
+        "name": "Do widzenia",
+        "url": "https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft"
       },
       "artists": [
         {
-          "name": "Matt Wysota",
-          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+          "name": "Kingska",
+          "url": "https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N"
         }
       ],
-      "duration_ms": 115000,
-      "name": "Bejbe!",
-      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
+      "duration_ms": 152049,
+      "name": "Do widzenia",
+      "url": "https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1659,22 +1675,6 @@
       "duration_ms": 215156,
       "name": "Ma\u0142e dzi\u015b",
       "url": "https://open.spotify.com/track/3sIornJF32cn0T0RDe6wju"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Do widzenia",
-        "url": "https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft"
-      },
-      "artists": [
-        {
-          "name": "Kingska",
-          "url": "https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N"
-        }
-      ],
-      "duration_ms": 152049,
-      "name": "Do widzenia",
-      "url": "https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO"
     }
   ],
   "unique_name": "gen z ",

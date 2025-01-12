@@ -4,7 +4,7 @@
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 2 min
+85 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2024-01-12 |  |
 | [Ball Is Life \(feat\. Jack Harlow\)](https://open.spotify.com/track/5KWwD9LzZa6ruNYGNqAqoN) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 5:23 | 2024-05-14 | 2024-07-20 |
 | [BIG CHILLIN](https://open.spotify.com/track/2zQAmeVTYjr4oDBR9r6LAG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:38 | 2024-07-19 | 2024-07-20 |
-| [Blame On Me](https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 4:01 | 2024-01-12 |  |
+| [Blame On Me](https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 4:01 | 2024-01-12 | 2025-01-12 |
+| [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 | 2025-01-12 |  |
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2024-01-12 |  |
 | [CODY BANKS](https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:32 | 2024-01-12 |  |
 | [Comic Sans \(feat\. Jack Harlow\)](https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:32 | 2024-05-10 |  |

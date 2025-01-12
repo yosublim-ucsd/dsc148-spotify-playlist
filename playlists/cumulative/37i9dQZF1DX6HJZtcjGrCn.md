@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Parcels, MARO
 
-183 songs - 10 hr 40 min
+184 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 | 2024-06-20 |  |
 | [De Marginal](https://open.spotify.com/track/31CIsXuLfGdTs58g8Exbpi) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [De Marginal](https://open.spotify.com/album/55izj5A0vkIhr465e5OlQA) | 3:08 | 2024-11-08 | 2024-11-22 |
 | [Deixem O Morto Morrer \- A COLORS SHOW](https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Deixem O Morto Morrer \- A COLORS SHOW](https://open.spotify.com/album/5XZ7IRR6fmz40H5rS5jYGn) | 2:50 | 2024-10-14 | 2024-11-15 |
-| [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-20 |  |
+| [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-20 | 2025-01-12 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-06-20 | 2024-07-05 |
 | [Dois Dias](https://open.spotify.com/track/63kNuUJlACeCpa05bYt8c4) | [Virgem Suta](https://open.spotify.com/artist/75kEM6sw8FhizUFcg8rKZs) | [Dois Dias](https://open.spotify.com/album/0ctKS2AY7qkiN7ohiyoTri) | 3:34 | 2024-06-20 | 2024-07-27 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-20 | 2024-07-27 |
@@ -189,6 +189,7 @@
 | [Wild Dreams](https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Wild Dreams](https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI) | 3:23 | 2024-12-13 | 2025-01-10 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-13 |  |
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-07-04 | 2024-07-27 |
+| [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-01-10 |  |
 | [É da Cabeça](https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s) | [Zarco](https://open.spotify.com/artist/4HRBWg3xfeRpTQoA8QzUcZ) | [É da Cabeça](https://open.spotify.com/album/3guaxLXnYqUupZCgdDlvSS) | 3:18 | 2024-08-29 | 2024-10-04 |
 | [É Duro Ser Velho](https://open.spotify.com/track/2U3N54MwGyF8u6Qrd35w1F) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [É Duro Ser Velho](https://open.spotify.com/album/6KvebaBVTJPbK5GEVfmYYC) | 4:46 | 2024-11-29 | 2024-12-21 |
 

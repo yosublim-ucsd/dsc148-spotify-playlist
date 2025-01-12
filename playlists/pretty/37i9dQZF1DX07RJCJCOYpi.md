@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Gordo & Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,406 likes - 69 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,325 likes - 69 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

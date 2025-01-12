@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,073 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,080 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\) \[Live\]](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 |
 | 50 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
 
-Snapshot ID: `Z38RgAAAAAAqYhG8kCA/ZTuraOF5vF5K`
+Snapshot ID: `Z4BjAAAAAAB5ESLaYgZigoohYSn6V1Go`

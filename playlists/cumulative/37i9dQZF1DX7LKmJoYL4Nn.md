@@ -4,12 +4,13 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-131 songs - 8 hr 46 min
+132 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(RE\)PLAY](https://open.spotify.com/track/2MOko0JhlAwtn8dwMYGoHq) | [Eden & Trickstar/乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)、七種 茨\(CV.逢坂 良太\)、漣 ジュン\(CV.内田 雄馬\)、氷鷹 北斗\(CV.前野 智昭\)、明星 スバル\(CV.柿原 徹也\)、遊木 真\(CV.森久保 祥太郎\)、衣更 真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/4bsav98vA14A7gDX23V7Tt) | [Eden ＆ Trickstar 「\(RE\)PLAY」 あんさんぶるスターズ！！ COVER SONG SERIES 05](https://open.spotify.com/album/1ONZES9UjlepSH86dqCUcx) | 3:37 | 2024-12-30 |  |
 | [2winkle Star Beat☆](https://open.spotify.com/track/1qsgpaBWncYmYDWweS3VVf) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [あんさんぶるスターズ！アルバムシリーズ 2wink](https://open.spotify.com/album/2EhHCiaRN1bz3tfVfZpIs1) | 4:22 | 2024-12-12 |  |
+| [Acanthe](https://open.spotify.com/track/0Si55K9cWWpJglJcqUZcxD) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [Valkyrie「Acanthe」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc) | 5:29 | 2025-01-08 |  |
 | [Across the universe](https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:32 | 2024-06-25 |  |
 | [Aisle, be with you](https://open.spotify.com/track/1jK8X9teT6Hj3zKxYkLPxo) | [Ring.A.Bell/高峯 翠\(CV.渡辺 拓海\)、衣更 真緒\(CV.梶 裕貴\)、月永 レオ\(CV.浅沼 晋太郎\)、蓮巳 敬人\(CV.梅原 裕一郎\)、天祥院 英智\(CV.緑川 光\)](https://open.spotify.com/artist/4Jd8w6mN9QuVcLL2ksL8rD) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 4:16 | 2024-04-26 |  |
 | [ALTA MODA \-アルタ・モーダ\-](https://open.spotify.com/track/29c5z1PTpP8LWWBIVEggiT) | [瀬名 泉\(CV.伊藤 マサミ\)](https://open.spotify.com/artist/6SnZppEs1Cpthc4gNQKEHv) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 3:14 | 2024-05-24 | 2024-12-01 |
@@ -136,7 +137,7 @@
 | [終わらないシンフォニア](https://open.spotify.com/track/4wCMUwMxEl4pgMq9RAQBmm) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！アルバムシリーズ fine](https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl) | 4:11 | 2024-11-09 |  |
 | [罪の底](https://open.spotify.com/track/4e9eMP5YXyxCB2j4RGSAtD) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD](https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn) | 4:29 | 2024-04-26 | 2024-12-09 |
 | [翼モラトリアム](https://open.spotify.com/track/31T4GT2pXiw1aI7Ei8Iet9) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:12 | 2025-01-08 |  |
-| [聖少年遊戯](https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:08 | 2024-08-19 |  |
+| [聖少年遊戯](https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:08 | 2024-08-19 | 2025-01-12 |
 | [青春Emergency](https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C) | [流星隊 ✕ Knights/守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/0Rfw2biPyl9NsYF1Y0sNXb) | [流星隊 ✕ Knights「青春Emergency」 あんさんぶるスターズ！！ FUSION UNIT SERIES 06](https://open.spotify.com/album/4Iyn5w22zjcZPOF1YadFvH) | 4:29 | 2024-04-26 |  |
 | [魅惑劇](https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:09 | 2024-04-26 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=AJMXdhclRHC3Gv3wB9LkiA"> Qing Madi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,434 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,598 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

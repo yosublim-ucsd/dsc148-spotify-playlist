@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,830 likes - 150 songs - 8 hr 46 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,831 likes - 152 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,25 +138,27 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 128 | [We Need](https://open.spotify.com/track/6noYxnpmqg5ILjLXy8Ui5N) | [Cloud Ray](https://open.spotify.com/artist/3dL5rP9PjkUR5xniV38mg1) | [We Need](https://open.spotify.com/album/0RlfiuZOHF5lfer91kGveC) | 2:54 |
 | 129 | [Dangerous](https://open.spotify.com/track/5y8GpqdjvF1jd6AmoC3wrX) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Dangerous](https://open.spotify.com/album/31GuxF5kJTzSAXtyRlIivd) | 3:34 |
 | 130 | [Jackson Hole](https://open.spotify.com/track/0eWPqXxmGf9PgdHKkjMgnm) | [Jud Hailey](https://open.spotify.com/artist/2QAYhplrd9ihaiJO0J3ttn) | [Jackson Hole](https://open.spotify.com/album/3eZkkChub74NaLEeXhjFyI) | 3:53 |
-| 131 | [Wolf + Moon](https://open.spotify.com/track/7pcYVrAMdb9R7LP3DqUUDc) | [Vendetta the Vision](https://open.spotify.com/artist/2oih4WdVd4dkPPhrD0TGbQ), [MirandaLynn](https://open.spotify.com/artist/11G0XAunEV5fqEBpD1qhVG) | [Apparitions](https://open.spotify.com/album/38CUUPaFqZCjmYQxSgmDwF) | 3:23 |
-| 132 | [Bello](https://open.spotify.com/track/1AfApkGhtPW2rMeiEf2uee) | [Tiancho](https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68) | [Bello](https://open.spotify.com/album/2S6MrTU4GLgQO1TwnfuBIn) | 3:05 |
-| 133 | [Toxic](https://open.spotify.com/track/7Eb59SCJt2AaeJG5vPfq19) | [rplayin](https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy) | [Toxic](https://open.spotify.com/album/5hpaTxWSYBeqBEBkJPqfjL) | 3:48 |
-| 134 | [Diff mofo](https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb) | [Warvet Da Rappa](https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip) | [Diff mofo](https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB) | 1:51 |
-| 135 | [Call It What You Want](https://open.spotify.com/track/6m83J6J5k3qkKJcVlDW7Fe) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Call It What You Want](https://open.spotify.com/album/4IEU0rM0FDBUrK73bvFbnR) | 2:37 |
-| 136 | [At a Opp](https://open.spotify.com/track/6KxS6U4QHTAj2byFYIfegg) | [E Banks](https://open.spotify.com/artist/1444IIRqVm9Okap1hfpg93) | [At a Opp](https://open.spotify.com/album/0J9Ad0y3Yva5tSOTeJHHp2) | 3:34 |
-| 137 | [TAKE IT LOW](https://open.spotify.com/track/4WPQhEAZXoIue92YY4sWKA) | [J hickey](https://open.spotify.com/artist/3kmxZBWMS8Vx2XOUyOWTnH) | [TAKE IT LOW](https://open.spotify.com/album/4D4ul6wAEssR7iW9SvR8mQ) | 1:57 |
-| 138 | [Shordy](https://open.spotify.com/track/1MJyF1eq4oHu1mhF4NzlQR) | [RukeepsitTrue](https://open.spotify.com/artist/6Fq6x9lVB1lYl2QK5Rk7ou) | [Shordy](https://open.spotify.com/album/7sQWo776oc5axyNsPulPfs) | 3:09 |
-| 139 | [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 |
-| 140 | [Talkin'](https://open.spotify.com/track/0isrmlSCQXjqODHAmWxZhm) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [Go Ahead](https://open.spotify.com/album/6YHzO3f35NHXX2WrjGlW49) | 3:44 |
-| 141 | [Scars](https://open.spotify.com/track/506z9idswzK8r9UuybLdzR) | [Kyla\-Belle](https://open.spotify.com/artist/0DJQfhWgJx7DmocFciTyrR) | [Scars](https://open.spotify.com/album/0OWnadGqaH2gxNu5d3crYe) | 3:24 |
-| 142 | [kömak bashi](https://open.spotify.com/track/1iqIF7GxDOfBB5t4oI8Ozw) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Ashley Zarah](https://open.spotify.com/artist/7zx2lEBvJVxPcD4INOgloz) | [kömak bashi](https://open.spotify.com/album/0rzseyyxzgjOfhgD9uNgVP) | 2:43 |
-| 143 | [Glisten](https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD) | [Azoraê](https://open.spotify.com/artist/6zHcQu3DMruPjgDUvcO1mK) | [Glisten](https://open.spotify.com/album/6pIDTXeY8gilcDtQeTwOn7) | 2:16 |
-| 144 | [She A City Girl](https://open.spotify.com/track/1lWhSpYcuXsmBwg4Z0MgDb) | [aboutlastnight](https://open.spotify.com/artist/6rU78y3Kzm9puAIUznTd5e) | [She A City Girl](https://open.spotify.com/album/0jWI7I4VNB6hbdTAdbrzky) | 3:01 |
-| 145 | [Can't Stop Wanting You \(Acoustified\)](https://open.spotify.com/track/3WjWCA4BQvj1phCByGKZCe) | [JV Altharas](https://open.spotify.com/artist/6eBEjfPn9jZAIjhOlh2E7F) | [Demonstrous, Vol\. 2 \(Acoustified\)](https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc) | 4:20 |
-| 146 | [I Wish I Forgot](https://open.spotify.com/track/1RpzHNoqYPvnpuGOYYPPgy) | [Justin Versluis](https://open.spotify.com/artist/7JOTs5hljkkE7rSdm0mPSU) | [I Wish I Forgot](https://open.spotify.com/album/4QlnFr07fUdAsGvM2DKbwX) | 1:53 |
-| 147 | [Don't Play](https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt) | [Eli ALXNDR](https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU) | [Not Leaving](https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS) | 2:53 |
-| 148 | [Sheesh \- Radio Edit](https://open.spotify.com/track/3UayrrhZabQopysb16raI8) | [Adam Ford](https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n) | [Sheesh \(Radio Edit\)](https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT) | 2:38 |
-| 149 | [Hit the Lights](https://open.spotify.com/track/6eAf34lUMi2AcOe1PpwTXm) | [Tessa Dalton](https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA) | [Hit the Lights](https://open.spotify.com/album/0FxBiQ3NsYRkWnC0Q3okSD) | 2:03 |
-| 150 | [Long Road](https://open.spotify.com/track/2gPEhLllYJk4TJEImgepZo) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [Long Road](https://open.spotify.com/album/59M2qLszFxLN5iaZs4z069) | 4:34 |
+| 131 | [The One](https://open.spotify.com/track/2CmtnCxhkCrCPAjwcri2Rv) | [TEFO 11](https://open.spotify.com/artist/12Ql55u20jALFokd7UNIr4) | [THE ONE](https://open.spotify.com/album/5ALGiDex6d8nW0rOIp9G9t) | 2:35 |
+| 132 | [I Wouldn't Change a Thing](https://open.spotify.com/track/4tPRuTab3qXR07jPbFFqco) | [Vanishing Shores](https://open.spotify.com/artist/4o1hUb6mX2C3QpeF8r8lzX) | [Possible Light, Pt\. 1](https://open.spotify.com/album/3nbY5t3o7x8y6FK56tMt0t) | 2:48 |
+| 133 | [La mémoire des vaincus](https://open.spotify.com/track/3CFqtDU41E8wgBQ01D3v6V) | [Baba Wazo](https://open.spotify.com/artist/0vZ3ih2AY9SZgIQZkXnDqb) | [La mémoire des vaincus](https://open.spotify.com/album/1r4be4Ipu91VBIVpILlsTW) | 3:47 |
+| 134 | [Scars](https://open.spotify.com/track/506z9idswzK8r9UuybLdzR) | [Kyla\-Belle](https://open.spotify.com/artist/0DJQfhWgJx7DmocFciTyrR) | [Scars](https://open.spotify.com/album/0OWnadGqaH2gxNu5d3crYe) | 3:24 |
+| 135 | [kömak bashi](https://open.spotify.com/track/1iqIF7GxDOfBB5t4oI8Ozw) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Ashley Zarah](https://open.spotify.com/artist/7zx2lEBvJVxPcD4INOgloz) | [kömak bashi](https://open.spotify.com/album/0rzseyyxzgjOfhgD9uNgVP) | 2:43 |
+| 136 | [Call It What You Want](https://open.spotify.com/track/6m83J6J5k3qkKJcVlDW7Fe) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Call It What You Want](https://open.spotify.com/album/4IEU0rM0FDBUrK73bvFbnR) | 2:37 |
+| 137 | [At a Opp](https://open.spotify.com/track/6KxS6U4QHTAj2byFYIfegg) | [E Banks](https://open.spotify.com/artist/1444IIRqVm9Okap1hfpg93) | [At a Opp](https://open.spotify.com/album/0J9Ad0y3Yva5tSOTeJHHp2) | 3:34 |
+| 138 | [Wolf + Moon](https://open.spotify.com/track/7pcYVrAMdb9R7LP3DqUUDc) | [Vendetta the Vision](https://open.spotify.com/artist/2oih4WdVd4dkPPhrD0TGbQ), [MirandaLynn](https://open.spotify.com/artist/11G0XAunEV5fqEBpD1qhVG) | [Apparitions](https://open.spotify.com/album/38CUUPaFqZCjmYQxSgmDwF) | 3:23 |
+| 139 | [Bello](https://open.spotify.com/track/1AfApkGhtPW2rMeiEf2uee) | [Tiancho](https://open.spotify.com/artist/0Qx1jjadmxQoMekTZdIF68) | [Bello](https://open.spotify.com/album/2S6MrTU4GLgQO1TwnfuBIn) | 3:05 |
+| 140 | [Toxic](https://open.spotify.com/track/7Eb59SCJt2AaeJG5vPfq19) | [rplayin](https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy) | [Toxic](https://open.spotify.com/album/5hpaTxWSYBeqBEBkJPqfjL) | 3:48 |
+| 141 | [Diff mofo](https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb) | [Warvet Da Rappa](https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip) | [Diff mofo](https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB) | 1:51 |
+| 142 | [TAKE IT LOW](https://open.spotify.com/track/4WPQhEAZXoIue92YY4sWKA) | [J hickey](https://open.spotify.com/artist/3kmxZBWMS8Vx2XOUyOWTnH) | [TAKE IT LOW](https://open.spotify.com/album/4D4ul6wAEssR7iW9SvR8mQ) | 1:57 |
+| 143 | [Shordy](https://open.spotify.com/track/1MJyF1eq4oHu1mhF4NzlQR) | [RukeepsitTrue](https://open.spotify.com/artist/6Fq6x9lVB1lYl2QK5Rk7ou) | [Shordy](https://open.spotify.com/album/7sQWo776oc5axyNsPulPfs) | 3:09 |
+| 144 | [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 |
+| 145 | [One Drink Away](https://open.spotify.com/track/13rFklKCvwbkliecJywFNE) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [One Drink Away](https://open.spotify.com/album/4Ff3JKjhbEhg4UAFOo0Mt7) | 3:36 |
+| 146 | [Glisten](https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD) | [Azoraê](https://open.spotify.com/artist/6zHcQu3DMruPjgDUvcO1mK) | [Glisten](https://open.spotify.com/album/6pIDTXeY8gilcDtQeTwOn7) | 2:16 |
+| 147 | [Talkin'](https://open.spotify.com/track/0isrmlSCQXjqODHAmWxZhm) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [Go Ahead](https://open.spotify.com/album/6YHzO3f35NHXX2WrjGlW49) | 3:44 |
+| 148 | [She A City Girl](https://open.spotify.com/track/1lWhSpYcuXsmBwg4Z0MgDb) | [aboutlastnight](https://open.spotify.com/artist/6rU78y3Kzm9puAIUznTd5e) | [She A City Girl](https://open.spotify.com/album/0jWI7I4VNB6hbdTAdbrzky) | 3:01 |
+| 149 | [Can't Stop Wanting You \(Acoustified\)](https://open.spotify.com/track/3WjWCA4BQvj1phCByGKZCe) | [JV Altharas](https://open.spotify.com/artist/6eBEjfPn9jZAIjhOlh2E7F) | [Demonstrous, Vol\. 2 \(Acoustified\)](https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc) | 4:20 |
+| 150 | [I Wish I Forgot](https://open.spotify.com/track/1RpzHNoqYPvnpuGOYYPPgy) | [Justin Versluis](https://open.spotify.com/artist/7JOTs5hljkkE7rSdm0mPSU) | [I Wish I Forgot](https://open.spotify.com/album/4QlnFr07fUdAsGvM2DKbwX) | 1:53 |
+| 151 | [Don't Play](https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt) | [Eli ALXNDR](https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU) | [Not Leaving](https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS) | 2:53 |
+| 152 | [Sheesh \- Radio Edit](https://open.spotify.com/track/3UayrrhZabQopysb16raI8) | [Adam Ford](https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n) | [Sheesh \(Radio Edit\)](https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT) | 2:38 |
 
-Snapshot ID: `AAAsRWE3DHFqZi4FYC9ZeO/b7N3WFSu3`
+Snapshot ID: `AAAsU32QhjR8M39akbwmyBFuOLm7HUTo`

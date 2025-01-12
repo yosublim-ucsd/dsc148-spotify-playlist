@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 416687,
+  "num_followers": 416776,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "As Nasty As They Wanna Be",
-        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
-      },
-      "artists": [
-        {
-          "name": "2 LIVE CREW",
-          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "Me So Horny",
-      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Follow The Leader (Expanded Edition)",
         "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 314600,
       "name": "Microphone Fiend",
       "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "As Nasty As They Wanna Be",
+        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
+      },
+      "artists": [
+        {
+          "name": "2 LIVE CREW",
+          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "Me So Horny",
+      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
         "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 336960,
       "name": "Boyz-N-The-Hood",
       "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     },
     {
       "added_at": "2024-06-28 10:06:16",

@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 229743,
       "name": "Acelerando",
       "url": "https://open.spotify.com/track/5W8W8eShpfrpvCNEi2ExO6"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 265752,
       "name": "Angst",
       "url": "https://open.spotify.com/track/7uUvceLJvMhhoXiCm9PSOC"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 182954,
       "name": "Astronom\u00eda",
       "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
@@ -7481,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Body Loves the Soul",
+        "url": "https://open.spotify.com/album/2k3233jYNEnrW5bbRgDple"
+      },
+      "artists": [
+        {
+          "name": "Tim the Drum",
+          "url": "https://open.spotify.com/artist/3JwW08GoTmlReRhKFVJQZn"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Comfy Pants",
+      "url": "https://open.spotify.com/track/2xmTHMywy80iXVgyiW0ngx"
+    },
+    {
+      "album": {
         "name": "Communicate",
         "url": "https://open.spotify.com/album/4op7FALzRcCFTPzTSOcOp2"
       },
@@ -9173,6 +9191,28 @@
     },
     {
       "album": {
+        "name": "Disappear (Morales 12\" Remix)",
+        "url": "https://open.spotify.com/album/07spIwEwfzUs73ATX4FNF7"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395226,
+      "name": "Disappear - Morales 12\" Mix",
+      "url": "https://open.spotify.com/track/4LdfjHLN9QmDXIL3SM1Z6l"
+    },
+    {
+      "album": {
         "name": "What's Love Got to Do with It (30th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0LqFtawEnmutBvNiV6Ngq7"
       },
@@ -9784,7 +9824,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
@@ -10266,7 +10306,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 267232,
       "name": "Dr\u00f6m S\u00e5ng",
       "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
@@ -10490,7 +10530,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 188839,
       "name": "D\u00eda Tres",
       "url": "https://open.spotify.com/track/4DUwZUxMZaD9S0sz4RHjI1"
@@ -12154,7 +12194,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 399546,
       "name": "Everything - Jaxx Club Vocal",
       "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
@@ -12768,7 +12808,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 187977,
       "name": "Field of Opportunity",
       "url": "https://open.spotify.com/track/1GfTKBIoqw7uY3nyRFH4Zp"
@@ -15408,7 +15448,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 243769,
       "name": "Hay Un Tirano Que Es para Vos",
       "url": "https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG"
@@ -16278,7 +16318,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 167857,
       "name": "Hoja de la Suerte",
       "url": "https://open.spotify.com/track/6kmMupn1Y9Jvu8YHkL3Wfr"
@@ -22990,7 +23030,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 342500,
       "name": "Lovers and Strangers",
       "url": "https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt"
@@ -23270,6 +23310,24 @@
       "duration_ms": 180269,
       "name": "Man of Constant Sorrow",
       "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
+    },
+    {
+      "album": {
+        "name": "Manitou",
+        "url": "https://open.spotify.com/album/609SDObe60bCJwq03arAGK"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Manitou",
+      "url": "https://open.spotify.com/track/1FjqbvHOIsNHtwIebAdSsF"
     },
     {
       "album": {
@@ -25698,7 +25756,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 203000,
       "name": "Ni\u00f1x - DJ TEE Remix",
       "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
@@ -26970,7 +27028,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 333750,
       "name": "One Last Breath - Jojo Lorenzo Remix",
       "url": "https://open.spotify.com/track/0oSjvM4Q8kxRvixGI0vGxL"
@@ -27390,7 +27448,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 206913,
       "name": "Out of The Fire (Type O Negative)",
       "url": "https://open.spotify.com/track/7IYSNUz2hcXgJHpuyMI4cH"
@@ -27568,7 +27626,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
@@ -29488,7 +29546,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 290752,
       "name": "Quiero Dormir Cansado - MTV Unplugged",
       "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
@@ -31642,7 +31700,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 119639,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
@@ -32080,7 +32138,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 216584,
       "name": "Seasons \u00f8f Life",
       "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
@@ -34149,6 +34207,24 @@
     },
     {
       "album": {
+        "name": "Sources",
+        "url": "https://open.spotify.com/album/3A9b9YyHFLwmREsa1dRVTT"
+      },
+      "artists": [
+        {
+          "name": "Erase Control",
+          "url": "https://open.spotify.com/artist/4OQQuzCkWjyGIScUV0V53K"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143666,
+      "name": "Sources",
+      "url": "https://open.spotify.com/track/6WJ4eCDiookn9a1pnDtJKf"
+    },
+    {
+      "album": {
         "name": "Live At 55",
         "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
       },
@@ -34302,6 +34378,24 @@
       "duration_ms": 201481,
       "name": "Space Age Love Song - Single Edit",
       "url": "https://open.spotify.com/track/5UqeauynRpmSGVn3q9N9dq"
+    },
+    {
+      "album": {
+        "name": "Spaceman",
+        "url": "https://open.spotify.com/album/6Gn8LI13wQmcqXeD9zGbzw"
+      },
+      "artists": [
+        {
+          "name": "August Lows",
+          "url": "https://open.spotify.com/artist/7IG4e6No4TXzRpWnJYoFjS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242808,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/6ViLVOPvGUPRv8nyiIYUCw"
     },
     {
       "album": {
@@ -34868,10 +34962,28 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 240154,
       "name": "Steven Flowe (Theme Song)",
       "url": "https://open.spotify.com/track/2dFjsxfjZp8oiyiGXMlx21"
+    },
+    {
+      "album": {
+        "name": "Still Failure",
+        "url": "https://open.spotify.com/album/6bT4YqZUoNrp23uSJXCAYT"
+      },
+      "artists": [
+        {
+          "name": "KtaklismA",
+          "url": "https://open.spotify.com/artist/7uGrdGQBxfvNCVws4T4acl"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300585,
+      "name": "Still Failure",
+      "url": "https://open.spotify.com/track/5Bm8tNgW2NfZvPz5hBo6Jz"
     },
     {
       "album": {
@@ -35608,6 +35720,24 @@
       "duration_ms": 459741,
       "name": "Sweet Sounds Of Heaven - Live at Racket, NYC",
       "url": "https://open.spotify.com/track/6Uazt0Y1PzoXCFjN7jkotc"
+    },
+    {
+      "album": {
+        "name": "Sweet, Negative Dreams",
+        "url": "https://open.spotify.com/album/1xXzw2YJ5JmS1P5VwlZjNb"
+      },
+      "artists": [
+        {
+          "name": "Denis Pauna",
+          "url": "https://open.spotify.com/artist/2RkurttzfgMvZ6kkNnKG79"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507441,
+      "name": "Sweet, Negative Dreams",
+      "url": "https://open.spotify.com/track/4BqsavOTR7dBdocbmLlviN"
     },
     {
       "album": {
@@ -36628,6 +36758,24 @@
       "duration_ms": 212565,
       "name": "The Big Goodbye",
       "url": "https://open.spotify.com/track/6TOTISTEkyj5CTiUSBUy6S"
+    },
+    {
+      "album": {
+        "name": "The Birds and Bison",
+        "url": "https://open.spotify.com/album/1bjb5avCABMkPflIHZP7AN"
+      },
+      "artists": [
+        {
+          "name": "The Redwings",
+          "url": "https://open.spotify.com/artist/32EIZRDMrE6qID94lyymaU"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "The Birds and Bison",
+      "url": "https://open.spotify.com/track/1feXmnzlLGaCerri9sEmRX"
     },
     {
       "album": {
@@ -38822,7 +38970,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 167626,
       "name": "The wish",
       "url": "https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV"
@@ -43826,10 +43974,32 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 215000,
       "name": "Yes I Can",
       "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
+    },
+    {
+      "album": {
+        "name": "Yo no fu\u00ed",
+        "url": "https://open.spotify.com/album/6qc1J9R1nnsiE0c3Dn7xBQ"
+      },
+      "artists": [
+        {
+          "name": "Los 400 Conejos Ebrios",
+          "url": "https://open.spotify.com/artist/4nplsZDg02O4dnAPbfvt4S"
+        },
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Yo no fu\u00ed",
+      "url": "https://open.spotify.com/track/7dxNqV5iI0u2mWw13h2Vz3"
     },
     {
       "album": {
@@ -44722,7 +44892,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 241501,
       "name": "\u9065\u304b\u5f7c\u65b9 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4WEZMn207l6d31ZMhLCLZw"

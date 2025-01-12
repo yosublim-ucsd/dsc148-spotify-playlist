@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 5672,
+  "num_followers": 5720,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "SaxoSuelta Oriente Tribe",
-        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
-      },
-      "artists": [
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Darek Sotelo",
-          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "SaxoSuelta Oriente Tribe",
-      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "De Volta Ao Game",
         "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 147692,
       "name": "MTG Ela s\u00f3 Quer",
       "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "SaxoSuelta Oriente Tribe",
+        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
+      },
+      "artists": [
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Darek Sotelo",
+          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "SaxoSuelta Oriente Tribe",
+      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2075,6 +2075,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG PIRA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
+      },
+      "artists": [
+        {
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "MTG PIRA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -2099,30 +2123,6 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG PIRA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
-      },
-      "artists": [
-        {
-          "name": "Kak\u00e1 e Pedrinho",
-          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
-        },
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "DJ JO\u00c3O PEREIRA",
-          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "MTG PIRA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Cach\u00edn",
-        "url": "https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "Cach\u00edn",
-      "url": "https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Humo Trankilizante",
         "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
       },
@@ -2499,6 +2479,26 @@
       "duration_ms": 152380,
       "name": "Humo Trankilizante",
       "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Cach\u00edn",
+        "url": "https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "Cach\u00edn",
+      "url": "https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2815,30 +2815,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "ONTAS BB",
-        "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "ONTAS BB",
-      "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Buenos Aires (en la cara)",
         "url": "https://open.spotify.com/album/40Q0V0xD8JZ1ueBT7qlPb3"
       },
@@ -2859,6 +2835,30 @@
       "duration_ms": 194000,
       "name": "Buenos Aires (en la cara)",
       "url": "https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "ONTAS BB",
+        "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "ONTAS BB",
+      "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "PARIS HILTON",
-        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "PARIS HILTON",
-      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG Nosso Xote",
         "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
       },
@@ -2975,6 +2955,26 @@
       "duration_ms": 136615,
       "name": "MTG Nosso Xote",
       "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "PARIS HILTON",
+        "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "PARIS HILTON",
+      "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3259,18 +3259,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Modo St1ngy",
-        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+        "name": "MTG Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/4gYVlRkmygmzvtyLpW26aC"
       },
       "artists": [
         {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Luka G",
+          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
         }
       ],
-      "duration_ms": 144406,
-      "name": "Modo St1ngy",
-      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+      "duration_ms": 85342,
+      "name": "MTG Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/1bRODQWZdI8q56ewtBDZg6"
     }
   ],
   "unique_name": "los prohibidos",

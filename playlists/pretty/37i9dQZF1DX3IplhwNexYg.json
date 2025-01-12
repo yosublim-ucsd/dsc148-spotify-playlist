@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Fat Dog",
-  "num_followers": 114434,
+  "num_followers": 114427,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Open Wide",
         "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 288841,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 219020,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 191102,
-      "name": "Shower Beer",
-      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "atomic",
         "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169190,
       "name": "atomic",
       "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 191102,
+      "name": "Shower Beer",
+      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Deep End (Paul's in Pieces)",
-      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Deep End (Paul's in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 228122,
-      "name": "I\u2019m Not Crying, You\u2019re Crying",
-      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 228122,
+      "name": "I\u2019m Not Crying, You\u2019re Crying",
+      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Zombieland",
         "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "One Million Love Songs",
-        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Something Blue",
-      "url": "https://open.spotify.com/track/1nS8LLMYmVwKggDEviOuM8"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "One Million Love Songs",
+        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Something Blue",
+      "url": "https://open.spotify.com/track/1nS8LLMYmVwKggDEviOuM8"
     },
     {
       "added_at": "2024-12-06 01:02:36",

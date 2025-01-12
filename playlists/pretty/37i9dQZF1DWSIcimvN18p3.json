@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 304727,
+  "num_followers": 304788,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -535,54 +551,6 @@
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -603,6 +571,38 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -655,6 +639,22 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Time And Love: The Essential Masters",
         "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Polaroid Lovers",
-        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
         }
       ],
-      "duration_ms": 180524,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1731,22 +1715,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -1759,6 +1727,38 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "A Southern Gothic",
         "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "The Very Best of Peter, Paul and Mary",
         "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 159360,
       "name": "Follow Me - Remastered",
       "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Jessica Pratt",
-        "url": "https://open.spotify.com/album/5gSKVqiuyfeTJ0pie14RW4"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 324939,
-      "name": "Half Twain the Jesse",
-      "url": "https://open.spotify.com/track/2kz07UCwBmIoRzIs18X3Ek"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Blonde On The Tracks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
       },
@@ -2311,6 +2295,42 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
+        "name": "Jessica Pratt",
+        "url": "https://open.spotify.com/album/5gSKVqiuyfeTJ0pie14RW4"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 324939,
+      "name": "Half Twain the Jesse",
+      "url": "https://open.spotify.com/track/2kz07UCwBmIoRzIs18X3Ek"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "New Lost City Ramblers with Cousin Emmy",
+        "url": "https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY"
+      },
+      "artists": [
+        {
+          "name": "The New Lost City Ramblers",
+          "url": "https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd"
+        },
+        {
+          "name": "Cousin Emmy",
+          "url": "https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Ruby, Are You Mad At Your Man?",
+      "url": "https://open.spotify.com/track/0MKqZjDlfeltCfcrtIDj47"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -2339,26 +2359,6 @@
       "duration_ms": 201936,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
-        "name": "New Lost City Ramblers with Cousin Emmy",
-        "url": "https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY"
-      },
-      "artists": [
-        {
-          "name": "The New Lost City Ramblers",
-          "url": "https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd"
-        },
-        {
-          "name": "Cousin Emmy",
-          "url": "https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Ruby, Are You Mad At Your Man?",
-      "url": "https://open.spotify.com/track/0MKqZjDlfeltCfcrtIDj47"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
-      },
-      "artists": [
-        {
-          "name": "Maja Lena",
-          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
-    },
-    {
-      "added_at": "2025-01-07 17:15:31",
-      "album": {
         "name": "Hours Are the New Days",
         "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 244664,
       "name": "Hours Are the New Days",
       "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
+    },
+    {
+      "added_at": "2025-01-07 17:15:31",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
+      },
+      "artists": [
+        {
+          "name": "Maja Lena",
+          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
     },
     {
       "added_at": "2025-01-07 17:15:31",
@@ -2575,26 +2575,18 @@
     {
       "added_at": "2025-01-07 17:15:31",
       "album": {
-        "name": "Atomic Number",
-        "url": "https://open.spotify.com/album/2KUkCcrWIdNe4tqAdsHFyk"
+        "name": "Clotho's Web",
+        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        },
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
-        },
-        {
-          "name": "Laura Veirs",
-          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+          "name": "Julie Felix",
+          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
         }
       ],
-      "duration_ms": 177802,
-      "name": "Atomic Number",
-      "url": "https://open.spotify.com/track/36BvxxHlY6JPjmvbp43CMc"
+      "duration_ms": 186320,
+      "name": "Fire, Water, Earth And Air",
+      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
     }
   ],
   "unique_name": "Women of Folk",

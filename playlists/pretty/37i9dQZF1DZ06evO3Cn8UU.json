@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 36296,
+  "num_followers": 36306,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACBr4j/YGfBN70j8leKXE2X",
+  "snapshot_id": "Z4BjAAAAAAAeQLcpjlX5yurISvtjRnum",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
       "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 362758,
-      "name": "Hold Me (with Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
+      "duration_ms": 327253,
+      "name": "Can We Be Lovers",
+      "url": "https://open.spotify.com/track/2OEvLFIpRNKOrDqEmu5xWL"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 327253,
-      "name": "Can We Be Lovers",
-      "url": "https://open.spotify.com/track/2OEvLFIpRNKOrDqEmu5xWL"
+      "duration_ms": 362758,
+      "name": "Hold Me (with Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
       "duration_ms": 347373,
       "name": "Come Go with Me",
       "url": "https://open.spotify.com/track/37rG6I6cbq7EdnOMyBxJjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 298480,
+      "name": "Through the Falling Rain (Love Story)",
+      "url": "https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2"
     },
     {
       "added_at": null,
@@ -243,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 298480,
-      "name": "Through the Falling Rain (Love Story)",
-      "url": "https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 518000,
       "name": "I Miss You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 377466,
+      "name": "Love Is the Power",
+      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
     },
     {
       "added_at": null,
@@ -311,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
       "artists": [
         {
@@ -320,9 +336,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 377466,
-      "name": "Love Is the Power",
-      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
+      "duration_ms": 244053,
+      "name": "It Should've Been You",
+      "url": "https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I"
     },
     {
       "added_at": null,
@@ -340,25 +356,9 @@
           "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7xpbm90BavlclOx7AiCprp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truly Blessed",
-        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "It Should've Been You",
-      "url": "https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I"
+      "duration_ms": 231920,
+      "name": "In My Time",
+      "url": "https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 388960,
+      "name": "This Is the Last Time",
+      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
       },
@@ -416,25 +432,9 @@
           "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
         }
       ],
-      "duration_ms": 231920,
-      "name": "In My Time",
-      "url": "https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 388960,
-      "name": "This Is the Last Time",
-      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+      "duration_ms": 262840,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7xpbm90BavlclOx7AiCprp"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 199480,
       "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 250333,
-      "name": "Don't Keep Wastin' My Time",
-      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 326800,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "Don't Keep Wastin' My Time",
+      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
     },
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Only Knows",
-        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 240946,
-      "name": "I Want My Baby Back",
-      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+      "duration_ms": 220933,
+      "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe In Love",
+        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Believe In Love - Phat Phili Mix",
+      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe In Love",
-        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Believe In Love - Phat Phili Mix",
-      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
     },
     {
       "added_at": null,

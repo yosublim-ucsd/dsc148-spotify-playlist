@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-634 songs - 1 day 9 hr 36 min
+635 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 |  |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2023-12-15 |  |
 | [Flaco Salgueiro](https://open.spotify.com/track/26gjboIAI5bQevZS7aRg8C) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Flaco Salgueiro](https://open.spotify.com/album/4qM2J7FwcX2wCo1hxZEH10) | 3:02 | 2023-02-24 | 2023-03-09 |
-| [Flor Hermosa](https://open.spotify.com/track/2QV8D1bkEoHCccO3n7YypR) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 3:01 | 2024-12-20 |  |
+| [Flor Hermosa](https://open.spotify.com/track/2QV8D1bkEoHCccO3n7YypR) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 3:01 | 2024-12-20 | 2025-01-12 |
 | [Flore$](https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Tino Acosta](https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN) | [Flore$](https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH) | 2:06 | 2024-07-12 | 2024-12-21 |
 | [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 | 2022-08-30 |
 | [Frapesito](https://open.spotify.com/track/4RKPYB0pkiajIXSBxP4Jf9) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9), [DEZIDIA](https://open.spotify.com/artist/6tsOr8f9lX6fxZbbP0zmdC) | [Frapesito](https://open.spotify.com/album/2lpBWUBaTD0HwXir204fTF) | 3:14 | 2024-08-30 | 2024-09-21 |
@@ -496,6 +496,7 @@
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2021-12-17 | 2023-07-01 |
 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 | 2024-12-20 |  |
 | [Por Sentimental](https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Por Sentimental](https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra) | 2:55 | 2022-07-15 | 2022-11-22 |
+| [Presiento Que Voy A Llorar](https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 3:27 | 2025-01-05 |  |
 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 | 2021-12-17 | 2022-12-10 |
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2024-01-15 |  |
 | [Préstamela a Mi](https://open.spotify.com/track/05ZVJRpH2rS1tsoB4gNYof) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:39 | 2024-08-30 | 2024-12-21 |

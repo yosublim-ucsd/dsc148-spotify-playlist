@@ -4261,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Haggard Blues",
+        "url": "https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187758,
+      "name": "Haggard Blues",
+      "url": "https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW"
+    },
+    {
+      "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
@@ -5212,7 +5230,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
@@ -6996,6 +7014,24 @@
       "duration_ms": 170154,
       "name": "Missin' Tonight",
       "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
+    },
+    {
+      "album": {
+        "name": "Mobile",
+        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
+      },
+      "artists": [
+        {
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256588,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
     },
     {
       "album": {
@@ -12094,7 +12130,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"

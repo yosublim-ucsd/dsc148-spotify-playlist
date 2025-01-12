@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250572,
+  "num_followers": 250586,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 184000,
       "name": "Bar Mediterraneo",
       "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Love Is Real",
-        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Love Is Real",
-      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1879,18 +1879,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
         }
       ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     }
   ],
   "unique_name": "Aperitivo Time",

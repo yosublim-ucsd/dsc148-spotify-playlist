@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 172872,
+  "num_followers": 172868,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACHMh83lX2B0kvX01FPfG4o",
+  "snapshot_id": "Z4BjAAAAAADgbnC5pVNat/1HUCEQaOwS",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Super POP!",
-        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 167714,
-      "name": "abc",
-      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 135371,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
+      "duration_ms": 167714,
+      "name": "abc",
+      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Super POP!",
-        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 162257,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
+      "duration_ms": 135371,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 169000,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 162257,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
     },
     {
       "added_at": null,

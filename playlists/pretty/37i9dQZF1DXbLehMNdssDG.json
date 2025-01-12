@@ -1,6 +1,6 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 26528,
+  "num_followers": 26577,
   "original_name": "Affirmations",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-28 14:29:46",
       "album": {
-        "name": "Equilibrio 432Hz",
-        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
-      },
-      "artists": [
-        {
-          "name": "Invocaciones",
-          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Equilibrio 432Hz",
-      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
-    },
-    {
-      "added_at": "2024-08-28 14:29:46",
-      "album": {
         "name": "Spiritual Echoes",
         "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 164500,
       "name": "Spiritual Echoes",
       "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "added_at": "2024-08-28 14:29:46",
+      "album": {
+        "name": "Equilibrio 432Hz",
+        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
+      },
+      "artists": [
+        {
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
+        }
+      ],
+      "duration_ms": 150870,
+      "name": "Equilibrio 432Hz",
+      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
     },
     {
       "added_at": "2024-08-28 14:29:46",

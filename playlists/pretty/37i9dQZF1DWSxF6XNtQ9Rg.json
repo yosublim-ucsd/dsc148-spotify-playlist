@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 221921,
+  "num_followers": 221992,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 164776,
       "name": "VETRI NERI",
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "EL PIBE DE ORO",
-      "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Status (Inediti, Rarit\u00e0 & Live)",
-        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
       "artists": [
         {
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Federica Abbate",
-          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 226808,
-      "name": "Niente Canzoni D'Amore - Inedito",
-      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
+      "duration_ms": 206805,
+      "name": "Insta Lova",
+      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -415,8 +415,8 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+        "name": "Status (Inediti, Rarit\u00e0 & Live)",
+        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
       },
       "artists": [
         {
@@ -424,13 +424,13 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
         }
       ],
-      "duration_ms": 206805,
-      "name": "Insta Lova",
-      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
+      "duration_ms": 226808,
+      "name": "Niente Canzoni D'Amore - Inedito",
+      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
       "artists": [
         {
           "name": "Marracash",
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
+      "duration_ms": 245197,
+      "name": "Salvador Dal\u00ec",
+      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -887,6 +891,42 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "LEI (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -911,46 +951,6 @@
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 245197,
-      "name": "Salvador Dal\u00ec",
-      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "LEI (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 206211,
       "name": "Davide (feat. Coez)",
       "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1283,42 +1307,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         }
       ],
-      "duration_ms": 200213,
-      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1403,22 +1403,6 @@
       "duration_ms": 256786,
       "name": "Spigoli (feat. Mara Sattei & thasup)",
       "url": "https://open.spotify.com/track/5YPKiDLejR1JhnX6w2lhro"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 147498,
-      "name": "MIU MIU",
-      "url": "https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 147498,
+      "name": "MIU MIU",
+      "url": "https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1495,6 +1495,38 @@
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "QVC8 \u2013 Singles",
+        "url": "https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 136118,
+      "name": "Toradol",
+      "url": "https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Cara Italia",
+        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 244324,
+      "name": "Cara Italia",
+      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1519,38 +1551,6 @@
       "duration_ms": 155526,
       "name": "Cadillac (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Cara Italia",
-        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 244324,
-      "name": "Cara Italia",
-      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "QVC8 \u2013 Singles",
-        "url": "https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 136118,
-      "name": "Toradol",
-      "url": "https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -1699,38 +1699,6 @@
       "duration_ms": 178758,
       "name": "Bossoli",
       "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Bottiglie Priv\u00e8",
-        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
-        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 205188,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1755,6 +1723,38 @@
       "duration_ms": 237701,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
+        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 205188,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Bottiglie Priv\u00e8",
+        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Bottiglie Priv\u00e8",
+      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
     },
     {
       "added_at": "2024-11-28 13:31:00",

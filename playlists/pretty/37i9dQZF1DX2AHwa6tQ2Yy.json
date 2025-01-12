@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 49248,
+  "num_followers": 49257,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Sleeper",
         "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -511,22 +495,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "No One But You",
-        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 213404,
-      "name": "No One But You",
-      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -551,18 +531,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+        "name": "No One But You",
+        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
       "artists": [
         {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+      "duration_ms": 213404,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -579,6 +563,22 @@
       "duration_ms": 200039,
       "name": "Us Without Me",
       "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Love in the Open",
-        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
-      },
-      "artists": [
-        {
-          "name": "Jet Vesper",
-          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
-        }
-      ],
-      "duration_ms": 122719,
-      "name": "Love in the Open",
-      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Hard To Get High",
         "url": "https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD"
       },
@@ -883,22 +867,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Sway (Remix)",
-        "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
+        "name": "Love in the Open",
+        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
       },
       "artists": [
         {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
-        },
-        {
-          "name": "Rex Atirai",
-          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
         }
       ],
-      "duration_ms": 236006,
-      "name": "Sway - Remix",
-      "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
+      "duration_ms": 122719,
+      "name": "Love in the Open",
+      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -919,6 +899,26 @@
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Sway (Remix)",
+        "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
+      },
+      "artists": [
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
+        },
+        {
+          "name": "Rex Atirai",
+          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
+        }
+      ],
+      "duration_ms": 236006,
+      "name": "Sway - Remix",
+      "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "exodus the north star",
         "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
         }
       ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
+      "duration_ms": 246857,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
       },
       "artists": [
         {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 246857,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
       "added_at": "2024-03-14 20:40:35",

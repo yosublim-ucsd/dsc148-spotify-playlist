@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,615 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,665 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 79 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
 | 80 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 81 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
-| 82 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
-| 83 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 82 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 83 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 84 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 85 | [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 |
 | 86 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 90 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 91 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 92 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
-| 93 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
-| 94 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
+| 93 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
+| 94 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
 | 95 | [Breaking Dollars](https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [Breaking Dollars EP](https://open.spotify.com/album/0gQRXmpuaO39p8WwTRLiRL) | 3:11 |
 | 96 | [Me & U](https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Me & U](https://open.spotify.com/album/7cWNy3kWFzrzODFwR7k1Tg) | 2:24 |
 | 97 | [Composure](https://open.spotify.com/track/7uzLbvyKiH5w0pyuttSpsh) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Composure](https://open.spotify.com/album/1E1TTctrsJ5ipkm7cAj9r3) | 6:28 |

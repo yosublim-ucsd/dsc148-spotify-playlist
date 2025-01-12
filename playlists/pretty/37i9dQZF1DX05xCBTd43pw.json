@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36942,
+  "num_followers": 36939,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Dein Herz",
+        "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Dein Herz",
+      "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -359,6 +375,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Russian Blue",
+        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 209070,
+      "name": "Russian Blue",
+      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
       },
@@ -375,22 +407,6 @@
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Russian Blue",
-        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 209070,
-      "name": "Russian Blue",
-      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -455,6 +471,22 @@
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -543,22 +575,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "i always remember all of my dreams",
         "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 171800,
       "name": "that life",
       "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -607,18 +607,34 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -639,6 +655,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -679,6 +711,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Descontrol",
         "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
       },
@@ -715,38 +763,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 184192,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -779,6 +795,38 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Hearts Lust",
+        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 142294,
+      "name": "Hearts Lust",
+      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -795,6 +843,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 148720,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
       },
@@ -807,22 +871,6 @@
       "duration_ms": 190621,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Hearts Lust",
-        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 142294,
-      "name": "Hearts Lust",
-      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -895,38 +943,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -939,6 +955,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -971,6 +1003,22 @@
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "I'll Never Tire of Loving You",
+        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "I'll Never Tire of Loving You",
+      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1047,18 +1095,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "I'll Never Tire of Loving You",
-        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+        "name": "I Hate The Sun",
+        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
       },
       "artists": [
         {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 166253,
-      "name": "I'll Never Tire of Loving You",
-      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
+      "duration_ms": 202623,
+      "name": "I Hate The Sun",
+      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1095,38 +1143,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "I Hate The Sun",
-        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 202623,
-      "name": "I Hate The Sun",
-      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 182609,
       "name": "smile",
       "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "theremin",
-        "url": "https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 161003,
-      "name": "theremin",
-      "url": "https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ"
     }
   ],
   "unique_name": "Swiss Made",

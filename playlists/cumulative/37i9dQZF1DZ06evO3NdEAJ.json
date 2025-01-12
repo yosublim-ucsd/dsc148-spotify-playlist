@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Aunque me Dejes en Visto",
+        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157323,
+      "name": "Aunque me Dejes en Visto",
+      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
+    },
+    {
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P"
       },

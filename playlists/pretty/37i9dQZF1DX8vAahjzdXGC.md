@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,246 likes - 78 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,287 likes - 78 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 |
 | 2 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 |
 | 3 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 |
-| 4 | [Ride Or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride Or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 4 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 5 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 6 | [BATARA](https://open.spotify.com/track/3BSlt1UqKWT4lSNDVyeyGk) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [BATARA](https://open.spotify.com/album/2rFeJM6GL20XLkhbEJ7ZT7) | 3:09 |
 | 7 | [J\-Town](https://open.spotify.com/track/5NuGy6VH1YxD4eOaOkhjHU) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Rey Putra](https://open.spotify.com/artist/4nEkjVe6NrlzhcIbovYxd0), [Mc Drwe](https://open.spotify.com/artist/3WxiVegJwA8DH6iUzpFTOP) | [J\-Town](https://open.spotify.com/album/4aJDWoUp7aOIvq7XOSiJSR) | 2:46 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 9 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
 | 10 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 11 | [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 |
-| 12 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [Pia](https://open.spotify.com/artist/6jAxLXKAHGOTWqIlNblxF8), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
+| 12 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |
 | 13 | [Playboy](https://open.spotify.com/track/3cdXW0VslpdlAznyCV3LzR) | [Ras Muhamad](https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3), [Jayko](https://open.spotify.com/artist/51D6C0Wemn729imVFjJQTV), [octav sicilia](https://open.spotify.com/artist/06eoFTggMfD8CuSjpPLQZN), [Catchy Karma](https://open.spotify.com/artist/1ci88F7BfSIrYpRhf7XaDC) | [Playboy](https://open.spotify.com/album/3kuiB9kachWZk10MEmuZvq) | 3:39 |
 | 14 | [Balonmu](https://open.spotify.com/track/5peyWGeqp1u0UkkPHzZ2CV) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Balonmu](https://open.spotify.com/album/2Ntqtz0NR7ky8bZtYnS5uV) | 4:05 |
 | 15 | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 |

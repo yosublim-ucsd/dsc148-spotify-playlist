@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
@@ -3214,6 +3214,24 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
+    },
+    {
+      "album": {
+        "name": "Postcards from Ursa Minor",
+        "url": "https://open.spotify.com/album/3LNhhfULKzi281J8kszKk4"
+      },
+      "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259986,
+      "name": "Seize the Night",
+      "url": "https://open.spotify.com/track/0HaSK4Tw1IHqvyoYJTqoYz"
     },
     {
       "album": {

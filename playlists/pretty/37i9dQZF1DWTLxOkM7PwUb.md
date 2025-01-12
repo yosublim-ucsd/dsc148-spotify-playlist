@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,892 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,904 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 19 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
 | 20 | [Negro Cursi](https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Negro Cursi](https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4) | 3:41 |
 | 21 | [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 |
-| 22 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
-| 23 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
+| 22 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
+| 23 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
 | 24 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
 | 25 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
 | 26 | [BYE ME FUI](https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:58 |

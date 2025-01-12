@@ -325,7 +325,7 @@
 | [You](https://open.spotify.com/track/7p8nTl3KQbPBy7Wf65j9NF) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [MADE, Vol 24: Do Not Disturb](https://open.spotify.com/album/4Dx3GTejd4hIXx85y9EFC0) | 2:52 | 2023-10-18 |  |
 | [You Ain't Gang](https://open.spotify.com/track/2fNkxgImVNczSgpF7OVdIS) | [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [You Ain't Gang](https://open.spotify.com/album/5jSJqBdPnxPQEyRv0fEyyn) | 3:36 | 2023-10-18 |  |
 | [You Ain't Gotta Worry](https://open.spotify.com/track/2FPutcjGpvreg2cAOw2X5f) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 4:09 | 2023-10-18 |  |
-| [You Were You](https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Avery](https://open.spotify.com/artist/4KPqvHtOiNdDrt1rNVUkXL) | [Joy Comes in the Mourning](https://open.spotify.com/album/4y7kCsprTqIC4QUesQKgbS) | 1:34 | 2023-10-18 |  |
+| [You Were You](https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Avery](https://open.spotify.com/artist/1OTxJAX0bB70zLBFUlxKw5) | [Joy Comes in the Mourning](https://open.spotify.com/album/4y7kCsprTqIC4QUesQKgbS) | 1:34 | 2023-10-18 |  |
 | [Your Man and Your Best Friend](https://open.spotify.com/track/6BUNl0q0pzlMOpSGnYXD49) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [On The Loose / Trapped By A Thing Called Love](https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd) | 3:01 | 2023-10-18 |  |
 
 \*This playlist was first scraped on 2024-05-08. Prior content cannot be recovered.

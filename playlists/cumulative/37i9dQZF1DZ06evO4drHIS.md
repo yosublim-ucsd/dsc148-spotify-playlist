@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 7 min
+78 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [De Lo Que Te Perdiste](https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 | 2023-12-13 |  |
 | [DESPEDIDA](https://open.spotify.com/track/4uED1vVXU87UcmhJXGLHLv) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Trap Ejecutivo](https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh) | 2:44 | 2023-03-25 | 2024-05-22 |
 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 | 2024-05-18 | 2024-11-30 |
+| [El Beso](https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D) | 2:35 | 2025-01-12 |  |
 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 | 2023-03-10 | 2023-11-11 |
 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 | 2023-03-10 |  |
 | [Eternocumbia](https://open.spotify.com/track/5Rqe0tS03rOu8Wbxhcmt38) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:50 | 2023-03-10 | 2023-09-22 |

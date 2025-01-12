@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,281 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,312 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 34 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 |
 | 35 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
 | 36 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
-| 37 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
-| 38 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
+| 37 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
+| 38 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
 | 39 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
 | 40 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
 | 41 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 42 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
 | 43 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
-| 44 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
-| 45 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
+| 44 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
+| 45 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
 | 46 | [Bounce](https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao) | [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR) | [Bounce EP](https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev) | 3:01 |
 | 47 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
 | 48 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |

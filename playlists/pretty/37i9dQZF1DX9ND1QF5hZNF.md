@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,681 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,719 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 9 | [MARGARITA](https://open.spotify.com/track/3a83gjRLze4P3CZXoI3qAP) | [SWORRA](https://open.spotify.com/artist/3CwBdFm87pJQZU7NgZae00) | [MARGARITA](https://open.spotify.com/album/0WmKyAG8q21joH2H3LIw21) | 3:35 |
 | 10 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |
 | 11 | [Bate Forte](https://open.spotify.com/track/5JtgGyGIt2gthKjO8YI7Es) | [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Barka](https://open.spotify.com/artist/7Fi2btFUsAr8bbZ1BzpIac) | [Bate Forte](https://open.spotify.com/album/0SrGCY80zvrjTLDUaPxIw2) | 3:52 |
-| 12 | [Paparazzi](https://open.spotify.com/track/5JH92C83rqzrLLE69Ff1Os) | [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Maxong](https://open.spotify.com/artist/4aEUIrByxhLHcOfzeMbmO8), [Nemilla](https://open.spotify.com/artist/7bEitp8u4iTA3y5Yp5PaqJ) | [Paparazzi](https://open.spotify.com/album/1qAeGK6n6bbMVrYPqyCmLH) | 2:48 |
+| 12 | [Paparazzi](https://open.spotify.com/track/5JH92C83rqzrLLE69Ff1Os) | [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Maxong](https://open.spotify.com/artist/4aEUIrByxhLHcOfzeMbmO8), [Nemila](https://open.spotify.com/artist/1Gc5980dxZfe9Y416V2un8) | [Paparazzi](https://open.spotify.com/album/1qAeGK6n6bbMVrYPqyCmLH) | 2:48 |
 | 13 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 |
 | 14 | [If Only](https://open.spotify.com/track/0XbMHMNMSvvKXthvVx7cN3) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo) | [If Only](https://open.spotify.com/album/3Md8pLB46iZi3fC5QURPnL) | 4:12 |
 | 15 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |

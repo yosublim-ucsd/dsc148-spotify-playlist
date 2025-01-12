@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: Lisa Curtis
 
-849 songs - 1 day 22 hr 45 min
+850 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/3tcbegaaVvEVoK7TDnJEA5) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:22 | 2024-01-19 | 2024-04-27 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2021-12-17 |  |
-| [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-11 |  |
+| [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-11 | 2025-01-12 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-01 |  |
 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 | 2023-07-15 |
 | [i should just leave](https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i should just leave](https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg) | 3:33 | 2022-02-04 | 2022-02-12 |
@@ -839,6 +839,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-04-28 | 2024-04-19 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-17 | 2021-12-25 |
+| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-10 |  |
 | [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-10-20 | 2023-11-11 |
 | [Worst Kind of Hurt](https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Worst Kind of Hurt](https://open.spotify.com/album/59KYtAwDJMJnFoch6K8zN7) | 2:44 | 2022-01-21 | 2022-07-28 |
 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 | 2023-09-26 |

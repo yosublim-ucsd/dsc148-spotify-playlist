@@ -1,12 +1,12 @@
 {
   "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
-  "num_followers": 1698993,
+  "num_followers": 1699266,
   "original_name": "This Is Arctic Monkeys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADtsdHHNmxr3paN89eAEsXh",
+  "snapshot_id": "Z4BjAAAAAACTkWBZgIHVwD8ieluul+mp",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Worst Nightmare",
-        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Teddy Picker",
-      "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
+      "duration_ms": 224826,
+      "name": "Crying Lightning",
+      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humbug",
-        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Crying Lightning",
-      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
+      "duration_ms": 165000,
+      "name": "Teddy Picker",
+      "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
     },
     {
       "added_at": null,

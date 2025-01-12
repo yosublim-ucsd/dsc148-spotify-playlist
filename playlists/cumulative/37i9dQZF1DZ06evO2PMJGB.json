@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "Itamambuca",
+        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243793,
+      "name": "Itamambuca",
+      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
+    },
+    {
+      "album": {
         "name": "La Muerte",
         "url": "https://open.spotify.com/album/1ZJGLtqMXz4zETyqQw6qDG"
       },

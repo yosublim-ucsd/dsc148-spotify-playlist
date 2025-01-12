@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Venus Anon
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,015 likes - 77 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,029 likes - 77 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 8 | [Guess I,](https://open.spotify.com/track/5pFjLqzkpREUeG2FJLyDz6) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Guess I,](https://open.spotify.com/album/7hvyDppfPfzxhEQcdBjvzU) | 3:32 |
 | 9 | [Filthy \- Lover's Skit RMX](https://open.spotify.com/track/19XJ9lnIMUji9julcrADaB) | [alga](https://open.spotify.com/artist/6H8RIWF0g63MqXyNqJWXIC), [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Filthy \(Lover's Skit RMX\)](https://open.spotify.com/album/49wlDFpcWkmNvyj3HHmpkD) | 4:19 |
 | 10 | [San Miguel](https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp) | [Van Dame](https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC) | [San Miguel](https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc) | 3:54 |
-| 11 | [Heaven](https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe) | [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [spr1te](https://open.spotify.com/artist/7cpwHwxd59M9Y7d5xjg3n9) | [Heaven](https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN) | 3:35 |
+| 11 | [Heaven](https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe) | [dark0wa](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [Spr1te](https://open.spotify.com/artist/3XHSXSRk6VlYeU47uM8VZP) | [Heaven](https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN) | 3:35 |
 | 12 | [This House Is Haunted](https://open.spotify.com/track/5ie4XYqvHsNXL3m6NAmWMU) | [O\. Martin](https://open.spotify.com/artist/2Rm5frqCFKe3ZMuNuXRORb), [Mia Berg](https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf) | [Limitensions](https://open.spotify.com/album/4po199MxfiNIlYrkEXzN3K) | 3:29 |
 | 13 | [Hypnotize](https://open.spotify.com/track/1UiIN0hFSH3HoM2VT8UkcS) | [NINA FAY](https://open.spotify.com/artist/4H7ZhBJN5rxaoc0IHQHIKB) | [Hypnotize EP](https://open.spotify.com/album/1pGYo34rLagvzXEYG4yZBt) | 3:24 |
 | 14 | [asphodel](https://open.spotify.com/track/7wckMTidt2HYAk4kjlXd3r) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly), [melon](https://open.spotify.com/artist/6HOWP6H5KoPrJxOlt1USmM) | [asphodel](https://open.spotify.com/album/5bJz0OPoRIIKnl2Jx0gxt8) | 2:01 |

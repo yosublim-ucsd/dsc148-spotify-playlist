@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Ilan
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,947 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,936 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [doppio cuore](https://open.spotify.com/track/2Eqk6Um4vA2GejqjKM5k1U) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ), [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc) | [doppio cuore](https://open.spotify.com/album/02K89AQGeKdSFX6dKcZkJG) | 2:45 |
 | 50 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 |
 | 51 | [violenza](https://open.spotify.com/track/1yVLQv8SOjFIbV2IKCdy4s) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [violenza](https://open.spotify.com/album/0NMw6VlB1DUFMyoOX5v8Os) | 3:03 |
-| 52 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
+| 52 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
 | 53 | [chiunque](https://open.spotify.com/track/6Z7OfetiuRQJm7bG9eqWMS) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [chiunque](https://open.spotify.com/album/77yOdgHvUDJ9egxixD4BUy) | 3:00 |
 | 54 | [HELLO KITTY \(feat\. Sillyelly\)](https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:29 |
 | 55 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |

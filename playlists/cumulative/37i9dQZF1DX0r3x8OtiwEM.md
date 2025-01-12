@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-675 songs - 2 day 17 hr 58 min
+676 songs - 2 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alfortville](https://open.spotify.com/track/2c7WrSsnIYnBYCrUi0HP11) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Alfortville EP](https://open.spotify.com/album/2U8G8IAd5eEDk3rvfFddan) | 7:15 | 2021-05-07 | 2021-05-28 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-08-12 |  |
 | [All I Know](https://open.spotify.com/track/3xaiWZvVvs59VpCtNWEUY6) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Megan EP](https://open.spotify.com/album/4vzXrvITQCyH3FSQMygG2V) | 7:43 | 2020-03-25 | 2020-04-09 |
-| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
+| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 | 2025-01-12 |
 | [Alle](https://open.spotify.com/track/1SMyvP1TNiTiJ8rDZG54BJ) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha), [La Fraicheur](https://open.spotify.com/artist/5xrTRjPCPnJZVsI6RUaG1i) | [Alle](https://open.spotify.com/album/1s3j5UFwrQGG8Z971wgeaD) | 6:41 | 2019-10-24 | 2020-03-19 |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-09-01 | 2024-10-13 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 |  |
@@ -648,6 +648,7 @@
 | [Violet Pill](https://open.spotify.com/track/5bceVohqWFNrPONrWZkLOb) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Violet Pill](https://open.spotify.com/album/3uQPRzuyhqykFKyQ1gOjc3) | 8:32 | 2020-03-21 | 2020-03-22 |
 | [Virtue](https://open.spotify.com/track/2PcpSaaryToRZevYOzBiw2) | [Paji](https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ) | [Paji](https://open.spotify.com/album/2Oq4q9VX9Cq0vseM7vtRHj) | 6:49 | 2019-12-10 | 2020-01-12 |
 | [Vulcan](https://open.spotify.com/track/01nwmuyCTyu5guvuwUhhJS) | [Lake Avalon](https://open.spotify.com/artist/2GgwB2XT8sTzoBVddjJ2Vd) | [Vulcan / Hunter](https://open.spotify.com/album/4lyOX1b5ULa9FXTDmzqczG) | 6:42 | 2019-08-06\* | 2019-08-15 |
+| [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-01-10 |  |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-02-18 | 2024-11-21 |
 | [Walls](https://open.spotify.com/track/2FOXVfLmM7cIIVbb9NFlo7) | [Oliver Winters](https://open.spotify.com/artist/79YtVyEljwncTmm9Cl2X2i) | [Call After Dark](https://open.spotify.com/album/68RWov0Z0c54ikXoUyHUsK) | 6:07 | 2019-11-08 | 2020-01-04 |
 | [Wandering](https://open.spotify.com/track/6Dkm3aJAxOlqqd05h5Occb) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Wandering EP](https://open.spotify.com/album/1uYpIjS5aC7f6K2ZsPDqZl) | 8:04 | 2020-06-12 | 2020-08-30 |

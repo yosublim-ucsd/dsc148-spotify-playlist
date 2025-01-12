@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,169 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,260 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
 | 2 | [Trem Das Onze](https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Adoniran Barbosa](https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4) | 3:04 |
 | 3 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
-| 4 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
-| 5 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
+| 4 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
+| 5 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
 | 6 | [Meu Lugar](https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 4:52 |
 | 7 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 |
 | 8 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 43 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 44 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 45 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
-| 46 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
-| 47 | [De Umbigo a Umbigo](https://open.spotify.com/track/0kq9c7pdY7y1fzDzP3oNBR) | [Yayá Massemba](https://open.spotify.com/artist/4kEjXnpu87qbTgrf3dWTwW) | [De Umbigo a Umbigo](https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z) | 4:21 |
+| 46 | [De Umbigo a Umbigo](https://open.spotify.com/track/0kq9c7pdY7y1fzDzP3oNBR) | [Yayá Massemba](https://open.spotify.com/artist/4kEjXnpu87qbTgrf3dWTwW) | [De Umbigo a Umbigo](https://open.spotify.com/album/5HXh4E5QqKnye6u3Hu4f8z) | 4:21 |
+| 47 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
 | 48 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 49 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
 | 50 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |

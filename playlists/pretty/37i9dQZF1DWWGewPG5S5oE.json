@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Acustica",
-  "num_followers": 41291,
+  "num_followers": 41326,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "Drummer is Dreamer",
-        "url": "https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs"
+        "name": "Waterfilm",
+        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Drummer is Dreamer",
-      "url": "https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz"
+      "duration_ms": 257221,
+      "name": "Waterfilm",
+      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "Waterfilm",
-        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
+        "name": "Drummer is Dreamer",
+        "url": "https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 257221,
-      "name": "Waterfilm",
-      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
+      "duration_ms": 150000,
+      "name": "Drummer is Dreamer",
+      "url": "https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "Day 1",
-        "url": "https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq"
-      },
-      "artists": [
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        }
-      ],
-      "duration_ms": 533760,
-      "name": "Day 1",
-      "url": "https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe"
-    },
-    {
-      "added_at": "2025-01-07 15:00:42",
-      "album": {
         "name": "cure jazz",
         "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 210933,
       "name": "This city is too jazzy to be in love",
       "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
-    },
-    {
-      "added_at": "2025-01-07 15:00:42",
-      "album": {
-        "name": "Across the Reef",
-        "url": "https://open.spotify.com/album/3XGJntNmVI8Y3lu2ofkSxV"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 284109,
-      "name": "Across the Reef",
-      "url": "https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -647,6 +615,38 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
+        "name": "Day 1",
+        "url": "https://open.spotify.com/album/5U54cWgevUzWQBuFU79eUq"
+      },
+      "artists": [
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "duration_ms": 533760,
+      "name": "Day 1",
+      "url": "https://open.spotify.com/track/1k75rxQyqIuitzhLndCxKe"
+    },
+    {
+      "added_at": "2025-01-07 15:00:42",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+    },
+    {
+      "added_at": "2025-01-07 15:00:42",
+      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+        "name": "Across the Reef",
+        "url": "https://open.spotify.com/album/3XGJntNmVI8Y3lu2ofkSxV"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+      "duration_ms": 284109,
+      "name": "Across the Reef",
+      "url": "https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -703,38 +703,6 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-01-07 15:00:42",
-      "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
-    },
-    {
-      "added_at": "2025-01-07 15:00:42",
-      "album": {
         "name": "Into My System",
         "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
       },
@@ -751,6 +719,22 @@
       "duration_ms": 337173,
       "name": "IDEA",
       "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
+    },
+    {
+      "added_at": "2025-01-07 15:00:42",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -827,22 +811,18 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA"
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
       },
       "artists": [
         {
-          "name": "Yucco Miller",
-          "url": "https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Emotional",
-      "url": "https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi"
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -867,18 +847,22 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "Yucco Miller",
+          "url": "https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 173662,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
+      "duration_ms": 182120,
+      "name": "Emotional",
+      "url": "https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi"
     },
     {
       "added_at": "2025-01-07 15:00:42",
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
+        "name": "1-0",
+        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 281914,
+      "name": "1-0",
+      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2025-01-07 15:00:42",
+      "album": {
         "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
         "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-07 15:00:42",
       "album": {
-        "name": "1-0",
-        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 281914,
-      "name": "1-0",
-      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
-    },
-    {
-      "added_at": "2025-01-07 15:00:42",
-      "album": {
         "name": "TAPES of ACES - Side A",
         "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 409000,
       "name": "S.Y.P.T. (Show Your PentaTonic)",
       "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
+    },
+    {
+      "added_at": "2025-01-07 15:00:42",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 173662,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
     }
   ],
   "unique_name": "Modern Jazz Japan",

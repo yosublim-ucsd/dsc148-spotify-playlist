@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,942 likes - 220 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,997 likes - 220 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 109 | [Drunk Again](https://open.spotify.com/track/5bcomCCyGQncVjoUVj6twa) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Rivertown](https://open.spotify.com/album/4lQXA7UFAT1d25Y8Kr3HA2) | 4:17 |
 | 110 | [Nothin' To Wear](https://open.spotify.com/track/6kNb8J6J0bTNK0WA3GcmHq) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Nothin' To Wear](https://open.spotify.com/album/3doQD854zZJkCwYKaJseXL) | 2:53 |
 | 111 | [Sorry For Nothing](https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing](https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ) | 3:18 |
-| 112 | [Dancing In The Rain](https://open.spotify.com/track/0JIot0cZgFmg9XZarQHBIe) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Dancing In The Rain](https://open.spotify.com/album/2pa962JOvurrfZEz9q4Kq1) | 2:38 |
+| 112 | [DANCING IN THE RAIN](https://open.spotify.com/track/0JIot0cZgFmg9XZarQHBIe) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [DANCING IN THE RAIN](https://open.spotify.com/album/2pa962JOvurrfZEz9q4Kq1) | 2:38 |
 | 113 | [Something Else](https://open.spotify.com/track/34IJABeCzd2b71G1CoDK5u) | [ROTUNDO](https://open.spotify.com/artist/5Gyx55qxs56PDdjdr73Ww1) | [The Valley](https://open.spotify.com/album/4gH6ev1l63eWqB5H1EpFfY) | 3:06 |
 | 114 | [Made From The Dirt](https://open.spotify.com/track/74RsHt0dw97fwb9HETbpop) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Made From The Dirt](https://open.spotify.com/album/0ELdmzBhy7nntFgHogbhv9) | 3:31 |
 | 115 | [Still Ragin'](https://open.spotify.com/track/0dbdy4RljYj7ZMvnUJdlsv) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Still Ragin'](https://open.spotify.com/album/20BJGeb3AXFs2fGlx8aRAL) | 3:07 |

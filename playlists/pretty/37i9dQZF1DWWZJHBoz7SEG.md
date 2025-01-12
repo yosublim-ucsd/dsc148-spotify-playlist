@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música con actitud renovada para seguir o empezar con esos propósitos de año nuevo 💪 La Trinidad en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,371 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,107 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
 | 19 | [Look Up](https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:10 |
 | 20 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 |
-| 21 | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/track/6pDVxiNmOfVThYqYTWH78Q) | [CA$TA](https://open.spotify.com/artist/77UhGseMZfVuY7PpbmpuyZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH) | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/album/7tpVihRcGUfMetVO6mVzco) | 2:58 |
+| 21 | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/track/6pDVxiNmOfVThYqYTWH78Q) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [CA$TA](https://open.spotify.com/artist/77UhGseMZfVuY7PpbmpuyZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH) | [CUANDO y DONDE \(feat\. Leo Torrez\)](https://open.spotify.com/album/7tpVihRcGUfMetVO6mVzco) | 2:58 |
 | 22 | [Bellakita](https://open.spotify.com/track/2fv1gLn3gNIijXa61TkWP2) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Bellakita](https://open.spotify.com/album/0oSK3Smar2CrkB2gDMWsIr) | 2:00 |
 | 23 | [Gritaría](https://open.spotify.com/track/1QGlQJa7xcXeUBq41yXpWo) | [Ali Telez y Su Grupo Telechikoz](https://open.spotify.com/artist/1tqqr5T0Hu54rFc6vUm7v1), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Gritaría](https://open.spotify.com/album/26dYhs2KntVqsUe5EN3IQP) | 3:34 |
 | 24 | [Solita](https://open.spotify.com/track/5qR6uVPoKeSnc2KEBRzNaw) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Solita](https://open.spotify.com/album/2763GPh6sRpKLmNnCGqsI4) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Tina Turner",
-  "num_followers": 1374120,
+  "num_followers": 1374937,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 297853,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 210733,
       "name": "A Groovy Kind of Love",
       "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Eye In The Sky (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp"
       },
       "artists": [
         {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Eye In The Sky",
-      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+      "duration_ms": 232320,
+      "name": "Hard to Say I'm Sorry",
+      "url": "https://open.spotify.com/track/58DXqHKK7TfxUmhCq2ux4E"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp"
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Hard to Say I'm Sorry",
-      "url": "https://open.spotify.com/track/58DXqHKK7TfxUmhCq2ux4E"
+      "duration_ms": 276280,
+      "name": "Eye In The Sky",
+      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Tug Of War",
-        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Ebony And Ivory - Remixed 2015",
-      "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Best Of Chris Isaak",
         "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 286880,
       "name": "Wicked Game - Remastered",
       "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Tug Of War",
+        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Ebony And Ivory - Remixed 2015",
+      "url": "https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Shake You Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3JIeRgUCtlMf3y0u0cg5ZN"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 320466,
       "name": "Piano In The Dark",
       "url": "https://open.spotify.com/track/7esAUabV6rHcj76syr32Uf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Shake You Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2255,22 +2255,6 @@
       "duration_ms": 247200,
       "name": "Baby, I Love Your Way/Freebird",
       "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2323,6 +2307,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Richard Marx",
         "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Now That's What I Call Quite Good",
-        "url": "https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9"
-      },
-      "artists": [
-        {
-          "name": "The Housemartins",
-          "url": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Caravan Of Love",
-      "url": "https://open.spotify.com/track/58RdxKqvxh631GXrvTxJ2z"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Stop!",
         "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 295906,
       "name": "Stop",
       "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Now That's What I Call Quite Good",
+        "url": "https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9"
+      },
+      "artists": [
+        {
+          "name": "The Housemartins",
+          "url": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Caravan Of Love",
+      "url": "https://open.spotify.com/track/58RdxKqvxh631GXrvTxJ2z"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "I'll Be Loving You (Forever)",
-      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Maxi",
         "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 218426,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "I'll Be Loving You (Forever)",
+      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     }
   ],
   "unique_name": "Soft 80s",

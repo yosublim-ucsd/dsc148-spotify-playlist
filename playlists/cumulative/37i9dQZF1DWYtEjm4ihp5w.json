@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "KA3I",
+      "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
+    },
+    {
+      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx"
       },
@@ -4978,7 +4996,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 144088,
       "name": "Romeo.",
       "url": "https://open.spotify.com/track/3aGf4j38Jqgg2kBpPkzr6Z"

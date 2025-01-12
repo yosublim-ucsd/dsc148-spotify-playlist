@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,731,000 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731,739 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 56 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 57 | [Not An Option](https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:30 |
 | 58 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 |
-| 59 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
-| 60 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
+| 59 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
+| 60 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
 | 61 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 | 62 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
 | 63 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |

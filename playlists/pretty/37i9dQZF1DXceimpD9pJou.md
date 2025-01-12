@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Alexxander
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,251 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,266 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Química](https://open.spotify.com/track/1AknhtoV7lzwCY1Cbs4Y0q) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Química](https://open.spotify.com/album/2s4go9X9AYGLPJ7hvsVCAe) | 2:50 |
 | 2 | [La Respuesta](https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [La Respuesta](https://open.spotify.com/album/3u9UmzZ4mSV2ymIhXMOZEP) | 2:59 |
-| 3 | [Fiel](https://open.spotify.com/track/3g82GgRSd2mA9OmemzXmzA) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Elike](https://open.spotify.com/artist/6b2IWSapGCjPyKP2WAo5k5) | [Fiel](https://open.spotify.com/album/32lSJQMbYSQ22TBeWSo2d8) | 3:21 |
+| 3 | [Fiel](https://open.spotify.com/track/3g82GgRSd2mA9OmemzXmzA) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Elikemusic](https://open.spotify.com/artist/1hBJVDA61cu2Svqxm2nMor) | [Fiel](https://open.spotify.com/album/32lSJQMbYSQ22TBeWSo2d8) | 3:21 |
 | 4 | [GOZAERA](https://open.spotify.com/track/4uoNihlyg65RXjqbtL1nH4) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [GOZAERA](https://open.spotify.com/album/2OIPDvAqI6KAQnc4Lcu7I6) | 2:44 |
 | 5 | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/7na223f2psSLrQ12d6IHju) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/album/7Jz5g6am9wp7MIVSvbDCau) | 4:21 |
 | 6 | [Alguien Nuevo](https://open.spotify.com/track/2luO73ruYrSJY8J5Anqzs0) | [Proyecto 67](https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW), [Alba Pantaleón](https://open.spotify.com/artist/7hCZGbhQPBR8OBMOxi2Ebm) | [Alguien Nuevo](https://open.spotify.com/album/4Q3TR0xXSMzJAmvYyvVnZ4) | 3:11 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 45 | [Ven Emanuel](https://open.spotify.com/track/2vQ88YvZrJyOcXqOpgTGxG) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Ven Emanuel](https://open.spotify.com/album/4dXqbGPw1oWW67uwrvkN6V) | 4:00 |
 | 46 | [La Niña De Tus Ojos](https://open.spotify.com/track/1iHbiQuIYT6POwxuep0Ukv) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Daniela Calveti](https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy) | [Sesiones Acústicas](https://open.spotify.com/album/0AOPp30i0PJWdIukzNzPVN) | 4:00 |
 | 47 | [A Donde Huiré](https://open.spotify.com/track/12LNNl88ZleylUaHSuqA8I) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe) | [A Donde Huiré](https://open.spotify.com/album/3SvPfuHlDndpWZshzD9Ujb) | 3:22 |
-| 48 | [LO QUE CREES MÍ \- En vivo desde Bogotá, COL.](https://open.spotify.com/track/17j656quZ8Pj2R3mnamBxw) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [LO QUE CREES MÍ \- En vivo desde Bogotá, COL.](https://open.spotify.com/album/6aMJmSipAxwYXqTs6iMXY1) | 4:49 |
+| 48 | [LO QUE CREES DE MÍ \- En vivo desde Bogotá, COL.](https://open.spotify.com/track/17j656quZ8Pj2R3mnamBxw) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [LO QUE CREES DE MÍ \- En vivo desde Bogotá, COL.](https://open.spotify.com/album/6aMJmSipAxwYXqTs6iMXY1) | 4:49 |
 | 49 | [Todo](https://open.spotify.com/track/6aQxSuVu460BrrPTTQ1SAY) | [Enmith Trejo](https://open.spotify.com/artist/2ZpGDm1OfWBjyHN2MzQBwa), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Todo](https://open.spotify.com/album/60trt4UyXFA1rQykZxoxuv) | 2:59 |
 | 50 | [Ven a Mi Corazón](https://open.spotify.com/track/1IhJ1lFqO9IhJnfFRwgFJl) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Ven a Mi Corazón](https://open.spotify.com/album/7dAjKqHAhF30krZOkRr3Xo) | 3:27 |
 | 51 | [NO SE PUEDE ACABAR :/](https://open.spotify.com/track/74tNTZ50nGXS3bMqu9aNET) | [Mafi Rome](https://open.spotify.com/artist/3xdZdAqBd32KB8kD22g4PS), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK) | [NO SE PUEDE ACABAR :/](https://open.spotify.com/album/3HVDiEZX1j1uNuO1H5YgFI) | 2:48 |

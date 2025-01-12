@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,196 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,212 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 35 | [La Caída de un Monarca](https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 3:07 |
 | 36 | [Los Traficantes](https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:33 |
 | 37 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
-| 38 | [Leña de Pirul](https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:12 |
-| 39 | [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 |
+| 38 | [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 |
+| 39 | [Leña de Pirul](https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:12 |
 | 40 | [Hasta Mi Último Día](https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Soy Tu Maestro \("45 Aniversario" \- Relanzamiento\)](https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ) | 2:34 |
 | 41 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 |
 | 42 | [La Original](https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense](https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F) | 3:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 50 | [Momentos](https://open.spotify.com/track/7787ybGQsOgPEbje7suHgx) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Momentos](https://open.spotify.com/album/0I23ARWW1udSmzFAqi7Ydb) | 3:03 |
 | 51 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 |
 
-Snapshot ID: `Z38RgAAAAADAb713ytW1HoaT1AzirEJa`
+Snapshot ID: `Z4BjAAAAAAB3j3wEYH+PIItOxr7MuK65`

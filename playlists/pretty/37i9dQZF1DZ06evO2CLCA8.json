@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 880,
+  "num_followers": 882,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADY9eduXxJ7XdsOGJrjKBba",
+  "snapshot_id": "Z4BjAAAAAADyOUUJ9ZfESh6aWnFR7G5G",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's the One (Songs and Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Angel Dream (No. 4)",
-      "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 271653,
       "name": "Mary Jane's Last Dance",
       "url": "https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She's the One (Songs and Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Angel Dream (No. 4)",
+      "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's the One (Songs and Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Walls - Circus",
-      "url": "https://open.spotify.com/track/5yEpB2g3CbuVk4YmAkzkOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 186733,
       "name": "Kings Highway",
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She's the One (Songs and Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Walls - Circus",
+      "url": "https://open.spotify.com/track/5yEpB2g3CbuVk4YmAkzkOK"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
         "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 358461,
       "name": "Call Me the Breeze - Live at the Fillmore, 1997",
       "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 300933,
       "name": "Room at the Top",
       "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,

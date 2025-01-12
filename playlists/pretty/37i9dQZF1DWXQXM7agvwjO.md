@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: Paolo Sandejas  \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,911 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,094 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 52 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J) | 3:53 |
 | 53 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 54 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 |
-| 55 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
-| 56 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
+| 55 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
+| 56 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
 | 57 | [Magic](https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Magic](https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd) | 3:20 |
 | 58 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
 | 59 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 75 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 |
 | 76 | [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 |
-| 77 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
-| 78 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 |
+| 77 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 |
+| 78 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
 | 79 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 80 | [annie\. \(clean\)](https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [play with earth! 0.03 \(extended\)](https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ) | 3:20 |
 | 81 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 86 | [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 |
 | 87 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 |
 | 88 | [S/S](https://open.spotify.com/track/4fh1IH643m7h3rYt9YJvyT) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 3:25 |
-| 89 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 |
+| 89 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 | 90 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
-| 91 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
+| 91 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 |
 | 92 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 93 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
-| 94 | [undo](https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [undo](https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U) | 3:28 |
+| 94 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 95 | [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 |
 | 96 | [Be Someone](https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Be Someone](https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW) | 3:45 |
 | 97 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 |

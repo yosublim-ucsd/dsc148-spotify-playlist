@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Jovanotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,145 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,144 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

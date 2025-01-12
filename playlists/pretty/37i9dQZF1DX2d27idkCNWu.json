@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259237,
+  "num_followers": 259232,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
         }
       ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Exist For Love",
-        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Exist For Love",
-      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Let Yourself In",
         "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Exist For Love",
+        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Exist For Love",
+      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Blame It On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Blame It On Me - Acoustic",
+      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Ac\u00fastico Ana Gabriela",
         "url": "https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 175583,
       "name": "Ta\u00e7a De Vidro - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

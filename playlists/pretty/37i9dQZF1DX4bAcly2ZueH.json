@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52535,
+  "num_followers": 52533,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 220873,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Beacon of Hope",
-        "url": "https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 220873,
-      "name": "Beacon of Hope",
-      "url": "https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Nezumi Coo",
         "url": "https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH"
       },
@@ -675,38 +691,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
-      },
-      "artists": [
-        {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
-        }
-      ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "24/7(inst)",
-        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
-      },
-      "artists": [
-        {
-          "name": "shai",
-          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
-        }
-      ],
-      "duration_ms": 141174,
-      "name": "24/7(inst)",
-      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Night Owl Dream",
         "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+        "name": "24/7(inst)",
+        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
       },
       "artists": [
         {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+          "name": "shai",
+          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+      "duration_ms": 141174,
+      "name": "24/7(inst)",
+      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -759,6 +743,22 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "see",
-        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
+        "name": "Sushi In Tokyo",
+        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
       "artists": [
         {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+          "name": "DVNA",
+          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
         }
       ],
-      "duration_ms": 207613,
-      "name": "see",
-      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
+      "duration_ms": 211999,
+      "name": "Sushi In Tokyo",
+      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Sushi In Tokyo",
-        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+        "name": "see",
+        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
       },
       "artists": [
         {
-          "name": "DVNA",
-          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Sushi In Tokyo",
-      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+      "duration_ms": 207613,
+      "name": "see",
+      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
     },
     {
       "added_at": "2025-01-08 09:54:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Ornella Vanoni in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,354 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,451 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 44 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 |
 | 45 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 |
 | 46 | ['A 'MBASCIATA](https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO III](https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS) | 2:58 |
-| 47 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
+| 47 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
 | 48 | [PERICOLOSA](https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [PERICOLOSA](https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG) | 2:40 |
 | 49 | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 |
 | 50 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 |

@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 144406,
       "name": "Modo St1ngy",
       "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
@@ -4324,6 +4324,28 @@
       "duration_ms": 166217,
       "name": "MTG Infarto",
       "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
+    },
+    {
+      "album": {
+        "name": "MTG Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/4gYVlRkmygmzvtyLpW26aC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Luka G",
+          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85342,
+      "name": "MTG Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/1bRODQWZdI8q56ewtBDZg6"
     },
     {
       "album": {

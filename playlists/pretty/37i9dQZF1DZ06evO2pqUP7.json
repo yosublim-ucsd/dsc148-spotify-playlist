@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68330,
+  "num_followers": 68333,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACQxoIuJEZ0WUasKaWfMwuw",
+  "snapshot_id": "Z4BjAAAAAAAiLzfkFKwv+T4LAOrR1ojf",
   "tracks": [
     {
       "added_at": null,
@@ -395,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ll\u00e9gale",
-        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Ll\u00e9gale",
-      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 164494,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ll\u00e9gale",
+        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Ll\u00e9gale",
+      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
     },
     {
       "added_at": null,

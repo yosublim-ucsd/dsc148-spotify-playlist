@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: MF DOOM",
-  "num_followers": 557426,
+  "num_followers": 557888,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,22 @@
     {
       "added_at": "2024-11-12 18:45:35",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
         },
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
         }
       ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+      "duration_ms": 187026,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
       "added_at": "2024-11-12 18:45:35",
@@ -375,22 +371,26 @@
     {
       "added_at": "2024-11-12 18:45:35",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
         {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         },
         {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Blast",
-      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
     },
     {
       "added_at": "2024-11-12 18:45:35",

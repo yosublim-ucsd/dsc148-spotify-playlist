@@ -1,13 +1,29 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 992465,
+  "num_followers": 992812,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAAsxC3f/dnLy8flqKY9LP4f",
+  "snapshot_id": "Z4BjAAAAAACJJ57/lo1PAv0A0Tzue2Bs",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noche De Enciclopedia",
+        "url": "https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Noche De Enciclopedia",
+      "url": "https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ"
+    },
     {
       "added_at": null,
       "album": {

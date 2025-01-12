@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 104562,
+  "num_followers": 104581,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAABs2UoTRwh6suO9LxR8+ceQ",
+  "snapshot_id": "Z4BjAAAAAACu9oe+BP/sXwKtMuVDx8/c",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody's Gonna Know (with Joe Bonamassa)",
-        "url": "https://open.spotify.com/album/6P8QeDSN5mFE2EHjdN0Ha1"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 282617,
-      "name": "Nobody's Gonna Know - with Joe Bonamassa",
-      "url": "https://open.spotify.com/track/4p3Mja5AXrCEh9FWKHjPNm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -279,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody's Gonna Know (with Joe Bonamassa)",
+        "url": "https://open.spotify.com/album/6P8QeDSN5mFE2EHjdN0Ha1"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 282617,
+      "name": "Nobody's Gonna Know - with Joe Bonamassa",
+      "url": "https://open.spotify.com/track/4p3Mja5AXrCEh9FWKHjPNm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at the Greek Theatre",
         "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 262869,
       "name": "Broken & Blue",
       "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Woke Up Dreaming",
-      "url": "https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp"
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Woke Up Dreaming",
+      "url": "https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp"
     },
     {
       "added_at": null,

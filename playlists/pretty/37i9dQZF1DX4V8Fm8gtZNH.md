@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,615 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,632 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 147 | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5MYtu5scs1iz02AVLPLKJc) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:52 |
 | 148 | [Feelings](https://open.spotify.com/track/0uVoPJDA7uOuNHry5G7Ckp) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Feelings](https://open.spotify.com/album/2JtzK8PlSM4SQlXlO3saKa) | 3:19 |
 | 149 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 |
-| 150 | [You Were You](https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Avery](https://open.spotify.com/artist/4KPqvHtOiNdDrt1rNVUkXL) | [Joy Comes in the Mourning](https://open.spotify.com/album/4y7kCsprTqIC4QUesQKgbS) | 1:34 |
+| 150 | [You Were You](https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Avery](https://open.spotify.com/artist/1OTxJAX0bB70zLBFUlxKw5) | [Joy Comes in the Mourning](https://open.spotify.com/album/4y7kCsprTqIC4QUesQKgbS) | 1:34 |
 | 151 | [Pusha](https://open.spotify.com/track/4zO4PSwF9qvhOkBNrLrcoF) | [JAG](https://open.spotify.com/artist/4R6MQEkEXJSwc7kOjUqjc5) | [Pusha](https://open.spotify.com/album/6cWjgHSJpDYQrjrUknfSDQ) | 2:31 |
 | 152 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/4IBLJcBn8bCjuOJvlLmZmO) | [Jeanne Lee](https://open.spotify.com/artist/7ezPWk4DFf9Fb9tdwg0Ych), [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o) | [The Newest Sound Around](https://open.spotify.com/album/2XqR70gpvaargPRJr5M6NZ) | 2:46 |
 | 153 | [Muffins In The Freezer](https://open.spotify.com/track/433oHg3yvSo0Dtu67A1idB) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Muffins In The Freezer](https://open.spotify.com/album/2E3jRMIdxOHdBjy7yr6Pl8) | 1:46 |

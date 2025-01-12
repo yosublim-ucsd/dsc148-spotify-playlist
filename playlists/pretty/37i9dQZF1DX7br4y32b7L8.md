@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,412 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,444 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 20 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 21 | [Fly Kid \- Remix](https://open.spotify.com/track/1V0G3z9qFvISRzHwGcjttZ) | [POEMA](https://open.spotify.com/artist/7J0icHAitGvJXQ19nNHjhK), [TOBI](https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG), [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j), [Meester Hidde](https://open.spotify.com/artist/5o67HT4Nq0vaispeRBKmAf) | [Fly Kid \(Remix\)](https://open.spotify.com/album/55o4vCtbUrtXXlwU1aiMHx) | 2:57 |
 | 22 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 |
-| 23 | [Zet Die Wakka](https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx) | [Bati Sanka](https://open.spotify.com/artist/1XkbW8JrXUwwDpOGkwsuV6), [Nisho](https://open.spotify.com/artist/3NB2kWHcnC2j0PeERDb56O) | [Zet Die Wakka](https://open.spotify.com/album/2Nk0E7cygbtE4CuWocl6OO) | 1:20 |
+| 23 | [Waka](https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx) | [Bati Sanka](https://open.spotify.com/artist/1XkbW8JrXUwwDpOGkwsuV6), [Nisho](https://open.spotify.com/artist/3NB2kWHcnC2j0PeERDb56O) | [Waka](https://open.spotify.com/album/2Nk0E7cygbtE4CuWocl6OO) | 1:20 |
 | 24 | [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 |
 | 25 | [Dubai Mall](https://open.spotify.com/track/3drEDWdAmV5hf0yyVZcUGW) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hoogseizoen \(Deluxe\)](https://open.spotify.com/album/4SyOVodNvFJFAdtFKXHFIS) | 2:30 |
 | 26 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |

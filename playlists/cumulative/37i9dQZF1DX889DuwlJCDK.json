@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 333146,
       "name": "kit!",
       "url": "https://open.spotify.com/track/1o2bK85qJSopkUmPIq5B6T"
@@ -3758,6 +3758,24 @@
       "duration_ms": 177133,
       "name": "lowkey",
       "url": "https://open.spotify.com/track/0Zhvac48LN24ULEtZaAeWr"
+    },
+    {
+      "album": {
+        "name": "pink II",
+        "url": "https://open.spotify.com/album/4Qh5vpPfJWDvC51dtBKbXL"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
+          "url": "https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/1CaHQd528Xcn0Jrj6rxjaM"
     },
     {
       "album": {

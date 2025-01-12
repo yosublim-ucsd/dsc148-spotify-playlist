@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 226973,
+  "num_followers": 227042,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAC5HR0XzM3+StRO1ucWuPMv",
+  "snapshot_id": "Z4BjAAAAAAB5JixeR0z2MH1fdVAXR3ZS",
   "tracks": [
     {
       "added_at": null,
@@ -772,7 +772,7 @@
       "added_at": null,
       "album": {
         "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 242536,
-      "name": "C\u00f3mo Te Quiero",
-      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
+      "duration_ms": 258044,
+      "name": "Lady and Man",
+      "url": "https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby"
     },
     {
       "added_at": null,
@@ -848,7 +848,7 @@
       "added_at": null,
       "album": {
         "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 258044,
-      "name": "Lady and Man",
-      "url": "https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby"
+      "duration_ms": 242536,
+      "name": "C\u00f3mo Te Quiero",
+      "url": "https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li"
     }
   ],
   "unique_name": "This Is Khruangbin",

@@ -1619,6 +1619,28 @@
     },
     {
       "album": {
+        "name": "Bruja",
+        "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
+      },
+      "artists": [
+        {
+          "name": "Nito Serrano y Lapurasangre",
+          "url": "https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273663,
+      "name": "Bruja",
+      "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "album": {
         "name": "Buena Suerte",
         "url": "https://open.spotify.com/album/03AcOq36bBDcytuBfI3QWp"
       },
@@ -10182,7 +10204,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"

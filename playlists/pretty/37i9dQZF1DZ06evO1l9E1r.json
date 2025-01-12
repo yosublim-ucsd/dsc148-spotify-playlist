@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2336,
+  "num_followers": 2337,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAADIUcAAwPvDvDKDrEA6eEK6",
+  "snapshot_id": "Z4BjAAAAAABg5yXQWFT95rb/e34ctKoj",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "Torrek",
-      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda",
         "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "Torrek",
+      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 137146,
-      "name": "Til baka",
-      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 291706,
       "name": "M\u00f3\u00f0ir",
       "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 137146,
+      "name": "Til baka",
+      "url": "https://open.spotify.com/track/5NagPBovCGxXDOOciGlYOd"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+      "duration_ms": 275760,
+      "name": "Meeting Bruce Wayne",
+      "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+      "duration_ms": 109675,
+      "name": "There Is No Joker",
+      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 109675,
-      "name": "There Is No Joker",
-      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
     },
     {
       "added_at": null,
@@ -931,38 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 92376,
-      "name": "My Mother Had Me Committed",
-      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -1003,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
       "artists": [
         {
@@ -1012,9 +980,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+      "duration_ms": 92376,
+      "name": "My Mother Had Me Committed",
+      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
     },
     {
       "added_at": null,
@@ -1039,22 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -1075,6 +1027,54 @@
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
     },
     {
       "added_at": null,

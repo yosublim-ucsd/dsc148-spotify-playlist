@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,175 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,353 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 41 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 42 | [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 |
 
-Snapshot ID: `Z38RgAAAAACRwNph4y12Qj9neRwsYj19`
+Snapshot ID: `Z4BjAAAAAABvna7x2C57KaZkHxFl2FQ+`

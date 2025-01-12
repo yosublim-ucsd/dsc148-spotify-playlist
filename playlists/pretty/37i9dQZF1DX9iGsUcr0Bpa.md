@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,568 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,698 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 44 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 45 | [Hater's Anthem](https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6) | [The Bootleg of the Bootleg \(Deluxe Version\)](https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh) | 5:13 |
 | 46 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
-| 47 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
-| 48 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
+| 47 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
+| 48 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
 | 49 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
 | 50 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 |
 

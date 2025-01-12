@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 482449,
+  "num_followers": 482566,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X"
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
         }
       ],
-      "duration_ms": 229466,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X"
       },
       "artists": [
         {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+      "duration_ms": 229466,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Michael Jackson's This Is It",
-        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 357493,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 274066,
       "name": "Loco in Acapulco",
       "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Michael Jackson's This Is It",
+        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 357493,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "We Are The '80s",
-        "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
+        "name": "You're the One For Me EP",
+        "url": "https://open.spotify.com/album/4cTvhKV4kfDfANADB5WtRw"
       },
       "artists": [
         {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+          "name": "D-Train",
+          "url": "https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe"
         }
       ],
-      "duration_ms": 164306,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
+      "duration_ms": 250635,
+      "name": "Youre the One for Me - Radio Mix",
+      "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL"
     }
   ],
   "unique_name": "80s Workout",

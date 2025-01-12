@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,244 likes - 64 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,687 likes - 64 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 56 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
 | 57 | [Me Enamore / A tus pies / Te falta sufrir \- En Vivo](https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Festival \(En Vivo\)](https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx) | 10:28 |
 | 58 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 |
-| 59 | [Corazón corazoncito / Perfecta \- En Vivo Movistar Arena, Sesión 5](https://open.spotify.com/track/5LEpqqnRHC6fAoLYj3VLEk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Corazón corazoncito / Perfecta \(En Vivo Movistar Arena, Sesión 5\)](https://open.spotify.com/album/6GLnRbMUE4XXBU03V0yIw6) | 6:27 |
-| 60 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
+| 59 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
+| 60 | [Corazón corazoncito / Perfecta \- En Vivo Movistar Arena, Sesión 5](https://open.spotify.com/track/5LEpqqnRHC6fAoLYj3VLEk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Corazón corazoncito / Perfecta \(En Vivo Movistar Arena, Sesión 5\)](https://open.spotify.com/album/6GLnRbMUE4XXBU03V0yIw6) | 6:27 |
 | 61 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 |
 | 62 | [Pero no puedo](https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Session \#14 Los Charros](https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb) | 1:40 |
 | 63 | [La Danza del Humo / Llegamos los Pibes Chorros / Mabel](https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 8:16 |

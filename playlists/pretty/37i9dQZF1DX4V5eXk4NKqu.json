@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 166691,
+  "num_followers": 166714,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
-        "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 171612,
-      "name": "Playita",
-      "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+        "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
+        "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+      "duration_ms": 171612,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -767,18 +767,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
+        "name": "Pececitos",
+        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
+      "duration_ms": 205842,
+      "name": "Pececitos",
+      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pececitos",
-        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 205842,
-      "name": "Pececitos",
-      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Porcelana",
-        "url": "https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 224584,
-      "name": "Porcelana",
-      "url": "https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Porcelana",
+        "url": "https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 224584,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ"
     },
     {
       "added_at": "2024-12-06 05:00:00",

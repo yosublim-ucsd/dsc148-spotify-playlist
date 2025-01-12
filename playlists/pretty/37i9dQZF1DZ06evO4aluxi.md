@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,043 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,046 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 46 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
 | 47 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 |
 | 48 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
-| 49 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0tZekzPg5NdiJkGiJ9ijnX) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:04 |
-| 50 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 |
+| 49 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 |
+| 50 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/0tZekzPg5NdiJkGiJ9ijnX) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:04 |
 
-Snapshot ID: `Z38RgAAAAADwvZY7oHzy+QH+RYAFJuc1`
+Snapshot ID: `Z4BjAAAAAABi0mgSSQT2Mb4z/FIKx/kH`

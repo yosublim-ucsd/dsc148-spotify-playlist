@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-492 songs - 1 day 20 hr 37 min
+493 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Loslassen](https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f) | [Bastian Menz Quintett](https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k) | [Loslassen](https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q) | 4:21 | 2023-08-03 |  |
 | [Lullaby](https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Lullaby](https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo) | 3:39 | 2023-10-24 |  |
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-08-03 |  |
-| [Lush Life](https://open.spotify.com/track/1qTjcR2BDmV7nyslmF24mF) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Lush Life](https://open.spotify.com/album/6WAL7oDr29V0kUVsut8Ni4) | 6:06 | 2024-03-29 |  |
+| [Lush Life](https://open.spotify.com/track/1qTjcR2BDmV7nyslmF24mF) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Lush Life](https://open.spotify.com/album/6WAL7oDr29V0kUVsut8Ni4) | 6:06 | 2024-03-29 | 2025-01-12 |
 | [Mankind to Earth](https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [Mankind to Earth](https://open.spotify.com/album/3gVD9Plwh4a4ajwRFKB73J) | 8:53 | 2022-02-24 | 2023-01-03 |
 | [Mara](https://open.spotify.com/track/32wlGWGlQ2KfNb7bn3nvzI) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Mara](https://open.spotify.com/album/5kBqpDDko6Dc387RYaTCU0) | 5:08 | 2020-05-02\* | 2022-04-17 |
 | [Mashita](https://open.spotify.com/track/2on2XttfSjE4rjGo3xyGVm) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Shiroi](https://open.spotify.com/album/4fL2WmOafyMnGU9i7svCLy) | 2:52 | 2020-05-02\* | 2020-05-22 |
@@ -324,6 +324,7 @@
 | [Penelope](https://open.spotify.com/track/2HeCmF80vTyRHBOVf1pc22) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Penelope](https://open.spotify.com/album/4o5ne7NeRh669BmqrUo6Qh) | 5:05 | 2023-08-03 | 2024-08-04 |
 | [Penelope](https://open.spotify.com/track/5n1bR7kJCeuCq8AYO7z44G) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 5:05 | 2023-08-29 | 2024-04-19 |
 | [Perfectly Unhappy](https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:41 | 2022-04-28 |  |
+| [Pictures \- Instrumental](https://open.spotify.com/track/080lT3us8k0pYleQ3JCAMt) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Pictures \(Instrumental\)](https://open.spotify.com/album/5VjByV0PJCgVWG0B0b2hx1) | 4:50 | 2025-01-10 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |
 | [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 |  |
 | [Procession](https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:30 | 2022-01-27 |  |

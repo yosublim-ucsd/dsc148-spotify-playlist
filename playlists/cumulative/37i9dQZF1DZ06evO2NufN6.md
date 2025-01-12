@@ -4,12 +4,13 @@
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 51 min
+76 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Grandkids](https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:38 | 2023-06-07 |  |
 | [2009](https://open.spotify.com/track/6dFn6my1sHK2bcf23GlHwM) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:47 | 2024-05-14 | 2024-07-22 |
+| [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-12 |  |
 | [Angel Dust](https://open.spotify.com/track/1RkPqBGgFNPxdzlGD2Ar0m) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:42 | 2023-06-07 | 2024-07-24 |
 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 | 2023-06-07 |  |
 | [Ayye](https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 2:45 | 2023-06-07 |  |

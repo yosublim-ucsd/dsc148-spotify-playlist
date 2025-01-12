@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,510 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,526 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 30 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
 | 31 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 32 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |
-| 33 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
-| 34 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |
+| 33 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |
+| 34 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
 | 35 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [ONESOLO](https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 | 36 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
 | 37 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |

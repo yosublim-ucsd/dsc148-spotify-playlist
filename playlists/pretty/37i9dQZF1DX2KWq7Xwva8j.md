@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Mushkaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,802 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,815 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 8 | [Lejos De Más](https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Lejos De Más](https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf) | 4:06 |
 | 9 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
 | 10 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
-| 11 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
+| 11 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 |
 | 12 | [Vaya Liada](https://open.spotify.com/track/2OL5S46cBDRfkz2O7SYFUF) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [aka luigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [Vaya Liada](https://open.spotify.com/album/4Da9WECh3CDpuzT3ehO8JC) | 2:59 |
 | 13 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 |
 | 14 | [Mi Casa](https://open.spotify.com/track/2MmQp3JZbkGzf86Zxuot1p) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mi Casa](https://open.spotify.com/album/07K31AzBLwNejQC1dUb8Zf) | 3:01 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 19 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 |
 | 20 | [Esa Morena](https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Esa Morena](https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc) | 2:52 |
-| 21 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 |
+| 21 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
 | 22 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
 | 23 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 |
 | 24 | [fumas?](https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [fumas?](https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI) | 2:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 31 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 32 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 33 | [Adrenalina](https://open.spotify.com/track/6AS6lW8vAo27DGEcbRT2Oj) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Adrenalina](https://open.spotify.com/album/6MtdNWXRI8bYzFq4UX4GSg) | 3:12 |
-| 34 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
-| 35 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
+| 34 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
+| 35 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
 | 36 | [qué voy a hacer](https://open.spotify.com/track/30DkvLu9N0LFqnW30cSSgi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 3:05 |
 | 37 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
 | 38 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,437 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,509 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 23 | [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 |
 | 24 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
 | 25 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
-| 26 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
-| 27 | [Only You](https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The African Gentleman](https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz) | 3:40 |
+| 26 | [Only You](https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The African Gentleman](https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz) | 3:40 |
+| 27 | [Masithokoze](https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Masithokoze](https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c) | 7:07 |
 | 28 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 29 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 30 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 81 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
 | 82 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
 | 83 | [Line Of Fire](https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 4:15 |
-| 84 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
-| 85 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
+| 84 | [Ndicel'ikiss](https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE) | [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [Songs in The Key of Love](https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK) | 3:42 |
+| 85 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |
 | 86 | [Ritwa Riaku](https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz) | [Sawa Sawa](https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw) | 3:35 |
 | 87 | [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 |
 | 88 | [Coming Home](https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 2:54 |

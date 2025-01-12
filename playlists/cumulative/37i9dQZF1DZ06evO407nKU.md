@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-124 songs - 6 hr 58 min
+125 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 | 2022-12-06 |
 | [Los Compadres](https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Buenas Obras](https://open.spotify.com/album/6gDP1ynRcVtBCkhgle34Oy) | 3:34 | 2022-06-05 | 2022-07-07 |
 | [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 | 2024-11-01 |
+| [Mayonesa](https://open.spotify.com/track/4ufTPmPBN7jWN92U7IIH9Y) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Mayonesa](https://open.spotify.com/album/1pjnTDvXAikn1T3L7FJSFg) | 3:08 | 2025-01-12 |  |
 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 | 2023-05-02 | 2023-11-11 |
 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 | 2023-07-18 | 2024-05-11 |
 | [Me Hubieras Cobrado](https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Hubieras Cobrado](https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW) | 4:16 | 2022-08-22 | 2023-12-22 |

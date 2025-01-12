@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Valkyrie\u300cAcanthe\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329413,
+      "name": "Acanthe",
+      "url": "https://open.spotify.com/track/0Si55K9cWWpJglJcqUZcxD"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 248053,
       "name": "\u8056\u5c11\u5e74\u904a\u622f",
       "url": "https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY"

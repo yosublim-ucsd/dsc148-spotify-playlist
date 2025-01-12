@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,143 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,154 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 15 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 16 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
 | 17 | [Martini Blue](https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 3:15 |
-| 18 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 |
-| 19 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
+| 18 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
+| 19 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 |
 | 20 | [Think About You](https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 3:15 |
 | 21 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
 | 22 | [Hero Death \(Feat\. Sion\)](https://open.spotify.com/track/3hCNZGL794VRnTB20oEYp3) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Hero Death](https://open.spotify.com/album/1KBuWLHihKmsVALx8VA1XJ) | 2:59 |

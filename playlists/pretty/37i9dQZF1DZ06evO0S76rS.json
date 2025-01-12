@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 150434,
+  "num_followers": 150488,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAAANYfT5yszbeFvyQ6AT0Lqw",
+  "snapshot_id": "Z4BjAAAAAAA2C5yNa4H3imbGM65hSy9G",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginacion",
-        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 292360,
-      "name": "Ni Como Amiga Ni Como Amante",
-      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+      "duration_ms": 337998,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 337998,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
+      "duration_ms": 292360,
+      "name": "Ni Como Amiga Ni Como Amante",
+      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 331673,
-      "name": "Listo Medell\u00edn",
-      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Pachanguero 40 A\u00f1os",
         "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 287093,
       "name": "Cali Pachanguero 40 A\u00f1os",
       "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 287000,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 335986,
-      "name": "Mi Hijo y Yo",
-      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 289341,
       "name": "Falto un Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
     },
     {
       "added_at": null,

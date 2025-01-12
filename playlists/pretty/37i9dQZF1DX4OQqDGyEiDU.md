@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,828 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,838 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 45 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
 | 46 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
 | 47 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
-| 48 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 |
-| 49 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
+| 48 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
+| 49 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 |
 | 50 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
 
 Snapshot ID: `ZnFpYwAAAADtKrCgl4ddaZaFMzzPKA5S`

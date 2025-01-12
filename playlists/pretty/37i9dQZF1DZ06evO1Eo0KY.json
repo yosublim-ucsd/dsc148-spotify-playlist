@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38RgAAAAACHeQvlyP7k8Rpq77E0jC6B",
+  "snapshot_id": "Z4BjAAAAAABoybHcHo/bTy4hB21tQAvn",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 132787,
-      "name": "Lost His Way",
-      "url": "https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2"
+      "duration_ms": 127089,
+      "name": "Deliver Us from Evil",
+      "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
     },
     {
       "added_at": null,
@@ -243,6 +239,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 132787,
+      "name": "Lost His Way",
+      "url": "https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 188414,
       "name": "Final Destination",
       "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         }
       ],
-      "duration_ms": 127089,
-      "name": "Deliver Us from Evil",
-      "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLDSZN",
-        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
-      },
-      "artists": [
-        {
-          "name": "Obijuan",
-          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 68193,
-      "name": "GREAT APE",
-      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 175507,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+      },
+      "artists": [
+        {
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 68193,
+      "name": "GREAT APE",
+      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 137525,
+      "name": "Razors",
+      "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Latin Quarter, Pt. 1",
         "url": "https://open.spotify.com/album/664jQP42bq5pirZyL7ED02"
       },
@@ -635,42 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+        "name": "1000 Mile Stare",
+        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 137525,
-      "name": "Razors",
-      "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 129570,
-      "name": "The Reaper's Hood Remix",
-      "url": "https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4"
+      "duration_ms": 198191,
+      "name": "1000 Mile Stare",
+      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
     },
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Mile Stare",
-        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 198191,
-      "name": "1000 Mile Stare",
-      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
+      "duration_ms": 129570,
+      "name": "The Reaper's Hood Remix",
+      "url": "https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "Deliver Us from Evil (Remix)",
-      "url": "https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -815,42 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLDSZN",
-        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
       "artists": [
         {
-          "name": "Obijuan",
-          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 76448,
-      "name": "RUM CAKE",
-      "url": "https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Crypto",
-      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
+      "duration_ms": 179642,
+      "name": "Deliver Us from Evil (Remix)",
+      "url": "https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF"
     },
     {
       "added_at": null,
@@ -875,24 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conway Remixes 1 & 2",
-        "url": "https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 170286,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King, Vol. 3",
-        "url": "https://open.spotify.com/album/2s9aZ3E7lob5IYqCGQzLhI"
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
       "artists": [
         {
@@ -904,9 +848,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 127164,
-      "name": "Love n Hate 2",
-      "url": "https://open.spotify.com/track/6GuGwRA1zlDDFXSR8G4AJm"
+      "duration_ms": 116000,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
     },
     {
       "added_at": null,
@@ -927,6 +871,26 @@
       "duration_ms": 179933,
       "name": "Body of Lies",
       "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+      },
+      "artists": [
+        {
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 76448,
+      "name": "RUM CAKE",
+      "url": "https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro"
     },
     {
       "added_at": null,
@@ -955,22 +919,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "Dump Gawd: Shot Clock King, Vol. 3",
+        "url": "https://open.spotify.com/album/2s9aZ3E7lob5IYqCGQzLhI"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 127164,
+      "name": "Love n Hate 2",
+      "url": "https://open.spotify.com/track/6GuGwRA1zlDDFXSR8G4AJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conway Remixes 1 & 2",
+        "url": "https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l"
       },
       "artists": [
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "YOD Body",
-      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
+      "duration_ms": 170286,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
     },
     {
       "added_at": null,
@@ -995,6 +975,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directors Cut 4",
+        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 196555,
+      "name": "Across 110 Street (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/34u4ZDgELm7pQ3Z3etm5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "YOD Body",
+      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surf School",
         "url": "https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 222947,
       "name": "Philosophe",
       "url": "https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directors Cut 4",
-        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        }
-      ],
-      "duration_ms": 175402,
-      "name": "War Dogs (feat. Che Noir)",
-      "url": "https://open.spotify.com/track/15y2GUnXU0t4yGOe8yB7hP"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

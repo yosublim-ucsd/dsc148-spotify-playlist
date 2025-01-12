@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+    },
+    {
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },

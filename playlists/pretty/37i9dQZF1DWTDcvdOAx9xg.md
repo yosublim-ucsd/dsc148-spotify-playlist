@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > Il meglio dei brani che la Gen Z ha amato quest'anno! 🌊 Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,595 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,616 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 9 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
 | 10 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 |
 | 11 | [FRAGILI](https://open.spotify.com/track/6mhZd9yNJpyT2Qynx9FuhI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [FRAGILI](https://open.spotify.com/album/3hNEfoTFpxiA1Car8tVdy5) | 3:09 |
-| 12 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
+| 12 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 |
 | 13 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 |
 | 14 | [HELLO KITTY \(feat\. Sillyelly\)](https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:29 |
 | 15 | [melodrama](https://open.spotify.com/track/5y7dpbKf0E3TW93k5w0JIs) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:27 |

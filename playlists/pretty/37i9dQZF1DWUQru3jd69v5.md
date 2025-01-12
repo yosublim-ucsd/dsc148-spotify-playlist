@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Sayf in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,345 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,340 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 30 | [NON è TUTTO OK](https://open.spotify.com/track/2ZtRsJXJGWf9C5abENCSuh) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [NON è TUTTO OK](https://open.spotify.com/album/36ZWzlqm4D7PeC9RNXPmVz) | 1:51 |
 | 31 | [IL BALLO DEL MORTO \(feat\. Young Hash\)](https://open.spotify.com/track/0JTZtSNrGECzFUxNFbxZ77) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [IL BALLO DEL MORTO \(feat\. Young Hash\)](https://open.spotify.com/album/1EDy49E2ZEYMp0oCZjJlF8) | 2:22 |
 | 32 | [Piazzale Europa 2](https://open.spotify.com/track/0JIxYm2jBmaklYiqFJJwr7) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz) | [Piazzale Europa 2](https://open.spotify.com/album/5YOilIdNL5np8G1K3GNalY) | 2:07 |
-| 33 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
+| 33 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF), [Yasap G](https://open.spotify.com/artist/3jlYQejooUvWS7CPSQ9bLN), [Dibbe](https://open.spotify.com/artist/6I5iMFfp4NJdNJpSPXqGUH) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
 | 34 | [PIEVE EMANUELE](https://open.spotify.com/track/7a0sDU5bG5Pnrpsxzudnqx) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [PIEVE EMANUELE](https://open.spotify.com/album/3yTPj6m2zKlzSuCftaTKME) | 2:21 |
 | 35 | [Nobody](https://open.spotify.com/track/0lUmKIdyVUkpwiMbbJEVEa) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [CHOSEN](https://open.spotify.com/album/1STJclYpHtp9FtDmosah2V) | 2:19 |
 | 36 | [COWBOY \(ndo quatteri\)](https://open.spotify.com/track/32BJl46s43KsRK7CDIi4kV) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [COWBOY \(ndo quatteri\)](https://open.spotify.com/album/1RfYXky1pe3tagLWOGCHMm) | 2:08 |

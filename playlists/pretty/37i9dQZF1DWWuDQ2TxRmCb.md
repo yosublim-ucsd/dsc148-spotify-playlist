@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,174 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,224 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 17 | [Dilruba](https://open.spotify.com/track/3wOKU4CW3SYQkroOkDaYKD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ), [Rakesh Pandit](https://open.spotify.com/artist/34qWfkLW2mSlqts5iQHQlC), [Pradeep Pandit](https://open.spotify.com/artist/1ZenKqRlw6lmjXqK0kJQhU) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 3:58 |
 | 18 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
 | 19 | [Beriaan](https://open.spotify.com/track/4jjHCuW5ayydiEqw2Hp0Vb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 3:50 |
-| 20 | [Rupsa Ra Moti](https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Rupsa Ra Moti](https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz) | 3:10 |
-| 21 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
+| 20 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
+| 21 | [Rupsa Ra Moti](https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Rupsa Ra Moti](https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz) | 3:10 |
 | 22 | [SUWA TERI YAADON MA](https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amit Saagar](https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE) | [SUWA TERI YAADON MA](https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0) | 2:45 |
 | 23 | [Kandisa](https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 7:40 |
 | 24 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 |

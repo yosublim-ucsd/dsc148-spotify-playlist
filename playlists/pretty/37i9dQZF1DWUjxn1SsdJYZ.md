@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: JJ4K, Jvyden
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,769 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,780 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o), [Jayden Waaka](https://open.spotify.com/artist/1Ec0Xi4kKoKJ1jAPJ2I3T3) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 |
+| 1 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 |
 | 2 | [Ecstasy](https://open.spotify.com/track/7MeaeQ0ANQ8k85bsM5U4sL) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Ecstasy](https://open.spotify.com/album/45ToxCOLDheXXRvU5q31ke) | 3:11 |
 | 3 | [All In](https://open.spotify.com/track/7DG8pcC5vSmElPX9H0vmuK) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [All In](https://open.spotify.com/album/54Bi619M9xPiUXfet1uGWM) | 4:18 |
 | 4 | [BURR](https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [BURR](https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc) | 2:37 |

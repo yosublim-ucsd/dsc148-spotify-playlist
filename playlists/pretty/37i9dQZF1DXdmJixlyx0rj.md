@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: iiso\(이소\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,657 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,687 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 74 | [Make A Wish \(Birthday Song\) \- Wuki Remix](https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [iScreaM Vol.6 : Make A Wish / 90's Love Remix](https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd) | 3:14 |
 | 75 | [TROUBLE \- arcon Remix](https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml), [arcon](https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw) | [TROUBLE \(arcon Remix\)](https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T) | 3:30 |
 | 76 | [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 |
-| 77 | [TICKI\-TA](https://open.spotify.com/track/1p2a2BoWPOmBJUMlLAorL5) | [THE FIX](https://open.spotify.com/artist/3C9Tg0ENJ77szoSXlkSpZ3) | [TiCKi\-TA](https://open.spotify.com/album/31Mg2YdP6boTX66UPof7kU) | 2:38 |
-| 78 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 |
+| 77 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 |
+| 78 | [TICKI\-TA](https://open.spotify.com/track/1p2a2BoWPOmBJUMlLAorL5) | [THE FIX](https://open.spotify.com/artist/3C9Tg0ENJ77szoSXlkSpZ3) | [TiCKi\-TA](https://open.spotify.com/album/31Mg2YdP6boTX66UPof7kU) | 2:38 |
 | 79 | [We The One](https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [We The One](https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP) | 3:15 |
 | 80 | [Without You \(Alok Remix\) \(Radio Edit\)](https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:33 |
 | 81 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 95 | [Criminal \- SUMIN Remix](https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:31 |
 | 96 | [Safe & Sound](https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Safe & Sound](https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z) | 2:42 |
 | 97 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 |
-| 98 | [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 |
-| 99 | [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 |
+| 98 | [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 |
+| 99 | [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 |
 | 100 | [Bambi \- BRLLNT Remix](https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 2:51 |
 
 Snapshot ID: `Z2Du+gAAAAA3VbbvYT1vJNcu866vKyfE`

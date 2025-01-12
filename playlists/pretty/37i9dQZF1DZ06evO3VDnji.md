@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,308 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,322 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 45 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 |
 | 46 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
 | 47 | [DECIRTE LO QUE SIENTO](https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [DECIRTE LO QUE SIENTO](https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G) | 3:01 |
-| 48 | [MiDNiGHT](https://open.spotify.com/track/63hryqFlfnTheZeeueei2E) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [MiDNiGHT](https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy) | 3:06 |
-| 49 | [Belico Enamorado](https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo) | 3:08 |
+| 48 | [Belico Enamorado](https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo) | 3:08 |
+| 49 | [MiDNiGHT](https://open.spotify.com/track/63hryqFlfnTheZeeueei2E) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [MiDNiGHT](https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy) | 3:06 |
 | 50 | [Promesas de Amor](https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:17 |
 
-Snapshot ID: `Z38RgAAAAABiMQnujAjYvp4LbdhyAuPk`
+Snapshot ID: `Z4BjAAAAAAAkYFO9UyI2uzJMt1ie/MkV`

@@ -5024,7 +5024,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-12",
       "duration_ms": 366764,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1qTjcR2BDmV7nyslmF24mF"
@@ -6706,6 +6706,24 @@
       "duration_ms": 521080,
       "name": "Perfectly Unhappy",
       "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
+    },
+    {
+      "album": {
+        "name": "Pictures (Instrumental)",
+        "url": "https://open.spotify.com/album/5VjByV0PJCgVWG0B0b2hx1"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290941,
+      "name": "Pictures - Instrumental",
+      "url": "https://open.spotify.com/track/080lT3us8k0pYleQ3JCAMt"
     },
     {
       "album": {

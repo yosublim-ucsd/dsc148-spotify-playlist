@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 120117,
+  "num_followers": 120154,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 308546,
-      "name": "I Come Out To Play",
-      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 272400,
       "name": "De River",
       "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 308546,
+      "name": "I Come Out To Play",
+      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 221776,
       "name": "X Man",
       "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "Ministry of Road (M.O.R.)",
+      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 219906,
       "name": "Wave Wid Me",
       "url": "https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
     },
     {
       "added_at": "2024-08-06 01:00:53",

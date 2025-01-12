@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,750 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,813 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 56 | [That's Amore](https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I) | [Harry Warren](https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 3:06 |
 | 57 | [Everybody Loves My Baby](https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:08 |
 | 58 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
-| 59 | [Blues / La Dolce Vita Dei Nobili](https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 5:44 |
-| 60 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
+| 59 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
+| 60 | [Blues / La Dolce Vita Dei Nobili](https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 5:44 |
 | 61 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 |
 | 62 | [The Bed](https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Blow\-Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs) | 2:36 |
 | 63 | [It Had To Be You](https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 341471,
+  "num_followers": 341436,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
     },
     {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Love Bites (So Do I)",
-      "url": "https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp"
-    },
-    {
       "added_at": "2024-10-14 17:11:38",
       "album": {
         "name": "From Hell With Love",
@@ -671,6 +655,22 @@
       "duration_ms": 235295,
       "name": "From Hell With Love",
       "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Love Bites (So Do I)",
+      "url": "https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 203550,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 279053,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 203550,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
     },
     {
       "added_at": "2024-10-11 19:37:59",

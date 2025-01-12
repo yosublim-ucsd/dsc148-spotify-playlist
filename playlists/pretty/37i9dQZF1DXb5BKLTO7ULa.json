@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe releases van de week! Cover: Suzan & Freek",
-  "num_followers": 267480,
+  "num_followers": 267510,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -308,10 +308,6 @@
       },
       "artists": [
         {
-          "name": "Hekje31",
-          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
-        },
-        {
           "name": "JayKoppig",
           "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
         },
@@ -320,12 +316,16 @@
           "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
         },
         {
-          "name": "Saaff",
-          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
-        },
-        {
           "name": "Dubbel R",
           "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
         }
       ],
       "duration_ms": 210000,

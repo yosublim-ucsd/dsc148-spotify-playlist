@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 74339,
+  "num_followers": 74353,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -31,18 +31,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -71,22 +75,18 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Stained Glass Stories",
-        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
-      },
-      "artists": [
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        }
-      ],
-      "duration_ms": 261185,
-      "name": "My Hope Is In the Blood",
-      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "My King and My Defender",
         "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 320981,
       "name": "My King and My Defender",
       "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "Stained Glass Stories",
+        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "duration_ms": 261185,
+      "name": "My Hope Is In the Blood",
+      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
     },
     {
       "added_at": "2024-07-02 01:10:01",

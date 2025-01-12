@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 35,217 likes - 133 songs - 7 hr 5 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 35,213 likes - 133 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 | 45 | [Contemporary Love](https://open.spotify.com/track/3jibxarV3Y32C8R3AhjrRf) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Contemporary Love](https://open.spotify.com/album/2O5vTJTN8GAch6g0n9gBsJ) | 2:47 |
 | 46 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 47 | [pain tolerance](https://open.spotify.com/track/0BTIZM7GKMR8Aqu3iqHBmP) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [love myself](https://open.spotify.com/album/1PKYViRc1AmHw4zde4igm8) | 2:58 |
-| 48 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
+| 48 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
 | 49 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
 | 50 | [5 Foot 9](https://open.spotify.com/track/0U4iRayct65wsaBMQGiLbg) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:09 |
 | 51 | [What It Is \- Solo Version](https://open.spotify.com/track/0L68OHvCgug4BPtyQSOLmv) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Solo Version\)](https://open.spotify.com/album/1Yo6qXTvqvU7wtkjZtqcdx) | 3:09 |

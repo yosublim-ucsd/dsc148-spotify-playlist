@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,123 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,130 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 47 | [Freak \(Remix\)](https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Freak Remix](https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p) | 3:04 |
 | 48 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 49 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
-| 50 | [AUTOMATIC \(feat\. Doe Boy & 42 Dugg\)](https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:09 |
+| 50 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 
-Snapshot ID: `Z38RgAAAAAC42w0vwiLFcGU2CWzq+mCH`
+Snapshot ID: `Z4BjAAAAAADP1rsi66QaE7lFlZj+Llod`

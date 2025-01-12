@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,836 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,863 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Bestie](https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Bestie](https://open.spotify.com/album/4BaH1nl12hQphpeVd6Zzot) | 1:59 |
 | 9 | [La La La](https://open.spotify.com/track/2sjDZ02lwMYJCGIt3DQNXU) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La La La](https://open.spotify.com/album/0BE6qA3OxYQUxASa9OLtYh) | 2:12 |
 | 10 | [Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sternenstaub](https://open.spotify.com/album/7cXtMQMeaqtkvUgt4TDNyN) | 2:01 |
-| 11 | [wieder...](https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [wieder...](https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS) | 3:06 |
-| 12 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
+| 11 | [Fruit Punch](https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Fruit Punch](https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q) | 2:50 |
+| 12 | [wieder...](https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [wieder...](https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS) | 3:06 |
 | 13 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
 | 14 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
 | 15 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [1000 KLEINE TODE](https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [1000 KLEINE TODE](https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ) | 3:12 |
 | 29 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 30 | [Anders](https://open.spotify.com/track/4OCZWQ3sHNlseBXfq6fzLq) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Anders](https://open.spotify.com/album/2ieG8qc4ZhfD25spJoqcdL) | 2:26 |
-| 31 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
-| 32 | [So Dope](https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 3:41 |
+| 31 | [So Dope](https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 3:41 |
+| 32 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
 | 33 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
 | 34 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 |
-| 35 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
-| 36 | [irgendwer](https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [irgendwer](https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y) | 2:48 |
+| 35 | [irgendwer](https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [irgendwer](https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y) | 2:48 |
+| 36 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
 | 37 | [KCAL \(TW\)](https://open.spotify.com/track/457GMvtbJCYl6oCDfchuOR) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [KCAL \(TW\)](https://open.spotify.com/album/4z2gSwmnFBbykzTkTFWr6T) | 2:23 |
 | 38 | [F.u.K.](https://open.spotify.com/track/7uFQeCq21HqvO9aZTw5Soz) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [X\-RATED feelings](https://open.spotify.com/album/6P5qJlQ5ToYafABrTVGhmt) | 2:12 |
 | 39 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
 | 45 | [Sailor Moon](https://open.spotify.com/track/1n6wX18QCB6Lv6EgnorRkz) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sailor Moon](https://open.spotify.com/album/7c35rbKlLuKrsvLtu3L39x) | 2:39 |
 | 46 | [Ausgang](https://open.spotify.com/track/18GTAUE0JBJcIS0dfXDh3h) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [AUF DIE FRESSE POP, Vol\. 1](https://open.spotify.com/album/6JCVewlFcwWf4VyexXk06p) | 2:59 |
-| 47 | [Newborn Baby](https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Newborn Baby](https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO) | 4:32 |
-| 48 | [Was wir teilen](https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs) | [Sovii](https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA) | [Was wir teilen](https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1) | 2:27 |
+| 47 | [Was wir teilen](https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs) | [Sovii](https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA) | [Was wir teilen](https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1) | 2:27 |
+| 48 | [Newborn Baby](https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Newborn Baby](https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO) | 4:32 |
 | 49 | [tAnZ mIt MiR dUrCh DiE nAcHt](https://open.spotify.com/track/1i7lR4A2rYP770IJuGN0hv) | [Gigolo Tears](https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7) | [Heul doch](https://open.spotify.com/album/7AAoO6hK9WLWqaWGRcXuUg) | 3:24 |
 | 50 | [Haze](https://open.spotify.com/track/6aNlBb30JR3ADBVumNIw9Q) | [Nina Celine](https://open.spotify.com/artist/4ts0PBYiqG54p9lBrZ6hy3) | [Haze](https://open.spotify.com/album/6Fp1WfDzzV6rSRVP5x16GD) | 2:40 |
 

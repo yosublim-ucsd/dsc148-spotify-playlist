@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 36836,
+  "num_followers": 36863,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "wieder...",
-        "url": "https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS"
-      },
-      "artists": [
-        {
-          "name": "Kayla Shyx",
-          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "wieder...",
-      "url": "https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Fruit Punch",
         "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 170200,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "wieder...",
+        "url": "https://open.spotify.com/album/0JluPYAL8XoKpiRFF3M8uS"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "wieder...",
+      "url": "https://open.spotify.com/track/5kTnSpJcoPBQqRN4uAAYjo"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Hand",
-        "url": "https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5"
-      },
-      "artists": [
-        {
-          "name": "MARYAM.fyi",
-          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Hand",
-      "url": "https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Hardcore Workout Queen",
         "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 221967,
       "name": "So Dope",
       "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Hand",
+        "url": "https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Hand",
+      "url": "https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "ironic",
-        "url": "https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f"
-      },
-      "artists": [
-        {
-          "name": "Pilar Vega",
-          "url": "https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx"
-        }
-      ],
-      "duration_ms": 181581,
-      "name": "ironic",
-      "url": "https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "irgendwer",
         "url": "https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 168695,
       "name": "irgendwer",
       "url": "https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "ironic",
+        "url": "https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f"
+      },
+      "artists": [
+        {
+          "name": "Pilar Vega",
+          "url": "https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx"
+        }
+      ],
+      "duration_ms": 181581,
+      "name": "ironic",
+      "url": "https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Newborn Baby",
-        "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
-      },
-      "artists": [
-        {
-          "name": "claire my flair",
-          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
-        }
-      ],
-      "duration_ms": 272034,
-      "name": "Newborn Baby",
-      "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Was wir teilen",
         "url": "https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 147995,
       "name": "Was wir teilen",
       "url": "https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Newborn Baby",
+        "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
+      },
+      "artists": [
+        {
+          "name": "claire my flair",
+          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
+        }
+      ],
+      "duration_ms": 272034,
+      "name": "Newborn Baby",
+      "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
     },
     {
       "added_at": "2025-01-07 23:00:01",

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 468106,
+  "num_followers": 468289,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Pain in My Heart",
@@ -311,6 +295,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 171226,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Mr. Soul",
@@ -539,6 +523,22 @@
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -605,20 +589,20 @@
       "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
+      "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "For Your Sweet Love",
-        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
         }
       ],
-      "duration_ms": 146133,
-      "name": "I Will Follow You",
-      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -635,6 +619,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "For Your Sweet Love",
+        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "I Will Follow You",
+      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 178466,
       "name": "Trust In Me",
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If You Can Believe Your Eyes And Ears",
         "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 157960,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Harbor Lights",
-      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Definitive Soul: Sam & Dave",
         "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 247266,
       "name": "Oh, What A Night",
       "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Harbor Lights",
+      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2191,8 +2191,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
       "artists": [
         {
@@ -2200,9 +2200,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered",
-      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered",
+      "url": "https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2219,6 +2219,22 @@
       "duration_ms": 170874,
       "name": "Chapel of Love",
       "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2255,22 +2271,6 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "September Of My Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+        "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
+        "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
         }
       ],
-      "duration_ms": 267240,
-      "name": "It Was A Very Good Year",
-      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+      "duration_ms": 152453,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM"
     }
   ],
   "unique_name": "Soft 60s",

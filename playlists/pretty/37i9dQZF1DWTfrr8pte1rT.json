@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Kayzo \\m/",
-  "num_followers": 337649,
+  "num_followers": 337688,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Skull n Bones",
         "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 145116,
       "name": "Skull n Bones",
       "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1155,30 +1155,30 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Villain (Take the Shot)",
-        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu"
       },
       "artists": [
         {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
         },
         {
-          "name": "ARB4",
-          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
         },
         {
-          "name": "Eytan Peled",
-          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
         }
       ],
-      "duration_ms": 189368,
-      "name": "Villain (Take the Shot)",
-      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
+      "duration_ms": 254600,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1223,30 +1223,30 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu"
+        "name": "Villain (Take the Shot)",
+        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
         },
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         },
         {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+          "name": "ARB4",
+          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
         },
         {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
         }
       ],
-      "duration_ms": 254600,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk"
+      "duration_ms": 189368,
+      "name": "Villain (Take the Shot)",
+      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Wouldn\u2019t Change A Thing",
-        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Wouldn\u2019t Change A Thing",
-      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 230666,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Wouldn\u2019t Change A Thing",
+        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Wouldn\u2019t Change A Thing",
+      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Mercy Killing",
         "url": "https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
-      },
-      "artists": [
-        {
-          "name": "HOWL",
-          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "F\u00d8\u00d8L (INHUMAN Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 206666,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "sometimes i want to die",
-        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
-      },
-      "artists": [
-        {
-          "name": "FRND",
-          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
-        }
-      ],
-      "duration_ms": 143793,
-      "name": "sometimes i want to die",
-      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2211,22 +2195,18 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+        "name": "sometimes i want to die",
+        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "FRND",
+          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
         }
       ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+      "duration_ms": 143793,
+      "name": "sometimes i want to die",
+      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2251,6 +2231,26 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "FIMBULVETR",
         "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
@@ -2263,30 +2263,6 @@
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "Done Better",
-        "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
-      },
-      "artists": [
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        },
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 170583,
-      "name": "Done Better",
-      "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2331,6 +2307,30 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "Done Better",
+        "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
+      },
+      "artists": [
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        },
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 170583,
+      "name": "Done Better",
+      "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Muted Blue",
-        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Just Thought You Should Know",
-      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "added_at": "2025-01-10 05:00:38",
