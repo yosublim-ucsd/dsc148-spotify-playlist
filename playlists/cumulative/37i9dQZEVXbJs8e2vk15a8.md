@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,637 songs - 5 day 21 hr 17 min
+2,638 songs - 5 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-06-04 | 2024-06-13 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-06 |  |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-18 | 2023-05-14 |
+| [BLUE HORIZON FUNK \- SLOWED](https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [DJ ZAP](https://open.spotify.com/artist/1HJglK87YzctjxETSJqh64) | [BLUE HORIZON FUNK](https://open.spotify.com/album/5jXbkZ8fgtvq5OufR9LJz4) | 1:25 | 2025-01-12 |  |
 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 | 2024-09-03 | 2024-09-11 |
 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 | 2022-10-25 | 2022-11-06 |
 | [Bombon](https://open.spotify.com/track/5mevdrlo64Lm6RGRa5VCFq) | [Karina y Marina](https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe), [Hugo23](https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ), [Sennior](https://open.spotify.com/artist/7CJhPRV8canYfr5Ua9EqbQ) | [Bombon](https://open.spotify.com/album/6ozhw89PnfdkAI1dIMkemr) | 2:47 | 2024-10-01 | 2024-10-30 |
@@ -1618,7 +1619,7 @@
 | [No Me Quiere Ver \(ft\. Javiielo\)](https://open.spotify.com/track/5rzTA49jPhyJOpqnIGVuxX) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 3:38 | 2022-05-06 | 2022-05-19 |
 | [No Me Salgas Con Esa \(MJ Cris\)](https://open.spotify.com/track/7sACkXjjfzWdagFnEehPYS) | [Lil Virgnidad](https://open.spotify.com/artist/7D8ZSFLu97dcMUUuywqnvF) | [No Me Salgas Con Esa \(MJ Cris\)](https://open.spotify.com/album/77qRA8oEohZXdsEZs3bErF) | 3:16 | 2023-11-08 | 2023-11-13 |
 | [No Me Sueltes](https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym) | [Baby J & Young Weapon](https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx) | [No Compe](https://open.spotify.com/album/430gNVv6387cVEvbnFSw3K) | 2:28 | 2023-09-09 | 2024-03-25 |
-| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 |  |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 | 2025-01-13 |
 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 | 2024-12-16 |  |
 | [No Paro De Pensar](https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg) | [FiltraMusic](https://open.spotify.com/artist/7qddYkcdROJ86rWpsmls7I) | [No Paro De Pensar](https://open.spotify.com/album/4qhJYga4cbKhVfg5tnTR6X) | 3:44 | 2024-01-09 | 2024-04-17 |
 | [No Pienso en Ti Jere](https://open.spotify.com/track/3SxFRfTmkXV6bXPhw40UfV) | [filtraChileDios](https://open.spotify.com/artist/4E7rGD7hfvCxNsfBKXnj3R) | [No Pienso en Ti Jere](https://open.spotify.com/album/1clNdjRrA7bl07Ijijq7OR) | 2:35 | 2023-02-03 | 2023-02-09 |

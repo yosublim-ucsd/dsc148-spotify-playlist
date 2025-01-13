@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Renzo ED & elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,637 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,625 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

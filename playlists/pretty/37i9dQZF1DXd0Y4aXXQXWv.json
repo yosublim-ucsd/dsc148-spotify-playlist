@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 485028,
+  "num_followers": 485086,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Derni\u00e8re danse",
-      "url": "https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 291400,
       "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Le chant des sir\u00e8nes",
-        "url": "https://open.spotify.com/album/5GfsaNstrK8rszTX5XYtXU"
-      },
-      "artists": [
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 219865,
-      "name": "La terre est ronde",
-      "url": "https://open.spotify.com/track/3IM7zXywZ6sRTtkRjRLxJ8"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 191506,
       "name": "On s'attache",
       "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Le chant des sir\u00e8nes",
+        "url": "https://open.spotify.com/album/5GfsaNstrK8rszTX5XYtXU"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "La terre est ronde",
+      "url": "https://open.spotify.com/track/3IM7zXywZ6sRTtkRjRLxJ8"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Sans plus attendre",
         "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 232000,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Pour Un Flirt - Vol.1",
+        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Pour un flirt",
+      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -599,38 +615,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Pour Un Flirt - Vol.1",
-        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Pour un flirt",
-      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Paris, France (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 273626,
       "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-10-21 08:32:27",

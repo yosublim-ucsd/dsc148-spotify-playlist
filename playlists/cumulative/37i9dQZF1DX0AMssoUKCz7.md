@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-731 songs - 1 day 12 hr 54 min
+732 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Before the Sun Sets](https://open.spotify.com/track/7j5IEblPv4Q15WE667AlGb) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Before the Sun Sets](https://open.spotify.com/album/1abjZNW2kV2pmxsT6jiW5K) | 2:00 | 2022-07-15 |  |
 | [Believe](https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [lostinspace](https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG) | [Believe](https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3) | 2:13 | 2022-12-01 |  |
 | [Believer](https://open.spotify.com/track/7LA7TbC3rcGvBAFVIfENOK) | [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Crew Cardinal](https://open.spotify.com/artist/57Kse5pzj6Mlxhu7N6aNWr) | [Believer](https://open.spotify.com/album/0qVkuC4BXTIN4srhod67kg) | 2:42 | 2023-07-21 |  |
-| [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-04-01 |  |
+| [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-04-01 | 2025-01-13 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-07-22 | 2022-08-06 |
 | [Better](https://open.spotify.com/track/69uCmYNvkqnvIpyTKJXZ5P) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Better](https://open.spotify.com/album/6mCaCi7tXE4Jsr9Gxn7uNt) | 3:03 | 2022-01-14 | 2022-07-23 |
 | [Better Off Alone](https://open.spotify.com/track/12f3UbBnYHrZ7vbRXfyDA9) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz), [Hier](https://open.spotify.com/artist/0vkKvzSb0uPJTFH7HUcEsV) | [Better Off Alone](https://open.spotify.com/album/0jgtY27DegnKHYZKR2ZP85) | 2:53 | 2022-01-14 | 2023-05-13 |
@@ -165,6 +165,7 @@
 | [Electric Feel \(Kygo Remix\)](https://open.spotify.com/track/0toJeVTW2hHX9qYVmdOpBs) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Electric Feel](https://open.spotify.com/album/5wpZhWqsoXKBcVwvcEtCvv) | 6:30 | 2022-01-14 | 2022-07-29 |
 | [Electric Feel \(Kygo Remix\)](https://open.spotify.com/track/7d2By0xmaWYaJ7jxSfrZfn) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 6:30 | 2022-07-22 | 2022-09-24 |
 | [Electrifying](https://open.spotify.com/track/1Z0wUnjzT4Vu3r7jsGLJXe) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy) | [Electrifying](https://open.spotify.com/album/04Ih93o2YSTzwPQ2brR3T8) | 2:42 | 2022-01-14 | 2022-07-29 |
+| [Emerald Dream](https://open.spotify.com/track/1nCVPgKtxjGPrwOxeTxMQZ) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Emerald Dream](https://open.spotify.com/album/3eEHmxV6ZwlVYpQOWKgAnW) | 2:43 | 2025-01-10 |  |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-06-26 |  |
 | [Endless Summer \- Deepend Remix](https://open.spotify.com/track/7JyQN2bRjJnyJdVyB2evUA) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Endless Summer \(Deepend Remix\)](https://open.spotify.com/album/5HGBEiL8s7Kjd4EMxclJ4P) | 3:04 | 2024-04-26 | 2024-07-19 |
 | [Evening Walk](https://open.spotify.com/track/4uBqGpvf7WAIxFDPlhqnSA) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Evening Walk](https://open.spotify.com/album/5LfSmoxg4W4HnJpdVHsCRE) | 2:11 | 2023-10-27 |  |

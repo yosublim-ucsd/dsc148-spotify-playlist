@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-431 songs - 23 hr 7 min
+432 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [LV COCO](https://open.spotify.com/track/62yJbbO1aBTfdT2XAUtBxh) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [LV COCO](https://open.spotify.com/album/15MDWkpeViZTZrsRRM0BTP) | 3:03 | 2022-10-22 | 2022-11-10 |
 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 | 2024-11-26 |  |
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-18 | 2023-06-23 |
+| [Ma Blan Ma Walo](https://open.spotify.com/track/5VGbv8xVAGFIDdZWGNl4eW) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ma Blan Ma Walo](https://open.spotify.com/album/2H9DJkpHyzoJkQQfHcNJPd) | 2:41 | 2025-01-12 |  |
 | [Ma Bébé](https://open.spotify.com/track/6hiAddGVuk3bRTiMUbNxcd) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Ma Bébé](https://open.spotify.com/album/2cn6XNrO2YHOS6smpP9TMA) | 2:57 | 2022-10-27 | 2023-01-12 |
 | [Ma chérie](https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Ma chérie](https://open.spotify.com/album/78wXRLJtmhkwU1WuIxTn48) | 3:35 | 2022-10-12 | 2023-01-20 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-25 | 2022-08-06 |
@@ -368,7 +369,7 @@
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-14 | 2024-08-29 |
 | [Stay](https://open.spotify.com/track/1g2680d7htD40vhKiVRTth) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:30 | 2023-05-08 | 2023-05-13 |
 | [Still Alive](https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Still Alive](https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc) | 3:55 | 2023-05-08 | 2024-08-29 |
-| [STK STK](https://open.spotify.com/track/521iVAlkmBbcDMHEovz70h) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [STK STK](https://open.spotify.com/album/4yGNeADeQ3BEjdu3VBXdSM) | 3:14 | 2025-01-04 |  |
+| [STK STK](https://open.spotify.com/track/521iVAlkmBbcDMHEovz70h) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [STK STK](https://open.spotify.com/album/4yGNeADeQ3BEjdu3VBXdSM) | 3:14 | 2025-01-04 | 2025-01-13 |
 | [Strangers](https://open.spotify.com/track/5Xx23tgYcHoLEhsP8FfkeD) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Strangers](https://open.spotify.com/album/5GGZpeMyi3XHTUyH961K8b) | 2:56 | 2022-12-22 | 2022-12-27 |
 | [Stylo warqa](https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d) | 2:57 | 2023-02-12 | 2023-07-22 |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-25 | 2022-12-16 |

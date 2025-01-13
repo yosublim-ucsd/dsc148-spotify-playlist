@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 551514,
+  "num_followers": 551591,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -267,6 +251,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
       "added_at": "2025-01-06 23:31:57",
       "album": {
         "name": "Sul Globo d'argento",
@@ -343,6 +343,22 @@
       "duration_ms": 1259437,
       "name": "Sul Globo d'argento",
       "url": "https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -363,54 +379,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Cinnamon Temple",
-        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Cinnamon Temple",
+        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -575,18 +543,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cascabel",
-        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
       },
       "artists": [
         {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
         }
       ],
-      "duration_ms": 392598,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -639,6 +607,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/5IuFGI6Ja37oCi0dvCVslG"
+      },
+      "artists": [
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "duration_ms": 392598,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/2KA6b0pSZQRD0TKbdQl5Mc"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Paraphernalia",
         "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Stung!",
-        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 209717,
-      "name": "Constant Picnic",
-      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 125973,
       "name": "Boudicaaa",
       "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Stung!",
+        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 209717,
+      "name": "Constant Picnic",
+      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Efferusphere",
         "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lava",
-        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 352333,
       "name": "Best Thing You Never Had (The D Song)",
       "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "An Cnoc M\u00f3r",
+        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+      },
+      "artists": [
+        {
+          "name": "Moundabout",
+          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+        }
+      ],
+      "duration_ms": 515435,
+      "name": "Instinct, Eye and Mind",
+      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Velocirapture (The Serpent Flew)",
         "url": "https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 345293,
       "name": "Velocirapture (The Serpent Flew)",
       "url": "https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
-      },
-      "artists": [
-        {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
-        }
-      ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
       "added_at": "2024-09-27 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Isak Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,335 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,380 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 32 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 33 | [carousel](https://open.spotify.com/track/7y0NTuyelHDAzWogEKpcMr) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [carousel](https://open.spotify.com/album/7s1Vh1Cj9v1JAugQDBEqL1) | 1:31 |
 | 34 | [San Miguel](https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp) | [Van Dame](https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC) | [San Miguel](https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc) | 3:54 |
-| 35 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
+| 35 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
 | 36 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 37 | [Obsidian](https://open.spotify.com/track/2dDsELaxxDab2q7gLWdxa7) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Obsidian](https://open.spotify.com/album/7eWtdsUFf4rw4Xpb3ckEB6) | 3:44 |
 | 38 | [Sophie](https://open.spotify.com/track/19rYVPqu1o8vgMhbNefJbm) | [Fredrik Svabø](https://open.spotify.com/artist/0OZC81fv24QmzOmvRcYGb0), [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Sophie](https://open.spotify.com/album/4SbzHVgXyju8F8DEKsT9QQ) | 3:45 |

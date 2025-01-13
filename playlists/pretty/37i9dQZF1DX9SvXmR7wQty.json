@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
-  "num_followers": 43248,
+  "num_followers": 43255,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-01-10 05:00:16",
       "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2025-01-10 05:00:16",
+      "album": {
         "name": "TESTIMONY.",
         "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
       },
@@ -559,18 +575,22 @@
     {
       "added_at": "2025-01-10 05:00:16",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+      "duration_ms": 179253,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
     },
     {
       "added_at": "2025-01-10 05:00:16",
@@ -747,6 +767,22 @@
     {
       "added_at": "2025-01-10 05:00:16",
       "album": {
+        "name": "Vendredi soir",
+        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vendredi soir",
+      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
+    },
+    {
+      "added_at": "2025-01-10 05:00:16",
+      "album": {
         "name": "West Coast",
         "url": "https://open.spotify.com/album/323t5RLy984NASLdtjI5yx"
       },
@@ -779,42 +815,6 @@
       "duration_ms": 144394,
       "name": "AMOR\u00c9",
       "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "Vendredi soir",
-        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
-      },
-      "artists": [
-        {
-          "name": "JKSN",
-          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vendredi soir",
-      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
-      },
-      "artists": [
-        {
-          "name": "Rim'K",
-          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
     },
     {
       "added_at": "2025-01-10 05:00:16",

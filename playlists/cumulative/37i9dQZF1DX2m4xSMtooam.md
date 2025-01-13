@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-274 songs - 17 hr 22 min
+275 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 | 2022-05-13 | 2023-08-25 |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-06-13 |  |
 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
+| [Lullaby for Dreaming](https://open.spotify.com/track/2jh30POVfh10M3JAgNXOBL) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Lullaby for Dreaming](https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge) | 2:54 | 2024-12-13 |  |
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-05-13 |  |
 | [Maneiro](https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Maneiro](https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt) | 4:03 | 2024-03-08 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2022-05-13 |  |
@@ -171,7 +172,7 @@
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2022-06-28 | 2022-10-26 |
 | [O Que Sera?](https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Rio](https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI) | 5:24 | 2022-05-13 |  |
 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-02-23 |  |
-| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 |  |
+| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 | 2025-01-13 |
 | [On My Mind](https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Letters in the Sand](https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv) | 4:19 | 2023-08-24 |  |
 | [Once Again \(feat\. Laurindo Almeida\)](https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Stan Getz With Guest Artist Laurindo Almeida](https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9) | 6:42 | 2022-05-13 | 2022-11-13 |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-11-11 |  |

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-359 songs - 21 hr 1 min
+360 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 | 2024-08-29 |  |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-17 | 2024-08-03 |
+| [Serious](https://open.spotify.com/track/7I7z8EAXXdMhtEkyzILdtu) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Frenzee](https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO) | [Serious](https://open.spotify.com/album/2IbMFPFBICNArVacA9mEHe) | 1:52 | 2025-01-10 |  |
 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 | 2023-10-06 | 2024-08-03 |
 | [Shield & Sword](https://open.spotify.com/track/3M8dA9ULifn6NChnUX1pY9) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Shield & Sword](https://open.spotify.com/album/7mCh1FVuFrGp7J4w7jjuH7) | 2:36 | 2024-11-22 |  |
 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 | 2023-09-22 | 2023-10-07 |
@@ -347,7 +348,7 @@
 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 | 2022-09-30 | 2024-02-23 |
 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 | 2023-05-19 | 2024-02-23 |
 | [Want You](https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL) | 4:07 | 2022-09-30 | 2023-05-19 |
-| [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-22 |  |
+| [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-22 | 2025-01-13 |
 | [Wasted Youth \(feat\. Cat Burns\) \- \[IVY\] Remix](https://open.spotify.com/track/0bJV0wJnOCHNGetX12UX9t) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Wasted Youth \(feat\. Cat Burns\) \[\[IVY\] Remix\]](https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE) | 3:09 | 2024-02-23 | 2025-01-11 |
 | [Wave](https://open.spotify.com/track/1g0qWlFYfzGxQpQn43DdKP) | [3BULLETS](https://open.spotify.com/artist/6LRMEcsM3RNPkRkfQyfcR7), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [Wave](https://open.spotify.com/album/1pmhtYrqBJZafUymULlRiv) | 2:00 | 2025-01-10 |  |
 | [We No Care](https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF) | [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG), [Sola](https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [We No Care](https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9) | 4:09 | 2024-10-03 |  |

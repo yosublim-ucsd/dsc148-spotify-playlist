@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 640235,
+  "num_followers": 640273,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "Stadtaffe",
+        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Schwarz zu blau",
+      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "0,9 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 196946,
       "name": "Rhythmus meines Lebens",
       "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "Stadtaffe",
-        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Schwarz zu blau",
-      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "Russisch Roulette (Deluxe)",
         "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
         "name": "MT3",
         "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 235266,
       "name": "Cruisen",
       "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -399,6 +383,22 @@
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
         "name": "Up2Date XXL",
         "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 230546,
       "name": "Poesie Album",
       "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -519,26 +539,6 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -555,38 +555,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         },
         {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
         }
       ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Hinterland",
-      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -611,6 +595,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Nur noch Gucci",
-      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+      "duration_ms": 235186,
+      "name": "Hinterland",
+      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -659,26 +659,6 @@
       "duration_ms": 231800,
       "name": "Traumreise",
       "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "All 4 One",
-      "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -703,6 +683,26 @@
       "duration_ms": 323253,
       "name": "Neuruppin",
       "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "All 4 One",
+      "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 225173,
       "name": "...Hab' geh\u00f6rt...",
       "url": "https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Das Urteil",
+      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -799,34 +831,18 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "Gro\u00dfes Kino",
+        "url": "https://open.spotify.com/album/3DGtfZr0LuTO6zDMyCUscU"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "Blumentopf",
+          "url": "https://open.spotify.com/artist/3aVwqkJqkpiRLbM0dVqOz6"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Das Urteil",
-      "url": "https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS"
+      "duration_ms": 248666,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -859,22 +875,6 @@
       "duration_ms": 228360,
       "name": "Chartbreaker (Einmal Star und zur\u00fcck)",
       "url": "https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "Gro\u00dfes Kino",
-        "url": "https://open.spotify.com/album/3DGtfZr0LuTO6zDMyCUscU"
-      },
-      "artists": [
-        {
-          "name": "Blumentopf",
-          "url": "https://open.spotify.com/artist/3aVwqkJqkpiRLbM0dVqOz6"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm"
     },
     {
       "added_at": "2024-12-09 12:11:36",

@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19502,
+  "num_followers": 19519,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -325,6 +325,42 @@
       "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "E Dey Flow",
+        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "E Dey Flow",
+      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
+    },
+    {
       "added_at": "2024-12-27 00:01:10",
       "album": {
         "name": "Nasempini (feat. Ayanda Ntanzi, DJ Maphorisa & Stakev)",
@@ -375,42 +411,6 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "E Dey Flow",
-        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        }
-      ],
-      "duration_ms": 156108,
-      "name": "E Dey Flow",
-      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -487,30 +487,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Miracle No Dey Tire Jesus",
-        "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Miracle No Dey Tire Jesus",
-      "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -547,26 +523,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Na God I Dey Praise (Craze)",
         "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
       },
@@ -581,10 +537,10 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-09-13 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z"
+        "name": "Miracle No Dey Tire Jesus",
+        "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
       },
       "artists": [
         {
@@ -598,35 +554,11 @@
         {
           "name": "Chizie",
           "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "Membrane",
-          "url": "https://open.spotify.com/artist/0tRGPaX1RkNsyDbz42Vtsg"
-        },
-        {
-          "name": "Doris Joseph",
-          "url": "https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Godfrey Gad",
-          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
         }
       ],
-      "duration_ms": 188727,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
+      "duration_ms": 166000,
+      "name": "Miracle No Dey Tire Jesus",
+      "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -705,6 +637,26 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "C'est DIEU qui donne",
@@ -741,6 +693,86 @@
       "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "Membrane",
+          "url": "https://open.spotify.com/artist/0tRGPaX1RkNsyDbz42Vtsg"
+        },
+        {
+          "name": "Doris Joseph",
+          "url": "https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
+    },
+    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Freedom",
@@ -763,22 +795,6 @@
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -805,20 +821,24 @@
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-10-04 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "Dans Tes Mains",
+        "url": "https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        },
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 179645,
+      "name": "Dans Tes Mains",
+      "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -893,26 +913,6 @@
       "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
-      "added_at": "2024-10-04 00:01:00",
-      "album": {
-        "name": "Dans Tes Mains",
-        "url": "https://open.spotify.com/album/4oq9RhPHkaLxa5O7kJbWFl"
-      },
-      "artists": [
-        {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        },
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dans Tes Mains",
-      "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Igwe",
@@ -1019,6 +1003,22 @@
       "duration_ms": 199404,
       "name": "Holy",
       "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     }
   ],
   "unique_name": "Higher",

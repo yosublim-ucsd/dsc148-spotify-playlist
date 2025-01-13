@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 314397,
+  "num_followers": 314444,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAABy0geudZFP3V7fGIyRw+lg",
+  "snapshot_id": "Z4G0gAAAAADU1PbAhrrBwnvQZk8WhC+K",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
-        {
-          "name": "Curtis Knight & The Squires",
-          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
-        },
         {
           "name": "Jimi Hendrix",
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Fool for You Baby (feat. Jimi Hendrix)",
-      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
       },
       "artists": [
+        {
+          "name": "Curtis Knight & The Squires",
+          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+        },
         {
           "name": "Jimi Hendrix",
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+      "duration_ms": 134400,
+      "name": "Fool for You Baby (feat. Jimi Hendrix)",
+      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
     },
     {
       "added_at": null,

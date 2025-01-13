@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 168729,
+  "num_followers": 168774,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADFWhirQRyiZtoIR0PamxFQ",
+  "snapshot_id": "Z4G0gAAAAABviIOvnfXNY7i/fs6POeo9",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen (Spanglish Version)",
-        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
       "artists": [
-        {
-          "name": "Stereo Jane",
-          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 196619,
-      "name": "Amen - Spanglish Version",
-      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
+      "duration_ms": 162040,
+      "name": "Explorando El Universo",
+      "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+        "name": "Amen (Spanglish Version)",
+        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
       },
       "artists": [
+        {
+          "name": "Stereo Jane",
+          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 162040,
-      "name": "Explorando El Universo",
-      "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
+      "duration_ms": 196619,
+      "name": "Amen - Spanglish Version",
+      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 663704,
+  "num_followers": 663842,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Castles in the Sand",
         "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 190133,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 168213,
       "name": "Streets of Bakersfield",
       "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -883,38 +883,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "When You Say Nothing at All",
-      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Love Me Like You Used To",
-        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -943,18 +911,34 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "Love Me Like You Used To",
+        "url": "https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+      "duration_ms": 229600,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "When You Say Nothing at All",
+      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Friday Night Blues",
         "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Ultimate Alabama 20 # 1 Hits",
-        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 203240,
-      "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
-      "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
+      "duration_ms": 189933,
+      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+        "name": "Ultimate Alabama 20 # 1 Hits",
+        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 189933,
-      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
-      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+      "duration_ms": 203240,
+      "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+      "duration_ms": 286120,
+      "name": "I Ain't Living Long Like This",
+      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1259,34 +1259,34 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 240373,
-      "name": "All My Rowdy Friends (Have Settled Down)",
-      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "All My Rowdy Friends (Have Settled Down)",
+      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 185573,
       "name": "My Favorite Memory",
       "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1367,6 +1367,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Best Of Michael Martin Murphey",
+        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
+      },
+      "artists": [
+        {
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+        }
+      ],
+      "duration_ms": 171906,
+      "name": "What's Forever For?",
+      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1415,22 +1431,6 @@
       "duration_ms": 262626,
       "name": "Roll On (Eighteen Wheeler)",
       "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "The Best Of Michael Martin Murphey",
-        "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
-      },
-      "artists": [
-        {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
-        }
-      ],
-      "duration_ms": 171906,
-      "name": "What's Forever For?",
-      "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Drivin' My Life Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 207280,
       "name": "Redneck Girl",
       "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Drivin' My Life Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I'm No Stranger to the Rain",
-      "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 167426,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "I'm No Stranger to the Rain",
+      "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Good Ole Boys Like Me - Single Version",
+      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Good Ole Boys Like Me - Single Version",
-      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The First Of A Million Kisses",
         "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 216573,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Conversation (with Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Oak Ridge Boys Greatest Hits",
         "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 182200,
       "name": "Leaving Louisiana In The Broad Daylight",
       "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "The Conversation (with Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Highway 40 Blues",
+      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Gene Watson's Greatest Hits",
         "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 184946,
       "name": "(That's What You Do) When You're in Love",
       "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Highway 40 Blues",
-      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Step That Step",
-      "url": "https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 215666,
       "name": "We Believe In Happy Endings (with Emmylou Harris)",
       "url": "https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Step That Step",
+      "url": "https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM"
     },
     {
       "added_at": "2024-10-14 21:15:40",

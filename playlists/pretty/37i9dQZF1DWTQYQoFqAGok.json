@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 62096,
+  "num_followers": 62107,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Guidum",
         "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Bernalejo",
         "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
       },
@@ -303,38 +303,6 @@
       "duration_ms": 264000,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
-    },
-    {
-      "added_at": "2023-03-16 20:51:30",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 366283,
-      "name": "Activo De Guayaba",
-      "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -355,6 +323,38 @@
       "duration_ms": 285386,
       "name": "2 Cartas",
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 366283,
+      "name": "Activo De Guayaba",
+      "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
+    },
+    {
+      "added_at": "2023-03-16 20:51:30",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -507,26 +507,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
-        }
-      ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -549,6 +529,42 @@
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+        }
+      ],
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -567,22 +583,6 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -691,6 +691,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Sacbe: Sacbe (Complete)",
         "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
       },
@@ -711,38 +727,6 @@
       "duration_ms": 404666,
       "name": "Las Pulgas Freeway",
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -779,6 +763,22 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",

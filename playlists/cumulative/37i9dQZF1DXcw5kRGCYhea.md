@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-202 songs - 10 hr 20 min
+203 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Blaka](https://open.spotify.com/track/5lffk2bgHBfnNtAYbEQveZ) | [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Blaka](https://open.spotify.com/album/3S27NFPQNAWEClcX7aRL8J) | 2:36 | 2024-09-14 | 2024-10-12 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2024-03-26 | 2024-04-24 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-03-26 | 2024-07-09 |
-| [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-12-10 |  |
+| [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-12-10 | 2025-01-13 |
 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-10 |  |
 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 | 2024-12-10 |  |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-07-04 |  |
@@ -100,6 +100,7 @@
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-23 | 2024-12-11 |
 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 | 2024-10-18 | 2024-12-11 |
 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 | 2024-03-26 | 2024-04-19 |
+| [KEDABA](https://open.spotify.com/track/6EJIkDorvfRvFYPuEzJYm2) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF), [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 3:15 | 2025-01-12 |  |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-12-10 | 2025-01-02 |
 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 | 2024-10-17 | 2024-12-11 |
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-08-02 | 2024-08-16 |

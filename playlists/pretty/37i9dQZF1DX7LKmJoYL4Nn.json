@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 57979,
+  "num_followers": 57985,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -375,38 +375,6 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Season5 ALKALOID\u300cSunnyTrip Summer\u300d",
-        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
-        }
-      ],
-      "duration_ms": 211976,
-      "name": "SunnyTrip Summer",
-      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -439,22 +407,6 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
-        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
-      },
-      "artists": [
-        {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Awakening Myth",
-      "url": "https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
         "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
       },
@@ -467,6 +419,54 @@
       "duration_ms": 248840,
       "name": "Trap For You",
       "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Season5 ALKALOID\u300cSunnyTrip Summer\u300d",
+        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+        }
+      ],
+      "duration_ms": 211976,
+      "name": "SunnyTrip Summer",
+      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
+        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
+      },
+      "artists": [
+        {
+          "name": "fine-O/\u9752\u8449 \u3064\u3080\u304e(CV.\u77f3\u5ddd \u754c\u4eba)\u3001\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f \u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Dawning Angels",
+      "url": "https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
+        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Promise Swords",
+      "url": "https://open.spotify.com/track/4MU1VTQkwu9fOGf2rjGfPJ"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -499,6 +515,22 @@
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
+        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Awakening Myth",
+      "url": "https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -535,24 +567,8 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
-        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
-      },
-      "artists": [
-        {
-          "name": "fine-O/\u9752\u8449 \u3064\u3080\u304e(CV.\u77f3\u5ddd \u754c\u4eba)\u3001\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f \u590f\u6a39)",
-          "url": "https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Dawning Angels",
-      "url": "https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
-        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
         }
       ],
-      "duration_ms": 244586,
-      "name": "Promise Swords",
-      "url": "https://open.spotify.com/track/4MU1VTQkwu9fOGf2rjGfPJ"
+      "duration_ms": 251573,
+      "name": "Fight for Judge",
+      "url": "https://open.spotify.com/track/0REh9JzsqKLZ2enJil2RG7"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -599,18 +615,18 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
       },
       "artists": [
         {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
         }
       ],
-      "duration_ms": 248840,
-      "name": "THE GENESIS",
-      "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
+      "duration_ms": 288373,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -647,6 +663,38 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
+        "name": "ALKALOID \uff06 Double Face\u300c\u591c\u306b\u99c6\u3051\u308b\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 07",
+        "url": "https://open.spotify.com/album/3rYOi7jld0iaQhBKB3Y796"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID & Double Face/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)\u3001\u4e09\u6bdb\u7e1e \u6591(CV.\u9ce5\u6d77 \u6d69\u8f14)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)",
+          "url": "https://open.spotify.com/artist/5yL2QmpTzB4eQ7Yz3OHww1"
+        }
+      ],
+      "duration_ms": 260495,
+      "name": "\u591c\u306b\u99c6\u3051\u308b",
+      "url": "https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "THE GENESIS",
+      "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -656,9 +704,25 @@
           "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
         }
       ],
-      "duration_ms": 251573,
-      "name": "Fight for Judge",
-      "url": "https://open.spotify.com/track/0REh9JzsqKLZ2enJil2RG7"
+      "duration_ms": 313133,
+      "name": "Silent Oath",
+      "url": "https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "Valkyrie \uff06 \u7d05\u6708\u300c\u52c7\u4fa0\u9752\u6625\u8b33\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 04",
+        "url": "https://open.spotify.com/album/6jO2cWUC0274MSeo1yCQql"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie & \u7d05\u6708/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5f71\u7247 \u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)\u3001\u84ee\u5df3 \u656c\u4eba(CV.\u6885\u539f \u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d \u7d05\u90ce (CV.\u795e\u5c3e \u664b\u4e00\u90ce)\u3001\u795e\u5d0e \u98af\u99ac(CV.\u795e\u6c38 \u572d\u4f51)",
+          "url": "https://open.spotify.com/artist/7vbRrVS90KcQJxoi5YwIGM"
+        }
+      ],
+      "duration_ms": 263161,
+      "name": "\u52c7\u4fa0\u9752\u6625\u8b33",
+      "url": "https://open.spotify.com/track/6f2lqCBtPtJ5XHGtrLZpWi"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -679,50 +743,18 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
-        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
+        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
       },
       "artists": [
         {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
         }
       ],
-      "duration_ms": 288373,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
-        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
-      },
-      "artists": [
-        {
-          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
-          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
-        }
-      ],
-      "duration_ms": 334213,
-      "name": "Temptation Magic",
-      "url": "https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "ALKALOID \uff06 Double Face\u300c\u591c\u306b\u99c6\u3051\u308b\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 07",
-        "url": "https://open.spotify.com/album/3rYOi7jld0iaQhBKB3Y796"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID & Double Face/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)\u3001\u4e09\u6bdb\u7e1e \u6591(CV.\u9ce5\u6d77 \u6d69\u8f14)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)",
-          "url": "https://open.spotify.com/artist/5yL2QmpTzB4eQ7Yz3OHww1"
-        }
-      ],
-      "duration_ms": 260495,
-      "name": "\u591c\u306b\u99c6\u3051\u308b",
-      "url": "https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT"
+      "duration_ms": 204826,
+      "name": "Little Romance",
+      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -743,18 +775,18 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
-        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
+        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
       },
       "artists": [
         {
-          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
+          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Little Romance",
-      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
+      "duration_ms": 334213,
+      "name": "Temptation Magic",
+      "url": "https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -784,9 +816,9 @@
           "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
         }
       ],
-      "duration_ms": 313133,
-      "name": "Silent Oath",
-      "url": "https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo"
+      "duration_ms": 292093,
+      "name": "Voice of Sword",
+      "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -807,22 +839,6 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "Valkyrie \uff06 \u7d05\u6708\u300c\u52c7\u4fa0\u9752\u6625\u8b33\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 04",
-        "url": "https://open.spotify.com/album/6jO2cWUC0274MSeo1yCQql"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie & \u7d05\u6708/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5f71\u7247 \u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)\u3001\u84ee\u5df3 \u656c\u4eba(CV.\u6885\u539f \u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d \u7d05\u90ce (CV.\u795e\u5c3e \u664b\u4e00\u90ce)\u3001\u795e\u5d0e \u98af\u99ac(CV.\u795e\u6c38 \u572d\u4f51)",
-          "url": "https://open.spotify.com/artist/7vbRrVS90KcQJxoi5YwIGM"
-        }
-      ],
-      "duration_ms": 263161,
-      "name": "\u52c7\u4fa0\u9752\u6625\u8b33",
-      "url": "https://open.spotify.com/track/6f2lqCBtPtJ5XHGtrLZpWi"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -835,54 +851,6 @@
       "duration_ms": 256493,
       "name": "Aisle, be with you",
       "url": "https://open.spotify.com/track/1jK8X9teT6Hj3zKxYkLPxo"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
-        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "\u9b45\u60d1\u5287",
-      "url": "https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
-        "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
-      },
-      "artists": [
-        {
-          "name": "La Mort/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)",
-          "url": "https://open.spotify.com/artist/5xqD2ghxWZj83s7a5o74UF"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Noir Neige",
-      "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "Eden\u300cEXCEED\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr"
-      },
-      "artists": [
-        {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Psyche\u2019s Butterfly",
-      "url": "https://open.spotify.com/track/70gb5bJYRLbxvXqHZrOdLa"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -919,38 +887,6 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.4)",
-        "url": "https://open.spotify.com/album/0n5F7ekghV3Etmdrvl3SEK"
-      },
-      "artists": [
-        {
-          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
-          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "Magic for your Switch",
-      "url": "https://open.spotify.com/track/0z6tCrKS7tjuCWgee0xn2P"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
-      },
-      "artists": [
-        {
-          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
-          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Voice of Sword",
-      "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
         "name": "Crazy:B\u300c\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO"
       },
@@ -963,6 +899,70 @@
       "duration_ms": 278520,
       "name": "\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd",
       "url": "https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "Eden\u300cEXCEED\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "Psyche\u2019s Butterfly",
+      "url": "https://open.spotify.com/track/70gb5bJYRLbxvXqHZrOdLa"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "\u9b45\u60d1\u5287",
+      "url": "https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
+        "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
+      },
+      "artists": [
+        {
+          "name": "La Mort/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)",
+          "url": "https://open.spotify.com/artist/5xqD2ghxWZj83s7a5o74UF"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Noir Neige",
+      "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.4)",
+        "url": "https://open.spotify.com/album/0n5F7ekghV3Etmdrvl3SEK"
+      },
+      "artists": [
+        {
+          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "Magic for your Switch",
+      "url": "https://open.spotify.com/track/0z6tCrKS7tjuCWgee0xn2P"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
-        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Last Lament",
-      "url": "https://open.spotify.com/track/3kUM43sqTFPBXV1SCWYCjm"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
         "name": "Eden \uff06 Trickstar \u300c(RE)PLAY\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 05",
         "url": "https://open.spotify.com/album/1ONZES9UjlepSH86dqCUcx"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "\u7ffc\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+      "url": "https://open.spotify.com/track/31T4GT2pXiw1aI7Ei8Iet9"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
         "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
       },
@@ -1027,6 +1027,38 @@
       "duration_ms": 249933,
       "name": "Sunlit Smile!",
       "url": "https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Last Lament",
+      "url": "https://open.spotify.com/track/3kUM43sqTFPBXV1SCWYCjm"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Crazy:B",
+        "url": "https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ"
+      },
+      "artists": [
+        {
+          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
+          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Honeycomb Summer",
+      "url": "https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -1063,8 +1095,8 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
-        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
       },
       "artists": [
         {
@@ -1072,25 +1104,9 @@
           "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
         }
       ],
-      "duration_ms": 252293,
-      "name": "\u7ffc\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-      "url": "https://open.spotify.com/track/31T4GT2pXiw1aI7Ei8Iet9"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Crazy:B",
-        "url": "https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
-          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Honeycomb Summer",
-      "url": "https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi"
+      "duration_ms": 180760,
+      "name": "Believe 4 leaves",
+      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -1143,8 +1159,8 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba 2wink",
-        "url": "https://open.spotify.com/album/2EhHCiaRN1bz3tfVfZpIs1"
+        "name": "2wink\u300cSwee2wink Love Letter\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z"
       },
       "artists": [
         {
@@ -1152,9 +1168,25 @@
           "url": "https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS"
         }
       ],
-      "duration_ms": 262186,
-      "name": "2winkle Star Beat\u2606",
-      "url": "https://open.spotify.com/track/1qsgpaBWncYmYDWweS3VVf"
+      "duration_ms": 224306,
+      "name": "Swee2wink Love Letter",
+      "url": "https://open.spotify.com/track/0pi8djDltXS8pPXpgQHkGa"
+    },
+    {
+      "added_at": "2025-01-08 15:00:21",
+      "album": {
+        "name": "Valkyrie\u300cAcanthe\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Acanthe",
+      "url": "https://open.spotify.com/track/0Si55K9cWWpJglJcqUZcxD"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -1171,22 +1203,6 @@
       "duration_ms": 289253,
       "name": "Gate of the Abyss",
       "url": "https://open.spotify.com/track/5Dmq5J2N2vhNj6bRggGYbq"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Love\u221eScramble\u300c\u4e21\u7247\u601d\u3044\u306e\u4ea4\u5dee\u70b9\u3067\u3001\u541b\u306b\u307e\u305f\u9022\u3044\u305f\u304f\u3066\u300d",
-        "url": "https://open.spotify.com/album/0TeX1ECrSNlCtEhJCvjW7p"
-      },
-      "artists": [
-        {
-          "name": "Love\u221eScramble\uff0f\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)\u3001\u4e09\u6bdb\u7e1e \u6591(CV.\u9ce5\u6d77 \u6d69\u8f14)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
-          "url": "https://open.spotify.com/artist/7KROXIlL822ArGbdDmD4bO"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "\u4e21\u7247\u601d\u3044\u306e\u4ea4\u5dee\u70b9\u3067\u3001\u541b\u306b\u307e\u305f\u9022\u3044\u305f\u304f\u3066",
-      "url": "https://open.spotify.com/track/0p7fyMUz5BmL4ius62CTyT"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2025-01-08 15:00:21",
       "album": {
-        "name": "ALKALOID \u2715 Valkyrie\u300cArtistic Partisan\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 03",
-        "url": "https://open.spotify.com/album/6ACmXBrsotvnyZV4aLAfSf"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 Love\u221eScramble\u300c\u4e21\u7247\u601d\u3044\u306e\u4ea4\u5dee\u70b9\u3067\u3001\u541b\u306b\u307e\u305f\u9022\u3044\u305f\u304f\u3066\u300d",
+        "url": "https://open.spotify.com/album/0TeX1ECrSNlCtEhJCvjW7p"
       },
       "artists": [
         {
-          "name": "ALKALOID \u2715 Valkyrie/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)\u3001\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5f71\u7247 \u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/2kw5F21tZKGZ3szTYgIqPm"
+          "name": "Love\u221eScramble\uff0f\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)\u3001\u4e09\u6bdb\u7e1e \u6591(CV.\u9ce5\u6d77 \u6d69\u8f14)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
+          "url": "https://open.spotify.com/artist/7KROXIlL822ArGbdDmD4bO"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Artistic Partisan",
-      "url": "https://open.spotify.com/track/1vtgrIX32P8co81ow0gBd8"
+      "duration_ms": 285826,
+      "name": "\u4e21\u7247\u601d\u3044\u306e\u4ea4\u5dee\u70b9\u3067\u3001\u541b\u306b\u307e\u305f\u9022\u3044\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/0p7fyMUz5BmL4ius62CTyT"
     },
     {
       "added_at": "2025-01-08 15:00:21",
@@ -1251,22 +1267,6 @@
       "duration_ms": 267186,
       "name": "\u5929\u4e0b\u7121\u6575\u2606\u30e1\u30c6\u30aa\u30ec\u30f3\u30b8\u30e3\u30fc!",
       "url": "https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD"
-    },
-    {
-      "added_at": "2025-01-08 15:00:21",
-      "album": {
-        "name": "Valkyrie\u300cAcanthe\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 329413,
-      "name": "Acanthe",
-      "url": "https://open.spotify.com/track/0Si55K9cWWpJglJcqUZcxD"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

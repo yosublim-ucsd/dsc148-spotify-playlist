@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 391672,
+  "num_followers": 391829,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 179640,
       "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
       "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 354533,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -263,22 +283,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 354533,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+      "duration_ms": 150666,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -295,22 +311,6 @@
       "duration_ms": 222733,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
       "artists": [
         {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
+      "duration_ms": 192560,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -491,22 +507,6 @@
       "duration_ms": 141040,
       "name": "Devoted to You",
       "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
+        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
+      "duration_ms": 176973,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
-        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Golden Hits Collection",
-        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 181400,
       "name": "Chances Are - Single Version",
       "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Golden Hits Collection",
+        "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -987,38 +987,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Saga All Stars: Heat Wave / Selected Film Tracks 1950-1957",
         "url": "https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 172133,
       "name": "St Therese of the Roses",
       "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "50's Love Songs",
         "url": "https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 191266,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1243,6 +1243,22 @@
       "duration_ms": 160373,
       "name": "Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",
       "url": "https://open.spotify.com/track/50meIWPMuhYgQSXfSsUvtI"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 158053,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",

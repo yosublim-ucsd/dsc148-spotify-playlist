@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Chris Lebron & Manuel Turizo",
-  "num_followers": 1894038,
+  "num_followers": 1894008,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Mujer El\u00e9ctrica",
         "url": "https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 344666,
+      "name": "Vivir Sin Aire - Unplugged",
+      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Tour 2007",
         "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 192922,
       "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
       "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 162066,
       "name": "Si Tu No Bailas Conmigo",
       "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Pablo Albor\u00e1n Spotify Sessions",
-        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 266104,
-      "name": "Pasos de cero - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Pablo Albor\u00e1n Spotify Sessions",
+        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 266104,
+      "name": "Pasos de cero - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Parece Mentira",
         "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
       },
@@ -895,6 +879,38 @@
       "duration_ms": 213958,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -951,22 +967,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Shakira MTV Unplugged",
-        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Estoy Aqu\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "En Ac\u00fastico",
         "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Shakira MTV Unplugged",
+        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Estoy Aqu\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Dimos Tanto",
         "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1231,6 +1199,38 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "Cenizas y Miel",
+        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
+      },
+      "artists": [
+        {
+          "name": "Pachar\u00e1",
+          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
+        }
+      ],
+      "duration_ms": 191474,
+      "name": "Cenizas y Miel",
+      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "Cenizas y Miel",
-        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
-      },
-      "artists": [
-        {
-          "name": "Pachar\u00e1",
-          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
-        }
-      ],
-      "duration_ms": 191474,
-      "name": "Cenizas y Miel",
-      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n"
     },
     {
       "added_at": "2024-12-13 05:00:32",

@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 199166,
       "name": "Christ",
       "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
@@ -5950,7 +5950,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -7180,7 +7180,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -7210,7 +7210,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -10508,7 +10508,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 176232,
       "name": "Scheiss Egal - District Red Remix",
       "url": "https://open.spotify.com/track/3LDWTfooMxOcQBP8WZzToC"
@@ -21442,6 +21442,28 @@
       "duration_ms": 197027,
       "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/2BzKk0GMWtW5dfkOb62mJc"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/0oxO3be1a9fxYgLfA5FEhE"
+      },
+      "artists": [
+        {
+          "name": "volhey",
+          "url": "https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8"
+        },
+        {
+          "name": "KRISTIEE",
+          "url": "https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "\u0442\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/1YTwGFioTfxD9dHzYl5J3b"
     },
     {
       "album": {

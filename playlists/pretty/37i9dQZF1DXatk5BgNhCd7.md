@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,208 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,261 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

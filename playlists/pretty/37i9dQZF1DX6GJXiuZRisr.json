@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1583527,
+  "num_followers": 1583766,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,42 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
+        "name": "Tigra",
+        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
+      },
+      "artists": [
+        {
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Tigra",
+      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
         "name": "Getting Lost",
         "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
       },
@@ -631,42 +667,6 @@
       "duration_ms": 161200,
       "name": "Getting Lost",
       "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Tigra",
-        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
-      },
-      "artists": [
-        {
-          "name": "Maxim Lany",
-          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
-        }
-      ],
-      "duration_ms": 182670,
-      "name": "Tigra",
-      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1075,26 +1075,22 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
-        "name": "Shake & Pop (John Summit Remix)",
-        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
       "artists": [
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Walter Phillips",
-          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 217694,
-      "name": "Shake & Pop - John Summit Remix",
-      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1119,22 +1115,42 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+      "duration_ms": 330000,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
+        "name": "Shake & Pop (John Summit Remix)",
+        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Walter Phillips",
+          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 217694,
+      "name": "Shake & Pop - John Summit Remix",
+      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1175,22 +1191,6 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
+        "name": "Out Of Context",
+        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "Out Of Context",
+      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Out Of Context",
-        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Out Of Context",
-      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1363,6 +1363,30 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
+        "name": "All That Matters (Artbat Remix)",
+        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Troels Abrahamsen",
+          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "All That Matters - ARTBAT Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1399,30 +1423,6 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "All That Matters (Artbat Remix)",
-        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Troels Abrahamsen",
-          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 314880,
-      "name": "All That Matters - ARTBAT Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1691,30 +1691,6 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2025-01-10 05:00:13",
-      "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Marcus Santoro",
-          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1795,22 +1771,26 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
-        "name": "Morning Comes",
-        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
       "artists": [
         {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 201923,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
+      "duration_ms": 214946,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1831,6 +1811,26 @@
       "duration_ms": 246048,
       "name": "Remission",
       "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
+    },
+    {
+      "added_at": "2025-01-10 05:00:13",
+      "album": {
+        "name": "Morning Comes",
+        "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -1943,22 +1943,26 @@
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
-        "name": "Fractures",
-        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
       "artists": [
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 209733,
-      "name": "Fractures",
-      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     }
   ],
   "unique_name": "Night Rider",

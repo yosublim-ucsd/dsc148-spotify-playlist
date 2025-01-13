@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 233414,
+  "num_followers": 233443,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Last Kiss",
         "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 268586,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "Plush - Acoustic",
-      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Angel Dust (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Plush - Acoustic",
+      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Jagged Little Pill (Acoustic)",
-        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "You Learn - Acoustic",
-      "url": "https://open.spotify.com/track/6auEoWun0WEXGMseCkBuGU"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Jagged Little Pill (Acoustic)",
+        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "You Learn - Acoustic",
+      "url": "https://open.spotify.com/track/6auEoWun0WEXGMseCkBuGU"
     },
     {
       "added_at": "2024-02-27 20:15:05",

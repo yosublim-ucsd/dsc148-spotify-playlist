@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,976 likes - 302 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,439 likes - 302 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

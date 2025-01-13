@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 308777,
+  "num_followers": 308819,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 241646,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "The Secret Sisters",
         "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Listening to the Music",
         "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 190035,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223713,
       "name": "Trouble Me Anytime",
       "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Western Swing & Waltzes and Other Punchy Songs",
         "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 229497,
       "name": "You've Lost That Lovin' Feelin'",
       "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
     }
   ],
   "unique_name": "Vintage Vibes",

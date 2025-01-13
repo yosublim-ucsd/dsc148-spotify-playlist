@@ -102,7 +102,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 164130,
       "name": "A Million Suns",
       "url": "https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 149660,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/3ZzkrhHF33o3VwzXyBXDji"
@@ -1397,6 +1397,32 @@
     },
     {
       "album": {
+        "name": "Bring You Home",
+        "url": "https://open.spotify.com/album/29ZQwiy435FFkiPh9HNsAx"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "Bring You Home",
+      "url": "https://open.spotify.com/track/21oIDfYSErDhelcDcjfouI"
+    },
+    {
+      "album": {
         "name": "Broken Waves",
         "url": "https://open.spotify.com/album/5Kckn5zh0h4wKGsu7jgcq6"
       },
@@ -1738,7 +1764,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 164016,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/2p9vOKYFBK6iHSTMpSAGBp"
@@ -3020,7 +3046,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 125675,
       "name": "Down For You",
       "url": "https://open.spotify.com/track/5HAvxGYX1l1n5WHSiBWcnL"
@@ -3194,7 +3220,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 174182,
       "name": "Easy",
       "url": "https://open.spotify.com/track/79ZKrHZVLDR7zeUMIsjI1r"
@@ -3216,7 +3242,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 146756,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr"
@@ -3954,7 +3980,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 123025,
       "name": "Fell For You",
       "url": "https://open.spotify.com/track/6sBRluB0uDTmTAkt8gQwRp"
@@ -4832,7 +4858,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 132000,
       "name": "Hate To Love You",
       "url": "https://open.spotify.com/track/5IRqHJJEyc17lVPA5oQ5cy"
@@ -6280,6 +6306,24 @@
       "duration_ms": 116166,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/0FSQnNreMgesQQOMF1IVae"
+    },
+    {
+      "album": {
+        "name": "If I Imagine",
+        "url": "https://open.spotify.com/album/3MyX5bXEJdBAmnCniqxzSa"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "If I Imagine",
+      "url": "https://open.spotify.com/track/4m9JsyxusOEq2YM9ywoI4k"
     },
     {
       "album": {
@@ -8391,6 +8435,36 @@
     },
     {
       "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/35g9bWZ0AhTaeAINTGR1Qi"
+      },
+      "artists": [
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "phil's ok.",
+          "url": "https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty"
+        },
+        {
+          "name": "ZYRS",
+          "url": "https://open.spotify.com/artist/5NiAPSRIyDQ5HtUpvwz4yX"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/7eldj0IyIGx9jNNZn5xwYT"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4kblv31AHXGMcD1hSDDaCZ"
       },
@@ -10224,7 +10298,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 133381,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/3MHv3exnSR5TdnhYm3WLVu"
@@ -10690,7 +10764,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 150967,
       "name": "Right For You",
       "url": "https://open.spotify.com/track/6U7N9Avvc1ZHt1ffuSN5cI"
@@ -11759,6 +11833,28 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3OjIVbEfcA7VWrh9deBxLK"
+      },
+      "artists": [
+        {
+          "name": "Latencies",
+          "url": "https://open.spotify.com/artist/3JdnYDjj0Hmtt9i5ShSWRa"
+        },
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1Bvc287BGUhTdFdtLqt5of"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5aL2RjkZohXkLZS9x8BcbP"
       },
@@ -12514,7 +12610,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 144827,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/0zMx4Tg8GAv7A9yvsoGFxy"
@@ -12766,6 +12862,28 @@
       "duration_ms": 141344,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/7dWQoTFmsAnVznADr1sZwB"
+    },
+    {
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/0Hcdfx34DnuGHDlq1dHdVm"
+      },
+      "artists": [
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "Stangen",
+          "url": "https://open.spotify.com/artist/1EuUknnWCMEWRlVImWTpJe"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145898,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/09H6t4arQwwtZSx6l01iHp"
     },
     {
       "album": {
@@ -13826,7 +13944,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 165224,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2zctpVRHCcEcSjh9RpASl4"
@@ -14060,7 +14178,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 220959,
       "name": "Wanna Be Somewhere With You",
       "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"

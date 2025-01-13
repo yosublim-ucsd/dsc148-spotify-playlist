@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 36863,
+  "num_followers": 36898,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7"
-      },
-      "artists": [
-        {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        }
-      ],
-      "duration_ms": 154174,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "daf\u00fcr oder dagegen",
         "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 183510,
       "name": "daf\u00fcr oder dagegen",
       "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "1000 KLEINE TODE",
+        "url": "https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 192622,
+      "name": "1000 KLEINE TODE",
+      "url": "https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Vagabund",
         "url": "https://open.spotify.com/album/1Gh8VCZns55jh3A2x40UPn"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 152272,
       "name": "Vagabund",
       "url": "https://open.spotify.com/track/3TexmyJ4AW17QrRgHN3AXO"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "1000 KLEINE TODE",
-        "url": "https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 192622,
-      "name": "1000 KLEINE TODE",
-      "url": "https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Was wir teilen",
-        "url": "https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1"
-      },
-      "artists": [
-        {
-          "name": "Sovii",
-          "url": "https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA"
-        }
-      ],
-      "duration_ms": 147995,
-      "name": "Was wir teilen",
-      "url": "https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Newborn Baby",
         "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 272034,
       "name": "Newborn Baby",
       "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Was wir teilen",
+        "url": "https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1"
+      },
+      "artists": [
+        {
+          "name": "Sovii",
+          "url": "https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA"
+        }
+      ],
+      "duration_ms": 147995,
+      "name": "Was wir teilen",
+      "url": "https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs"
     },
     {
       "added_at": "2025-01-07 23:00:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,069 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,077 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 23 | [Louise](https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:45 |
 | 24 | [Just Like I Treat You \- Single Version](https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:55 |
 | 25 | [Rockin' Daddy](https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:43 |
-| 26 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
-| 27 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
-| 28 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
+| 26 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
+| 27 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
+| 28 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
 | 29 | [What A Woman](https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:02 |
 | 30 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
 | 31 | [Hidden Charms \- Single Version](https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:20 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 43 | [I Smell A Rat](https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Message To The Young](https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ) | 2:41 |
 | 44 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 
-Snapshot ID: `Z4BjAAAAAADVXwJOZ9XrlaIsUGThYgQN`
+Snapshot ID: `Z4G0gAAAAABPuIpI4Hnp1Ai13DsRn47K`

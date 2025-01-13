@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 119217,
+  "num_followers": 119236,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAAZyn6TL66MJfRNbzVO8W+N",
+  "snapshot_id": "Z4G0gAAAAAAr7IDyHUh04nruHs5oF+iR",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Boys on the Docks",
-      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
+      "duration_ms": 225175,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 225175,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
+      "duration_ms": 153600,
+      "name": "Boys on the Docks",
+      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
     },
     {
       "added_at": null,

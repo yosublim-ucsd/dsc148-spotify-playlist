@@ -1,13 +1,77 @@
 {
   "description": "Welcome to the oil business. Listen to the music from Landman, now streaming on Paramount+. ",
-  "num_followers": 25305,
+  "num_followers": 25983,
   "original_name": "Landman Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3of7wAAAADqX/zRIFfo0WKlhF8m6Ix/",
+  "snapshot_id": "Z4NaaAAAAAAQuy6jl5pLg/ykU6LkDfrC",
   "tracks": [
+    {
+      "added_at": "2025-01-12 06:00:08",
+      "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "added_at": "2025-01-12 06:00:08",
+      "album": {
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+    },
+    {
+      "added_at": "2025-01-12 06:00:08",
+      "album": {
+        "name": "Christopher Cross (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1f0yjn99Hownkom1KQ6e6Y"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 256906,
+      "name": "Sailing - 2019 Remaster",
+      "url": "https://open.spotify.com/track/3TQxruUMwpvoqe3Q0T7LnT"
+    },
+    {
+      "added_at": "2025-01-12 06:00:08",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
+    },
     {
       "added_at": "2025-01-05 06:00:15",
       "album": {

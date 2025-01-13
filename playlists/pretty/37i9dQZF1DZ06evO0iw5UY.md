@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,622 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,620 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 4 | [Greenlights](https://open.spotify.com/track/0ZPfoFzZ4qmdyzYmG8whmn) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:42 |
 | 5 | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D) | 3:04 |
 | 6 | [Alibi \(Far Out Remix\)](https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Alibi & Runaway \(Remixes\)](https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o) | 3:39 |
-| 7 | [Live for the Night](https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:26 |
+| 7 | [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:31 |
 | 8 | [Say Goodbye](https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Say Goodbye](https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ) | 3:53 |
 | 9 | [Next Life \(feat\. Krewella\)](https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:06 |
 | 10 | [New World](https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c) | [New World](https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj) | 2:41 |
-| 11 | [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:31 |
+| 11 | [Live for the Night](https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:26 |
 | 12 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 |
 | 13 | [Rewind](https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rewind](https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9) | 2:59 |
 | 14 | [Calm Down](https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [Ring of Fire](https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:23 |
 | 50 | [Party Monster](https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Krewella \(Hits Japan Special Edition\)](https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT) | 3:34 |
 
-Snapshot ID: `Z4BjAAAAAABl5oWsIzybX313ajt3YRRt`
+Snapshot ID: `Z4G0gAAAAAAYoEewfQTY0OwX+7yI3AO2`

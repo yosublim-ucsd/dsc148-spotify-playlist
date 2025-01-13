@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 92365,
+  "num_followers": 92338,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
-      },
-      "artists": [
-        {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 166853,
       "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+      },
+      "artists": [
+        {
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -591,26 +611,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Canterbury Cathedral Girls' Choir",
-          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Rest in Peace",
-      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
-      },
-      "artists": [
-        {
-          "name": "Luca Francis",
-          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 174066,
       "name": "A Song For Christmas",
       "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
+      },
+      "artists": [
+        {
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "\u30db\u30bb\u30fb\u30b8\u30a7\u30a4\u30e0\u30ba\u306e\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30bf\u30a4\u30e0",
         "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177160,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -891,42 +891,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Let It Swing: A Jazz Christmas With Verve",
-        "url": "https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
-        "name": "Jazz Christmas",
-        "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        },
-        {
-          "name": "John Di Martino",
-          "url": "https://open.spotify.com/artist/3IMLMHXZmOkvt8TEYvspCK"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/0V8QwRbttYen0nSQ3YrbmD"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "Love to Keep Me Warm",
         "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
       },
@@ -943,6 +907,22 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "Let It Swing: A Jazz Christmas With Verve",
+        "url": "https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -975,6 +955,22 @@
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters",
+        "url": "https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/13OvBxKYOl8Gy1hanZkqPQ"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! Change up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,350 likes - 54 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,389 likes - 54 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

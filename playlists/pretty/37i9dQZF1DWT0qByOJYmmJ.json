@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 638318,
+  "num_followers": 638278,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -251,22 +235,6 @@
       "duration_ms": 234080,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "ARRANC\u00c1RMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "ARRANC\u00c1RMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -287,6 +255,38 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "ARRANC\u00c1RMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "ARRANC\u00c1RMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Dime T\u00fa",
         "url": "https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 220000,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 214148,
+      "name": "Est\u00e1 Da\u00f1ada",
+      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -339,18 +355,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+        "name": "H\u00e1blame de T\u00fa",
+        "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 214148,
-      "name": "Est\u00e1 Da\u00f1ada",
-      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+      "duration_ms": 238480,
+      "name": "Combusti\u00f3n",
+      "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -371,34 +387,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "H\u00e1blame de T\u00fa",
-        "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
+        "name": "Ropa De Bazar",
+        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Combusti\u00f3n",
-      "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 157673,
-      "name": "TRELLAS",
-      "url": "https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS"
+      "duration_ms": 197906,
+      "name": "Ropa De Bazar",
+      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -419,22 +423,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Ropa De Bazar",
-        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 197906,
-      "name": "Ropa De Bazar",
-      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+      "duration_ms": 157673,
+      "name": "TRELLAS",
+      "url": "https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Terraformar",
+        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 140929,
+      "name": "Terraformar",
+      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Transiciones",
         "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 251433,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Terraformar",
-        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 140929,
-      "name": "Terraformar",
-      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Vino Tinto",
+      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "Vino Tinto",
-      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Qui\u00e9n Dice",
         "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 221075,
       "name": "C\u00d3MO RESPIRAR???",
       "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Nunca Sabr\u00e1s",
-        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216017,
-      "name": "Nunca Sabr\u00e1s",
-      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Ya Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Nunca Sabr\u00e1s",
+        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216017,
+      "name": "Nunca Sabr\u00e1s",
+      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1363,18 +1363,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Te Lo Debo Contar",
-        "url": "https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q"
+        "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
+        "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
       "artists": [
         {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        },
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 236301,
-      "name": "Te Lo Debo Contar",
-      "url": "https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M"
+      "duration_ms": 185841,
+      "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
+      "url": "https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

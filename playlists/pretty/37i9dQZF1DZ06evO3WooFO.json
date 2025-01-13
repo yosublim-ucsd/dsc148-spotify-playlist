@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 596130,
+  "num_followers": 596204,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAABWh/4X98y2X2l/8xx2Y83G",
+  "snapshot_id": "Z4G0gAAAAABjoioZKPTvO3MYluDU8JBM",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Not Now",
-      "url": "https://open.spotify.com/track/28yCMEplHbodvR19Aipah8"
+      "duration_ms": 260153,
+      "name": "Pretty Little Girl",
+      "url": "https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 260153,
-      "name": "Pretty Little Girl",
-      "url": "https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y"
+      "duration_ms": 263573,
+      "name": "Not Now",
+      "url": "https://open.spotify.com/track/28yCMEplHbodvR19Aipah8"
     },
     {
       "added_at": null,

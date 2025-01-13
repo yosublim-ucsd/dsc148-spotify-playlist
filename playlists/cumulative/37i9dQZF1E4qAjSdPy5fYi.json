@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With Joshua Lanuarii, glitterpop!, salv the dog and more",
+  "description": "With glitterpop!, Joshua Lanuarii, little purr man and more",
   "name": "Kittydog Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/18IiJChC01Sa8fwXvTnsKC"
+      },
+      "artists": [
+        {
+          "name": "glitterpop!",
+          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
+    },
     {
       "album": {
         "name": "NO NICE THINGS",
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -242,7 +260,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 84012,
       "name": "BEES IN MY HEAD (adhd)",
       "url": "https://open.spotify.com/track/3tfCCnSLYlVVcjVbdYerf3"
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 117408,
       "name": "freeze up",
       "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 138000,
       "name": "KNOT SONG",
       "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 118299,
       "name": "TBH",
       "url": "https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 274186,
       "name": "WAG UR TAIL 2 THIS! (PAWS UP ON THE DANCEFLOOR!)",
       "url": "https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0"

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 207040,
+  "num_followers": 207045,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda",
-        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -283,22 +267,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Para Que Seas Feliz",
-        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 182513,
-      "name": "Para Que Seas Feliz",
-      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -359,6 +327,38 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Para Que Seas Feliz",
+        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 182513,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw"
       },
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "100 A\u00f1os",
-        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185074,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -439,18 +419,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
+        "name": "100 A\u00f1os",
+        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 185460,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
+      "duration_ms": 185074,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -467,6 +451,22 @@
       "duration_ms": 145960,
       "name": "No Me S\u00e9 Rajar",
       "url": "https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 185460,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Nuestro Camino",
         "url": "https://open.spotify.com/album/4mDn0pCJ5eepwk8zJ218ov"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203840,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -599,6 +583,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "\u00bfSer\u00e1 Prudente?",
         "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 226906,
       "name": "\u00bfSer\u00e1 Prudente?",
       "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "No Es Que Me Quiera Ir",
+        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "No Es Que Me Quiera Ir",
+      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -659,22 +675,6 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "No Es Que Me Quiera Ir",
-        "url": "https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "No Es Que Me Quiera Ir",
-      "url": "https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Que Llueva Tequila",
         "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Inexperto En Olvidarte",
         "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 185213,
       "name": "Inexperto En Olvidarte",
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -851,26 +867,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "La Jugada",
-        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "En Este Amor",
         "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
       },
@@ -887,18 +883,38 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+        "name": "Hasta Que Me Duermo",
+        "url": "https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+      "duration_ms": 194389,
+      "name": "Hasta Que Me Duermo",
+      "url": "https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -935,22 +951,6 @@
       "duration_ms": 185118,
       "name": "Cuando Un Amor Se Va",
       "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Hasta Que Me Duermo",
-        "url": "https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 194389,
-      "name": "Hasta Que Me Duermo",
-      "url": "https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 169440,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Casi Algo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
-      },
-      "artists": [
-        {
-          "name": "Uriel Barrera",
-          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "Casi Algo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 186640,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Casi Algo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
+      },
+      "artists": [
+        {
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+        }
+      ],
+      "duration_ms": 132986,
+      "name": "Casi Algo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1247,86 +1247,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Que Llueva Tequila",
-        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Hojas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -1347,6 +1267,86 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Que Llueva Tequila",
+        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Hojas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "El Pobre",
         "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 185406,
       "name": "El Pobre",
       "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Lo que no fue no ser\u00e1",
+        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Lo que no fue no ser\u00e1",
+      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Lo que no fue no ser\u00e1",
-        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
       "artists": [
         {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Lo que no fue no ser\u00e1",
-      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Me Vale Madre",
         "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
       },
@@ -1631,6 +1647,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1651,38 +1683,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Diabla",
-        "url": "https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Dime Qu\u00e9 Se Siente",
         "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
       },
@@ -1695,42 +1695,6 @@
       "duration_ms": 161373,
       "name": "Dime Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Morena",
-          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "No Te Me Dobles Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4UmFyxWqwWpozJkhcNFc0R"
-      },
-      "artists": [
-        {
-          "name": "Me\u00f1o Segovia",
-          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
-        },
-        {
-          "name": "Mariachi Los Galleros De Danny Rey",
-          "url": "https://open.spotify.com/artist/4rzEVBVdNGYvfekg3QbysF"
-        }
-      ],
-      "duration_ms": 216937,
-      "name": "No Te Me Dobles Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7hbOsAEUy4MszpW5mBP27Y"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1751,6 +1715,38 @@
       "duration_ms": 173613,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Morena",
+          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     }
   ],
   "unique_name": "Mariachi 2025",

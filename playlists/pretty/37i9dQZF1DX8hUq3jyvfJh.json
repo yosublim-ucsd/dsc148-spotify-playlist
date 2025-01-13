@@ -1,6 +1,6 @@
 {
   "description": "Escute no volume m\u00e1ximo as mulheres que marcaram a m\u00fasica em 2024!  Foto: Ana Castela",
-  "num_followers": 188246,
+  "num_followers": 188300,
   "original_name": "O Melhor de EQUAL Brasil 2024",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Dois Tristes - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -223,34 +239,30 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Dois Tristes - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Transcende (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw"
-      },
-      "artists": [
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 156710,
-      "name": "Depois - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p"
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -287,62 +299,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Set da Menorzinha 1.0",
-        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+        "name": "Transcende (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw"
       },
       "artists": [
         {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 324986,
-      "name": "Set da Menorzinha 1.0",
-      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Eu, Yasmin Santos - Vol 02 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1eXX7zFkpjldlRL6FiWpwL"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 143125,
-      "name": "Amor Com Raiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/3m1lLoBjQYJdsL8Km0yxE6"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 166337,
-      "name": "Pique Djavan - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
+      "duration_ms": 156710,
+      "name": "Depois - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -367,6 +335,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Eu, Yasmin Santos - Vol 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eXX7zFkpjldlRL6FiWpwL"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 143125,
+      "name": "Amor Com Raiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/3m1lLoBjQYJdsL8Km0yxE6"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "24hrs",
         "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 140727,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "A Ot\u00e1ria",
         "url": "https://open.spotify.com/album/2rYIzuNh3IQbf8xQBmuZAr"
       },
@@ -531,38 +547,6 @@
       "duration_ms": 171082,
       "name": "A Ot\u00e1ria",
       "url": "https://open.spotify.com/track/3JzBmsPw4ekdtU6Z7W2Ctt"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Cacau",
-      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -603,6 +587,22 @@
       "duration_ms": 104470,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Nuvem de Testemunhas - Spotify Singles",
+        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 93377,
+      "name": "Nuvem de Testemunhas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 156330,
       "name": "CHATA",
       "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Nuvem de Testemunhas - Spotify Singles",
-        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 93377,
-      "name": "Nuvem de Testemunhas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
     },
     {
       "added_at": "2024-12-04 12:15:00",

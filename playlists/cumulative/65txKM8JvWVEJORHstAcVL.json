@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (05/01/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (12/01/2025)",
   "tracks": [
     {
       "album": {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -554,6 +554,28 @@
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
+        "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+        "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130880,
+      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+      "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
     },
     {
       "album": {
@@ -908,6 +930,24 @@
       "duration_ms": 183022,
       "name": "Hands On Me (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD"
+    },
+    {
+      "album": {
+        "name": "HEM VINGUT A JUGAR",
+        "url": "https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151450,
+      "name": "HEM VINGUT A JUGAR",
+      "url": "https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs"
     },
     {
       "album": {
@@ -1430,7 +1470,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 159705,
       "name": "Menys mal que ja \u00e9s Nadal",
       "url": "https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv"

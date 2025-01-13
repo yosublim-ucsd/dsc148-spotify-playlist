@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Soleima",
-  "num_followers": 45634,
+  "num_followers": 45638,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -163,38 +163,6 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "Danser Med Piger",
-        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
-      },
-      "artists": [
-        {
-          "name": "Danser Med Piger",
-          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "Danser Med Piger",
-      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
         "name": "Kan Du M\u00e6rke Suset?",
         "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
       },
@@ -207,6 +175,22 @@
       "duration_ms": 240917,
       "name": "Klip Klap Sandaler",
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -239,6 +223,22 @@
       "duration_ms": 164696,
       "name": "hva s\u00e5?",
       "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Danser Med Piger",
+        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
+      },
+      "artists": [
+        {
+          "name": "Danser Med Piger",
+          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "Danser Med Piger",
+      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -283,6 +283,38 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
         "name": "Halsk\u00e6de",
         "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
       },
@@ -299,18 +331,34 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
       "artists": [
         {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Det husker jeg",
+        "url": "https://open.spotify.com/album/4FovaogPU1BcjNZYDSd28O"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 200882,
+      "name": "Det husker jeg",
+      "url": "https://open.spotify.com/track/6cikjpj9o546fDpXI8nuhX"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -335,24 +383,24 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Det husker jeg",
-        "url": "https://open.spotify.com/album/4FovaogPU1BcjNZYDSd28O"
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
       "artists": [
         {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
         }
       ],
-      "duration_ms": 200882,
-      "name": "Det husker jeg",
-      "url": "https://open.spotify.com/track/6cikjpj9o546fDpXI8nuhX"
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
@@ -360,25 +408,9 @@
           "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -395,22 +427,6 @@
       "duration_ms": 338436,
       "name": "Dem, Vi Plejede At V\u00e6re",
       "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -443,22 +459,6 @@
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
         "name": "I Know All The Words But I Can't Say Goodbye",
         "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 175357,
       "name": "Oktobernat",
       "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Det er din k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 227698,
-      "name": "Det er din k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Det er din k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 227698,
+      "name": "Det er din k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
+        "name": "Gi' Mig Lige",
+        "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 161608,
+      "name": "Gi' Mig Lige",
+      "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
         "name": "V\u00e5gen igen",
         "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Gi' Mig Lige",
-        "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
+        "name": "Ung & Smuk",
+        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
       },
       "artists": [
         {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 161608,
-      "name": "Gi' Mig Lige",
-      "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+      "duration_ms": 160974,
+      "name": "Ung & Smuk",
+      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -727,18 +743,18 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
       },
       "artists": [
         {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
         }
       ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -755,22 +771,6 @@
       "duration_ms": 128115,
       "name": "Frav\u00e6r",
       "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -847,38 +847,6 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "K\u00e6rligheden Vinder",
-        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 212589,
-      "name": "K\u00e6rligheden Vinder",
-      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -911,34 +879,18 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Liber",
-        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
+        "name": "K\u00e6rligheden Vinder",
+        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 220125,
-      "name": "En Fremmed",
-      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "Maler",
-        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "Maler",
-      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
+      "duration_ms": 212589,
+      "name": "K\u00e6rligheden Vinder",
+      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -955,6 +907,70 @@
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Smilet kommer nemt",
+        "url": "https://open.spotify.com/album/5HcOxZ8hnlLZ8OhWOEi8D4"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 162981,
+      "name": "Smilet kommer nemt",
+      "url": "https://open.spotify.com/track/23IPxqC6fLmkLBFUWb16mK"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Liber",
+        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "En Fremmed",
+      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Maler",
+        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "Maler",
+      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -987,6 +1003,22 @@
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -1027,18 +1059,18 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+        "name": "Pussy",
+        "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
         }
       ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
+      "duration_ms": 175183,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -1055,6 +1087,22 @@
       "duration_ms": 141653,
       "name": "Bl\u00f8d",
       "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
+    },
+    {
+      "added_at": "2025-01-09 23:00:20",
+      "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2025-01-09 23:00:20",
@@ -1079,22 +1127,6 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
         "name": "L\u00c6ST (feat. Marcus.wav)",
         "url": "https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg"
       },
@@ -1115,38 +1147,6 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2025-01-09 23:00:20",
-      "album": {
         "name": "G\u00e5r Bare",
         "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
       },
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2025-01-09 23:00:20",
       "album": {
-        "name": "Sunshine In Atalaya",
-        "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
       },
       "artists": [
         {
-          "name": "Visti's Vinyl Collective",
-          "url": "https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl"
-        },
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
         }
       ],
-      "duration_ms": 262071,
-      "name": "Sunshine In Atalaya",
-      "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
     }
   ],
   "unique_name": "ung kniv ",

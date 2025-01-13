@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 122126,
+  "num_followers": 122154,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+      "duration_ms": 238070,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -275,22 +291,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 238070,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -395,22 +411,6 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "playing tricks",
         "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 184257,
       "name": "playing tricks",
       "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -579,18 +579,22 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
+        "name": "Good Morning Gorgeous (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
       "artists": [
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 173160,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
+      "duration_ms": 174636,
+      "name": "Good Morning Gorgeous (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -651,6 +655,22 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/4v6PwNn8gjrsax1wOlqSNa"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 164018,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
         "name": "Before We Get Started (feat. Fabolous)",
         "url": "https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 175793,
       "name": "Before We Get Started (feat. Fabolous)",
       "url": "https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
-        "name": "QUEEN",
-        "url": "https://open.spotify.com/album/4v6PwNn8gjrsax1wOlqSNa"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 164018,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -767,22 +771,18 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Good Morning Gorgeous (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
       },
       "artists": [
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 174636,
-      "name": "Good Morning Gorgeous (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+      "duration_ms": 173160,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "beat of a slow dance",
         "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2025-01-10 03:01:04",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-01-10 03:01:04",
       "album": {
-        "name": "Eventually Pt. 1",
-        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
-      },
-      "artists": [
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "ILM",
-      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2025-01-10 03:01:04",
-      "album": {
         "name": "Chocolate Covered Strawberries",
         "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2025-01-10 03:01:04",
+      "album": {
+        "name": "Eventually Pt. 1",
+        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
+      },
+      "artists": [
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "ILM",
+      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
     },
     {
       "added_at": "2025-01-10 03:01:04",

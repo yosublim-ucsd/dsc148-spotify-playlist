@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 189327,
+  "num_followers": 189366,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAAqbYOErQvRFd7x8No8Hxtk",
+  "snapshot_id": "Z4G0gAAAAACCZ+RgHCB+xYhqMu7+vGFw",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 158592,
-      "name": "Burndt Jamb",
-      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+      "duration_ms": 158592,
+      "name": "Burndt Jamb",
+      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
     },
     {
       "added_at": null,

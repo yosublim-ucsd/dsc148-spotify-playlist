@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,452 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,455 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 |
 | 50 | [Frosted Flakes](https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 4:18 |
 
-Snapshot ID: `Z4BjAAAAAACnG7JUpGsIm8aiSmzhBS53`
+Snapshot ID: `Z4G0gAAAAAAWwvA22HPXK8L6Y7NhNG2r`

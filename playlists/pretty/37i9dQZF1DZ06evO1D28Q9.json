@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACEMm03M/c/D4NsyYjwRTN3",
+  "snapshot_id": "Z4G0gAAAAADCyX50xUO9lXNWyE5G4VM2",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 223146,
       "name": "Rio Nilo",
       "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 386440,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
     },
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 172676,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elza",
         "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
       },
@@ -559,22 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt"
+        "name": "Voando Baixo",
+        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
       },
       "artists": [
         {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
         },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 172676,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr"
+      "duration_ms": 280037,
+      "name": "Nossa Lei",
+      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
     },
     {
       "added_at": null,
@@ -619,30 +643,6 @@
       "duration_ms": 458496,
       "name": "Origens",
       "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voando Baixo",
-        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 280037,
-      "name": "Nossa Lei",
-      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pelos Meus Amores",
+        "url": "https://open.spotify.com/album/21uSO7noCQLAjtpMSv2FeF"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 227377,
+      "name": "Pelos Meus Amores",
+      "url": "https://open.spotify.com/track/7fUfXX7Sop4KDPEZiUAMsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelos Meus Amores",
-        "url": "https://open.spotify.com/album/21uSO7noCQLAjtpMSv2FeF"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 227377,
-      "name": "Pelos Meus Amores",
-      "url": "https://open.spotify.com/track/7fUfXX7Sop4KDPEZiUAMsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Atividade (feat. IZA)",
         "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
       },
@@ -783,6 +783,26 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Parte",
+        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 228165,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
     },
     {
       "added_at": null,
@@ -851,50 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Parte",
-        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 228165,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
-        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Indee",
-          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Ladies In tha House",
-      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Rima N\u00e3o Para",
         "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
       },
@@ -923,50 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rimas & Melodias",
-        "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
-      },
-      "artists": [
-        {
-          "name": "Rimas e Melodias",
-          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Mayra Maldjian",
-          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        }
-      ],
-      "duration_ms": 226304,
-      "name": "Viv\u00eancia",
-      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chato",
         "url": "https://open.spotify.com/album/1x6B5bqEHFsuQpbmVX5mEf"
       },
@@ -979,6 +911,30 @@
       "duration_ms": 187634,
       "name": "Chato",
       "url": "https://open.spotify.com/track/0ZOE62MG5rUfwBHvooAaN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
+        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Indee",
+          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Ladies In tha House",
+      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
     },
     {
       "added_at": null,
@@ -1023,6 +979,50 @@
       "duration_ms": 310105,
       "name": "Coroa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3Ki2TWueyb1AsyK7Rfv5Kw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rimas & Melodias",
+        "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
+      },
+      "artists": [
+        {
+          "name": "Rimas e Melodias",
+          "url": "https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Mayra Maldjian",
+          "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
+        }
+      ],
+      "duration_ms": 226304,
+      "name": "Viv\u00eancia",
+      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
     },
     {
       "added_at": null,

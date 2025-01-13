@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 128146,
+  "num_followers": 128170,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 198642,
       "name": "Lugar ideal",
       "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Llegas t\u00fa",
-        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 160452,
-      "name": "Llegas t\u00fa",
-      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Llegas t\u00fa",
+        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Llegas t\u00fa",
+      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 312368,
-      "name": "Algo tiene que estar mal",
-      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "Me voy",
         "url": "https://open.spotify.com/album/1SQKTvy2M37KXdfBefhfk7"
       },
@@ -1031,26 +1015,6 @@
       "duration_ms": 147349,
       "name": "Me voy",
       "url": "https://open.spotify.com/track/4udLPtfyNaz95Wo5sPRl6z"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
-        "name": "Artean",
-        "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "IDOIA",
-          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
-        }
-      ],
-      "duration_ms": 197408,
-      "name": "Ahizpa / Germana",
-      "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1071,6 +1035,42 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 312368,
+      "name": "Algo tiene que estar mal",
+      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Artean",
+        "url": "https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "IDOIA",
+          "url": "https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC"
+        }
+      ],
+      "duration_ms": 197408,
+      "name": "Ahizpa / Germana",
+      "url": "https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Neurean / La Meva Llengua",
-        "url": "https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj"
+        "name": "Bruja",
+        "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+          "name": "Nito Serrano y Lapurasangre",
+          "url": "https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny"
         },
         {
-          "name": "IZARO",
-          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         }
       ],
-      "duration_ms": 200935,
-      "name": "Neurean / La Meva Llengua",
-      "url": "https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U"
+      "duration_ms": 273663,
+      "name": "Bruja",
+      "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1235,6 +1235,26 @@
       "duration_ms": 196670,
       "name": "Pan de muertos",
       "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Neurean / La Meva Llengua",
+        "url": "https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        }
+      ],
+      "duration_ms": 200935,
+      "name": "Neurean / La Meva Llengua",
+      "url": "https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "A volar (feat. Lido Pimienta)",
-        "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "A volar (feat. Lido Pimienta)",
-      "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "No quiero olvidar",
         "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
       },
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Bruja",
-        "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
+        "name": "A volar (feat. Lido Pimienta)",
+        "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
       "artists": [
         {
-          "name": "Nito Serrano y Lapurasangre",
-          "url": "https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         },
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 273663,
-      "name": "Bruja",
-      "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+      "duration_ms": 217253,
+      "name": "A volar (feat. Lido Pimienta)",
+      "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Ma\u00f1ana es tarde",
-        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
-      },
-      "artists": [
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "Ma\u00f1ana es tarde",
-      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Ma\u00f1ana es tarde",
+        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
+      },
+      "artists": [
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "Ma\u00f1ana es tarde",
+      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
+        "name": "Herba de Namorar",
+        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 179324,
+      "name": "Herba de Namorar",
+      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2025-01-10 06:00:09",
       "album": {
-        "name": "Herba de Namorar",
-        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 179324,
-      "name": "Herba de Namorar",
-      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2025-01-10 06:00:09",
-      "album": {
-        "name": "Que te parta un rayo",
-        "url": "https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu"
-      },
-      "artists": [
-        {
-          "name": "Pauline En La Playa",
-          "url": "https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe"
-        }
-      ],
-      "duration_ms": 254847,
-      "name": "Que te parta un rayo",
-      "url": "https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT"
     },
     {
       "added_at": "2025-01-10 06:00:09",
@@ -1891,6 +1875,22 @@
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
+    },
+    {
+      "added_at": "2025-01-10 06:00:09",
+      "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     }
   ],
   "unique_name": "Cancionistas",

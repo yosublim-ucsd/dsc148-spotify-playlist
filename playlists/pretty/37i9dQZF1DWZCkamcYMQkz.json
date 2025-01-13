@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 248870,
+  "num_followers": 249228,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Gone For The Day",
         "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
       },
@@ -163,18 +179,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+      "duration_ms": 152531,
+      "name": "Back in Your Own Back Yard",
+      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -207,26 +227,6 @@
       "duration_ms": 156493,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "Back in Your Own Back Yard",
-      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 133213,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Cheek To Cheek: The Complete Duet Recordings",
+        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Oops!",
+      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "You Stepped Out Of A Dream",
         "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
         "name": "Oscar Peterson Plays The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 183693,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -883,22 +899,6 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Bing With A Beat",
         "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Harry James & Harry James' Orchestra",
+          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
+      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 116320,
       "name": "Jazz (Ain't Nothin' But Soul)",
       "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Harry James & Harry James' Orchestra",
-          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
-      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Central Park Swing",
-      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
         "name": "Impressions of Evans",
         "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Central Park Swing",
+      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 219160,
       "name": "I've Told Ev'ry Little Star",
       "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "Far Away Lands",
-        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 312626,
-      "name": "A Dab Of This And That",
-      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+        "name": "Far Away Lands",
+        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+      "duration_ms": 312626,
+      "name": "A Dab Of This And That",
+      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1507,6 +1491,22 @@
       "duration_ms": 252316,
       "name": "He's My Guy",
       "url": "https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2025-01-10 09:50:20",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-01-10 09:50:20",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "I'm Putting All My Eggs In One Basket",
+      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
+    },
+    {
+      "added_at": "2025-01-10 09:50:20",
+      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 497973,
       "name": "Sleepin' Bee - Live",
       "url": "https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t"
-    },
-    {
-      "added_at": "2025-01-10 09:50:20",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "I'm Putting All My Eggs In One Basket",
-      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
     },
     {
       "added_at": "2025-01-10 09:50:20",

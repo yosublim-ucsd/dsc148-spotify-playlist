@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-416 songs - 23 hr 6 min
+418 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 | 2024-07-12 |
 | [Breaking](https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Breaking](https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm) | 3:24 | 2024-06-17 | 2024-07-12 |
 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 | 2024-05-22 | 2024-07-12 |
+| [Brinna ut](https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Brinna ut](https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv) | 3:21 | 2025-01-12 |  |
 | [Burning Bridges](https://open.spotify.com/track/6iETKJUWLiv6zS1GgBVRTe) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Foolish Narratives](https://open.spotify.com/album/3U8gnCYmIbi3jioRzZjC0B) | 1:58 | 2024-05-28 | 2024-07-12 |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 | 2024-05-16 |
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
@@ -92,6 +93,7 @@
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 | 2024-03-10 |
 | [Dribble Dribble](https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP) | [Amy O](https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb) | [Dribble Dribble](https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v) | 3:16 | 2024-03-28 | 2024-05-16 |
 | [Drive My Car \(Misaki\)](https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:27 | 2024-03-09 | 2024-05-16 |
+| [Du Aldrig Märker](https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Vol\. 2](https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C) | 2:53 | 2025-01-12 |  |
 | [Duck](https://open.spotify.com/track/4PyujFUInGsWYX3t5XDjZM) | [Bill Wells](https://open.spotify.com/artist/1symcfB0KMf0vEg2nE1pHZ), [Maher Shalal Hash Baz](https://open.spotify.com/artist/0sc4qz42as3DlXXqQcU5Qk) | [Osaka Bridge](https://open.spotify.com/album/79mqjyfKRhFr08g30VAJzG) | 1:04 | 2024-04-27 | 2024-05-16 |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2024-01-05 | 2024-03-10 |
 | [Dust beam](https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 2:06 | 2024-12-27 | 2025-01-12 |

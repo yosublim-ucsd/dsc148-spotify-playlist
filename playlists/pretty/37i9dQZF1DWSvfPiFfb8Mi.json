@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 585908,
+  "num_followers": 586094,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -243,18 +239,22 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -799,6 +799,26 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
+        "name": "Know Me",
+        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 207561,
+      "name": "Know Me",
+      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 144793,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "Know Me",
-        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 207561,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 219810,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "Stick Together",
-        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 110062,
-      "name": "Stick Together",
-      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1035,6 +1019,22 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 195944,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
-        "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -1759,22 +1735,26 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
+        "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
       },
       "artists": [
         {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+      "duration_ms": 173538,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1795,6 +1775,26 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -1907,18 +1923,22 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -1943,26 +1963,6 @@
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
-      },
-      "artists": [
-        {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
-        }
-      ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "Always By Your Side",
-        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 337975,
-      "name": "Always By Your Side",
-      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 204210,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 337975,
+      "name": "Always By Your Side",
+      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
-        "name": "24 (Turn It Up) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 191084,
-      "name": "24 (Turn It Up) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
         "name": "A Chance / Ask Yourself (Can You Dance)",
         "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
       },
@@ -2331,22 +2311,6 @@
       "duration_ms": 216794,
       "name": "Ask Yourself (Can You Dance)",
       "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "No More Stress",
-        "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
-      },
-      "artists": [
-        {
-          "name": "NOCUI",
-          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
-        }
-      ],
-      "duration_ms": 209127,
-      "name": "No More Stress",
-      "url": "https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -2391,6 +2355,22 @@
     {
       "added_at": "2025-01-10 05:00:37",
       "album": {
+        "name": "No More Stress",
+        "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
+      },
+      "artists": [
+        {
+          "name": "NOCUI",
+          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
+        }
+      ],
+      "duration_ms": 209127,
+      "name": "No More Stress",
+      "url": "https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -2403,6 +2383,22 @@
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Ol\u00e9 Maca",
+        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 279036,
+      "name": "Letras",
+      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
     }
   ],
   "unique_name": "Poolside Disco",

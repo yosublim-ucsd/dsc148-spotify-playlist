@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 107156,
+  "num_followers": 107177,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 594453,
       "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Emergency EP",
-        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 169617,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 246400,
       "name": "International Love",
       "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Ticket To Ride",
+        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Ticket To Ride",
+      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Big Talk",
         "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ticket To Ride",
-        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Ticket To Ride",
-      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "She Don't Dance",
-        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
-      },
-      "artists": [
-        {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "She Don't Dance",
-      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 246626,
       "name": "Morrow",
       "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "She Don't Dance",
+        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 226610,
+      "name": "She Don't Dance",
+      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
     },
     {
       "added_at": "2022-11-02 14:00:00",

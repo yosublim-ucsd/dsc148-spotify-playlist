@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Melis Yelman
 
-177 songs - 8 hr 40 min
+178 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Enfus](https://open.spotify.com/track/3ce5WNaKnWb7IB3LJnZlU9) | [Elif Kaya](https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r) | [Enfus](https://open.spotify.com/album/2VnweK6Od0fDlJFAnqIRbO) | 3:50 | 2024-10-03 | 2024-10-22 |
 | [Eskisi Gibi](https://open.spotify.com/track/3xm7mzzbsNOAbyeOWYepAT) | [GOSS](https://open.spotify.com/artist/4Jg1d2IdzvSjuOzbIRMu2f) | [Eskisi Gibi](https://open.spotify.com/album/3W2dxJBBFjZ5RB7LWnCyqg) | 3:36 | 2024-06-20 | 2024-07-10 |
 | [gece gündüz](https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [gece gündüz](https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx) | 2:28 | 2024-08-01 |  |
-| [Gel De Son Bulsun](https://open.spotify.com/track/6OfyYDx6Cmo4bAFfH8IKf6) | [Tüzzün](https://open.spotify.com/artist/7ve77oFIK818JCrq350coD) | [Gel De Son Bulsun](https://open.spotify.com/album/43EaEukYj03g6xacjZLIeR) | 2:11 | 2024-11-14 |  |
+| [Gel De Son Bulsun](https://open.spotify.com/track/6OfyYDx6Cmo4bAFfH8IKf6) | [Tüzzün](https://open.spotify.com/artist/7ve77oFIK818JCrq350coD) | [Gel De Son Bulsun](https://open.spotify.com/album/43EaEukYj03g6xacjZLIeR) | 2:11 | 2024-11-14 | 2025-01-13 |
 | [Geri Dön](https://open.spotify.com/track/51RNqadonzyl4efQSMKaaG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Geri Dön](https://open.spotify.com/album/4BQGAzfwDbrVW4O54xKhhG) | 2:44 | 2024-09-05 |  |
 | [Gitme](https://open.spotify.com/track/2XPoqEh2BVlVPyFbUKxHFX) | [Milat](https://open.spotify.com/artist/5BJ04QfXObFjFkvZCn6T9v) | [Gitme](https://open.spotify.com/album/7fOyzC83TBSOGpTHU61R5J) | 2:53 | 2024-09-05 | 2024-09-11 |
 | [Gitmem Gerek](https://open.spotify.com/track/1zEw0uSFAI80ayq89nwTA4) | [ARAS İdol](https://open.spotify.com/artist/4S55arVgMLWyaabu95NKIx) | [Gitmem Gerek](https://open.spotify.com/album/1GlwklstEmxnpyObVnKngZ) | 3:28 | 2024-09-05 | 2024-09-20 |
@@ -83,6 +83,7 @@
 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 | 2024-09-05 | 2024-09-28 |
 | [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 | 2024-06-20 |  |
 | [Hayal Etmek Güzel \- Surf Arabesk 1.3](https://open.spotify.com/track/2ETGa2vlZx4UBySs8S9qum) | [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hayal Etmek Güzel \(Surf Arabesk 1.3\)](https://open.spotify.com/album/1XxwfbQ5Km783RjWnm72HL) | 4:29 | 2024-06-20 |  |
+| [Hayran](https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hayran](https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk) | 2:12 | 2025-01-09 |  |
 | [Her Şey Ters Gidiyor](https://open.spotify.com/track/53es3MIKs7IAVvZ9Ok78gV) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Her Şey Ters Gidiyor](https://open.spotify.com/album/5wu1jC1x4UdsYc06pBOOG5) | 2:14 | 2024-11-14 |  |
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-12-01 |
 | [İSTER MİYİM](https://open.spotify.com/track/56vARurB1wKqEtBgyt8PCx) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [İSTER MİYİM](https://open.spotify.com/album/0ilySrs4AofRXkf2wmWCsF) | 2:01 | 2024-06-20 | 2024-09-06 |

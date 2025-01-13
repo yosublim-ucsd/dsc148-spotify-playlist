@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 320664,
+  "num_followers": 320746,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAD4QuNO4OSVYJh3FIMHz2hd",
+  "snapshot_id": "Z4G0gAAAAADFEiP/MFZ6waMuxO12vZTX",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Suena La Banda",
-      "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 222653,
       "name": "Secuestro De Amor (En Vivo)",
       "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Suena La Banda",
+      "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time Season Two \"Los Implacables\"",
-        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Panchito El F1",
-      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 191750,
       "name": "Ram\u00f3n Arellano (En Vivo)",
       "url": "https://open.spotify.com/track/3ZxamLUsj6GavMF6OZ54kn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Time Season Two \"Los Implacables\"",
+        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Panchito El F1",
+      "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "El Doctor Del Pueblo",
-      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 216256,
       "name": "Me Gusta Vivir De Noche (En Vivo)",
       "url": "https://open.spotify.com/track/2tJGoNNJZ6Vi0wBwiFUPSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "El Doctor Del Pueblo",
+      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
     },
     {
       "added_at": null,

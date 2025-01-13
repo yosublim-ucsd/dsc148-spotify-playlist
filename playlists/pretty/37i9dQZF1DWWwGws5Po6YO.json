@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
-  "num_followers": 47270,
+  "num_followers": 47329,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Continuum 1",
         "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -495,22 +511,6 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 285866,
       "name": "Being Her Shadow",
       "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
+        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
+        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+      },
+      "artists": [
+        {
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Cross-Contamination",
+      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
         "name": "Selected Works II",
         "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
-        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+        "name": "Sky Flesh",
+        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
       },
       "artists": [
         {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
         }
       ],
-      "duration_ms": 236286,
-      "name": "Cross-Contamination",
-      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
+      "duration_ms": 300000,
+      "name": "Harmonices Infinity",
+      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Sky Flesh",
-        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
-      },
-      "artists": [
-        {
-          "name": "Marta De Pascalis",
-          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Harmonices Infinity",
-      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Circular",
         "url": "https://open.spotify.com/album/5PijKfbcBsz8Pmuj5hjdXW"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 184986,
       "name": "Circular",
       "url": "https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "The Flower And The Vessel",
+        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 478488,
+      "name": "Moderato Cantabile",
+      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "The Flower And The Vessel",
-        "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 478488,
-      "name": "Moderato Cantabile",
-      "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1135,6 +1119,22 @@
       "duration_ms": 640034,
       "name": "Inspirit - Extended Version",
       "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 618138,
       "name": "Myg",
       "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
-        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
-      },
-      "artists": [
-        {
-          "name": "Hannah Lee",
-          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
-        }
-      ],
-      "duration_ms": 1792000,
-      "name": "Sino Algo Que Produce Sombras?",
-      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
+        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Lee",
+          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+        }
+      ],
+      "duration_ms": 1792000,
+      "name": "Sino Algo Que Produce Sombras?",
+      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1351,26 +1351,6 @@
       "duration_ms": 161194,
       "name": "Spell I: Let the Waves In",
       "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1415,6 +1395,26 @@
       "duration_ms": 465107,
       "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
       "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "The Light That's Left",
         "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
     },
     {
       "added_at": "2024-12-12 17:57:28",

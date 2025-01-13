@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 15351,
+  "num_followers": 15404,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Para El Bailador",
-        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+        "name": "Para El Bailador",
+        "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+      "duration_ms": 228893,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Sandy & Papo MC",
         "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
@@ -299,6 +283,70 @@
       "duration_ms": 206493,
       "name": "El Cepillo",
       "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Como Un Trueno",
+      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "El Baile del Sua Sua",
+      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -335,54 +383,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "El Baile del Sua Sua",
-      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Coleccion Cristiana",
         "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
       },
       "artists": [
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
         }
       ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+      "duration_ms": 242293,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -447,34 +447,34 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
       "artists": [
         {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
         }
       ],
-      "duration_ms": 242293,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD"
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
       "artists": [
         {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+      "duration_ms": 264160,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
       "artists": [
         {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
         }
       ],
-      "duration_ms": 264160,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Latinos",
         "url": "https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 329440,
       "name": "Latinos",
       "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Ronnie Torres",
-          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Como Olvidar - Merengue Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 246840,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ronnie Torres",
+          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Como Olvidar - Merengue Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
     },
     {
       "added_at": "2024-09-06 21:22:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-09-06 21:22:32",
       "album": {
-        "name": "No Pares de Sudar",
-        "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
-      },
-      "artists": [
-        {
-          "name": "Calle Ciega",
-          "url": "https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "S\u00f3lo Te Quiero Amar",
-      "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
-    },
-    {
-      "added_at": "2024-09-06 21:22:32",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 280360,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp"
+    },
+    {
+      "added_at": "2024-09-06 21:22:32",
+      "album": {
+        "name": "No Pares de Sudar",
+        "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
+      },
+      "artists": [
+        {
+          "name": "Calle Ciega",
+          "url": "https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "S\u00f3lo Te Quiero Amar",
+      "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
     },
     {
       "added_at": "2024-09-06 21:22:32",

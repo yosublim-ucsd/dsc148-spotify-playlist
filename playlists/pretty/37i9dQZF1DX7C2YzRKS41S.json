@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 132074,
+  "num_followers": 132144,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Mariana Nolasco Sessions 2",
-        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 138647,
-      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
-      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Mariana Nolasco Sessions 2",
+        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 138647,
+      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
+      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Eu Feat. Voc\u00ea",
         "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214249,
       "name": "Cabelo De Anjo",
       "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 172919,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249080,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 172919,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
     },
     {
       "added_at": "2024-12-03 22:02:31",
@@ -971,42 +971,6 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "Um Ver\u00e3o Qualquer",
-        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
-      },
-      "artists": [
-        {
-          "name": "Versos Que Compomos Na Estrada",
-          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
-        },
-        {
-          "name": "Eu Me Chamo Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
-        }
-      ],
-      "duration_ms": 162214,
-      "name": "Minha Voz",
-      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 202813,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
-    },
-    {
-      "added_at": "2024-12-03 22:02:31",
-      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -1023,6 +987,42 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+    },
+    {
+      "added_at": "2024-12-03 22:02:31",
+      "album": {
+        "name": "Um Ver\u00e3o Qualquer",
+        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
+      },
+      "artists": [
+        {
+          "name": "Versos Que Compomos Na Estrada",
+          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
+        },
+        {
+          "name": "Eu Me Chamo Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
+        }
+      ],
+      "duration_ms": 162214,
+      "name": "Minha Voz",
+      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

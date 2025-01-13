@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 69308,
+  "num_followers": 69398,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "ahead",
-        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "ahead",
-      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 135773,
       "name": "Trececerotres",
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "ahead",
+        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
+      },
+      "artists": [
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "ahead",
+      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 235160,
       "name": "An Ending (Ascent)",
       "url": "https://open.spotify.com/track/5vXobsCw0NvtXequNTTEM5"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
+      },
+      "artists": [
+        {
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 264369,
       "name": "Piccolo Corpo",
       "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Illogical Dance",
         "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
       },
@@ -1123,6 +1107,42 @@
       "duration_ms": 473075,
       "name": "Illogical Lullaby",
       "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "All Things Devour (Botany Remix)",
+        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
+      },
+      "artists": [
+        {
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        },
+        {
+          "name": "Botany",
+          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "All Things Devour - Botany Remix",
+      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1159,26 +1179,6 @@
       "duration_ms": 334038,
       "name": "in altar wine",
       "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "All Things Devour (Botany Remix)",
-        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
-      },
-      "artists": [
-        {
-          "name": "aeseaes",
-          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
-        },
-        {
-          "name": "Botany",
-          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "All Things Devour - Botany Remix",
-      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "For You I Am Missing \u2026",
-      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Leave No Path Untaken",
         "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "For You I Am Missing \u2026",
+      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 264250,
       "name": "Haven't Left Home 4 4 Days",
       "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1583,6 +1567,22 @@
       "duration_ms": 260000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 196129,
       "name": "Forward",
       "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
-        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
-      },
-      "artists": [
-        {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
-        },
-        {
-          "name": "Linn Elisabet",
-          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
-      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
       },
@@ -1831,18 +1811,42 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
+        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
+        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
       "artists": [
         {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        },
+        {
+          "name": "Linn Elisabet",
+          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
         }
       ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
+      "duration_ms": 212444,
+      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
+      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+      },
+      "artists": [
+        {
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     }
   ],
   "unique_name": "ethereal voices",

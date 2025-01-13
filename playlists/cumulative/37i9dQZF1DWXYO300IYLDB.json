@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
+    },
+    {
+      "album": {
         "name": "\u604b\u611b\u5c0f\u8aac4\uff5e\u97f3\u697d\u98db\u884c",
         "url": "https://open.spotify.com/album/5OrIKp4u65lKY1MGvhzWZB"
       },
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 207333,
       "name": "Rebel Soul",
       "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"

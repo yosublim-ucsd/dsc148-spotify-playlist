@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37906,
+  "num_followers": 37905,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADsGtOuFDQXnjFwvQXA1Rdu",
+  "snapshot_id": "Z4G0gAAAAAD7puqZbZQcbDYIhJu1kQJv",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X"
       },
@@ -155,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Reino Vem",
-        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "O Reino Vem",
-      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 271360,
       "name": "A Voz (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
       },
       "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
-      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
       "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+      "duration_ms": 216533,
+      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/6gzIUmHTqjKE8RPYX9U9Ky"
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
       "artists": [
         {
-          "name": "Sendy Sena",
-          "url": "https://open.spotify.com/artist/5NHcFfrt8Pd2YJ23Xk67q7"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         }
       ],
-      "duration_ms": 232965,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1Xt0Sg8fdXGH70vQDz7AaU"
+      "duration_ms": 202875,
+      "name": "Sintonia",
+      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
     },
     {
       "added_at": null,
@@ -847,42 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/6gzIUmHTqjKE8RPYX9U9Ky"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 202875,
-      "name": "Sintonia",
-      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inexplic\u00e1vel",
-        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+          "name": "Sendy Sena",
+          "url": "https://open.spotify.com/artist/5NHcFfrt8Pd2YJ23Xk67q7"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
-      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
+      "duration_ms": 232965,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1Xt0Sg8fdXGH70vQDz7AaU"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inexplic\u00e1vel",
+        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
+      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
     },
     {
       "added_at": null,

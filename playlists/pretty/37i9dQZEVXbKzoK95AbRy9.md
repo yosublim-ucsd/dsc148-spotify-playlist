@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,251 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,334 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 50 | [Calculista](https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Coração de Ouro](https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1) | 3:06 |
 
-Snapshot ID: `LxXeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxcwIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

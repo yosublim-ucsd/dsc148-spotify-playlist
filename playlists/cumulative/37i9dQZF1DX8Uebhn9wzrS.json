@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/2sflYWG1mU0jo9qmNsvF7P"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/768BYGA6sGLudT38KqiVFe"
+    },
+    {
+      "album": {
         "name": "Lil' Magic",
         "url": "https://open.spotify.com/album/3vYB22AkKq49RIfu0WCeUH"
       },
@@ -6310,7 +6328,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 112099,
       "name": "cherry jam",
       "url": "https://open.spotify.com/track/17MZ7B7CShDawWEqaPzvpE"
@@ -12252,6 +12270,28 @@
       "duration_ms": 92530,
       "name": "Fireworks - New Beginnings",
       "url": "https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2"
+    },
+    {
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/0mzeaP4PQdP3OnZoU3I4ij"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/5SbTEGnEGlhLm1g8wOjztv"
     },
     {
       "album": {
@@ -23048,7 +23088,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 96000,
       "name": "Modulus Operandi",
       "url": "https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D"
@@ -25206,7 +25246,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 126861,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0cZus2HSaF6TXjpIDn5MXd"
@@ -28094,6 +28134,24 @@
       "duration_ms": 186760,
       "name": "pink dawn",
       "url": "https://open.spotify.com/track/3a5drO67gyZUWtswFKvcMT"
+    },
+    {
+      "album": {
+        "name": "Pink Rose",
+        "url": "https://open.spotify.com/album/7xmp6LtmxW3JshQ9XtsL6z"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105283,
+      "name": "Pink Rose",
+      "url": "https://open.spotify.com/track/1RTXHIlCyjKF7x1de1ymJY"
     },
     {
       "album": {

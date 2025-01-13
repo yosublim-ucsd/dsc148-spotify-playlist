@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,814 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,807 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 3 | [Quedate \- Live](https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/72eyHgIDWShgeAhq5kBETD) | 3:30 |
 | 4 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 |
 | 5 | [Cupido](https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:35 |
-| 6 | [Billetes Verdes](https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes \(feat\. Lui3o5\)](https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ) | 3:14 |
-| 7 | [El Puto Amo](https://open.spotify.com/track/1WLIqSVfUhrcgguFW7fgLp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [DJ 22](https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT) | [El Puto Amo](https://open.spotify.com/album/1xMFZBrLV4pHPRg9c035ig) | 2:06 |
+| 6 | [El Puto Amo](https://open.spotify.com/track/1WLIqSVfUhrcgguFW7fgLp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [DJ 22](https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT) | [El Puto Amo](https://open.spotify.com/album/1xMFZBrLV4pHPRg9c035ig) | 2:06 |
+| 7 | [Billetes Verdes](https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes \(feat\. Lui3o5\)](https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ) | 3:14 |
 | 8 | [Soledad \(feat\. Freko & Koko\)](https://open.spotify.com/track/0P0UXb0T8dCqIBsecprmuG) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Freko](https://open.spotify.com/artist/3WZWxJh1UzDONnI7kl4tNl), [Koko](https://open.spotify.com/artist/2D1sHU8nG2WKvlMoHFwzg0) | [Soledad \(feat\. Freko & Koko\)](https://open.spotify.com/album/5QAH4iiU2w1aam9WMm1MRS) | 3:15 |
 | 9 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:36 |
 | 10 | [Ruta](https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/7cwZSJ1S17yteGVQpML2Bx) | 2:30 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 27 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 |
 | 28 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
 
-Snapshot ID: `Z4BjAAAAAAC1jxieCiqMPK16UWH1tDsv`
+Snapshot ID: `Z4G0gAAAAADWXpN8Us1RFyDCwLig98fT`

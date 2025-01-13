@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Brinna ut",
+        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Brinna ut",
+      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
+    },
+    {
+      "album": {
         "name": "Foolish Narratives",
         "url": "https://open.spotify.com/album/3U8gnCYmIbi3jioRzZjC0B"
       },
@@ -1550,6 +1568,24 @@
       "duration_ms": 147265,
       "name": "Drive My Car (Misaki)",
       "url": "https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP"
+    },
+    {
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Du Aldrig M\u00e4rker",
+      "url": "https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD"
     },
     {
       "album": {

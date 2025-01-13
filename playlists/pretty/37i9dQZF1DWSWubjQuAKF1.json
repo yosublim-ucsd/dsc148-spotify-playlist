@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Marcin Maciejczak",
-  "num_followers": 20970,
+  "num_followers": 20961,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Tak widz\u0119 nas (za 20 lat)",
+        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Tak widz\u0119 nas (za 20 lat)",
+      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "DZIEWCZYNA Z PLAKATU",
         "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Tak widz\u0119 nas (za 20 lat)",
-        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
+        "name": "Ona jest niebywa\u0142a",
+        "url": "https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC"
       },
       "artists": [
         {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Tak widz\u0119 nas (za 20 lat)",
-      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
+      "duration_ms": 121500,
+      "name": "Ona jest niebywa\u0142a",
+      "url": "https://open.spotify.com/track/3SDkCauHsCFX3cgdntWDzf"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -335,22 +351,6 @@
       "duration_ms": 124235,
       "name": "Poka\u017c Twarz (t\u0105 naprawd\u0119)",
       "url": "https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Ona jest niebywa\u0142a",
-        "url": "https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC"
-      },
-      "artists": [
-        {
-          "name": "Artur Sikorski",
-          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "Ona jest niebywa\u0142a",
-      "url": "https://open.spotify.com/track/3SDkCauHsCFX3cgdntWDzf"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Tylko Lepiej EP",
-        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
+        "name": "it's not my fault",
+        "url": "https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ"
       },
       "artists": [
         {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+          "name": "Klaudia",
+          "url": "https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o"
         }
       ],
-      "duration_ms": 147804,
-      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
-      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
+      "duration_ms": 179354,
+      "name": "it's not my fault",
+      "url": "https://open.spotify.com/track/4fNGwDst4WIJZw0a9cjCnh"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "it's not my fault",
-        "url": "https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ"
-      },
-      "artists": [
-        {
-          "name": "Klaudia",
-          "url": "https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o"
-        }
-      ],
-      "duration_ms": 179354,
-      "name": "it's not my fault",
-      "url": "https://open.spotify.com/track/4fNGwDst4WIJZw0a9cjCnh"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "It\u2019s All About The Changes",
         "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
       },
@@ -479,6 +463,38 @@
       "duration_ms": 160002,
       "name": "M&M\u2019s",
       "url": "https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "jeste\u015b g\u0142upi",
+        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 158692,
+      "name": "jeste\u015b g\u0142upi",
+      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Tylko Lepiej EP",
+        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
+      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -519,22 +535,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "jeste\u015b g\u0142upi",
-        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 158692,
-      "name": "jeste\u015b g\u0142upi",
-      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Bli\u017cej Ni\u017c Zwykle",
         "url": "https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 220000,
       "name": "Bli\u017cej Ni\u017c Zwykle",
       "url": "https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "paj\u0119cze lilie",
-        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
-      },
-      "artists": [
-        {
-          "name": "irys",
-          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
-        },
-        {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "paj\u0119cze lilie",
-      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -603,6 +583,26 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "paj\u0119cze lilie",
+        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "paj\u0119cze lilie",
+      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Na Dwoje Lampa \u015awieci\u0142a",
         "url": "https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Nagie Cia\u0142a",
-        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
-      },
-      "artists": [
-        {
-          "name": "KONRAD",
-          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Nagie Cia\u0142a",
-      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Wracam do siebie",
         "url": "https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 178947,
       "name": "Tak jak ja",
       "url": "https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Nagie Cia\u0142a",
+        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
+      },
+      "artists": [
+        {
+          "name": "KONRAD",
+          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Nagie Cia\u0142a",
+      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "kochaj na serio",
-        "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 160709,
-      "name": "kochaj na serio",
-      "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 139448,
       "name": "epicentrum",
       "url": "https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "kochaj na serio",
+        "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 160709,
+      "name": "kochaj na serio",
+      "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Gada\u0107 albo milcze\u0107",
-        "url": "https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ"
-      },
-      "artists": [
-        {
-          "name": "Wilhelm",
-          "url": "https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Gada\u0107 albo milcze\u0107",
-      "url": "https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Do rany przy\u0142\u00f3\u017c",
         "url": "https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 141428,
       "name": "dla Ciebie m\u00f3g\u0142bym zabi\u0107",
       "url": "https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Gada\u0107 albo milcze\u0107",
+        "url": "https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm",
+          "url": "https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Gada\u0107 albo milcze\u0107",
+      "url": "https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Bejbe!",
+        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Bejbe!",
+      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -979,38 +995,6 @@
       "duration_ms": 171776,
       "name": "ksi\u0119\u017cniczka type beat",
       "url": "https://open.spotify.com/track/7zJuTk0G6CYUIAK7UIgJtj"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Instalacja IV",
-        "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Dla Ciebie",
-      "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "hyperstar",
-        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "hyperstar",
-      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "z papieru",
-        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+        "name": "Instalacja IV",
+        "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
       },
       "artists": [
         {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
         }
       ],
-      "duration_ms": 142336,
-      "name": "Gadu\u0142a",
-      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+      "duration_ms": 182142,
+      "name": "Dla Ciebie",
+      "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1063,6 +1047,38 @@
       "duration_ms": 134579,
       "name": "KRYMINA\u0141",
       "url": "https://open.spotify.com/track/4CupO50phnd0GQWq7yP6qq"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "hyperstar",
+        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "hyperstar",
+      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 142336,
+      "name": "Gadu\u0142a",
+      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Bejbe!",
-        "url": "https://open.spotify.com/album/0adt1bbqThqFji1PwChQME"
-      },
-      "artists": [
-        {
-          "name": "Matt Wysota",
-          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Bejbe!",
-      "url": "https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "spok\u00f3j w ciele",
         "url": "https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "\u017bART!?",
-        "url": "https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH"
-      },
-      "artists": [
-        {
-          "name": "ROZIE",
-          "url": "https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "\u017bART!?",
-      "url": "https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "burzysz krew",
         "url": "https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 198333,
       "name": "burzysz krew",
       "url": "https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "\u017bART!?",
+        "url": "https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH"
+      },
+      "artists": [
+        {
+          "name": "ROZIE",
+          "url": "https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "\u017bART!?",
+      "url": "https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB"
     },
     {
       "added_at": "2025-01-09 23:00:19",

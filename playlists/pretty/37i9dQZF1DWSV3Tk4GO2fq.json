@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1823001,
+  "num_followers": 1823141,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 141133,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -431,22 +447,6 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 162840,
       "name": "Love Is Here To Stay - Remastered 1998",
       "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150666,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 118226,
-      "name": "C\u2019Mon Everybody",
-      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 118226,
+      "name": "C\u2019Mon Everybody",
+      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 123520,
       "name": "Wake up Little Susie",
       "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 117080,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Platters",
         "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 145133,
-      "name": "Mr. Blue",
-      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Essentials: Ruth Brown",
         "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 173733,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 145133,
+      "name": "Mr. Blue",
+      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 283200,
       "name": "Just A Gigolo - Remastered",
       "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Who Wrote The Book Of Love? [Digital Version]",
         "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 174293,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
+      "duration_ms": 126680,
+      "name": "Ready Teddy",
+      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1655,34 +1655,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "The Essential Johnny Mathis 3.0",
+        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
         }
       ],
-      "duration_ms": 126680,
-      "name": "Ready Teddy",
-      "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Shake, Rattle And Roll - Single Version",
-      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
+      "duration_ms": 181400,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essential Johnny Mathis 3.0",
-        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Chances Are - Single Version",
-      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+      "duration_ms": 174293,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Shake, Rattle And Roll - Single Version",
+      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rock 'N' Roll Legends",
-        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Rock 'N' Roll Legends",
+        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 128639,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 138640,
       "name": "He'll Have to Go",
       "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1863,6 +1847,22 @@
       "duration_ms": 116280,
       "name": "When Lights Are Low",
       "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/2KJOfVTxWkbtRMGByeEQ7V"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Your Cheatin' Heart",
-      "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Get a Job",
         "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
@@ -2035,6 +2019,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Legends Of Rock n' Roll",
         "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
       },
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Not Fade Away: The Complete Studio Recordings And More",
-        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Oh Boy! - Overdubbed Version",
-      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
         "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 157733,
       "name": "Personality",
       "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Not Fade Away: The Complete Studio Recordings And More",
+        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Oh Boy! - Overdubbed Version",
+      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2175,38 +2175,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Whole Lotta Shakin' Going On / It'll Be Me",
-        "url": "https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Whole Lot Of Shakin' Going On - Single Version",
-      "url": "https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Definitive Soul: The Drifters",
-        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "There Goes My Baby - Single Version; 2019 Remaster",
-      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
       },
@@ -2223,6 +2191,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Whole Lotta Shakin' Going On / It'll Be Me",
+        "url": "https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 173158,
+      "name": "Whole Lot Of Shakin' Going On - Single Version",
+      "url": "https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 116933,
       "name": "Come On-A My House",
       "url": "https://open.spotify.com/track/3GVyT9fBXuEkGs1STo2WHZ"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Definitive Soul: The Drifters",
+        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "There Goes My Baby - Single Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
     },
     {
       "added_at": "2024-09-06 14:23:51",

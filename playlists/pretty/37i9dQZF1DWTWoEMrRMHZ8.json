@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348736,
+  "num_followers": 348790,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -467,6 +467,26 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Bananeira",
+        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Bananeira",
+      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -619,26 +639,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Bananeira",
-        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Bananeira",
-      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Arco",
         "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 200164,
       "name": "Todo o Amor Que Houver Nessa Vida",
       "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Saudade Demais",
         "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 264000,
       "name": "Isabel Tchau",
       "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -951,6 +951,26 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
         "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
@@ -963,6 +983,22 @@
       "duration_ms": 273139,
       "name": "Depois de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -987,26 +1023,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 188064,
       "name": "Deleita",
       "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Barato Abstrato",
+        "url": "https://open.spotify.com/album/3qB6QdDqzXxpsLuGgWFRSv"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "duration_ms": 244806,
+      "name": "Sou Assim At\u00e9 Mudar",
+      "url": "https://open.spotify.com/track/3WvSwNtssCbdCJxzMNIbyp"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Bem Humorado",
         "url": "https://open.spotify.com/album/7pF4CFDO4VDXA6ynioCRml"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 193034,
       "name": "Bem Humorado",
       "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Barato Abstrato",
-        "url": "https://open.spotify.com/album/3qB6QdDqzXxpsLuGgWFRSv"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 244806,
-      "name": "Sou Assim At\u00e9 Mudar",
-      "url": "https://open.spotify.com/track/3WvSwNtssCbdCJxzMNIbyp"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "O Ca\u00e7ador de Estrelas",
+        "url": "https://open.spotify.com/album/1zx5mWstXs7WONCmZGqZ7U"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 141111,
+      "name": "O Ca\u00e7ador de Estrelas",
+      "url": "https://open.spotify.com/track/2PgfdaEv5pK58Q2knP9oxm"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "A Noite do Meu Bem",
         "url": "https://open.spotify.com/album/565wm7tJBqm057NlFHhL6Y"
       },
@@ -1227,6 +1247,26 @@
       "duration_ms": 192496,
       "name": "A Noite do Meu Bem",
       "url": "https://open.spotify.com/track/7II5dgkLvnxKmxmZcFSXny"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/1aHtN0cnYUtVjVGFDLw9a4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Selva",
+          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
+        },
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Viens Danser",
+      "url": "https://open.spotify.com/track/27jQ2ok7oxDKT0AQV7c32l"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1267,26 +1307,6 @@
       "duration_ms": 130436,
       "name": "Bobeira",
       "url": "https://open.spotify.com/track/0Wxjpl6ElAcsn3qko1SKql"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "O Ca\u00e7ador de Estrelas",
-        "url": "https://open.spotify.com/album/1zx5mWstXs7WONCmZGqZ7U"
-      },
-      "artists": [
-        {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        }
-      ],
-      "duration_ms": 141111,
-      "name": "O Ca\u00e7ador de Estrelas",
-      "url": "https://open.spotify.com/track/2PgfdaEv5pK58Q2knP9oxm"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1339,26 +1359,6 @@
       "duration_ms": 269374,
       "name": "Iy\u00e1 Mesan",
       "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/1aHtN0cnYUtVjVGFDLw9a4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Selva",
-          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
-        },
-        {
-          "name": "Clea Vincent",
-          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Viens Danser",
-      "url": "https://open.spotify.com/track/27jQ2ok7oxDKT0AQV7c32l"
     },
     {
       "added_at": "2025-01-10 03:00:26",

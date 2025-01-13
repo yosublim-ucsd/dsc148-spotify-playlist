@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Yonder Mountain String Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,819 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Espresso](https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Espresso](https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP) | 3:09 |
+| 1 | [Espresso](https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Espresso](https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP) | 3:09 |
 | 2 | [If A Song Could Change Your Mind](https://open.spotify.com/track/2ClV3s396miWnFJwUNoOaS) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio), [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [If A Song Could Change Your Mind](https://open.spotify.com/album/0tK9TufSi8hfLw66Pt3WPF) | 3:02 |
 | 3 | [If I Don't Have You](https://open.spotify.com/track/4klp9IQkMHW90IK5BiY0fe) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [If I Don't Have You](https://open.spotify.com/album/11WUysU9e8taAGwsYgeZpc) | 3:36 |
 | 4 | [Didn't Go Wrong](https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Nowhere Next](https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL) | 3:50 |

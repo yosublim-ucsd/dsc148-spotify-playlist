@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256979,
+  "num_followers": 256986,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
-        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Siento que merezco m\u00e1s",
-      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -175,6 +159,38 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/5LazbgCsa2IskJbPMnI8Qd"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Siento que merezco m\u00e1s",
+      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -239,42 +255,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "XQ ERES AS\u00cd",
-        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "XQ ERES AS\u00cd",
-      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "La Vida Sin Ti",
         "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 188742,
       "name": "DOM1NGO",
       "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "XQ ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -355,6 +355,22 @@
       "duration_ms": 353544,
       "name": "WYA REMIX WHITE",
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -443,22 +459,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "LA NOCHE ENTERA",
         "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 150480,
       "name": "LA NOCHE ENTERA",
       "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 89791,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-12-27 06:00:18",

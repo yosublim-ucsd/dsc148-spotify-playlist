@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: TK from Ling Tosite Sigure",
-  "num_followers": 292127,
+  "num_followers": 292165,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 251333,
-      "name": "I'm a mess",
-      "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "I'm a mess",
+      "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
         "name": "Everybody!!",
         "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 207368,
       "name": "\u3068\u3082\u306b",
       "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
-        "name": "\u5f3e\u304d\u3053\u3082\u308a",
-        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "\u5f3e\u304d\u3053\u3082\u308a",
-      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -747,6 +747,22 @@
       "duration_ms": 289173,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "\u5f3e\u304d\u3053\u3082\u308a",
+        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "\u5f3e\u304d\u3053\u3082\u308a",
+      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -811,22 +827,6 @@
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "\u6b8b\u97ff\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/46tySm112BCkEkfssfPODv"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "\u30ad\u30df\u30b7\u30c0\u30a4\u5217\u8eca",
-      "url": "https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
         "name": "Sleep Walking Orchestra",
         "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "\u6b8b\u97ff\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/46tySm112BCkEkfssfPODv"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "\u30ad\u30df\u30b7\u30c0\u30a4\u5217\u8eca",
+      "url": "https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
-        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
-      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
         "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
         "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
+        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "UNDER and OVER",
-        "url": "https://open.spotify.com/album/60lSvl6D1arg4yafpzexwV"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "UNDER and OVER",
-      "url": "https://open.spotify.com/track/46mVcLRZJ5PRJ3CsoRXDTY"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
         "name": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
         "url": "https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
+        "name": "UNDER and OVER",
+        "url": "https://open.spotify.com/album/60lSvl6D1arg4yafpzexwV"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "UNDER and OVER",
+      "url": "https://open.spotify.com/track/46mVcLRZJ5PRJ3CsoRXDTY"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
         "name": "COMINATCHA!!",
         "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1291,22 +1307,6 @@
       "duration_ms": 207213,
       "name": "\u30a8\u30de",
       "url": "https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "Pepperoni Quattro",
-        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
         "name": "todayyyyy",
         "url": "https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 259480,
       "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
       "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "Pepperoni Quattro",
+        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1555,18 +1555,34 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "The End of Yesterday",
-        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
+        "name": "\u30a2\u30c0\u30d7\u30c8",
+        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 214213,
-      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
+      "duration_ms": 250000,
+      "name": "\u6708\u306e\u6900",
+      "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
+    },
+    {
+      "added_at": "2025-01-07 15:00:44",
+      "album": {
+        "name": "\u5fc3\u5909\u308f\u308a",
+        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "\u5fc3\u5909\u308f\u308a",
+      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2025-01-07 15:00:44",
       "album": {
-        "name": "\u30a2\u30c0\u30d7\u30c8",
-        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+        "name": "The End of Yesterday",
+        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 250000,
-      "name": "\u6708\u306e\u6900",
-      "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
+      "duration_ms": 214213,
+      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
     },
     {
       "added_at": "2025-01-07 15:00:44",
@@ -1619,22 +1635,6 @@
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL"
-    },
-    {
-      "added_at": "2025-01-07 15:00:44",
-      "album": {
-        "name": "\u5fc3\u5909\u308f\u308a",
-        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 223657,
-      "name": "\u5fc3\u5909\u308f\u308a",
-      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
     }
   ],
   "unique_name": "Big in Japan",

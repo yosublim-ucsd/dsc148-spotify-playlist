@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 un muerto mas & Clara Cava
 
-392 songs - 20 hr 50 min
+393 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [AMANECER](https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [AMANECER](https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5) | 3:01 | 2024-01-19 | 2024-07-19 |
 | [AMIGOS NUEVOS](https://open.spotify.com/track/2IEO7E3Qh7nYgKjdVagZKq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2023-10-13 | 2023-12-16 |
 | [AMNESIA](https://open.spotify.com/track/3xWhaR53xysDSPketnnZjI) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [AMNESIA](https://open.spotify.com/album/2H2O7XZjkAuEwORRzMIhAR) | 3:19 | 2024-12-26 | 2025-01-11 |
-| [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-08 |  |
+| [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-08 | 2025-01-13 |
 | [Amor de Película](https://open.spotify.com/track/62LEhl8r8arwSDuHF0u0Ze) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Amor de Película](https://open.spotify.com/album/06UAzAedzCDQT7jYWSWeEY) | 2:52 | 2023-11-10 | 2024-06-15 |
 | [Amor Roto](https://open.spotify.com/track/08blsoYLX7Kx9MwwiFDkNe) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [QSTLB](https://open.spotify.com/album/1T8zyPUsGrAIu1bqkfUQ7n) | 2:02 | 2024-12-06 |  |
 | [amor, perdón.](https://open.spotify.com/track/0Y6o4cTly9sNigViZFlWrj) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [amor, perdón.](https://open.spotify.com/album/5ZEgIbGoOkYIvlYEwyCasB) | 3:13 | 2024-11-29 |  |
@@ -306,6 +306,7 @@
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-10-13 | 2023-11-25 |
 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 | 2023-10-13 | 2024-02-24 |
 | [Risa \- Cover](https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Palu de Paloma](https://open.spotify.com/artist/1liheuPPmJMACY5ccB4YLP) | [Risa \(Cover\)](https://open.spotify.com/album/6wnJZtcYszTyzH15YTX2ul) | 2:56 | 2024-02-16 | 2024-10-12 |
+| [Risco](https://open.spotify.com/track/41Rw7ijXSUj2DEtbGOjCjh) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:22 | 2025-01-13 |  |
 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 | 2023-10-13 | 2023-11-25 |
 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 | 2024-01-19 | 2024-05-03 |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-10-13 | 2024-03-09 |

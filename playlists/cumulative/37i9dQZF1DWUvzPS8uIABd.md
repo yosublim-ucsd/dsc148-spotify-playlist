@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Karim B ja TUULI.
 
-392 songs - 19 hr 37 min
+393 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Scifi](https://open.spotify.com/track/6SZY31ETyZ4qT8NnKG42BO) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch), [Jedidi](https://open.spotify.com/artist/4KEXmcIZn2zW6e1szGrn5y) | [Scifi](https://open.spotify.com/album/4LxtFlfi4OT261eyRuJrC9) | 2:29 | 2024-07-02 | 2024-07-12 |
 | [Se kesä](https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Se kesä](https://open.spotify.com/album/5uyEMwsyLKI2hLMs94LupF) | 2:32 | 2024-07-02 | 2024-07-05 |
 | [Se Mitä Sä Oot](https://open.spotify.com/track/4NvEbMve0zfhiOcGWQS4hA) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Se Mitä Sä Oot](https://open.spotify.com/album/5zR3zSZCAKtKh3xILB7Kwo) | 3:34 | 2024-12-12 | 2025-01-10 |
+| [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 | 2025-01-12 |  |
 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 | 2024-07-04 | 2024-09-20 |
 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 | 2024-09-05 | 2024-10-18 |
 | [Sen pituinen se \(feat\. Costello\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/1dbfa5w9FFZJIo91XR7kxf) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF), [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Sen pituinen se \(feat\. Costello\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/0KTuaQFZ2xfEH8MmWIPNQJ) | 2:10 | 2024-09-26 | 2024-10-04 |

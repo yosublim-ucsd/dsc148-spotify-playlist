@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1354343,
+  "num_followers": 1354509,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Wars In A Wonderland",
-        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DARKSIDE",
-      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Bitch Better Have My Money",
         "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Wars In A Wonderland",
+        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -869,6 +869,38 @@
       "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 334084,
+      "name": "Who\u2019s Afraid of Little Old Me?",
+      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "Play with Fire (feat. Yacht Money)",
@@ -887,22 +919,6 @@
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 334084,
-      "name": "Who\u2019s Afraid of Little Old Me?",
-      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1035,22 +1051,6 @@
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 150000,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194711,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 214761,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Thrill Seeker",
         "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194000,
       "name": "Freak (feat. REI AMI)",
       "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 214761,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Panic Room",
+        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 237772,
+      "name": "Panic Room",
+      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Panic Room",
-        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
-      },
-      "artists": [
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "Panic Room",
-      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1563,18 +1563,30 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "Descendants 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Thomas Doherty",
+          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
+        },
+        {
+          "name": "Dylan Playfair",
+          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+      "duration_ms": 190720,
+      "name": "What's My Name",
+      "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1603,30 +1615,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Descendants 2 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        },
-        {
-          "name": "Thomas Doherty",
-          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
-        },
-        {
-          "name": "Dylan Playfair",
-          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 190720,
-      "name": "What's My Name",
-      "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2024-02-22 03:52:54",

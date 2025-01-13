@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-382 songs - 20 hr 16 min
+383 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-07 | 2024-11-24 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-09-29 | 2024-03-16 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-13 | 2023-08-21 |
-| [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 | 2024-09-27 |  |
+| [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 | 2024-09-27 | 2025-01-13 |
 | [Feel So Close](https://open.spotify.com/track/0o5SMckKtlPqLMJ3mokdMN) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Feel So Close](https://open.spotify.com/album/5SDhChcLEabkL3fx3UTyiH) | 2:25 | 2023-08-25 | 2023-09-02 |
 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 | 2021-10-29 | 2023-04-01 |
 | [Feet Don't Touch](https://open.spotify.com/track/3VYER8HwBRBbyn72Zd5v4r) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Nicholas Roy](https://open.spotify.com/artist/5bBKSut3KtxJFIgxC4iS7o) | [Feet Don't Touch](https://open.spotify.com/album/6Lg3FgJmEw0oIghYSfX57G) | 3:10 | 2022-07-08 | 2022-08-03 |
@@ -184,6 +184,7 @@
 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 | 2024-07-19 |  |
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-03-11 | 2022-07-26 |
 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 | 2024-03-15 |  |
+| [Jolie Fille](https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille](https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV) | 3:14 | 2024-11-22 |  |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-03-31 | 2023-04-29 |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-10-29 | 2022-03-26 |
 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 | 2024-06-07 |  |

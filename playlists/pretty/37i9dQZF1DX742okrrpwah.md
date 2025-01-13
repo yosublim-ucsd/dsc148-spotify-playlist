@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Nej au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,918 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,944 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 42 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 43 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
 | 44 | [Follow](https://open.spotify.com/track/3LoXmE7628YHrHDTXUNTzI) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Follow](https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26) | 2:24 |
-| 45 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
+| 45 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
 | 46 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
 | 47 | [All The Small Things](https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [All The Small Things](https://open.spotify.com/album/6vpocQEtVoMkffazXMxWX7) | 1:51 |
 | 48 | [I Believe In Miracles](https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [I Believe In Miracles](https://open.spotify.com/album/5CRmAnjCyw5GKRgIgddbRh) | 2:35 |

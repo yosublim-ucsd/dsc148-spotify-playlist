@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 77983,
+  "num_followers": 77996,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 190909,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
       },
       "artists": [
         {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
         },
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
         }
       ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+      "duration_ms": 150105,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Enemigo",
-        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
-      },
-      "artists": [
-        {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 150105,
-      "name": "Enemigo",
-      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Traje Tusi",
         "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 182421,
       "name": "Traje Tusi",
       "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

@@ -1,6 +1,6 @@
 {
   "description": "Intimate. Cover: Nicole Kidman and Harris Dickinson in Babygirl",
-  "num_followers": 697061,
+  "num_followers": 697453,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
-    },
-    {
-      "added_at": "2024-12-18 16:56:38",
-      "album": {
         "name": "Ultraviolence (Deluxe)",
         "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 256760,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
+    },
+    {
+      "added_at": "2024-12-18 16:56:38",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
+      "duration_ms": 292110,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -255,22 +255,18 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 158359,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
         }
       ],
-      "duration_ms": 292110,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+      "duration_ms": 158359,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "I.",
+        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+      "duration_ms": 286293,
+      "name": "Nothing's Gonna Hurt You Baby",
+      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -379,18 +375,22 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "I.",
-        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 286293,
-      "name": "Nothing's Gonna Hurt You Baby",
-      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2024-12-18 16:56:38",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Heaven or Las Vegas",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
-    },
-    {
-      "added_at": "2024-12-18 16:56:38",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2024-12-18 16:56:38",
       "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 166033,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+      "duration_ms": 290213,
+      "name": "Reckoner",
+      "url": "https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju"
+    },
+    {
+      "added_at": "2024-12-18 16:56:38",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
     }
   ],
   "unique_name": "sexy indie",

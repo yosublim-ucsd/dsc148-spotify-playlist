@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: N.A.N.A",
-  "num_followers": 145495,
+  "num_followers": 145483,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
@@ -547,54 +567,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Lado Negro",
-      "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "SEMR\u00c9H",
         "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
@@ -639,6 +611,34 @@
       "duration_ms": 209013,
       "name": "N\u00e3o Me Para",
       "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Lado Negro",
+      "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -807,6 +807,34 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Pr\u00f3ximo Passo",
+      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "TRAP BRASILEIRO",
         "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
       },
@@ -827,6 +855,34 @@
       "duration_ms": 306316,
       "name": "PARIS FASHION WEEK",
       "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "RELATOS",
+        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 241623,
+      "name": "Ferrari Vermelha",
+      "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -863,34 +919,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "RELATOS",
-        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 241623,
-      "name": "Ferrari Vermelha",
-      "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -919,30 +947,26 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
       "artists": [
         {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 140338,
-      "name": "Pr\u00f3ximo Passo",
-      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -971,30 +995,6 @@
       "duration_ms": 120000,
       "name": "Academia de Jugg",
       "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2025-01-03 03:01:06",

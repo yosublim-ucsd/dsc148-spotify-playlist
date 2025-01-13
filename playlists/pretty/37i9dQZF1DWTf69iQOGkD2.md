@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Oriente, Alexandre Carlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,462 likes - 76 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,501 likes - 76 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

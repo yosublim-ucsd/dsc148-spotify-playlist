@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24389,
+  "num_followers": 24388,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 205436,
       "name": "Entre las Dos",
       "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "PARA AFUERA",
-        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 154737,
-      "name": "PARA AFUERA",
-      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "PARA AFUERA",
+        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 154737,
+      "name": "PARA AFUERA",
+      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -591,6 +571,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 182291,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
-      },
-      "artists": [
-        {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Regresar\u00e1s \u2606",
+        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Regresar\u00e1s \u2606",
+      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Regresar\u00e1s \u2606",
-        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Regresar\u00e1s \u2606",
-      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Gritan Fuerte",
         "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212893,
       "name": "Gritan Fuerte",
       "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Redard",
+          "url": "https://open.spotify.com/artist/3rL83sO0ilg7wmUY67IJqm"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Sangrando",
+      "url": "https://open.spotify.com/track/69kwNuRFKpNN2dUWgjyCfw"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Si No Vas a Venir",
         "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
       },
@@ -1379,38 +1395,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/2R5rZirNTbJ9FGhy309avF"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Redard",
-          "url": "https://open.spotify.com/artist/3rL83sO0ilg7wmUY67IJqm"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Sangrando",
-      "url": "https://open.spotify.com/track/69kwNuRFKpNN2dUWgjyCfw"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "El Estado de las Cosas Como Son",
         "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 182312,
       "name": "El Estado de las Cosas Como Son",
       "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
     },
     {
       "added_at": "2024-11-15 03:00:00",

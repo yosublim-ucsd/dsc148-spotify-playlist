@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18713,
+  "num_followers": 18715,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
-    },
-    {
       "added_at": "2024-12-12 13:00:02",
       "album": {
         "name": "Crazy Dream (Edit)",
@@ -367,6 +351,22 @@
       "duration_ms": 178062,
       "name": "Crazy Dream - Edit",
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "SENESCENCE",
         "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
       "added_at": "2024-12-05 13:00:00",
       "album": {
         "name": "i don't want you to miss this",
@@ -637,20 +621,20 @@
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2024-11-28 13:00:00",
       "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
       },
       "artists": [
         {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
         }
       ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -667,6 +651,22 @@
       "duration_ms": 142000,
       "name": "distance",
       "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "I Want More",
@@ -849,20 +865,20 @@
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
       },
       "artists": [
         {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+      "duration_ms": 214624,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 159837,
       "name": "I DID IT (w/ Kanii & Anycia)",
       "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Toogood",
-          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
-        }
-      ],
-      "duration_ms": 214624,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "SLO MO",
-        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 335043,
-      "name": "Stand Straight",
-      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "MELLOW CALM & CHILL",
@@ -1227,6 +1211,22 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "SLO MO",
+        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 335043,
+      "name": "Stand Straight",
+      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
     },
     {
       "added_at": "2024-11-28 13:00:00",

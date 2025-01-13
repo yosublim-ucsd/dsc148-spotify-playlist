@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-249 songs - 18 hr 7 min
+250 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lagoon](https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/662zh7ap5hcvQKRIG5wuE3) | 3:10 | 2020-07-04 | 2022-07-25 |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2020-06-05\* | 2022-06-17 |
 | [Lapwing](https://open.spotify.com/track/76PkwIGVqsuUSjtZMqBF0P) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Crest](https://open.spotify.com/album/2pAS94EQ1HRHkMXusRl5vk) | 3:32 | 2022-05-30 | 2024-03-01 |
+| [Lavender](https://open.spotify.com/track/5oZdwIevNAVqsuisgyKiRX) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Lavender](https://open.spotify.com/album/5hjwkXIdFlJmBBJxu1VK74) | 3:34 | 2025-01-10 |  |
 | [Lavender](https://open.spotify.com/track/5OFOnI3r6JRWwswlfHfUoZ) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Tandem Felix](https://open.spotify.com/artist/23haBt5v4eOq0hA9sfoLde) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 4:13 | 2020-06-05\* | 2022-06-08 |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2021-04-20 | 2022-05-09 |
 | [Life](https://open.spotify.com/track/3kl0yakAYlmaDTlUnLZR0e) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4RPAXF1SRMDKfp3kYfUwqB) | 3:21 | 2020-06-12 | 2021-10-10 |
@@ -169,7 +170,7 @@
 | [Parting Ways \- Edit](https://open.spotify.com/track/4t8Wj2B859gQJ4pR8D8eAf) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Six Sigma](https://open.spotify.com/artist/611HYzCmDN0PUG2AUrJ8gq) | [Parting Ways](https://open.spotify.com/album/7Dgatu1IOIwmPSyqPTrzZJ) | 4:37 | 2020-06-05\* | 2022-07-29 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-01-05 |  |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-29 |  |
-| [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 | 2020-06-05\* |  |
+| [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 | 2020-06-05\* | 2025-01-13 |
 | [Pause](https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Now Here No Where](https://open.spotify.com/album/2PIN5JlqhdClGkTsvauX36) | 5:40 | 2021-01-05 | 2022-07-29 |
 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 | 2020-09-02 | 2022-07-29 |
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2020-06-05\* | 2022-07-29 |

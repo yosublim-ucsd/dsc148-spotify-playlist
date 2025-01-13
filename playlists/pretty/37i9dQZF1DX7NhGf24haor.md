@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Rebelion
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,009 likes - 97 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,086 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

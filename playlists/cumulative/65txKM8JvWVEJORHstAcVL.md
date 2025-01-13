@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(05/01/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(12/01/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-129 songs - 6 hr 25 min
+131 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-07-16 | 2024-04-15 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-10 |  |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-08-18 |  |
-| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-11 |  |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-11 | 2025-01-13 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-09 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-09-08 |  |
 | [Boig X Tu](https://open.spotify.com/track/1ECjtBKeOS6rV7exnE5fYG) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Sempre Joves x10](https://open.spotify.com/album/2CieTUcjWa7KsdEd8zyRWw) | 3:08 | 2024-07-14 | 2024-09-02 |
@@ -36,6 +36,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-13 | 2024-05-27 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-11 | 2024-04-29 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-29 |  |
+| [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2025-01-12 |  |
 | [DIABLA](https://open.spotify.com/track/5lDRfQXgTA985GAb0ngSHi) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [DIABLA](https://open.spotify.com/album/2amTmaItOxGECKzmyCHHF0) | 2:42 | 2023-12-10 | 2024-07-01 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-10-20 |  |
 | [Dins del meu cap](https://open.spotify.com/track/5AxKeSyenbb6lH0xYF5kjk) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dins del meu cap](https://open.spotify.com/album/1IFZOhoZpcCzCGly6B2ewd) | 3:00 | 2024-05-12 | 2024-10-21 |
@@ -53,6 +54,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-29 | 2024-06-10 |
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
+| [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 | 2025-01-12 |  |
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 | 2024-07-15 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-10-20 | 2024-12-16 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-26 | 2024-08-05 |
@@ -79,7 +81,7 @@
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-08 |  |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-08 | 2024-06-03 |
 | [Malèfica](https://open.spotify.com/track/5AgyV3dRa5xJetCw5ciOsJ) | [Lal'Ba](https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG) | [Malèfica](https://open.spotify.com/album/1OTlOo1pni9yNH9ySQsATT) | 2:31 | 2024-10-20 |  |
-| [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 |  |
+| [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-03 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-09-24 | 2024-05-27 |
 | [Només viure](https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg) | 2:16 | 2024-11-17 |  |

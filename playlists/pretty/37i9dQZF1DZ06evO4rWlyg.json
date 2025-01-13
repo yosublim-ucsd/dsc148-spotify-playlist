@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 140781,
+  "num_followers": 140816,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAABKFnMScEy6mZK4mQZE5ZaX",
+  "snapshot_id": "Z4G0gAAAAACI9AV5uNIBzqUpnthcE5Cy",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+        "name": "Bachelorette",
+        "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+      "duration_ms": 157426,
+      "name": "Scary",
+      "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bachelorette",
-        "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Scary",
-      "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,

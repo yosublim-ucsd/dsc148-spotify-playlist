@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 56222,
+  "num_followers": 56255,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Country Man",
-        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Boogie Woogie Country Man",
-      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+        "name": "Boogie Woogie Country Man",
+        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
       },
       "artists": [
         {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+      "duration_ms": 224533,
+      "name": "Boogie Woogie Country Man",
+      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "See You Later, Alligator",
-        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
-      },
-      "artists": [
-        {
-          "name": "Bobby Charles",
-          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Later Alligator (See You Later, Alligator)",
-      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "See You Later, Alligator",
+        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
       "artists": [
         {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+          "name": "Bobby Charles",
+          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Boogie Woogie Man",
-      "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
+      "duration_ms": 225000,
+      "name": "Later Alligator (See You Later, Alligator)",
+      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -407,6 +391,22 @@
       "duration_ms": 178000,
       "name": "Honky Tonk Train Blues",
       "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Boogie Woogie Man",
+      "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Blues Kingpin",
+        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "Boogie Woogie Baby",
+      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Yancey Special",
         "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 172460,
       "name": "Yancey Stomp",
       "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -603,22 +619,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Blues Kingpin",
-        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "Boogie Woogie Baby",
-      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Flip, Flop And Fly 1951-1955",
+        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Flip, Flop And Fly 1951-1955",
-        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Bobby Robinson Story Volume One",
         "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
-      },
-      "artists": [
-        {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 200040,
       "name": "Bluegrass Boogie Woogie",
       "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+      },
+      "artists": [
+        {
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2024-05-30 16:27:59",

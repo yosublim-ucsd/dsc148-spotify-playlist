@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música con actitud renovada para seguir o empezar con esos propósitos de año nuevo 💪 La Trinidad en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,107 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,296 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

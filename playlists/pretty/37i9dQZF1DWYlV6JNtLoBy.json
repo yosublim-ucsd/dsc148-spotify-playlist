@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 6528,
+  "num_followers": 6546,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,30 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "Don't Fight Alone",
         "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
       },
@@ -231,30 +255,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 405513,
-      "name": "Million Little Miracles (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Heaven Changes Everything",
         "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
       },
@@ -303,22 +303,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -335,6 +335,26 @@
       "duration_ms": 279066,
       "name": "You are Yahweh",
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -375,26 +395,6 @@
       "duration_ms": 226777,
       "name": "God Is With Us",
       "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 354885,
-      "name": "Jehovah (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -523,34 +523,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "The Maverick Way Complete",
-        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
-        }
-      ],
-      "duration_ms": 498332,
-      "name": "For My Good (feat. Todd Galberth)",
-      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -583,6 +555,34 @@
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "REBEL (The Beginning)",
+        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "Lead On Good Shepherd",
         "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 203973,
       "name": "Lead On Good Shepherd",
       "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "REBEL (The Beginning)",
-        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
     },
     {
       "added_at": "2024-12-05 23:59:00",

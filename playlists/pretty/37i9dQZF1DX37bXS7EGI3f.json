@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 790147,
+  "num_followers": 790223,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The War to End All Wars",
-        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Stormtroopers",
-      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Unkillable Soldier",
-        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Unkillable Soldier",
-      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -403,22 +387,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Beyond The Black",
-        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -439,6 +407,38 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Beyond The Black",
+        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "A New Beginning",
-        "url": "https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY"
-      },
-      "artists": [
-        {
-          "name": "Majestica",
-          "url": "https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki"
-        }
-      ],
-      "duration_ms": 252157,
-      "name": "A New Beginning",
-      "url": "https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 185266,
       "name": "Outer Dimensions",
       "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "A New Beginning",
+        "url": "https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY"
+      },
+      "artists": [
+        {
+          "name": "Majestica",
+          "url": "https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki"
+        }
+      ],
+      "duration_ms": 252157,
+      "name": "A New Beginning",
+      "url": "https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -587,38 +587,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "An Ocean Of Strange Islands",
-        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 566413,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "82nd All the Way",
-        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "82nd All the Way",
-      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 216586,
       "name": "Morphine Waltz",
       "url": "https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "An Ocean Of Strange Islands",
+        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 566413,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "82nd All the Way",
+        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "82nd All the Way",
+      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 230480,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
-        "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Jens Kidman",
-          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
         }
       ],
-      "duration_ms": 197969,
-      "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
-      "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -927,18 +907,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+        "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+        "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
       },
       "artists": [
         {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Jens Kidman",
+          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
         }
       ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+      "duration_ms": 197969,
+      "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+      "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -955,6 +939,22 @@
       "duration_ms": 236586,
       "name": "Rogue (Aim for the Kill)",
       "url": "https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Winter Is Coming",
         "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
       },
@@ -1143,42 +1127,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Fight the Tide",
-        "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
       "artists": [
         {
-          "name": "Jonathan Young",
-          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
-        },
-        {
-          "name": "Colm R. McGuinness",
-          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
         }
       ],
-      "duration_ms": 206520,
-      "name": "Fight the Tide",
-      "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1207,22 +1167,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dragonwings",
-        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
+        "name": "Fight the Tide",
+        "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
       },
       "artists": [
         {
-          "name": "Pagefire",
-          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
+          "name": "Jonathan Young",
+          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
         },
         {
-          "name": "Craig Cairns",
-          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
+          "name": "Colm R. McGuinness",
+          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 243529,
-      "name": "Dragonwings",
-      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+      "duration_ms": 206520,
+      "name": "Fight the Tide",
+      "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1247,6 +1211,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Dragonwings",
+        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
+      },
+      "artists": [
+        {
+          "name": "Pagefire",
+          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
+        },
+        {
+          "name": "Craig Cairns",
+          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Dragonwings",
+      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Dance Till We Sink",
+        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
+      },
+      "artists": [
+        {
+          "name": "A Wildheart's Tale",
+          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Dance Till We Sink",
+      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 266000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Dance Till We Sink",
-        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
-      },
-      "artists": [
-        {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Dance Till We Sink",
-      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
       },
       "artists": [
         {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
         }
       ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1455,18 +1455,34 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+        "name": "The Unforgiven II",
+        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
       },
       "artists": [
         {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+      "duration_ms": 245274,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1483,22 +1499,6 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "The Unforgiven II",
-        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 245274,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Bloodclock",
         "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 314373,
       "name": "Bloodclock",
       "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
-      },
-      "artists": [
-        {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "I Can Never Die",
         "url": "https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 270253,
       "name": "I Can Never Die",
       "url": "https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+      },
+      "artists": [
+        {
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "We Shall Remain",
-        "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
       "artists": [
         {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
         }
       ],
-      "duration_ms": 260573,
-      "name": "We Shall Remain",
-      "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     }
   ],
   "unique_name": "Epic & Melodic",

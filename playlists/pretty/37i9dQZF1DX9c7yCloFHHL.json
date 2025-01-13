@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Bibio on cover.",
-  "num_followers": 200978,
+  "num_followers": 201029,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "#19",
+        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 614592,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "#19",
-        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 614592,
-      "name": "#19",
-      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "RITUAL (palace)",
+        "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+        }
+      ],
+      "duration_ms": 355488,
+      "name": "RITUAL (palace)",
+      "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Something Ephemeral",
         "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
       },
@@ -555,42 +575,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "RITUAL (palace)",
-        "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Vylana",
-          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
-        }
-      ],
-      "duration_ms": 355488,
-      "name": "RITUAL (palace)",
-      "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 402473,
-      "name": "Ants To You, Gods To Who ?",
-      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "everybody's gone home (+ slowed version)",
         "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171072,
       "name": "everybody's gone home - + slowed version",
       "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 402473,
+      "name": "Ants To You, Gods To Who ?",
+      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "cognition",
+        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
+      },
+      "artists": [
+        {
+          "name": "theta.wav",
+          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "cognition",
+      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Circle 37",
         "url": "https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 199881,
       "name": "Circle 37",
       "url": "https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "cognition",
-        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
-      },
-      "artists": [
-        {
-          "name": "theta.wav",
-          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "cognition",
-      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Two Chambers",
+        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Two Chambers",
+      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 215746,
       "name": "Esperance",
       "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Two Chambers",
-        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Two Chambers",
-      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m"
       },
       "artists": [
         {
@@ -1088,33 +1088,9 @@
           "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Circle 26 (Tom Ashbrook Rework)",
-        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Circle 26 - Tom Ashbrook Rework",
-      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+      "duration_ms": 200920,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1183,6 +1159,46 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Circle 26 (Tom Ashbrook Rework)",
+        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Circle 26 - Tom Ashbrook Rework",
+      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Empire of Light (Original Score)",
         "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Night Horns (edit)",
+        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 503313,
+      "name": "Night Horns (edit)",
+      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Night Horns (edit)",
-        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 503313,
-      "name": "Night Horns (edit)",
-      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Mesmerising Waves",
+        "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
+      },
+      "artists": [
+        {
+          "name": "Narrow Skies",
+          "url": "https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth"
+        },
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "duration_ms": 117775,
+      "name": "Mesmerising Waves",
+      "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Mesmerising Waves",
-        "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
-      },
-      "artists": [
-        {
-          "name": "Narrow Skies",
-          "url": "https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth"
-        },
-        {
-          "name": "Dear Gravity",
-          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
-        }
-      ],
-      "duration_ms": 117775,
-      "name": "Mesmerising Waves",
-      "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Afterpoem",
         "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 118897,
       "name": "Fin ao\u00fbt, d\u00e9but septembre",
       "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     },
     {
       "added_at": "2024-11-29 04:00:00",

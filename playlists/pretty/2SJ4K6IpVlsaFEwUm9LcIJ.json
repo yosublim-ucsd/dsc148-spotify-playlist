@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22547,
+  "num_followers": 22555,
   "original_name": "moving on, letting go",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALpE7OH8a63bnkw4IX6QHU+nHTXlNY",
+  "snapshot_id": "AAALpnz/R+Rk5iVAQ6tUhY5u8vba9J31",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -175,6 +175,38 @@
       "duration_ms": 408253,
       "name": "My Only Love",
       "url": "https://open.spotify.com/track/1dtnRZGcl8PWdRacCGgJ0p"
+    },
+    {
+      "added_at": "2025-01-12 22:38:46",
+      "album": {
+        "name": "Brinna ut",
+        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Brinna ut",
+      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
+    },
+    {
+      "added_at": "2025-01-12 22:48:47",
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Du Aldrig M\u00e4rker",
+      "url": "https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD"
     }
   ],
   "unique_name": "moving on, letting go",

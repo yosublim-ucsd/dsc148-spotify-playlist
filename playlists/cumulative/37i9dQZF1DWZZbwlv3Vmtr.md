@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-996 songs - 1 day 14 hr 36 min
+997 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
-| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
+| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 | 2025-01-13 |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
@@ -790,6 +790,7 @@
 | [Spare No Expense](https://open.spotify.com/track/3ImEq34pURQUCLppdFOap6) | [Snuff Audio](https://open.spotify.com/artist/7m7jvc1wS04q47pXO3MdsX) | [Spare No Expense](https://open.spotify.com/album/4etkVtVjvsEjUXL5hxgCsa) | 1:54 | 2022-10-14 | 2023-07-20 |
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
+| [Spikes](https://open.spotify.com/track/73JxBWQnLBc5tYeXtYC1kB) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Spikes](https://open.spotify.com/album/089BNS2vIXOO7ZKcuJgU2v) | 2:31 | 2025-01-10 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 | 2024-02-29 |
 | [Spring Magic](https://open.spotify.com/track/3UNpc4XLwtOrJeb2GYrNkI) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Spring Magic](https://open.spotify.com/album/53eqZjWTXiRPVSPKWlkW15) | 2:42 | 2022-06-24 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Maren Morris & Julia Michaels
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,439 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,539 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 76 | [Cinematic Goodbye](https://open.spotify.com/track/6p5UQ6vP3PGLmYtkADJBBb) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Cinematic Goodbye](https://open.spotify.com/album/5nXBPgWhE29qRojpTpxeTS) | 3:49 |
 | 77 | [LIAR](https://open.spotify.com/track/0M1uGJMneGm42j6JsWLsxD) | [Chloey Indica](https://open.spotify.com/artist/6VBI7AKEAUPyPd0879sWWk) | [LIAR](https://open.spotify.com/album/2MPjjar0n8KkIC9vBor5qz) | 2:35 |
 | 78 | [FOCUS ON ME](https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF) | [ENILA](https://open.spotify.com/artist/67PhsrPljsn5Y8qffgXjml) | [FOCUS ON ME](https://open.spotify.com/album/6vybXpLwgbPxm2bzKcGyLr) | 2:58 |
-| 79 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
+| 79 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
 | 80 | [Country Boy](https://open.spotify.com/track/0AWOUx0yzhcr8m76suAFqz) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Country Boy](https://open.spotify.com/album/37DRBJOm9lYHdndsVzXJfQ) | 2:44 |
 | 81 | [BEEEP](https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BEEEP](https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg) | 2:36 |
 | 82 | [is it love at all?](https://open.spotify.com/track/6UWNP6v8hFXwoM2lYT2I91) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [is it love at all?](https://open.spotify.com/album/1PwuFNJdZhbtH7optCfEw5) | 2:36 |

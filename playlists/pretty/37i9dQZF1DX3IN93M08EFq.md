@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,451 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 10 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 11 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
 | 12 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
-| 13 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
-| 14 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
+| 13 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
+| 14 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
 | 15 | [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | 2:21 |
 | 16 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
 | 17 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 27 | [Living in America](https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Living in America \(US version\)](https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5) | 3:28 |
 | 28 | [I Follow Rivers](https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes \(The Lost Sessions\)](https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8) | 3:48 |
 | 29 | [Delivery](https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Shotter's Nation](https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF) | 2:41 |
-| 30 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
-| 31 | [Calleth You, Cometh I](https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [In Lust We Trust](https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7) | 4:32 |
-| 32 | [Cheek to Cheek](https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [What If Leaving Is a Loving Thing](https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3) | 3:15 |
-| 33 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
-| 34 | [Electric](https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:58 |
-| 35 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
+| 30 | [Calleth You, Cometh I](https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [In Lust We Trust](https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7) | 4:32 |
+| 31 | [Cheek to Cheek](https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [What If Leaving Is a Loving Thing](https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3) | 3:15 |
+| 32 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
+| 33 | [Electric](https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:58 |
+| 34 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
+| 35 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
 | 36 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
-| 37 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
+| 37 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
 | 38 | [Kom igen Lena!](https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det är så jag säger det](https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj) | 3:51 |
-| 39 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
-| 40 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
-| 41 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
-| 42 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
-| 43 | [I Surrender \(Bonus Track\)](https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Must Exist](https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3) | 3:42 |
-| 44 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
-| 45 | [The Band](https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Bring 'Em In](https://open.spotify.com/album/1hgzDN5BjbqPBXOyb4Lnn2) | 3:15 |
+| 39 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
+| 40 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
+| 41 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 42 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
+| 43 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
+| 44 | [Dansa, fastän](https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Facit](https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo) | 2:47 |
+| 45 | [I Surrender \(Bonus Track\)](https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Must Exist](https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3) | 3:42 |
 
 Snapshot ID: `ZnlcygAAAABqwEZ6u39x/DHJ52Nodkls`

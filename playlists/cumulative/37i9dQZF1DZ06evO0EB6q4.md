@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 41 min
+100 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 | 2023-12-30 | 2024-12-20 |
 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 | 2023-12-30 |  |
 | [Como Tú Todas](https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:41 | 2024-07-03 | 2024-10-28 |
+| [Contacto](https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Contacto](https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm) | 2:42 | 2025-01-13 |  |
 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 | 2023-12-30 | 2024-11-21 |
 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-07 |  |
 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 | 2024-05-27 | 2024-08-02 |
@@ -85,7 +86,7 @@
 | [Prohibida](https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:26 | 2024-09-05 |  |
 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 | 2023-12-30 | 2024-11-13 |
 | [Púrpura](https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz) | 3:21 | 2023-12-30 | 2024-12-09 |
-| [Púrpura](https://open.spotify.com/track/4b4RFAobdDT8MK6RTjMGZx) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/3BuYfup7zIIainkMkPdyVs) | 3:21 | 2025-01-12 |  |
+| [Púrpura](https://open.spotify.com/track/4b4RFAobdDT8MK6RTjMGZx) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/3BuYfup7zIIainkMkPdyVs) | 3:21 | 2025-01-12 | 2025-01-13 |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2023-12-30 |  |
 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 | 2024-09-22 |  |
 | [Se Nos Va](https://open.spotify.com/track/2Xmry15rjewRCLWCCC2711) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:20 | 2024-11-17 | 2024-11-29 |

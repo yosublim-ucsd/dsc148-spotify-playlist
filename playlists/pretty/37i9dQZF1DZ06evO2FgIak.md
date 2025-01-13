@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,326 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,337 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 27 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 |
 | 28 | [Spoonful'](https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Voodoo Blues](https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo) | 2:44 |
 | 29 | [Walkin' Thru The Park](https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:44 |
-| 30 | [Caldonia \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:08 |
-| 31 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
-| 32 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
+| 30 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
+| 31 | [Caldonia \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:08 |
+| 32 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
 | 33 | [Mean Old Frisco Blues](https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx) | 3:45 |
 | 34 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
 | 35 | [Mannish Boy \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Black Cat Bone / Dust My Broom \- Live](https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 |
 | 50 | [Crawlin' Kingsnake](https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [You Shook Me \- The Chess Masters, Vol\. 3, 1958 To 1963](https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol) | 2:29 |
 
-Snapshot ID: `Z4BjAAAAAACHI5yGOlMh+aAIRj34EklO`
+Snapshot ID: `Z4G0gAAAAABafbfOnsPaO1AHyjmGL/JN`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集
 
-[Spotify](https://open.spotify.com/user/spotify) - 257 likes - 15 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 15 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [\#22 ハン・ガンのノーベル賞から考える韓国の文化輸出力](https://open.spotify.com/episode/0Zr8EKs4bcxB6sie1HX8Wz) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 39:03 |
+| 1 | [\#22 ハン・ガンのノーベル賞受賞から考える韓国の文化輸出力](https://open.spotify.com/episode/0Zr8EKs4bcxB6sie1HX8Wz) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 39:03 |
 | 2 | [\#31 【ゲスト回！】現役Z世代ジャーナリストに聞く。自民党総裁選どう思った？](https://open.spotify.com/episode/5agbVtB7laUpDFlWXXI163) | [UNDERDOG in Tokyo](https://open.spotify.com/show/29gi5EprvrgyfO1BIhSEio) | [UNDERDOG in Tokyo](https://open.spotify.com/album/29gi5EprvrgyfO1BIhSEio) | 32:10 |
 | 3 | [\#99　今さらだけどMBTIってキモくね？](https://open.spotify.com/episode/2O90PIiSgYJd3XNRr7w9ij) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 27:49 |
 | 4 | [【Boiler Room Tokyo出演】nasthug日本のDJの立ち位置問題](https://open.spotify.com/episode/2Kzo027SvH2HrxHoTSKQiY) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 1:07:22 |

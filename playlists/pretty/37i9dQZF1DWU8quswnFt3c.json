@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Evangelia",
-  "num_followers": 1043312,
+  "num_followers": 1043869,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-01-08 05:01:29",
       "album": {
+        "name": "Akanchawa",
+        "url": "https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Akanchawa",
+      "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
+    },
+    {
+      "added_at": "2025-01-08 05:01:29",
+      "album": {
         "name": "\u904e\u671f",
         "url": "https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-01-08 05:01:29",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
-      },
-      "artists": [
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "New Energy",
-      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
-    },
-    {
-      "added_at": "2025-01-08 05:01:29",
-      "album": {
         "name": "EM \u0110AU",
         "url": "https://open.spotify.com/album/2GMJY1IHAFevyFbBYyULh1"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-01-08 05:01:29",
       "album": {
-        "name": "Akanchawa",
-        "url": "https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Akanchawa",
-      "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
     },
     {
       "added_at": "2025-01-08 05:01:29",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-08 05:01:29",
       "album": {
-        "name": "Boys My Age",
-        "url": "https://open.spotify.com/album/3zx92SpqoaijGJBAk7DwLt"
-      },
-      "artists": [
-        {
-          "name": "Aneesa Sheikh",
-          "url": "https://open.spotify.com/artist/3WK0CRjrjJdQUtkHfVmuCI"
-        }
-      ],
-      "duration_ms": 169892,
-      "name": "Boys My Age",
-      "url": "https://open.spotify.com/track/3AiOuIrFVSiCg1EUtD1KNH"
-    },
-    {
-      "added_at": "2025-01-08 05:01:29",
-      "album": {
         "name": "The Drive",
         "url": "https://open.spotify.com/album/6XDBfnlainFQWoABornPZS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 203750,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/65n8H53Q8DvQW0babhjr5W"
+    },
+    {
+      "added_at": "2025-01-08 05:01:29",
+      "album": {
+        "name": "Boys My Age",
+        "url": "https://open.spotify.com/album/3zx92SpqoaijGJBAk7DwLt"
+      },
+      "artists": [
+        {
+          "name": "Aneesa Sheikh",
+          "url": "https://open.spotify.com/artist/3WK0CRjrjJdQUtkHfVmuCI"
+        }
+      ],
+      "duration_ms": 169892,
+      "name": "Boys My Age",
+      "url": "https://open.spotify.com/track/3AiOuIrFVSiCg1EUtD1KNH"
     },
     {
       "added_at": "2025-01-08 05:01:29",

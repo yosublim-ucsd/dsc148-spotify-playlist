@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 38287,
+  "num_followers": 38302,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -187,38 +187,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -263,6 +247,22 @@
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -311,22 +311,6 @@
       "duration_ms": 282160,
       "name": "Dani California",
       "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -395,24 +379,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
@@ -420,25 +388,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+      "duration_ms": 208960,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -459,18 +411,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -491,6 +443,38 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 321093,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Boulevard of Broken Dreams",
-        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Dead Letters",
         "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 257920,
       "name": "In the Shadows",
       "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233026,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -767,38 +767,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -811,6 +779,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
         "name": "Favourite Worst Nightmare",
         "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 172866,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -879,6 +863,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "All the Right Reasons (Walmart Exclusive Edition)",
         "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 252040,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
         "name": "No Name Face",
         "url": "https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+      "duration_ms": 198973,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Mad Season",
         "url": "https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 270640,
       "name": "No Surprise",
       "url": "https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Scars & Souvenirs",
-        "url": "https://open.spotify.com/album/4a1HD2UUPH5unMngBeI6jb"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Not Meant To Be",
-      "url": "https://open.spotify.com/track/0ysA0Ufa2mTZeZfPKo9ypx"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "It's Not Over....The Hits So Far",
         "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 255253,
       "name": "Home",
       "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Scars & Souvenirs",
+        "url": "https://open.spotify.com/album/4a1HD2UUPH5unMngBeI6jb"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Not Meant To Be",
+      "url": "https://open.spotify.com/track/0ysA0Ufa2mTZeZfPKo9ypx"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "The Best Damn Thing",
-        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 231920,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "The Best Damn Thing",
+        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
     },
     {
       "added_at": "2024-07-12 15:02:20",

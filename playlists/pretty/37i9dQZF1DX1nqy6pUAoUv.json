@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181552,
+  "num_followers": 181574,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Wild Turkey",
         "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -743,54 +743,6 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
-        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 303626,
-      "name": "Lockdown On Date Night Tuesday",
-      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Under the Concrete",
-      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -815,6 +767,38 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Under the Concrete",
+      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
+        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 303626,
+      "name": "Lockdown On Date Night Tuesday",
+      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Rosey",
         "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Amythyst Kiah and Her Chest of Glass",
-        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah & Her Chest of Glass",
-          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
-        }
-      ],
-      "duration_ms": 362527,
-      "name": "Trouble so Hard",
-      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Beyond The Bloodhounds",
         "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+        "name": "Amythyst Kiah and Her Chest of Glass",
+        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
       },
       "artists": [
         {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+          "name": "Amythyst Kiah & Her Chest of Glass",
+          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
         }
       ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+      "duration_ms": 362527,
+      "name": "Trouble so Hard",
+      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1087,22 +1071,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Ruminations",
         "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 252373,
       "name": "Barbary Coast (Later)",
       "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Love Will Win the War",
-      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 223418,
       "name": "Come and Fill My Soul",
       "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Love Will Win the War",
+      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Songs Of",
         "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 273893,
       "name": "Lorraine",
       "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     }
   ],
   "unique_name": "Contemporary Folk",

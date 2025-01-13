@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 23675,
+  "num_followers": 23679,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

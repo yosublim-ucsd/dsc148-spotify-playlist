@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 229218,
+  "num_followers": 229258,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
-      },
-      "artists": [
-        {
-          "name": "Bane",
-          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Some Came Running",
-      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "State Of The World Address",
         "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
@@ -187,18 +155,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
       },
       "artists": [
         {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
         }
       ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -251,6 +219,38 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+        }
+      ],
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Before The Quarrel",
         "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -363,6 +347,38 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Friendship Loyalty Commitment",
         "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+        "name": "River Runs Red [Top Shelf Edition]",
+        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+      "duration_ms": 114680,
+      "name": "River Runs Red",
+      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -439,22 +455,6 @@
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "River Runs Red [Top Shelf Edition]",
-        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 114680,
-      "name": "River Runs Red",
-      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Words in Ink Don't Lie",
-        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
-      },
-      "artists": [
-        {
-          "name": "Endicott",
-          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Ransom Note",
-      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+        "name": "Words in Ink Don't Lie",
+        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
       },
       "artists": [
         {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+          "name": "Endicott",
+          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+      "duration_ms": 159066,
+      "name": "Ransom Note",
+      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -699,22 +683,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Get It Away",
-        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
-      },
-      "artists": [
-        {
-          "name": "SS Decontrol",
-          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
-        }
-      ],
-      "duration_ms": 166190,
-      "name": "Get It Away",
-      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Few and Far Between",
         "url": "https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Get It Away",
+        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
+      },
+      "artists": [
+        {
+          "name": "SS Decontrol",
+          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
+        }
+      ],
+      "duration_ms": 166190,
+      "name": "Get It Away",
+      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
     },
     {
       "added_at": "2024-02-07 16:33:52",

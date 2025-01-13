@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34742,
+  "num_followers": 34744,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAABY4EU7Vbe/UWvzlcqe0G+J",
+  "snapshot_id": "Z4G0gAAAAAB0R8nt78Yb6E7EBquvs3HH",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 197480,
       "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
       "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -759,50 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
       },
       "artists": [
         {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sim ou N\u00e3o",
-        "url": "https://open.spotify.com/album/3Tos7AqFcXHHFgD9j1Yanz"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
-        }
-      ],
-      "duration_ms": 121593,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/09j37F2o25MfX106K8xoMm"
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -831,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -855,22 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+        "name": "Sim ou N\u00e3o",
+        "url": "https://open.spotify.com/album/3Tos7AqFcXHHFgD9j1Yanz"
       },
       "artists": [
         {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
         }
       ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+      "duration_ms": 121593,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/09j37F2o25MfX106K8xoMm"
     },
     {
       "added_at": null,
@@ -1051,50 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANCADA",
-        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "PANCADA",
-      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET COQUETEL MOLOTOV",
         "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
       },
@@ -1151,6 +1107,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -1199,34 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca Com Press\u00e3o",
-        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
-      },
-      "artists": [
-        {
-          "name": "Mc Troia",
-          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
-        },
-        {
-          "name": "Mc Terror",
-          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 140231,
-      "name": "Soca Com Press\u00e3o",
-      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
       },
@@ -1259,6 +1231,34 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+      },
+      "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
     },
     {
       "added_at": null,
@@ -1335,6 +1335,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sigilo (Medley Delas)",
+        "url": "https://open.spotify.com/album/2E5N59Rpxao35WYArCIEzo"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex BNH",
+          "url": "https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Central dos Bailes",
+          "url": "https://open.spotify.com/artist/3fpAxSkLRgqGWNW2VxX15i"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "No Sigilo (Medley Delas)",
+      "url": "https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1363,34 +1391,6 @@
       "duration_ms": 237230,
       "name": "Rave Don't Start Now",
       "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Sigilo (Medley Delas)",
-        "url": "https://open.spotify.com/album/2E5N59Rpxao35WYArCIEzo"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex BNH",
-          "url": "https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl"
-        },
-        {
-          "name": "Triz",
-          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Central dos Bailes",
-          "url": "https://open.spotify.com/artist/3fpAxSkLRgqGWNW2VxX15i"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "No Sigilo (Medley Delas)",
-      "url": "https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo"
     },
     {
       "added_at": null,

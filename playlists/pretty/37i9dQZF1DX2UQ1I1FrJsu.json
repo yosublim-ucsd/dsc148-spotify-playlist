@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 101622,
+  "num_followers": 101820,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 166179,
       "name": "Are You Looking Up",
       "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Future Lover",
-      "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Future Lover",
+      "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
         }
       ],
-      "duration_ms": 176599,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
       "artists": [
         {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+      "duration_ms": 176599,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
     },
     {
       "added_at": "2024-10-04 17:28:20",

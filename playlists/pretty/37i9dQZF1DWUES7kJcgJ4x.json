@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 17766,
+  "num_followers": 17770,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 118480,
+      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
+      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 144933,
       "name": "La Favorita del Profesor (Teacher's Pet)",
       "url": "https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 118480,
-      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
-      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "The \"In\" Crowd",
-      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Profesor",
         "url": "https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 111645,
       "name": "Profesor",
       "url": "https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "The \"In\" Crowd",
+      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Una Guitarra Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp"
-      },
-      "artists": [
-        {
-          "name": "Maleni Castro",
-          "url": "https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt"
-        }
-      ],
-      "duration_ms": 125467,
-      "name": "Snob Ye Ye",
-      "url": "https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Born Losers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Rocio Durcal - Canciones De Juventud Los A\u00f1os Prodigiosos De Una Artista Inolvidable 1962- 1972",
-        "url": "https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh"
+        "name": "Una Guitarra Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Maleni Castro",
+          "url": "https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt"
         }
       ],
-      "duration_ms": 181786,
-      "name": "Tengo 17 A\u00f1os",
-      "url": "https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ"
+      "duration_ms": 125467,
+      "name": "Snob Ye Ye",
+      "url": "https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -523,6 +507,22 @@
       "duration_ms": 128325,
       "name": "El Juguete Extraordinario",
       "url": "https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Rocio Durcal - Canciones De Juventud Los A\u00f1os Prodigiosos De Una Artista Inolvidable 1962- 1972",
+        "url": "https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Tengo 17 A\u00f1os",
+      "url": "https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "M\u00e1s Bonita Que Ninguna",
-        "url": "https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "M\u00e1s Bonita Que Ninguna",
-      "url": "https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "M\u00e1s Bonita Que Ninguna",
+        "url": "https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "M\u00e1s Bonita Que Ninguna",
+      "url": "https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Let's Spend The Night Together",
         "url": "https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 232826,
       "name": "Let's Spend The Night Together",
       "url": "https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Ya Ya Twist - Ya Ya",
-      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -735,6 +719,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Ya Ya Twist - Ya Ya",
+      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Abrazame Fuerte",
         "url": "https://open.spotify.com/album/1K734Om38JYLMwRSycrMkp"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 102922,
       "name": "Nous tous",
       "url": "https://open.spotify.com/track/6lTNBo7bOR5gH2JPH1TnWZ"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "C'est Ma Chanson",
-        "url": "https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Je Me Sens Bien Aupr\u00e8s De Toi",
-      "url": "https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -815,6 +799,22 @@
       "duration_ms": 206400,
       "name": "The Cat",
       "url": "https://open.spotify.com/track/3accySZJEWnG4okxKazrFe"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "C'est Ma Chanson",
+        "url": "https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Je Me Sens Bien Aupr\u00e8s De Toi",
+      "url": "https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09"
     }
   ],
   "unique_name": "\u00a1Chicas Ye-y\u00e9!",

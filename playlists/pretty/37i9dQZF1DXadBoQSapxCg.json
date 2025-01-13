@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 314755,
+  "num_followers": 314752,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "Aladdin",
-        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Aladdin",
-      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -231,30 +211,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Bluesman",
         "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
       },
@@ -275,18 +231,26 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
       "artists": [
         {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -319,6 +283,42 @@
       "duration_ms": 288000,
       "name": "Me Negaram Amor",
       "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Aladdin",
+      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -359,6 +359,30 @@
       "duration_ms": 143245,
       "name": "Do jeito que tu gosta",
       "url": "https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Urs\u00e3o",
+          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
+        }
+      ],
+      "duration_ms": 209654,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -423,30 +447,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "Lingerie",
-        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Urs\u00e3o",
-          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
-        }
-      ],
-      "duration_ms": 209654,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Grupo bom",
         "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
       },
@@ -487,6 +487,38 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 139605,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
@@ -523,34 +555,18 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "INOCENTE",
-        "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
       },
       "artists": [
         {
-          "name": "Victor Sabri",
-          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 139605,
-      "name": "INOCENTE",
-      "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -591,22 +607,6 @@
       "duration_ms": 211451,
       "name": "Ser",
       "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
         "name": "Noite de Ver\u00e3o",
         "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "DISK",
         "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197073,
       "name": "Voc\u00ea n\u00e3o vive sem",
       "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Apela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
@@ -1091,22 +1071,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "VERSOS",
-        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
-      },
-      "artists": [
-        {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "DESASTRE NATURAL",
-      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Paga pra Ver",
         "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
       },
@@ -1119,6 +1083,42 @@
       "duration_ms": 132571,
       "name": "Paga pra Ver",
       "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "VERSOS",
+        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "DESASTRE NATURAL",
+      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
     },
     {
       "added_at": "2025-01-09 18:23:16",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,192 songs - 2 day 16 hr 43 min
+1,193 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Do U Want It](https://open.spotify.com/track/0FaYwDuZUSghdVvqxGyMTh) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18) | [Do U Want It](https://open.spotify.com/album/0PhQZV4ZaIk0rBJ6ohM1dF) | 2:45 | 2022-04-15 | 2022-07-06 |
 | [Don't Be Scared](https://open.spotify.com/track/25rqpMLESENiVFjNzttodH) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Don't Be Scared](https://open.spotify.com/album/6T2pHDmSL30dbstlgYAsLv) | 2:36 | 2020-09-21\* | 2021-02-20 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-08-14 | 2022-03-12 |
-| [Don't Go](https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Don't Go](https://open.spotify.com/album/3e0ey4aL4pWbdGl92S4F0m) | 2:56 | 2024-11-22 |  |
+| [Don't Go](https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Don't Go](https://open.spotify.com/album/3e0ey4aL4pWbdGl92S4F0m) | 2:56 | 2024-11-22 | 2025-01-13 |
 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2023-09-08 | 2023-11-08 |
 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 | 2020-11-03 | 2021-07-24 |
 | [Don't Stop](https://open.spotify.com/track/2iyVwlrSE1jJOrohg5tv0z) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Don't Stop](https://open.spotify.com/album/6OZjqjAdt1oy2yhSXAmTdU) | 2:46 | 2020-10-10 | 2021-03-26 |
@@ -1075,6 +1075,7 @@
 | [Together](https://open.spotify.com/track/3Fg6jSY7fvMRhbB8t1Jtxa) | [Space Corps](https://open.spotify.com/artist/7qU6syV2VBIfngLqdyWdQk) | [Together](https://open.spotify.com/album/6XR6wyMoXXq9MLfI3On2PT) | 3:46 | 2020-09-21\* | 2021-01-23 |
 | [Togetherness](https://open.spotify.com/track/6wFbB3D4ZDjTqHzuRcICFA) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Femme House](https://open.spotify.com/artist/7igDaRrtZrUessH723Tuvc), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/4vPR8RUetBphiU2UDaMwV1) | 3:40 | 2022-03-11 | 2022-06-12 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-22 |  |
+| [Told You So \- Agents Of Time Remix](https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Told You So \(Remixes Vol\. 2\)](https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY) | 3:41 | 2025-01-10 |  |
 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 | 2020-09-21\* | 2021-01-23 |
 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 | 2022-08-26 |
 | [Tonight](https://open.spotify.com/track/5YS0pmw5TcNOtJ3h9x6yQ6) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Jewelz & Sparks](https://open.spotify.com/artist/50kceDjknh0CjwOko7kx7V) | [Tonight](https://open.spotify.com/album/3A8Kl06DGv3Sj7S72xpBv5) | 2:53 | 2020-09-21\* | 2021-01-23 |

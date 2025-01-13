@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Akhir mra andwi 3lik",
+        "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
+      },
+      "artists": [
+        {
+          "name": "Aujiss",
+          "url": "https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Akhir mra andwi 3lik",
+      "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
+    },
+    {
+      "album": {
         "name": "Ana W Rassi",
         "url": "https://open.spotify.com/album/2W4as3s5ueGHrBjkqfjT4A"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 139531,
       "name": "Galess Fdar",
       "url": "https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD"

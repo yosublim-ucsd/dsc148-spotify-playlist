@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214397,
+  "num_followers": 214392,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "Sees Igjen",
         "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "AYT",
-        "url": "https://open.spotify.com/album/7gtvQgvvC8JrSC9mSpbvfP"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 159207,
-      "name": "AYT",
-      "url": "https://open.spotify.com/track/6XkqKHyHdIKBZC8qeMHsPv"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "Individ",
         "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 188067,
       "name": "Sucker For Pain",
       "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "AYT",
+        "url": "https://open.spotify.com/album/7gtvQgvvC8JrSC9mSpbvfP"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 159207,
+      "name": "AYT",
+      "url": "https://open.spotify.com/track/6XkqKHyHdIKBZC8qeMHsPv"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -595,6 +595,42 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
+        "name": "F*en Ikke Kjendis",
+        "url": "https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "duration_ms": 172346,
+      "name": "F*en Ikke Kjendis",
+      "url": "https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
         "name": "Bless Meg",
         "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
       },
@@ -643,42 +679,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "F*en Ikke Kjendis",
-        "url": "https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "F*en Ikke Kjendis",
-      "url": "https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 160106,
       "name": "Tenke Sj\u00e6l",
       "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "FRITT FALL",
-        "url": "https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "KEISEREN I NEW CLOTHES",
-      "url": "https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -783,6 +767,38 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
+        "name": "FRITT FALL",
+        "url": "https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "KEISEREN I NEW CLOTHES",
+      "url": "https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "Lever Livet",
+        "url": "https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 173307,
+      "name": "Lever Livet",
+      "url": "https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Lever Livet",
-        "url": "https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 173307,
-      "name": "Lever Livet",
-      "url": "https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -855,18 +855,22 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "players (feat. Ari Bajgora)",
+        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 266346,
-      "name": "Zanotti",
-      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
+      "duration_ms": 151693,
+      "name": "players (feat. Ari Bajgora)",
+      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
     }
   ],
   "unique_name": "ung, dum & lovende",

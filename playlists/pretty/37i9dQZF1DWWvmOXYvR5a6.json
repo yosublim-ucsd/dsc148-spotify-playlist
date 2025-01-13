@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: pH-1) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 220228,
+  "num_followers": 220245,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -327,26 +311,6 @@
       "duration_ms": 220681,
       "name": "Limousine (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -371,22 +335,38 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+      "duration_ms": 224606,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -411,6 +391,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -423,6 +423,26 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -451,50 +471,6 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Jam & Butterfly",
-        "url": "https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Jam & Butterfly",
-      "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -543,6 +519,46 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "Jam & Butterfly",
+        "url": "https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Jam & Butterfly",
+      "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 205393,
+      "name": "Mayday (Feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "Flip",
         "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "THE ONE YOU WANTED",
-        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "Mayday (Feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 189821,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -659,22 +679,18 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+        "name": "Vancouver 2",
+        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 189821,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+      "duration_ms": 202213,
+      "name": "Vancouver 2",
+      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -699,38 +715,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Vancouver 2",
-        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Vancouver 2",
-      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "FREAK LIKE ME",
-        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "FREAK LIKE ME",
-      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "H.A.L.F (Have.A.Little.Fun)",
         "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 216113,
       "name": "party (SHUT DOWN)",
       "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -815,42 +815,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -903,6 +867,42 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -959,42 +975,6 @@
       "duration_ms": 199064,
       "name": "Deep Sea (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Run away",
-      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "FIVE SENSES",
-        "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Complex (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "FIVE SENSES",
+        "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Complex (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Ring Ring",
-      "url": "https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1131,6 +1115,22 @@
       "duration_ms": 187889,
       "name": "COCO BOTTLE",
       "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 174644,
+      "name": "Beautiful (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 174644,
-      "name": "Beautiful (Feat. Skinny Brown)",
-      "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
       "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
         {
           "name": "ASH ISLAND",
           "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "BM 3rd Digital Single 'LOWKEY'",
+        "url": "https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE"
+        }
+      ],
+      "duration_ms": 136600,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/28sZmJreUGVfx5oMLN9BuM"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 217773,
       "name": "Rich Kids Anthem (Feat. Lee Hi)",
       "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "BM 3rd Digital Single 'LOWKEY'",
-        "url": "https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE"
-        }
-      ],
-      "duration_ms": 136600,
-      "name": "Lowkey",
-      "url": "https://open.spotify.com/track/28sZmJreUGVfx5oMLN9BuM"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "All Day (Better Days X Kim Seungmin, Layone)",
-        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "Dingo X Ambition Musik",
         "url": "https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 240717,
       "name": "Beer (Prod.Way Ched)",
       "url": "https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "All Day (Better Days X Kim Seungmin, Layone)",
+        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
-        "url": "https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
-      "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+        "url": "https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+      "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "ME TIME",
         "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
       },
@@ -1943,38 +1959,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Novel",
-        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "Novel",
+        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

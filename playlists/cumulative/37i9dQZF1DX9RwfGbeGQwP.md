@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,520 songs - 2 day 9 hr 15 min
+1,521 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1368,6 +1368,7 @@
 | [The Universe in Your Eyes](https://open.spotify.com/track/1BE5rjdi0tWcLY128eDffi) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [The Universe in Your Eyes](https://open.spotify.com/album/76UrEPKzm33n9uPRP894J6) | 2:04 | 2023-01-20 | 2023-11-17 |
 | [The Warmup](https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [The Warmup](https://open.spotify.com/album/6xTEwiGet96XGYpkLoWf2j) | 2:30 | 2022-01-27 | 2023-03-09 |
 | [Theme 9](https://open.spotify.com/track/3Rwjlw8iBHUH8Kd7SLFQeX) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 9](https://open.spotify.com/album/6XubX20LZ423SxdObUHFkZ) | 3:11 | 2023-04-27 | 2023-09-05 |
+| [These beautiful paws](https://open.spotify.com/track/52QkQ7onZ9POqsEMecB8L3) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [These beautiful paws](https://open.spotify.com/album/4mXXyzIfEwXfOTvY8QOWfc) | 2:46 | 2025-01-10 |  |
 | [Things I Should Have Said \- Emmavie Remix Instrumental](https://open.spotify.com/track/0VcpC5axCOrxCC9pmlEPGs) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Things I Should Have Said \(Emmavie Remix\)](https://open.spotify.com/album/6CZ0DpfxuIewEssPbF45LS) | 4:10 | 2022-11-25 | 2023-04-28 |
 | [Things you do](https://open.spotify.com/track/1iNaJc7fgR9gcgF6eqDzEl) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Things you do](https://open.spotify.com/album/7xQgDd1Vwxogr1SqW8RDWD) | 1:43 | 2023-02-07 | 2023-10-27 |
 | [Think Twice](https://open.spotify.com/track/2E4GnQYz1yUF58LDJrczdK) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z) | [Think Twice](https://open.spotify.com/album/0KUrUu4Z3WdgCiuxWmNtgl) | 2:52 | 2022-06-24 | 2022-07-01 |
@@ -1405,7 +1406,7 @@
 | [Tuesday](https://open.spotify.com/track/4i6soSPJv5nE00bolyoxZ3) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Gxldxn Fxnch](https://open.spotify.com/artist/05mJfp9M0IpJ6k07ikXIkB) | [Tuesday](https://open.spotify.com/album/5jNxny3pje8T25KIxIrQWw) | 3:30 | 2022-12-16 | 2023-03-25 |
 | [Tuesday, July 14](https://open.spotify.com/track/4yhW6u0AjkMvwUY4z9TPeQ) | [Dogman Chill](https://open.spotify.com/artist/24bL1XqEUecJLJp9V1jzd2) | [Tuesday, July 14](https://open.spotify.com/album/5SNvq17CajTfZrNHcxP3qc) | 2:00 | 2022-01-27 | 2022-06-03 |
 | [Turn Around](https://open.spotify.com/track/7wT0YJGsvdE4X8HDRPWloG) | [OldSchool G](https://open.spotify.com/artist/7BBTJSwpMnCqBtFZO7LULK) | [Old Tape](https://open.spotify.com/album/6CbPhpL2mZNzS9Am8ndtzZ) | 1:20 | 2022-01-27 | 2022-06-10 |
-| [Twentytwo](https://open.spotify.com/track/11lrWKtaMaQsgoleR6M4Ea) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Twentytwo](https://open.spotify.com/album/6kgPXQsdHR7hcUUahI5QzE) | 2:28 | 2022-09-23 |  |
+| [Twentytwo](https://open.spotify.com/track/11lrWKtaMaQsgoleR6M4Ea) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Twentytwo](https://open.spotify.com/album/6kgPXQsdHR7hcUUahI5QzE) | 2:28 | 2022-09-23 | 2025-01-13 |
 | [Two Five One](https://open.spotify.com/track/2niptOSHZYwcElHREtt4hZ) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Singularity In Motion](https://open.spotify.com/album/4AytRuRaGA1h2LwZrIlrfu) | 1:51 | 2022-01-27 | 2022-06-03 |
 | [Two Step](https://open.spotify.com/track/416tVSMjiWMYCV4lfRqP39) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Two Step](https://open.spotify.com/album/0vTcLSVmxJWr43j0YAVdmj) | 2:07 | 2022-10-28 | 2023-03-25 |
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-01-27 | 2022-07-08 |

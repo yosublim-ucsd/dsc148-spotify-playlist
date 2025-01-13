@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 443970,
+  "num_followers": 444182,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "A tale to tell",
-        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
-      },
-      "artists": [
-        {
-          "name": "Luiza Schmidt",
-          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
-        }
-      ],
-      "duration_ms": 130132,
-      "name": "A tale to tell",
-      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Elysian",
-        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+        "name": "A tale to tell",
+        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
       },
       "artists": [
         {
-          "name": "Flori Vivea",
-          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
         }
       ],
-      "duration_ms": 139375,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+      "duration_ms": 130132,
+      "name": "A tale to tell",
+      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -411,6 +395,22 @@
       "duration_ms": 142582,
       "name": "Before You",
       "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "duration_ms": 139375,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
-      },
-      "artists": [
-        {
-          "name": "Floyd Nova",
-          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Quiet Eyes",
         "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
-      },
-      "artists": [
-        {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Peace flow",
         "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Les Soir",
-        "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
-      },
-      "artists": [
-        {
-          "name": "Mes Croquis",
-          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
-        }
-      ],
-      "duration_ms": 144875,
-      "name": "Les Soir",
-      "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Act Of Reconciling",
         "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Les Soir",
+        "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
+      },
+      "artists": [
+        {
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
+        }
+      ],
+      "duration_ms": 144875,
+      "name": "Les Soir",
+      "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
       },
       "artists": [
         {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
         }
       ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Songs Of Sundown",
-        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "One More Story",
-      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 122998,
       "name": "Sound Of Mind",
       "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2024-07-10 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 233888,
+  "num_followers": 233923,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADaYydA8bgP9tE2IhIEi376",
+  "snapshot_id": "Z4G0gAAAAAB3FqXRY4uN34+u6QzX/YYD",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 323866,
       "name": "Se bastasse una canzone",
       "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Estrella Gemela - Remastered 2021",
-      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ali E Radici",
         "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 238640,
       "name": "Parla con me",
       "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Estrella Gemela - Remastered 2021",
+      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
     },
     {
       "added_at": null,
@@ -443,7 +443,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (Remastered 192 khz)",
+        "name": "Todo Historias (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
       "artists": [
@@ -455,22 +455,6 @@
       "duration_ms": 277266,
       "name": "F\u00e1bula - Remastered 2021",
       "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 241666,
       "name": "Ti sposer\u00f2 perch\u00e9",
       "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -527,7 +527,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (Remastered 192 khz)",
+        "name": "Todo Historias (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
       "artists": [
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 304573,
-      "name": "Si Bastasen un Par de Canciones",
-      "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+        "name": "Eros Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+      "duration_ms": 304573,
+      "name": "Si Bastasen un Par de Canciones",
+      "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Young Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,348 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,379 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 64 | [Days Like These](https://open.spotify.com/track/1vZ3XL2dbWuVYJrDnkY2j6) | [Trovaire](https://open.spotify.com/artist/7D3iJXB8C820wkvIkhRp1u) | [Days Like These](https://open.spotify.com/album/3ZYgGPqfhewx25DlOxsWv6) | 4:24 |
 | 65 | [ops don't know](https://open.spotify.com/track/6archygs5mRatJolcg4ai3) | [BTWRKS](https://open.spotify.com/artist/7zDtXPaUt31v22tT6HeL4G), [DYZZLE](https://open.spotify.com/artist/21ep9JbPg2092cYPKybob4) | [ops don't know](https://open.spotify.com/album/384BDVE9lAtZPxAqdWYga5) | 2:47 |
 
-Snapshot ID: `Z4BIoAAAAAAQj81eU6jiDg4uQBqBBnsZ`
+Snapshot ID: `Z4Q/FQAAAABUtEaGKP26DHal7Sd3awx1`

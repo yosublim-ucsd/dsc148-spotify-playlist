@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 4852,
+  "num_followers": 4854,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADyEdZlvCCviOgxqsMSEYvd",
+  "snapshot_id": "Z4G0gAAAAAC7Tjj8zO4PLIhJ1LBt7Xpz",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
+        "name": "Plano do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3P7kaN3yU9kqsLYFWDbyts"
       },
       "artists": [
         {
@@ -92,13 +92,13 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         },
         {
-          "name": "Pablo Gabriel",
-          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "duration_ms": 349984,
-      "name": "Deus do Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
+      "duration_ms": 448926,
+      "name": "Plano do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PD5MtZK2es46ZmjgSunUA"
     },
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3P7kaN3yU9kqsLYFWDbyts"
+        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
       },
       "artists": [
         {
@@ -128,13 +128,13 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         },
         {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
         }
       ],
-      "duration_ms": 448926,
-      "name": "Plano do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PD5MtZK2es46ZmjgSunUA"
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 293026,
-      "name": "Fogo e Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
+      "duration_ms": 293026,
+      "name": "Fogo e Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
     },
     {
       "added_at": null,

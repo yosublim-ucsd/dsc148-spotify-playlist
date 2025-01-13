@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,113 likes - 46 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,138 likes - 46 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 45 | [At All](https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:56 |
 | 46 | [You're Not Alone](https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq) | [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:36 |
 
-Snapshot ID: `Z4BjAAAAAAAtF4Or99pGaxV+sfzewHJD`
+Snapshot ID: `Z4G0gAAAAAAofybx02G29Aq1u/5Cq54Q`

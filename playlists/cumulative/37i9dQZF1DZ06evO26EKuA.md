@@ -4,7 +4,7 @@
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 55 min
+74 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Así Que Te Vas](https://open.spotify.com/track/2ztgz4z6ZTBY7kOvEkZ87j) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Antología Musical](https://open.spotify.com/album/3RlQl1k33Vm0kynw47fTjX) | 2:58 | 2022-06-01 | 2022-10-13 |
 | [Así Que Te Vas](https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 3:02 | 2022-12-20 | 2024-07-25 |
 | [Así Que Te Vas](https://open.spotify.com/track/60t2rZ1IpgzX2UQ8MLHWTX) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Así Que Te Vas](https://open.spotify.com/album/2oGmmDoPposslbmIBYljwH) | 3:03 | 2022-11-26 | 2022-12-21 |
-| [Aunque Te Enamores](https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:54 | 2022-06-01 |  |
+| [Aunque Te Enamores](https://open.spotify.com/track/20SYFuI4MDNkIl0CzNaa9x) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:52 | 2025-01-13 |  |
+| [Aunque Te Enamores](https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:54 | 2022-06-01 | 2025-01-13 |
 | [Catarino Y Los Rurales](https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:30 | 2022-06-01 | 2022-11-28 |
 | [Clave Privada \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 6:43 | 2022-06-01 |  |
 | [Corazon De Oro](https://open.spotify.com/track/4mGuAAAyVlYdgORnfrTQpQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 2:20 | 2022-06-01 | 2023-02-11 |

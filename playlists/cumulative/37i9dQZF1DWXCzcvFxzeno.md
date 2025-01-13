@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-215 songs - 16 hr 38 min
+216 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 | 2024-08-06 |
 | [Meet Me In São Paulo \(Grelinho De Diamante\)](https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Meet Me In São Paulo \(Grelinho De Diamante\) \(feat\. Heavy Baile, Baby Perigosa & MC Tchelinho\)](https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax) | 5:09 | 2024-06-18 |  |
 | [MIRAGE](https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [MIRAGE](https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb) | 2:45 | 2024-06-25 |  |
-| [Move It](https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Move It](https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T) | 4:33 | 2024-04-09 |  |
+| [Move It](https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Move It](https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T) | 4:33 | 2024-04-09 | 2025-01-13 |
 | [MUJER](https://open.spotify.com/track/3tCyfFH3PpwDGtXzoGqjJR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [MUJER](https://open.spotify.com/album/4bBFwCZ0I4VLSLqgYgsAjL) | 3:01 | 2024-04-09 | 2024-08-06 |
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |
 | [My Gasoline \- Hard Edit](https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline \(Hard Edit\)](https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P) | 4:03 | 2024-04-09 |  |
@@ -160,6 +160,7 @@
 | [Queen of the Banshees \- Nico Moreno Remix](https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Queen of the Banshees](https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA) | 5:42 | 2024-04-09 |  |
 | [Rage Power](https://open.spotify.com/track/0PX8SXZQLoEKhqdTbCTWhv) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Rage Power](https://open.spotify.com/album/1CNDOIgDMn3zc77HWT4mOh) | 5:23 | 2024-04-09 | 2024-07-04 |
 | [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 |  |
+| [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 | 2025-01-09 |  |
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2024-04-09 |  |
 | [Rave Nation](https://open.spotify.com/track/4aquVCFVojUxZXhVwEj7a9) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Rave Nation](https://open.spotify.com/album/53aj8TSRvB45xOxRXokV24) | 3:03 | 2024-10-24 | 2024-12-18 |
 | [Ready \- Hard Techno Mix](https://open.spotify.com/track/0w3uKrQXk948YwATI7yUbd) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Ready](https://open.spotify.com/album/5cxJyi502VfvaHBbZqKzOG) | 6:12 | 2024-04-09 | 2024-10-25 |

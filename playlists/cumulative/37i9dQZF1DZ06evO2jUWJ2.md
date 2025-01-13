@@ -4,7 +4,7 @@
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-71 songs - 7 hr 38 min
+72 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE) | 6:32 | 2024-05-24 |  |
 | [Available \(Live\)](https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 9:41 | 2024-05-24 | 2024-07-19 |
 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 | 2024-05-24 |  |
-| [Breath Of Heaven \(All Of A Sudden\) \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/0G2jK6DM71a3m4Sv3NmM54) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 5:57 | 2024-12-12 |  |
+| [Breath Of Heaven \(All Of A Sudden\) \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/0G2jK6DM71a3m4Sv3NmM54) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 5:57 | 2024-12-12 | 2025-01-13 |
 | [Como en el Cielo \(Here as in Heaven\)](https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 8:19 | 2024-05-24 |  |
+| [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 | 2025-01-13 |  |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2024-05-24 |  |
 | [Echo \(feat\. Tauren Wells\)](https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 3:56 | 2024-05-24 |  |
 | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/track/7dimXs7O4MhSYcLhb0Xfkd) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:49 | 2024-06-09 | 2024-07-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 917299,
+  "num_followers": 917642,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACq0oxMGfvaSRWVgbOvPwcd",
+  "snapshot_id": "Z4G0gAAAAACyEQxxYFVig494t1dy5uaV",
   "tracks": [
     {
       "added_at": null,
@@ -550,11 +550,15 @@
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
       "added_at": null,
@@ -614,15 +618,35 @@
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Life (feat. Mac Miller & Sia)",
+        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
+      },
+      "artists": [
+        {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 202390,
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
     },
     {
       "added_at": null,
@@ -659,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Life (feat. Mac Miller & Sia)",
-        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 202390,
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 170861,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buttons",
         "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+      "duration_ms": 170861,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 153881,
       "name": "Rain (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 292466,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
+      "duration_ms": 180866,
+      "name": "Clubhouse",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
     },
     {
       "added_at": null,

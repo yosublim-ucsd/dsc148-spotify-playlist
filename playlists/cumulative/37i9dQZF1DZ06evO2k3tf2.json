@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Twenty One Pilots",
+        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286506,
+      "name": "Addict With A Pen",
+      "url": "https://open.spotify.com/track/3MFertXkQGFCIXm0R8qUjW"
+    },
+    {
+      "album": {
+        "name": "Twenty One Pilots",
         "url": "https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM"
       },
       "artists": [

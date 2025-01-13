@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Alfredo Olivas
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,668 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,936 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [Ni Valia La Pena](https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [Ni Valia La Pena](https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc) | 4:00 |
 | 36 | [Día De Enero \(Acústico\)](https://open.spotify.com/track/5dlxEhfAgMvBFtn4Iyzuke) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Día De Enero \(Acústico\)](https://open.spotify.com/album/5ApQ3hqCT30AOEuhMuJasb) | 3:41 |
 | 37 | [VENEGAS ENCOUNTER \#1 YOGA FIRE](https://open.spotify.com/track/70R5AKAseBedrFtLfnydZm) | [Gael Venegas](https://open.spotify.com/artist/5WtplkvgEF6yGW3k0FgRLK), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF) | [VENEGAS ENCOUNTER \#1 YOGA FIRE](https://open.spotify.com/album/4yyKwDPTPr8M1JfUhzzojz) | 2:36 |
-| 38 | [Piensa En Mi \- En Vivo](https://open.spotify.com/track/6eK1gjANZJWBoNb7IyMmD4) | [Corona de Nietos](https://open.spotify.com/artist/4c1DFUyPa87iyajxNMWGJM) | [Corona De Nietos \(En Vivo\)](https://open.spotify.com/album/6UL3z27waKNPklVmK4TvaE) | 3:00 |
+| 38 | [Piensa En Mi \- En Vivo](https://open.spotify.com/track/6eK1gjANZJWBoNb7IyMmD4) | [Corona de Nietos](https://open.spotify.com/artist/4c1DFUyPa87iyajxNMWGJM) | [Corona De Nietos \(En Vivo\)](https://open.spotify.com/album/6UL3z27waKNPklVmK4TvaE) | 2:30 |
 | 39 | [Buscando El Sueño](https://open.spotify.com/track/5bGAgHZm64C8zECcZuW1jn) | [Grupo Equipado](https://open.spotify.com/artist/7iFs67Gxw00KXVkJ5UzTCF), [Eddie Apodaca](https://open.spotify.com/artist/33fpDV2B96f37FH6vLmGLT) | [Buscando El Sueño](https://open.spotify.com/album/3BtWI7W5arCnGPXnH0Vxyz) | 2:55 |
 | 40 | [Hasta La Raíz](https://open.spotify.com/track/50wQ7wMx4ce0pPsNLCXIS9) | [Los Nietos de Mochis](https://open.spotify.com/artist/6xxLbKb7UzoZ8B3yctDzBt), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Hasta La Raíz](https://open.spotify.com/album/6g3eDcwtTPKjOLhMNhjjgp) | 3:05 |
 | 41 | [Mis Chicharrones Truenan](https://open.spotify.com/track/5h3WdKNSrDbMJRSuiHCCUu) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Mis Chicharrones Truenan](https://open.spotify.com/album/3pTc2DQcJCKPPbrVq86MBd) | 2:57 |

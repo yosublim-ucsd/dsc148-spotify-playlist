@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. <br/><br/>Cover: Teddy Swims & Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,024 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,058 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 80 | [FEIN](https://open.spotify.com/track/45PzcEwB1sEJ1FI7KeAHQC) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [FEIN](https://open.spotify.com/album/2f3eClRYe1IlDQacXk3318) | 3:48 |
 | 81 | [Call You Back](https://open.spotify.com/track/4PwX8RVpc6VJkgxHLVRDwY) | [Kode](https://open.spotify.com/artist/6yEYr68BReibuoeyXQw79n) | [Call You Back](https://open.spotify.com/album/289Za76QwYA9BfqCNDRE9Y) | 3:41 |
 | 82 | [FOCUS ON ME](https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF) | [ENILA](https://open.spotify.com/artist/67PhsrPljsn5Y8qffgXjml) | [FOCUS ON ME](https://open.spotify.com/album/6vybXpLwgbPxm2bzKcGyLr) | 2:58 |
-| 83 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
+| 83 | [Now And Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now And Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 |
 | 84 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 |
 | 85 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 86 | [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 |

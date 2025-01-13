@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,824 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,822 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 53 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
 | 54 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 55 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
-| 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
-| 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
+| 56 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
+| 57 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
 | 58 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
 | 59 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
 | 60 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 85 | [Hi 5](https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa) | [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Rafał Sarnecki](https://open.spotify.com/artist/6luxZusOpIlFO6Ogz06RIY), [Paweł Dobrowolski](https://open.spotify.com/artist/5rg9nFblCIBIEGOFztbmyx) | [Flying Lion](https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR) | 6:04 |
 | 86 | [Toksyczny myśliciel / Toxic thinker](https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg) | [Władysław Komendarek](https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6), [Krzysztof Komendarek\-Tymendorf](https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts) | [AtomoGenus](https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS) | 6:19 |
 | 87 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 88 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
-| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 88 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 89 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 | 90 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
 
 Snapshot ID: `ZgE7OQAAAAApXB9/Dz9ytTtb0+it82dg`

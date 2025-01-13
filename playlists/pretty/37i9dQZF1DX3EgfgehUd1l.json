@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 171514,
+  "num_followers": 171552,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 162960,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Banana Boat Song",
         "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "25 Greatest Hits",
         "url": "https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL"
       },
@@ -331,6 +331,70 @@
       "duration_ms": 156793,
       "name": "Living Doll",
       "url": "https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -371,70 +435,6 @@
       "duration_ms": 168293,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Malcolm Vaughan",
-        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "St Therese of the Roses",
-      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Mr. Broadway",
         "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Magic Of Malcolm Vaughan",
+        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "St Therese of the Roses",
+      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Music To Watch Girls By - The Classics",
+        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 150573,
+      "name": "Mambo Italiano",
+      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Calamity Jane / The Pajama Game",
         "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 178933,
       "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
       "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Music To Watch Girls By - The Classics",
-        "url": "https://open.spotify.com/album/02F3n1WpxDOwGNX6fLP6to"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 150573,
-      "name": "Mambo Italiano",
-      "url": "https://open.spotify.com/track/5fTLxkGtPTcqgEY88AeB5r"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Let Me Go, Lover!",
-      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Legends Of Rock n' Roll",
         "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 118600,
       "name": "I'm In Love Again",
       "url": "https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Let Me Go, Lover!",
+      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Most of All",
         "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 169213,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Pure... '50s",
+        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "High Noon (Do Not Forsake Me)",
+      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Rock & Roll 50s & 60s Mix",
         "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Pure... '50s",
-        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "High Noon (Do Not Forsake Me)",
-      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Skiffle - From Britain to Broadway",
         "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 151186,
       "name": "Last Train to San Fernando",
       "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Climb Every Mountain",
-        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
-      },
-      "artists": [
-        {
-          "name": "Dickie Valentine",
-          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Finger of Suspicion",
-      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Climb Every Mountain",
+        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
+      },
+      "artists": [
+        {
+          "name": "Dickie Valentine",
+          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Finger of Suspicion",
+      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "I'm Walking Behind You - 2001 Remastered",
-      "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1163,22 +1147,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Essential - Easy Listening",
-        "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Half As Much (with Percy Faith & His Orchestra)",
-      "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
+      "duration_ms": 184400,
+      "name": "I'm Walking Behind You - 2001 Remastered",
+      "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1195,6 +1175,42 @@
       "duration_ms": 165466,
       "name": "My Special\u00a0Angel",
       "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Street Of Memories",
+        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "Walking My Baby Back Home",
+      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Essential - Easy Listening",
+        "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Half As Much (with Percy Faith & His Orchestra)",
+      "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Street Of Memories",
-        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Walking My Baby Back Home",
-      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Original Hits - Country",
         "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/1oHN7HNvyr2kCtFREr9FZt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 155360,
       "name": "More",
       "url": "https://open.spotify.com/track/1ift7pvnph4S0eHMLjYD4E"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",

@@ -4,12 +4,13 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-164 songs - 8 hr 10 min
+165 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-05 |  |
+| [A może](https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [A może](https://open.spotify.com/album/05KMnTJ04s20nZ3NcqMxpf) | 2:33 | 2024-12-09 |  |
 | [Ale ja](https://open.spotify.com/track/4D2RsHcxiLCnvJWtkGomyl) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Ale ja](https://open.spotify.com/album/3zOIePiY1Nm2JgKi9txVWd) | 2:45 | 2024-07-05 | 2024-07-19 |
 | [ALERTY RCB](https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [ALERTY RCB](https://open.spotify.com/album/3qWtFi06FJ8CyM4GprFhDu) | 2:45 | 2024-06-28 | 2024-07-06 |
 | [AMORE](https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj) | [tomash](https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY) | [AMORE](https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i) | 2:41 | 2024-07-05 | 2024-07-19 |
@@ -50,7 +51,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 | 2024-11-09 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-28 | 2024-11-30 |
 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 | 2024-06-28 | 2024-07-19 |
-| [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 | 2024-08-23 |  |
+| [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 | 2024-08-23 | 2025-01-13 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-06-28 | 2024-10-18 |
 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 | 2024-06-28 | 2024-09-28 |
 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 | 2024-09-27 |  |

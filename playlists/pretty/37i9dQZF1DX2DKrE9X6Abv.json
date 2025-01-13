@@ -1,6 +1,6 @@
 {
   "description": "this is your moment. ",
-  "num_followers": 777223,
+  "num_followers": 777361,
   "original_name": "end credits",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 344692,
+      "name": "I Know The End",
+      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 233226,
       "name": "The Gold - Phoebe Bridgers Version",
       "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 344692,
-      "name": "I Know The End",
-      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Triplbt Theme",
-        "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "jagger finn",
-          "url": "https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 90323,
-      "name": "Vas",
-      "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Triplbt Theme",
+        "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "jagger finn",
+          "url": "https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa"
         }
       ],
-      "duration_ms": 344344,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+      "duration_ms": 90323,
+      "name": "Vas",
+      "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Blondie",
-      "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Bon Iver, Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 262079,
       "name": "Perth",
       "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-08-08 19:49:51",

@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Soleima
 
-134 songs - 7 hr 10 min
+136 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2024-10-10 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
-| [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 |  |
+| [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-13 |
 | [Dopamin](https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Dopamin](https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs) | 2:28 | 2024-06-27 |  |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 |  |
 | [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 |  |
@@ -105,6 +105,7 @@
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 |  |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 |  |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
+| [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 |  |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2024-12-10 |
 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 |  |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
@@ -114,12 +115,13 @@
 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 | 2025-01-09 |  |
 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2024-06-27 |  |
+| [Smilet kommer nemt](https://open.spotify.com/track/23IPxqC6fLmkLBFUWb16mK) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Smilet kommer nemt](https://open.spotify.com/album/5HcOxZ8hnlLZ8OhWOEi8D4) | 2:42 | 2025-01-09 |  |
 | [Sol Gennem Regn](https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Sol Gennem Regn](https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385) | 2:53 | 2024-06-27 | 2024-11-25 |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2024-11-22 |
 | [Stemmer fra fjernsynet](https://open.spotify.com/track/0XMSfklhL44luk3W4vpIWl) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/3HpKzH04BvceLrOcvWUy6g) | 3:54 | 2024-11-28 | 2025-01-10 |
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-06-27 |  |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 | 2024-09-20 |
-| [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 |  |
+| [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 | 2025-01-13 |
 | [Syg Den Dag](https://open.spotify.com/track/7gukFEHaDj4kw3SiOzy0xY) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Syg Den Dag](https://open.spotify.com/album/2DxIcnkcsIOAi7k5GOX4gv) | 2:57 | 2024-11-28 | 2025-01-07 |
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
 | [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-11 | 2024-10-12 |

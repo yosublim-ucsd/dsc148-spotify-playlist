@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cardellino.",
-  "num_followers": 751134,
+  "num_followers": 751118,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
         "name": "balearico",
         "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 166666,
       "name": "pero me estoy acabando.",
       "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "uwu ^^",
         "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
       },
@@ -471,6 +455,38 @@
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "zarcillos de plata",
+        "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "BENDITA SEA LA HORA",
-        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 147711,
-      "name": "BENDITA SEA LA HORA",
-      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "zarcillos de plata",
-        "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
+        "name": "BENDITA SEA LA HORA",
+        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
         }
       ],
-      "duration_ms": 198009,
-      "name": "zarcillos de plata",
-      "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
+      "duration_ms": 147711,
+      "name": "BENDITA SEA LA HORA",
+      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 183265,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
-        "name": "MUY FINITO",
-        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "MUY FINITO",
-      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+        "name": "Francisca",
+        "url": "https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+      "duration_ms": 217717,
+      "name": "FRANCISCA",
+      "url": "https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -1091,22 +1107,6 @@
       "duration_ms": 177386,
       "name": "cielo dorado",
       "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
-        "name": "Francisca",
-        "url": "https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "FRANCISCA",
-      "url": "https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "chill like that ft. Jesse Baez",
-        "url": "https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ"
-      },
-      "artists": [
-        {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 154736,
-      "name": "chill like that ft. Jesse Baez",
-      "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "chill like that ft. Jesse Baez",
+        "url": "https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "chill like that ft. Jesse Baez",
+      "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
     }
   ],
   "unique_name": "Mixto",

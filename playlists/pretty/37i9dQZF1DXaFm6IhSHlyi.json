@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 146261,
+  "num_followers": 146268,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "My Only One (No Hay Nadie M\u00e1s)",
+        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "My Only One (No Hay Nadie M\u00e1s)",
+      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "My Only One (No Hay Nadie M\u00e1s)",
-        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "My Only One (No Hay Nadie M\u00e1s)",
-      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sumpah",
-        "url": "https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL"
-      },
-      "artists": [
-        {
-          "name": "Aina Abdul",
-          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Sumpah",
-      "url": "https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crying memories",
         "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 219913,
       "name": "\u672a\u958b\u5c01\u306e\u604b",
       "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sumpah",
+        "url": "https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Sumpah",
+      "url": "https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226575,
       "name": "Ohebbou Yadayka",
       "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bla Bik",
-        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
-      },
-      "artists": [
-        {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Bla Bik",
-      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bla Bik",
+        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Bla Bik",
+      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Obscured star",
         "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "Ramzi",
+          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+      "duration_ms": 205520,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 223200,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
       "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Amazing",
-        "url": "https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC"
-      },
-      "artists": [
-        {
-          "name": "Ramzi",
-          "url": "https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u767d\u663c\u5922",
         "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Mghayarni",
         "url": "https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 237000,
       "name": "Mghayarni",
       "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u304a\u3084\u3059\u307f\u3001\u304b\u307f\u3055\u307e",
         "url": "https://open.spotify.com/album/386egmOUDVbOAALGlYNBa7"
       },
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
-      },
-      "artists": [
-        {
-          "name": "En",
-          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
-        }
-      ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 297500,
       "name": "Dahan",
       "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
+      },
+      "artists": [
+        {
+          "name": "En",
+          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
+        }
+      ],
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+        "url": "https://open.spotify.com/album/6wns67svPCJsRZIrCfkLIb"
+      },
+      "artists": [
+        {
+          "name": "HammAli & Navai",
+          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
+        }
+      ],
+      "duration_ms": 240971,
+      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
+      "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
         "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
       },
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "#YOM",
         "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
       },
@@ -2427,6 +2427,22 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2515,22 +2531,6 @@
       "duration_ms": 148085,
       "name": "Zina",
       "url": "https://open.spotify.com/track/2eSAXnpJSYIJ7QyTErLvOb"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-        "url": "https://open.spotify.com/album/6wns67svPCJsRZIrCfkLIb"
-      },
-      "artists": [
-        {
-          "name": "HammAli & Navai",
-          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
-        }
-      ],
-      "duration_ms": 240971,
-      "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
-      "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
     }
   ],
   "unique_name": "Ballads International",

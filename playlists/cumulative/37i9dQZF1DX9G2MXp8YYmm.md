@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Ahmet Hatipoğlu
 
-191 songs - 9 hr 25 min
+192 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |
 | [Teselli](https://open.spotify.com/track/5k43UsKtxkZNaHHBnqNk1R) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Teselli](https://open.spotify.com/album/6z6X2q7CXRAm3YAj44oLHf) | 3:06 | 2024-10-24 | 2024-12-02 |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
-| [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 |  |
+| [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 | 2025-01-13 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-08-01 | 2024-12-26 |
 | [Uyan](https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Uyan](https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3) | 3:20 | 2024-09-26 | 2024-11-16 |
 | [Uzun Lafın Kısası](https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC) | 3:39 | 2024-06-27 |  |
@@ -195,6 +195,7 @@
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
 | [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 | 2024-11-15 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
+| [Özür Dilerim](https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Özür Dilerim](https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6) | 2:35 | 2025-01-09 |  |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 |  |
 | [Şehir Uyumaz](https://open.spotify.com/track/5neDaxItqF4c3BLDmrwcN6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Şehir Uyumaz](https://open.spotify.com/album/65WTiIQ7hpECDFr2r239C9) | 2:26 | 2024-11-28 | 2024-12-20 |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 |  |

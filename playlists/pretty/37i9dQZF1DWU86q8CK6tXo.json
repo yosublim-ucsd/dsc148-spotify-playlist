@@ -1,6 +1,6 @@
 {
   "description": "Our editors' top picks from EQUAL US 2024. Cover: Sabrina Carpenter",
-  "num_followers": 60785,
+  "num_followers": 60800,
   "original_name": "Best of EQUAL US 2024",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 201187,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Crimes of the Heart",
-      "url": "https://open.spotify.com/track/7gwAiQLMJLdfjGC2Khd5XG"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Sad Girl",
         "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205897,
       "name": "Girls",
       "url": "https://open.spotify.com/track/69G7RuNzwx4xdaqxvXtbpb"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/7gwAiQLMJLdfjGC2Khd5XG"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  Dirty Harry
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,661 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,664 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 11 | [Gia Na Gemiso To Piatto](https://open.spotify.com/track/5Z0KerziePqaj1Z7BiuWCC) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Gia Na Gemiso To Piatto](https://open.spotify.com/album/1Vu8D3m1OMkJI9RMILxrjc) | 2:34 |
 | 12 | [Opa Opa](https://open.spotify.com/track/3BLnkCKKESJlfJlW3bX8wd) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Golden Corner](https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1) | 3:26 |
 | 13 | [SHOOTER ME TN](https://open.spotify.com/track/37netkV0ymoeRg5qmwtmwW) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [SHOOTER ME TN](https://open.spotify.com/album/12L9wurTgo8rckZsWH9EG5) | 2:12 |
-| 14 | [International Gangsta](https://open.spotify.com/track/1LR8qpSRD2ULUiPQuUgsdr) | [Capital T](https://open.spotify.com/artist/6YGhVeajpGcixgdaTfakUL), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [International Gangster](https://open.spotify.com/album/0w8yNu2XbYdsLk5qptQIdA) | 2:25 |
+| 14 | [International Gangster](https://open.spotify.com/track/1LR8qpSRD2ULUiPQuUgsdr) | [Capital T](https://open.spotify.com/artist/6YGhVeajpGcixgdaTfakUL), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [International Gangster](https://open.spotify.com/album/0w8yNu2XbYdsLk5qptQIdA) | 2:25 |
 | 15 | [Napalm](https://open.spotify.com/track/33drGybPLf91WVPj6dj2yx) | [Pindos Atletico](https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck), [Half Quickie](https://open.spotify.com/artist/1sVr6APAAM9iJKccymeKwg) | [Napalm](https://open.spotify.com/album/42wXZ455NS0XxFT7mH6M0M) | 3:18 |
 | 16 | [Pes Mou Esy](https://open.spotify.com/track/7w7ow5XrszrokxYGODFPAl) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Pes Mou Esy](https://open.spotify.com/album/2TrkovCZtostIhHXnlm5gV) | 3:18 |
 | 17 | [ILEGAL](https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ILEGAL](https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF) | 2:48 |

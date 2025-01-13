@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,225 likes - 120 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,288 likes - 120 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Espresso](https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Espresso](https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP) | 3:09 |
+| 1 | [Espresso](https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Espresso](https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP) | 3:09 |
 | 2 | [How Long Gone \(with The Earls of Leicester\)](https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [The Earls Of Leicester](https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:56 |
 | 3 | [American Tune](https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [The New Modern Hymns](https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC) | 3:46 |
 | 4 | [Linger](https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw) | [The Desert Willows](https://open.spotify.com/artist/11kqrpD777gwAzqoqbGk11), [Shane Travis](https://open.spotify.com/artist/0Rpj6yLa15br1rTsEz4ZAv), [Cloverdale Family Band](https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Linger](https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x) | 4:00 |

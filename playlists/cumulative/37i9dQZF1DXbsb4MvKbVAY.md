@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa NEEA RIVER.
 
-726 songs - 1 day 12 hr 6 min
+727 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Scatman](https://open.spotify.com/track/5hAIsbKA5haCaSo1VkjuQT) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Scatman](https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp) | 2:20 | 2024-08-01 | 2024-08-09 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-10 |  |
 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 | 2024-12-05 | 2025-01-03 |
+| [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 | 2025-01-12 |  |
 | [Sentimental](https://open.spotify.com/track/0W4i6M9YSmn9CRrKUgahHn) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Angel Boy](https://open.spotify.com/album/1OVP84xvdNQXSfDMardwJs) | 3:50 | 2024-09-12 | 2024-09-20 |
 | [Seuraa](https://open.spotify.com/track/3qRR8uVp0CrDtaDxH0mj3E) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Seuraa](https://open.spotify.com/album/6ChVDZ5P3XLDqOax8lunym) | 3:36 | 2024-11-28 | 2024-12-06 |
 | [Sex = Money](https://open.spotify.com/track/628gpiZGfGTFt6shikJclc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sex = Money](https://open.spotify.com/album/2ZcQdeB6HuLYtcnR4o00x4) | 2:53 | 2024-10-10 | 2024-10-18 |
@@ -620,7 +621,7 @@
 | [Tarinoita](https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el), [Ty Roxy](https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt) | [Tarinoita](https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt) | 2:58 | 2024-10-03 | 2024-10-11 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 | 2024-11-16 |
 | [Tears](https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Tears](https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE) | 2:55 | 2024-07-02 | 2024-07-27 |
-| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 | 2025-01-13 |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-11 | 2024-09-13 |
 | [Teatro](https://open.spotify.com/track/7HcEbxAvNcnWa084L3JQqf) | [LEFT](https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG) | [Teatro \- EP](https://open.spotify.com/album/57qurPv4PbcDwgTIZlDgMG) | 1:44 | 2024-11-07 | 2024-11-15 |
 | [teenagestylez](https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK) | [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [teenagestylez](https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8) | 2:35 | 2025-01-02 | 2025-01-10 |

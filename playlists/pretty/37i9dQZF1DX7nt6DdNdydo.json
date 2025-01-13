@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 56128,
+  "num_followers": 56143,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -139,38 +123,6 @@
       "duration_ms": 170533,
       "name": "Going Back To New Orleans",
       "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Boogie At Midnight",
-        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 143230,
-      "name": "Mighty Mighty Man",
-      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -203,6 +155,54 @@
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Boogie At Midnight",
+        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 143230,
+      "name": "Mighty Mighty Man",
+      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Swingsation: Lionel Hampton",
         "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
       },
@@ -303,18 +319,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -331,22 +347,6 @@
       "duration_ms": 167866,
       "name": "Deacon Rides Again",
       "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The EP Collection... Plus",
-        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -431,6 +415,54 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection... Plus",
+        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -455,18 +487,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -483,38 +515,6 @@
       "duration_ms": 145852,
       "name": "Ravin' At The Haven",
       "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Boogie Woogie! Legends Of Jump Blues",
         "url": "https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 159280,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 171662,
+  "num_followers": 171679,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAC8GgtaCAA5hSFRuleXl+Yp",
+  "snapshot_id": "Z4G0gAAAAACk8p3RZ0e+9g4owZlOZqwo",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 254746,
       "name": "Outrunnin' Your Memory",
       "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": null,
@@ -399,6 +399,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Arms",
+        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -507,26 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Arms",
-        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
       "artists": [
         {
-          "name": "Jack Ingram",
-          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
-        },
-        {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
         }
       ],
-      "duration_ms": 150186,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+      "duration_ms": 204386,
+      "name": "Little Red Wagon",
+      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Little Red Wagon",
-      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dammit Randy",
-        "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 179559,
-      "name": "Dammit Randy",
-      "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+        "name": "Dammit Randy",
+        "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+      "duration_ms": 179559,
+      "name": "Dammit Randy",
+      "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
     },
     {
       "added_at": null,

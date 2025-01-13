@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 4778,
+  "num_followers": 4781,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACn9sPX55f+5HboCMVR4Z/O",
+  "snapshot_id": "Z4G0gAAAAADDQuPoQLkcerK2RmBuJTX5",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money Zone",
-        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 171502,
-      "name": "Money Zone",
-      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 198100,
       "name": "Furious!",
       "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
     },
     {
       "added_at": null,
@@ -563,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise It Up",
         "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
       },
@@ -619,28 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
       "artists": [
         {
@@ -648,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+      "duration_ms": 187263,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
     },
     {
       "added_at": null,
@@ -671,6 +619,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU"
       },
@@ -683,6 +667,38 @@
       "duration_ms": 178586,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 95",
+        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 219344,
       "name": "U Know It",
       "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 95",
-        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 169455,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
     },
     {
       "added_at": null,

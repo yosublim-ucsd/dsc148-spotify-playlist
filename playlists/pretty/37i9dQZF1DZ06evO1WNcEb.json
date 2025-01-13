@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66914,
+  "num_followers": 66910,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADWpIMA++X0zlxraIURsylw",
+  "snapshot_id": "Z4G0gAAAAADMDiVP0AwQcPPeR6vLlQBb",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 324104,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vigor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 266320,
       "name": "Vigor (Ao Vivo)",
       "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 324104,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Alma Abatida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Palavra Tocada",
+          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "A Alma Abatida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 319166,
       "name": "Grande \u00e9 o Nosso Deus",
       "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Alma Abatida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Palavra Tocada",
-          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "A Alma Abatida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
     },
     {
       "added_at": null,

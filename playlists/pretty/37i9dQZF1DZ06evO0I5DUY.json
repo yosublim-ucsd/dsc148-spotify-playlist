@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 217575,
+  "num_followers": 217661,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAAqYcOLxm0F+Evm1ccmR8eX",
+  "snapshot_id": "Z4G0gAAAAAAkP31mJA4V2Taeq9xAyKaG",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 192920,
-      "name": "La Tragedia de Rosita",
-      "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
+      "duration_ms": 190906,
+      "name": "El Caballo Jovero",
+      "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 190906,
-      "name": "El Caballo Jovero",
-      "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
+      "duration_ms": 192920,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una L\u00e1grima y Un Recuerdo",
         "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 160253,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+      "duration_ms": 149626,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Mandato Divino",
-      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 156880,
       "name": "Rezando Por Ella",
       "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "Cosas del Ayer",
-      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168746,
       "name": "Donde Estar\u00e1 Mi Caballo",
       "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
       "added_at": null,

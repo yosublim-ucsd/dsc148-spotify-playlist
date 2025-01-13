@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320398,
+  "num_followers": 320400,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Closer (feat. Chenai)",
         "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 234728,
       "name": "Closer (feat. Chenai)",
       "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
-      },
-      "artists": [
-        {
-          "name": "Joe Hunt",
-          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "ibiza2024",
+        "url": "https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ibiza2024",
+      "url": "https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "ibiza2024",
-        "url": "https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx"
-      },
-      "artists": [
-        {
-          "name": "t e s t p r e s s",
-          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ibiza2024",
-      "url": "https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "A Feeling",
         "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 158809,
       "name": "A Feeling",
       "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1943,22 +1943,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Back (feat. Flirta D)",
-        "url": "https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7"
+        "name": "Go Deeper",
+        "url": "https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi"
       },
       "artists": [
         {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         },
         {
-          "name": "Flirta D",
-          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
         }
       ],
-      "duration_ms": 187927,
-      "name": "Back (feat. Flirta D)",
-      "url": "https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF"
+      "duration_ms": 189697,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP"
     }
   ],
   "unique_name": "Island Anthems",

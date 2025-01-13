@@ -10206,7 +10206,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -63900,6 +63900,24 @@
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
+    },
+    {
+      "album": {
+        "name": "Watermelon",
+        "url": "https://open.spotify.com/album/32TiqX20SDNRt7XhK3PPWR"
+      },
+      "artists": [
+        {
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110132,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/1jQudBJvMAd7HuHZlTwrNz"
     },
     {
       "album": {

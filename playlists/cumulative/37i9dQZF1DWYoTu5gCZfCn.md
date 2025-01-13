@@ -4,11 +4,12 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-42 songs - 2 hr 35 min
+46 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000 Miles](https://open.spotify.com/track/7M5nhzGuEj5qJN0rlTApYG) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [1,000 Miles](https://open.spotify.com/album/0YQwNHKzCenO4sMdRZ7Qgi) | 3:38 | 2024-11-24 |  |
+| [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 | 2025-01-12 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-12-22 |  |
 | [Ain't Done Losing Yet](https://open.spotify.com/track/4L72ZizqSL74TLb3G7x0Le) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:18 | 2025-01-05 |  |
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2024-11-17 |  |
@@ -19,9 +20,11 @@
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
 | [Crossing Lines](https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 2:50 | 2024-12-29 |  |
 | [Debtor's Blues](https://open.spotify.com/track/3lRCvKMyA4wNAJas7wQLvQ) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:37 | 2024-11-17 |  |
+| [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 | 2025-01-12 |  |
 | [Empty As A Drum](https://open.spotify.com/track/2KfEpp0z0v9lDs04ZfQlBA) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 3:29 | 2024-12-01 |  |
 | [Everlasting Lover \- 2023](https://open.spotify.com/track/4vCPFDnjp7yDhPc2K0tKJm) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Everlasting Lover / Chemistry \(2023\)](https://open.spotify.com/album/6idQ2nraBCN25i7JrKvz54) | 3:06 | 2024-11-17 |  |
 | [Gin, Smoke, Lies](https://open.spotify.com/track/1ku4L6AywP1gY36BKYRvg0) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:37 | 2024-12-01 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 | 2025-01-12 |  |
 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 | 2024-11-24 |  |
 | [Hillbilly Hippie](https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:31 | 2024-12-22 |  |
 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 | 2024-12-01 |  |
@@ -37,6 +40,7 @@
 | [Moment of Truth](https://open.spotify.com/track/714tF0Vt9ohC9uWwEyIRAo) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 5:39 | 2024-12-22 |  |
 | [Neon & Off](https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha) | 3:51 | 2025-01-05 |  |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2024-11-17 |  |
+| [Sailing \- 2019 Remaster](https://open.spotify.com/track/3TQxruUMwpvoqe3Q0T7LnT) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/1f0yjn99Hownkom1KQ6e6Y) | 4:16 | 2025-01-12 |  |
 | [She's No Good](https://open.spotify.com/track/738oxPa234CXaqKH9bPHA4) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:26 | 2024-12-22 |  |
 | [Snakebite](https://open.spotify.com/track/3DmVV5vWnmswl6ZBNVWzbs) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Snakebite](https://open.spotify.com/album/45fU9PwOnq38Nhg3rLJjLF) | 3:48 | 2024-11-17 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2024-12-08 |  |

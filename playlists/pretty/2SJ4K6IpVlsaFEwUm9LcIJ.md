@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,547 likes - 10 songs - 42 min 12 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,555 likes - 12 songs - 48 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 8 | [Kitty's Midnight Blessing](https://open.spotify.com/track/3s3JfEWheRv35NIqQ5DpnJ) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [Songs Before Bed \(2022\)](https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk) | 3:14 |
 | 9 | [Partytime](https://open.spotify.com/track/0nVGhWnvTncLH6eInY90jO) | [The Jazz Butcher](https://open.spotify.com/artist/7zi9v3F5KzAuS3MkJtm5dc) | [Draining the Glass: 1982\-1986](https://open.spotify.com/album/49JVtWebi2mCRzMlzAHohJ) | 3:53 |
 | 10 | [My Only Love](https://open.spotify.com/track/1dtnRZGcl8PWdRacCGgJ0p) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 6:48 |
+| 11 | [Brinna ut](https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Brinna ut](https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv) | 3:21 |
+| 12 | [Du Aldrig Märker](https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Vol\. 2](https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C) | 2:53 |
 
-Snapshot ID: `AAALpE7OH8a63bnkw4IX6QHU+nHTXlNY`
+Snapshot ID: `AAALpnz/R+Rk5iVAQ6tUhY5u8vba9J31`

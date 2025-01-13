@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 43098,
+  "num_followers": 43100,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAASHpfwKIPRJ324Sa2BXa8l",
+  "snapshot_id": "Z4G0gAAAAADb4+4HwMaKgrFrpGKCqxTm",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Had a Dad",
-      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
+      "duration_ms": 376480,
+      "name": "Summertime Rolls",
+      "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 376480,
-      "name": "Summertime Rolls",
-      "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
+      "duration_ms": 225240,
+      "name": "Had a Dad",
+      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+      "duration_ms": 254560,
+      "name": "Suffer Some",
+      "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 254560,
-      "name": "Suffer Some",
-      "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,

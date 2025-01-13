@@ -4,7 +4,7 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 35 min
+84 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Drive](https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:06 | 2022-10-25 |  |
 | [Empty](https://open.spotify.com/track/4q9fBT07eKXUlbzXC4bxfB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 2:51 | 2023-09-09 | 2024-11-12 |
 | [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 | 2023-10-04 |  |
+| [Gold Econoline](https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Sandpaper and Silk](https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u) | 3:28 | 2025-01-13 |  |
 | [Gold Econoline](https://open.spotify.com/track/1N747HibtK5DZUwezC6zV9) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Gold Econoline](https://open.spotify.com/album/6KSH1Uegz02CQlhVL5uOLj) | 3:28 | 2024-06-23 | 2025-01-01 |
 | [Hard to Breathe](https://open.spotify.com/track/66c2npLufjTMeseF5eqBUn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 2:57 | 2022-10-25 |  |
 | [Hate](https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:43 | 2022-10-25 |  |
@@ -44,7 +45,7 @@
 | [Hurt](https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:36 | 2023-01-02 |  |
 | [I Am on Your Side](https://open.spotify.com/track/1px77UKoKm3fy2EXEwXaXk) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely XV](https://open.spotify.com/album/1YtsGpv3NdF0vgzO54C9aU) | 3:18 | 2023-12-13 | 2024-01-11 |
 | [I Will Follow You into the Dark](https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [I Will Follow You into the Dark / Cinco De Mayo Shit Show](https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I) | 3:19 | 2024-10-19 |  |
-| [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 | 2022-10-25 |  |
+| [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 | 2022-10-25 | 2025-01-13 |
 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 | 2022-10-25 |  |
 | [Language Lessons \(Five Words or Less\)](https://open.spotify.com/track/4BQ20AoXE9Z27kw4EFZ3os) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely XV](https://open.spotify.com/album/1YtsGpv3NdF0vgzO54C9aU) | 3:18 | 2023-12-13 | 2024-01-19 |
 | [Life On Standby](https://open.spotify.com/track/0Cp4EGSI11ePgUD3qpt5Nn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:11 | 2022-10-25 |  |

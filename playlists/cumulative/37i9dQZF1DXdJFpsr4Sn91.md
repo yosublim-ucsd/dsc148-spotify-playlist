@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-453 songs - 22 hr 38 min
+454 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Sattuu jos sattuu](https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Sattuu jos sattuu](https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr) | 2:25 | 2024-10-10 | 2024-11-15 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 |  |
 | [Se Mitä Sä Oot](https://open.spotify.com/track/4NvEbMve0zfhiOcGWQS4hA) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Se Mitä Sä Oot](https://open.spotify.com/album/5zR3zSZCAKtKh3xILB7Kwo) | 3:34 | 2024-12-12 | 2025-01-10 |
+| [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 | 2025-01-12 |  |
 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 | 2024-07-04 | 2024-09-13 |
 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 | 2024-09-05 | 2024-10-04 |
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-09-13 |

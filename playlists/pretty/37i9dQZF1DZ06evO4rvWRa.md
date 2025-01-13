@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,958 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641,042 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 50 | [Hello World](https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [Hello World](https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era) | 2:51 |
 | 51 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |
 
-Snapshot ID: `Z4BjAAAAAAC+pvA7wfCqnnfoW/dbk6WN`
+Snapshot ID: `Z4G0gAAAAADKcHOrkUGbXOq6Y3MvIDAd`

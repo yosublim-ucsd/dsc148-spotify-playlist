@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=ZKrnVFIzQzaoMJ\_NKl\-4PQ"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642,169 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642,427 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

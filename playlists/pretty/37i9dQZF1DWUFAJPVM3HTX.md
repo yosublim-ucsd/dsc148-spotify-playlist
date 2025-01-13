@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The top 100 tracks from Fresh Finds R&B in 2024\. Cover: <a href="https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=NV0gSFmrQl\-GbM3qsO7R1w">Lekan</a>, <a href="hhttps://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p?si=w\-X62KvVSs6cHjRpenTdsQ">Rowena fysx</a>, and <a href="https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb?si=Y8ejJ\_N\-QhCsIIeHVX3TYw">kwn</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,971 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,023 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

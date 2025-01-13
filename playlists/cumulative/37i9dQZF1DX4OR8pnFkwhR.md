@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: Lavt
+> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: 7co
 
 1,759 songs - 4 day 10 hr 56 min
 

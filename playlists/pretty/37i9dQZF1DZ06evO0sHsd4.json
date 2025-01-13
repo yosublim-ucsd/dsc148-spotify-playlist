@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 11546,
+  "num_followers": 11571,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACDqQ6y/Exx7ZwXtL7ceEYf",
+  "snapshot_id": "Z4G0gAAAAAA3WUte8DV0Z2jxgp8QJ7Oo",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 164343,
-      "name": "BARCELONA",
-      "url": "https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq"
+      "duration_ms": 158306,
+      "name": "MADE IN PARIS",
+      "url": "https://open.spotify.com/track/3m1Yb8X1XaH54NnNrzPzbn"
     },
     {
       "added_at": null,
@@ -446,15 +446,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "El Juanpa",
-          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 171093,
-      "name": "La Vida Real",
-      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
+      "duration_ms": 162346,
+      "name": "Donde Estamos Hoy",
+      "url": "https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A"
     },
     {
       "added_at": null,
@@ -514,11 +510,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "El Juanpa",
+          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Donde Estamos Hoy",
-      "url": "https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A"
+      "duration_ms": 171093,
+      "name": "La Vida Real",
+      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
     },
     {
       "added_at": null,

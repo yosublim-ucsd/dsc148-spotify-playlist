@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 185591,
+  "num_followers": 185709,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 171448,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/2G5b00dq8S0pAo3I4kC7cI"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
         "url": "https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 234437,
       "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
       "url": "https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 291929,
-      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "SUBEME LA RADIO",
         "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
       },
@@ -411,6 +391,26 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 291929,
+      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Lobo Hombre En Par\u00eds",
         "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 243684,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "M\u00e1tenme Porque Me Muero",
-        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 206993,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cien A\u00f1os",
         "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
+        "name": "M\u00e1tenme Porque Me Muero",
+        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },
       "artists": [
         {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+      "duration_ms": 206993,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -675,6 +659,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Lucha De Gigantes",
-        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
-      },
-      "artists": [
-        {
-          "name": "Mac Gregor",
-          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
-        }
-      ],
-      "duration_ms": 226113,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis ojos lloran por ti",
         "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 230571,
       "name": "Mis ojos lloran por ti",
       "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Lucha De Gigantes",
+        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
+      },
+      "artists": [
+        {
+          "name": "Mac Gregor",
+          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
+        }
+      ],
+      "duration_ms": 226113,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -807,38 +807,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "D\u00e9jala que vuelva",
-        "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "D\u00e9jala que vuelva",
-      "url": "https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -887,24 +855,24 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
       "artists": [
         {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+        "name": "D\u00e9jala que vuelva",
+        "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
       },
       "artists": [
         {
@@ -912,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
+      "duration_ms": 198000,
+      "name": "D\u00e9jala que vuelva",
+      "url": "https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -931,6 +899,22 @@
       "duration_ms": 238874,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+      },
+      "artists": [
+        {
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+        }
+      ],
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+        "name": "Y C\u00f3mo Es \u00c9l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
       "artists": [
         {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
         }
       ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
+      "duration_ms": 231500,
+      "name": "Y C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1019,24 +1003,24 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Y C\u00f3mo Es \u00c9l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Y C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
       },
       "artists": [
         {
@@ -1044,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 174223,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Muerte En Hawaii",
+        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
+      },
+      "artists": [
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Muerte En Hawaii",
+      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Otro trago",
         "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Muerte En Hawaii",
-        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
       },
       "artists": [
         {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 186689,
-      "name": "Muerte En Hawaii",
-      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+      "duration_ms": 174223,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
-      },
-      "artists": [
-        {
-          "name": "Jaime Kohen",
-          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
-        }
-      ],
-      "duration_ms": 218722,
-      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 172839,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
+      },
+      "artists": [
+        {
+          "name": "Jaime Kohen",
+          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
+        }
+      ],
+      "duration_ms": 218722,
+      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/3LTGzOSbZdjNNqgKOKiyrD"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 110580,
+      "name": "Vaina loca",
+      "url": "https://open.spotify.com/track/5hWNpIhfIWozucVH85I0WX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 114624,
       "name": "Ropa Cara",
       "url": "https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/3LTGzOSbZdjNNqgKOKiyrD"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 110580,
-      "name": "Vaina loca",
-      "url": "https://open.spotify.com/track/5hWNpIhfIWozucVH85I0WX"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

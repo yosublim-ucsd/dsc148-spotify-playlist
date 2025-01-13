@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 189265,
+  "num_followers": 189386,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
         "name": "Age Ain't Nothing But A Number",
         "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 345975,
       "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Ironsides",
-          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Ironsides",
+          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
         "name": "Coastin\u2019",
         "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
         }
       ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+      "duration_ms": 290893,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        },
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 290893,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
         "name": "That's What I Love",
         "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2025-01-10 05:00:36",

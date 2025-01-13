@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05",
+        "url": "https://open.spotify.com/album/4LtWSOGZrbUE0qS0GVgVPw"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Beautiful Believer",
+      "url": "https://open.spotify.com/track/6AceuLpJFa58uxuQGzxy0x"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
         "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 288800,
       "name": "CAT CROSSING",
       "url": "https://open.spotify.com/track/4IO92tOZoatBTiCMMYPIsE"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 240613,
       "name": "Cherry Colored Love",
       "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 206960,
       "name": "Cross the future",
       "url": "https://open.spotify.com/track/72DzVepAMb91WpQ4P7e6dv"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 304066,
       "name": "Decided",
       "url": "https://open.spotify.com/track/5T10KXbxd6sQ4XuhKvVUBg"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 222106,
       "name": "Happy Darling",
       "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 263186,
       "name": "Melty Fantasia",
       "url": "https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV"
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 289333,
       "name": "Oli Oli DISCO",
       "url": "https://open.spotify.com/track/6ox34fMSH1uNFrb6qQU2lX"
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 285680,
       "name": "Sing a Wing Song",
       "url": "https://open.spotify.com/track/7ybH7Xhh53NiARzbKLFByD"
@@ -5922,7 +5940,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 269040,
       "name": "\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9 \u30aa\u30a2 \u30dc\u30a4\u30b9",
       "url": "https://open.spotify.com/track/4LsfssM5Wk8G7t3UIIKpSW"
@@ -6466,6 +6484,32 @@
       "duration_ms": 193000,
       "name": "\u30d5\u30a7\u30b9\u30bf\u30fb\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4SgY4ttJOw7jPFCqcrUcV1"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 17 ARMooo",
+        "url": "https://open.spotify.com/album/6SYVfAsmO3ctaLBZbMlEhs"
+      },
+      "artists": [
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        },
+        {
+          "name": "\u79cb\u6708\u5f8b\u5b50 (CV.\u82e5\u6797\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/5HZNAcx2uLDOP0ol6d1Eyy"
+        },
+        {
+          "name": "\u53cc\u6d77\u4e9c\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225773,
+      "name": "\u30d5\u30ea\u30fc\u30b9\u30bf\u30a4\u30eb\u30fb\u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\uff01",
+      "url": "https://open.spotify.com/track/7DpjzwMD1nsdcIMyUR47ZQ"
     },
     {
       "album": {
@@ -8208,7 +8252,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

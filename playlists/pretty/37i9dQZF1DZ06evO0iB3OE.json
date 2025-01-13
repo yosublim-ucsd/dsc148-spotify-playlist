@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9317,
+  "num_followers": 9319,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADYD55CcYFeuTjQuJPVkMou",
+  "snapshot_id": "Z4G0gAAAAABwP3ULCG7FHK6CLd1vHzPe",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Enemigo P\u00fablico",
-        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
       "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 168613,
-      "name": "La Puerta Del Infierno",
-      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+      "duration_ms": 189687,
+      "name": "El Plebe del Dos de Oro",
+      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
     },
     {
       "added_at": null,
@@ -532,29 +536,25 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 216850,
-      "name": "La Clave 7 - En Vivo",
-      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
+      "duration_ms": 200596,
+      "name": "Los 3 Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+        "name": "El Enemigo P\u00fablico",
+        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
       },
       "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 189687,
-      "name": "El Plebe del Dos de Oro",
-      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+      "duration_ms": 168613,
+      "name": "La Puerta Del Infierno",
+      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 200596,
-      "name": "Los 3 Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
+      "duration_ms": 216850,
+      "name": "La Clave 7 - En Vivo",
+      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 152383,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Compa Many (En Vivo)",
         "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 171363,
       "name": "El Compa Many - En Vivo",
       "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 152383,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 142093,
-      "name": "Gente del Macho",
-      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 140053,
-      "name": "La Compra y Venta",
-      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+      "duration_ms": 142093,
+      "name": "Gente del Macho",
+      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "La Compra y Venta",
+      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 185906,
       "name": "Los Dos Jefes",
       "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 162771,
-      "name": "Gilberto Palomares",
-      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 135673,
       "name": "Qui\u00e9reme - En Vivo",
       "url": "https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "Gilberto Palomares",
+      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
       "added_at": null,

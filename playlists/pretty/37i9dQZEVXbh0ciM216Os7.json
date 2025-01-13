@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABLYEgrhHbYXrOd+Q5hoIxK",
+  "snapshot_id": "AAAAAAAAAAAbjqf0zCXX82+BK1hGb74P",
   "tracks": [
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+    },
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
@@ -27,18 +43,26 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "5 Dollar Pony Rides",
-        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+        "name": "Alter Ego (feat. Eminem)",
+        "url": "https://open.spotify.com/album/2LUWCihTuzpeW2POZhClra"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "DJ Rell",
+          "url": "https://open.spotify.com/artist/4sw1fHktKBWUVIoSUGGxrT"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 222119,
-      "name": "5 Dollar Pony Rides",
-      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+      "duration_ms": 153250,
+      "name": "Alter Ego (feat. Eminem)",
+      "url": "https://open.spotify.com/track/4fchxVAOV4T6fkaL8jkNou"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -83,90 +107,26 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Alter Ego (feat. Eminem)",
-        "url": "https://open.spotify.com/album/2LUWCihTuzpeW2POZhClra"
+        "name": "laugh n cry",
+        "url": "https://open.spotify.com/album/6h4qsbfsrgt9EqKU7a8IzJ"
       },
       "artists": [
         {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+          "name": "Dilly Yung",
+          "url": "https://open.spotify.com/artist/4YkMAl39Ivylkhs6rhaB0I"
         },
         {
-          "name": "DJ Rell",
-          "url": "https://open.spotify.com/artist/4sw1fHktKBWUVIoSUGGxrT"
+          "name": "King Geedorah",
+          "url": "https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa"
         },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
         }
       ],
-      "duration_ms": 153250,
-      "name": "Alter Ego (feat. Eminem)",
-      "url": "https://open.spotify.com/track/4fchxVAOV4T6fkaL8jkNou"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "Lionel Rich",
-        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
-      },
-      "artists": [
-        {
-          "name": "jacuzzi jefferson",
-          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
-        },
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 108280,
-      "name": "Lionel Rich",
-      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "247365",
-        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
-      },
-      "artists": [
-        {
-          "name": "MC.SUPRA",
-          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "247365",
-      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "All Business",
-        "url": "https://open.spotify.com/album/6J89HPRzMqeZds3P5JVTN2"
-      },
-      "artists": [
-        {
-          "name": "Sippinjuiceluke",
-          "url": "https://open.spotify.com/artist/6SkeNFcqKit98fEd0RPwrw"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "All Business",
-      "url": "https://open.spotify.com/track/1oFu0bg5nI7jvKFyQRMHUz"
+      "duration_ms": 185666,
+      "name": "laughter",
+      "url": "https://open.spotify.com/track/0g77ZCFjyV1cWkWN3MVVYd"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -187,6 +147,38 @@
       "duration_ms": 395226,
       "name": "Disappear - Morales 12\" Mix",
       "url": "https://open.spotify.com/track/4LdfjHLN9QmDXIL3SM1Z6l"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "American Primeval (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0N1aDLJfHd3s78yZINQAqH"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "A Melancholy",
+      "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Eventyr I: Strid",
+        "url": "https://open.spotify.com/album/7umQf4GPP3taEvL5nA7Uh0"
+      },
+      "artists": [
+        {
+          "name": "Kveld",
+          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "Brynhildirs Vrede",
+      "url": "https://open.spotify.com/track/2YmbhctU2TrCombmTSCkEZ"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -287,6 +279,34 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 213739,
+      "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
+      "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
         "name": "Montagem Lunar Diamante",
         "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
       },
@@ -347,6 +367,22 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
         "name": "trouble",
         "url": "https://open.spotify.com/album/3l54dy6FmhlacUqizE6aYE"
       },
@@ -363,18 +399,18 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -411,22 +447,6 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
         "name": "Pink Dreads",
         "url": "https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 120417,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -583,22 +587,26 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Asteroids (Redux)",
-        "url": "https://open.spotify.com/album/1viuwpXUtbu89JFAvLyBEZ"
+        "name": "Lift Me Up (feat. Moby)",
+        "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
       },
       "artists": [
         {
-          "name": "Tsukii HiFi",
-          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
         },
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Asteroids - Redux",
-      "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
+      "duration_ms": 215652,
+      "name": "Lift Me Up (feat. Moby)",
+      "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -619,6 +627,26 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
+        "name": "Asteroids (Redux)",
+        "url": "https://open.spotify.com/album/1viuwpXUtbu89JFAvLyBEZ"
+      },
+      "artists": [
+        {
+          "name": "Tsukii HiFi",
+          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Asteroids - Redux",
+      "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
         "name": "The Bells",
         "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 164666,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "Janus 1",
-        "url": "https://open.spotify.com/album/0qiNzaJJZlUawZK6lE862y"
-      },
-      "artists": [
-        {
-          "name": "The Incomplete Orchestra",
-          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Lone Wolf",
-          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
-        },
-        {
-          "name": "P-Earl Gray",
-          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Chi Mi Na Morbheanna - NYE Bash!",
-      "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
     },
     {
       "added_at": "2025-01-10 05:00:00",

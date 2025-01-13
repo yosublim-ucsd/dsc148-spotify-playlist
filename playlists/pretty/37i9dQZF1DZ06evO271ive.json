@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 23419,
+  "num_followers": 23448,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACrsei4ejVrrWlTQkV7gCO7",
+  "snapshot_id": "Z4G0gAAAAADUHgehQxaNLDDO8sEi2qlC",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Grape Trees (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "41 World: Not The Album",
         "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 217600,
       "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
       "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Almighty So 2",
-        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Grape Trees (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
     },
     {
       "added_at": null,

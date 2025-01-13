@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 439534,
+  "num_followers": 439576,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADPlahZEh4z9g1BYVhC33lV",
+  "snapshot_id": "Z4G0gAAAAABb2/8ktlt1aW/mN+OubkMr",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equipo Armado",
-        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 151903,
-      "name": "Mi 45",
-      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio (En Vivo)",
       "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equipo Armado",
+        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 151903,
+      "name": "Mi 45",
+      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 509843,
+  "num_followers": 510088,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -463,22 +463,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Louisiana Woman, Mississippi Man",
-        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 151731,
-      "name": "Louisiana Woman, Mississippi Man",
-      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -515,18 +511,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Louisiana Woman, Mississippi Man",
+        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+      "duration_ms": 151731,
+      "name": "Louisiana Woman, Mississippi Man",
+      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 241813,
       "name": "One Piece at a Time",
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Honky Tonkin (Expanded Undubbed Edition)",
         "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 174866,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 133880,
       "name": "Is Anybody Goin' to San Antone",
       "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "The Essential Charley Pride",
-        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 123133,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "The Essential Marty Robbins 1951-1982",
-        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Singing the Blues",
-      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 146733,
       "name": "It Must Be Love - Single Version",
       "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2024-07-05 20:27:10",

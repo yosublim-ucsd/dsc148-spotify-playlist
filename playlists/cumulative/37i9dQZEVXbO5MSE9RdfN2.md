@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,117 songs - 2 day 11 hr 16 min
+1,118 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-09-01 | 2024-10-01 |
 | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r) | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2) | 2:11 | 2024-03-23 | 2024-03-26 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-11-12 | 2024-11-17 |
+| [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 | 2025-01-12 |  |
 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 | 2024-02-10 | 2024-02-16 |
 | [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 | 2025-01-08 |  |
 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 | 2024-04-25 | 2024-05-03 |
@@ -615,7 +616,7 @@
 | [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 | 2024-05-23 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-14 | 2024-05-17 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-04 | 2024-06-20 |
-| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-12-10 |  |
+| [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-12-10 | 2025-01-13 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-04 | 2024-06-16 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 | 2024-12-10 |  |
 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-12-11 | 2025-01-10 |

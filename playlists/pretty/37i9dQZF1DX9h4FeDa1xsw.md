@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,538 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,545 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 6 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 |
 | 7 | [C'était pas à cause de toi](https://open.spotify.com/track/3uSDY2dLDJAeD0XSbHXqQS) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [C'était pas à cause de toi](https://open.spotify.com/album/0jd8duD71fY28gZyuvGhJt) | 2:46 |
 | 8 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 |
-| 9 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
+| 9 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
 | 10 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
 | 11 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 |
 | 12 | [Ma belle](https://open.spotify.com/track/73jDBKrSmL3IKAUAjGanPC) | [Eye's Berg](https://open.spotify.com/artist/7CayiktXZ1bRAkG9qGsctx) | [Ma belle](https://open.spotify.com/album/3mHYcrwTYCUjxULbTxN8Sw) | 2:21 |

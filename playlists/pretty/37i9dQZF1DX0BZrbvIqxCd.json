@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543792,
+  "num_followers": 543784,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -303,22 +319,6 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -763,18 +763,34 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+        "name": "Humble As The Sun",
+        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         }
       ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
+      "duration_ms": 158422,
+      "name": "He's A Man",
+      "url": "https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Humble As The Sun",
-        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 158422,
-      "name": "He's A Man",
-      "url": "https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Afraid of Heights (Deluxe Version)",
         "url": "https://open.spotify.com/album/2kqjqQneZx935suPAhokuj"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Waiting Room",
-        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 194833,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -891,22 +875,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Playing Dead",
-      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -923,6 +891,38 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 194833,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Playing Dead",
+      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 105826,
-      "name": "Do The Paranoid Style",
-      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -999,6 +983,22 @@
       "duration_ms": 204114,
       "name": "Everything You Want Me to Be",
       "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Steady Glow",
-        "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Morbid Stuff",
         "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 210160,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Steady Glow",
+        "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
-      },
-      "artists": [
-        {
-          "name": "We Still Dream",
-          "url": "https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Cop Outs and Cover Ups",
-      "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "A Long Time Ago In A Galaxy Called LA",
         "url": "https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 207000,
       "name": "A Long Time Ago In A Galaxy Called LA",
       "url": "https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
+      },
+      "artists": [
+        {
+          "name": "We Still Dream",
+          "url": "https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o"
+        }
+      ],
+      "duration_ms": 187655,
+      "name": "Cop Outs and Cover Ups",
+      "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "No Strange Cats",
         "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 160677,
       "name": "P.A.W",
       "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2024-07-19 11:53:42",

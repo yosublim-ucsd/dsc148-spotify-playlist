@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Nolan Taylor",
-  "num_followers": 81668,
+  "num_followers": 81700,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -379,22 +383,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "God Needs The Devil",
+        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 192133,
+      "name": "God Needs The Devil",
+      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "End Of The World",
         "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -547,38 +547,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -631,6 +611,26 @@
       "duration_ms": 196973,
       "name": "Don't You Give Up On Me Yet",
       "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Homesick (with Sam Fender)",
+        "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 194416,
+      "name": "Homesick (with Sam Fender)",
+      "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Maine/The Sink",
         "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 218954,
       "name": "Massachusetts",
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

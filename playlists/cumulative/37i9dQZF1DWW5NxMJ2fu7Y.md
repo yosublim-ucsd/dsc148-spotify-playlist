@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-125 songs - 7 hr 1 min
+126 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 | 2024-10-03 |  |
 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 | 2024-07-22 |  |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2024-02-29 |  |
+| [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-01-12 |  |
 | [Ana W Rassi](https://open.spotify.com/track/0vyV3joyy1lWJoZ7QWJVew) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ana W Rassi](https://open.spotify.com/album/2W4as3s5ueGHrBjkqfjT4A) | 3:49 | 2024-02-29 | 2024-08-02 |
 | [Ayala](https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Ayala](https://open.spotify.com/album/71mpnHnlye8O62xMgL4vpn) | 3:03 | 2024-05-09 | 2024-06-07 |
 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2024-07-22 |  |
@@ -41,7 +42,7 @@
 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 | 2024-08-02 |  |
 | [FOREVER](https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:31 | 2025-01-09 |  |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-02-29 |  |
-| [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 |  |
+| [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 | 2025-01-13 |
 | [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 |  |
 | [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 | 2025-01-02 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |

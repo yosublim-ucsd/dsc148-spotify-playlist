@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACeDZV0JZRVZb3IhWSM5Fw+",
+  "snapshot_id": "Z4G0gAAAAAAAo+4yd83U/IHrpG8Tcget",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/5nH0UPZ7FJcGvueuiJ7lyr"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/6DC24J8hy8cpuYXS8cDx5K"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+      "duration_ms": 190266,
+      "name": "Savanna",
+      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Savanna",
-      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
+      "duration_ms": 214573,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
     },
     {
       "added_at": null,

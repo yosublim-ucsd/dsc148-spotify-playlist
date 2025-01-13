@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 468680,
+  "num_followers": 468687,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
     },
     {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
       "added_at": "2024-11-15 10:05:02",
       "album": {
         "name": "All My Fault",
@@ -409,22 +425,6 @@
       "url": "https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e"
     },
     {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "HEAVY JELLY",
-        "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Isaac Is Typing\u2026",
-      "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
-    },
-    {
       "added_at": "2024-11-15 10:05:02",
       "album": {
         "name": "State Champs",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+        "name": "HEAVY JELLY",
+        "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
         }
       ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+      "duration_ms": 164773,
+      "name": "Isaac Is Typing\u2026",
+      "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -471,6 +471,22 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "Big Dick Energy",
+        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Big Dick Energy",
+      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -557,22 +573,6 @@
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "Big Dick Energy",
-        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Big Dick Energy",
-      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "Enmore",
@@ -587,6 +587,22 @@
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -619,22 +635,6 @@
       "duration_ms": 172687,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Everything and Nothing",
         "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 217765,
       "name": "Dirty Mirror Selfie",
       "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Demolition Man",
         "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 165786,
       "name": "Demolition Man",
       "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -999,22 +999,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "ANTI-FUN PROPAGANDA",
-        "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
+        "name": "DOWN N OUT",
+        "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
       },
       "artists": [
         {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        },
-        {
-          "name": "Uninvited",
-          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 184934,
-      "name": "Girls!",
-      "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
+      "duration_ms": 143626,
+      "name": "DOWN N OUT",
+      "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "DOWN N OUT",
-        "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
+        "name": "ANTI-FUN PROPAGANDA",
+        "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        },
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
         }
       ],
-      "duration_ms": 143626,
-      "name": "DOWN N OUT",
-      "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
+      "duration_ms": 184934,
+      "name": "Girls!",
+      "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Claw",
-        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
       },
       "artists": [
         {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
         }
       ],
-      "duration_ms": 195195,
-      "name": "Claw",
-      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-10-10 17:06:38",

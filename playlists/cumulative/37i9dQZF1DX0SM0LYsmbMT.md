@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,332 songs - 6 day 21 hr 7 min
+4,333 songs - 6 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,7 @@
 | [Carefree](https://open.spotify.com/track/2JoldRgAmfsIyCU6UxvtPT) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Carefree](https://open.spotify.com/album/44WqHprpyduzvItokpHTRM) | 2:07 | 2021-12-17 | 2022-07-01 |
 | [Careful](https://open.spotify.com/track/21JzIbHNQOpIrsLqve9M3X) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Careful](https://open.spotify.com/album/6Y7kZO9Q5XHpA71BKp0uKM) | 2:07 | 2021-02-07 | 2021-05-28 |
 | [Carla](https://open.spotify.com/track/36ZfivTaEGVH1W2VfziDf5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [The Potion of Creativity](https://open.spotify.com/album/5EWwx31Z70eV3TDlFxfEB4) | 2:38 | 2021-07-31 | 2021-09-17 |
-| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 |  |
+| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 | 2025-01-13 |
 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-18 | 2022-11-21 |
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-17 | 2023-04-07 |
 | [Carpe Diem](https://open.spotify.com/track/3i1cfiDvK3Yg34l7GESQfE) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Carpe Diem](https://open.spotify.com/album/2cSiEfiPKKAbAsCTFYgwH0) | 2:02 | 2021-07-24 | 2021-09-03 |
@@ -2437,6 +2437,7 @@
 | [Morning Rider](https://open.spotify.com/track/08woS2IWRk28TJyGbtqGID) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Da Master](https://open.spotify.com/album/25uYVtHefKjgxsjiBfKs1e) | 2:38 | 2020-07-18 | 2020-09-11 |
 | [Morning Routine](https://open.spotify.com/track/3QkuxqoAIE4wEkQHdvXrcN) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Morning Routine](https://open.spotify.com/album/00vDQCTn6KopnKGwYtRiG2) | 1:37 | 2023-02-16 | 2023-08-18 |
 | [Morning Routine](https://open.spotify.com/track/22oY68j9hKLirnVZ1Um77c) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Morning Routine](https://open.spotify.com/album/5VpPKhXbF1YK7XJKLyZuWw) | 2:08 | 2024-01-26 |  |
+| [Morning Routine](https://open.spotify.com/track/6Q4oNTScKfFip1htmFp7Jn) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Morning Routine](https://open.spotify.com/album/3dTmMJ3u8N6RVuJ4ZZbBM9) | 2:17 | 2025-01-06 |  |
 | [Morning Sky](https://open.spotify.com/track/712s8O97bvBdkSzhEgWEKZ) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Morning Sky](https://open.spotify.com/album/6VAQiLMxgMky9Z8wG1Eois) | 2:18 | 2022-05-05 | 2022-06-09 |
 | [Morning Sun](https://open.spotify.com/track/1fc6GHbBY8ZsK48SqHyV8d) | [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk) | [Morning Sun](https://open.spotify.com/album/4uVSU5jXY54PCg99llWTaN) | 2:30 | 2021-07-01 | 2021-10-08 |
 | [Morning View](https://open.spotify.com/track/3KNhAqlD1p6sgGW0GCme5g) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Morning View](https://open.spotify.com/album/3zYcB9hiGVyTbQZvQHUdBx) | 2:52 | 2021-04-03 | 2021-07-23 |

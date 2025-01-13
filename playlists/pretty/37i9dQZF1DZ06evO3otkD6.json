@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 72173,
+  "num_followers": 72185,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADQOaxltM0Y95egws5vI6Om",
+  "snapshot_id": "Z4G0gAAAAAArwBKJApAEE8BAQPjQfV25",
   "tracks": [
     {
       "added_at": null,
@@ -1155,22 +1155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
       },
       "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,

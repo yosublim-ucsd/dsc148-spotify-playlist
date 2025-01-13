@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7837,
+  "num_followers": 7843,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAA3JjRdn0ZRL9wUUB3e6UUd",
+  "snapshot_id": "Z4G0gAAAAACXwE9UtBFXQqKnO/JWwv1y",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 211406,
+      "name": "Mi \u00daltima Parranda",
+      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 174093,
       "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
       "url": "https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 171003,
-      "name": "Prendido A Un Sentimiento",
-      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 171003,
+      "name": "Prendido A Un Sentimiento",
+      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lagrimas Del Corazon",
         "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Mi \u00daltima Parranda",
-      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
       },
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Algo Sin Igual",
-      "url": "https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX"
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
+      "duration_ms": 208773,
+      "name": "Algo Sin Igual",
+      "url": "https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX"
     },
     {
       "added_at": null,

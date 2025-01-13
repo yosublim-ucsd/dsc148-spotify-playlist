@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-244 songs - 17 hr 1 min
+245 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-01-14 | 2024-04-20 |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-18 |  |
 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 | 2022-01-14 | 2022-11-26 |
+| [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 | 2025-01-10 |  |
 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 | 2022-01-14 | 2023-10-15 |
 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 | 2024-07-05 |  |
 | [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-12 | 2024-10-25 |
@@ -235,7 +236,7 @@
 | [Vanishing](https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX) | 6:12 | 2022-11-25 | 2024-04-05 |
 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-18 |  |
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 | 2024-02-16 |
-| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-08-15 |  |
+| [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 | 2024-08-15 | 2025-01-13 |
 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 | 2024-04-19 |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |
 | [Watching Over Me](https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Watching Over Me](https://open.spotify.com/album/5n3A23v0indork34sZTUF3) | 3:25 | 2024-06-21 | 2024-07-05 |

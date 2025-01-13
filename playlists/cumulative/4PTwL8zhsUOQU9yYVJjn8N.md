@@ -4,7 +4,7 @@
 
 > Oldest to Newest!!!!1 &\#x2F;&\#x2F; yes i update as fast as i can
 
-171 songs - 5 hr 22 min
+174 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,9 @@
 | [rose tints](https://open.spotify.com/track/5M2IRxCeYPGdqHzfjQyH1x) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [rose tints](https://open.spotify.com/album/0aT5vuQ4ats2iH3jBKa8mg) | 3:14 | 2024-05-26 |  |
 | [rose tints](https://open.spotify.com/track/307mkoJ63M8wCXmB8Et9hL) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [rose tints](https://open.spotify.com/album/61bPYrN2YGGBFB0ZSqUgo3) | 3:16 | 2023-12-05 |  |
 | [see into forever](https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [see into forever](https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP) | 1:54 | 2024-02-29 |  |
+| [so numb that she's in hell \- 2021 Version](https://open.spotify.com/track/0SIXarTWclRfrkBDhHPjBB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 1:55 | 2025-01-12 |  |
+| [so numb that she's in hell \- 2025 Instrumental](https://open.spotify.com/track/5ow9jFQv0VZGKdXijrVP71) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 | 2025-01-12 |  |
+| [so numb that she's in hell \- 2025 Version](https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 | 2025-01-12 |  |
 | [space enby](https://open.spotify.com/track/1VDKwKr2ENOGJewOlKvIYm) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:51 | 2023-12-05 |  |
 | [superposition](https://open.spotify.com/track/0foq1CuScisKw9QXmktboo) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 2:11 | 2023-12-05 |  |
 | [superposition \- Instrumental](https://open.spotify.com/track/5T5LkJS22FilME9xc7rqTZ) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 2:11 | 2023-12-05 |  |

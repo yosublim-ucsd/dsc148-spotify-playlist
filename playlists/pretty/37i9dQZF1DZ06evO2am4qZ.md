@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,673 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 30 | [Babysitter](https://open.spotify.com/track/5lov1pcwDVARb0lMbZKzd7) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 3:01 |
 | 31 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 |
 | 32 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 |
-| 33 | [BLACK PEARLS \(feat\. Baby Tate\)](https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 3:18 |
+| 33 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 |
 | 34 | [5th Chakra](https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 1:42 |
-| 35 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 |
+| 35 | [BLACK PEARLS \(feat\. Baby Tate\)](https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 3:18 |
 | 36 | [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 |
 | 37 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 38 | [Sweetest Girl](https://open.spotify.com/track/1lFzMueMJmvTHY8rEZ4jCK) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 3:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 46 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 47 | [Nasty \- Remix](https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [TJOnline](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Nasty \(Remix\)](https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs) | 4:07 |
 | 48 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 |
-| 49 | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL) | 1:34 |
+| 49 | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 |
 | 50 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
 
-Snapshot ID: `Z4BjAAAAAADarHTay3zmrFMToE+I7YWZ`
+Snapshot ID: `Z4G0gAAAAABPEx+RY5RYO0vvuThGKbqh`

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13395,
+  "num_followers": 13406,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 289646,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
       },
@@ -183,6 +167,22 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 289646,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
         "name": "Guide Me",
         "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
       },
@@ -195,26 +195,6 @@
       "duration_ms": 227258,
       "name": "Guide Me",
       "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
-        "name": "Give Me Oil",
-        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
-        }
-      ],
-      "duration_ms": 693002,
-      "name": "Give Me Oil",
-      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -255,22 +235,6 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 801576,
-      "name": "Ghana Chant",
-      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -299,18 +263,54 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "God Reigns",
-        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 192027,
-      "name": "You Saved Me",
-      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+      "duration_ms": 801576,
+      "name": "Ghana Chant",
+      "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
+        "name": "Give Me Oil",
+        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+        }
+      ],
+      "duration_ms": 693002,
+      "name": "Give Me Oil",
+      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+        "name": "God Reigns",
+        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+      "duration_ms": 192027,
+      "name": "You Saved Me",
+      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -419,6 +419,30 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
         "name": "Amen (Live)",
         "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
       },
@@ -431,22 +455,6 @@
       "duration_ms": 200161,
       "name": "Amen - Live",
       "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -475,26 +483,18 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+        "name": "Wind of Revival",
+        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+      "duration_ms": 281251,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -519,18 +519,18 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Wind of Revival",
-        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 281251,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Medaase",
-        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 199755,
-      "name": "Medaase",
-      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
         "name": "Adom Grace",
         "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Come and See",
-        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 342981,
-      "name": "Come and See",
-      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -731,22 +711,6 @@
       "duration_ms": 236769,
       "name": "VICTORY",
       "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Man on a Mission",
-      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -771,18 +735,18 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2025-01-09 09:54:54",
@@ -799,6 +763,42 @@
       "duration_ms": 517432,
       "name": "Borborbor Gospel Medley",
       "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
+        "name": "Come and See",
+        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 342981,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
     },
     {
       "added_at": "2025-01-09 09:54:54",

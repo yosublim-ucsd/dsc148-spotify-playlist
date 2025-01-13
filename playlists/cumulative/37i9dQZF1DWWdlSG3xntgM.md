@@ -4,11 +4,11 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-302 songs - 1 day 2 hr 6 min
+303 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ai Cho Toi Tinh Yeu](https://open.spotify.com/track/6RDtM3rN3KLVfocEBN8cXZ) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best of Tuan Vu](https://open.spotify.com/album/3GvpjJOmKq6dDiBlLIRiMy) | 15:19 | 2024-03-12 |  |
+| [Ai Cho Toi Tinh Yeu](https://open.spotify.com/track/6RDtM3rN3KLVfocEBN8cXZ) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best of Tuan Vu](https://open.spotify.com/album/3GvpjJOmKq6dDiBlLIRiMy) | 15:19 | 2024-03-12 | 2025-01-13 |
 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 | 2023-12-14 |  |
 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 | 2024-05-28 |
 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 | 2024-01-05 | 2024-02-22 |
@@ -34,6 +34,7 @@
 | [Chuyến Đò Vĩ Tuyến](https://open.spotify.com/track/3BUWPABIccs6e9OaO3d8ca) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Chiều Đông Nhớ Anh](https://open.spotify.com/album/45fra3WnKHegYmDf4HoJ2e) | 6:17 | 2022-03-11 | 2022-07-27 |
 | [Chuyện Hoa Sim](https://open.spotify.com/track/65eMfaSRU0P0RuYIK84XXV) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Chuyện Hoa Sim](https://open.spotify.com/album/36j8GiZT7sD9MiZQs5gGhC) | 5:39 | 2023-12-14 |  |
 | [Chuyện hẹn hò](https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:05 | 2022-03-11 |  |
+| [Chuyện hợp tan](https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Thôi Thế Thì Chia Tay \(Asia 243\)](https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr) | 4:40 | 2024-05-27 |  |
 | [Chuyện Tình Hồ Than Thở](https://open.spotify.com/track/3Zzu7Xm386hBDV8qm01IBJ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Chuyện Tình Hồ Than Thở](https://open.spotify.com/album/2NHDtQRPXogAPG8qj0xdJk) | 5:50 | 2022-03-11 | 2022-07-27 |
 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/4MoW6zhYoCABj2dGcep01s) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Dân Ca Cực Dễ Thương Và Duyên Dáng](https://open.spotify.com/album/6WmiDUadCF0futHoJew07i) | 4:45 | 2022-03-11 | 2022-07-26 |
 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Điệu Buồn Lục Tỉnh](https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr) | 4:47 | 2022-03-11 | 2023-10-07 |

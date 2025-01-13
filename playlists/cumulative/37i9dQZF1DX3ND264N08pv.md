@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-305 songs - 16 hr 53 min
+306 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ALLERLAATSTE FEESTJE](https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [ALLERLAATSTE FEESTJE](https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3) | 3:03 | 2023-10-06 | 2024-12-13 |
 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 | 2023-09-01 | 2023-10-07 |
 | [Armageddon](https://open.spotify.com/track/5RtTmPNjAruYPREVNhBaer) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Armageddon](https://open.spotify.com/album/2yQJU6Roc1t19xenK1fsuG) | 3:05 | 2024-12-12 |  |
-| [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 | 2024-10-03 |  |
+| [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 | 2024-10-03 | 2025-01-13 |
 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 | 2022-12-08 | 2023-12-22 |
 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 | 2024-05-17 | 2024-06-28 |
 | [Back In The Game](https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy) | [KEMAL](https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg), [D\-Tempo](https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot) | [Back In The Game](https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj) | 2:54 | 2024-11-18 |  |
@@ -280,6 +280,7 @@
 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 | 2022-12-15 | 2024-01-25 |
 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 | 2024-04-12 | 2025-01-12 |
 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 | 2022-12-08 | 2024-06-28 |
+| [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 | 2025-01-10 |  |
 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 | 2023-05-15 | 2024-11-09 |
 | [The Rusty Trombone](https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Principle](https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG), [Rob The Rocket](https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je) | [The Rusty Trombone](https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS) | 2:53 | 2024-05-17 | 2024-11-09 |
 | [The Sound Flow](https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [The Sound Flow](https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH) | 4:25 | 2022-12-08 | 2023-06-02 |

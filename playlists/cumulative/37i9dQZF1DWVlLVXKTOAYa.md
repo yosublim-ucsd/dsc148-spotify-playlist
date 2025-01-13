@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-979 songs - 2 day 2 hr 37 min
+980 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2025-01-09 |  |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-17 | 2022-04-20 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-24 | 2022-04-21 |
+| [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 | 2025-01-09 |  |
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-04-29 | 2022-07-29 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-16 | 2022-10-01 |
 | [It's Not Too Late](https://open.spotify.com/track/3GF1jfgwS68YwAdeO92oIA) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [It's Not Too Late](https://open.spotify.com/album/36dPlvameEj5Phyt66juR5) | 3:01 | 2022-03-24 | 2022-04-14 |
@@ -870,7 +871,7 @@
 | [The Way You Felt](https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Way You Felt](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2) | 3:02 | 2021-12-16 | 2022-07-29 |
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-07 | 2022-04-21 |
 | [Therapist](https://open.spotify.com/track/2dcyI31Pk3a9vfVABFsHzG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Therapist](https://open.spotify.com/album/3n1G8Im1rMMgDB0cpFYd4g) | 2:34 | 2022-03-24 | 2022-04-19 |
-| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2025-01-09 |  |
+| [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2025-01-09 | 2025-01-13 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-10 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-02-12 | 2024-08-08 |
 | [This Is Heaven](https://open.spotify.com/track/7oAly6qQFPu1JhmlE2Vujg) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [This Is Heaven](https://open.spotify.com/album/0ssKKiPvCwNu8gvvUxYfgd) | 3:34 | 2021-12-16 | 2022-07-12 |

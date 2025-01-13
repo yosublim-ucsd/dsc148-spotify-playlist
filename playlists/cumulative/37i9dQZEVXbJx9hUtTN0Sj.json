@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -5026,7 +5026,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -9853,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/76RtJPoVovIsh0lCPTgNhd"
+      },
+      "artists": [
+        {
+          "name": "Emmy d\u2019Arc",
+          "url": "https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/7pL6TKQP2DI5YWMYndzIkt"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
       },
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -12962,7 +12980,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -13598,7 +13616,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -14616,7 +14634,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 203015,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
@@ -14798,7 +14816,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo"
@@ -15354,6 +15372,24 @@
       "duration_ms": 183200,
       "name": "NOUICI",
       "url": "https://open.spotify.com/track/3HM8kTlm11LkBQ4moD29tR"
+    },
+    {
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/7qMGPOQMKvwqUL3XgHxqNd"
+      },
+      "artists": [
+        {
+          "name": "Azure Ray",
+          "url": "https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "November",
+      "url": "https://open.spotify.com/track/4ZZd1CLMuF50ZW7t515S6l"
     },
     {
       "album": {

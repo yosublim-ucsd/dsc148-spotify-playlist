@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 9069,
+  "num_followers": 9086,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAADLsLblR9kH6eW8WKj0KAgH",
+  "snapshot_id": "Z4G0gAAAAABrrVzryK7G/OB4vsRbyoWn",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "this little lighter of mine (joy version)",
-        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "this little lighter of mine (joy version)",
-      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "this little lighter of mine (joy version)",
+        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "this little lighter of mine (joy version)",
+      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With Love From",
+        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Way of Nature Way of Grace",
+      "url": "https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

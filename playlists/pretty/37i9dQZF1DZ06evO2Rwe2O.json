@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12104,
+  "num_followers": 12109,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACxDIW1AORUOo92eNx2z36c",
+  "snapshot_id": "Z4G0gAAAAADX/6KH5lo0zkn4A4D8fZeM",
   "tracks": [
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nome",
-        "url": "https://open.spotify.com/album/6L1dilQnI8R8mPom8IzOGm"
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
       "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 270994,
-      "name": "O Nome",
-      "url": "https://open.spotify.com/track/7fsGARNuFja2BVUoKjIHkv"
+      "duration_ms": 222960,
+      "name": "Just the Way I Am",
+      "url": "https://open.spotify.com/track/1JiJzQfqyEfXFIgFpopxAS"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

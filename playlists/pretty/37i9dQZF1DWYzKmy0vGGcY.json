@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 468289,
+  "num_followers": 468467,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -185,38 +185,6 @@
       "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Abbey Road (Remastered)",
@@ -235,6 +203,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Dusty... Definitely",
         "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 164173,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Pain in My Heart",
@@ -295,6 +279,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
     },
     {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 144880,
+      "name": "Here, There And Everywhere - Remastered 2009",
+      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "When a Man Loves a Woman",
@@ -363,22 +379,6 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Revolver (Remastered)",
-        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 144880,
-      "name": "Here, There And Everywhere - Remastered 2009",
-      "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "For Your Sweet Love",
         "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 186666,
       "name": "Are You Lonesome Tonight?",
       "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 175626,
       "name": "All I Could Do Was Cry",
       "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1315,6 +1315,38 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Yester-Me, Yester-You, Yesterday",
+      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Girl Called Dusty",
+        "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Wishin' And Hopin' - Stereo Version",
+      "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Kitty Kallen's Coloring Book",
         "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
@@ -1347,38 +1379,6 @@
       "duration_ms": 187333,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "A Girl Called Dusty",
-        "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Wishin' And Hopin' - Stereo Version",
-      "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Yester-Me, Yester-You, Yesterday",
-      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "For Your Precious Love...",
-        "url": "https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "For Your Precious Love",
-      "url": "https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "The Look Of Love",
@@ -1491,6 +1475,22 @@
       "duration_ms": 216266,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "For Your Precious Love...",
+        "url": "https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "For Your Precious Love",
+      "url": "https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skyline Pigeon",
-      "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Close to You",
@@ -1603,6 +1587,22 @@
       "duration_ms": 190480,
       "name": "What the World Needs Now Is Love",
       "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skyline Pigeon",
+      "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Harbor Lights",
-      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 147527,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Harbor Lights",
+      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1801,22 +1801,6 @@
       "url": "https://open.spotify.com/track/4Kir60nu0v2dcBVSxVhCQc"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
-        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Love In Vain - Remastered 2019",
-      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Elvis' Golden Records, Vol. 3",
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
+        "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Love In Vain - Remastered 2019",
+      "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Feelin' Good",
         "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 168400,
       "name": "Put A Little Love In Your Heart",
       "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Fool for You",
+      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1867,22 +1883,6 @@
       "duration_ms": 178760,
       "name": "Crying",
       "url": "https://open.spotify.com/track/56SVBTiWKPVwqNxiNkCpKS"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Fool for You",
-      "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "You Can Have Him: Ketty Lester Sings Love Letters and Other Greats",
-        "url": "https://open.spotify.com/album/4T9K5QKfouurfYzJ9mbAAR"
-      },
-      "artists": [
-        {
-          "name": "Ketty Lester",
-          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Very Best of the Fleetwoods",
         "url": "https://open.spotify.com/album/0tudSH6CckIKFMUAP0RRf6"
       },
@@ -2077,6 +2061,22 @@
       "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "You Can Have Him: Ketty Lester Sings Love Letters and Other Greats",
+        "url": "https://open.spotify.com/album/4T9K5QKfouurfYzJ9mbAAR"
+      },
+      "artists": [
+        {
+          "name": "Ketty Lester",
+          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Hits'n'Flips",
@@ -2091,22 +2091,6 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Sings Burt Bacharach",
-        "url": "https://open.spotify.com/album/4FGkmrsBTrNdmVqUIAaRKJ"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Anyone Who Had a Heart",
-      "url": "https://open.spotify.com/track/39TZWNdXsPswryjMO3rIxr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2139,6 +2123,22 @@
       "duration_ms": 278626,
       "name": "The Weight - Remastered",
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Sings Burt Bacharach",
+        "url": "https://open.spotify.com/album/4FGkmrsBTrNdmVqUIAaRKJ"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Anyone Who Had a Heart",
+      "url": "https://open.spotify.com/track/39TZWNdXsPswryjMO3rIxr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Best Of Bee Gees, Vol. 1",
-        "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Massachusetts (2008 Remastered LP Version)",
-      "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Best Of Bee Gees, Vol. 1",
+        "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Massachusetts (2008 Remastered LP Version)",
+      "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
     },
     {
       "added_at": "2022-05-30 13:00:37",

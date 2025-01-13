@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 26590,
+  "num_followers": 26692,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Feast",
+        "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Feast",
+      "url": "https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Counting Sheep",
         "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 220920,
       "name": "Giant's Despair",
       "url": "https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Feast",
-        "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Feast",
-      "url": "https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Brighter Lights",
-        "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
-      },
-      "artists": [
-        {
-          "name": "The Backfires",
-          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Brighter Lights",
-      "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
       },
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Unbelonging",
-        "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
-      },
-      "artists": [
-        {
-          "name": "Cloakroom",
-          "url": "https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj"
-        }
-      ],
-      "duration_ms": 210711,
-      "name": "Unbelonging",
-      "url": "https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Dulling The Horns",
         "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 223146,
       "name": "Sprinter Brain",
       "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Brighter Lights",
+        "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
+      },
+      "artists": [
+        {
+          "name": "The Backfires",
+          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Brighter Lights",
+      "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Unbelonging",
+        "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
+      },
+      "artists": [
+        {
+          "name": "Cloakroom",
+          "url": "https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj"
+        }
+      ],
+      "duration_ms": 210711,
+      "name": "Unbelonging",
+      "url": "https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cat 5 (Cyclone)",
-        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
-      },
-      "artists": [
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 222154,
-      "name": "Cat 5 (Cyclone)",
-      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Dirty Girls",
         "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 173493,
       "name": "Dirty Girls",
       "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Cat 5 (Cyclone)",
+        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 222154,
+      "name": "Cat 5 (Cyclone)",
+      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
     },
     {
       "added_at": "2024-12-04 12:15:00",

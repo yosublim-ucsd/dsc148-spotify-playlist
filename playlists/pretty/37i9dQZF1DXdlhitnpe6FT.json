@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 269939,
+  "num_followers": 270146,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 130493,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Las No. 1 Instrumentales",
         "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 283573,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 130493,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Paul Mauriat. Grandes Exitos",
         "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 156519,
       "name": "Love is Blue",
       "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Big Bands Collection, Vol. 18/23: Andr\u00e9 Popp - Delirium in Hi-Fi",
-        "url": "https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Popp",
-          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Beer Barrel Polka",
-      "url": "https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "I Love Paris, Holiday In Rome (Two Original Albums on One)",
         "url": "https://open.spotify.com/album/0QUJfvFIgBbund9LcRwI4q"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 147453,
       "name": "Mademoiselle de Paris",
       "url": "https://open.spotify.com/track/3cGMK5oIwTvy4IZNVtWSxc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Big Bands Collection, Vol. 18/23: Andr\u00e9 Popp - Delirium in Hi-Fi",
+        "url": "https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Popp",
+          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Beer Barrel Polka",
+      "url": "https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Emociones Sin L\u00edmite Volumen 1",
+        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 355653,
+      "name": "Lluvia De Primavera",
+      "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Emociones Sin L\u00edmite Volumen 1",
-        "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
       "artists": [
         {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 355653,
-      "name": "Lluvia De Primavera",
-      "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1531,22 +1547,6 @@
       "duration_ms": 303253,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "In Quintetto",
-        "url": "https://open.spotify.com/album/0PMge6krTGNqG38khkPWXc"
-      },
-      "artists": [
-        {
-          "name": "Nicola Piovani",
-          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "La Vita E' Bella",
-      "url": "https://open.spotify.com/track/4GSDu8XFp3qikUcqpilsKa"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "In Quintetto",
+        "url": "https://open.spotify.com/album/0PMge6krTGNqG38khkPWXc"
+      },
+      "artists": [
+        {
+          "name": "Nicola Piovani",
+          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
+        }
+      ],
+      "duration_ms": 291933,
+      "name": "La Vita E' Bella",
+      "url": "https://open.spotify.com/track/4GSDu8XFp3qikUcqpilsKa"
     },
     {
       "added_at": "2020-12-08 19:02:01",

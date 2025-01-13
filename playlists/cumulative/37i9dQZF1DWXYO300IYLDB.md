@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-476 songs - 1 day 4 hr 21 min
+477 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2024-11-07 |  |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-23 | 2023-05-05 |
 | [here \- acoustic](https://open.spotify.com/track/5tOjC8dh1D2cK8ihubdgp4) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [people i like](https://open.spotify.com/artist/10fNnwosIFNITkZRFRBZp1), [Mree](https://open.spotify.com/artist/3K8cGxW088HVyhFSGWJJcX), [Henri Bardot](https://open.spotify.com/artist/789NwFfUgZwT6Lc256SYjc) | [here \(acoustic\)](https://open.spotify.com/album/1qqHJ9cTJ2YURDaZBNAhuv) | 3:36 | 2023-08-10 | 2023-09-13 |
+| [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 | 2025-01-09 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/5rdFXDtwQnGEikghK9Me8R) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [恋愛小説4～音楽飛行](https://open.spotify.com/album/5OrIKp4u65lKY1MGvhzWZB) | 3:12 | 2023-10-24 | 2023-11-08 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-12-14 | 2024-04-19 |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 | 2023-04-17 |
@@ -302,7 +303,7 @@
 | [Quarantine Mood](https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:08 | 2024-01-10 | 2024-11-29 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-10 |  |
 | [Rainbow](https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 3:44 | 2023-01-19 | 2023-02-17 |
-| [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 | 2024-11-07 |  |
+| [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 | 2024-11-07 | 2025-01-13 |
 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-14 | 2024-01-12 |
 | [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 | 2023-01-11 |
 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 | 2025-01-12 |

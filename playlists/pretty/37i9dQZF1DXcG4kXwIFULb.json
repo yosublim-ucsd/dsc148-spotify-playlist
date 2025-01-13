@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 181953,
+  "num_followers": 182051,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
@@ -191,38 +207,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Heligoland",
-        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Hope Sandoval",
-          "url": "https://open.spotify.com/artist/7zS53Xa6sVgfoh00kckgyV"
-        }
-      ],
-      "duration_ms": 297774,
-      "name": "Paradise Circus",
-      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Tourist (Remastered)",
         "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
       },
@@ -311,6 +291,22 @@
       "duration_ms": 380497,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -347,6 +343,26 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Heligoland",
+        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Hope Sandoval",
+          "url": "https://open.spotify.com/artist/7zS53Xa6sVgfoh00kckgyV"
+        }
+      ],
+      "duration_ms": 297774,
+      "name": "Paradise Circus",
+      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -431,6 +431,38 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "It Could Be Sweet",
+      "url": "https://open.spotify.com/track/1cpnpMvnvmdy3hzYgd5oo9"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 416565,
+      "name": "Rose rouge",
+      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -459,22 +491,6 @@
       "duration_ms": 227866,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 416565,
-      "name": "Rose rouge",
-      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "It Could Be Sweet",
-      "url": "https://open.spotify.com/track/1cpnpMvnvmdy3hzYgd5oo9"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Constructions",
         "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 266200,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Big Calm",
-        "url": "https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 361266,
-      "name": "Big Calm",
-      "url": "https://open.spotify.com/track/3vGhQoG6IalBCxkEr6Aw6v"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Big Calm",
+        "url": "https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 361266,
+      "name": "Big Calm",
+      "url": "https://open.spotify.com/track/3vGhQoG6IalBCxkEr6Aw6v"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 325583,
+      "name": "Emkay",
+      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Electric Lazyland",
         "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "All Is Full of Love",
-      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "All Is Full of Love",
+      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Parts of the Process",
         "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 265293,
       "name": "Part of the Process",
       "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 325583,
-      "name": "Emkay",
-      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+        "name": "Slip Into Something More Comfortable",
+        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Kinobe",
+          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+      "duration_ms": 287776,
+      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
+      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Slip Into Something More Comfortable",
-        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
-      },
-      "artists": [
-        {
-          "name": "Kinobe",
-          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
-        }
-      ],
-      "duration_ms": 287776,
-      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
-      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Shallow and Profound",
         "url": "https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq"
       },
@@ -1523,6 +1507,38 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     }
   ],
   "unique_name": "Chillout Classics",

@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 23143,
+  "num_followers": 23258,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Nice Boys",
+      "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "JERK!",
         "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Temptation Stairway (Waltz Variation)",
-        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
-      },
-      "artists": [
-        {
-          "name": "Metaroom",
-          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
-        }
-      ],
-      "duration_ms": 106909,
-      "name": "Temptation Stairway (Waltz Variation)",
-      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+        "name": "Temptation Stairway (Waltz Variation)",
+        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
       },
       "artists": [
         {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Nice Boys",
-      "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
+      "duration_ms": 106909,
+      "name": "Temptation Stairway (Waltz Variation)",
+      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -239,6 +239,22 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 67894,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 67894,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Velocity: Design: Comfort.",
         "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 72289,
       "name": "nastasia",
       "url": "https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "THIRTY\u4e09\u5341",
-        "url": "https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 163047,
-      "name": "icosa",
-      "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
     },
     {
       "added_at": "2023-08-03 17:54:32",
@@ -419,22 +403,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": ")\u2727\u20db*",
         "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 180048,
       "name": "DesktopBuddy",
       "url": "https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "THIRTY\u4e09\u5341",
+        "url": "https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 163047,
+      "name": "icosa",
+      "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "espial",
-        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "espial",
-      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "team edward",
         "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "espial",
+        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "espial",
+      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "DIRT BIRD",
         "url": "https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 110825,
       "name": "WIGGLECORE",
       "url": "https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
-      },
-      "artists": [
-        {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
-        }
-      ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,22 +659,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 116589,
-      "name": "Chiltonwalk.Temp",
-      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Pink Origins",
         "url": "https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 137513,
       "name": "Pink Origins",
       "url": "https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+      },
+      "artists": [
+        {
+          "name": "Drive45",
+          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+        }
+      ],
+      "duration_ms": 175624,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 116589,
+      "name": "Chiltonwalk.Temp",
+      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "An Obsession With Kit",
-        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "An Obsession With Kit",
-      "url": "https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208003,
       "name": "PPPP PaPiPuPePo",
       "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Divinity",
+        "url": "https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo"
+      },
+      "artists": [
+        {
+          "name": "Maple",
+          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
+        }
+      ],
+      "duration_ms": 132802,
+      "name": "Lovemall",
+      "url": "https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u"
     }
   ],
   "unique_name": "webcore",

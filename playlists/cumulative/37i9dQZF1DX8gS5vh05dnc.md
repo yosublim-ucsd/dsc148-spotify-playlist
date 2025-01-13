@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-348 songs - 18 hr 35 min
+349 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL) | 2:34 | 2023-11-27 | 2023-12-04 |
 | [Chemistry](https://open.spotify.com/track/4exaC757D7BBmexDDC3day) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Chemistry](https://open.spotify.com/album/2JaUPjJ0TmNRQQA0zt1ivT) | 3:32 | 2022-07-11 | 2022-07-29 |
 | [Circles](https://open.spotify.com/track/5nCQkqU2liez8HEf3uTHZQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Circles](https://open.spotify.com/album/5nWz0RlR6ClEAgGtgZSqvi) | 3:28 | 2022-06-06 | 2022-07-29 |
-| [Coffee](https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD) | [a!ka](https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA) | [Coffee](https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ) | 3:04 | 2024-10-28 |  |
+| [Coffee](https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD) | [a!ka](https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA) | [Coffee](https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ) | 3:04 | 2024-10-28 | 2025-01-13 |
 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 | 2024-11-04 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-07-25 |  |
 | [concussion](https://open.spotify.com/track/4A6kIX7Rvw7xZRbc4Sqb4q) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [concussion](https://open.spotify.com/album/7uXoid8zeG7Wgk71kjveo4) | 2:58 | 2022-11-07 | 2022-11-15 |
@@ -271,6 +271,7 @@
 | [SAY LESS](https://open.spotify.com/track/05wQ0tEOjpKpyb6XiH8fju) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SAY LESS](https://open.spotify.com/album/0yrlhHnKMlJLvMEy2yJAcH) | 2:31 | 2024-01-22 | 2024-01-29 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-07-25 |  |
 | [Scenery](https://open.spotify.com/track/2BKvuUNunH9q9UoQhaDLmJ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Scenery](https://open.spotify.com/album/2mEDVox5VIgw7y7KaqPSxy) | 3:42 | 2022-06-06 | 2022-07-29 |
+| [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-13 |  |
 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 | 2024-04-01 | 2024-04-09 |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-07-03 | 2023-07-11 |

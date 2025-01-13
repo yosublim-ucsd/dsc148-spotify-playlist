@@ -1,6 +1,6 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Saripodhaa Sanivaaram",
-  "num_followers": 31327,
+  "num_followers": 31376,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,30 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
+        "name": "All Hail The Tiger (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/2D4YarggnCqBeCRLHVcjW3"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Natalie Di Luccio",
+          "url": "https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 86067,
+      "name": "All Hail The Tiger (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/4vWoTjRTSwVBhfp5kbDAXg"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
         "name": "Chatrapathi",
         "url": "https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX"
       },
@@ -135,30 +159,6 @@
       "duration_ms": 98698,
       "name": "Game Changer Teaser Theme (From \"Game Changer\") (Telugu)",
       "url": "https://open.spotify.com/track/0PvmPyJUbKxIqCkHF6KhTO"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "All Hail The Tiger (From \"Devara Part 1\")",
-        "url": "https://open.spotify.com/album/2D4YarggnCqBeCRLHVcjW3"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Natalie Di Luccio",
-          "url": "https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        }
-      ],
-      "duration_ms": 86067,
-      "name": "All Hail The Tiger (From \"Devara Part 1\")",
-      "url": "https://open.spotify.com/track/4vWoTjRTSwVBhfp5kbDAXg"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
+        "name": "Waltair Veerayya (Title Theme) [From \"Waltair Veerayya\"]",
+        "url": "https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Waltair Veerayya (Title Theme) [From \"Waltair Veerayya\"]",
+      "url": "https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
         "name": "Guntur Kaaram - OST",
         "url": "https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 89400,
       "name": "Theme of 3",
       "url": "https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Waltair Veerayya (Title Theme) [From \"Waltair Veerayya\"]",
-        "url": "https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Waltair Veerayya (Title Theme) [From \"Waltair Veerayya\"]",
-      "url": "https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
+        "name": "Pushpa The Rise - OST",
+        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "duration_ms": 112231,
+      "name": "Pushpa To Be Continued",
+      "url": "https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
         "name": "Leader",
         "url": "https://open.spotify.com/album/6QcYjqogMZV4b1SIBAGdMk"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 204320,
       "name": "Leader Instrumental",
       "url": "https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Jersey (Original Background Score)",
+        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Train Station Scene",
+      "url": "https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -399,34 +431,18 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Jersey (Original Background Score)",
-        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
+        "name": "Mangalavaaram - OST",
+        "url": "https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Train Station Scene",
-      "url": "https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Pushpa The Rise - OST",
-        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 112231,
-      "name": "Pushpa To Be Continued",
-      "url": "https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ"
+      "duration_ms": 66218,
+      "name": "REVEAL",
+      "url": "https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -463,22 +479,6 @@
       "duration_ms": 81000,
       "name": "Rise of Karthikeya",
       "url": "https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Mangalavaaram - OST",
-        "url": "https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 66218,
-      "name": "REVEAL",
-      "url": "https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
+        "name": "Pushpa The Rise - OST",
+        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "duration_ms": 115347,
+      "name": "Mass Theme Of Pushpa",
+      "url": "https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
         "name": "Goodachari",
         "url": "https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5"
       },
@@ -535,6 +551,22 @@
       "duration_ms": 315008,
       "name": "Theme",
       "url": "https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Jersey (Original Background Score)",
+        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Arjun & Nani\u2019s Theme",
+      "url": "https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -575,38 +607,6 @@
       "duration_ms": 113506,
       "name": "CMGR Theme",
       "url": "https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Pushpa The Rise - OST",
-        "url": "https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 115347,
-      "name": "Mass Theme Of Pushpa",
-      "url": "https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Jersey (Original Background Score)",
-        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Arjun & Nani\u2019s Theme",
-      "url": "https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Nenu Naa Raakshasi",
-        "url": "https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i"
-      },
-      "artists": [
-        {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
-        }
-      ],
-      "duration_ms": 115146,
-      "name": "Nenu Na Rakshasi(Theme)",
-      "url": "https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
         "name": "Skanda Teaser Theme",
         "url": "https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 54334,
       "name": "Skanda Teaser Theme",
       "url": "https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Nenu Naa Raakshasi",
+        "url": "https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i"
+      },
+      "artists": [
+        {
+          "name": "Anup Rubens",
+          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        }
+      ],
+      "duration_ms": 115146,
+      "name": "Nenu Na Rakshasi(Theme)",
+      "url": "https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP"
     },
     {
       "added_at": "2024-10-07 06:56:11",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/4sKe2yK6ceIhoBYRdr8BLY"
     },
     {
+      "added_at": "2024-10-15 07:08:11",
+      "album": {
+        "name": "Saripodhaa Sanivaaram (Original Background Score)",
+        "url": "https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        }
+      ],
+      "duration_ms": 208557,
+      "name": "And the Saturdays Continue",
+      "url": "https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj"
+    },
+    {
       "added_at": "2024-11-04 06:50:08",
       "album": {
         "name": "Proposal (From \"Love Reddy\")",
@@ -761,20 +777,20 @@
       "url": "https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf"
     },
     {
-      "added_at": "2024-10-15 07:08:11",
+      "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Saripodhaa Sanivaaram (Original Background Score)",
-        "url": "https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0"
+        "name": "Shock",
+        "url": "https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk"
       },
       "artists": [
         {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
         }
       ],
-      "duration_ms": 208557,
-      "name": "And the Saturdays Continue",
-      "url": "https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj"
+      "duration_ms": 149628,
+      "name": "Shock Theme",
+      "url": "https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -807,22 +823,6 @@
       "duration_ms": 74000,
       "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
       "url": "https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Shock",
-        "url": "https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 149628,
-      "name": "Shock Theme",
-      "url": "https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag"
     },
     {
       "added_at": "2025-01-09 06:32:36",

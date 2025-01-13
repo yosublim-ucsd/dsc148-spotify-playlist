@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 190819,
+  "num_followers": 190887,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAC3ajsbp6WSYwZIQz5tNisq",
+  "snapshot_id": "Z4G0gAAAAAD5hNss1aH5Anvt1XGVoaSx",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Jale Vale",
-        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 174708,
-      "name": "Mi Jale Vale",
-      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flaco Pesado",
         "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 157074,
       "name": "Flaco Pesado",
       "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Jale Vale",
+        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 174708,
+      "name": "Mi Jale Vale",
+      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 248267,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Cholo",
         "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 232000,
       "name": "Soy Cholo",
       "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 248267,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
-        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
-      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ingrata",
         "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 214471,
       "name": "Ingrata",
       "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
+        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
+      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
     },
     {
       "added_at": null,

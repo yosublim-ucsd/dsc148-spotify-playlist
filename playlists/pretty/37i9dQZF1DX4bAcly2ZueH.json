@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52533,
+  "num_followers": 52532,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "three",
         "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
       },
@@ -395,6 +379,38 @@
       "duration_ms": 187118,
       "name": "three",
       "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Somnolent Nova",
+        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
+      },
+      "artists": [
+        {
+          "name": "City Girl",
+          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Somnolent Nova",
+      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -415,22 +431,6 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Somnolent Nova",
-        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Somnolent Nova",
-      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Shin",
-        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Shin",
-      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 167543,
       "name": "Walk (Interlude)",
       "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Shin",
+        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Shin",
+      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
-      },
-      "artists": [
-        {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+      },
+      "artists": [
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
       },
       "artists": [
         {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
         }
       ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -879,6 +859,46 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Dreamwave",
+        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -951,26 +971,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Dreamwave",
-        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Tel P\u00e8re Tel Fils",
         "url": "https://open.spotify.com/album/7obwq0u0uJtALHkkC5gjaa"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 139823,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Higashi no Sora",
-        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Higashi no Sora",
-      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Blue Notes",
         "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 198369,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Higashi no Sora",
+        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Higashi no Sora",
+      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "see",
+        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
+      },
+      "artists": [
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "see",
+      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "see",
-        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
-      },
-      "artists": [
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "see",
-      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Over Skies",
-        "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 165449,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Over Skies",
+        "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Suzune",
-        "url": "https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Suzune",
-      "url": "https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Frontin' Me",
         "url": "https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV"
       },
@@ -1715,6 +1699,38 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "Ouka",
+        "url": "https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Two Birds",
+      "url": "https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Suzune",
+        "url": "https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Suzune",
+      "url": "https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Before We Begin",
         "url": "https://open.spotify.com/album/6MNnL9qkX5t3OuVMIDlNy0"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 163764,
       "name": "Wind",
       "url": "https://open.spotify.com/track/18kpIet027NR4fkxsqpG6R"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Nothing Like Before",
-        "url": "https://open.spotify.com/album/7EIQYctuyetizGcVclCMcg"
-      },
-      "artists": [
-        {
-          "name": "dn\u00e9",
-          "url": "https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf"
-        }
-      ],
-      "duration_ms": 111500,
-      "name": "End Credits",
-      "url": "https://open.spotify.com/track/5uh66RD9Fjgx7ZR67cYsSW"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

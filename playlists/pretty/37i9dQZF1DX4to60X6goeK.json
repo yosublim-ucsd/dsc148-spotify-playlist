@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 67312,
+  "num_followers": 67346,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "F*ck Jump Up (feat. B Live)",
-        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
         }
       ],
-      "duration_ms": 224914,
-      "name": "F*ck Jump Up (feat. B Live)",
-      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
+      "duration_ms": 224775,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -431,18 +427,22 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Chant",
-        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
+        "name": "F*ck Jump Up (feat. B Live)",
+        "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
       },
       "artists": [
         {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 224775,
-      "name": "Chant",
-      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+      "duration_ms": 224914,
+      "name": "F*ck Jump Up (feat. B Live)",
+      "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -667,18 +667,22 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
         }
       ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
+      "duration_ms": 128279,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -699,22 +703,18 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
       },
       "artists": [
         {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         }
       ],
-      "duration_ms": 128279,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
       },
@@ -847,22 +827,6 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -887,6 +851,42 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
         "name": "Bounce EP",
         "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
       },
@@ -899,6 +899,34 @@
       "duration_ms": 181028,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
+        "name": "Sientelo (Sota & Circadian Remix)",
+        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 237257,
+      "name": "Sientelo - Sota & Circadian Remix",
+      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -959,34 +987,6 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "Sientelo (Sota & Circadian Remix)",
-        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 237257,
-      "name": "Sientelo - Sota & Circadian Remix",
-      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -1023,30 +1023,6 @@
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
-    },
-    {
-      "added_at": "2025-01-10 10:02:50",
-      "album": {
-        "name": "Robocop",
-        "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "B Live 247",
-          "url": "https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Robocop",
-      "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
     },
     {
       "added_at": "2025-01-10 10:02:50",
@@ -1091,22 +1067,42 @@
     {
       "added_at": "2025-01-10 10:02:50",
       "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2025-01-10 10:02:50",
+      "album": {
+        "name": "Robocop",
+        "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "B Live 247",
+          "url": "https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Robocop",
+      "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
     }
   ],
   "unique_name": "Jump Up!",

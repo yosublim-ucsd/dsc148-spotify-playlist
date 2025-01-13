@@ -1,6 +1,6 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 63450,
+  "num_followers": 63472,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "COBALT HOUR",
+        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "COBALT HOUR",
+      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "\u30a2\u30ef\u30fc\u30fb\u30b3\u30cd\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "COBALT HOUR",
-        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "COBALT HOUR",
-      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "WE ARE JUST TAKING OFF",
         "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 294800,
       "name": "CLOSE YOUR EYES",
       "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "SUMMER KNOWS",
+        "url": "https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "duration_ms": 281680,
+      "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
+      "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -279,34 +295,18 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "SUMMER KNOWS",
-        "url": "https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c"
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
       },
       "artists": [
         {
-          "name": "Bread And Butter",
-          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 281680,
-      "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
-      "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
-      },
-      "artists": [
-        {
-          "name": "Jun Fukamachi",
-          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
-      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
+      "duration_ms": 242200,
+      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
+      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
+        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
       "artists": [
         {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+          "name": "Jun Fukamachi",
+          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
         }
       ],
-      "duration_ms": 242200,
-      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
-      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
+      "duration_ms": 299160,
+      "name": "LETTER TO NEW YORK",
+      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "\u307b\u3046\u308d\u3046",
+        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/06tqfYgK8tvnEZYGuXegbi"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "\u307b\u3046\u308d\u3046",
-        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/06tqfYgK8tvnEZYGuXegbi"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "\u3042\u309d\u3001\u308f\u304c\u826f\u304d\u53cb\u3088",
         "url": "https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 235853,
       "name": "\u7802\u306e\u5973",
       "url": "https://open.spotify.com/track/3KauV05L57307GtIr7qDzn"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "\u307b\u3046\u308d\u3046",
+        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -571,38 +587,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "BEGINNING",
-        "url": "https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "\u623b\u3063\u3066\u304a\u3044\u3067\u30fb\u79c1\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "\u307b\u3046\u308d\u3046",
-        "url": "https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 236053,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "\u30c7\u30c3\u30c9\u30ea\u30a4\u30fb\u30c9\u30e9\u30a4\u30d6 (40\u5468\u5e74\u8a18\u5ff5\u30c7\u30e9\u30c3\u30af\u30b9\u30fb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 216000,
       "name": "\u98a8\u306b\u306a\u308c\u308b\u306a\u3089 - Single Version",
       "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "BEGINNING",
+        "url": "https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "\u623b\u3063\u3066\u304a\u3044\u3067\u30fb\u79c1\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -683,8 +683,8 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "Amii - versary (\u6771\u829dEMI\u7de8)",
-        "url": "https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg"
+        "name": "SHADY\uff08\u30b7\u30a7\u30a4\u30c7\u30a3\uff09",
+        "url": "https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj"
         }
       ],
-      "duration_ms": 197040,
-      "name": "\u30de\u30a4\u30fb\u30d4\u30e5\u30a2\u30fb\u30ec\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF"
+      "duration_ms": 248600,
+      "name": "\u51a5\u60f3",
+      "url": "https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -711,22 +711,6 @@
       "duration_ms": 269026,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "A COOL EVENING",
-        "url": "https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3"
-      },
-      "artists": [
-        {
-          "name": "\u4eca\u4e95\u88d5",
-          "url": "https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF"
-        }
-      ],
-      "duration_ms": 367000,
-      "name": "\u3053\u306e\u8efd\u3044\u611f\u3058\u304c\u2026",
-      "url": "https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -751,6 +735,22 @@
       "duration_ms": 222226,
       "name": "The Tokyo Taste",
       "url": "https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "A COOL EVENING",
+        "url": "https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u4e95\u88d5",
+          "url": "https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF"
+        }
+      ],
+      "duration_ms": 367000,
+      "name": "\u3053\u306e\u8efd\u3044\u611f\u3058\u304c\u2026",
+      "url": "https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "Amii - versary (\u6771\u829dEMI\u7de8)",
+        "url": "https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg"
+      },
+      "artists": [
+        {
+          "name": "Ami Ozaki",
+          "url": "https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "\u30de\u30a4\u30fb\u30d4\u30e5\u30a2\u30fb\u30ec\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "THRILL[Remaster]",
         "url": "https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 272533,
       "name": "YOU GOT THE MUSIC",
       "url": "https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "invitation",
-        "url": "https://open.spotify.com/album/2Vfm8k2ciRjGKpR8Q5T0Bb"
-      },
-      "artists": [
-        {
-          "name": "Yuko Kanai",
-          "url": "https://open.spotify.com/artist/6VdzbVLd8ck1HPPpBBMvo0"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "\u30b5\u30de\u30fc\u30d7\u30ec\u30a4\u30b9\u30b5\u30de\u30fc\u30e9\u30f4",
-      "url": "https://open.spotify.com/track/09tmSzM2ugauLzrtJV2ueP"
     }
   ],
   "unique_name": "City Pop '70s",

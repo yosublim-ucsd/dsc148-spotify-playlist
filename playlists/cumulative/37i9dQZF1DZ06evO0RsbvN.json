@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 173244,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6LSyNmCX6S2mhLTqi0V8Er"
@@ -2854,10 +2854,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 195493,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/0zUUGSlU5QbKwsS49EqGge"
+    },
+    {
+      "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "See See Rider Blues",
+      "url": "https://open.spotify.com/track/7dkifKCsBAUeZmjI7yklM5"
     },
     {
       "album": {
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 176933,
       "name": "Seeking Blues",
       "url": "https://open.spotify.com/track/1th7qfd7DUmwMIR10ucMRV"

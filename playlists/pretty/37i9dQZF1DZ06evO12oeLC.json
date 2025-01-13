@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17528,
+  "num_followers": 17536,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAACyYpZyc7d37xeZiCAeTgld",
+  "snapshot_id": "Z4G0gAAAAACPxkn5Bx9xFcJ/tKKj/W/c",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 213601,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+      "duration_ms": 415422,
+      "name": "SEXE",
+      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 415422,
-      "name": "SEXE",
-      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
+      "duration_ms": 213601,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        }
-      ],
-      "duration_ms": 381226,
-      "name": "101 REGRETS",
-      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore + pour de vrai",
         "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
       },
@@ -683,22 +663,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
       "artists": [
         {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
           "name": "S.Pri Noir",
           "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
+        }
+      ],
+      "duration_ms": 381226,
+      "name": "101 REGRETS",
+      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
+      },
+      "artists": [
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+      "duration_ms": 199278,
+      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
+      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 199278,
-      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
-      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
     },
     {
       "added_at": null,

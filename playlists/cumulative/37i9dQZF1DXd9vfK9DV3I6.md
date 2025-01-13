@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-301 songs - 22 hr 1 min
+302 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Arabesque](https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ Ego](https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv) | [Arabesque](https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT) | 6:17 | 2020-10-18\* |  |
 | [Arabesque](https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Arabesque](https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA) | 4:11 | 2020-10-18\* | 2023-03-18 |
 | [Arabian Magic](https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Arabian Magic](https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX) | 3:08 | 2020-10-18\* |  |
-| [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* |  |
+| [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* | 2025-01-13 |
 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 | 2022-12-05 |  |
 | [Arabic Soul](https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1), [Anas Otman](https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9) | [Arabic Soul](https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH) | 4:33 | 2022-10-14 |  |
 | [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 | 2023-02-04 | 2024-03-12 |
@@ -286,6 +286,7 @@
 | [Viraha](https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Viraha](https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT) | 2:51 | 2024-01-31 |  |
 | [Voyage](https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF) | [Houssem Amari](https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd), [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Voyage](https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC) | 4:04 | 2021-10-27 | 2023-05-26 |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2020-10-18\* | 2021-05-06 |
+| [Waka](https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH) | [Batuhan Kınık](https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0) | [Waka](https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB) | 2:37 | 2025-01-10 |  |
 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 | 2023-06-09 |  |
 | [Weyna \- DJ Phellix Remix](https://open.spotify.com/track/6ukHZyw9OSWYb4xnxjamB6) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV) | [Weyna \(DJ Phellix Remix\)](https://open.spotify.com/album/5DSKC1TtOIYbGVk1X8T43I) | 6:26 | 2023-06-08 | 2023-07-14 |
 | [Whenever You Go \(La La La\)](https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB) | [The Suncatchers](https://open.spotify.com/artist/0ciYYtVA4U5kas1Q3CJeTA), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Whenever You Go \(La La La\)](https://open.spotify.com/album/4KbvlXJCOQpYjwVMSSWZ4p) | 3:02 | 2020-10-18\* | 2022-06-19 |

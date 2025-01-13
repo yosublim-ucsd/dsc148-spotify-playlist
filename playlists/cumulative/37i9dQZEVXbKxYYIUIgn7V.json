@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 361666,
       "name": "Bana Sor",
       "url": "https://open.spotify.com/track/0P9nLef6NAjgDJAbgYFHbg"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 170076,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/4vB4e8oopvmeARMW9na82S"
@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -16201,6 +16201,28 @@
     },
     {
       "album": {
+        "name": "New Jeans (Jersey Club - Remixes)",
+        "url": "https://open.spotify.com/album/1syclG2meQ0loNB48TaQb3"
+      },
+      "artists": [
+        {
+          "name": "Dxrkaii",
+          "url": "https://open.spotify.com/artist/4iApnomXD1KyVGCc2eDmlX"
+        },
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110005,
+      "name": "New Jeans - Jersey Club - Slowed Down",
+      "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
+    },
+    {
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -18794,6 +18816,24 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195003,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
     },
     {
       "album": {
@@ -21894,7 +21934,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 177230,
       "name": "Tach Tach",
       "url": "https://open.spotify.com/track/33fE4zKHbOrdxjT9MTOkCv"
@@ -22158,10 +22198,48 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-13",
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
+    },
+    {
+      "album": {
+        "name": "Rich Gang (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4rR1KaoFfgJOiqdVwQaUsw"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Mack Maine",
+          "url": "https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284586,
+      "name": "Tapout",
+      "url": "https://open.spotify.com/track/7A8d6xGJy2DpNqO2b9DrJu"
     },
     {
       "album": {

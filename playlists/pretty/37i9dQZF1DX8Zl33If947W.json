@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 179416,
+  "num_followers": 179476,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
       "artists": [
         {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+        "name": "Halleluja (Remastered)",
+        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
       },
       "artists": [
         {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+          "name": "Westernhagen",
+          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
         }
       ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+      "duration_ms": 286653,
+      "name": "Weil ich dich liebe - Remastered",
+      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Halleluja (Remastered)",
-        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
-      },
-      "artists": [
-        {
-          "name": "Westernhagen",
-          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Weil ich dich liebe - Remastered",
-      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Irgendwie anders",
         "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193200,
       "name": "Kaum Erwarten",
       "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Das gr\u00f6\u00dfte Kompliment",
+        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 148248,
+      "name": "Das gr\u00f6\u00dfte Kompliment",
+      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Nur kurz gl\u00fccklich",
         "url": "https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 178386,
       "name": "Nur kurz gl\u00fccklich",
       "url": "https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Das gr\u00f6\u00dfte Kompliment",
-        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 148248,
-      "name": "Das gr\u00f6\u00dfte Kompliment",
-      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        },
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 207501,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "dass liebe sch\u00f6n sein kann",
         "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 159015,
       "name": "dass liebe sch\u00f6n sein kann",
       "url": "https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
     },
     {
       "added_at": "2024-11-09 06:24:53",

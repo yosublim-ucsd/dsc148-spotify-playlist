@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-3,372 songs - 7 day 10 hr 36 min
+3,373 songs - 7 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-07-05 | 2022-07-14 |
 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 | 2022-11-03 | 2022-11-11 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-03-17 | 2024-07-16 |
-| [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2024-12-19 |  |
+| [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2024-12-19 | 2025-01-13 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2023-01-15 | 2023-01-21 |
 | [Cbat](https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT) | 2:51 | 2022-09-05 | 2022-10-15 |
 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 | 2024-10-01 | 2024-10-16 |
@@ -3181,6 +3181,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-06 | 2023-11-22 |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:03 | 2022-03-22 | 2022-03-30 |
 | [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-09-25 | 2024-11-23 |
+| [Watermelon](https://open.spotify.com/track/1jQudBJvMAd7HuHZlTwrNz) | [John + Jane Q\. Public](https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS) | [Watermelon](https://open.spotify.com/album/32TiqX20SDNRt7XhK3PPWR) | 1:50 | 2025-01-12 |  |
 | [Watermelon](https://open.spotify.com/track/4RcvW85krnaZmDpA9lD5qq) | [Relentless](https://open.spotify.com/artist/7a3M78qUYhXA63joz1fPyf), [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Watermelon](https://open.spotify.com/album/6vBk0iAPnrNNLYZTFdskYx) | 1:50 | 2024-10-18 | 2024-10-21 |
 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 | 2024-12-03 | 2024-12-11 |
 | [Wayeh](https://open.spotify.com/track/7EMzOyDT87Uq9Hi08Mxe31) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 2:28 | 2024-05-25 | 2024-06-05 |

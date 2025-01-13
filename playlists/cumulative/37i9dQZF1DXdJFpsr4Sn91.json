@@ -6817,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Sekaisin",
+        "url": "https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q"
+      },
+      "artists": [
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2025-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163798,
+      "name": "Sekaisin",
+      "url": "https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3"
+    },
+    {
+      "album": {
         "name": "Selvii p\u00e4ivii",
         "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
       },

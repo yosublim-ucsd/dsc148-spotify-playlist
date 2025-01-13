@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70824,
+  "num_followers": 70831,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BjAAAAAAB+7YApbOjaFv3YginVQhxM",
+  "snapshot_id": "Z4G0gAAAAAAF0JvsscvaRN9i+3dnc+MM",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
-        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 192853,
-      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
-      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
+        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 238387,
-      "name": "Chocolate Drops",
-      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+      "duration_ms": 192853,
+      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
+      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
     },
     {
       "added_at": null,

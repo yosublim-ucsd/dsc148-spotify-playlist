@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > It’s giving lantern\-lit banquets, medieval courts and knights in shining armour✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 38 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 38 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

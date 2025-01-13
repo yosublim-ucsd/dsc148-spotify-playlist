@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 351962,
+  "num_followers": 352513,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Telegrama",
         "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 219375,
       "name": "Telegrama",
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Desejo Paz",
+        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Desejo Paz",
+      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "15 Anos (Ao vivo)",
         "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
       },
@@ -271,6 +287,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "O Mundo Diz Que N\u00e3o",
         "url": "https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi"
       },
@@ -295,22 +327,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Desejo Paz",
-        "url": "https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Desejo Paz",
-      "url": "https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 148445,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -399,22 +399,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "T\u00f4 Em Casa",
-        "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
       },
       "artists": [
         {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
         },
         {
           "name": "Maneva",
           "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 166731,
-      "name": "T\u00f4 Em Casa",
-      "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -439,22 +439,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "O que \u00e9 teu te encontra",
-        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+        "name": "T\u00f4 Em Casa",
+        "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
       },
       "artists": [
         {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         },
         {
           "name": "Maneva",
           "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 151386,
-      "name": "O que \u00e9 teu te encontra",
-      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
+      "duration_ms": 166731,
+      "name": "T\u00f4 Em Casa",
+      "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -555,26 +555,6 @@
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -595,6 +575,26 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -675,26 +659,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -739,6 +703,42 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Confia Mais",
         "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
       },
@@ -759,38 +759,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Toda Noite",
-      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Amor Bom",
-        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "Amor Bom",
-      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Cai\u00e7ara",
         "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Toda Noite",
+      "url": "https://open.spotify.com/track/4yK5IkPZoj0RCWcn6vJz74"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -839,6 +823,22 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 198340,
       "name": "S\u00f3 Pra Brilhar",
       "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Manh\u00e3s Azuis",
         "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
-        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "Mateus Menezes",
-          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
-      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     }
   ],
   "unique_name": "Praiana",

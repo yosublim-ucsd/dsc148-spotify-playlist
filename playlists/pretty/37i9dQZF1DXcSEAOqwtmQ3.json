@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 48016,
+  "num_followers": 48045,
   "original_name": "Throwback Hits Naija ",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
+        "name": "Everybody Loves Ice Prince",
+        "url": "https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "duration_ms": 255976,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
         "name": "Big Boy",
         "url": "https://open.spotify.com/album/3COhfJi0pDKqsUIKxvXJgI"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 262320,
       "name": "True Love",
       "url": "https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Everybody Loves Ice Prince",
-        "url": "https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -319,38 +319,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Anthology 2",
-        "url": "https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 743266,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "The W Experience",
-        "url": "https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Lagos Party Remix (feat. Naeto C, D'Banj, 9ice, eLDee & Muna)",
-      "url": "https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -383,18 +351,18 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Agbalu Aka N'a Azo Ani",
-        "url": "https://open.spotify.com/album/562j7cCufCWIFbsHB0TLST"
+        "name": "The W Experience",
+        "url": "https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW"
       },
       "artists": [
         {
-          "name": "Chief Stephen Osita Osadebe",
-          "url": "https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 915960,
-      "name": "Agbalu Aka N'a Azo Ani",
-      "url": "https://open.spotify.com/track/73dfWEkovyhhWPraPvrhMG"
+      "duration_ms": 366173,
+      "name": "Lagos Party Remix (feat. Naeto C, D'Banj, 9ice, eLDee & Muna)",
+      "url": "https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -408,9 +376,25 @@
           "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 792360,
-      "name": "Expensive Shit",
-      "url": "https://open.spotify.com/track/5FvggTB5kixLoOHtKIUFkg"
+      "duration_ms": 743266,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Agbalu Aka N'a Azo Ani",
+        "url": "https://open.spotify.com/album/562j7cCufCWIFbsHB0TLST"
+      },
+      "artists": [
+        {
+          "name": "Chief Stephen Osita Osadebe",
+          "url": "https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn"
+        }
+      ],
+      "duration_ms": 915960,
+      "name": "Agbalu Aka N'a Azo Ani",
+      "url": "https://open.spotify.com/track/73dfWEkovyhhWPraPvrhMG"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -483,6 +467,22 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
+        "name": "Anthology 2",
+        "url": "https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 792360,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/5FvggTB5kixLoOHtKIUFkg"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Stalemate (Edit)",
-        "url": "https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 774973,
-      "name": "Stalemate",
-      "url": "https://open.spotify.com/track/039djQX5LwqXM93UxvktmR"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "Nwa Baby (Ashawo Remix)",
         "url": "https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy"
       },
@@ -543,22 +527,6 @@
       "duration_ms": 257880,
       "name": "Nwa Baby - Ashawo Remix",
       "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "U Know My P",
-        "url": "https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw"
-      },
-      "artists": [
-        {
-          "name": "Nateo C",
-          "url": "https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Ki Ni Big Deal",
-      "url": "https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -579,18 +547,18 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Five Days A Week Lover",
-        "url": "https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37"
+        "name": "U Know My P",
+        "url": "https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw"
       },
       "artists": [
         {
-          "name": "Sir Victor Uwaifo",
-          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+          "name": "Nateo C",
+          "url": "https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU"
         }
       ],
-      "duration_ms": 535170,
-      "name": "Arabade",
-      "url": "https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt"
+      "duration_ms": 268973,
+      "name": "Ki Ni Big Deal",
+      "url": "https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -611,18 +579,18 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Roforofo Fight (Edit)",
-        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
+        "name": "Five Days A Week Lover",
+        "url": "https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
         }
       ],
-      "duration_ms": 211256,
-      "name": "Roforofo Fight - Edit",
-      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
+      "duration_ms": 535170,
+      "name": "Arabade",
+      "url": "https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -639,6 +607,22 @@
       "duration_ms": 299826,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Stalemate (Edit)",
+        "url": "https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 774973,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/039djQX5LwqXM93UxvktmR"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Lasso of Truth",
-        "url": "https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w"
+        "name": "Get Squared",
+        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
       },
       "artists": [
         {
-          "name": "Omawumi",
-          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         }
       ],
-      "duration_ms": 223137,
-      "name": "If You Ask Me",
-      "url": "https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq"
+      "duration_ms": 284613,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -719,6 +703,38 @@
       "duration_ms": 311146,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Lasso of Truth",
+        "url": "https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w"
+      },
+      "artists": [
+        {
+          "name": "Omawumi",
+          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+        }
+      ],
+      "duration_ms": 223137,
+      "name": "If You Ask Me",
+      "url": "https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Roforofo Fight (Edit)",
+        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 211256,
+      "name": "Roforofo Fight - Edit",
+      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -755,22 +771,6 @@
       "duration_ms": 278639,
       "name": "No Agreement - Edit",
       "url": "https://open.spotify.com/track/5JFUFbOjmebUD2piGlcxhs"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Get Squared",
-        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 284613,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2"
     },
     {
       "added_at": "2024-09-27 11:02:02",

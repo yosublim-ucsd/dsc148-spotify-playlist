@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,717 songs - 4 day 21 hr 24 min
+1,718 songs - 4 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,12 +1203,13 @@
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |
 | [Programmer](https://open.spotify.com/track/02f2u3zaWbEYDcBnqNZz2r) | [Aiiso](https://open.spotify.com/artist/5VMSahxKcDwmz2nYaBOd3V) | [City Lights / Programmer](https://open.spotify.com/album/2b0CwkJoJyfIoQOiTgzvJO) | 4:06 | 2020-02-29\* | 2020-03-16 |
+| [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 | 2025-01-10 |  |
 | [Proxima](https://open.spotify.com/track/5KeQ9CJ5dMgHkRjZTmDfJZ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Proxima](https://open.spotify.com/album/2sbxil0PPjCnynktwKcMyJ) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-07-28 |
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2021-02-19 | 2021-03-10 |
 | [Pursuit](https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Pursuit](https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F) | 4:52 | 2024-12-06 | 2025-01-04 |
 | [Queen of Ice \- Nora En Pure Club Mix](https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 4:15 | 2022-12-28 | 2023-01-06 |
-| [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 |  |
+| [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 | 2025-01-13 |
 | [Rabiosa](https://open.spotify.com/track/4wETfzGfYptjrNjf31CA06) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Rabiosa](https://open.spotify.com/album/7hre64g0IxybZvKQx22qbP) | 4:11 | 2022-12-28 | 2023-01-06 |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 | 2024-08-03 |
 | [Rain](https://open.spotify.com/track/3RPrtaRukLoAulq4dpI1nA) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Rain](https://open.spotify.com/album/284B6dcL3EcXn2PxZ3PD7h) | 3:42 | 2021-01-23 | 2022-10-21 |

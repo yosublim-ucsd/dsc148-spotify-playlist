@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 136182,
+  "num_followers": 136195,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Reina Leona",
         "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 163244,
       "name": "Carretera y manta",
       "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -327,34 +327,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "un d\u00eda en Par\u00eds",
-        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 242626,
-      "name": "un d\u00eda en Par\u00eds",
-      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Me Pongo Loca",
-      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -379,22 +367,50 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "En Esta Boca",
-        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 170742,
-      "name": "En Esta Boca",
-      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
+      "duration_ms": 177815,
+      "name": "Me Pongo Loca",
+      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "un d\u00eda en Par\u00eds",
+        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 242626,
+      "name": "un d\u00eda en Par\u00eds",
+      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -435,22 +451,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Fugitivo",
-        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Fugitivo",
-      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+        "name": "Fugitivo",
+        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
         }
       ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
+      "duration_ms": 160941,
+      "name": "Fugitivo",
+      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Dime Precioso",
         "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 212160,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
         }
       ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+        "name": "De Brujas, Peteneras y Chachalacas",
+        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
         }
       ],
-      "duration_ms": 187234,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+      "duration_ms": 397520,
+      "name": "T\u00e9 de Malv\u00f3n",
+      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -991,18 +991,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "De Brujas, Peteneras y Chachalacas",
-        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
       "artists": [
         {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 397520,
-      "name": "T\u00e9 de Malv\u00f3n",
-      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+      "duration_ms": 187234,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 220777,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 220777,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "t hice gay :$",
-        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 165874,
-      "name": "t hice gay :$",
-      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Todo vuelve al punto de partida",
         "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 195392,
       "name": "Panamericana",
       "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "t hice gay :$",
+        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 165874,
+      "name": "t hice gay :$",
+      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Sex Tape",
         "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 118206,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/3O18rkimzgbRRELQmXZQKa"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/18SRZukL28XCF4nKKQp2UM"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "A La Playa",
         "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 193870,
       "name": "A La Playa",
       "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "kiss my friends",
-        "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        }
-      ],
-      "duration_ms": 162143,
-      "name": "kiss my friends",
-      "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Lesbihonest",
         "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196363,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "kiss my friends",
+        "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "duration_ms": 162143,
+      "name": "kiss my friends",
+      "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
     },
     {
       "added_at": "2024-09-20 04:00:00",

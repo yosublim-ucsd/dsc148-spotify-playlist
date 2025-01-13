@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: MacKenzie Porter",
-  "num_followers": 213856,
+  "num_followers": 213953,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
         "name": "Run It",
         "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
       },
@@ -227,26 +243,6 @@
       "duration_ms": 159208,
       "name": "Run It",
       "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "I Quit Drinking",
-        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "I Quit Drinking",
-      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -271,18 +267,22 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "I Can Feel It",
-        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "I Can Feel It",
-      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -583,6 +567,26 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 189495,
+      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -619,58 +623,6 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 189495,
-      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 178336,
-      "name": "Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/130HPeTH6POyUbaGr3Su8p"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 164264,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
         "name": "Hurt (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
       },
@@ -691,18 +643,34 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 170906,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
+      "duration_ms": 178336,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/130HPeTH6POyUbaGr3Su8p"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -723,38 +691,34 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 153337,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Whiskey Blues",
-        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
       },
       "artists": [
         {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 133016,
-      "name": "Whiskey Blues",
-      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
+      "duration_ms": 164264,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -771,6 +735,22 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Whiskey Blues",
+        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 133016,
+      "name": "Whiskey Blues",
+      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -811,6 +791,26 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 153337,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Take A Bow (with Halsey)",
-      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -927,6 +907,26 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Take A Bow (with Halsey)",
+      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
         "name": "Bet You Break My Heart",
         "url": "https://open.spotify.com/album/1qULds6BpRHzLrA9IIZEbg"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 158355,
       "name": "Bet You Break My Heart",
       "url": "https://open.spotify.com/track/2Fw1OMnTMDMvq27b4GZMed"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -975,6 +959,22 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
+        "name": "The 3rd",
+        "url": "https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Guess We'll Never Know (feat. Colbie Caillat)",
+      "url": "https://open.spotify.com/track/2R294ks6upD1fBEVidGnNH"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1547,22 +1567,18 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "The 3rd",
-        "url": "https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N"
+        "name": "Woman You Got",
+        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Guess We'll Never Know (feat. Colbie Caillat)",
-      "url": "https://open.spotify.com/track/2R294ks6upD1fBEVidGnNH"
+      "duration_ms": 177951,
+      "name": "Woman You Got",
+      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Woman You Got",
-        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 177951,
-      "name": "Woman You Got",
-      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
       },
@@ -1611,26 +1611,6 @@
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
-    },
-    {
-      "added_at": "2025-01-03 05:00:23",
-      "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
-        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
       "added_at": "2025-01-03 05:00:23",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
         "name": "Purple Irises",
         "url": "https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea"
       },
@@ -1675,22 +1675,22 @@
     {
       "added_at": "2025-01-03 05:00:23",
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
+        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 150909,
+      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
       "added_at": "2025-01-03 05:00:23",

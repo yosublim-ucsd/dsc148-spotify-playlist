@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,684 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,712 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

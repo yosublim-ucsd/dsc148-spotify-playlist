@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 20 years of <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz-5Qg9RJSvtysyXHAJxw\">Zamajobe's</a> phenomenal \"Ndawo Yami\".",
-  "num_followers": 77988,
+  "num_followers": 78051,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 225720,
       "name": "Congratulate",
       "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        }
+      ],
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -603,34 +603,18 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -647,6 +631,22 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Vintage Sounds of Johannesburg",
-        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 292034,
-      "name": "Fester",
-      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Vintage Sounds of Johannesburg",
+        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
         }
       ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+      "duration_ms": 292034,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -747,6 +747,26 @@
       "duration_ms": 451466,
       "name": "Y U 4 Me",
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Bhambatha (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        },
+        {
+          "name": "Thembisile",
+          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Don't Cry - Remastered 2024",
+      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -803,42 +823,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Bhambatha (Remastered 2024)",
-        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        },
-        {
-          "name": "Thembisile",
-          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Don't Cry - Remastered 2024",
-      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 402093,
-      "name": "Zabalaza",
-      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -871,34 +855,18 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
       },
       "artists": [
         {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
         }
       ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Ancient Evening",
-        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
-      },
-      "artists": [
-        {
-          "name": "Sibongile Khumalo",
-          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Thula Mama",
-      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
+      "duration_ms": 402093,
+      "name": "Zabalaza",
+      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -923,6 +891,22 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
+        "name": "Ancient Evening",
+        "url": "https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT"
+      },
+      "artists": [
+        {
+          "name": "Sibongile Khumalo",
+          "url": "https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Thula Mama",
+      "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Grand Masters",
+        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 296911,
+      "name": "Ndiredi",
+      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
     },
     {
       "added_at": "2024-11-12 12:17:09",

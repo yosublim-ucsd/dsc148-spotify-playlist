@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40672,
+  "num_followers": 40675,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Affaire",
-        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Billetes",
-      "url": "https://open.spotify.com/track/6I4ZBlfCDUl1vlgEPsk3Lu"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
         "name": "Jesica Alegr\u00eda",
         "url": "https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Billetes",
+      "url": "https://open.spotify.com/track/6I4ZBlfCDUl1vlgEPsk3Lu"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
         "name": "los ausentes",
         "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
-        "name": "Los ojos",
-        "url": "https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk"
-      },
-      "artists": [
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 214178,
-      "name": "Los ojos",
-      "url": "https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -287,22 +271,18 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "estoy harta de que dure todo poco",
-        "url": "https://open.spotify.com/album/3bxGKqMAUGi1ZYr3vjLnXF"
+        "name": "Los ojos",
+        "url": "https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk"
       },
       "artists": [
         {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        },
-        {
-          "name": "Antuantu",
-          "url": "https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV"
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
         }
       ],
-      "duration_ms": 287997,
-      "name": "estoy harta de que dure todo poco",
-      "url": "https://open.spotify.com/track/3r7IT7Nuu7MhXzUyKfyyxt"
+      "duration_ms": 214178,
+      "name": "Los ojos",
+      "url": "https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -343,26 +323,6 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Panor\u00e1mica",
-        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
-      },
-      "artists": [
-        {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
-        },
-        {
-          "name": "Klauss",
-          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
-        }
-      ],
-      "duration_ms": 298279,
-      "name": "T.V. OFF",
-      "url": "https://open.spotify.com/track/5DEn3QQ4zxFjsZKJsP8uKB"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
         "name": "Terso",
         "url": "https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S"
       },
@@ -375,6 +335,26 @@
       "duration_ms": 190235,
       "name": "Terso",
       "url": "https://open.spotify.com/track/3PX3vBojK8fE5poLUw0xw7"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "estoy harta de que dure todo poco",
+        "url": "https://open.spotify.com/album/3bxGKqMAUGi1ZYr3vjLnXF"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        },
+        {
+          "name": "Antuantu",
+          "url": "https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV"
+        }
+      ],
+      "duration_ms": 287997,
+      "name": "estoy harta de que dure todo poco",
+      "url": "https://open.spotify.com/track/3r7IT7Nuu7MhXzUyKfyyxt"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -399,6 +379,26 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
+        "name": "Panor\u00e1mica",
+        "url": "https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq"
+      },
+      "artists": [
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        },
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr"
+        }
+      ],
+      "duration_ms": 298279,
+      "name": "T.V. OFF",
+      "url": "https://open.spotify.com/track/5DEn3QQ4zxFjsZKJsP8uKB"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
         "name": "Chica Mutante",
         "url": "https://open.spotify.com/album/63NFBjMrPVf5c9y3eVJL6n"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Holograma - Live Set",
-        "url": "https://open.spotify.com/album/3ERahAcw69NpRbRGBy5He5"
+        "name": "Aro",
+        "url": "https://open.spotify.com/album/3nRuq1SFFHati4oV1pLsgt"
       },
       "artists": [
         {
-          "name": "Jimena Roig",
-          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
+          "name": "Sucia y seca",
+          "url": "https://open.spotify.com/artist/6HZSZhku5lVfHrPYy6mzKW"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Holograma - Live Set",
-      "url": "https://open.spotify.com/track/5lJwJaAn7GAZPqAZ9aVyes"
+      "duration_ms": 289654,
+      "name": "Copla Punk",
+      "url": "https://open.spotify.com/track/2UIGU50qRq7BCZTw3gFLdT"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -451,34 +451,34 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Aro",
-        "url": "https://open.spotify.com/album/3nRuq1SFFHati4oV1pLsgt"
+        "name": "Holograma - Live Set",
+        "url": "https://open.spotify.com/album/3ERahAcw69NpRbRGBy5He5"
       },
       "artists": [
         {
-          "name": "Sucia y seca",
-          "url": "https://open.spotify.com/artist/6HZSZhku5lVfHrPYy6mzKW"
+          "name": "Jimena Roig",
+          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
         }
       ],
-      "duration_ms": 289654,
-      "name": "Copla Punk",
-      "url": "https://open.spotify.com/track/2UIGU50qRq7BCZTw3gFLdT"
+      "duration_ms": 247500,
+      "name": "Holograma - Live Set",
+      "url": "https://open.spotify.com/track/5lJwJaAn7GAZPqAZ9aVyes"
     },
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Paralelo",
-        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
+        "name": "Venus en trance",
+        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Eva Gou",
+          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
         }
       ],
-      "duration_ms": 258911,
-      "name": "Paralelo",
-      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
+      "duration_ms": 243546,
+      "name": "Lluvia y arcoiris",
+      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -499,18 +499,34 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Venus en trance",
-        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
       },
       "artists": [
         {
-          "name": "Eva Gou",
-          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Lluvia y arcoiris",
-      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
+      "duration_ms": 224835,
+      "name": "Arroyo Dorado",
+      "url": "https://open.spotify.com/track/3s1pANqiVLJwARB76vfYkC"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "Paralelo",
+        "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 258911,
+      "name": "Paralelo",
+      "url": "https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -551,22 +567,6 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
-      },
-      "artists": [
-        {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Arroyo Dorado",
-      "url": "https://open.spotify.com/track/3s1pANqiVLJwARB76vfYkC"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "RA\u00cdZ",
-        "url": "https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C"
-      },
-      "artists": [
-        {
-          "name": "Maia M\u00f3naco",
-          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
-        }
-      ],
-      "duration_ms": 314608,
-      "name": "MUJERES",
-      "url": "https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
         "name": "Shima",
         "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
       },
@@ -623,54 +607,18 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Posible",
-        "url": "https://open.spotify.com/album/32bUZaU0ffEvgnEkNW7jrd"
+        "name": "RA\u00cdZ",
+        "url": "https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Maia M\u00f3naco",
+          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
         }
       ],
-      "duration_ms": 257863,
-      "name": "Helix",
-      "url": "https://open.spotify.com/track/1Xf5nB7xeB5xVoCmivZ661"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
-      },
-      "artists": [
-        {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
-        }
-      ],
-      "duration_ms": 220983,
-      "name": "Intermitente",
-      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
-        "name": "ENVOLTORIO",
-        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        },
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 198010,
-      "name": "envoltorio",
-      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
+      "duration_ms": 314608,
+      "name": "MUJERES",
+      "url": "https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -691,34 +639,18 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
+        "name": "Posible",
+        "url": "https://open.spotify.com/album/32bUZaU0ffEvgnEkNW7jrd"
       },
       "artists": [
         {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
         }
       ],
-      "duration_ms": 250709,
-      "name": "Hipnosis",
-      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
-        "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
-        "url": "https://open.spotify.com/album/4fGQZTO2a9PbSzI7SGRZxG"
-      },
-      "artists": [
-        {
-          "name": "LISA SCHA",
-          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
-        }
-      ],
-      "duration_ms": 183971,
-      "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
-      "url": "https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG"
+      "duration_ms": 257863,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/1Xf5nB7xeB5xVoCmivZ661"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -747,18 +679,70 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "El Funeral de Cenicienta",
-        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
+        "name": "ENVOLTORIO",
+        "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
       },
       "artists": [
         {
-          "name": "Las Escuchas",
-          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 212395,
-      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
-      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
+      "duration_ms": 198010,
+      "name": "envoltorio",
+      "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        }
+      ],
+      "duration_ms": 220983,
+      "name": "Intermitente",
+      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
+        "url": "https://open.spotify.com/album/4fGQZTO2a9PbSzI7SGRZxG"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        }
+      ],
+      "duration_ms": 183971,
+      "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
+      "url": "https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
+      },
+      "artists": [
+        {
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
+        }
+      ],
+      "duration_ms": 250709,
+      "name": "Hipnosis",
+      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -783,6 +767,22 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
+        "name": "El Funeral de Cenicienta",
+        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
+      },
+      "artists": [
+        {
+          "name": "Las Escuchas",
+          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
+        }
+      ],
+      "duration_ms": 212395,
+      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
+      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
         "name": "No Est\u00e1 Tan Mal",
         "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
       },
@@ -799,6 +799,38 @@
       "duration_ms": 185897,
       "name": "No Est\u00e1 Tan Mal",
       "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "Nueva en el Amor",
+        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        }
+      ],
+      "duration_ms": 234930,
+      "name": "Venus en Latex",
+      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
+    },
+    {
+      "added_at": "2025-01-08 03:00:26",
+      "album": {
+        "name": "No Tengo Salida",
+        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        }
+      ],
+      "duration_ms": 204115,
+      "name": "No Tengo Salida",
+      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
     },
     {
       "added_at": "2025-01-08 03:00:26",
@@ -823,22 +855,6 @@
     {
       "added_at": "2025-01-08 03:00:26",
       "album": {
-        "name": "Nueva en el Amor",
-        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
-      },
-      "artists": [
-        {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        }
-      ],
-      "duration_ms": 234930,
-      "name": "Venus en Latex",
-      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
         "name": "GRITO",
         "url": "https://open.spotify.com/album/2BpvJcmZIY9Ru3zsFyME8K"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 284208,
       "name": "GRITO",
       "url": "https://open.spotify.com/track/7xqhXlh82o01zJLZ9xQUXY"
-    },
-    {
-      "added_at": "2025-01-08 03:00:26",
-      "album": {
-        "name": "No Tengo Salida",
-        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
-      },
-      "artists": [
-        {
-          "name": "LISA SCHA",
-          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
-        }
-      ],
-      "duration_ms": 204115,
-      "name": "No Tengo Salida",
-      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
     },
     {
       "added_at": "2025-01-08 03:00:26",

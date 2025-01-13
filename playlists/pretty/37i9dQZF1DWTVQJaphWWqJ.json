@@ -383,38 +383,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Alma de Cantante Errante",
-        "url": "https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 300600,
-      "name": "Pagina de Amor",
-      "url": "https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW"
       },
@@ -447,18 +415,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "T\u00fa Me Vuelves Loco (Baile Total)",
-        "url": "https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5"
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
         }
       ],
-      "duration_ms": 289373,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX"
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -475,6 +443,38 @@
       "duration_ms": 279680,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "T\u00fa Me Vuelves Loco (Baile Total)",
+        "url": "https://open.spotify.com/album/7kt8nJfzerlsCFzYyFiuz5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 289373,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/5gH9swPA4CDuuRrXeKkvPX"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Alma de Cantante Errante",
+        "url": "https://open.spotify.com/album/79dxsQGu6nJoSWN5Tqyp4S"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Pagina de Amor",
+      "url": "https://open.spotify.com/track/1UaejyfrYuAdGMXCwwwMpg"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Paso Firme",
         "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "La Historia... Los \u00c9xitos",
         "url": "https://open.spotify.com/album/2qGqJrcsR1oXU5vPQbCCU8"
       },
@@ -659,6 +659,70 @@
       "duration_ms": 290613,
       "name": "Si Volveras a M\u00ed",
       "url": "https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Alex Bueno",
+        "url": "https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "El Jardin Prohibido",
+      "url": "https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Salsa Clasica",
+        "url": "https://open.spotify.com/album/6H7VxpaLQkZdXAaGV7FXU7"
+      },
+      "artists": [
+        {
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        }
+      ],
+      "duration_ms": 296857,
+      "name": "Hechizo De Luna",
+      "url": "https://open.spotify.com/track/1g0SIfhEzfJK8XCmHAjtjE"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -711,22 +775,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Diomedes D\u00edaz - 56 A\u00f1os, 56 Exitos, Una Historia",
         "url": "https://open.spotify.com/album/5PlIQfRlU2GOmxhnmRNYsa"
       },
@@ -747,6 +795,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
@@ -759,22 +823,6 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -811,22 +859,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Rafael Orozco... Vive",
         "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
@@ -839,38 +871,6 @@
       "duration_ms": 264733,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Salsa Clasica",
-        "url": "https://open.spotify.com/album/6H7VxpaLQkZdXAaGV7FXU7"
-      },
-      "artists": [
-        {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        }
-      ],
-      "duration_ms": 296857,
-      "name": "Hechizo De Luna",
-      "url": "https://open.spotify.com/track/1g0SIfhEzfJK8XCmHAjtjE"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Alex Bueno",
-        "url": "https://open.spotify.com/album/7bsw0uld3wQioChBQcnED8"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "El Jardin Prohibido",
-      "url": "https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Pa Que No Me Anden Contando",
+        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 129930,
+      "name": "Pa Que No Me Anden Contando",
+      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "The Essential Guide To Vallenato",
         "url": "https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 297626,
       "name": "El Mochuelo",
       "url": "https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Pa Que No Me Anden Contando",
-        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 129930,
-      "name": "Pa Que No Me Anden Contando",
-      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
     },
     {
       "added_at": "2024-06-25 16:18:42",

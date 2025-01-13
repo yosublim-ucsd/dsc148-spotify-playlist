@@ -1,13 +1,33 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 29399,
-  "original_name": "LA LLISTA DE FLAIXBAC (05/01/2025)",
+  "num_followers": 29404,
+  "original_name": "LA LLISTA DE FLAIXBAC (12/01/2025)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AAA5WsAn/9cYHyOl88KmgZOgN7GZWGG9",
+  "snapshot_id": "AAA5fV8+NrzI3hYc/UvUy03qcIw7Sige",
   "tracks": [
+    {
+      "added_at": "2024-11-10 16:19:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
     {
       "added_at": "2024-10-13 16:25:50",
       "album": {
@@ -41,46 +61,6 @@
       "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
     },
     {
-      "added_at": "2024-11-10 16:19:00",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2024-10-20 15:39:35",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
       "added_at": "2024-10-27 16:20:07",
       "album": {
         "name": "Forever Young",
@@ -105,6 +85,26 @@
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
     },
     {
+      "added_at": "2024-10-20 15:39:35",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
       "added_at": "2024-11-10 16:18:49",
       "album": {
         "name": "Bad Dreams",
@@ -119,6 +119,22 @@
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-10-20 15:37:02",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "added_at": "2024-09-15 17:07:22",
@@ -153,20 +169,20 @@
       "url": "https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC"
     },
     {
-      "added_at": "2024-10-20 15:37:02",
+      "added_at": "2024-10-27 16:19:51",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Rumba catalana",
+        "url": "https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 199500,
+      "name": "Rumba catalana",
+      "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
     },
     {
       "added_at": "2024-09-15 17:03:23",
@@ -185,40 +201,64 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-10-27 16:19:51",
+      "added_at": "2024-12-08 16:22:25",
       "album": {
-        "name": "Rumba catalana",
-        "url": "https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e"
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
       "artists": [
         {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Rumba catalana",
-      "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
-    },
-    {
-      "added_at": "2024-09-22 16:17:31",
-      "album": {
-        "name": "Only Hits",
-        "url": "https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ"
-      },
-      "artists": [
-        {
-          "name": "Mama Dousha",
-          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         },
         {
-          "name": "Scotty DK",
-          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         }
       ],
-      "duration_ms": 155398,
-      "name": "Sant Tornem-hi",
-      "url": "https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF"
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "added_at": "2024-08-25 16:39:31",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
+    },
+    {
+      "added_at": "2024-12-08 16:22:15",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "added_at": "2024-10-20 15:35:59",
@@ -253,44 +293,24 @@
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
-      "added_at": "2024-08-25 16:39:31",
+      "added_at": "2024-09-22 16:17:31",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "name": "Only Hits",
+        "url": "https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
-    },
-    {
-      "added_at": "2024-12-08 16:22:25",
-      "album": {
-        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+          "name": "Mama Dousha",
+          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
         },
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+          "name": "Scotty DK",
+          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
         }
       ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      "duration_ms": 155398,
+      "name": "Sant Tornem-hi",
+      "url": "https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF"
     },
     {
       "added_at": "2024-09-08 15:21:42",
@@ -325,6 +345,54 @@
       "url": "https://open.spotify.com/track/33hasXzBCCcUDHNT7DqlE6"
     },
     {
+      "added_at": "2024-06-09 16:13:58",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-11-17 16:46:48",
+      "album": {
+        "name": "Nom\u00e9s viure",
+        "url": "https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "duration_ms": 136048,
+      "name": "Nom\u00e9s viure",
+      "url": "https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru"
+    },
+    {
+      "added_at": "2024-12-01 17:08:01",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
       "added_at": "2024-09-08 15:21:30",
       "album": {
         "name": "Octubre del 24",
@@ -345,42 +413,6 @@
       "url": "https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg"
     },
     {
-      "added_at": "2024-06-09 16:13:58",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-12-08 16:22:15",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
-    },
-    {
       "added_at": "2024-10-06 17:40:48",
       "album": {
         "name": "Timeless (Deluxe)",
@@ -395,106 +427,6 @@
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
-    },
-    {
-      "added_at": "2024-11-17 16:46:48",
-      "album": {
-        "name": "Nom\u00e9s viure",
-        "url": "https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg"
-      },
-      "artists": [
-        {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        }
-      ],
-      "duration_ms": 136048,
-      "name": "Nom\u00e9s viure",
-      "url": "https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru"
-    },
-    {
-      "added_at": "2024-10-20 15:36:53",
-      "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": "2024-07-07 16:49:59",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-09-08 15:21:52",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-12-01 17:08:01",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-07-14 16:17:27",
-      "album": {
-        "name": "LA MARINA STA MORENA",
-        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
-      },
-      "artists": [
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 131332,
-      "name": "LA MARINA STA MORENA",
-      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
     },
     {
       "added_at": "2024-11-24 16:20:59",
@@ -517,56 +449,72 @@
       "url": "https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212"
     },
     {
-      "added_at": "2024-07-14 16:17:05",
+      "added_at": "2024-07-07 16:49:59",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-08-18 16:02:55",
+      "added_at": "2024-10-20 15:36:53",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
         }
       ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
-      "added_at": "2024-08-04 15:39:33",
+      "added_at": "2024-09-08 15:21:52",
       "album": {
-        "name": "Stargazing (Moonlight Version)",
-        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-07-14 16:17:27",
+      "album": {
+        "name": "LA MARINA STA MORENA",
+        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 131332,
+      "name": "LA MARINA STA MORENA",
+      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
     },
     {
       "added_at": "2024-12-15 17:14:42",
@@ -601,6 +549,58 @@
       "url": "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw"
     },
     {
+      "added_at": "2024-08-04 15:39:33",
+      "album": {
+        "name": "Stargazing (Moonlight Version)",
+        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
+    },
+    {
+      "added_at": "2024-08-18 16:02:55",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "added_at": "2024-07-14 16:17:05",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
       "added_at": "2024-11-03 17:48:49",
       "album": {
         "name": "El club de la sisena hora",
@@ -633,68 +633,24 @@
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
-      "added_at": "2024-11-03 17:49:00",
+      "added_at": "2025-01-12 16:54:43",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+        "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+        "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-12-15 17:14:31",
-      "album": {
-        "name": "Menys mal que ja \u00e9s Nadal",
-        "url": "https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf"
-      },
-      "artists": [
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
         {
-          "name": "Siderland",
-          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 159705,
-      "name": "Menys mal que ja \u00e9s Nadal",
-      "url": "https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv"
-    },
-    {
-      "added_at": "2024-11-10 16:25:02",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-08-04 15:39:17",
-      "album": {
-        "name": "Austin (Boots Stop Workin')",
-        "url": "https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
+      "duration_ms": 130880,
+      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+      "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
     },
     {
       "added_at": "2025-01-06 11:36:55",
@@ -721,20 +677,68 @@
       "url": "https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK"
     },
     {
-      "added_at": "2024-11-17 16:46:40",
+      "added_at": "2024-11-03 17:49:00",
       "album": {
-        "name": "Papallones",
-        "url": "https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB"
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
       "artists": [
         {
-          "name": "JULS",
-          "url": "https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 168163,
-      "name": "Papallones",
-      "url": "https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM"
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-11-10 16:25:02",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2025-01-12 16:54:29",
+      "album": {
+        "name": "HEM VINGUT A JUGAR",
+        "url": "https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "duration_ms": 151450,
+      "name": "HEM VINGUT A JUGAR",
+      "url": "https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs"
+    },
+    {
+      "added_at": "2024-08-04 15:39:17",
+      "album": {
+        "name": "Austin (Boots Stop Workin')",
+        "url": "https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
     },
     {
       "added_at": "2024-07-07 16:49:42",
@@ -757,20 +761,20 @@
       "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
     },
     {
-      "added_at": "2024-06-30 16:22:34",
+      "added_at": "2024-11-17 16:46:40",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Papallones",
+        "url": "https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "JULS",
+          "url": "https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ"
         }
       ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+      "duration_ms": 168163,
+      "name": "Papallones",
+      "url": "https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM"
     },
     {
       "added_at": "2024-06-02 16:13:31",
@@ -789,22 +793,22 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-02-11 16:14:09",
+      "added_at": "2024-06-30 16:22:34",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (05/01/2025)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (12/01/2025)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

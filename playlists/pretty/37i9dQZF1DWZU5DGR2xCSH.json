@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1143065,
+  "num_followers": 1143133,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Himno De Mi Corazon",
         "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -219,6 +203,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 336360,
       "name": "Balada Del Diablo y La Muerte",
       "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -263,22 +279,6 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Lo Mejor de Pescado Rabioso",
-        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Post-Crucifixion",
-      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Ya No Mires Atr\u00e1s",
         "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Lo Mejor de Pescado Rabioso",
+        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Post-Crucifixion",
+      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "Veinte Ciudades",
-      "url": "https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 130213,
       "name": "Ayer Nom\u00e1s",
       "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "Veinte Ciudades",
+      "url": "https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
-        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+        "name": "Time Fate Love (Remastered 2019)",
+        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
       },
       "artists": [
         {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+          "name": "Luca Prodan",
+          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
         }
       ],
-      "duration_ms": 380933,
-      "name": "Desconf\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+      "duration_ms": 349260,
+      "name": "Regtest (Happy Valley Rock)",
+      "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Ya No Mires Atr\u00e1s",
         "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        }
+      ],
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Time Fate Love (Remastered 2019)",
         "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
       },
@@ -1068,25 +1100,9 @@
           "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
         }
       ],
-      "duration_ms": 349260,
-      "name": "Regtest (Happy Valley Rock)",
-      "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+      "duration_ms": 257694,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1119,22 +1135,6 @@
       "duration_ms": 170546,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

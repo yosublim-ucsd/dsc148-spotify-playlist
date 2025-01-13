@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 230127,
+  "num_followers": 230158,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "yeti",
@@ -657,22 +673,6 @@
       "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
     },
     {
-      "added_at": "2024-03-22 14:38:07",
-      "album": {
-        "name": "Is This What Love Is?",
-        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 217002,
-      "name": "Is This What Love Is?",
-      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
-    },
-    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "Fate",
@@ -687,22 +687,6 @@
       "duration_ms": 239093,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5"
-    },
-    {
-      "added_at": "2023-01-13 13:15:53",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -739,6 +723,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -753,20 +753,20 @@
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-01-13 13:15:53",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Let's Get Out Of This Country",
@@ -847,6 +831,22 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
-      "added_at": "2024-05-31 19:59:04",
-      "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "So My Darling",
@@ -911,6 +895,22 @@
       "duration_ms": 269914,
       "name": "So My Darling",
       "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
+    },
+    {
+      "added_at": "2024-05-31 19:59:04",
+      "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Morning Phase",
@@ -1055,6 +1039,22 @@
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2024-08-08 19:46:47",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
+      "duration_ms": 227666,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1407,6 +1391,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 227666,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2024-03-28 22:30:08",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
     },
     {
-      "added_at": "2024-08-08 19:46:47",
-      "album": {
-        "name": "Meet Cute",
-        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Meet Cute",
-      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
-    },
-    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
@@ -1539,6 +1523,22 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "Meet Cute",
+        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Meet Cute",
+      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
       "added_at": "2024-07-12 12:27:26",

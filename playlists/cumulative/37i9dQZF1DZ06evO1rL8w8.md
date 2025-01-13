@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 39 min
+76 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amado Carrillo](https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Amado Carrillo](https://open.spotify.com/album/06flLCpK0Kb4C06j3Z1eYV) | 2:20 | 2024-01-29 |  |
 | [Aqui Sigo de Pie](https://open.spotify.com/track/3YUzUpV8Hv0Ceq3kcloU2K) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Aqui Sigo de Pie](https://open.spotify.com/album/1pU4hKqSUPPhksUUvaCx1q) | 2:12 | 2024-01-29 | 2024-02-19 |
 | [Aquí Sigo De Pie \- En Vivo](https://open.spotify.com/track/7fKCHFiNyh2W6QoxfJefv8) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mis Caballerizas, Vol\. 2](https://open.spotify.com/album/15Y3CvqU96xvLxfQruinm3) | 2:32 | 2024-05-04 | 2024-05-12 |
+| [Belika Mafiosa](https://open.spotify.com/track/0Oy3v2dIU4HPPXpi5Z9gJq) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belika Mafiosa](https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2) | 2:17 | 2025-01-13 |  |
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2024-01-29 |  |
 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 | 2024-07-05 | 2024-10-11 |
 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 | 2024-06-09 | 2024-08-12 |
@@ -22,7 +23,7 @@
 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 | 2024-01-29 |  |
 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 | 2024-01-29 |  |
 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 | 2024-02-19 |  |
-| [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 | 2024-01-29 |  |
+| [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 | 2024-01-29 | 2025-01-13 |
 | [El Cartel](https://open.spotify.com/track/4Fj72ootB0Nc2EjMYQmrSb) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Cartel](https://open.spotify.com/album/0zi7eSgEN1Kil6b2hRGDGj) | 2:53 | 2024-08-18 | 2024-10-25 |
 | [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 | 2024-01-29 |  |
 | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP) | 3:31 | 2024-03-05 | 2024-09-20 |

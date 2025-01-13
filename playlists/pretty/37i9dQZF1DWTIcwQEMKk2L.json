@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 70026,
+  "num_followers": 70035,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Oyasumi Nasai",
         "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 68250,
       "name": "Eeny Meeny Miny Moe",
       "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 115227,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma",
-          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
-        }
-      ],
-      "duration_ms": 143869,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
-      },
-      "artists": [
-        {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "They Keep Asking",
         "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+      },
+      "artists": [
+        {
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+        }
+      ],
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "Sleepy Mountains",
         "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
       "artists": [
         {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
         }
       ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1399,22 +1415,6 @@
       "duration_ms": 148407,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Storytelling",
-        "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
-      },
-      "artists": [
-        {
-          "name": "Pathos Humano",
-          "url": "https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Storytelling",
-      "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
       },
       "artists": [
         {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+          "name": "Pathos Humano",
+          "url": "https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9"
         }
       ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+      "duration_ms": 284000,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1591,6 +1575,22 @@
       "duration_ms": 179000,
       "name": "\u00c8 ora di dormire",
       "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+      },
+      "artists": [
+        {
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2024-12-23 02:16:21",

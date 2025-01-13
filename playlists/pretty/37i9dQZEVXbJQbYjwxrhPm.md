@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 26 | [Мания](https://open.spotify.com/track/46iEOpz4CimiWRbX9KaJNB) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Мания](https://open.spotify.com/album/6mUcW1LGZSlvK9Fcbxh73B) | 3:08 |
 | 27 | [Влака](https://open.spotify.com/track/1ZNaBYL73COjUVvINlKPlV) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Влака](https://open.spotify.com/album/5tkJwWguXljKUVRY4WpREY) | 2:54 |
 | 28 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 29 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
+| 29 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
 | 30 | [Така съм аз, така си ти](https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt) | [Така съм аз, така си ти](https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed) | 2:52 |
 | 31 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
 | 32 | [ДАЙ](https://open.spotify.com/track/0UhHVrEBaHWQXWEb5LTuGK) | [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [JS](https://open.spotify.com/artist/3VNXb8KvI7QH5kq6jrNTLa) | [ДАЙ](https://open.spotify.com/album/5siZpJuY3aNsDNomfHZetW) | 2:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 44 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
 | 45 | [Грешници](https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Грешници](https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777) | 4:08 |
 | 46 | [Siromah](https://open.spotify.com/track/0P9t4y8niPdEfQdtIuqWJK) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Siromah](https://open.spotify.com/album/6HMhKmiWJK0jHPernrd7Mo) | 3:20 |
-| 47 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:00 |
+| 47 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 |
 | 48 | [Филм за нас](https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Филм за нас](https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV) | 3:01 |
 | 49 | [Къртиш](https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Къртиш](https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh) | 3:27 |
 | 50 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 
-Snapshot ID: `LxXeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxcwIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
