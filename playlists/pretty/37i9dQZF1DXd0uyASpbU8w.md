@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw?si=qoTsjA4ARUaeHLwne\-Ukaw">Moonchild Sanelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,785 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,810 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 14 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 15 | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/27phUMXA53CLokQgatsJaz) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V) | 1:58 |
 | 16 | [Green Light](https://open.spotify.com/track/6siekaIb5RdU8xQXjagBMF) | [DJ Kaywise](https://open.spotify.com/artist/74feid8HSOjUPnhiV3BNBG), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Green Light](https://open.spotify.com/album/3lBsMyI5SKXtvE2aB8mj9j) | 2:25 |
-| 17 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 17 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 18 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
 | 19 | [Coming Home](https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Coming Home](https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS) | 4:25 |
 | 20 | [Sihawukele](https://open.spotify.com/track/0oxFJacW92iqelTfXXvvY6) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Qdeep](https://open.spotify.com/artist/2rrZi0sFAC1kk9TB4hGSRC) | [Mkhonzeni](https://open.spotify.com/album/7pektPGdEANY95kbDRrG01) | 6:30 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 24 | [Tic Tic](https://open.spotify.com/track/09PlRgnqrxGgft0sn1b6Cq) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Tic Tic](https://open.spotify.com/album/6WKRexy0sYEh1GV56UDKeB) | 1:32 |
 | 25 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 |
 | 26 | [What It Feels Like](https://open.spotify.com/track/7mXWqPVHYNyzQVNmflBSYH) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [What It Feels Like](https://open.spotify.com/album/0NQzuz5HR23dQ52ODHU4Lx) | 5:35 |
-| 27 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 27 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 28 | [Broken](https://open.spotify.com/track/1dSWxiAta2Khk71alwiI68) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Broken](https://open.spotify.com/album/2HWVA1WrbftVD71PPy4WwG) | 2:47 |
 | 29 | [One Good Thing](https://open.spotify.com/track/62xicKmz7afi8hjv4NdtSv) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [One Good Thing](https://open.spotify.com/album/6muLxsmUD9rwyTJ0gZb43T) | 4:04 |
 | 30 | [Love sick](https://open.spotify.com/track/1Qv3mymkk1cXI0Gv5vP60T) | [Mika B](https://open.spotify.com/artist/5aCnOXGsybgY1LAJ3EVk3T) | [Love Sick](https://open.spotify.com/album/6heEuursnK8ErfrBCyYKFU) | 3:16 |

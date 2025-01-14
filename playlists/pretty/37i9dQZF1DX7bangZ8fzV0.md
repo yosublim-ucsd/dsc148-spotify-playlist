@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=8Eo243HgQxK\-GWWPjOzeLg">JAN JAN JAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,177 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,235 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

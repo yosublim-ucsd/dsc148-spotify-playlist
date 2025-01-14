@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Mrityunjay Mantra",
+        "url": "https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361621,
+      "name": "Mrityunjay Mantra",
+      "url": "https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP"
+    },
+    {
+      "album": {
         "name": "Anand Bliss",
         "url": "https://open.spotify.com/album/0gbuTZhOYD0DhCzmVkKNme"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 1081463,
       "name": "Ram Naam Chanting",
       "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"

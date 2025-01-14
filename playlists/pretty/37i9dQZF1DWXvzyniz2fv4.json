@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158823,
+  "num_followers": 158826,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -431,34 +431,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mais Al\u00e9m",
-        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
-      },
-      "artists": [
-        {
-          "name": "Lipe",
-          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
-        },
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        },
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
-        },
-        {
-          "name": "Ricca",
-          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
-        }
-      ],
-      "duration_ms": 193854,
-      "name": "Mais Al\u00e9m",
-      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Astro Rei",
         "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
       },
@@ -487,6 +459,34 @@
       "duration_ms": 177000,
       "name": "Astro Rei",
       "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Mais Al\u00e9m",
+        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
+      },
+      "artists": [
+        {
+          "name": "Lipe",
+          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
+        },
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        },
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
+        },
+        {
+          "name": "Ricca",
+          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
+        }
+      ],
+      "duration_ms": 193854,
+      "name": "Mais Al\u00e9m",
+      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -827,42 +827,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "DoisZ",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -891,6 +855,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
+      },
+      "artists": [
+        {
+          "name": "DoisZ",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206210,
       "name": "Doses",
       "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalu",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalu",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "De Peito Aberto, Pt. 2",
-        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 127850,
-      "name": "Toca o Refr\u00e3o",
-      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "De Peito Aberto, Pt. 2",
+        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 127850,
+      "name": "Toca o Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
-      },
-      "artists": [
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "S\u00d3 AS BRABA",
-          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Psicodelia Rap Dub Urbana",
         "url": "https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 236373,
       "name": "Dono do Cora\u00e7\u00e3o Solit\u00e1rio",
       "url": "https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
+      },
+      "artists": [
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA",
+          "url": "https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
     }
   ],
   "unique_name": "Resenha na Praia",

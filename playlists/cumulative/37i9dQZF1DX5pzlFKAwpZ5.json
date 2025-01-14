@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Elegance of Nature",
+        "url": "https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344690,
+      "name": "Elegance of Nature",
+      "url": "https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G"
+    },
+    {
+      "album": {
         "name": "Endless Winter",
         "url": "https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 342960,
       "name": "Float On",
       "url": "https://open.spotify.com/track/1gxfSEYoqHO3rUluVLFXRS"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 363323,
       "name": "HereAfter",
       "url": "https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 248681,
       "name": "My Hollow",
       "url": "https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo"
@@ -3026,6 +3044,24 @@
       "duration_ms": 270664,
       "name": "Pierrepont",
       "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
+    },
+    {
+      "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE"
+      },
+      "artists": [
+        {
+          "name": "Oowets",
+          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Planet",
+      "url": "https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq"
     },
     {
       "album": {
@@ -3372,7 +3408,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 68600,
       "name": "Seiko 2",
       "url": "https://open.spotify.com/track/7vRbhipDnha1XKNlsEeIVr"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 205533,
       "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
       "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"

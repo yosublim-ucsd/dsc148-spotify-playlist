@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to Pakistani Hits\. Cover: Bayaan
+> Home to Pakistani Hits\. Cover: Talha Anjum
 
 199 songs - 13 hr 40 min
 

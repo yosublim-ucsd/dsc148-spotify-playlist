@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,715 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,717 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 39 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
 | 40 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
 | 41 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \(Edit\)](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 |
-| 42 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
-| 43 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
+| 42 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
+| 43 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 44 | [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 |
 | 45 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 |
 | 46 | [My Dawgs](https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [My Dawgs](https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ) | 2:55 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 68 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 69 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 70 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU), [rede.](https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 |
-| 71 | [Stand Straight](https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [SLO MO](https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ) | 5:35 |
+| 71 | [Admit to that](https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Yellow Chapter](https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO) | 4:44 |
 | 72 | [Just Don't Know](https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Just Don't Know](https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc) | 3:07 |
-| 73 | [Admit to that](https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Yellow Chapter](https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO) | 4:44 |
+| 73 | [Stand Straight](https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [SLO MO](https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ) | 5:35 |
 | 74 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 |
-| 75 | [Problem](https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [Problem](https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97) | 3:12 |
+| 75 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
 
 Snapshot ID: `Z3+sPgAAAAAYz96TG24lFTG6iGueCYFN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 26,020 likes - 142 songs - 7 hr 46 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 26,052 likes - 142 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 131 | [You Say](https://open.spotify.com/track/4rvtJbA7f9LH69rECWAO54) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [You Say](https://open.spotify.com/album/6MYiSNPTfxEMwTJzt1jbiz) | 5:09 |
 | 132 | [Waterfalls](https://open.spotify.com/track/0PUvbLyZZPPlqUwMjzPOIL) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Waterfalls](https://open.spotify.com/album/54l8HI9ZEG6DvvwMwaZBJ6) | 4:04 |
 | 133 | [Tempesta for 2 Pianos inspired by Coriolan, Op\. 62 by Beethoven](https://open.spotify.com/track/4wlR4akXx2YLb2SWVHfx5N) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Tempesta for 2 Pianos inspired by Coriolan, Op\. 62 by Beethoven](https://open.spotify.com/album/6KOguaKk6aGvLhQ86xhEcx) | 2:40 |
-| 134 | [Human Nature](https://open.spotify.com/track/6UitddkWddchwFIDVrdRLs) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [2Cellos](https://open.spotify.com/album/6Tfa58cXgknGKAfHlshaiZ) | 2:47 |
+| 134 | [Human Nature](https://open.spotify.com/track/6UitddkWddchwFIDVrdRLs) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Luka Sulic](https://open.spotify.com/artist/36a1FhGZwPM18t4IkpOkpG) | [2Cellos](https://open.spotify.com/album/6Tfa58cXgknGKAfHlshaiZ) | 2:47 |
 | 135 | [Concerto for Piano and Orchestra No\. 5 in F Minor, BWV 1056: II\. Largo](https://open.spotify.com/track/3wPwc4exhyN7HewN0dQ2qR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP), [Vladimir Golschmann](https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M), [Columbia Symphony Orchestra](https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE) | [50 Masterworks \- Glenn Gould](https://open.spotify.com/album/53iTuSND2acCpoLiKopj6n) | 2:56 |
 | 136 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/5CDCkuiTQhiXLLVILc4WCH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Liszt: Piano Works](https://open.spotify.com/album/3ZywfV6j1ZeKAi3uOcJ9f9) | 5:28 |
 | 137 | [5 Stücke im Volkston, Op\. 102: II\. Langsam](https://open.spotify.com/track/72M1QxJ62X7eCpt5v6uSZb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Schumann](https://open.spotify.com/album/2RcexpTBL3UC95AwyTqZAp) | 3:21 |

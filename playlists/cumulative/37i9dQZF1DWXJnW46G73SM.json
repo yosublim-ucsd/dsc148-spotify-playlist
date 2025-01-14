@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 197080,
       "name": "Awla beya - \u0623\u0648\u0644\u064a \u0628\u064a\u0627",
       "url": "https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY"
@@ -5678,7 +5678,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 224634,
       "name": "Estanno Shewaya",
       "url": "https://open.spotify.com/track/2Bh9NhDUF3OyBr5fPsqNM6"
@@ -9803,6 +9803,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Mazzika Salonat",
+        "url": "https://open.spotify.com/album/7CdFujdNVjLNKwdQN9rQy8"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Eslam Kabonga",
+          "url": "https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270544,
+      "name": "Ma3 ElSalama",
+      "url": "https://open.spotify.com/track/123yEgeqfWIIrXIjWV9LoQ"
+    },
+    {
+      "album": {
         "name": "Maat El Kalam",
         "url": "https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w"
       },
@@ -11668,6 +11690,24 @@
       "duration_ms": 161748,
       "name": "Msh Hawasek",
       "url": "https://open.spotify.com/track/5QWusjaFjFTZRF38SMPicd"
+    },
+    {
+      "album": {
+        "name": "Msh Kitir",
+        "url": "https://open.spotify.com/album/7cNB5o7HwVLId2BNKRTmjX"
+      },
+      "artists": [
+        {
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Msh Kitir",
+      "url": "https://open.spotify.com/track/7jJD6CVCSFSfDFBNOmZ6cU"
     },
     {
       "album": {

@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 258000,
       "name": "Giddh",
       "url": "https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP"
@@ -1796,6 +1796,24 @@
       "duration_ms": 228292,
       "name": "Kaalam - Hope Project",
       "url": "https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC"
+    },
+    {
+      "album": {
+        "name": "SEASON OF SOLITUDE",
+        "url": "https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8NK",
+          "url": "https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210419,
+      "name": "KAALAM MAARI/THIRICHU VERAVU",
+      "url": "https://open.spotify.com/track/2F3T5IdWybEHp7OmlOszMx"
     },
     {
       "album": {
@@ -3145,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Neeli",
+        "url": "https://open.spotify.com/album/0FhBkzCKbxE9Qa4cTRMPxf"
+      },
+      "artists": [
+        {
+          "name": "Retheesh Narayanan",
+          "url": "https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420174,
+      "name": "Neeli",
+      "url": "https://open.spotify.com/track/4faDfd02dzmI2DjTBLpdSa"
+    },
+    {
+      "album": {
         "name": "Neeyakame",
         "url": "https://open.spotify.com/album/0QpvAVQlzz31OOSQ5jt6u0"
       },
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 220096,
       "name": "Nizhalattam",
       "url": "https://open.spotify.com/track/3pjXqo5XpSTAiiqFJ7pwP9"
@@ -4058,7 +4094,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 332038,
       "name": "Puttu Paattu",
       "url": "https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT"
@@ -4874,6 +4910,24 @@
       "duration_ms": 174472,
       "name": "Thi Thi Thara (Kuttanadan Dreams)",
       "url": "https://open.spotify.com/track/3wglYnuFPhTCcQwaHir0h4"
+    },
+    {
+      "album": {
+        "name": "SEASON OF SOLITUDE",
+        "url": "https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8NK",
+          "url": "https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148557,
+      "name": "THIRIKE VAA",
+      "url": "https://open.spotify.com/track/2eAXNx6jOhxgpJu8tZIY7o"
     },
     {
       "album": {

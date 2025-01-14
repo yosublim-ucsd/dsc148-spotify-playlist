@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0LTWIcd5hJCY4EqIPudXyZ"
+      },
+      "artists": [
+        {
+          "name": "Sam\u2019s Creek",
+          "url": "https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158058,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3bgNNSsVySCFBmvOMpgUIK"
+    },
+    {
+      "album": {
         "name": "Fortified Heart",
         "url": "https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk"
       },
@@ -4688,6 +4706,24 @@
       "duration_ms": 163590,
       "name": "Quadratus",
       "url": "https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret"
+    },
+    {
+      "album": {
+        "name": "Quiet Reflections",
+        "url": "https://open.spotify.com/album/0vSDSlQCELodBbcNBIzFVd"
+      },
+      "artists": [
+        {
+          "name": "Sam Blom",
+          "url": "https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150789,
+      "name": "Quiet Reflections",
+      "url": "https://open.spotify.com/track/2btSsMLfRbbWZsiiHSvon7"
     },
     {
       "album": {

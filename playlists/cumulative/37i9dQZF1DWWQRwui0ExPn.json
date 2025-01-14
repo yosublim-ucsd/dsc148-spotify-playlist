@@ -6339,6 +6339,24 @@
     },
     {
       "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/2sflYWG1mU0jo9qmNsvF7P"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/768BYGA6sGLudT38KqiVFe"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/50xvIbEJzB3wAoEh1qsoiJ"
       },
@@ -8396,7 +8414,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 135793,
       "name": "Autumn By Day",
       "url": "https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1"
@@ -17132,7 +17150,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
@@ -22678,7 +22696,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 124235,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1so20SWwBndwKAJ5RLLrE5"
@@ -23296,7 +23314,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 150000,
       "name": "Clouds & Conversations",
       "url": "https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz"
@@ -39868,7 +39886,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 118944,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/58uy3CHRJaCg8fzxqpuibp"
@@ -51765,6 +51783,24 @@
     },
     {
       "album": {
+        "name": "heath",
+        "url": "https://open.spotify.com/album/79AG4qIlXTlfTH3tC5k6Pn"
+      },
+      "artists": [
+        {
+          "name": "silkw\u00fcrm",
+          "url": "https://open.spotify.com/artist/1TkPBaPShLazfcQ6NpRolZ"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "heath",
+      "url": "https://open.spotify.com/track/5pjMm33lajx5bFf09iYQT0"
+    },
+    {
+      "album": {
         "name": "heatwave",
         "url": "https://open.spotify.com/album/4p5VyYZ3IlBaPD8CVxMMQV"
       },
@@ -54226,7 +54262,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 127228,
       "name": "Hopes&Dreams",
       "url": "https://open.spotify.com/track/2OQ0A8JJpOjmhFrdqDDNEG"
@@ -57038,6 +57074,24 @@
       "duration_ms": 130082,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib"
+    },
+    {
+      "album": {
+        "name": "impromptu love",
+        "url": "https://open.spotify.com/album/5LzfVJgkagIRWtQNTZo7Oy"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124411,
+      "name": "impromptu love",
+      "url": "https://open.spotify.com/track/136bCLrehD1YeAqsFSZhVs"
     },
     {
       "album": {
@@ -87184,6 +87238,24 @@
       "duration_ms": 146096,
       "name": "Old Keys",
       "url": "https://open.spotify.com/track/3Ommt1SkfsgZqsQZ77Hc0e"
+    },
+    {
+      "album": {
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/4BQ9wXbbgJ8TqtGmrWcPtp"
+      },
+      "artists": [
+        {
+          "name": "Iassu",
+          "url": "https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129278,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/21WBrczpr70HHfctPt4tBE"
     },
     {
       "album": {
@@ -118052,6 +118124,10 @@
         {
           "name": "skrn",
           "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
         }
       ],
       "date_added": "2024-11-29",

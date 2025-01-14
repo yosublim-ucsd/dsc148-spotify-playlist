@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 201557,
       "name": "A Noite (La Notte) - Ao Vivo",
       "url": "https://open.spotify.com/track/63BroH3HiwxYD8T5qTZiJn"
@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 174692,
       "name": "Dia 1 - Vers\u00e3o Forr\u00f3",
       "url": "https://open.spotify.com/track/6koWqVkAn42qhbUITr4lxi"
@@ -13564,7 +13564,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -17296,7 +17296,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
@@ -19950,7 +19950,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 144461,
       "name": "PARECE - Ao Vivo",
       "url": "https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz"
@@ -22952,6 +22952,28 @@
       "duration_ms": 174937,
       "name": "Rol\u00ea",
       "url": "https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM"
+    },
+    {
+      "album": {
+        "name": "Mu\u00eddo de Vaquejada",
+        "url": "https://open.spotify.com/album/5Lh2sKgtTPyRhlTvWKipp8"
+      },
+      "artists": [
+        {
+          "name": "Kelvy Pablo",
+          "url": "https://open.spotify.com/artist/3UysshFc3aTOFHuyJpWl5h"
+        },
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187371,
+      "name": "Rol\u00ea N\u00e3o Ama",
+      "url": "https://open.spotify.com/track/7LJNYRjYBvpYa8QcI7tcAw"
     },
     {
       "album": {

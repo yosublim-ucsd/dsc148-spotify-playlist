@@ -1,12 +1,12 @@
 {
   "description": "Alternative indie music etc. Cover: Roy Blair",
-  "num_followers": 747137,
+  "num_followers": 747112,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1m6kQAAAAD32IQiDPSLVnu624H6VBpk",
+  "snapshot_id": "Z4WDkwAAAACXoTICWtjcJ+EJgG+aulue",
   "tracks": [
     {
       "added_at": "2024-11-15 19:49:16",
@@ -39,6 +39,22 @@
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2025-01-13 21:20:19",
+      "album": {
+        "name": "mice band",
+        "url": "https://open.spotify.com/album/4UH7rJDKBJu36MyzCeGTtr"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 88462,
+      "name": "mice band",
+      "url": "https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3"
     },
     {
       "added_at": "2024-10-04 06:00:00",

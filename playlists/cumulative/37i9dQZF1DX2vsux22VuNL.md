@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Jean Tassy
 
-442 songs - 22 hr 58 min
+443 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Respeita](https://open.spotify.com/track/24suhwFB6JEluRbB8IKTbQ) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Respeita](https://open.spotify.com/album/00QgPcEZBqyr1527XpyuZR) | 2:35 | 2023-11-24 | 2024-01-20 |
 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 | 2023-10-27 |  |
 | [Roda Gigante](https://open.spotify.com/track/27fmExabEQJg00wcotSRIb) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8) | [Flores e Raízes](https://open.spotify.com/album/0mrcfLnnlLOFUuDSZTDc7C) | 3:45 | 2023-01-20 | 2023-04-15 |
-| [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 | 2024-11-22 |  |
+| [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 | 2024-11-22 | 2025-01-14 |
 | [Rádio do Caribe](https://open.spotify.com/track/19g8PZ080d83ibFIDdqu3k) | [Cronixta](https://open.spotify.com/artist/5BGPgNyveXI7oJlXOVuSWc), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4) | [Rádio do Caribe](https://open.spotify.com/album/0bSi1ec77NSWjBCZZSK1u0) | 1:49 | 2023-09-08 | 2023-09-30 |
 | [Sabor Uva](https://open.spotify.com/track/1lBdaxzlCO1NeeWpqeCU5r) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Sabor Uva](https://open.spotify.com/album/52TWk831CN8A5j0n11wpEH) | 2:39 | 2022-08-19 | 2022-10-22 |
 | [Sabores](https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ) | [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Sabores](https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm) | 4:27 | 2024-12-06 |  |
@@ -395,6 +395,7 @@
 | [Tarde D+](https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Fim das Tentativas](https://open.spotify.com/album/6kQlwMSjHVBlS6Rr7LH40z) | 3:08 | 2022-08-05 | 2022-09-21 |
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2023-01-27 | 2023-04-01 |
 | [Te Decifrar](https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Te Decifrar](https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe) | 2:43 | 2022-08-05 | 2022-10-22 |
+| [Te Encontrar na Lapa](https://open.spotify.com/track/1rkP1QTDKqKUNkBMqauUz7) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 3:15 | 2025-01-13 |  |
 | [Te Espero](https://open.spotify.com/track/6Sl0RHD51w2vnb0M5TX09k) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:30 | 2022-12-24 | 2023-03-11 |
 | [Te Fazer Vibrar](https://open.spotify.com/track/1jw3ORB5hmTUcRgWuiQ5TY) | [Megabaile Do Areias](https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F), [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g) | [Te Fazer Vibrar](https://open.spotify.com/album/0u2TrYAarzu9ZE3QRpr83O) | 3:07 | 2022-05-23 | 2022-07-29 |
 | [Te Fazer Vibrar](https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy) | [Megabaile Do Areias](https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F), [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g) | [Te Fazer Vibrar](https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu) | 3:07 | 2022-07-22 | 2023-07-22 |

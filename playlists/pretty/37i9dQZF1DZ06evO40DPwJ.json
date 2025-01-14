@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 17687,
+  "num_followers": 17691,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4G0gAAAAAA8V6xzWX7vdSvzDvgT73/l",
+  "snapshot_id": "Z4MGAAAAAACzfMaDQGtsT8PK3Lw8Q9vW",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Like",
-        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 200340,
-      "name": "Do What You Like",
-      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
+      "duration_ms": 204493,
+      "name": "Shotcaller",
+      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 204493,
-      "name": "Shotcaller",
-      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
     },
     {
       "added_at": null,

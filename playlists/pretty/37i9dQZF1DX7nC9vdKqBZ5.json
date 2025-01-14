@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514584,
+  "num_followers": 1514618,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Outra Vez (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 189548,
+      "name": "Outra Vez - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixe Me Ir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Outra Vez (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        }
-      ],
-      "duration_ms": 189548,
-      "name": "Outra Vez - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",

@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 58654,
+  "num_followers": 58683,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2025-01-10 11:42:50",
       "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "added_at": "2025-01-10 11:42:50",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2025-01-10 11:42:50",
-      "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105853,
-      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
-      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
     },
     {
       "added_at": "2025-01-10 11:42:50",
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
-      "duration_ms": 156760,
-      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
-      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
+      "duration_ms": 410160,
+      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
+      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
     },
     {
       "added_at": "2025-01-10 11:42:50",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
-      "duration_ms": 410160,
-      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
-      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
+      "duration_ms": 156760,
+      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
     },
     {
       "added_at": "2025-01-10 11:42:50",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-01-10 11:42:50",
       "album": {
+        "name": "Angels and Demons",
+        "url": "https://open.spotify.com/album/3jIJQtnK0nJlYConJy2cXO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "duration_ms": 69480,
+      "name": "Bach, JS: French Suite No. 5 in G Major, BWV 816: IV. Gavotte",
+      "url": "https://open.spotify.com/track/6UgR1UnHzXfa4D2Qkkqy34"
+    },
+    {
+      "added_at": "2025-01-10 11:42:50",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 236120,
       "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
       "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
-    },
-    {
-      "added_at": "2025-01-10 11:42:50",
-      "album": {
-        "name": "Angels and Demons",
-        "url": "https://open.spotify.com/album/3jIJQtnK0nJlYConJy2cXO"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andrew von Oeyen",
-          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
-        }
-      ],
-      "duration_ms": 69480,
-      "name": "Bach, JS: French Suite No. 5 in G Major, BWV 816: IV. Gavotte",
-      "url": "https://open.spotify.com/track/6UgR1UnHzXfa4D2Qkkqy34"
     },
     {
       "added_at": "2025-01-10 11:42:50",
@@ -743,6 +743,46 @@
       "duration_ms": 253413,
       "name": "Adagio in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
+    },
+    {
+      "added_at": "2025-01-10 11:42:50",
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
+        "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Robert Shaw",
+          "url": "https://open.spotify.com/artist/24K3MJ131xjKnqDf87M3Qm"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Concerto for 4 Keyboards in A Minor, BWV 1065: III. Allegro (Arr. Of Vivaldi's Op. 3 No. 10, RV 580)",
+      "url": "https://open.spotify.com/track/6QEjE1azc4JLqlpEWD2zaq"
     },
     {
       "added_at": "2025-01-10 11:42:50",
@@ -935,26 +975,6 @@
       "duration_ms": 125760,
       "name": "Keyboard Partita No. 6 in E Minor, BWV 830: IV. Air",
       "url": "https://open.spotify.com/track/4sMgt6EgtezGq9yndgBsXj"
-    },
-    {
-      "added_at": "2025-01-10 11:42:50",
-      "album": {
-        "name": "Bach, J.S.: Favourite Piano Works",
-        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 93866,
-      "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in G Major, BWV Anh.114",
-      "url": "https://open.spotify.com/track/5xYRxXZXNiGRxPkD7lfGcn"
     }
   ],
   "unique_name": "Bach Piano",

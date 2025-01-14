@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho, Lauana Prado com Simone Mendes, Bad Bunny e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,993,297 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,993,500 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 13 | [Eu Quero Putaria](https://open.spotify.com/track/2wAE4u9G4nJcf55QsTsj6L) | [Kelvy Pablo](https://open.spotify.com/artist/3UysshFc3aTOFHuyJpWl5h), [Rey Vaqueiro](https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL) | [Muído de Vaquejada](https://open.spotify.com/album/5Lh2sKgtTPyRhlTvWKipp8) | 2:34 |
 | 14 | [Monólogo](https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Canções Para Um Novo Mundo](https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5) | 3:12 |
 | 15 | [Bandida](https://open.spotify.com/track/4uHMNsC5AjSHClFGOOGTlP) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Bandida](https://open.spotify.com/album/5WlM5g5a3eiqXrbP4AoPOa) | 2:00 |
-| 16 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
+| 16 | [Hooked](https://open.spotify.com/track/5aE5l3VnjWDNpTFGd4pRO5) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [The Human Fear](https://open.spotify.com/album/7LbR1L8thzNldHceu3tj1a) | 2:41 |
 | 17 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 |
 | 18 | [Same Old Song](https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Same Old Song](https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN) | 2:54 |
 | 19 | [Sextou \- Ao Vivo](https://open.spotify.com/track/2mY0lMMzVFAfmamz5ShUSF) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d) | [Piseirão D'Us Agro \(Ao Vivo\)](https://open.spotify.com/album/5nXwViCZ9cyp7vqYveXLIr) | 2:10 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 42 | [raro mas sempre acontece](https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [raro mas sempre acontece](https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X) | 2:46 |
 | 43 | [bem que](https://open.spotify.com/track/6nNSn1TPS6ZpKzEaGhRvES) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [bem que](https://open.spotify.com/album/2Uq48FHhhDSbXGKuj8cGmo) | 2:15 |
 | 44 | [O Som, o Verbo e a Vida](https://open.spotify.com/track/1ZdC73qUIR8CzUZw45l4fS) | [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O), [Rodrigo Brandão](https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa) | [Telefone Sem Fio](https://open.spotify.com/album/3TQLUp9wpqY8RBGQ00HiWz) | 1:12 |
-| 45 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
-| 46 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 45 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 46 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 47 | [WRITHING IN THE WIND](https://open.spotify.com/track/1ZNJJekN6Oto599rrIAAwF) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [WRITHING IN THE WIND](https://open.spotify.com/album/3vIRycVhyVtH7x30vXeqLm) | 1:24 |
 | 48 | [99 \(with Future\)](https://open.spotify.com/track/3wD05dVOHFfqr3Kra9f6PH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:52 |
 
-Snapshot ID: `Z4CN/gAAAADgEYoYeYtqAE/0X0v5ZIRq`
+Snapshot ID: `Z4VkzAAAAADJvPqOWawxRorARfk449Kg`

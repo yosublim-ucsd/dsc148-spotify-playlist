@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u30a4\u30b1\u30e1\u30f3\u5f79\u8005\u80b2\u6210\u30b2\u30fc\u30e0\u300eA3!\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 39584,
+  "num_followers": 39586,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,18 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! VIVID SPRING EP",
-        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
       },
       "artists": [
         {
-          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
-          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
-        },
-        {
-          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
-          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
+          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
         }
       ],
-      "duration_ms": 236706,
-      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
+      "duration_ms": 212973,
+      "name": "Real Luck",
+      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -775,6 +771,26 @@
       "duration_ms": 261440,
       "name": "\u521d\u604bX",
       "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! VIVID SPRING EP",
+        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
+          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
+        },
+        {
+          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
+          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 259133,
       "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4\u3068\u7a7a\u767d",
       "url": "https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
-          "name": "\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Real Luck",
-      "url": "https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795"
     },
     {
       "added_at": "2024-08-27 15:00:00",
@@ -891,46 +891,6 @@
     {
       "added_at": "2024-08-27 15:00:00",
       "album": {
-        "name": "A3! VIVID WINTER EP",
-        "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
-      },
-      "artists": [
-        {
-          "name": "\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)",
-          "url": "https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt"
-        },
-        {
-          "name": "\u51ac\u7d44",
-          "url": "https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah"
-        },
-        {
-          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
-          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
-        },
-        {
-          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
-          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
-        },
-        {
-          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
-        },
-        {
-          "name": "\u9ad8\u9060\u4e1e(CV:\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/3gYjY17THD6OTumZ38dwQr"
-        },
-        {
-          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
-          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
-        }
-      ],
-      "duration_ms": 312533,
-      "name": "Precious to us\uff5e\u50d5\u3089\u306e\u5b63\u7bc0\uff5e",
-      "url": "https://open.spotify.com/track/3LTVj1RAbdXMX7FkXC8Joo"
-    },
-    {
-      "added_at": "2024-08-27 15:00:00",
-      "album": {
         "name": "A3! SUNNY WINTER EP",
         "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
       },
@@ -983,6 +943,46 @@
       "duration_ms": 303880,
       "name": "\u50d5\u3089\u306e\u7d46",
       "url": "https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU"
+    },
+    {
+      "added_at": "2024-08-27 15:00:00",
+      "album": {
+        "name": "A3! VIVID WINTER EP",
+        "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)",
+          "url": "https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt"
+        },
+        {
+          "name": "\u51ac\u7d44",
+          "url": "https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah"
+        },
+        {
+          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
+          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
+        },
+        {
+          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+        },
+        {
+          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+        },
+        {
+          "name": "\u9ad8\u9060\u4e1e(CV:\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3gYjY17THD6OTumZ38dwQr"
+        },
+        {
+          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
+          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
+        }
+      ],
+      "duration_ms": 312533,
+      "name": "Precious to us\uff5e\u50d5\u3089\u306e\u5b63\u7bc0\uff5e",
+      "url": "https://open.spotify.com/track/3LTVj1RAbdXMX7FkXC8Joo"
     },
     {
       "added_at": "2024-08-27 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,126 likes - 310 songs - 16 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,127 likes - 310 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 309 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 | 310 | [Are You Ready For The Boss](https://open.spotify.com/track/2JnAycF1HxFEMORJwqRKqG) | [Sam Ross](https://open.spotify.com/artist/0mZvSayHqwQG8uxZHD4VAe) | [Boss Squad](https://open.spotify.com/album/13znCYk2iqmyl3PNPYGE9x) | 1:06 |
 
-Snapshot ID: `Abms1AAAAAB6PfZdUFFEhLWSRuvxuNSB`
+Snapshot ID: `AbmyagAAAADrnC050OJzv7PX4u3zpNJy`

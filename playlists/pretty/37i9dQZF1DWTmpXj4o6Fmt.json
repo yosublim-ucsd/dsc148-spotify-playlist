@@ -1,6 +1,6 @@
 {
   "description": "go back in time and (re) discover these gems.",
-  "num_followers": 2155,
+  "num_followers": 2203,
   "original_name": "joyitas vintage",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
+        "name": "Amor Supremo",
+        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 344995,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB"
+    },
+    {
+      "added_at": "2024-11-08 19:34:18",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 328906,
       "name": "El Duelo (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2024-11-08 19:34:18",
-      "album": {
-        "name": "Amor Supremo",
-        "url": "https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 344995,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB"
     },
     {
       "added_at": "2024-11-08 19:34:18",

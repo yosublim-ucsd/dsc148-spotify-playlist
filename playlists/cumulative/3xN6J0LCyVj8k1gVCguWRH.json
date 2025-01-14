@@ -11867,6 +11867,28 @@
     },
     {
       "album": {
+        "name": "Can't stop thinking",
+        "url": "https://open.spotify.com/album/3ufuBf5AH4NEaJSXOD4ojY"
+      },
+      "artists": [
+        {
+          "name": "Blaqk Van",
+          "url": "https://open.spotify.com/artist/5SaLSMriVjdtAWMiG0zRbM"
+        },
+        {
+          "name": "Billy the Kid",
+          "url": "https://open.spotify.com/artist/53thNGMpf565Q60Vvt5Uox"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233020,
+      "name": "Can't stop thinking",
+      "url": "https://open.spotify.com/track/7tsBlxI6OYbplEeCHxQjXo"
+    },
+    {
+      "album": {
         "name": "Demonstrous, Vol. 2 (Acoustified)",
         "url": "https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc"
       },
@@ -19804,6 +19826,24 @@
       "duration_ms": 168781,
       "name": "Don't You Worry About a Thing",
       "url": "https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST"
+    },
+    {
+      "album": {
+        "name": "Done Believing",
+        "url": "https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb"
+      },
+      "artists": [
+        {
+          "name": "Snapdibz",
+          "url": "https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204982,
+      "name": "Done Believing",
+      "url": "https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN"
     },
     {
       "album": {
@@ -55432,6 +55472,24 @@
       "duration_ms": 176039,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1pm3Gmdx8yCc5ITa9IMoTG"
+    },
+    {
+      "album": {
+        "name": "Peace Train",
+        "url": "https://open.spotify.com/album/4OdpdxTz1Fe4zd3MxzaQMz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Cardinale",
+          "url": "https://open.spotify.com/artist/1w9xONedSs7QY93KlJXK6b"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Peace Train",
+      "url": "https://open.spotify.com/track/6tz5J5JoQjdR79Yl8MM1k5"
     },
     {
       "album": {

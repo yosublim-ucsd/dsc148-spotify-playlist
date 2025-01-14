@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-792 songs - 1 day 10 hr 26 min
+794 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Danny Boy](https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Danny Boy](https://open.spotify.com/album/6WUgyBKlfD2KGBwWgv3NWM) | 4:17 | 2022-07-29 | 2023-02-25 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-02-24 | 2024-11-21 |
 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 | 2021-12-08 | 2024-04-05 |
+| [Darkwood](https://open.spotify.com/track/06zZnFCJmYjLDtdlPxTyw6) | [Immanuel](https://open.spotify.com/artist/7K4eXxDLiJxRllsBhu5C09) | [Darkwood](https://open.spotify.com/album/2MBbsM2B4AN8yBq50i5yE4) | 2:18 | 2025-01-13 |  |
 | [Das Kaleidoskop](https://open.spotify.com/track/1Lpp0iLabE9C5J1aQJkYS9) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:14 | 2021-12-08 | 2022-08-05 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
@@ -593,6 +594,7 @@
 | [Shift Of Focus](https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Shift Of Focus](https://open.spotify.com/album/2atrHCFeptmvfEK8Q8qVBh) | 2:33 | 2021-12-08 | 2024-04-05 |
 | [Siena Dreamin'](https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Siena Dreamin'](https://open.spotify.com/album/22Ru9VDOPhOkxGFYWdR6au) | 4:09 | 2024-04-19 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
+| [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 | 2025-01-13 |  |
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-02-24 | 2024-06-07 |
 | [Simmer Down](https://open.spotify.com/track/3RW2g8eTVmmzIITKh4BBLO) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Simmer down](https://open.spotify.com/album/5DnoLzFxcbKOTBB8rHch6Y) | 3:04 | 2022-12-23 | 2023-11-25 |
 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |

@@ -523,6 +523,36 @@
     },
     {
       "album": {
+        "name": "Azaad (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yI7xWIcZWFCfIMBOq8mfL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254633,
+      "name": "Ajeeb-O-Gareeb - From \"Azaad\"",
+      "url": "https://open.spotify.com/track/5iraRSCIEJLM3K51bqRjMg"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt"
       },
@@ -624,7 +654,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 238999,
       "name": "Azaad Hai Tu - From \"Azaad\"",
       "url": "https://open.spotify.com/track/1x0zGzdNb7CYXgJvadVvdN"

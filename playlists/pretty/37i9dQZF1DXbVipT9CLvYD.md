@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,985 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,004 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 36 | [Saroja Saman Nikolo \(From "Chennai\-600028"\)](https://open.spotify.com/track/2EczaQy6yAZ0K7w6imRMto) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Hits of Yuvan Shankar Raja, Vol.2](https://open.spotify.com/album/1AIexHDKEBwsyKZCxVvFTE) | 4:13 |
 | 37 | [Sivakumar Pondati \- From "Sivakumarin Sabadham"](https://open.spotify.com/track/6XPgCW18GiGg0scbMcdxgX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Gana Michael](https://open.spotify.com/artist/0imvlXJqHQo2ztGqrvIUVI) | [Sivakumar Pondati \(From "Sivakumarin Sabadham"\)](https://open.spotify.com/album/66vXy7SyZYMwMCXpOiES3C) | 3:16 |
 | 38 | [Stove Mela Kadai](https://open.spotify.com/track/0AHacDckN5t7mjpMBUcV03) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Stove Mela Kadai](https://open.spotify.com/album/0UjGjoszjltH9fCeJrl2Dw) | 3:19 |
-| 39 | [Pottu Thakku](https://open.spotify.com/track/2xMOwlzMJfyksroZ8s5PCh) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Kuthu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HE7SqgdVunoRhtNetWFvY) | 5:08 |
-| 40 | [Maari Gethu](https://open.spotify.com/track/6ix68x3LqXv1teM1doynXU) | [Yuvan Shankar Raja,Dhanush,Chinnaponnu,V.M\. Mahalingam](https://open.spotify.com/artist/26syEbRiAU2bCGhTqN8h8Z) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 3:46 |
+| 39 | [Maari Gethu](https://open.spotify.com/track/6ix68x3LqXv1teM1doynXU) | [Yuvan Shankar Raja,Dhanush,Chinnaponnu,V.M\. Mahalingam](https://open.spotify.com/artist/26syEbRiAU2bCGhTqN8h8Z) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 3:46 |
+| 40 | [Pottu Thakku](https://open.spotify.com/track/2xMOwlzMJfyksroZ8s5PCh) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Kuthu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HE7SqgdVunoRhtNetWFvY) | 5:08 |
 | 41 | [Puli Manga Pulip](https://open.spotify.com/track/18KexbdkUgYGzFGf73p9gZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [Parris Jeyaraj \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5xwFSdnR9ojM6AI0spiSXL) | 2:58 |
 | 42 | [Vambula Thumbula](https://open.spotify.com/track/1hjSN26LvLcBrhObrNSQK1) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Sarpatta Parambarai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42NavG08x69GDTN5nnbovL) | 5:04 |
 | 43 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |

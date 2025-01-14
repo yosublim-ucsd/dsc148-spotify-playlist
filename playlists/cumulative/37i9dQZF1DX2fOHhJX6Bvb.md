@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-149 songs - 7 hr 46 min
+152 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Angels Like You](https://open.spotify.com/track/5m5l6WFIilVG2t4Xo4FnWj) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Angels Like You](https://open.spotify.com/album/2s0SDoQYnjhG7r1kHeGgnO) | 3:51 | 2024-02-09 |  |
 | [As it was](https://open.spotify.com/track/7wwSfI1U4kMKf3u5UP2owx) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:21 | 2023-09-29 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-09-29 | 2024-01-19 |
-| [As Tears Go By](https://open.spotify.com/track/6TIOZDqaVXcShZFz4K94ft) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [As Tears Go By](https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4) | 3:31 | 2023-09-29 |  |
+| [As Tears Go By](https://open.spotify.com/track/6TIOZDqaVXcShZFz4K94ft) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [As Tears Go By](https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4) | 3:31 | 2023-09-29 | 2025-01-14 |
 | [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-29 | 2024-07-19 |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-09-29 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-09-29 |  |
@@ -29,6 +29,7 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/2hf6gQjGCxvwVmNsQ8c8Yo) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Bridge Over Troubled Water](https://open.spotify.com/album/1XGXCsHk3k6YH3ktr1ylA9) | 2:29 | 2024-02-09 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-09-29 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 | 2023-09-29 |  |
+| [Can't Stop the Feeling](https://open.spotify.com/track/3TozV1Zgze0qDxLIGVCX0Y) | [Evelyn Eastwood](https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ) | [Can't Stop the Feeling](https://open.spotify.com/album/7fzzZkgfVFP8YKXXYH4D9e) | 2:47 | 2025-01-13 |  |
 | [Cecilia](https://open.spotify.com/track/4QEHrBuiDhHKkRqW0qGPbg) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Cecilia](https://open.spotify.com/album/6bnw4Rj4lvfRhV3TjYWChK) | 2:07 | 2024-03-01 |  |
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
@@ -46,12 +47,14 @@
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2023-09-29 |  |
 | [Easy on me](https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:15 | 2023-09-29 |  |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-09-29 |  |
+| [Espresso](https://open.spotify.com/track/6IrXpR6VybCIatiUBfD8Jd) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Espresso](https://open.spotify.com/album/7tcFWmY3xY7yXX2BUTgl7Z) | 3:45 | 2025-01-13 |  |
 | [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-20 |  |
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2023-09-29 |  |
 | [Eye to Eye](https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Eye to Eye](https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU) | 2:26 | 2023-09-29 |  |
 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 | 2023-11-17 |  |
 | [Firework](https://open.spotify.com/track/6kFILBBiac062EAoYXhy9v) | [Sandra Turner](https://open.spotify.com/artist/0AbxEThob5FBDkb4K6MX9q) | [Firework](https://open.spotify.com/album/2kvM4gLHmeglBs7Rxqn7Tb) | 3:36 | 2024-09-03 |  |
 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
+| [Fly Me to the Moon](https://open.spotify.com/track/76TW6dvTlFPDveErCIVy3c) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Fly Me to the Moon](https://open.spotify.com/album/62F93NYxSrElQEm82H9jyy) | 2:20 | 2025-01-13 |  |
 | [Forever Young \- Piano Version](https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:46 | 2023-09-29 |  |
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 |  |
 | [Ghost Again](https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Ghosts Again](https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym) | 4:10 | 2023-09-29 |  |
@@ -90,7 +93,7 @@
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-09-29 |  |
 | [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 | 2023-09-29 |  |
 | [Make you feel my love](https://open.spotify.com/track/1YCfFKtD5HCNMxYedp18Aw) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Make you feel my love](https://open.spotify.com/album/1T2uN4iuIk5o6o3ZuWWu3x) | 3:20 | 2023-09-29 |  |
-| [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2023-09-29 |  |
+| [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2023-09-29 | 2025-01-14 |
 | [Miss You](https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Unholy](https://open.spotify.com/album/1ovsYM2jJqHFA4Tpr8hgiY) | 2:24 | 2023-09-29 |  |
 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 | 2023-09-29 |  |
 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 | 2023-09-29 |  |

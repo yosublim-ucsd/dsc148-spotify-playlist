@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,716 songs - 3 day 2 hr 28 min
+1,717 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1049,6 +1049,7 @@
 | [Millionz](https://open.spotify.com/track/05ho5WftsjIeuvCTYvepiU) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Millionz](https://open.spotify.com/album/616Iu6HKMWYke4PqqwKnCW) | 2:11 | 2022-02-15 | 2022-03-09 |
 | [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 | 2022-10-13 | 2022-10-29 |
 | [Milly](https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Milly](https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB) | 2:11 | 2022-10-27 | 2022-11-18 |
+| [Min Bitch](https://open.spotify.com/track/7BuyYUuSiAsh5mi4JPRjC6) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:40 | 2025-01-13 |  |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-13 |
 | [Min Nivå](https://open.spotify.com/track/0Tcu3pNKaqTg5NkJVzqt5V) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Papper&Bläck](https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4) | 2:34 | 2022-12-05 | 2023-02-03 |
 | [Min sida](https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Min sida](https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC) | 2:27 | 2022-10-27 | 2023-03-18 |

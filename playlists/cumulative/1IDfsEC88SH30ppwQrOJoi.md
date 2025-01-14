@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-360 songs - 18 hr 40 min
+361 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [This Moment](https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [This Moment](https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX) | 2:16 | 2024-04-26 |  |
 | [Throw Your Hands](https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Throw Your Hands](https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw) | 3:11 | 2023-05-12 | 2024-03-14 |
 | [Time Expands](https://open.spotify.com/track/22nmVMHu9jWcoRwNvtQuSE) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Time Expands](https://open.spotify.com/album/5WFhrKjglAEdacNAi77K1M) | 3:24 | 2023-09-30 | 2024-03-14 |
+| [To The Club](https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [To The Club](https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o) | 3:00 | 2025-01-13 |  |
 | [Toca's Miracle](https://open.spotify.com/track/3bcfuk7hCaST9Bapjbatf8) | [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle](https://open.spotify.com/album/4Sj4vFxsEiz85oypqhL3qZ) | 2:51 | 2024-11-01 |  |
 | [Told You](https://open.spotify.com/track/6jSLaYL3asiPzk0mCSm5pF) | [FutureShape](https://open.spotify.com/artist/0blllSlSM8o1rGyCTuIekr) | [Told You](https://open.spotify.com/album/66PrrpxI8kGjsn3OZeUP5M) | 2:24 | 2023-07-28 | 2024-03-14 |
 | [Torta](https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Torta](https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8) | 2:24 | 2023-09-06 | 2024-03-14 |

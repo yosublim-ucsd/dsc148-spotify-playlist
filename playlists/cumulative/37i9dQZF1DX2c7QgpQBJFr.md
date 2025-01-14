@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana ✨ cover: SARAFINE
 
-345 songs - 16 hr 26 min
+346 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [blamethrower](https://open.spotify.com/track/0dCFVSzJqQDN4cuHGL0h6L) | [boi](https://open.spotify.com/artist/0tEujKmauU1tISsGeEVW8E) | [lose](https://open.spotify.com/album/0DG572vEdZQglsTYmVmPLp) | 3:39 | 2024-11-28 |  |
 | [Blu \- Settembre](https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Blu \- Settembre](https://open.spotify.com/album/6jo07dwFj7Go9cxTyIPp8R) | 2:40 | 2024-07-11 | 2024-09-13 |
+| [BOGOTÀ](https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa) | [BOGOTÀ](https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4) | 2:50 | 2025-01-13 |  |
 | [bolle blu](https://open.spotify.com/track/6FyBnsN9tiaAJKOcQZDcyV) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [bolle blu](https://open.spotify.com/album/1MCyQ5a7rlznH3tVZQKgJP) | 1:38 | 2024-06-27 | 2024-07-05 |
 | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 | 2024-06-27 | 2024-07-19 |
 | [Botte](https://open.spotify.com/track/0CTRjNW6rxOvxiLLKKSVSN) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Botte](https://open.spotify.com/album/45aAVeEMh2fHoc1vC5c4mh) | 2:19 | 2024-12-12 |  |
@@ -62,7 +63,7 @@
 | [Casa](https://open.spotify.com/track/2h72ZCOgOwCLhTIdLBgRne) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Lambda](https://open.spotify.com/album/0GU2uQF3HuEs5H57DnfY0d) | 2:34 | 2024-11-21 |  |
 | [Cattiva](https://open.spotify.com/track/5qPLHpMtMvmBh1s83sO6EH) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [Cattiva](https://open.spotify.com/album/6smtf2floA0mEAnE38SJlW) | 3:11 | 2024-06-27 | 2024-07-05 |
 | [Cenere e fumo](https://open.spotify.com/track/7dW2uYFGWiLhc3EFVDp0vF) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Amore & Blues](https://open.spotify.com/album/3FggKt3YeS9XAQJdHbnmTh) | 2:38 | 2024-11-28 |  |
-| [Che La Vita Ti Sorprenda!](https://open.spotify.com/track/3hI2JnhumgwS9H8ygc9Eqr) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Corso Italia](https://open.spotify.com/album/4UFjhDFlwQhJD9sXuaBYRD) | 2:47 | 2024-11-14 |  |
+| [Che La Vita Ti Sorprenda!](https://open.spotify.com/track/3hI2JnhumgwS9H8ygc9Eqr) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Corso Italia](https://open.spotify.com/album/4UFjhDFlwQhJD9sXuaBYRD) | 2:47 | 2024-11-14 | 2025-01-14 |
 | [Che vita](https://open.spotify.com/track/0EEJskrhHqM9InxMvv7dLd) | [Masamasa](https://open.spotify.com/artist/0xPE374BH4ArrsddRO0xtn) | [Che vita](https://open.spotify.com/album/2wE8vJnBlLquVWjzm690MV) | 2:55 | 2024-07-18 | 2024-09-27 |
 | [Cicale](https://open.spotify.com/track/4LU1SV014oztIf0KquuVhv) | [GrenBaud](https://open.spotify.com/artist/1WPIzvlZTvCY0A1LmN0LvS) | [PENSIERI EMOZIONI](https://open.spotify.com/album/6HPwntDDsUtS1OKkwBc8cJ) | 2:18 | 2024-06-27 | 2024-07-05 |
 | [Clerks](https://open.spotify.com/track/0Y37dZop210Tjb3yGXHJsy) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Clerks](https://open.spotify.com/album/65B0Wq250ieEW77pST8s2F) | 3:07 | 2024-11-07 | 2024-12-20 |

@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-404 songs - 17 hr 59 min
+406 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Flying out](https://open.spotify.com/track/0em6UnHzNwrpy2Bg13FQVE) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 3:18 | 2021-12-10 | 2023-04-28 |
 | [Follow Me](https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Follow Me](https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2) | 3:20 | 2022-03-03 | 2022-07-22 |
 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 | 2021-12-10 | 2024-04-06 |
+| [For You](https://open.spotify.com/track/3bgNNSsVySCFBmvOMpgUIK) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [For You](https://open.spotify.com/album/0LTWIcd5hJCY4EqIPudXyZ) | 2:38 | 2025-01-13 |  |
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 | 2023-05-27 |
 | [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 | 2024-11-06 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
@@ -267,6 +268,7 @@
 | [Pure](https://open.spotify.com/track/30ewiyV6LGLIZGTnc7Qp6x) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure](https://open.spotify.com/album/0Jmejo26ly5NAcFf65B8Kj) | 2:38 | 2023-05-26 | 2023-06-16 |
 | [Purungeo](https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [El Potrero](https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E) | 2:29 | 2021-12-10 | 2023-05-27 |
 | [Quadratus](https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Quadratus](https://open.spotify.com/album/3grqGdMjTua4nwiGXKc7GB) | 2:43 | 2021-12-10 | 2022-07-29 |
+| [Quiet Reflections](https://open.spotify.com/track/2btSsMLfRbbWZsiiHSvon7) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Quiet Reflections](https://open.spotify.com/album/0vSDSlQCELodBbcNBIzFVd) | 2:30 | 2025-01-13 |  |
 | [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 |  |
 | [Quietude](https://open.spotify.com/track/0z4GTxxdYujL32uYYLjWoT) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Quietude](https://open.spotify.com/album/1IfBfNQBcRUKm52sspE319) | 2:40 | 2024-03-08 | 2024-07-18 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-03-10 | 2023-08-26 |

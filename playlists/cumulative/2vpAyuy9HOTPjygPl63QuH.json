@@ -19477,6 +19477,24 @@
     },
     {
       "album": {
+        "name": "La Tengo EP",
+        "url": "https://open.spotify.com/album/5WYfSjuJZcjxjUG3wijbWE"
+      },
+      "artists": [
+        {
+          "name": "Milan",
+          "url": "https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "La Tengo",
+      "url": "https://open.spotify.com/track/4qpc48pFG6GKtrq1VM0MOL"
+    },
+    {
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq"
       },

@@ -1,34 +1,18 @@
 {
-  "description": "A playlist for yoga, mindfulness and meditation with reflective moments. ",
-  "num_followers": 27371,
-  "original_name": "Yoga & Meditation with Above & Beyond and Reflections",
+  "description": "A playlist for yoga, mindfulness and meditation. ",
+  "num_followers": 27382,
+  "original_name": "Yoga & Meditation with Above & Beyond and Anjunachill",
   "owner": {
     "name": "Above & Beyond",
     "url": "https://open.spotify.com/user/aboveandbeyondofficial"
   },
-  "snapshot_id": "AAADOwABIMW3IVaM3niMLZKgdFOTNIcB",
+  "snapshot_id": "AAADQvueAiLnUuBMtqtltd0x/JUx6uRu",
   "tracks": [
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
-        "name": "Faber / Faber Sanctum",
-        "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        }
-      ],
-      "duration_ms": 289121,
-      "name": "Faber Sanctum",
-      "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
-    },
-    {
-      "added_at": "2024-10-02 16:25:24",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj"
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
       },
       "artists": [
         {
@@ -36,12 +20,52 @@
           "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
         }
       ],
-      "duration_ms": 398297,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw"
+      "duration_ms": 247453,
+      "name": "The Light Is Still There",
+      "url": "https://open.spotify.com/track/6PvzSHb1sm2Mkq1mq9xPfq"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 502705,
+      "name": "Sit Around The Fire",
+      "url": "https://open.spotify.com/track/7Bl1GdYbcJ0QSffErVWOnv"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 268592,
+      "name": "Mellowness Of The Heart",
+      "url": "https://open.spotify.com/track/3ihuiqzWNyixSqftwLcL0q"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -57,7 +81,23 @@
       "url": "https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Felt (Special Edition)",
+        "url": "https://open.spotify.com/album/3AioJfZ8LfEzPaFPQHoe3e"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/5Yy0R2CLFPXfrBPLnsI1zN"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk"
@@ -73,7 +113,7 @@
       "url": "https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Painting Out (Robyn Sherwell Revisit)",
         "url": "https://open.spotify.com/album/343TJWS9VH04cqFffmQgDs"
@@ -97,7 +137,75 @@
       "url": "https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "duration_ms": 315720,
+      "name": "Space 11 (Invisible Pages Over)",
+      "url": "https://open.spotify.com/track/786FgaRDsjLgvViIu30sam"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 309719,
+      "name": "Recompose",
+      "url": "https://open.spotify.com/track/6JEha6ddomYWc6ZTZZZWLt"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 185558,
+      "name": "It\u2019s Just Like Falling Asleep",
+      "url": "https://open.spotify.com/track/0N4WBR930pFq8xog7jvTZN"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
@@ -113,7 +221,7 @@
       "url": "https://open.spotify.com/track/39PrTCwz89xhUdWoFnZC6n"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Peaceful Avenues",
         "url": "https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst"
@@ -133,23 +241,23 @@
       "url": "https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
         }
       ],
-      "duration_ms": 238382,
-      "name": "Small Moments - Edit",
-      "url": "https://open.spotify.com/track/0aTJ8gI0DA0JdzC2BwJMuh"
+      "duration_ms": 248164,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/2NA1EtBC2obBTS26HamS2r"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Fading Anxieties",
         "url": "https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ"
@@ -165,7 +273,39 @@
       "url": "https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 238382,
+      "name": "Small Moments - Edit",
+      "url": "https://open.spotify.com/track/0aTJ8gI0DA0JdzC2BwJMuh"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Second Chance",
         "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
@@ -185,7 +325,23 @@
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "An Ending (Ascent) - Remastered 2005",
+      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Acts Of Union EP",
         "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
@@ -201,7 +357,23 @@
       "url": "https://open.spotify.com/track/4KB6FE20302vokalyCjdV5"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Fading Anxieties",
+      "url": "https://open.spotify.com/track/4R7PJfoLKVdBQTQXFVj1ZV"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Faber / Faber Sanctum",
         "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
@@ -217,7 +389,7 @@
       "url": "https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Surge",
         "url": "https://open.spotify.com/album/7vXpKyOzzgn4M82FtWXIKL"
@@ -233,7 +405,7 @@
       "url": "https://open.spotify.com/track/19ez4TX6bQxjAZsIAywNS1"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Morning In Deira / Time Heals",
         "url": "https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM"
@@ -249,7 +421,7 @@
       "url": "https://open.spotify.com/track/5x5XRcyeeJvP1HdGlpKL6q"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
@@ -265,7 +437,7 @@
       "url": "https://open.spotify.com/track/3WJLyJ0q7ykBbL1ejq6yWw"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Duality (Part One)",
         "url": "https://open.spotify.com/album/5HPjhrehkdM0dLeO6dPN4h"
@@ -281,7 +453,7 @@
       "url": "https://open.spotify.com/track/6u4bejeGGrztfQlunIF8rJ"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Sleep Is Sacrament",
         "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
@@ -297,7 +469,7 @@
       "url": "https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Meant To Be EP",
         "url": "https://open.spotify.com/album/7xTzgKq7FJEengm6GyswWY"
@@ -313,7 +485,7 @@
       "url": "https://open.spotify.com/track/34XS142HC0zWt26PogjLdG"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Lunar Tides EP",
         "url": "https://open.spotify.com/album/4Ghh5Y3pvazUgGRjKtjBx4"
@@ -329,7 +501,7 @@
       "url": "https://open.spotify.com/track/1cey9Dak9AK8ahI64TVeFZ"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -345,7 +517,7 @@
       "url": "https://open.spotify.com/track/7LoXPFPjZzOiEuEpoFfMqW"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
@@ -361,7 +533,7 @@
       "url": "https://open.spotify.com/track/5PSsYMM71roa0kBdOQgZRt"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Reflections 08",
         "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
@@ -377,7 +549,7 @@
       "url": "https://open.spotify.com/track/544kTOBJLPf2la2tP81Lcs"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
@@ -393,7 +565,7 @@
       "url": "https://open.spotify.com/track/3d1CjIuZTLFnbga9BF4ul5"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Machine Keys (Cephas Azariah Revisit)",
         "url": "https://open.spotify.com/album/6BFJ7URkYEfxDAbbm53tB3"
@@ -413,7 +585,7 @@
       "url": "https://open.spotify.com/track/3iSjAVKD8jMFyleSvbIvjQ"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Happiness EP",
         "url": "https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy"
@@ -433,7 +605,7 @@
       "url": "https://open.spotify.com/track/6RnK2EgZ6AfSFwjXaYyfrk"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Acts Of Union EP",
         "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
@@ -449,7 +621,7 @@
       "url": "https://open.spotify.com/track/7F0PNOryvo6p0EZ1rwS5le"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "The Little Cabin",
         "url": "https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse"
@@ -465,7 +637,7 @@
       "url": "https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Sumargola",
         "url": "https://open.spotify.com/album/1FhinixtO382WgvThtedas"
@@ -481,7 +653,7 @@
       "url": "https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
@@ -497,7 +669,7 @@
       "url": "https://open.spotify.com/track/6zoU36yvo5hBIyyReTM5zv"
     },
     {
-      "added_at": "2024-10-02 16:25:24",
+      "added_at": "2025-01-13 11:44:20",
       "album": {
         "name": "Relaksohuni",
         "url": "https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ"
@@ -511,8 +683,24 @@
       "duration_ms": 182739,
       "name": "Relaksohuni",
       "url": "https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO"
+    },
+    {
+      "added_at": "2025-01-13 11:44:20",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     }
   ],
-  "unique_name": "Yoga & Meditation with Above & Beyond and Reflections",
+  "unique_name": "Yoga & Meditation with Above & Beyond and Anjunachill",
   "url": "https://open.spotify.com/playlist/71EOlNARIzTqcFXI4tUqsd"
 }

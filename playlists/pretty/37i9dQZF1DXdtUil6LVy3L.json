@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 8649,
+  "num_followers": 8639,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S"
-      },
-      "artists": [
-        {
-          "name": "Dennis Riley-Jones",
-          "url": "https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "Somewhere In My Memory",
         "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 202386,
       "name": "Somewhere In My Memory",
       "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S"
+      },
+      "artists": [
+        {
+          "name": "Dennis Riley-Jones",
+          "url": "https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH"
     },
     {
       "added_at": "2024-12-20 08:15:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "God Rest Ye Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "Tis the season",
         "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214596,
       "name": "Tis the season",
       "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
     },
     {
       "added_at": "2024-12-20 08:15:14",

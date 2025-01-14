@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-138 songs - 11 hr 4 min
+139 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Lost Still Dreaming](https://open.spotify.com/track/5uV8ERbSoQBlPeBmfKvLKq) | [Deepayan Deep Maitra](https://open.spotify.com/artist/6B17cD6lXJeb08B2MvRx2b), [Debangshu Bhattacharjee](https://open.spotify.com/artist/6ehWecw14JSzcx7W9Kc0A7) | [Lost Still Dreaming](https://open.spotify.com/album/3V6e65LtNHnzOVLIoBahUY) | 5:11 | 2022-06-10 |  |
 | [Mask](https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Mask](https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf) | 4:57 | 2022-06-10 |  |
 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 | 2022-06-10 |  |
+| [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 | 2025-01-13 |  |
 | [Midnight](https://open.spotify.com/track/2pntmG4VcHfJm1jkncXbGe) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i) | 3:05 | 2022-06-10 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/4wvYLntxEozfc6eLPct3CN) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 3:05 | 2022-06-10 |  |
 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 | 2022-06-10 |  |
@@ -117,7 +118,7 @@
 | [So...Now Hear This](https://open.spotify.com/track/0qA1raigGUBHtn8AIU1sj0) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 5:09 | 2022-06-10 | 2024-04-19 |
 | [Sonder](https://open.spotify.com/track/5QEHJD6fYLzMHBYMuIE3zh) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5) | [Sonder](https://open.spotify.com/album/1GPA0YRqvXXVNO4YiklJKl) | 3:16 | 2022-06-10 | 2024-08-10 |
 | [So…Now Hear This](https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 5:09 | 2022-06-10 | 2023-11-04 |
-| [So…Now Hear This](https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 5:09 | 2022-06-10 |  |
+| [So…Now Hear This](https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 5:09 | 2022-06-10 | 2025-01-14 |
 | [Space Trip](https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Yadhunandan Nagaraj](https://open.spotify.com/artist/5i1uUQMGXoNSVeNHpT2Zaf), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2) | [Hope](https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA) | 2:14 | 2022-06-10 |  |
 | [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 | 2023-12-28 |  |
 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 |  |

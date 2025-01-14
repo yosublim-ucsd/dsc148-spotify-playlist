@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,058 songs - 6 day 16 hr 58 min
+3,059 songs - 6 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-03-24 | 2024-04-10 |
 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 | 2024-03-05 | 2024-03-14 |
 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 | 2023-09-15 | 2023-09-20 |
-| [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 | 2024-12-17 |  |
+| [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 | 2024-12-17 | 2025-01-14 |
 | [Cópia Proibida](https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX) | 2:39 | 2024-11-12 | 2024-12-18 |
 | [da lua](https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [LISBOA](https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:29 | 2023-10-31 | 2023-11-13 |
 | [DA UMA TRAGADA NO BECK](https://open.spotify.com/track/6tUckTusXmzVZP3H3lDU6d) | [DJ JV DO SG](https://open.spotify.com/artist/1vb3NH4REyIWVAKShUYQUh), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [MC Rodrigo do CN](https://open.spotify.com/artist/449rEPoJUfZNnXX9UnUUbi), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [MC TH](https://open.spotify.com/artist/0r4gmDA5yRe2NMG03tCGK9) | [DA UMA TRAGADA NO BECK](https://open.spotify.com/album/1Z7wDfi6A95BOd4UNA35bv) | 1:46 | 2022-02-17 | 2022-03-26 |
@@ -2184,6 +2184,7 @@
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-02-06 | 2024-03-13 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-01 | 2022-02-03 |
 | [Polo Usa](https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU) | [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Bolin Batidas](https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j) | [Fetiche](https://open.spotify.com/album/659lNGwYSZkbjRVWGahBDB) | 2:40 | 2023-08-01 | 2023-09-19 |
+| [Pompoarismo](https://open.spotify.com/track/1X3YhGIttsGUi7coP0Led5) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd) | [4x4](https://open.spotify.com/album/4ZSKnDI8ZcTIpdfkbdPQrp) | 2:32 | 2025-01-13 |  |
 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/49eptxEc4U8US6I3RuoeXp) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Ponto Final \(Ao Vivo\)](https://open.spotify.com/album/6Q2TL1bm1NJjKYG6SZxk8u) | 2:27 | 2023-02-14 | 2023-02-22 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-07-19 | 2022-08-08 |
 | [POPSTAR](https://open.spotify.com/track/3XIiRlcc1bKUegBbJ17iVp) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 5:01 | 2024-09-03 | 2024-09-18 |

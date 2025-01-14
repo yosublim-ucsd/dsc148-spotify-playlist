@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2821852,
+  "num_followers": 2822390,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4G0gAAAAADHYw8iYqfUtKEOLrsuXDw3",
+  "snapshot_id": "Z4MGAAAAAACIZg+CFhFjze8UXmeyuafy",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 229933,
-      "name": "ROADS UNTRAVELED",
-      "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
+      "duration_ms": 200693,
+      "name": "IN MY REMAINS",
+      "url": "https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 200693,
-      "name": "IN MY REMAINS",
-      "url": "https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"
+      "duration_ms": 229933,
+      "name": "ROADS UNTRAVELED",
+      "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
     },
     {
       "added_at": null,

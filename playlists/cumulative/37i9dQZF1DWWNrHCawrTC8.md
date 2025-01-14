@@ -2,7 +2,7 @@
 
 ### [bLog rAp](https://open.spotify.com/playlist/37i9dQZF1DWWNrHCawrTC8)
 
-> revisit one of hip\-hop's most of exciting eras \| RIP OG Maco
+> revisit one of hip\-hop's most of exciting eras
 
 79 songs - 5 hr 3 min
 

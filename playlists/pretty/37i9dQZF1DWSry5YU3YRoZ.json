@@ -535,22 +535,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
         "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 264624,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b"
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 264624,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
         "name": "Absence",
         "url": "https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Zero gravity",
         "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 224693,
       "name": "Zero gravity",
       "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Storing Nights",
-      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Eternal Love",
         "url": "https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 149500,
       "name": "Eternal Love",
       "url": "https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Storing Nights",
+      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm"
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm"
       },
       "artists": [
         {
-          "name": "Swon",
-          "url": "https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ"
+          "name": "kimpomme",
+          "url": "https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4"
         }
       ],
-      "duration_ms": 189520,
-      "name": "dawn",
-      "url": "https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT"
+      "duration_ms": 237504,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm"
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm"
       },
       "artists": [
         {
-          "name": "kimpomme",
-          "url": "https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4"
+          "name": "Swon",
+          "url": "https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ"
         }
       ],
-      "duration_ms": 237504,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx"
+      "duration_ms": 189520,
+      "name": "dawn",
+      "url": "https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

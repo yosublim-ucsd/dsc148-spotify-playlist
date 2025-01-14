@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música con actitud renovada para seguir o empezar con esos propósitos de año nuevo 💪 La Trinidad en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,296 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,465 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [QNPLC](https://open.spotify.com/track/7Jgxih7d1sSv5FQHp23vqV) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tropikal Forever](https://open.spotify.com/artist/1dZ8JzGzmLl5KwEX3rOTc4) | [Intro \- QNPLC](https://open.spotify.com/album/6GCqjkL9Qqdc0Y5RT8v1ze) | 3:52 |
 | 26 | [Amistad](https://open.spotify.com/track/4PtZAu2MnVARzOECTF0xoy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Amistad](https://open.spotify.com/album/0YyBMKl9omMf6Jg3arZWcN) | 2:44 |
 | 27 | [Sola](https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX) | [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Sola](https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU) | 1:45 |
-| 28 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 28 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 29 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 30 | [Las Camionetas](https://open.spotify.com/track/0gKf7cSVzK54KGuk4ZR0Ah) | [Los Cervantez](https://open.spotify.com/artist/2OPbU26I6E5lGnzHzXAjBI), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Las Camionetas](https://open.spotify.com/album/2BMQOZ8uwdZp8pgR58vMRw) | 2:14 |
 | 31 | [Mi Funeral](https://open.spotify.com/track/0pt2Wx1hLbzObpTkFYyKGW) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mi Funeral](https://open.spotify.com/album/4zuLwWLiQPvgHBbpASMgAx) | 3:19 |

@@ -4,11 +4,12 @@
 
 > Come alive with this progressive & melodic house selection.
 
-245 songs - 17 hr 5 min
+246 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Late 4 Love \- Danny Howard Remix](https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [2 Late 4 Love \(Danny Howard Remix\)](https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK) | 3:39 | 2022-01-14 | 2022-11-26 |
+| [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2022-01-14 | 2022-11-26 |
 | [Afterglow](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Afterglow](https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb) | 6:35 | 2024-02-02 |  |
 | [Afters](https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Afters](https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki) | 3:46 | 2024-09-27 |  |
@@ -81,7 +82,7 @@
 | [Freedom Call](https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo) | 3:59 | 2022-01-14 | 2022-11-09 |
 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-08-15 | 2024-10-14 |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2024-04-04 |
-| [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 | 2024-05-10 |  |
+| [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 | 2024-05-10 | 2025-01-14 |
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-12 |  |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 |  |
 | [Haven](https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Haven](https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp) | 3:44 | 2024-08-15 | 2024-11-22 |

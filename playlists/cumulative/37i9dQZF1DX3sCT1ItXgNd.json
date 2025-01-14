@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Besmaya, i\u00f1igo quintero",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Alleh, Yorghaki",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -598,6 +598,24 @@
       "duration_ms": 149224,
       "name": "All\u00e1 Donde Voy",
       "url": "https://open.spotify.com/track/0cAixujNFVV5stYiJwjo0g"
+    },
+    {
+      "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "album": {
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 177923,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/1zuY26Ll9TTcefOKMKxnJu"
@@ -4474,7 +4492,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -5108,6 +5126,28 @@
       "duration_ms": 169000,
       "name": "iPHONE AZUL",
       "url": "https://open.spotify.com/track/5zLDQe46BgMWYeACNvW4Pv"
+    },
+    {
+      "album": {
+        "name": "Itamambuca",
+        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243793,
+      "name": "Itamambuca",
+      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
     },
     {
       "album": {
@@ -9255,6 +9295,24 @@
     },
     {
       "album": {
+        "name": "Pueblo Salvaje",
+        "url": "https://open.spotify.com/album/0cLZ1oITv9JWWEANBM6Yf1"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205687,
+      "name": "Pueblo Salvaje",
+      "url": "https://open.spotify.com/track/2YkBIlrhKqmKhxNZJLNTti"
+    },
+    {
+      "album": {
         "name": "Puede K Nos Liemos",
         "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
       },
@@ -9336,7 +9394,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 218532,
       "name": "Pu\u00f1ales",
       "url": "https://open.spotify.com/track/40qU9grweqDIGWNLDIjFT4"
@@ -11074,7 +11132,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 167332,
       "name": "TE VAS",
       "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
@@ -12016,6 +12074,28 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/17rC9nsqSsJkHeT04DPi8E"
+      },
+      "artists": [
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228099,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4"
     },
     {
       "album": {

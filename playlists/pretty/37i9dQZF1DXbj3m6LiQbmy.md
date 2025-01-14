@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹 Emma Nolde in cover ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹 Ethan in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,866 likes - 95 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,865 likes - 95 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
-| 2 | [TBLISI](https://open.spotify.com/track/61hELzzxwIpPRe7Em76Ga6) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [TBLISI](https://open.spotify.com/album/1LuS7MOIiPK3KogzJro8eC) | 2:02 |
+| 1 | [TBLISI](https://open.spotify.com/track/61hELzzxwIpPRe7Em76Ga6) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [TBLISI](https://open.spotify.com/album/1LuS7MOIiPK3KogzJro8eC) | 2:02 |
+| 2 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 |
 | 3 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 |
 | 4 | [ultimanotte](https://open.spotify.com/track/1FEwhXtB28yOzfH0UrHoWb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [ultimanotte](https://open.spotify.com/album/7ANd7y44U4BzpO6gBEz0kz) | 3:07 |
 | 5 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 94 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 95 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 
-Snapshot ID: `Z4EuWgAAAABx3hinSAhbKRVpXpCd2uRj`
+Snapshot ID: `Z4WbSQAAAABWKfPtgKKEX/mfc4dZiz2l`

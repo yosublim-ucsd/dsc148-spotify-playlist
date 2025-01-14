@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Anyma, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,628 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,656 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 1 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 2 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
-| 3 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 3 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 4 | [2 Days](https://open.spotify.com/track/5W5QtGWTvmQ39eWRCLItQ8) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [CARMA](https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA) | [2 Days](https://open.spotify.com/album/19qlxVhXyC0mQGJHb7bY5x) | 2:18 |
 | 5 | [Left Right](https://open.spotify.com/track/1bMyf2G5pH6x5mOnJYHPVP) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Topsy Crettz](https://open.spotify.com/artist/1q1LbajtP5EnODflcVdADE), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Left Right](https://open.spotify.com/album/0pS2BUhrLto19Kv8qdcw0q) | 2:50 |
 | 6 | [Such a Shame](https://open.spotify.com/track/0PfYcBWvAXXe3pf8nbX3J6) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Such a Shame](https://open.spotify.com/album/5HjoaKLcKCpIXkCowzH63G) | 2:33 |

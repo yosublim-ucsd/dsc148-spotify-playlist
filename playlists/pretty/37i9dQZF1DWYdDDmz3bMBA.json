@@ -1,13 +1,77 @@
 {
   "description": "You don't want to miss these episodes from creators you want to keep on your RADAR",
-  "num_followers": 3249,
+  "num_followers": 3246,
   "original_name": "RADAR Creators US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1dMhwAAAACBKvDXhJZ+QQrShQJaEO8E",
+  "snapshot_id": "Z4VV7AAAAADaszDLxBil7O3QqDaCEQVk",
   "tracks": [
+    {
+      "added_at": "2025-01-13 18:05:32",
+      "album": {
+        "name": "Small Ball with Kenny Beecham",
+        "url": "https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF"
+      },
+      "artists": [
+        {
+          "name": "Small Ball with Kenny Beecham",
+          "url": "https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF"
+        }
+      ],
+      "duration_ms": 3894204,
+      "name": "These NBA Teams Have Turned It Around",
+      "url": "https://open.spotify.com/episode/69mrf7NtyXvOS4Rsg9J4Op"
+    },
+    {
+      "added_at": "2025-01-13 18:05:32",
+      "album": {
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo"
+      },
+      "artists": [
+        {
+          "name": "PRETEND",
+          "url": "https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo"
+        }
+      ],
+      "duration_ms": 2252460,
+      "name": "2002: DNA Deception",
+      "url": "https://open.spotify.com/episode/2yPEX7lTvxs3IOFYgQUtmx"
+    },
+    {
+      "added_at": "2025-01-13 18:05:32",
+      "album": {
+        "name": "I'm Right You're Wrong",
+        "url": "https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj"
+      },
+      "artists": [
+        {
+          "name": "I'm Right You're Wrong",
+          "url": "https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj"
+        }
+      ],
+      "duration_ms": 2079294,
+      "name": "Stealing from ur Sister: Right or Wrong?",
+      "url": "https://open.spotify.com/episode/5RpA133b1XZT6iyF8WTWdr"
+    },
+    {
+      "added_at": "2025-01-13 18:05:32",
+      "album": {
+        "name": "Black People Love Paramore",
+        "url": "https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3"
+      },
+      "artists": [
+        {
+          "name": "Black People Love Paramore",
+          "url": "https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3"
+        }
+      ],
+      "duration_ms": 2749910,
+      "name": "Spades / Games Ft. Kevito Clark & Joshua Pinkay",
+      "url": "https://open.spotify.com/episode/4CKYWMpO9Fg8VXvWZ1JQ9p"
+    },
     {
       "added_at": "2024-12-09 20:01:11",
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,194 songs - 3 day 11 hr 37 min
+2,195 songs - 3 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1605,6 +1605,7 @@
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [rolling](https://open.spotify.com/track/6b0G1mrrgS9isDGFnd8yCd) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [rolling](https://open.spotify.com/album/0LMHOwkYVvz59LiHohbFtj) | 2:08 | 2024-03-01 |  |
 | [rollups](https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [rollups](https://open.spotify.com/album/464Q2A9SCCQRi6RxIVm8ub) | 1:46 | 2023-01-20 | 2023-10-27 |
+| [Romance](https://open.spotify.com/track/7Im1vmqr67pYDEVGg5C8JO) | [Jazza Mazza](https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM) | [Romance](https://open.spotify.com/album/07BnZeGBwpCJ53CwUsKNj6) | 2:06 | 2025-01-10 |  |
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-04-15 | 2022-11-12 |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2022-04-15 | 2022-08-19 |
 | [rose quartz](https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [rose quartz](https://open.spotify.com/album/6Vzlg6lBDOAUBXUARsv4ky) | 2:04 | 2024-01-12 |  |
@@ -2166,7 +2167,7 @@
 | [with you, at tumbledown](https://open.spotify.com/track/7IkViMZVcNjssk4VciHupJ) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [with you, at tumbledown](https://open.spotify.com/album/6ypKD7fpDXGDhYfYoQjlYw) | 2:57 | 2024-02-02 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2022-10-01 | 2024-10-21 |
-| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 |  |
+| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 | 2025-01-14 |
 | [Wonderful Times](https://open.spotify.com/track/2G00hkPjXrG0EUktsv7Pbc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:27 | 2022-04-15 | 2022-05-27 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-04-15 | 2022-05-27 |
 | [wonderland](https://open.spotify.com/track/2fP5vQ1GnN9FhbWpPRgQeT) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Broken Clocks And Still Time](https://open.spotify.com/album/3DznMUC2aXorcY7A4i9bAq) | 1:50 | 2023-06-06 |  |

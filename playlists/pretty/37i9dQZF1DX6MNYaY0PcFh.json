@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 83223,
+  "num_followers": 83251,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "3AM (LA LA LA)",
-        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 173731,
-      "name": "SO TRU",
-      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 198189,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "SO TRU",
+      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "WHERE'S MY VAPE?",
-        "url": "https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 279428,
-      "name": "WHERE'S MY VAPE?",
-      "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 208000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "WHERE'S MY VAPE?",
+        "url": "https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 279428,
+      "name": "WHERE'S MY VAPE?",
+      "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        },
-        {
-          "name": "Jamie Hai",
-          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "luv stuck",
         "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 160440,
       "name": "luv stuck",
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Jamie Hai",
+          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
     },
     {
       "added_at": "2024-11-29 00:00:00",

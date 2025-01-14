@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante
 
-111 songs - 5 hr 30 min
+112 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [La Mirada Perdida](https://open.spotify.com/track/04giZrd0pAGljztUXJiDBW) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Miguelete](https://open.spotify.com/artist/2RTLb9ZCVkz4NqgqCX5iEP) | [La Mirada Perdida](https://open.spotify.com/album/091Fo9hSIWIBDPIOSDsC8e) | 2:59 | 2021-12-24 | 2022-03-19 |
 | [Lassie](https://open.spotify.com/track/4d9T4bHs1vFSyk1EeB075m) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Lassie](https://open.spotify.com/album/3SRAiuLJXatdGT0SUX4MCe) | 2:52 | 2021-12-24 |  |
 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 | 2021-12-24 |  |
+| [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5IbmI5vcFPncZjrhQteGWl) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/album/5gfzeMWo0dqnmTdUeaoSHj) | 3:10 | 2025-01-13 |  |
 | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/track/1imiqMjAQXY4nFpWhcrULD) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/album/4xvznKupTijPk5f8wTanwS) | 3:06 | 2022-04-29 |  |
 | [Malianteo 420](https://open.spotify.com/track/0KFSsuVW8gc0MRDWlUyiTH) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Malianteo 420](https://open.spotify.com/album/26FWyyH0mUo4XayGQGzHi9) | 3:15 | 2022-07-22 | 2024-04-19 |
 | [Malianteo 420](https://open.spotify.com/track/6NKrW1a2OYNwAXuN4MgwXi) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Malianteo 420](https://open.spotify.com/album/7xdPNbwpkvpVSllF4CRcyT) | 3:15 | 2021-12-24 |  |

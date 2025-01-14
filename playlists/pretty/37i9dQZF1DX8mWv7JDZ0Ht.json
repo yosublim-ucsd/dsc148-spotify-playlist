@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Ana Gabriela",
-  "num_followers": 437626,
+  "num_followers": 437623,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2025-01-10 03:33:00",
+      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -787,26 +803,6 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2025-01-10 03:33:00",
-      "album": {
-        "name": "Coisa de Cinema",
-        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
-      },
-      "artists": [
-        {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Coisa de Cinema",
-      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -827,18 +823,22 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
-        "name": "Coisa de Casa",
-        "url": "https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ"
+        "name": "Coisa de Cinema",
+        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Coisa de Casa",
-      "url": "https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l"
+      "duration_ms": 175653,
+      "name": "Coisa de Cinema",
+      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+        "name": "Coisa de Casa",
+        "url": "https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ"
       },
       "artists": [
         {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+      "duration_ms": 212946,
+      "name": "Coisa de Casa",
+      "url": "https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2025-01-10 03:33:00",
+      "album": {
         "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
         "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 240207,
       "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
       "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
-    },
-    {
-      "added_at": "2025-01-10 03:33:00",
-      "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
+        "name": "15 Mil Peda\u00e7os",
+        "url": "https://open.spotify.com/album/4kGmA39LITaZB9Gyirkpot"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 185766,
+      "name": "15 Mil Peda\u00e7os",
+      "url": "https://open.spotify.com/track/5FKD3Xq76xWuZvYgRxg8YK"
+    },
+    {
+      "added_at": "2025-01-10 03:33:00",
+      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 162780,
       "name": "Pra Casar",
       "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
-    },
-    {
-      "added_at": "2025-01-10 03:33:00",
-      "album": {
-        "name": "15 Mil Peda\u00e7os",
-        "url": "https://open.spotify.com/album/4kGmA39LITaZB9Gyirkpot"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 185766,
-      "name": "15 Mil Peda\u00e7os",
-      "url": "https://open.spotify.com/track/5FKD3Xq76xWuZvYgRxg8YK"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
-        "name": "Todos os Futuros",
-        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
       },
       "artists": [
         {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
         }
       ],
-      "duration_ms": 152027,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+        "name": "Todos os Futuros",
+        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
       "artists": [
         {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+      "duration_ms": 152027,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
     },
     {
       "added_at": "2025-01-10 03:33:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-01-10 03:33:00",
       "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
-    },
-    {
-      "added_at": "2025-01-10 03:33:00",
-      "album": {
         "name": "Apressa",
         "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193394,
       "name": "Cafona",
       "url": "https://open.spotify.com/track/6kdH8k1kAb5n9PjLfFiyGX"
+    },
+    {
+      "added_at": "2025-01-10 03:33:00",
+      "album": {
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-01-10 03:33:00",

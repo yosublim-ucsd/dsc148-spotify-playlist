@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Bad Bunny
 
-9,268 songs - 20 day 13 hr 40 min
+9,269 songs - 20 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2426,6 +2426,7 @@
 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 | 2024-08-30 | 2024-09-07 |
 | [Drogdilla](https://open.spotify.com/track/6d7pf0uO5FbOVi16xcaq49) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Drogdilla](https://open.spotify.com/album/5uKwhWTAhqSPE4JFYZZ2Si) | 2:59 | 2023-07-28 | 2023-08-05 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-13 |  |
 | [Dual](https://open.spotify.com/track/2OTZ7ESYp6oFojCUPJXOmu) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Dual](https://open.spotify.com/album/1R1W9HadK0whSF7tO01ER3) | 3:15 | 2024-02-23 | 2024-03-02 |
 | [DUALIDAD](https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DUALIDAD \- feat\. Esteman](https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl) | 3:21 | 2024-09-06 | 2024-09-14 |
 | [Duas](https://open.spotify.com/track/3qT0IS0HXwljGUfCZvyR6L) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Duas](https://open.spotify.com/album/0JVftjU914aTIF2dDGuyeM) | 2:42 | 2022-09-16 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,396 likes - 93 songs - 4 hr 36 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,393 likes - 94 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 91 | [4U \- Edu Campos Remix](https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Edu Campos](https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 |
 | 92 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 |
 | 93 | [Diamonds](https://open.spotify.com/track/15RRojwJin9SYzZopZ8PDm) | [Ian G](https://open.spotify.com/artist/2nQYxgKdzxuDMstR4zAg7g), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Diamonds](https://open.spotify.com/album/4m1QQzp3Rz5w0NTiYWL2tC) | 2:36 |
+| 94 | [To The Club](https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [To The Club](https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o) | 3:00 |
 
-Snapshot ID: `AAAKKg6P77PcMA1+WwlJp+iIKSFo/WMD`
+Snapshot ID: `AAAKKw4ZmqkoOXJPq0RKD+5aj9Jg2e87`

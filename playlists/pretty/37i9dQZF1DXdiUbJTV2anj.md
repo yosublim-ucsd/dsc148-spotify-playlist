@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> bands and tracks on the rise in heavy music\. Cover: CANDY
+> bands and tracks on the rise in heavy music\. Cover: Knosis
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,713 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,760 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 50 | [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 |
 | 51 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 |
 
-Snapshot ID: `Z2MvngAAAABa+IjHuzyUmvQcNk8AuB9d`
+Snapshot ID: `Z4SRdwAAAAAi0pXy4oFMfOTfDkj54DgH`

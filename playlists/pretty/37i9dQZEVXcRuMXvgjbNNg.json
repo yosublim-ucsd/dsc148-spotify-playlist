@@ -6,79 +6,215 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3tjUAAAAACSFIopDx4XbIenHs3a/o9b",
+  "snapshot_id": "Z3tjUAAAAAAds4MGO30UspFqQ5nZPlRj",
   "tracks": [
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Reverberation",
-        "url": "https://open.spotify.com/album/3JzQK4ckx3SLypyuXNlPeJ"
+        "name": "KINGDOM HEARTS -HD 2.5 ReMIX- (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P"
       },
       "artists": [
         {
-          "name": "Ty's Music",
-          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
+          "name": "Yoko Shimomura",
+          "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
         }
       ],
-      "duration_ms": 97975,
-      "name": "As Time Flies",
-      "url": "https://open.spotify.com/track/6jySlnqML5cijTlaH183uM"
+      "duration_ms": 191960,
+      "name": "Lazy Afternoons",
+      "url": "https://open.spotify.com/track/4HgbN75NCZVNKg4JVqY3sV"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Bug Collector",
-        "url": "https://open.spotify.com/album/1SjQcXSbJxfrhPQ2lpR3ln"
+        "name": "The Sims (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk"
       },
       "artists": [
         {
-          "name": "BEN SCOTT",
-          "url": "https://open.spotify.com/artist/7hfnqIhKIldDeMNZchTmew"
+          "name": "Jerry Martin",
+          "url": "https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ"
         }
       ],
-      "duration_ms": 130063,
-      "name": "The Bug Collector",
-      "url": "https://open.spotify.com/track/165MD8kz7TPMUhjro3NnA8"
+      "duration_ms": 164502,
+      "name": "Mall Rat",
+      "url": "https://open.spotify.com/track/5KBVqZDqF5WkHcK7auacGC"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Songbook Vol. 2",
-        "url": "https://open.spotify.com/album/30HepWMAKuXCNF9bzd5dRA"
+        "name": "Disco Elysium",
+        "url": "https://open.spotify.com/album/5IhBwGYrQotmDvfLcdIj8R"
       },
       "artists": [
         {
-          "name": "The Westerlies",
-          "url": "https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z"
+          "name": "Sea Power",
+          "url": "https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL"
         }
       ],
-      "duration_ms": 103000,
-      "name": "Cooper Ave",
-      "url": "https://open.spotify.com/track/3us15QTGRlmwvRxJXRwNwc"
+      "duration_ms": 273506,
+      "name": "Whirling-In-Rags, 8 AM",
+      "url": "https://open.spotify.com/track/42yOElSiDdOcqmZJbjZvRM"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Sparks (Adding Sax Solos To Songs That Don't Need Them)",
-        "url": "https://open.spotify.com/album/1eNqYzmxSMMC1B9EVV0bcd"
+        "name": "Final Fantasy Guitar Collection",
+        "url": "https://open.spotify.com/album/58sPibZ10KLQnGdYZ0m7as"
       },
       "artists": [
         {
-          "name": "Evan Jacobson",
-          "url": "https://open.spotify.com/artist/6sEmOIlCsCJQjnnLsY67Je"
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        },
+        {
+          "name": "John Oeth",
+          "url": "https://open.spotify.com/artist/0NS9ulTdP1x4XmuITf5xR4"
         }
       ],
-      "duration_ms": 146934,
-      "name": "Sparks (Adding Sax Solos To Songs That Don't Need Them)",
-      "url": "https://open.spotify.com/track/4Wt5FkBHyIn4IkTGW2YD1s"
+      "duration_ms": 186709,
+      "name": "Tifa\u2019s Theme (Final Fantasy VII)",
+      "url": "https://open.spotify.com/track/34dBiKGE8nLRyJHNchdfMD"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "Hero of Time (Music from \"The Legend of Zelda: Ocarina of Time\")",
+        "url": "https://open.spotify.com/album/6YCRvcW97UkYTkGQSzweBh"
       },
       "artists": [
+        {
+          "name": "Koji Kondo",
+          "url": "https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c"
+        },
+        {
+          "name": "Kristin Naigus",
+          "url": "https://open.spotify.com/artist/5DW07aMZfSt6HcDlCPhx4a"
+        },
+        {
+          "name": "Patti Rudisill",
+          "url": "https://open.spotify.com/artist/4v1lNt9Fnv87ABVRYtiUBE"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "Lon Lon Ranch",
+      "url": "https://open.spotify.com/track/6R1MKD74i1uwjC1Tw6MXgp"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "Little Blue \u2013 Mahogany Session",
+        "url": "https://open.spotify.com/album/5xyxuwmqYBy2a2tM4AOLhJ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 453364,
+      "name": "Little Blue - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/4dkxQNsQUboUQ2I4wXkE0d"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 139091,
+      "name": "The Ballad of Lucy Gray Baird - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/0Ac9NKZTvLPMQN36oWHf5C"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "erase me",
+      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "Adventure Time, Vol. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1zPMx423hKYd8JGAuVB24z"
+      },
+      "artists": [
+        {
+          "name": "Adventure Time",
+          "url": "https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1"
+        },
+        {
+          "name": "Olivia Olson",
+          "url": "https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb"
+        }
+      ],
+      "duration_ms": 95058,
+      "name": "Everything Stays (feat. Olivia Olson)",
+      "url": "https://open.spotify.com/track/2jnOUdpaFKr9koG1Vtbj6v"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "Coraline (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4S1D4o4e4c81Fc7shdFdyI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Mathilde Pellegrini",
+          "url": "https://open.spotify.com/artist/7MMx9v4tYXJYIH8iFiiArC"
+        },
+        {
+          "name": "Laurent Petitgirard",
+          "url": "https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV"
+        },
+        {
+          "name": "Hungrarian Symphony Orchestra Budapest",
+          "url": "https://open.spotify.com/artist/6MbrXabb7Hp8GadAGvQ2JC"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Breschand",
+          "url": "https://open.spotify.com/artist/0EcpwT0swvhDZREN96fO4x"
+        }
+      ],
+      "duration_ms": 121546,
+      "name": "Exploration",
+      "url": "https://open.spotify.com/track/4mavPLLZuKFd86esmhhqqy"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "Our Love (From the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -86,419 +222,319 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Spin The Wheel - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1lXZpcWtuvG5epzCpN2dSz"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Neva (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NLJwYiAKI6I16CBQy5pqP"
-      },
-      "artists": [
-        {
-          "name": "Berlinist",
-          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Where courage abide",
-      "url": "https://open.spotify.com/track/77is4EjLPPhiSaLn3ibXm8"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "The Spirit of St. Louis",
-        "url": "https://open.spotify.com/album/2PqYzY7wdgq0ydlC3nR4ei"
-      },
-      "artists": [
-        {
-          "name": "Adam Young",
-          "url": "https://open.spotify.com/artist/2Dr744zaEbNqmW9jxw4gfq"
-        }
-      ],
-      "duration_ms": 139813,
-      "name": "Stars Appear",
-      "url": "https://open.spotify.com/track/29esOEzJfvRtpph7kXVOMh"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Rain (Live & Acoustic)",
-        "url": "https://open.spotify.com/album/0WXGH1GdcuSxl2uqoezkyz"
-      },
-      "artists": [
-        {
-          "name": "Rob Scallon",
-          "url": "https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts"
-        }
-      ],
-      "duration_ms": 128878,
-      "name": "Rain - Live & Acoustic",
-      "url": "https://open.spotify.com/track/1r1VXTIParyRX5U2bOSd0x"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Spiritfarer (Original Soundtrack) [Farewell Edition]",
-        "url": "https://open.spotify.com/album/00hSD0wrbLxpTM1DeGXM76"
-      },
-      "artists": [
-        {
-          "name": "Max LL",
-          "url": "https://open.spotify.com/artist/1CNJPN4ay8t8CNNKxnPJiV"
-        }
-      ],
-      "duration_ms": 105971,
-      "name": "Mind Palace",
-      "url": "https://open.spotify.com/track/0JSrjmSaRxL2dS8LUv6yVV"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Jusant (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Ferran",
-          "url": "https://open.spotify.com/artist/228Gomw7aulbQurdDNRv7r"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Jusant",
-      "url": "https://open.spotify.com/track/0ufXegbaLmHmwulonyUWqf"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Falling for Autumn - EP",
-        "url": "https://open.spotify.com/album/0LzbqEoRfKcZQ47H5R0EmJ"
-      },
-      "artists": [
-        {
-          "name": "Lullatone",
-          "url": "https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Adventure Music for Migrating Birds",
-      "url": "https://open.spotify.com/track/2wmRE4kzvsn31xeYpGPnyA"
-    },
-    {
-      "added_at": "2025-01-06 05:00:00",
-      "album": {
-        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
         },
         {
-          "name": "Tom Howe",
-          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 147337,
-      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
-      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+      "duration_ms": 218248,
+      "name": "Our Love (From the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Horizon Forbidden West (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
+        "name": "Loki: Season 2 - Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ"
       },
       "artists": [
         {
-          "name": "Lovisa Bergdahl",
-          "url": "https://open.spotify.com/artist/7nw0vomAyUDDWzlrgRdjUY"
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
         }
       ],
-      "duration_ms": 253031,
-      "name": "In the Flood - Lovisa's Version",
-      "url": "https://open.spotify.com/track/5ssrU9K4NVpuvaGlEYaoxB"
+      "duration_ms": 151961,
+      "name": "History Is Now",
+      "url": "https://open.spotify.com/track/6xhX358ASr7E5xlTdPUeSH"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
+        "name": "Act 3: The Dying of Self",
+        "url": "https://open.spotify.com/album/77hndvEyvuHleU1AXdHIVC"
       },
       "artists": [
         {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 238435,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3zAjHVmMyuhBXhxUgdzGeL"
+      "duration_ms": 170759,
+      "name": "City on a Hill",
+      "url": "https://open.spotify.com/track/5WWBUjHWwDkAzCczIRxYmB"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
+        "name": "Baldur's Gate 3 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6JR4qLOXu96krMWxBTpXSR"
       },
       "artists": [
         {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+          "name": "Borislav Slavov",
+          "url": "https://open.spotify.com/artist/7Fl4F5eJRtPMEl3jTYMUQt"
         }
       ],
-      "duration_ms": 103920,
-      "name": "That Home",
-      "url": "https://open.spotify.com/track/6q4c1vPRZREh7nw3wG7Ixz"
+      "duration_ms": 141908,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/4H1FlITv3PMErUOyQYgUDK"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Sweet Disposition",
-        "url": "https://open.spotify.com/album/2fu2FuiGYZ6smzfrFYutwc"
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
       "artists": [
         {
-          "name": "Feeling Blew",
-          "url": "https://open.spotify.com/artist/3lZVea5vMblL5FgiuWNeXD"
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         }
       ],
-      "duration_ms": 248250,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/0xz9eftUO5Ohc3iK1GBd9Y"
+      "duration_ms": 111240,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/5BMwpS4iYKR30kq9U9beaT"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/1dWCsMNsgB4lxMxue7DW8H"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
-          "name": "Tim and James",
-          "url": "https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 92858,
-      "name": "Train Leaves",
-      "url": "https://open.spotify.com/track/63NByD9EMo2dqgdTfFYbqQ"
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Bad Blood X (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4wGbIbPiP3C3LdvewkRwTc"
+        "name": "Lights Are On (Instrumental)",
+        "url": "https://open.spotify.com/album/6k1xOgh9kZird5j4VNkPBd"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Pompeii MMXXIII",
-      "url": "https://open.spotify.com/track/16QSy73FOOYlXHMH94JLeb"
+      "duration_ms": 192075,
+      "name": "Lights Are On - Instrumental",
+      "url": "https://open.spotify.com/track/322jQ92QZRnliN8VbQMsUh"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "A Little Fable",
-        "url": "https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN"
+        "name": "bedroom walls : le salon",
+        "url": "https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43"
       },
       "artists": [
         {
-          "name": "aspidistrafly",
-          "url": "https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd"
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 265253,
-      "name": "Landscape With a Fairy",
-      "url": "https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8"
+      "duration_ms": 131052,
+      "name": "come into my arms",
+      "url": "https://open.spotify.com/track/7BsF2M59SaoOQI9HOWk8bU"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "We Bought A Zoo (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0qlp58WV5DrL1wpAzqdlzJ"
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
         }
       ],
-      "duration_ms": 144106,
-      "name": "Brambles",
-      "url": "https://open.spotify.com/track/3nyOxTwKmLtqDTmrmnZHvl"
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Florence (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7uwHUvVHDAEKxyXCoZYFIF"
+        "name": "NOAH",
+        "url": "https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t"
       },
       "artists": [
         {
-          "name": "Kevin Penkin",
-          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
         }
       ],
-      "duration_ms": 99200,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/1AM6hQPTJcUzJmh31PGJMO"
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/1p67QqNBGvikWt0CZmkpDu"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Minecraft - Volume Alpha",
-        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+        "name": "Op. 1: Multiverse",
+        "url": "https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3"
       },
       "artists": [
         {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Moog City",
-      "url": "https://open.spotify.com/track/4Ar3oSp4bAw5gz22F70GM7"
+      "duration_ms": 156038,
+      "name": "Waltz No. 1, Collapse",
+      "url": "https://open.spotify.com/track/0J2lmSTQQWhTiglHDbhLWm"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+        "name": "Ashen (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "e.hillman",
+          "url": "https://open.spotify.com/artist/5I4vi0vVJXlwNMg9EDry3V"
         }
       ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+      "duration_ms": 202896,
+      "name": "Vagrant's Rest (A Place to Call Home)",
+      "url": "https://open.spotify.com/track/72OyVUVfEVFl3Iy7rebahm"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Arcadian Wild",
-        "url": "https://open.spotify.com/album/52NHbIvYQ4dTqFtbJPx5Sw"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
       "artists": [
         {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Rain Clouds",
-      "url": "https://open.spotify.com/track/6gPRW9AsBJvon7qeZHdoO0"
+      "duration_ms": 239508,
+      "name": "Death with Dignity",
+      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
+        "name": "The Legend of Zelda: Piano Solo",
+        "url": "https://open.spotify.com/album/46dWcsfL3DjTrF0nW2tghO"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "Mois\u00e9s Nieto",
+          "url": "https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF"
         }
       ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
+      "duration_ms": 91951,
+      "name": "Song of Storms (From \"Ocarina of Time\")",
+      "url": "https://open.spotify.com/track/6idOWNrt9dwvetYIy70JLy"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
       },
       "artists": [
         {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
         }
       ],
-      "duration_ms": 155109,
-      "name": "Kaer Morhen",
-      "url": "https://open.spotify.com/track/761SMhVKJlJlUCUveNcq1m"
+      "duration_ms": 186373,
+      "name": "Spider-Woman (Gwen Stacy)",
+      "url": "https://open.spotify.com/track/0HuIPfHavk3tsXOtpuyT0O"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Venus Garden",
-        "url": "https://open.spotify.com/album/1OrDr7eXqgCCphziGI8uQE"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Anton Giulio Priolo",
-          "url": "https://open.spotify.com/artist/5ETKWbDms5rG3GQHWGHGdR"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 112535,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/0hh1faVEusrp4fG7pHRNmL"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
+        "name": "The Power of Balance",
+        "url": "https://open.spotify.com/album/0sxJTvkDWHK7TrEYiid8pR"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Samuel Kim",
+          "url": "https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0"
         }
       ],
-      "duration_ms": 217240,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+      "duration_ms": 166215,
+      "name": "Service and Sacrifice",
+      "url": "https://open.spotify.com/track/2dmpCbIMKvm6aS11PEq1Jp"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "Spirited Away Soundtrack",
-        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
       "artists": [
         {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 189800,
-      "name": "One Summer Day",
-      "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
-      "added_at": "2025-01-06 05:00:00",
+      "added_at": "2025-01-13 05:00:00",
       "album": {
-        "name": "The Legend of Zelda: Breath of the Wild",
-        "url": "https://open.spotify.com/album/0jiHeTeCJwVvm422aY4KDr"
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
       },
       "artists": [
         {
-          "name": "The Versions",
-          "url": "https://open.spotify.com/artist/21Tp0aROiJGTa0BgFGsC6v"
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
         }
       ],
-      "duration_ms": 303014,
-      "name": "Zora's Domain (Night)",
-      "url": "https://open.spotify.com/track/1rz6KrOHxWvjsdIo06bHSQ"
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2025-01-13 05:00:00",
+      "album": {
+        "name": "Cult of the Lamb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE"
+      },
+      "artists": [
+        {
+          "name": "River Boy",
+          "url": "https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "Start a Cult",
+      "url": "https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

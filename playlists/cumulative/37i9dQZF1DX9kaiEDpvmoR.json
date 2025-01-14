@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 293083,
       "name": "Solen i den v\u00e4nstra",
       "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
@@ -4528,6 +4528,24 @@
       "duration_ms": 193200,
       "name": "Vi kommer aldrig",
       "url": "https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8"
+    },
+    {
+      "album": {
+        "name": "Vi l\u00e4mnar det s\u00e5",
+        "url": "https://open.spotify.com/album/6ojlFDERZgValMPokz2ulK"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183730,
+      "name": "Vi l\u00e4mnar det s\u00e5",
+      "url": "https://open.spotify.com/track/4ubcbAoGBNg3oS1JQBwtD7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors. ",
+  "description": "Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors. ",
   "name": "AfroTech Now",
   "tracks": [
     {
@@ -256,6 +256,32 @@
       "duration_ms": 487804,
       "name": "Amathole",
       "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
+    },
+    {
+      "album": {
+        "name": "Amathole Remixes",
+        "url": "https://open.spotify.com/album/3xcsfyO57MwFN5BydJ6Vgl"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448558,
+      "name": "Amathole - Kususa Remix",
+      "url": "https://open.spotify.com/track/6MLfw7T5Kj9kdRMugBziN3"
     },
     {
       "album": {
@@ -525,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Bokahohle",
+        "url": "https://open.spotify.com/album/2HYMSEeaqTMu0mN9jSkDDC"
+      },
+      "artists": [
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488093,
+      "name": "Bokahohle",
+      "url": "https://open.spotify.com/track/4VZWAuOqhiu260B77d2ngp"
+    },
+    {
+      "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/61xF9hB3dvdF6Tlyge7F0P"
       },
@@ -631,6 +675,32 @@
     },
     {
       "album": {
+        "name": "Dana",
+        "url": "https://open.spotify.com/album/6bQYUoU3ZyMIffDHYglMxL"
+      },
+      "artists": [
+        {
+          "name": "Dylan-S",
+          "url": "https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O"
+        },
+        {
+          "name": "Digolo Philip",
+          "url": "https://open.spotify.com/artist/0Q2ov97SybanQ8XWigAsWA"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402703,
+      "name": "Dana - Bun Xapa Remix",
+      "url": "https://open.spotify.com/track/1wL8hbLDOHlsLCGGjkIedM"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1DGoKk76hCDu3TU9LnoPsS"
       },
@@ -690,6 +760,28 @@
       "duration_ms": 360255,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c"
+    },
+    {
+      "album": {
+        "name": "Erro PT II",
+        "url": "https://open.spotify.com/album/6fLd2DiQaUuxDaQb1STnJE"
+      },
+      "artists": [
+        {
+          "name": "Badbox",
+          "url": "https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf"
+        },
+        {
+          "name": "Afrokillerz",
+          "url": "https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381598,
+      "name": "Erro Pt II",
+      "url": "https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3"
     },
     {
       "album": {
@@ -1051,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Caiiro",
+        "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385192,
+      "name": "iKoro",
+      "url": "https://open.spotify.com/track/1Jk4QzCrjaVv9Aw43kSHLc"
+    },
+    {
+      "album": {
         "name": "iMali",
         "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
       },
@@ -1345,6 +1455,46 @@
     },
     {
       "album": {
+        "name": "Africa Gets Physical, Vol. 4",
+        "url": "https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263878,
+      "name": "Khoisan",
+      "url": "https://open.spotify.com/track/2rnvcSb0Of5nxK6nNW0EPX"
+    },
+    {
+      "album": {
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/3NDTDQxYna7jg2BIF2hayy"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430867,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
+    },
+    {
+      "album": {
         "name": "Chuki",
         "url": "https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8"
       },
@@ -1534,6 +1684,28 @@
       "duration_ms": 353671,
       "name": "Lotjhani",
       "url": "https://open.spotify.com/track/6gW8Lf7fNrzSw39Y50xc7f"
+    },
+    {
+      "album": {
+        "name": "Louco Louco",
+        "url": "https://open.spotify.com/album/4U9QY0zLBnv5e2U0GpEaIn"
+      },
+      "artists": [
+        {
+          "name": "KingDonna",
+          "url": "https://open.spotify.com/artist/2zZHw1UpT4BK4IJdS1WhDU"
+        },
+        {
+          "name": "Sky White",
+          "url": "https://open.spotify.com/artist/4m7HkFAznOJoQUGeeAN92a"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409672,
+      "name": "Louco Louco",
+      "url": "https://open.spotify.com/track/4x60IVxE1awpUbpLTWbUWC"
     },
     {
       "album": {
@@ -1821,6 +1993,28 @@
     },
     {
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/1ZXw0Yr8tiEbvqzgDueLT5"
+      },
+      "artists": [
+        {
+          "name": "Mbali Nkosi",
+          "url": "https://open.spotify.com/artist/7teKKxgpqroelgIDMm7GeO"
+        },
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323902,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/6RW7f4tB1ZAfo5qQnK5Ehr"
+    },
+    {
+      "album": {
         "name": "Muchationa",
         "url": "https://open.spotify.com/album/4O8aonVNtRVG8lPAfmkLDs"
       },
@@ -1880,6 +2074,32 @@
       "duration_ms": 413114,
       "name": "Mwanzo",
       "url": "https://open.spotify.com/track/0HzrB6q6wtxf0rCAwmxYi8"
+    },
+    {
+      "album": {
+        "name": "M\u016bnd\u016bm\u016bka",
+        "url": "https://open.spotify.com/album/4aVu8jSp6MGr5Yay8bPfSu"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Gumz",
+          "url": "https://open.spotify.com/artist/1Sxp7YrEejs1PuyqZoBMrl"
+        },
+        {
+          "name": "Kgzoo",
+          "url": "https://open.spotify.com/artist/6CyhiZTvGEhA4E3C4GwQ3B"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "M\u016bnd\u016bm\u016bka",
+      "url": "https://open.spotify.com/track/7I8KgiQjCEyad003XcQ7nE"
     },
     {
       "album": {
@@ -2427,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2PzIWsIe5yeZWzu1mMqaXu"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410900,
+      "name": "Pumua",
+      "url": "https://open.spotify.com/track/5Z3oL66VWQykaQCIKt8MzH"
+    },
+    {
+      "album": {
         "name": "Reasons (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc"
       },
@@ -2472,6 +2710,28 @@
       "duration_ms": 406000,
       "name": "Rite",
       "url": "https://open.spotify.com/track/0irc8BoY8OzrzQXpPSBQ6S"
+    },
+    {
+      "album": {
+        "name": "Secret ID",
+        "url": "https://open.spotify.com/album/0F35l11dnpqFzuPMMaJ1QN"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415661,
+      "name": "Secret ID",
+      "url": "https://open.spotify.com/track/3DFuT29Zjg3UR2mXmim5Y9"
     },
     {
       "album": {
@@ -2781,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "The Animal",
+        "url": "https://open.spotify.com/album/4eGEwOo20bfLNHVsNQmAbZ"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "The Siege DJ",
+          "url": "https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "The Animal",
+      "url": "https://open.spotify.com/track/59kv6SqHrNFes4435zUCuC"
+    },
+    {
+      "album": {
         "name": "Love In Times Of Crisis",
         "url": "https://open.spotify.com/album/4NzOawtG9l1FIVb2RfzKou"
       },
@@ -2807,6 +3089,58 @@
     },
     {
       "album": {
+        "name": "Africa Get Physical, Vol. 5",
+        "url": "https://open.spotify.com/album/4X8iO9pAfMFRD00D9YoGIE"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        },
+        {
+          "name": "Cuebur",
+          "url": "https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7"
+        },
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348277,
+      "name": "The Clique",
+      "url": "https://open.spotify.com/track/5MjjxgfTOjdnQGbkvzCbrp"
+    },
+    {
+      "album": {
+        "name": "Invade EP",
+        "url": "https://open.spotify.com/album/6ZbpGMLpRpV7oCiBYkHrhJ"
+      },
+      "artists": [
+        {
+          "name": "Takue SBT",
+          "url": "https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380532,
+      "name": "The ParikLastan Drum",
+      "url": "https://open.spotify.com/track/1BaTyX95ko0JU9uBBnxVJN"
+    },
+    {
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/0QBNQ3l1Wda6VCxXUInrYq"
       },
@@ -2826,6 +3160,24 @@
       "duration_ms": 401000,
       "name": "The Sign - Original Mix",
       "url": "https://open.spotify.com/track/3fgbYKAsTutcBLh8JTAuNW"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Prayer",
+        "url": "https://open.spotify.com/album/0d1IQ98wnxi0itD2TI8wZR"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424500,
+      "name": "The Warrior's Prayer",
+      "url": "https://open.spotify.com/track/09auDbVAaLsdgVEG8hytyB"
     },
     {
       "album": {
@@ -3243,6 +3595,28 @@
     },
     {
       "album": {
+        "name": "A Life Worth Living",
+        "url": "https://open.spotify.com/album/0MC35ofBLwDfne9bhI2bvq"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392005,
+      "name": "Umkhumbi Ka Noah",
+      "url": "https://open.spotify.com/track/2Y2N1TJjw8I31sd4EPSKhb"
+    },
+    {
+      "album": {
         "name": "Afro Is Africa",
         "url": "https://open.spotify.com/album/6u967bk1pgeM7GXj7VZzGj"
       },
@@ -3291,6 +3665,28 @@
     },
     {
       "album": {
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/4sBM2L5oua4Tp7ddiZkc7N"
+      },
+      "artists": [
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        },
+        {
+          "name": "Elo Mude",
+          "url": "https://open.spotify.com/artist/7dVj8Q1F1gRQatJUsObTeK"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352041,
+      "name": "Umuthi (The Cure)",
+      "url": "https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro"
+    },
+    {
+      "album": {
         "name": "Must Be Africa",
         "url": "https://open.spotify.com/album/7kHpN0sNlSP8kpzH37N6Uy"
       },
@@ -3336,6 +3732,32 @@
       "duration_ms": 448893,
       "name": "Uwile",
       "url": "https://open.spotify.com/track/4diGbE2XVizX8PE6L0UwKs"
+    },
+    {
+      "album": {
+        "name": "Vaudzeyi Vanamate",
+        "url": "https://open.spotify.com/album/27Zl6RHfLP9hDmzpEkZUVN"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Native Tribe",
+          "url": "https://open.spotify.com/artist/0UERNMh2GUYxeNlI151GfE"
+        },
+        {
+          "name": "Da Q-Bic",
+          "url": "https://open.spotify.com/artist/0y1IsLnNOTfRm0Rpjz51Q7"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474916,
+      "name": "Vaudzeyi Vanamate - Native Tribe & Da Q-Bic Inhuman's Remix",
+      "url": "https://open.spotify.com/track/1gBfkIuQq4yn3NJgriGbQ1"
     },
     {
       "album": {
@@ -3398,6 +3820,24 @@
       "duration_ms": 524575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush"
+    },
+    {
+      "album": {
+        "name": "Wahyu",
+        "url": "https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476065,
+      "name": "Wahyu",
+      "url": "https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3"
     },
     {
       "album": {
@@ -3640,7 +4080,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 386052,
       "name": "Yeke Yeke",
       "url": "https://open.spotify.com/track/0Y1QOhcLVKIKyYvMeW11jj"

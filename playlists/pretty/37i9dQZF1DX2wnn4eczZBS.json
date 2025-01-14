@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: S10",
-  "num_followers": 9789,
+  "num_followers": 9787,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Vrijplaats",
         "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 165937,
       "name": "Verlaten Terrein",
       "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Wolken",
-        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
-      },
-      "artists": [
-        {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
-        }
-      ],
-      "duration_ms": 205758,
-      "name": "Wolken",
-      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Privilege",
-        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
-      },
-      "artists": [
-        {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Privilege",
-      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "David Bowie/Beckham",
         "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 156112,
       "name": "David Bowie/Beckham",
       "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Privilege",
+        "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
+      },
+      "artists": [
+        {
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Privilege",
+      "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "platland",
-        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
       },
       "artists": [
         {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
         }
       ],
-      "duration_ms": 206590,
-      "name": "platland",
-      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
+      "duration_ms": 153608,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "platland",
+        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 206590,
+      "name": "platland",
+      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Zo Licht Als een Veertje",
         "url": "https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii"
       },
@@ -735,54 +751,6 @@
       "duration_ms": 161428,
       "name": "Zo Licht Als Een Veertje",
       "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Als Ik Verdwaal",
-        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Als Ik Verdwaal",
-      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Starstruck (Celebrity)",
-        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 231676,
-      "name": "Starstruck (Celebrity)",
-      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Een Filosofie Van Het Riool",
-        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Een Filosofie Van Het Riool",
-      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -803,6 +771,38 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Een Filosofie Van Het Riool",
+        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Een Filosofie Van Het Riool",
+      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Starstruck (Celebrity)",
+        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 231676,
+      "name": "Starstruck (Celebrity)",
+      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Grote Broer",
         "url": "https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7"
+        "name": "Die Wonen Niet Hier",
+        "url": "https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt"
       },
       "artists": [
         {
-          "name": "Emilia Mabel",
-          "url": "https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV"
+          "name": "dorpsstraat 3",
+          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
         }
       ],
-      "duration_ms": 139046,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r"
+      "duration_ms": 257917,
+      "name": "Die Wonen Niet Hier",
+      "url": "https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS"
     }
   ],
   "unique_name": "indiepuntnl",

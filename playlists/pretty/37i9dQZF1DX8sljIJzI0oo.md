@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain](/playlists/plain/37i9dQZF1DX8sljIJzI0oo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8sljIJzI0oo)
 
-### [Fuego Presents: Ultimate End of Year Mixtape](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
+### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
 > 🔥 A new mixtape drop every Thursday 🔥 Myke Towers is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,517 likes - 20 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,471 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [INSTINTO ANIMAL](https://open.spotify.com/track/5dzsEEl3PO4aHxx34Le8XT) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:38 |
 | 20 | [La Oportunidad](https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Oportunidad](https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K) | 4:15 |
 
-Snapshot ID: `Z39X1QAAAAAbh1yPc9nHykVP4zlZH6ya`
+Snapshot ID: `Z4VYIwAAAABciR2fzUx5eoga1N6Hrff3`

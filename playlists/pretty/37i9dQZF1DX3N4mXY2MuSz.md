@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,300 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,271 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Rum Nogs](https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6) | [Burning Nickels](https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ) | [Cool Tide Carrolls](https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg) | 2:30 |
 | 75 | [Single All the Way](https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Single All the Way](https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa) | 3:15 |
 | 76 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 |
-| 77 | [It's Christmas Time](https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5) | [Future Idiots](https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD) | [It's Christmas Time](https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI) | 3:29 |
-| 78 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
+| 77 | [Come on Christmas](https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6) | [Auralnauts](https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX), [Willeson](https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v) | [Come on Christmas](https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX) | 4:00 |
+| 78 | [It's Christmas Time](https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5) | [Future Idiots](https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD) | [It's Christmas Time](https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI) | 3:29 |
 | 79 | [Wonderful Christmas Time](https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN) | [Lion In The Mane](https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 3:42 |
 | 80 | [Get This Christmas Right](https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W) | [Jaret and Kelly](https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT) | [Get This Christmas Right](https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1) | 2:11 |
 | 81 | [Do You Hear What I Hear?](https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V) | [The Myrrhderers](https://open.spotify.com/artist/03qAaFUzsAor9CiD56NFBr) | [The Myrrhderers Sleigh Christmas](https://open.spotify.com/album/4X3JPkIzfXiukzcFfDUOxu) | 3:10 |

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-454 songs - 22 hr 41 min
+455 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/album/1lRIhGS3ipWijhv3A2n1wH) | 3:42 | 2024-07-02 | 2024-08-30 |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-11 |
 | [Aina](https://open.spotify.com/track/2FIRyQLaMWaatb3ASfldXC) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Aina](https://open.spotify.com/album/5KZrAcRWwTAZ4BGTpiYQJS) | 2:54 | 2024-10-24 | 2024-12-03 |
+| [Aina](https://open.spotify.com/track/0uBQFamFpphOS27wIXPeiT) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Aina](https://open.spotify.com/album/1nMxRHOzJL8bUz0oB52RVT) | 3:02 | 2025-01-13 |  |
 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 | 2025-01-02 |  |
 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 | 2024-08-15 | 2024-10-18 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-09 | 2024-08-23 |
@@ -217,7 +218,7 @@
 | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/album/09wnzTC0pSgc7kKfO1OYcL) | 3:01 | 2024-07-02 | 2024-07-19 |
 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 | 2024-10-03 | 2024-11-15 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2024-12-06 |
-| [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-09 |  |
+| [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-09 |  |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-11-08 |
 | [Lentoi](https://open.spotify.com/track/7CogTl76ZQ1amD04YAxF45) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Lentoi](https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9) | 2:14 | 2024-11-07 | 2024-11-29 |
 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 |  |

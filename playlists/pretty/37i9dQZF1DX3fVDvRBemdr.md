@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Django Wagner & Nelis Leeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,732 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,749 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 |
 | 2 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
-| 3 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 |
-| 4 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 |
-| 5 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 |
-| 6 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
-| 7 | [Geen Rem](https://open.spotify.com/track/3MzLHKhtdZhnZZW6I9SA51) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Geen Rem](https://open.spotify.com/album/00u43daJFLpuFSQohB0l1r) | 2:55 |
+| 3 | [Geen Rem](https://open.spotify.com/track/3MzLHKhtdZhnZZW6I9SA51) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Geen Rem](https://open.spotify.com/album/00u43daJFLpuFSQohB0l1r) | 2:55 |
+| 4 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 |
+| 5 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 |
+| 6 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 |
+| 7 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
 | 8 | [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 |
 | 9 | [De klok van de toren](https://open.spotify.com/track/008zLVHAuD6dF3cZPpq4hf) | [Harten 10](https://open.spotify.com/artist/2QSyfkQhUfv3XlyqSFiVO0) | [De Klok van de toren](https://open.spotify.com/album/5jVKD5DVzQGOu1Zg7rONAU) | 2:56 |
 | 10 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Kom Op En Zing Met Me Mee](https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Kom Op En Zing Met Me Mee](https://open.spotify.com/album/48cpiwZscMfRP07Tkp5MR6) | 3:00 |
 | 70 | [De Allermooiste](https://open.spotify.com/track/01lqoCqUtguPLnllvPajYY) | [Jan Booi](https://open.spotify.com/artist/00fofzfMay7uoCG6Aliw8p), [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [De Allermooiste](https://open.spotify.com/album/2gTR8IpzUP2BGaiK7pzxv2) | 2:21 |
 
-Snapshot ID: `Z4DEogAAAABHcu2JbY1wmouDBgKwDDre`
+Snapshot ID: `Z4TPqQAAAACiVLiGdQyn731fSOTBdco5`

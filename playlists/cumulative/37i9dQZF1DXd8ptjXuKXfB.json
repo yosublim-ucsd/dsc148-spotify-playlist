@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 157636,
       "name": "bangkok",
       "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 191687,
       "name": "Boldog igaz\u00e1n",
       "url": "https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 273818,
       "name": "cerem\u00f3nia",
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 219310,
       "name": "Cig\u00e1ny-\u00fcgy",
       "url": "https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
         "name": "rabiga",
         "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 144199,
       "name": "ELJ\u00d6SSZ",
       "url": "https://open.spotify.com/track/74yYMdoLBSB1hSWduZmiBk"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 208000,
       "name": "Feh\u00e9r r\u00f3zsa",
       "url": "https://open.spotify.com/track/4lslQR7Pl8RAnGCkwetanK"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 200735,
       "name": "Felicidad (De la serie 'Berlin' de Netflix)",
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
@@ -1262,6 +1280,28 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "album": {
+        "name": "Frida Kahlo",
+        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163107,
+      "name": "Frida Kahlo",
+      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
     },
     {
       "album": {
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -1396,7 +1436,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 147096,
       "name": "Gurulgatok",
       "url": "https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg"
@@ -1900,7 +1940,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 160534,
       "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
       "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 166736,
       "name": "kapu",
       "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 139350,
       "name": "Kar\u00e1csony Freestyle",
       "url": "https://open.spotify.com/track/1YLkA5ZvDccIMCbsyIKRXi"
@@ -2026,7 +2066,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -2096,7 +2136,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 184100,
       "name": "KINT VAGYOK A SORON",
       "url": "https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2"
@@ -2172,7 +2212,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -2270,7 +2310,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 114392,
       "name": "Loca",
       "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
@@ -2328,7 +2368,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 159512,
       "name": "l\u00e1nc",
       "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
@@ -2514,7 +2554,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
@@ -2794,7 +2834,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
       "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
@@ -3009,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Orgonabokor",
+        "url": "https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215396,
+      "name": "Orgonabokor",
+      "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
+    },
+    {
+      "album": {
         "name": "Orgonafa",
         "url": "https://open.spotify.com/album/1PG2HYrB5AuPTHfbnCu4Xv"
       },
@@ -3092,7 +3150,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -3209,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/5miqZaQUpzPk1M29BtXv4y"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159637,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/0pWGWWJ9ER9OwUewhBrsi2"
+    },
+    {
+      "album": {
         "name": "plusz egy (+1)",
         "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
       },
@@ -3224,6 +3300,24 @@
       "duration_ms": 209449,
       "name": "plusz egy (+1)",
       "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
+    },
+    {
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -3496,7 +3590,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -3522,6 +3616,24 @@
       "duration_ms": 142957,
       "name": "SE VELED SE N\u00c9LK\u00dcLED",
       "url": "https://open.spotify.com/track/2hIPLce6sektBjU3YsePqQ"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
     },
     {
       "album": {
@@ -3580,7 +3692,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
@@ -3624,7 +3736,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
@@ -3855,6 +3967,36 @@
     },
     {
       "album": {
+        "name": "Sz\u00e1zszorszebb",
+        "url": "https://open.spotify.com/album/2ogeOru6GjobuWQzUJPi6z"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Szalai",
+          "url": "https://open.spotify.com/artist/7kDEAMv0Mem8bBG4vwoENq"
+        },
+        {
+          "name": "Susa",
+          "url": "https://open.spotify.com/artist/2SKopMv2qSNLLxFI7X4tgZ"
+        },
+        {
+          "name": "Bal\u00e1zs-Piri Soma",
+          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "Sz\u00e1zszorszebb",
+      "url": "https://open.spotify.com/track/7fP6QaybUJQUncS89dFlyk"
+    },
+    {
+      "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
@@ -3986,7 +4128,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
@@ -4058,7 +4200,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -4112,7 +4254,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
@@ -4134,7 +4276,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"

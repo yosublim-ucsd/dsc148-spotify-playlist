@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,530 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,551 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 15 | [PIJNSTILLERS](https://open.spotify.com/track/7mNXDtOxk8XTx9o73FXySS) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [PIJNSTILLERS / BLAKKA BOY](https://open.spotify.com/album/1gVkIkZN6xBqPhBK72CnHG) | 2:53 |
 | 16 | [Telefoon](https://open.spotify.com/track/3cXw2y6y83RurC7sRF7tOJ) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [SOLO](https://open.spotify.com/album/2zkP3n2mrNgupdJgbWX2k5) | 2:41 |
 | 17 | [Dammie \- REMIX](https://open.spotify.com/track/0seomVGhruiFOkBUSaTyjj) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Dammie \(REMIX\)](https://open.spotify.com/album/0buwh9wF83aKugKgncvWPu) | 3:30 |
-| 18 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 18 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 19 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 | 20 | [Hoogtevrees](https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoogtevrees](https://open.spotify.com/album/5gyOFMVzZiV8YeT7xsmpss) | 2:39 |
 | 21 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
 | 22 | [Gone \- Remix](https://open.spotify.com/track/5yYp4iwSD9KNsnIohHCyo0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Gone \(Remix\)](https://open.spotify.com/album/3dyDQFDBdtXFmGfD5eeHDF) | 2:44 |
 | 23 | [Drum&Feest](https://open.spotify.com/track/0scxRK7pndatZq160Y15S7) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [Drum&Feest](https://open.spotify.com/album/1a0T5B3YSxx7Y3zBfl0rkO) | 2:11 |
-| 24 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 24 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 25 | [Ik Ben Er Nog Steeds](https://open.spotify.com/track/5AD316OVoBQAms4bPNMeY8) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ik Ben Er Nog Steeds](https://open.spotify.com/album/1ReCEskfy54ocNuO3RpS5y) | 2:32 |
 | 26 | [Outside](https://open.spotify.com/track/6zpF4dFEUuTGwHfPzlc3nv) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l) | [Outside](https://open.spotify.com/album/1AsNxPEESZQ4GE36U0jABl) | 2:09 |
 | 27 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |

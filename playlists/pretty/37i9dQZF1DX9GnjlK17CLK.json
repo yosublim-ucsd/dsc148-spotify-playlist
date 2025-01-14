@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 164540,
+  "num_followers": 164622,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -571,34 +571,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "West Side Soul (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
+        "name": "Blues Brothers 2000",
+        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
       },
       "artists": [
         {
-          "name": "Magic Sam",
-          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
-        },
-        {
-          "name": "Mighty Joe Young",
-          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
-        },
-        {
-          "name": "Stockholm Slim",
-          "url": "https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC"
-        },
-        {
-          "name": "Mack Thompson",
-          "url": "https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF"
-        },
-        {
-          "name": "Odie Payne III",
-          "url": "https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 198466,
-      "name": "That's All I Need",
-      "url": "https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF"
+      "duration_ms": 185226,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -627,18 +611,34 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Blues Brothers 2000",
-        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+        "name": "West Side Soul (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Magic Sam",
+          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
+        },
+        {
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+        },
+        {
+          "name": "Stockholm Slim",
+          "url": "https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC"
+        },
+        {
+          "name": "Mack Thompson",
+          "url": "https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF"
+        },
+        {
+          "name": "Odie Payne III",
+          "url": "https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+      "duration_ms": 198466,
+      "name": "That's All I Need",
+      "url": "https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF"
     },
     {
       "added_at": "2024-06-02 16:41:51",

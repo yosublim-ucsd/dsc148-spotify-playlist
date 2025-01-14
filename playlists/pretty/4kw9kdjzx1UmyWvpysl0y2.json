@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125522,
+  "num_followers": 125523,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATgdI/p5czYe+nxop0TcVatIaX3kME",
+  "snapshot_id": "AAATgmkpAQjUSAsG3vas56DCUCA3Z7W2",
   "tracks": [
+    {
+      "added_at": "2025-01-13 14:39:15",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/6OLWuDPS5HLefkEusT8UL6"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/7KISwkT8OQRUDRsZLjFCra"
+    },
     {
       "added_at": "2025-01-10 15:16:40",
       "album": {

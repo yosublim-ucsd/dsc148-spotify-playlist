@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 412243,
+  "num_followers": 412647,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Too Blind To See It",
+        "url": "https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3"
+      },
+      "artists": [
+        {
+          "name": "Kym Sims",
+          "url": "https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Too Blind to See It",
+      "url": "https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 178880,
       "name": "Feel It - Radio Version",
       "url": "https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Too Blind To See It",
-        "url": "https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3"
-      },
-      "artists": [
-        {
-          "name": "Kym Sims",
-          "url": "https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Too Blind to See It",
-      "url": "https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG"
     },
     {
       "added_at": "2024-07-12 19:59:45",

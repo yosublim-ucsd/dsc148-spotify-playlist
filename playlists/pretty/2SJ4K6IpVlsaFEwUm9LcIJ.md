@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain](/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-### [moving on, letting go](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
+### [something new](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,555 likes - 12 songs - 48 min 28 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,568 likes - 14 songs - 53 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,5 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 10 | [My Only Love](https://open.spotify.com/track/1dtnRZGcl8PWdRacCGgJ0p) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 6:48 |
 | 11 | [Brinna ut](https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Brinna ut](https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv) | 3:21 |
 | 12 | [Du Aldrig Märker](https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Vol\. 2](https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C) | 2:53 |
+| 13 | [City Nights \- Remastered](https://open.spotify.com/track/3OGz14dnKpsDvBaoDgPuXK) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Secrets \(Remastered\)](https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq) | 2:33 |
+| 14 | [Olhaí](https://open.spotify.com/track/3KXFc8Zlr5ydDf8BzBzdVw) | [Johnny Alf](https://open.spotify.com/artist/6aewGwsqlu1cmev2xBJoht) | [Cool Brasil](https://open.spotify.com/album/2Stcce45r02GpUolhkFMEl) | 2:46 |
 
-Snapshot ID: `AAALpnz/R+Rk5iVAQ6tUhY5u8vba9J31`
+Snapshot ID: `AAALqaHjRRMiLD2voTecFeHe2Lz6c4Gb`

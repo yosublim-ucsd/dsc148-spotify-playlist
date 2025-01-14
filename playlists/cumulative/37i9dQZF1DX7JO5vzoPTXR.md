@@ -2,7 +2,7 @@
 
 ### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
 
-> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:playlist:37i9dQZF1EFLc8MZUkV3RI">Alissa</a>
+> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:playlist:37i9dQZF1EFLc8MZUkV3RI">Alissia</a>
 
 866 songs - 1 day 23 hr 41 min
 

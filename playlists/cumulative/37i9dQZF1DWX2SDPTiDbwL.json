@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Day of the Dead",
+      "url": "https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T"
+    },
+    {
+      "album": {
         "name": "Spanish Kiss",
         "url": "https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7"
       },
@@ -1970,6 +1988,24 @@
       "duration_ms": 198711,
       "name": "Una limosna por el amor de Dios",
       "url": "https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz"
+    },
+    {
+      "album": {
+        "name": "Una Vela Encendida",
+        "url": "https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh"
+      },
+      "artists": [
+        {
+          "name": "Isaac Valero",
+          "url": "https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Una Vela Encendida",
+      "url": "https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx"
     },
     {
       "album": {

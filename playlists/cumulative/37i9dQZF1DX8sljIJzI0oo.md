@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8sljIJzI0oo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8sljIJzI0oo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8sljIJzI0oo)
 
-### [Fuego Presents: Ultimate End of Year Mixtape](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
+### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
 > 🔥 A new mixtape drop every Thursday 🔥 Myke Towers is bringing the heat this week!
 

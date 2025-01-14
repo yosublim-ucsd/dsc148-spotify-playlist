@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 638 songs - 1 day 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,565 likes - 638 songs - 1 day 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -647,4 +647,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGVVd09MO7iM.md) - [plain]
 | 637 | [Poison](https://open.spotify.com/track/38tlYIflJRqAB5PxNWDtp2) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Vibe Responsibly, Vol\. 1](https://open.spotify.com/album/5DpoVZ2KXkg4Xh39B0wQuF) | 1:55 |
 | 638 | [La Primera Vez](https://open.spotify.com/track/2dSBS62AVkdW3mECRmpU5j) | [DND \| Do Not Disturb](https://open.spotify.com/artist/3YK398nTs8FaPDM3X4lqV2) | [La Primera Vez](https://open.spotify.com/album/1e8MmPlYQYA493uYpEqFxc) | 2:52 |
 
-Snapshot ID: `Abms6AAAAABMEj4qGiMX/iU4A9vqOuTu`
+Snapshot ID: `AbmyYAAAAADP/ku2+g0ZxFxR+wiHXQaX`

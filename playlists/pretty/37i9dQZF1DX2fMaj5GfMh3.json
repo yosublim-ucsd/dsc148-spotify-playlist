@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: JEN",
-  "num_followers": 97580,
+  "num_followers": 97576,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4BU/gAAAACluYnV6MSgEcBIW8r/f2Jz",
+  "snapshot_id": "Z4S3IAAAAABAryCfYKHTl/Rud6rs9E25",
   "tracks": [
     {
       "added_at": "2025-01-09 23:00:14",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-01-09 23:00:14",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189806,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2025-01-09 23:00:14",
+      "album": {
         "name": "Stigma",
         "url": "https://open.spotify.com/album/1u4i8YKnVqPSMNmVkaht8U"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-01-09 23:00:14",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189806,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
       "added_at": "2025-01-09 23:00:14",

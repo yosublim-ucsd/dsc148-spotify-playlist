@@ -1,31 +1,87 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 139274,
+  "num_followers": 139302,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240dQAAAACT1Wvivb2RntdlwriBtROU",
+  "snapshot_id": "Z4U+TwAAAABzCENV77l8DD5oxaqZNyde",
   "tracks": [
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
-        "name": "That Place",
-        "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
+        "name": "MDFC & Barbara Tucker Present Oh Life",
+        "url": "https://open.spotify.com/album/4ZQWdNC9hkkAm0Nho8gFFA"
       },
       "artists": [
         {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "MDFC",
+          "url": "https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN"
         }
       ],
-      "duration_ms": 401194,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/20myAKmdRFTg9MOZztDrSk"
+      "duration_ms": 240000,
+      "name": "Oh Life - MDFC Mix",
+      "url": "https://open.spotify.com/track/347TYIyiSnZtW9ld567C2P"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
+      "album": {
+        "name": "Universal Sound",
+        "url": "https://open.spotify.com/album/6XqfxaDZfS9sXhU4BdmNSw"
+      },
+      "artists": [
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "duration_ms": 408976,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/25sCz6YkJf9REcemAUV3x3"
+    },
+    {
+      "added_at": "2025-01-13 16:24:47",
+      "album": {
+        "name": "REMIX01",
+        "url": "https://open.spotify.com/album/3Mc1unKw8lwgH286t9KRfB"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        },
+        {
+          "name": "Red Eye",
+          "url": "https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt"
+        },
+        {
+          "name": "Mr. G",
+          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
+        }
+      ],
+      "duration_ms": 395024,
+      "name": "Unity - Mr. G's Time Jack Remix",
+      "url": "https://open.spotify.com/track/1vjAq4EUyst7MPI8C5UJTP"
+    },
+    {
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/7LnmVCMcb4eIPRYWctTzRM"
@@ -41,7 +97,23 @@
       "url": "https://open.spotify.com/track/2tHWfJzKknUb1bLCabCUp2"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
+      "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
+      },
+      "artists": [
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "duration_ms": 401194,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/20myAKmdRFTg9MOZztDrSk"
+    },
+    {
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "False Gods",
         "url": "https://open.spotify.com/album/7yIxQyxZp3Cye9aFVzqIW2"
@@ -61,7 +133,7 @@
       "url": "https://open.spotify.com/track/7ihfgnPeHdFkhjsDlMTEtu"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
@@ -77,7 +149,7 @@
       "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Unreleased Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
@@ -101,7 +173,7 @@
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Cod3 QR 015",
         "url": "https://open.spotify.com/album/098uPkyOOy3VbO7DZIJfBV"
@@ -117,7 +189,7 @@
       "url": "https://open.spotify.com/track/3jzSTrLu0AhWMIwsiVUe9M"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "MDFC Presents Make My Dreams a Reality (DJ Spen & Gary Hudgins Remix)",
         "url": "https://open.spotify.com/album/1QpgrDnqhehvPD3F3MeAFn"
@@ -157,7 +229,23 @@
       "url": "https://open.spotify.com/track/6D04fgoIJWS7vZXWE3stuz"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
+      "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
+      },
+      "artists": [
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "duration_ms": 426666,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg"
+    },
+    {
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Dance On Water",
         "url": "https://open.spotify.com/album/7qHSARpcnCeluJlVoqdgaG"
@@ -177,23 +265,7 @@
       "url": "https://open.spotify.com/track/3tUpHPZQ4XhNPYK3F3EKp2"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
-      "album": {
-        "name": "That Place",
-        "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
-      },
-      "artists": [
-        {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
-        }
-      ],
-      "duration_ms": 426666,
-      "name": "That Place",
-      "url": "https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg"
-    },
-    {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Rising High",
         "url": "https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc"
@@ -209,7 +281,7 @@
       "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Don't Miss The Train",
         "url": "https://open.spotify.com/album/3TFgLwNIPbuO2QMu9dpMW8"
@@ -229,7 +301,7 @@
       "url": "https://open.spotify.com/track/6b67DKn4cDUvDlkza7ZwIh"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "And It Goes Like",
         "url": "https://open.spotify.com/album/2gJGKSZnCYHuooDTvTDoVG"
@@ -245,7 +317,7 @@
       "url": "https://open.spotify.com/track/6mZOCJeqVSy40vgbc0Y9LX"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -261,7 +333,7 @@
       "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Ice (20 Years Systematic)",
         "url": "https://open.spotify.com/album/5ETfrXr5UXMt30DExDqjMo"
@@ -277,7 +349,7 @@
       "url": "https://open.spotify.com/track/5bkRwgvGxPmv3v1gwSGrpA"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Now I Understand",
         "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
@@ -293,7 +365,7 @@
       "url": "https://open.spotify.com/track/1WKv9RJkt4AVkTKjoQ7dNg"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Voyagers",
         "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
@@ -309,7 +381,7 @@
       "url": "https://open.spotify.com/track/2X0jXcmLh6IU9xkiAKp2oJ"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Elderberry",
         "url": "https://open.spotify.com/album/22GARvmQSSYb7FxQq5QGOj"
@@ -325,7 +397,7 @@
       "url": "https://open.spotify.com/track/10lunxgDSbEVCjHB0kn295"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Headland",
         "url": "https://open.spotify.com/album/7fQ2hw5u1O4RGdWafXM8Gf"
@@ -341,7 +413,7 @@
       "url": "https://open.spotify.com/track/5Q6uVqKxJXovTdhReKv8Xt"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Rekindled - EP",
         "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
@@ -361,7 +433,7 @@
       "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Insikt",
         "url": "https://open.spotify.com/album/4zqLm3IKXDrsWAs5DnQNgy"
@@ -377,7 +449,7 @@
       "url": "https://open.spotify.com/track/2sZYYl3TvoLAmTXxjFhXy3"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Mother Funker",
         "url": "https://open.spotify.com/album/6OBVJqNl6G9zlt5KC2SrV8"
@@ -397,7 +469,7 @@
       "url": "https://open.spotify.com/track/7gLbvbW08M5MWzFddIxHr8"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Worlds End Island 1",
         "url": "https://open.spotify.com/album/2Y88S18BHy9t7X5FHVPVWG"
@@ -413,7 +485,7 @@
       "url": "https://open.spotify.com/track/5vVEAMr9689tA9gzAqIB7R"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/4X5z6xBe6a9rRYGJnvhpUt"
@@ -429,7 +501,7 @@
       "url": "https://open.spotify.com/track/2Riu3orGTj9vKXdM61KNhB"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
@@ -449,7 +521,7 @@
       "url": "https://open.spotify.com/track/0INpOd1bT4lxr4qI7jZczW"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Plasma Sky",
         "url": "https://open.spotify.com/album/6vQusSXVaMoGRjCwEGzLK4"
@@ -469,7 +541,7 @@
       "url": "https://open.spotify.com/track/0nlqW3YtNzZJ0xr8FjyYs4"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/7yDncl7ReFnwNX2yS8Fwbp"
@@ -489,7 +561,7 @@
       "url": "https://open.spotify.com/track/2y75BfXfcLAyTUWax6yGlW"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Il Significato delle Parole Remixes",
         "url": "https://open.spotify.com/album/3yLiW9rTMKQr8pblVWO52h"
@@ -509,7 +581,7 @@
       "url": "https://open.spotify.com/track/124mDJALCMPfp1H5kSgMIJ"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Nocturno LP",
         "url": "https://open.spotify.com/album/0N7RKfRP7RMLOAYbNPbA3S"
@@ -525,7 +597,7 @@
       "url": "https://open.spotify.com/track/4rgwB6JiF7t0BzpgN4K0r6"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Plasma Sky",
         "url": "https://open.spotify.com/album/6vQusSXVaMoGRjCwEGzLK4"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/3ZjtvnPmwCWOUHIryY8QX6"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Shank",
         "url": "https://open.spotify.com/album/2MsT9FhObbMNzL4AepS9WA"
@@ -561,7 +633,7 @@
       "url": "https://open.spotify.com/track/0u6tJdnEJGa1J2l7plLNhr"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "PPPPP The Remixes Pt.2",
         "url": "https://open.spotify.com/album/4wFJFn1XZmnhV4dkXtETKX"
@@ -581,7 +653,7 @@
       "url": "https://open.spotify.com/track/1OJUz3e3Sbcuuxrr3GQNyB"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Technology Is Twisting My Mind EP",
         "url": "https://open.spotify.com/album/2hDV3xRQ5ndqhtbJYbY462"
@@ -601,7 +673,7 @@
       "url": "https://open.spotify.com/track/64HocyB5tlyG5OM57fHwKs"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Tar V35",
         "url": "https://open.spotify.com/album/2HSBYkeXpq4tbggmOVAOCb"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/2gwAFTbcSwSAck3EYnSjHR"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/43HoJzIVxNKZsHR09CJjNs"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/5GRxThDbBZDUz9nM0v84IE"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Eclipse - EP",
         "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
@@ -649,7 +721,7 @@
       "url": "https://open.spotify.com/track/0CZgpiHWXdluuer1EYYiNq"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Voyagers",
         "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
@@ -665,7 +737,7 @@
       "url": "https://open.spotify.com/track/3WZPH0alJvYymqoeIKDtJy"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Mind and Soul",
         "url": "https://open.spotify.com/album/1zt3oU67EjcKyms2Xn5VLn"
@@ -681,7 +753,7 @@
       "url": "https://open.spotify.com/track/2sSB2WLLzdWbyvvN5mRI7T"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Redbox",
         "url": "https://open.spotify.com/album/49bcDw6aZhtcBT135WTbHC"
@@ -697,7 +769,7 @@
       "url": "https://open.spotify.com/track/794Qmz2MqzuyX43PwUrLQI"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Voyagers",
         "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
@@ -713,7 +785,7 @@
       "url": "https://open.spotify.com/track/3rpE8k26wHL07tYMq1oBWa"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "The Eclipse - EP",
         "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
@@ -729,7 +801,7 @@
       "url": "https://open.spotify.com/track/0tvGS7LwyumR3P09K5TDaE"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Lavande",
         "url": "https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC"
@@ -749,7 +821,7 @@
       "url": "https://open.spotify.com/track/0qixcOUj0RP0FjxYhQpAE2"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Finding Myself",
         "url": "https://open.spotify.com/album/27c8BfoHDXb7PyrIslozs1"
@@ -769,7 +841,7 @@
       "url": "https://open.spotify.com/track/3WH2RjftNgim0bRR1nMHYE"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Twerq It (feat. NEZ)",
         "url": "https://open.spotify.com/album/4hGg0BSeQwQQYopTAW2lBw"
@@ -793,7 +865,7 @@
       "url": "https://open.spotify.com/track/4Jb1V8yeecjoGlPDq8Fubv"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Apokalypse",
         "url": "https://open.spotify.com/album/3YDnUxDAOExPD7TMT47AQ0"
@@ -809,7 +881,7 @@
       "url": "https://open.spotify.com/track/1qXlQnmMGjfyIfHPbnlTM5"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Barracuda",
         "url": "https://open.spotify.com/album/10VdzgSXSHjr88uwuJa343"
@@ -825,7 +897,7 @@
       "url": "https://open.spotify.com/track/4WZygtJvWrQnW1hwe70UKg"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Pablo Assan",
         "url": "https://open.spotify.com/album/3tZBx2Y14dgZfSN1jOChV7"
@@ -841,7 +913,7 @@
       "url": "https://open.spotify.com/track/5w2H2RddpscAIJYIAtiEHp"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Test & Push",
         "url": "https://open.spotify.com/album/4xSRyzSwMRyaV1Cv8WfQJn"
@@ -857,7 +929,7 @@
       "url": "https://open.spotify.com/track/4QqxwwOGa1DTRTYZpzGZ2L"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Crazy Tool",
         "url": "https://open.spotify.com/album/5OPx5yxwD4Z9uQOGoWVBnr"
@@ -873,7 +945,7 @@
       "url": "https://open.spotify.com/track/0JEDkTXTL8qRQXgJ9UaruM"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Nocturnal (Marc Romboy & Andre Winter Remix)",
         "url": "https://open.spotify.com/album/5m249o8rflKRtCXd3bYTtT"
@@ -901,7 +973,7 @@
       "url": "https://open.spotify.com/track/3smymszomGVw9czqEx6Qav"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "HX1",
         "url": "https://open.spotify.com/album/64y1k5OF59ukl119vPXKJp"
@@ -917,7 +989,7 @@
       "url": "https://open.spotify.com/track/3IFMKQjcOTqPDUXULAPSMM"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Everything Is Amazing",
         "url": "https://open.spotify.com/album/0I9RDomQqWtbtVg2Yyq10M"
@@ -933,7 +1005,7 @@
       "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Now I Understand",
         "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
@@ -949,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5Y4Tyq7CYoXEX4MDkUhsif"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Bastian",
         "url": "https://open.spotify.com/album/6JAS3Kx1ZAGhXk6zNS2hXg"
@@ -965,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4VNCTejinLH66gtNc9etdO"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Climb The Tree (Marc Romboy Remix)",
         "url": "https://open.spotify.com/album/615UGdPgSlSsZmoGLScyGN"
@@ -985,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5mKRpmpggYyUVrr7G3k1bC"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Now I Understand",
         "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
@@ -1001,7 +1073,7 @@
       "url": "https://open.spotify.com/track/708V4prVtBnVqfpG3tJnxd"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/0MXWS5np6F07dz4XEu11wa"
@@ -1021,7 +1093,7 @@
       "url": "https://open.spotify.com/track/45t2hoXLpWTDeu81nZNECo"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
@@ -1041,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3idWxkGAnciwFL0DL60683"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "This Is My Life (Carl Cox Remix)",
         "url": "https://open.spotify.com/album/5Jj9s4fO9ZLFR7IHMAGBc2"
@@ -1065,7 +1137,7 @@
       "url": "https://open.spotify.com/track/1i0YOYDSRlbcxSPCmSeerR"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
@@ -1085,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
@@ -1101,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2R4tRMm5UPHYV3SLhyH1Qk"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Rekindled - EP",
         "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
@@ -1121,7 +1193,7 @@
       "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "Mamma Noise - EP",
         "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
@@ -1137,7 +1209,7 @@
       "url": "https://open.spotify.com/track/06IwF60L7Z6cCLR60t84dv"
     },
     {
-      "added_at": "2024-12-27 05:00:37",
+      "added_at": "2025-01-13 16:24:47",
       "album": {
         "name": "MDFC Presents Make My Dreams a Reality",
         "url": "https://open.spotify.com/album/7BNDz95OivT8DWvrzQdxh9"
@@ -1163,6 +1235,22 @@
       "duration_ms": 222666,
       "name": "Make My Dreams a Reality - Dr Packer Remix",
       "url": "https://open.spotify.com/track/2QtvBWtijVrMHVY9wpXJld"
+    },
+    {
+      "added_at": "2025-01-13 16:24:47",
+      "album": {
+        "name": "The Eclipse - EP",
+        "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
+      },
+      "artists": [
+        {
+          "name": "Redraft Memories",
+          "url": "https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB"
+        }
+      ],
+      "duration_ms": 358153,
+      "name": "Pakal",
+      "url": "https://open.spotify.com/track/4if6CvygC5RrOWqtYvNxdT"
     }
   ],
   "unique_name": "Carl Cox' track IDs",

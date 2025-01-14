@@ -1773,6 +1773,28 @@
     },
     {
       "album": {
+        "name": "Blame The Messiah",
+        "url": "https://open.spotify.com/album/1efuRyOnawyCgmZ3shql4l"
+      },
+      "artists": [
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        },
+        {
+          "name": "Fargro",
+          "url": "https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Blame The Messiah",
+      "url": "https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
       },
@@ -2634,7 +2656,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "Casualty (feat. maybealice)",
       "url": "https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce"

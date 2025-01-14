@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 DAVICHI CONCERT 〈A Stitch in Time〉 2025.01.18 \~19 KSPO DOME\(올림픽공원\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,078 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,094 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

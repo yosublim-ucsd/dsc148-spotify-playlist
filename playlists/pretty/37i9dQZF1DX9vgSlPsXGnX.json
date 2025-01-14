@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 83812,
+  "num_followers": 83823,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Sentimiento del Latino En Nueva York",
-        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
-      },
-      "artists": [
-        {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 179520,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Sentimiento del Latino En Nueva York",
+        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
+      },
+      "artists": [
+        {
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Lo Mejor del Trio America",
-        "url": "https://open.spotify.com/album/5hJW4frXZQ63ViZVLjgK9U"
-      },
-      "artists": [
-        {
-          "name": "Trio America",
-          "url": "https://open.spotify.com/artist/2Q5bx4hlR7hB8GqKxsf3gE"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/5xAgpVsRFZUhbEvr4MTICS"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166586,
       "name": "Quiereme Mucho",
       "url": "https://open.spotify.com/track/5k6dmbJSOvNR5yZLuCS6xe"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Lo Mejor del Trio America",
+        "url": "https://open.spotify.com/album/5hJW4frXZQ63ViZVLjgK9U"
+      },
+      "artists": [
+        {
+          "name": "Trio America",
+          "url": "https://open.spotify.com/artist/2Q5bx4hlR7hB8GqKxsf3gE"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/5xAgpVsRFZUhbEvr4MTICS"
     },
     {
       "added_at": "2021-12-26 12:28:38",

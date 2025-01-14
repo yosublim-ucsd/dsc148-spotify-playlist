@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-105 songs - 6 hr 58 min
+107 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [D'arie II](https://open.spotify.com/track/3qpMDHurZmTZXz6cioYqdX) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/40RV3GOzwZCOqVgQ8Fz8QY) | 2:51 | 2024-04-05 |  |
 | [Danza de la Luna Nueva](https://open.spotify.com/track/4nc2FlzwqTahLALHwLTziW) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Fanusa](https://open.spotify.com/album/10PDcyCeLSjsNQGBAC9WI8) | 3:17 | 2024-04-05 |  |
 | [Danza de la Luna Nueva](https://open.spotify.com/track/4mlnt33wO6QPdizWkkTYgc) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab), [Nektarios Galanis](https://open.spotify.com/artist/12N52SUlUodsZjCS9pKkyk) | [Fanusa](https://open.spotify.com/album/6rYCPuwuwcDZ5W70HQggN6) | 3:17 | 2023-09-01 | 2024-04-19 |
+| [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 | 2025-01-13 |  |
 | [Daydream](https://open.spotify.com/track/01MsqwaG0kCMTBJUAEkFAV) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Spanish Kiss](https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7) | 6:21 | 2023-09-01 |  |
 | [Deep Green Moss](https://open.spotify.com/track/42ZrUDiodCYlmOqjgFtgeL) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/1cKukZ9Xf3PP2E4pxz82xd) | 2:18 | 2024-03-06 | 2024-04-19 |
 | [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2023-09-01 |  |
@@ -108,6 +109,7 @@
 | [Tu Belleza Me Conmueve](https://open.spotify.com/track/55onRB7WnEqgzHtt6yK6r5) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [Tu Belleza Me Conmueve](https://open.spotify.com/album/36NgnG3aFUkeK6e9y71j3e) | 3:20 | 2024-11-11 |  |
 | [Tu Perfume](https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO) | [Oliver De La Rosa](https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd) | [Tu Perfume](https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS) | 2:13 | 2024-09-03 |  |
 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 | 2023-09-01 |  |
+| [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 | 2025-01-13 |  |
 | [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 | 2024-10-23 |  |
 | [Verdiales](https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:07 | 2023-09-01 | 2024-04-19 |
 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 | 2024-04-05 |  |

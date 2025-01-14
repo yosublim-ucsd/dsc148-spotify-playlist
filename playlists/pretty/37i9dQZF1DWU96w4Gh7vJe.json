@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 577197,
+  "num_followers": 577260,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Hanap",
-        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
-        }
-      ],
-      "duration_ms": 242875,
-      "name": "Hanap",
-      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
         "name": "What U Need",
         "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
       },
@@ -623,22 +607,34 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Abot Langit (Ricovered)",
-        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
+        "name": "Hanap",
+        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
       },
       "artists": [
         {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        },
-        {
-          "name": "Maris Racal",
-          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
         }
       ],
-      "duration_ms": 177692,
-      "name": "Abot Langit - Ricovered",
-      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
+      "duration_ms": 242875,
+      "name": "Hanap",
+      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "Love Moves in Mysterious Ways - Live",
+      "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -663,18 +659,22 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
+        "name": "Abot Langit (Ricovered)",
+        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        },
+        {
+          "name": "Maris Racal",
+          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
         }
       ],
-      "duration_ms": 267786,
-      "name": "Love Moves in Mysterious Ways - Live",
-      "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
+      "duration_ms": 177692,
+      "name": "Abot Langit - Ricovered",
+      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
     },
     {
       "added_at": "2024-12-16 05:11:53",

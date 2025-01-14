@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 146945,
+  "num_followers": 146973,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Beach in Hawaii",
-      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Circuito Reggae, Vol. 8",
         "url": "https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 241813,
       "name": "Sentimento Bom",
       "url": "https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -827,26 +827,18 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+        "name": "Easy Skanking In Boston '78",
+        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+      "duration_ms": 335466,
+      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
+      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -867,18 +859,26 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Easy Skanking In Boston '78",
-        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
         }
       ],
-      "duration_ms": 335466,
-      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
-      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
     },
     {
       "added_at": "2024-07-05 13:49:13",

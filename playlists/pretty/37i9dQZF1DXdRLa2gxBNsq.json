@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 109831,
+  "num_followers": 109856,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Aversiones: 2025, X el Kulo T la Inko",
+        "url": "https://open.spotify.com/album/2S6HKkZSRGto5jcYavU8Mu"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "duration_ms": 89999,
+      "name": "Tuna Punk",
+      "url": "https://open.spotify.com/track/2VtgfdLc3Yr9ieDg5rTIoH"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1103,50 +1103,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Aversiones: 2025, X el Kulo T la Inko",
-        "url": "https://open.spotify.com/album/2S6HKkZSRGto5jcYavU8Mu"
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
       "artists": [
         {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
         }
       ],
-      "duration_ms": 89999,
-      "name": "Tuna Punk",
-      "url": "https://open.spotify.com/track/2VtgfdLc3Yr9ieDg5rTIoH"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Otra Partida",
-        "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
-      },
-      "artists": [
-        {
-          "name": "A Granel",
-          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Otra Partida",
-      "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1167,6 +1135,38 @@
       "duration_ms": 162205,
       "name": "El Mundo Arder - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/2xLzcyPj970wUwExqxu4c2"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Otra Partida",
+        "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Otra Partida",
+      "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "Lev\u00e1ntate",
         "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Tributo por la Pasta",
-        "url": "https://open.spotify.com/album/5W73AcIrHrICmPepzeyxwd"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
       "artists": [
         {
-          "name": "A Granel",
-          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 150813,
-      "name": "Tributo por la Pasta",
-      "url": "https://open.spotify.com/track/0EUrfc9xoOpBgGBvD5F0et"
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1299,6 +1283,22 @@
       "duration_ms": 166453,
       "name": "Silencio roto",
       "url": "https://open.spotify.com/track/4Tj1XMpVCn07xKWkNjk5C5"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Tributo por la Pasta",
+        "url": "https://open.spotify.com/album/5W73AcIrHrICmPepzeyxwd"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "duration_ms": 150813,
+      "name": "Tributo por la Pasta",
+      "url": "https://open.spotify.com/track/0EUrfc9xoOpBgGBvD5F0et"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1351,30 +1351,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "El Infierno Es Demasiado Dulce",
-        "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
+        "name": "Libre y Salvaje",
+        "url": "https://open.spotify.com/album/1kl7bpPTQQaFBr8wG6iKdS"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+          "name": "Bicho Pap\u00e3o",
+          "url": "https://open.spotify.com/artist/5RKgBCziINv0ItycupgH3U"
         },
         {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        },
-        {
-          "name": "Yugular",
-          "url": "https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM"
-        },
-        {
-          "name": "Odio a Muerte",
-          "url": "https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS"
+          "name": "Presi\u00f3n",
+          "url": "https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI"
         }
       ],
-      "duration_ms": 170290,
-      "name": "El Infierno Es Demasiado Dulce",
-      "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
+      "duration_ms": 196545,
+      "name": "Libre y Salvaje",
+      "url": "https://open.spotify.com/track/2t7r2yemAOH1Bua8VAjcst"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1411,22 +1403,30 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Libre y Salvaje",
-        "url": "https://open.spotify.com/album/1kl7bpPTQQaFBr8wG6iKdS"
+        "name": "El Infierno Es Demasiado Dulce",
+        "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
       "artists": [
         {
-          "name": "Bicho Pap\u00e3o",
-          "url": "https://open.spotify.com/artist/5RKgBCziINv0ItycupgH3U"
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
         },
         {
-          "name": "Presi\u00f3n",
-          "url": "https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI"
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        },
+        {
+          "name": "Yugular",
+          "url": "https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM"
+        },
+        {
+          "name": "Odio a Muerte",
+          "url": "https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS"
         }
       ],
-      "duration_ms": 196545,
-      "name": "Libre y Salvaje",
-      "url": "https://open.spotify.com/track/2t7r2yemAOH1Bua8VAjcst"
+      "duration_ms": 170290,
+      "name": "El Infierno Es Demasiado Dulce",
+      "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Maldito Diablo",
+        "url": "https://open.spotify.com/album/5q1CMadsFjRRZNnl4Arkdi"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Maldito Diablo",
+      "url": "https://open.spotify.com/track/5QrdnEBmuq3D9QIBfmAC9l"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
       },
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Maldito Diablo",
-        "url": "https://open.spotify.com/album/5q1CMadsFjRRZNnl4Arkdi"
-      },
-      "artists": [
-        {
-          "name": "A Granel",
-          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Maldito Diablo",
-      "url": "https://open.spotify.com/track/5QrdnEBmuq3D9QIBfmAC9l"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
-      },
-      "artists": [
-        {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        }
-      ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 124853,
       "name": "Mi Mejor Colega - original",
       "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2025-01-09 23:00:19",
-      "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1579,6 +1547,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2025-01-09 23:00:19",
+      "album": {
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2025-01-09 23:00:19",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2025-01-09 23:00:19",
       "album": {
-        "name": "Envenenado",
-        "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
+        "name": "Semeya de la Rabia",
+        "url": "https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F"
       },
       "artists": [
         {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+          "name": "Skontra",
+          "url": "https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi"
+        },
+        {
+          "name": "Odio Visceral",
+          "url": "https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Nos Enga\u00f1an - original",
-      "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
+      "duration_ms": 242320,
+      "name": "Y sigo en pie",
+      "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

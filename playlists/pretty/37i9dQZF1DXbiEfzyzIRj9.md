@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > Curated by <a href="https://www.instagram.com/fullhouse.jpn/">FULLHOUSE</a> for top 20 tracks🤝 // 国内外のオルタナティブダンスミュージックを特集。 Cover: FULLHOUSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,851 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,848 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

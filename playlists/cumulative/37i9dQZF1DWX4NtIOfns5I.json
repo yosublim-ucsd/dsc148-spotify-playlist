@@ -6285,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "The Portlaoise Queen",
+        "url": "https://open.spotify.com/album/1tawGB0KSAKlnZ2VvGBzyJ"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350936,
+      "name": "The Portlaoise Queen",
+      "url": "https://open.spotify.com/track/50hRY8GsRdk2VUpCf33HNO"
+    },
+    {
+      "album": {
         "name": "The Prodigal",
         "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
       },

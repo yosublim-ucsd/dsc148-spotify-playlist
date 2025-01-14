@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,352 songs - 7 day 10 hr 34 min
+3,353 songs - 7 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,7 @@
 | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2022-12-11 | 2022-12-28 |
 | [Deritaku](https://open.spotify.com/track/5lJZk0unuxPH3sp9NQr7Rh) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Di Dalam Jiwa](https://open.spotify.com/album/1kyeyIhAss4ijrem8biNIh) | 4:37 | 2022-11-06 | 2022-11-15 |
 | [Desce Talarica](https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/5QvJ9V1Zt3SAFBsSF8Homx) | 1:49 | 2023-02-05 | 2023-02-15 |
-| [Descer Pra BC](https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Descer Pra BC](https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal) | 2:46 | 2024-12-03 |  |
+| [Descer Pra BC](https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Descer Pra BC](https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal) | 2:46 | 2024-12-03 | 2025-01-14 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-30 | 2022-05-07 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-24 | 2022-06-15 |
 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-10-10 | 2022-10-31 |
@@ -2481,6 +2481,7 @@
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-15 | 2022-05-29 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-04-19 | 2023-05-16 |
 | [Roman Picisan](https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Roman Picisan](https://open.spotify.com/album/44cPwHYWVAm8DQruNmojpu) | 5:01 | 2021-12-28 | 2021-12-30 |
+| [Romance Fdp](https://open.spotify.com/track/28m43rfXTN3vJseUZbenTY) | [DJ Voltz](https://open.spotify.com/artist/6q6fM6TNV6HBQ6vOidAfLo), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [FreesTyle Sounds](https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI) | [Romance Fdp](https://open.spotify.com/album/0mxdIehDYd7hCDrdk2mhUT) | 1:31 | 2025-01-13 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-24 | 2022-11-20 |
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2022-08-16 | 2022-08-25 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-09 | 2023-08-23 |

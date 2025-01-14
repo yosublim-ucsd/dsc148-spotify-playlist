@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "album": {
         "name": "Anatomy of a Murder",
         "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
       },
@@ -562,6 +580,28 @@
     {
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u"
+      },
+      "artists": [
+        {
+          "name": "Robin Williams",
+          "url": "https://open.spotify.com/artist/4OrieSJUghNfNx5UuPCgxF"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Friend Like Me",
+      "url": "https://open.spotify.com/track/70uZXOG2KTAHwcAgp4QyYr"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },
       "artists": [
@@ -572,7 +612,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 155531,
       "name": "Friend Like Me",
       "url": "https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H"
@@ -876,7 +916,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 217786,
       "name": "If I Didn't Have You - From \"Monsters, Inc.\"/Soundtrack",
       "url": "https://open.spotify.com/track/3KpnubsN3MyX57Eme6pJIb"

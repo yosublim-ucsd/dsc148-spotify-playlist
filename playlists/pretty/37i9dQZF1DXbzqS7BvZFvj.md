@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YZERR
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,523 likes - 83 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,520 likes - 83 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

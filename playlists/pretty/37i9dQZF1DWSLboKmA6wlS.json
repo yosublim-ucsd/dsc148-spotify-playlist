@@ -1,6 +1,6 @@
 {
   "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE. Artwork: Isu Kim",
-  "num_followers": 8817,
+  "num_followers": 8816,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z4AoJAAAAABt1yZJ4zO1muaiuqlZBNEZ",
   "tracks": [
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "Ghosted",
-        "url": "https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz"
-      },
-      "artists": [
-        {
-          "name": "Kakagoesbackhome",
-          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Ghosted",
-      "url": "https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o"
-    },
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 326197,
       "name": "\u0e17\u0e30\u0e40\u0e25\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7hJ3WaX8Uedn1K5xPy0p58"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
+        "name": "Ghosted",
+        "url": "https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz"
+      },
+      "artists": [
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Ghosted",
+      "url": "https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/5gMczHjzZptmLMxJL5lfzy"
+      },
+      "artists": [
+        {
+          "name": "Yellow Mellow",
+          "url": "https://open.spotify.com/artist/2oPqJUSdaQWgPscSR68xbV"
+        }
+      ],
+      "duration_ms": 277974,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4nihsqtIVsBdyZQBHQWxo1"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
         "name": "\u0e08\u0e32\u0e01\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e25\u0e32 (YT-1300)",
         "url": "https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq"
       },
@@ -307,38 +323,6 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
-        "url": "https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee"
-      },
-      "artists": [
-        {
-          "name": "Chameen",
-          "url": "https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/5gMczHjzZptmLMxJL5lfzy"
-      },
-      "artists": [
-        {
-          "name": "Yellow Mellow",
-          "url": "https://open.spotify.com/artist/2oPqJUSdaQWgPscSR68xbV"
-        }
-      ],
-      "duration_ms": 277974,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4nihsqtIVsBdyZQBHQWxo1"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
         "name": "Lost.",
         "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL"
+        "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee"
       },
       "artists": [
         {
-          "name": "KEEPBOYS",
-          "url": "https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx"
+          "name": "Chameen",
+          "url": "https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv"
         }
       ],
-      "duration_ms": 211440,
-      "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG"
+      "duration_ms": 227500,
+      "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -383,22 +367,6 @@
       "duration_ms": 270166,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
       "url": "https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
-        "url": "https://open.spotify.com/album/16aulQnbsgdsvQAJYiEiKO"
-      },
-      "artists": [
-        {
-          "name": "Topeople",
-          "url": "https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c"
-        }
-      ],
-      "duration_ms": 236225,
-      "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
-      "url": "https://open.spotify.com/track/2BLJyyfby2e0wTY6gwSJDL"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -431,6 +399,38 @@
       "duration_ms": 223200,
       "name": "1+1 = \u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/1WVqZ30UFs4eE3oHkzqmbE"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
+        "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL"
+      },
+      "artists": [
+        {
+          "name": "KEEPBOYS",
+          "url": "https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
+        "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/16aulQnbsgdsvQAJYiEiKO"
+      },
+      "artists": [
+        {
+          "name": "Topeople",
+          "url": "https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c"
+        }
+      ],
+      "duration_ms": 236225,
+      "name": "694\u0e27\u0e31\u0e19(\u0e01\u0e48\u0e2d\u0e19\u0e09\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/2BLJyyfby2e0wTY6gwSJDL"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -643,18 +643,18 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
-        "url": "https://open.spotify.com/album/4iAgQogboRb3ahlw9v6IiQ"
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/5WwJStCxtsBCqDzaSLnRJI"
       },
       "artists": [
         {
-          "name": "TANASA",
-          "url": "https://open.spotify.com/artist/0kzpmMLLDmuE6fv4T9tWFV"
+          "name": "REDBONEZ",
+          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
         }
       ],
-      "duration_ms": 195513,
-      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
-      "url": "https://open.spotify.com/track/3QUmdM5zI6jHd1Eukn9tkH"
+      "duration_ms": 242823,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/143rW7m2jOty3wei4nqcA8"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/5WwJStCxtsBCqDzaSLnRJI"
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
+        "url": "https://open.spotify.com/album/4iAgQogboRb3ahlw9v6IiQ"
       },
       "artists": [
         {
-          "name": "REDBONEZ",
-          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
+          "name": "TANASA",
+          "url": "https://open.spotify.com/artist/0kzpmMLLDmuE6fv4T9tWFV"
         }
       ],
-      "duration_ms": 242823,
-      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/143rW7m2jOty3wei4nqcA8"
+      "duration_ms": 195513,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
+      "url": "https://open.spotify.com/track/3QUmdM5zI6jHd1Eukn9tkH"
     },
     {
       "added_at": "2025-01-09 19:48:51",

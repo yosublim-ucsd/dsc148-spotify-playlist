@@ -1,12 +1,12 @@
 {
   "description": "The best of right now. Cover: Wallows",
-  "num_followers": 2068747,
+  "num_followers": 2068720,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpdgAAAABTMOY1oeKjvNQkiweJXLR+",
+  "snapshot_id": "Z4V2cQAAAACsupU/TkUcABc5q2R+WRAH",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:38",
@@ -39,22 +39,6 @@
       "duration_ms": 187666,
       "name": "Your New Favorite Song",
       "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:24",
-      "album": {
-        "name": "Merry Christmas, Please Don't Call",
-        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 202132,
-      "name": "Merry Christmas, Please Don't Call",
-      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
     },
     {
       "added_at": "2025-01-03 05:00:24",

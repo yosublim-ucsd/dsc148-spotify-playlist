@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-830 songs - 1 day 11 hr 51 min
+832 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2022-10-07 | 2023-08-19 |
 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Etude Number 3 Op.60](https://open.spotify.com/track/3JvAVOKhKA7HwhzZTPwTtN) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Etude Number 3 Op.60](https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8) | 2:31 | 2021-12-08 | 2022-07-01 |
+| [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 | 2025-01-13 |  |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-28 |  |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 | 2022-07-22 |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2022-10-28 | 2023-08-19 |
@@ -254,6 +255,7 @@
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-19 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2022-10-29 |
 | [Finally Home](https://open.spotify.com/track/3pnosLGt9HFkwCCSrP3SvV) | [Matteo Palmer](https://open.spotify.com/artist/4eOsxaC4lj75U7Qtcbxwn8) | [Finally Home](https://open.spotify.com/album/7p32mbdnUWUY50DzktIjzw) | 1:51 | 2022-11-18 | 2023-06-09 |
+| [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-13 |  |
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 | 2023-08-19 |
 | [First Summer](https://open.spotify.com/track/5CN8PwywMgClQGFVARHVLa) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [First Summer](https://open.spotify.com/album/6iPLLciakfCdwUj7KReQZJ) | 3:02 | 2024-05-31 |  |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 | 2023-08-19 |
@@ -776,7 +778,7 @@
 | [Upon A Distant Plateau](https://open.spotify.com/track/41a0ZSdUfvojOPkJtkuk9p) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Upon A Distant Plateau](https://open.spotify.com/album/1nDJijrMW8Y1LBNfU5EnE9) | 2:08 | 2022-11-18 | 2023-06-09 |
 | [Vacilando](https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Vacilando](https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp) | 2:15 | 2022-06-03 | 2022-06-10 |
 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 | 2023-05-13 |
-| [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 |  |
+| [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 | 2025-01-14 |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2021-12-08 | 2023-05-13 |
 | [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 | 2024-11-11 |  |
 | [Vanja](https://open.spotify.com/track/7lyDrjn4e8BCszy5o7tNuk) | [Lukas Rosendal](https://open.spotify.com/artist/3gvOqk86iSqfIsY4jceRDy) | [Askja](https://open.spotify.com/album/3GMGYp6kdBbD4e897A6IkT) | 2:21 | 2021-12-08 | 2022-07-01 |

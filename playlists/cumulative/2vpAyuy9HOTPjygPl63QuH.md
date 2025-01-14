@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,063 songs - 4 day 20 hr 54 min
+2,064 songs - 4 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -972,6 +972,7 @@
 | [La Negra](https://open.spotify.com/track/4By7hTwSzN65FT3wfgDUCp) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Justo Valdes](https://open.spotify.com/artist/0t4tk9VrtbCUF4CNyjPDbj) | [Le Negra](https://open.spotify.com/album/2FvrOZF3pfi3kG5BrKKRE7) | 2:23 | 2024-03-29 | 2024-05-02 |
 | [La Niña \- Rework](https://open.spotify.com/track/3LOZGYbKkMl2itZ8AArgde) | [Mau Bacarreza](https://open.spotify.com/artist/6kX9eGc38GTq3cczPwceD5), [Octavio Souza](https://open.spotify.com/artist/1ovaFf53krTsVvuJQE25RS) | [La Niña](https://open.spotify.com/album/0vWbeg0nOXr1TUIi7jMRym) | 5:05 | 2024-01-20 | 2024-01-28 |
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-17 | 2023-03-25 |
+| [La Tengo](https://open.spotify.com/track/4qpc48pFG6GKtrq1VM0MOL) | [Milan](https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A) | [La Tengo EP](https://open.spotify.com/album/5WYfSjuJZcjxjUG3wijbWE) | 3:41 | 2025-01-13 |  |
 | [La Vida](https://open.spotify.com/track/6DKnfTDqRV6UXfbtIXMYZn) | [Gibson Parker](https://open.spotify.com/artist/7pmS98qub9BnSfqTHvogQD), [Jon Milk](https://open.spotify.com/artist/532lWG2ChILJOu6O9qTbGF) | [La Vida](https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq) | 3:12 | 2022-12-16 | 2023-01-07 |
 | [LALALA](https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [LALALA](https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW) | 2:49 | 2023-10-27 | 2023-11-10 |
 | [Lamar](https://open.spotify.com/track/3dLSeHlZzHOtR80FZOh7iM) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Lamar](https://open.spotify.com/album/4c5Gfky06RAq4RB3HkYYO9) | 2:50 | 2023-06-27 | 2023-07-01 |

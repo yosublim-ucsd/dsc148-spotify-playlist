@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2SJ4K6IpVlsaFEwUm9LcIJ.md) - cumulative - [plain](/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2SJ4K6IpVlsaFEwUm9LcIJ)
 
-### [moving on, letting go](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
+### [something new](https://open.spotify.com/playlist/2SJ4K6IpVlsaFEwUm9LcIJ)
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-418 songs - 23 hr 12 min
+420 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 | 2025-01-12 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
+| [City Nights \- Remastered](https://open.spotify.com/track/3OGz14dnKpsDvBaoDgPuXK) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Secrets \(Remastered\)](https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq) | 2:33 | 2025-01-13 |  |
 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 | 2024-11-15 | 2024-11-20 |
 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 | 2024-10-18 | 2024-11-14 |
 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 | 2024-04-10 | 2024-05-16 |
@@ -270,6 +271,7 @@
 | [Ohio](https://open.spotify.com/track/7CQvwewBvkpX67eLoYqetW) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [OH \(Ohio\)](https://open.spotify.com/album/6BQv93NiGNNikZ3QrHacFh) | 2:24 | 2024-04-25 | 2024-05-16 |
 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 | 2024-03-20 | 2024-05-16 |
 | [Older Girlfriend](https://open.spotify.com/track/35cOIlpsujIkwOKU3nP5kz) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Big Fall](https://open.spotify.com/album/72T9QLgSceh15vOo4PxUck) | 1:52 | 2024-05-16 | 2024-07-12 |
+| [Olhaí](https://open.spotify.com/track/3KXFc8Zlr5ydDf8BzBzdVw) | [Johnny Alf](https://open.spotify.com/artist/6aewGwsqlu1cmev2xBJoht) | [Cool Brasil](https://open.spotify.com/album/2Stcce45r02GpUolhkFMEl) | 2:46 | 2025-01-14 |  |
 | [On Box Hill](https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66) | [North Marine Drive](https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2) | 2:27 | 2024-05-26 | 2024-07-12 |
 | [On Returning \- 2006 Remastered Version](https://open.spotify.com/track/4JILOKNjlAzjCFlJlR6ouI) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [154 \(2006 Remastered Version\)](https://open.spotify.com/album/2ajuLWJSuzHFeTceC1A4bW) | 2:06 | 2024-01-15 | 2024-03-10 |
 | [On The Train](https://open.spotify.com/track/5Dw1XDLQqqCf2OCnJwvcQm) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Present Company](https://open.spotify.com/album/4rxGfUytpBrNvaDDbZVpAj) | 1:36 | 2024-05-16 | 2024-07-12 |

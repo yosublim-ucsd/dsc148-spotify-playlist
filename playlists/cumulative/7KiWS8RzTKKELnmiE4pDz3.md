@@ -4,7 +4,7 @@
 
 > 
 
-874 songs - 1 day 18 hr 10 min
+875 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [40 FLOORS UP](https://open.spotify.com/track/2oqp5mVMAg1kzlO72bBfKk) | [King Kobi](https://open.spotify.com/artist/0eJzTpGGbLbiuvEo7pIyOk), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [444 Degrees](https://open.spotify.com/album/67XJX8IlsbQdtecOYZ9EVO) | 2:47 | 2022-10-28 | 2023-05-09 |
 | [400$ Shirt](https://open.spotify.com/track/0k5GBEHir5idlnh5a1RQ7Y) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 1:44 | 2022-09-10 | 2023-12-14 |
 | [4GSELLER!](https://open.spotify.com/track/1kUqWeF4LWFS2yKXUPxOr8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [4GSELLER!](https://open.spotify.com/album/3hkPn4MduPqqldE5adcmHA) | 2:33 | 2023-07-25 | 2024-03-05 |
+| [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-13 |  |
 | [528\-CASH](https://open.spotify.com/track/5ignItAI99TRC9NWluxrtX) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 2:18 | 2024-12-15 |  |
 | [55 Lifestyle](https://open.spotify.com/track/7eUvg5UEG8AVyWKGWm7Lj1) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:22 | 2022-10-04 | 2023-04-12 |
 | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS) | 2:58 | 2024-11-05 |  |

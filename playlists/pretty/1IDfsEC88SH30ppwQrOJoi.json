@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14396,
+  "num_followers": 14393,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKKg6P77PcMA1+WwlJp+iIKSFo/WMD",
+  "snapshot_id": "AAAKKw4ZmqkoOXJPq0RKD+5aj9Jg2e87",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1851,6 +1851,26 @@
       "duration_ms": 156923,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/15RRojwJin9SYzZopZ8PDm"
+    },
+    {
+      "added_at": "2025-01-13 14:05:42",
+      "album": {
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
     }
   ],
   "unique_name": "Ultra Club Hits",

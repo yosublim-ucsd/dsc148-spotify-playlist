@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 46948,
+  "num_followers": 46975,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "El Costado Izquierdo",
+        "url": "https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 243104,
+      "name": "S\u00f3lo por Hoy (Chica Oriental)",
+      "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "El Costado Izquierdo",
-        "url": "https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 243104,
-      "name": "S\u00f3lo por Hoy (Chica Oriental)",
-      "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Destilar",
+        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "La Luna de Neuqu\u00e9n",
+      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Bandera",
         "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 193246,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Destilar",
-        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "La Luna de Neuqu\u00e9n",
-      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "\u00c9rase",
+        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Aunque No Quiero",
-      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+      "duration_ms": 195240,
+      "name": "Ves",
+      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Aunque No Quiero",
+      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 306419,
       "name": "Canci\u00f3n para un Amigo",
       "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "\u00c9rase",
-        "url": "https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Ves",
-      "url": "https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn"
     },
     {
       "added_at": "2024-06-12 22:23:25",

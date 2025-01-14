@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 ### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
 
-> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:playlist:37i9dQZF1EFLc8MZUkV3RI">Alissa</a>
+> Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:playlist:37i9dQZF1EFLc8MZUkV3RI">Alissia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,222 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,284 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [PEGA'](https://open.spotify.com/track/7jBx1tuWEpbUVutSWNgkql) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 2:28 |
 | 50 | [Romcom](https://open.spotify.com/track/3gIrQJjm5J7SETxwnWGGwf) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Romcom](https://open.spotify.com/album/7mduzb1dNnMVV78Fj18hsK) | 3:32 |
 
-Snapshot ID: `Z4CpdwAAAAD8AfrorPo1W6rAUp47KnMp`
+Snapshot ID: `Z4VAkgAAAAAX+aQjZ6dIc7VTpLuP1eWT`

@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "BOGOT\u00c0",
+        "url": "https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4"
+      },
+      "artists": [
+        {
+          "name": "Cioffi",
+          "url": "https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "BOGOT\u00c0",
+      "url": "https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8"
+    },
+    {
+      "album": {
         "name": "bolle blu",
         "url": "https://open.spotify.com/album/1MCyQ5a7rlznH3tVZQKgJP"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 167272,
       "name": "Che La Vita Ti Sorprenda!",
       "url": "https://open.spotify.com/track/3hI2JnhumgwS9H8ygc9Eqr"

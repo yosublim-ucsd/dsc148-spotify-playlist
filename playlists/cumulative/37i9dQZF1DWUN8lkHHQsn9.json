@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Najlepsze utwory GLOW Polska w 2024 wed\u0142ug naszej redakcji. Cover: Zamilska",
-  "name": "Best of GLOW Polska 2024",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5AJmpeCmtxFKcNY6bjotWd\">Rejsel</a>",
+  "name": "GLOW Polska",
   "tracks": [
     {
       "album": {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 170964,
       "name": "BLUZA",
       "url": "https://open.spotify.com/track/4Es3XsALRrkzAJw2PXel9J"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 216860,
       "name": "Bolt",
       "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 146181,
       "name": "bulletproof",
       "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 251586,
       "name": "Chodzili\u015bmy nocami",
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 364893,
       "name": "Chwila",
       "url": "https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
@@ -614,6 +614,24 @@
       "duration_ms": 182560,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO"
+    },
+    {
+      "album": {
+        "name": "CO MAM ZROBI\u0106",
+        "url": "https://open.spotify.com/album/6KzezuOKK12y86nWAbezNg"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212508,
+      "name": "CO MAM ZROBI\u0106",
+      "url": "https://open.spotify.com/track/6JddAEkM0eTGKlWMlpFAn9"
     },
     {
       "album": {
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 263614,
       "name": "Deadfall",
       "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 172750,
       "name": "December",
       "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 142500,
       "name": "deszcz",
       "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 177113,
       "name": "Diva (feat. Lolita Leopard)",
       "url": "https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 164404,
       "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
       "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 185426,
       "name": "Do odwa\u017cnych",
       "url": "https://open.spotify.com/track/4XBhyY0vwANhJKvmHQ8ous"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 194250,
       "name": "Dok\u0105d biegn\u0119",
       "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 209706,
       "name": "dotkliwie",
       "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 260125,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 189346,
       "name": "Haiku",
       "url": "https://open.spotify.com/track/2hyotqYlBosOjltO3id1eU"
@@ -1552,6 +1570,24 @@
       "duration_ms": 189346,
       "name": "Haiku",
       "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
+    },
+    {
+      "album": {
+        "name": "Not My First Rodeo",
+        "url": "https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307213,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7"
     },
     {
       "album": {
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 217509,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 211759,
       "name": "HEAVY ENERGY",
       "url": "https://open.spotify.com/track/26P79iGFemQkismeCgLN4m"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 130000,
       "name": "HERBATA",
       "url": "https://open.spotify.com/track/1uktFVMS9lSpUqWb0GzGlc"
@@ -1728,7 +1764,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 202769,
       "name": "HOTEL PLAZA",
       "url": "https://open.spotify.com/track/0sRWyRBQyyBpmM4CLNiwsh"
@@ -1750,6 +1786,24 @@
       "duration_ms": 288480,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
+    },
+    {
+      "album": {
+        "name": "I like that",
+        "url": "https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135978,
+      "name": "I like that",
+      "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
     },
     {
       "album": {
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 180983,
       "name": "IKONA",
       "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
@@ -1818,7 +1872,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 180983,
       "name": "IKONA",
       "url": "https://open.spotify.com/track/6dJZ8CtRtuYeNjrYNct2Is"
@@ -1836,7 +1890,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 151662,
       "name": "inne tytu\u0142y",
       "url": "https://open.spotify.com/track/47U8Ct4AxwA70MTz3abewU"
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 199500,
       "name": "Jak smakuje pe\u0142nia",
       "url": "https://open.spotify.com/track/2R2upuEJeoEfS5frDFbJ1h"
@@ -1926,7 +1980,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 211893,
       "name": "je\u015bli chcesz mnie",
       "url": "https://open.spotify.com/track/101GNvx8Kxx3oOg3ZOU86X"
@@ -2002,6 +2056,28 @@
       "duration_ms": 140307,
       "name": "Kapita\u0142",
       "url": "https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj"
+    },
+    {
+      "album": {
+        "name": "KURWOKSI\u0118STWO: Geneza",
+        "url": "https://open.spotify.com/album/7l1DRjAZx61A5kGJi112Ph"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284307,
+      "name": "Kaznodzieja",
+      "url": "https://open.spotify.com/track/7svZf11mir24xMYC4rWZ0t"
     },
     {
       "album": {
@@ -2092,7 +2168,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 166725,
       "name": "KOTD",
       "url": "https://open.spotify.com/track/3LqT1F1XBeZOfKFOJOKZiw"
@@ -2114,7 +2190,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "KO\u0141YSANKA",
       "url": "https://open.spotify.com/track/2kmLfIZzgWmizrH7RRpWEG"
@@ -2204,7 +2280,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "Lesbijski Groove",
       "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
@@ -2373,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Mam co\u015b na bani",
+        "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275299,
+      "name": "Mam co\u015b na bani",
+      "url": "https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra"
+    },
+    {
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/3uZavgVWgmIxtjuRvhkUrV"
       },
@@ -2406,7 +2500,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 292000,
       "name": "maybe someday",
       "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
@@ -2428,7 +2522,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 338446,
       "name": "Me Me Me",
       "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
@@ -2464,7 +2558,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 252113,
       "name": "Miasto",
       "url": "https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn"
@@ -2590,7 +2684,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 196982,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
@@ -2626,7 +2720,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 205750,
       "name": "moonlight story",
       "url": "https://open.spotify.com/track/4qwjiLoQ08r4IjuwyAekMI"
@@ -2698,7 +2792,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 199826,
       "name": "nawet nie wiesz",
       "url": "https://open.spotify.com/track/6RFJkpq8vl9rDGhNEWMaoD"
@@ -2774,7 +2868,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
@@ -2828,7 +2922,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 215629,
       "name": "Nie ma szans",
       "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
@@ -2980,7 +3074,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 136448,
       "name": "No Gods",
       "url": "https://open.spotify.com/track/4lMcI7Y92XYAXS6eCPikI2"
@@ -3020,7 +3114,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 176500,
       "name": "Nowhere to Go",
       "url": "https://open.spotify.com/track/6tjgcuQ0GVd8woWQHDBp5I"
@@ -3074,7 +3168,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 143443,
       "name": "oddaj\u0119 Ci melodi\u0119",
       "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
@@ -3114,7 +3208,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 213351,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/1cXXOOB6nyVcpdimVPhyG4"
@@ -3136,7 +3230,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 213351,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
@@ -3176,7 +3270,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 194893,
       "name": "Once or Twice",
       "url": "https://open.spotify.com/track/4LThfO3v9lOyfgxhDz0Nz0"
@@ -3194,7 +3288,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Oprawieni Idole",
       "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
@@ -3248,7 +3342,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 179400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
@@ -3266,7 +3360,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 177846,
       "name": "Pani Baudelaire",
       "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
@@ -3302,7 +3396,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 159545,
       "name": "Peccatum",
       "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
@@ -3400,7 +3494,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 226893,
       "name": "po m\u0119sku",
       "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
@@ -3418,7 +3512,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 226893,
       "name": "po m\u0119sku",
       "url": "https://open.spotify.com/track/5cJCH8nwrVdbQeOzW9y6XT"
@@ -3436,7 +3530,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
@@ -3600,7 +3694,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 125217,
       "name": "POKOCHA\u0141EM SZARO\u015a\u0106",
       "url": "https://open.spotify.com/track/1gh7empiAfuMBQXaL88NIv"
@@ -3684,7 +3778,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 243062,
       "name": "Polska",
       "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
@@ -3738,7 +3832,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Prawda",
       "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
@@ -3792,7 +3886,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Priorytety",
       "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
@@ -3828,7 +3922,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 183178,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
@@ -3846,7 +3940,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
@@ -3922,7 +4016,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 168224,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
@@ -4030,7 +4124,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 212368,
       "name": "rozbijam si\u0119",
       "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
@@ -4048,7 +4142,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 212368,
       "name": "rozbijam si\u0119",
       "url": "https://open.spotify.com/track/4gRgEhfaTwPI9EevTrPdF3"
@@ -4088,7 +4182,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 229639,
       "name": "rozum/serce",
       "url": "https://open.spotify.com/track/6JE7556vi3OAyL4McVtLN8"
@@ -4142,7 +4236,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
@@ -4160,7 +4254,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "Sama s\u0142uchaj",
       "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
@@ -4250,7 +4344,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
@@ -4320,7 +4414,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
@@ -4374,7 +4468,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
@@ -4392,7 +4486,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 262014,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
@@ -4414,7 +4508,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 211987,
       "name": "stara kociara",
       "url": "https://open.spotify.com/track/76jHUKFrFznUArEAUhvOrX"
@@ -4486,7 +4580,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 205502,
       "name": "Stukamy si\u0119 browarami",
       "url": "https://open.spotify.com/track/6DGKZa9QAHd6Wv9iuUjOWo"
@@ -4652,7 +4746,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 294137,
       "name": "Tam",
       "url": "https://open.spotify.com/track/12IjsVPfL2NR4Wbjns9Zpt"
@@ -4688,7 +4782,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
@@ -4706,7 +4800,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 210786,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
@@ -4724,7 +4818,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 210786,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/27m06XHxudqUhQy74wtIhv"
@@ -4772,7 +4866,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
@@ -4808,7 +4902,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 201082,
       "name": "To nie tak mia\u0142o p\u00f3j\u015b\u0107",
       "url": "https://open.spotify.com/track/2Oc9oU96I7xsL5xsyB5aJw"
@@ -4888,7 +4982,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
@@ -4975,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "album": {
         "name": "Lesbijski Groove",
         "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
       },
@@ -5022,7 +5134,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 165783,
       "name": "Wczorajsza Skrajno\u015b\u0107",
       "url": "https://open.spotify.com/track/6izw5ZldxPYys4xZK9CWgm"
@@ -5058,7 +5170,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 184000,
       "name": "where did you go?",
       "url": "https://open.spotify.com/track/3SjahwZPja8iGOVH57pYs3"
@@ -5124,7 +5236,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 192631,
       "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
       "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
@@ -5178,7 +5290,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
@@ -5214,7 +5326,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 177842,
       "name": "Wsz\u0119dzie \u017boliborze",
       "url": "https://open.spotify.com/track/6r2m3CcgmFrrYk3TvWjumF"
@@ -5272,7 +5384,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 136595,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
@@ -5432,10 +5544,32 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "Zrobi\u0142am bardzo",
       "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
+    },
+    {
+      "album": {
+        "name": "z\u0142y",
+        "url": "https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        },
+        {
+          "name": "bieran",
+          "url": "https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "z\u0142y",
+      "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
     },
     {
       "album": {
@@ -5486,7 +5620,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 178548,
       "name": "\u015bwiat lepiej smakuje",
       "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"

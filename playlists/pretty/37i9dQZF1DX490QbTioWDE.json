@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Yami Safdie & Q\u00b4 Lokura.",
-  "num_followers": 741167,
+  "num_followers": 741504,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -927,8 +927,8 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "En la cara (En Vivo)",
-        "url": "https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE"
+        "name": "Todavia voy bien (En Vivo)",
+        "url": "https://open.spotify.com/album/2a0KHfUSRJ8EZuKZVP7bfz"
       },
       "artists": [
         {
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         },
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
         }
       ],
-      "duration_ms": 177508,
-      "name": "En la cara - En Vivo",
-      "url": "https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY"
+      "duration_ms": 165499,
+      "name": "Todavia voy bien - En Vivo",
+      "url": "https://open.spotify.com/track/0WLdVvEvYTyoMu429NUHpS"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 207843,
       "name": "Si Fuera Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 331160,
       "name": "Ramito de violetas",
       "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+        "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+      "duration_ms": 204705,
+      "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
       },
       "artists": [
         {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
+        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 275888,
+      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
         "name": "Beso a Beso (con La Mona)",
         "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 303253,
       "name": "Beso a beso",
       "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
-        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 275888,
-      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
         "name": "En El Gran Rex",
         "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
         }
       ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1527,22 +1523,6 @@
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
         "name": "No me restes (En Vivo)",
         "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
       },
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Somos Todos",
-        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
+        "name": "Con el Coraz\u00f3n en la Mano",
+        "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
       },
       "artists": [
         {
@@ -1684,9 +1684,25 @@
           "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
         }
       ],
-      "duration_ms": 271516,
-      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
-      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
+      "duration_ms": 173640,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
       "artists": [
         {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+      "duration_ms": 263986,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Luis",
-        "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Luis",
-      "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
         "name": "De Nada",
         "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
       },
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Con el Coraz\u00f3n en la Mano",
-        "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
+        "name": "Somos Todos",
+        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
       },
       "artists": [
         {
@@ -1788,9 +1788,9 @@
           "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
         }
       ],
-      "duration_ms": 173640,
-      "name": "En Libertad",
-      "url": "https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855"
+      "duration_ms": 271516,
+      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
+      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
     },
     {
       "added_at": "2025-01-10 03:00:24",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-01-10 03:00:24",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2025-01-10 03:00:24",
-      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
+    },
+    {
+      "added_at": "2025-01-10 03:00:24",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     }
   ],
   "unique_name": "100% Cuarteto",

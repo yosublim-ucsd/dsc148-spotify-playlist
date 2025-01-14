@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 174193,
       "name": "All about you - Radio Edit",
       "url": "https://open.spotify.com/track/3dKcM8hjODNymMKhWWHi47"
@@ -24402,7 +24402,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 126087,
       "name": "Lovebug",
       "url": "https://open.spotify.com/track/1yrJUCAlPGOmGJWjG8eGJa"
@@ -24634,7 +24634,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -35477,6 +35477,24 @@
     },
     {
       "album": {
+        "name": "Sk\u00ednum sk\u00e6rt (Lokalag - Krakkaskaupi\u00f0 2024)",
+        "url": "https://open.spotify.com/album/2GLxKwNQR8YJJdrxvzk6Op"
+      },
+      "artists": [
+        {
+          "name": "Krakkaskaup R\u00daV",
+          "url": "https://open.spotify.com/artist/3aI4Uns8ZQsJ0S07lTxnjf"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Sk\u00ednum sk\u00e6rt (Lokalag - Krakkaskaupi\u00f0 2024)",
+      "url": "https://open.spotify.com/track/16NKE5MyO7AOnCyYoN41L2"
+    },
+    {
+      "album": {
         "name": "Fram \u00ed rau\u00f0an dau\u00f0ann",
         "url": "https://open.spotify.com/album/5JV5uYskBZaXI9X6WlOsKx"
       },
@@ -44892,7 +44910,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -48170,7 +48188,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 82285,
       "name": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d\u043d\u044b\u04a3 A\u049b\u0448\u0430\u0441\u044b",
       "url": "https://open.spotify.com/track/7eqImEZtHZh8a2ASwGJqwb"

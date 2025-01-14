@@ -18817,6 +18817,24 @@
     },
     {
       "album": {
+        "name": "mice band",
+        "url": "https://open.spotify.com/album/4UH7rJDKBJu36MyzCeGTtr"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88462,
+      "name": "mice band",
+      "url": "https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3"
+    },
+    {
+      "album": {
         "name": "Juno (Deluxe)",
         "url": "https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA"
       },

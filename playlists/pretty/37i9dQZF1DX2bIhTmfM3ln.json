@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 41179,
+  "num_followers": 41196,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "Mr Lover",
-        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Mr Lover",
-      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "Keep It Sexy",
         "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 159819,
       "name": "Keep It Sexy",
       "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
-      },
-      "artists": [
-        {
-          "name": "Jeff Akoh",
-          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
-        },
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "Diamond & Roses",
         "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 159587,
       "name": "Mad",
       "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
+      },
+      "artists": [
+        {
+          "name": "Jeff Akoh",
+          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 156891,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "Fine Girl",
-        "url": "https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 156891,
-      "name": "Fine Girl",
-      "url": "https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sara Jay",
-      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 168000,
       "name": "Ready",
       "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sara Jay",
+      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     }
   ],
   "unique_name": "Lovin' Beats",

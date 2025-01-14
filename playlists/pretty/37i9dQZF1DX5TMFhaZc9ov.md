@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,758 likes - 103 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,779 likes - 103 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

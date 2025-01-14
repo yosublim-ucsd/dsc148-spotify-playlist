@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP?si=fWY6qBuPRXWePg65rHXRRg>I\-Fee Sound</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,125 likes - 95 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,147 likes - 95 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

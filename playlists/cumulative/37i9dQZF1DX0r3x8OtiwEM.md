@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-676 songs - 2 day 18 hr 2 min
+677 songs - 2 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Actum \- Original Mix](https://open.spotify.com/track/190IMUj1GVx5nMl94bRS8O) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Actum](https://open.spotify.com/album/55RCckh6wsUQnxRKBUH4yP) | 6:21 | 2021-08-25 | 2021-08-26 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u dont want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2022-04-04 | 2024-09-16 |
 | [Aetheria](https://open.spotify.com/track/3e8YXxByr6ihoOfeBVcIkJ) | [Lost Rhythm](https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN) | [Ethereal Techno \#012: Aetheria](https://open.spotify.com/album/3zQ4lUg2UToHoh5ZWKAdX6) | 6:23 | 2022-10-07 | 2022-10-29 |
-| [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 | 2022-09-30 |  |
+| [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 | 2022-09-30 | 2025-01-14 |
 | [Agitation](https://open.spotify.com/track/6EZx0YpJHf6nwQT6bKXq1o) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Agitation](https://open.spotify.com/album/4FoS91xptdEBZeWq4ymeuO) | 8:40 | 2020-06-13 | 2022-05-22 |
 | [Ago](https://open.spotify.com/track/1B7BKz2nFVmfisdHq8ABDo) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Davide Randazzo](https://open.spotify.com/artist/5BpA0GeeQf2rhBLG9xXipw) | [Salt Ago](https://open.spotify.com/album/47zIpGFjB6UvxzUEsiWoOQ) | 7:01 | 2019-11-02 | 2021-02-12 |
 | [Agora](https://open.spotify.com/track/2ctwav21oEfQSxf3zWmsbb) | [Roumex](https://open.spotify.com/artist/6PMzrBpWzgAzj3yOGjwQJJ) | [Agora](https://open.spotify.com/album/1dwHTvaOCFXkBdUHc4bS9r) | 6:11 | 2019-10-10 | 2019-12-06 |
@@ -328,6 +328,7 @@
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 |  |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 | 2024-08-30 |
+| [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |

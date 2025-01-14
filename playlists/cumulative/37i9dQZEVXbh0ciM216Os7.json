@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 194455,
       "name": "247365",
       "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "All Business",
       "url": "https://open.spotify.com/track/1oFu0bg5nI7jvKFyQRMHUz"
@@ -7196,7 +7196,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Chi Mi Na Morbheanna - NYE Bash!",
       "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
@@ -12732,7 +12732,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
@@ -16312,7 +16312,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
@@ -16478,7 +16478,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
@@ -18632,7 +18632,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
@@ -21224,7 +21224,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 260019,
       "name": "K.O.T.J.",
       "url": "https://open.spotify.com/track/5GJhYH1QYXwKD7gTE39oyM"
@@ -22500,10 +22500,36 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 185666,
       "name": "laughter",
       "url": "https://open.spotify.com/track/0g77ZCFjyV1cWkWN3MVVYd"
+    },
+    {
+      "album": {
+        "name": "laugh n cry",
+        "url": "https://open.spotify.com/album/00PZqXuSXq9wYvxHE1n0ei"
+      },
+      "artists": [
+        {
+          "name": "Dilly Yung",
+          "url": "https://open.spotify.com/artist/4YkMAl39Ivylkhs6rhaB0I"
+        },
+        {
+          "name": "King Geedorah",
+          "url": "https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa"
+        },
+        {
+          "name": "Viktor Vaughn",
+          "url": "https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "laughter",
+      "url": "https://open.spotify.com/track/3Uep32YfCmMSO1evH5coqX"
     },
     {
       "album": {
@@ -23610,7 +23636,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 108280,
       "name": "Lionel Rich",
       "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
@@ -23920,7 +23946,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
@@ -31104,7 +31130,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 120417,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
@@ -42132,7 +42158,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 157431,
       "name": "trouble",
       "url": "https://open.spotify.com/track/44SzxGEURZ5PP79gwnbomI"

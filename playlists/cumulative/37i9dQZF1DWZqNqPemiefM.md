@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-718 songs - 2 day 7 hr 39 min
+720 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [All That the Air Allows](https://open.spotify.com/track/0jiHm4PhDqu7vWtFkFAbiZ) | [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [All That the Air Allows](https://open.spotify.com/album/5xAdKLGG3O1KywUQG9s2Ha) | 5:02 | 2024-11-15 | 2024-11-25 |
 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 | 2024-12-10 |  |
 | [Ama](https://open.spotify.com/track/0lbqQlv8N3kBczLqvevinm) | [7FO ‎](https://open.spotify.com/artist/0Ri0lZkdYY8gyCOC3hDq2r) | [Moment](https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI) | 4:43 | 2022-03-31 | 2022-07-26 |
+| [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-13 |  |
 | [AMBIENT MEDITATION \#3](https://open.spotify.com/track/2FRipc9UogCdwnWLvE74Uq) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MEDICINE COMPILATION from the Quiet Lodge](https://open.spotify.com/album/3qaEUrwOgFVPIfaIMuJVcS) | 4:03 | 2022-03-31 | 2022-05-13 |
 | [Ambient Music for Exhibition “Let’s Get Lost” 02](https://open.spotify.com/track/4Q0kae2L3an9NGHRBXuTMv) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Ambient Variation 2](https://open.spotify.com/album/6M4O5UYE4ixEU0z3OElh5B) | 2:55 | 2022-06-23 | 2022-07-29 |
 | [Ambient Variation 2 02](https://open.spotify.com/track/3HzjzH00mb4fnBSClLBQ6a) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Ambient Variation 2](https://open.spotify.com/album/6M4O5UYE4ixEU0z3OElh5B) | 3:44 | 2022-06-30 | 2022-07-28 |
@@ -55,7 +56,7 @@
 | [Ants in a Line](https://open.spotify.com/track/4HhcRFTsufbPu0pmt9Iokk) | [GorillaWave!](https://open.spotify.com/artist/5PSllcLMSRsNUU4kRbcdp2) | [ECHOES](https://open.spotify.com/album/3wPiMcPYMF0k1wGXX2crFd) | 2:26 | 2022-03-30 | 2022-04-11 |
 | [APPLE STAR](https://open.spotify.com/track/3q2AycfbW3JdEWBDkgCQb7) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 6:00 | 2022-03-31 | 2022-07-12 |
 | [april \~ from sea shell \(with radiosonde\)](https://open.spotify.com/track/1q0DciT4KEisc2IAHBaNdN) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/4KFLQWUBUVrsBRymEKVXmS) | 3:10 | 2022-04-16 | 2022-04-21 |
-| [arcana](https://open.spotify.com/track/78HCu6iZNOauXdfEGn6UjN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [arcana](https://open.spotify.com/album/6urZ7oJEzzS2QIFsWvSYLf) | 2:40 | 2024-11-29 |  |
+| [arcana](https://open.spotify.com/track/78HCu6iZNOauXdfEGn6UjN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [arcana](https://open.spotify.com/album/6urZ7oJEzzS2QIFsWvSYLf) | 2:40 | 2024-11-29 | 2025-01-14 |
 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 | 2022-03-31 | 2024-02-09 |
 | [Asa No Umibe](https://open.spotify.com/track/0iVjGcJ2oxHM1Pksx7EDT5) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Mizugiwa](https://open.spotify.com/album/240VvlzQLu4rQ0aqjA4e4O) | 3:48 | 2022-03-31 | 2022-06-16 |
 | [Au couchant](https://open.spotify.com/track/5eqovPK4whLwjlJj9x7ITG) | [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [8 tableaux](https://open.spotify.com/album/7pMLnAkNLcgeKVQtskA56B) | 5:44 | 2024-12-10 |  |
@@ -226,6 +227,7 @@
 | [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 | 2024-09-06 |
 | [Fragment](https://open.spotify.com/track/2IPgfIisrvoZ9gfjjgIiMo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Fragment](https://open.spotify.com/album/57AhM9WpuWG2206JjB1uZz) | 4:02 | 2023-11-09 | 2023-11-24 |
 | [frame](https://open.spotify.com/track/1wDCny9Fsxj78bGAUc6Urn) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Frame](https://open.spotify.com/album/4VXrSbUbWpKjrOsUO97ttE) | 7:53 | 2022-04-07 | 2022-04-16 |
+| [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 | 2025-01-13 |  |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-12-10 |  |
 | [Funeral Doom Espresso](https://open.spotify.com/track/6ib2seI733Fc4Ywu9n2YtY) | [and end und\(o\)](https://open.spotify.com/artist/1X4ne9Wa1NJVTAzimZnHNp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 5:04 | 2022-04-07 | 2022-04-15 |
 | [Funé](https://open.spotify.com/track/0o9XRe8wvGfhh8Kr994oZQ) | [Hirono Nishiyama](https://open.spotify.com/artist/0BjDWmpDPChula2c4QwkaT) | [Funé](https://open.spotify.com/album/0ZhtvpfGfcH0Gm97rX7uNz) | 3:55 | 2022-03-31 | 2022-07-27 |
@@ -359,7 +361,7 @@
 | [Marimba Dub](https://open.spotify.com/track/0QMi6HLSf6Pgd74vO7DkO7) | [MUGA](https://open.spotify.com/artist/7FaFnk516uHwNzlR5TMq5A) | [Marimba Dub](https://open.spotify.com/album/0xUox3PuVSx0qolN7WzCMD) | 3:57 | 2022-03-31 | 2022-04-21 |
 | [materialize](https://open.spotify.com/track/47ZEYm8Dm64j4Le79GsTB8) | [wk\[es\]](https://open.spotify.com/artist/4HnyYlqvSG1hJfpvzunWpU) | [interface](https://open.spotify.com/album/1dGrVsVHlZEW2Y9ln7ZQNK) | 4:02 | 2022-03-31 | 2022-04-11 |
 | [Me](https://open.spotify.com/track/3pzdrEzmh2moHVAeHIvait) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Me](https://open.spotify.com/album/3GnP7ZR5eISmgS3fkO32Ir) | 2:31 | 2024-12-05 | 2024-12-26 |
-| [Meiso Ongaku 2](https://open.spotify.com/track/4oDopy5g0n075NXo1JavuZ) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Electronic Phantoms](https://open.spotify.com/album/0y8hFBOstlHWL97IYb1uAL) | 5:34 | 2024-09-06 |  |
+| [Meiso Ongaku 2](https://open.spotify.com/track/4oDopy5g0n075NXo1JavuZ) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Electronic Phantoms](https://open.spotify.com/album/0y8hFBOstlHWL97IYb1uAL) | 5:34 | 2024-09-06 | 2025-01-14 |
 | [MeMe](https://open.spotify.com/track/3QDuYDRG3lB7Sy45GMWa5J) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [MeMe](https://open.spotify.com/album/3q3JleVhIaRxutkWmcuYcK) | 1:00:00 | 2022-03-31 | 2022-05-29 |
 | [memento](https://open.spotify.com/track/2XplMSBUiDrgjrjE9aJem1) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [memento](https://open.spotify.com/album/5wpdUQhPZxUTGObATg9bja) | 3:37 | 2022-04-07 | 2022-07-29 |
 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 | 2022-03-30 | 2024-02-09 |

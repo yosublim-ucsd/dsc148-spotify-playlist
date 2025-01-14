@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: RPG x Black MIC x BG8LOCC
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,400 likes - 128 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,399 likes - 128 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

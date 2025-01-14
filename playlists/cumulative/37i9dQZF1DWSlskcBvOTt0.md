@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-830 songs - 3 day 0 hr 54 min
+831 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alright](https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Alright](https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw) | 6:52 | 2023-03-10 | 2023-04-16 |
 | [Always And Forever](https://open.spotify.com/track/70xiVqEhLeTwSh9fusgV7W) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Always And Forever](https://open.spotify.com/album/4x9Emr96LSwtycsHDI9FZi) | 3:43 | 2024-04-26 | 2024-06-11 |
 | [AMA](https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Mar+Mer](https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa) | [AMA](https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb) | 5:34 | 2024-01-12 | 2024-10-30 |
+| [Amado](https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Amado](https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI) | 3:30 | 2025-01-10 |  |
 | [Amagugu](https://open.spotify.com/track/62kYBWjOtWdz0yrXVWRC72) | [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Amagugu](https://open.spotify.com/album/5S34AcVCRZGgVdhaQArFD9) | 4:13 | 2024-05-10 | 2024-05-20 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-12 |  |
 | [Amandla](https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Amandla](https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah) | 6:10 | 2023-11-03 | 2024-05-11 |
@@ -441,7 +442,7 @@
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |
 | [Madre Tierra](https://open.spotify.com/track/7fTCXJjxY8Yds4QyFpJQOa) | [Vite](https://open.spotify.com/artist/6xDzE299teWXHoW3ZuCIHX), [Hole Box](https://open.spotify.com/artist/7FPuNa70lwxm2NqDqkzTs3) | [Marea](https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ) | 6:30 | 2021-05-07 | 2022-07-16 |
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
-| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 |  |
+| [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2025-01-14 |
 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 | 2023-08-11 | 2023-09-11 |
 | [Maiye](https://open.spotify.com/track/2WI1B6gkTvsfwUgL1VbUGX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Maiye EP](https://open.spotify.com/album/5EN0keN9Vj7axJHl8LgDWa) | 6:22 | 2024-01-12 | 2024-03-27 |
 | [Makatao](https://open.spotify.com/track/0AYHqchYq7j81YuJBwwbAP) | [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Makatao](https://open.spotify.com/album/0Htb5bRGIDhTronNBsN2HP) | 2:58 | 2022-06-10 | 2022-07-28 |

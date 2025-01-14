@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-1,797 songs - 4 day 1 hr 27 min
+1,798 songs - 4 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,7 +752,7 @@
 | [January](https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [January](https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I) | 4:13 | 2024-08-02 |  |
 | [Jauh](https://open.spotify.com/track/2iECqZwGqfoSTjJ0Mal8Cn) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Jauh](https://open.spotify.com/album/0U8j5HBVsgyRJVedu4XrSD) | 3:19 | 2023-05-30 | 2023-10-06 |
 | [Je suis fan](https://open.spotify.com/track/3mPCozV61t2CENgcBNOyJ8) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [DRAMA](https://open.spotify.com/album/07Vv8jai6rYMEj7eL0MZTy) | 2:48 | 2022-03-24 | 2022-08-02 |
-| [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-29 |  |
+| [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-29 | 2025-01-14 |
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-09-08 | 2023-05-31 |
 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-07-18 | 2024-12-14 |
 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 | 2024-03-15 | 2024-05-25 |
@@ -1435,6 +1435,7 @@
 | [Then Morning Breaks](https://open.spotify.com/track/3tQvNpYYctZNnx5nJ36BmN) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Then Morning Breaks](https://open.spotify.com/album/0wA7iEeunmloxXju0b8GTR) | 3:02 | 2022-06-17 | 2022-08-02 |
 | [There She Goes](https://open.spotify.com/track/6IlOjEQb1xHx4GUAaoFI7H) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [Things](https://open.spotify.com/track/3dm5Ce7vQ3JEpSVnqyjGPR) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:19 | 2022-03-24 | 2022-12-15 |
+| [Things We Can’t Change](https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Things We Can’t Change](https://open.spotify.com/album/0r1WIueboWxL9xiWuavKtH) | 2:42 | 2025-01-10 |  |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2022-02-03 | 2022-08-02 |
 | [Thiên Hạ Hữu Tình Nhân](https://open.spotify.com/track/2AC0pwlMPaOY4gq5i16zzu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Thiên Hạ Hữu Tình Nhân](https://open.spotify.com/album/5mnNEFg6CJQWWDRQ6EGxqf) | 2:37 | 2022-03-24 | 2022-04-21 |
 | [Thumb War](https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Thumb War](https://open.spotify.com/album/4GzWCviDgvcDeWcCWj8ESS) | 2:21 | 2024-05-10 | 2024-09-15 |

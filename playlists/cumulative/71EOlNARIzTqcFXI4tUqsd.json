@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "A playlist for yoga, mindfulness and meditation with reflective moments. ",
-  "name": "Yoga & Meditation with Above & Beyond and Reflections",
+  "description": "A playlist for yoga, mindfulness and meditation. ",
+  "name": "Yoga & Meditation with Above & Beyond and Anjunachill",
   "tracks": [
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+    },
     {
       "album": {
         "name": "Duality (Part One)",
@@ -81,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "An Ending (Ascent) - Remastered 2005",
+      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
+    },
+    {
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
@@ -132,6 +168,24 @@
       "duration_ms": 206280,
       "name": "Common Ground - Edit",
       "url": "https://open.spotify.com/track/5xCTa3zfwlMirRNUwCoisn"
+    },
+    {
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/2NA1EtBC2obBTS26HamS2r"
     },
     {
       "album": {
@@ -201,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+    },
+    {
+      "album": {
         "name": "\u2026like butterfly wings",
         "url": "https://open.spotify.com/album/7nAJcSFG2d4zMwVUQGHIl9"
       },
@@ -248,7 +320,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 289121,
       "name": "Faber Sanctum",
       "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
@@ -270,6 +342,42 @@
       "duration_ms": 214600,
       "name": "Fading Anxieties",
       "url": "https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx"
+    },
+    {
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Fading Anxieties",
+      "url": "https://open.spotify.com/track/4R7PJfoLKVdBQTQXFVj1ZV"
+    },
+    {
+      "album": {
+        "name": "Felt (Special Edition)",
+        "url": "https://open.spotify.com/album/3AioJfZ8LfEzPaFPQHoe3e"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/5Yy0R2CLFPXfrBPLnsI1zN"
     },
     {
       "album": {
@@ -346,6 +454,24 @@
       "duration_ms": 186000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7huozjmrAakZaPMbsM3EVq"
+    },
+    {
+      "album": {
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185558,
+      "name": "It\u2019s Just Like Falling Asleep",
+      "url": "https://open.spotify.com/track/0N4WBR930pFq8xog7jvTZN"
     },
     {
       "album": {
@@ -519,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268592,
+      "name": "Mellowness Of The Heart",
+      "url": "https://open.spotify.com/track/3ihuiqzWNyixSqftwLcL0q"
+    },
+    {
+      "album": {
         "name": "Morning In Deira / Time Heals",
         "url": "https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM"
       },
@@ -664,7 +808,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 398297,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw"
@@ -712,6 +856,24 @@
       "duration_ms": 240391,
       "name": "Peaceful Avenues - Unplugged Instrumental",
       "url": "https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H"
+    },
+    {
+      "album": {
+        "name": "Joy Paradox",
+        "url": "https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309719,
+      "name": "Recompose",
+      "url": "https://open.spotify.com/track/6JEha6ddomYWc6ZTZZZWLt"
     },
     {
       "album": {
@@ -831,6 +993,32 @@
     },
     {
       "album": {
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502705,
+      "name": "Sit Around The Fire",
+      "url": "https://open.spotify.com/track/7Bl1GdYbcJ0QSffErVWOnv"
+    },
+    {
+      "album": {
         "name": "Sleep Is Sacrament",
         "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
       },
@@ -882,6 +1070,44 @@
       "duration_ms": 238382,
       "name": "Small Moments - Edit",
       "url": "https://open.spotify.com/track/0aTJ8gI0DA0JdzC2BwJMuh"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315720,
+      "name": "Space 11 (Invisible Pages Over)",
+      "url": "https://open.spotify.com/track/786FgaRDsjLgvViIu30sam"
     },
     {
       "album": {
@@ -976,6 +1202,24 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/3GcbgbdIHYNaxJc2EBt2B2"
+    },
+    {
+      "album": {
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247453,
+      "name": "The Light Is Still There",
+      "url": "https://open.spotify.com/track/6PvzSHb1sm2Mkq1mq9xPfq"
     },
     {
       "album": {

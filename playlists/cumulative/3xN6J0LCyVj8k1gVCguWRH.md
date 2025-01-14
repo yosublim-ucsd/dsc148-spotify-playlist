@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,390 songs - 10 day 5 hr 58 min
+4,393 songs - 10 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 | 2024-05-29 | 2024-06-10 |
 | [Can't Stay Away](https://open.spotify.com/track/0kYESBjHlA8bEnCsv1807r) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [Can't Stay Away](https://open.spotify.com/album/31gttnOTgX4XAjZ79UVXjw) | 2:16 | 2020-04-12 | 2020-04-22 |
 | [Can't Stop](https://open.spotify.com/track/14ipuliZAst3Kn7AE2dU1H) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [Can't Stop](https://open.spotify.com/album/704KBeTw7PNwDzR0RxWvQc) | 2:50 | 2024-06-04 | 2024-06-16 |
+| [Can't stop thinking](https://open.spotify.com/track/7tsBlxI6OYbplEeCHxQjXo) | [Blaqk Van](https://open.spotify.com/artist/5SaLSMriVjdtAWMiG0zRbM), [Billy the Kid](https://open.spotify.com/artist/53thNGMpf565Q60Vvt5Uox) | [Can't stop thinking](https://open.spotify.com/album/3ufuBf5AH4NEaJSXOD4ojY) | 3:53 | 2025-01-13 |  |
 | [Can't Stop Wanting You \(Acoustified\)](https://open.spotify.com/track/3WjWCA4BQvj1phCByGKZCe) | [JV Altharas](https://open.spotify.com/artist/6eBEjfPn9jZAIjhOlh2E7F) | [Demonstrous, Vol\. 2 \(Acoustified\)](https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc) | 4:20 | 2025-01-03 |  |
 | [CAN'T TAKE THIS ANYMORE](https://open.spotify.com/track/5UnpGqoHLsUXIUxBxfnMws) | [Energyneverdiess](https://open.spotify.com/artist/1qzCUj4TYCjLB56OZY6HQj) | [SPLIT 2](https://open.spotify.com/album/2Lftl97zv6UtI2ZbsGra1a) | 3:17 | 2023-01-27 | 2023-02-18 |
 | [Can't Think \(Gave It Away, Pt\. 1\)](https://open.spotify.com/track/0gkIvDEDFtYhPc0CrplxkW) | [The Mercy Stone](https://open.spotify.com/artist/0tGb9I9vsWGTw3PSphK5Si) | [Above the Towers](https://open.spotify.com/album/6TwV0GyrSvSiKtSEWBf13l) | 3:16 | 2020-04-18 | 2020-04-25 |
@@ -1049,6 +1050,7 @@
 | [Don't You Know](https://open.spotify.com/track/38d1M3vfvW3nOBaNHbMMwf) | [LorZzz](https://open.spotify.com/artist/0wZWiHVMV9Cp8trFwEVQsk) | [Don't You Know](https://open.spotify.com/album/4T5hbdHZbaCCowCH7Rh7nI) | 2:28 | 2024-06-18 | 2024-06-30 |
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 | 2019-09-29\* | 2020-09-01 |
 | [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2021-07-12 | 2021-11-19 |
+| [Done Believing](https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN) | [Snapdibz](https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK) | [Done Believing](https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb) | 3:24 | 2025-01-13 |  |
 | [DON’T STOP ME](https://open.spotify.com/track/5w6Wfxy37r4tS7vn9GK5Ls) | [RAKOVICKY](https://open.spotify.com/artist/5J2xJrZgjcWM3nQLyLsDyZ) | [DON’T STOP ME](https://open.spotify.com/album/4hSRG678m00lMqiSNozls5) | 3:08 | 2024-02-23 | 2024-03-08 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-09-29\* | 2024-08-13 |
 | [Dopamine](https://open.spotify.com/track/2mCpvXUKoxExA4kJ5omRE3) | [Pale Moon](https://open.spotify.com/artist/0Fs4anTtuXgqXzOFOdfOs9) | [Dopamine](https://open.spotify.com/album/4bUvMbWIYNKV9ZQKCaabOm) | 2:34 | 2022-11-10 | 2022-12-05 |
@@ -2915,6 +2917,7 @@
 | [Peace](https://open.spotify.com/track/7dlitAKn0uMwwHdCxO63DC) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Peace](https://open.spotify.com/album/5EXT4X6Mzz60FQapPF6TNO) | 3:56 | 2020-06-29 | 2020-07-13 |
 | [Peace of Mind](https://open.spotify.com/track/5jwI0AZfAkyV5wEma7r2jq) | [Brown Sugar](https://open.spotify.com/artist/0wYwMtsh2JcIAtVitKAjyP), [lee.](https://open.spotify.com/artist/1JKMIt176zLabZr4oCKiul) | [Peace of Mind](https://open.spotify.com/album/6H1TltVAbYQUE56GEeINEe) | 2:50 | 2024-04-01 | 2024-04-11 |
 | [Peace of Mind](https://open.spotify.com/track/1pm3Gmdx8yCc5ITa9IMoTG) | [Lightbulb the Entertainer](https://open.spotify.com/artist/5vG0ex3chH3Z7DOzQmyfeB) | [Peace of Mind](https://open.spotify.com/album/1igpZC6O1N6tgS3dnu1E2i) | 2:56 | 2022-03-11 | 2022-03-31 |
+| [Peace Train](https://open.spotify.com/track/6tz5J5JoQjdR79Yl8MM1k5) | [Alexander Cardinale](https://open.spotify.com/artist/1w9xONedSs7QY93KlJXK6b) | [Peace Train](https://open.spotify.com/album/4OdpdxTz1Fe4zd3MxzaQMz) | 3:01 | 2025-01-13 |  |
 | [Peaceful Place](https://open.spotify.com/track/7g4JvjIMwC4gi6gBPKOqnz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:15 | 2024-12-21 |  |
 | [Peaceful Revolution \- Radio Edit](https://open.spotify.com/track/2Vm4lDeEZkzY0e8hubpKSs) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Quino](https://open.spotify.com/artist/1ICz54Sf17zOD8Lp9iYaZS), [Raingad](https://open.spotify.com/artist/4xXRXnjTN9NUldw0sQPXLo), [Saxman Jerry](https://open.spotify.com/artist/56tK1RQi1Jyx2gYQYqVPYq) | [Peaceful Revolution \(Radio Edit\)](https://open.spotify.com/album/6ARg3br5L5kre3Ki1GAETc) | 4:12 | 2021-03-29 | 2021-04-10 |
 | [Peach tree](https://open.spotify.com/track/628oi7AB8GI0j0Gr7gqgbH) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Peach tree](https://open.spotify.com/album/5Pa2aNyiDR6WtjeKoTTXr4) | 3:40 | 2023-06-02 | 2023-06-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 38302,
+  "num_followers": 38308,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "The Best Damn Thing",
         "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "An End Has a Start",
-        "url": "https://open.spotify.com/album/3csSbF72syMhIYq89doRha"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Smokers Outside the Hospital Doors",
-      "url": "https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Under The Iron Sea",
         "url": "https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "An End Has a Start",
+        "url": "https://open.spotify.com/album/3csSbF72syMhIYq89doRha"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Smokers Outside the Hospital Doors",
+      "url": "https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB"
     },
     {
       "added_at": "2024-07-12 15:02:20",

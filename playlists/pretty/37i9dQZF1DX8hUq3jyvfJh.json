@@ -1,6 +1,6 @@
 {
   "description": "Escute no volume m\u00e1ximo as mulheres que marcaram a m\u00fasica em 2024!  Foto: Ana Castela",
-  "num_followers": 188300,
+  "num_followers": 188309,
   "original_name": "O Melhor de EQUAL Brasil 2024",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Mil Perguntas",
+        "url": "https://open.spotify.com/album/5bjUFqJGPifw1055QQNCN6"
+      },
+      "artists": [
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "duration_ms": 212035,
+      "name": "Mil Perguntas",
+      "url": "https://open.spotify.com/track/2bjIGfm603v9VSSa9gMRpP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Mil Perguntas",
-        "url": "https://open.spotify.com/album/5bjUFqJGPifw1055QQNCN6"
-      },
-      "artists": [
-        {
-          "name": "Raphaela Santos",
-          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
-        }
-      ],
-      "duration_ms": 212035,
-      "name": "Mil Perguntas",
-      "url": "https://open.spotify.com/track/2bjIGfm603v9VSSa9gMRpP"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 104470,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Cacau",
-      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,297 likes - 350 songs - 12 hr 11 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,294 likes - 350 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,7 +268,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 258 | [Mellow Midnight](https://open.spotify.com/track/6T3wRewpr2o5mWjm8zTNwH) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Mellow Midnight](https://open.spotify.com/album/2ttvc2YxwiRgOUTVT2Fb2R) | 1:58 |
 | 259 | [Freetime](https://open.spotify.com/track/7bGVOVYfgIa0adjEzv09IN) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [Freetime](https://open.spotify.com/album/1b1FABVz9r9zzluwG8U3Gi) | 2:39 |
 | 260 | [Other Side](https://open.spotify.com/track/6x6bVsAz9fHKb80wbI8YKF) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Other Side](https://open.spotify.com/album/6NfGpDjmC0F2hIn4yeYBqT) | 2:04 |
-| 261 | [sway](https://open.spotify.com/track/6Mx40XWfNJrRulCKXckuru) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [sway](https://open.spotify.com/album/72VF3tDhGakBbEhPCuft6B) | 2:39 |
+| 261 | [sway](https://open.spotify.com/track/6Mx40XWfNJrRulCKXckuru) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [sway](https://open.spotify.com/album/72VF3tDhGakBbEhPCuft6B) | 2:39 |
 | 262 | [Clouds](https://open.spotify.com/track/13BWPQyd6QM96H1RnnTzet) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Clouds](https://open.spotify.com/album/7nnnMSkYrIHUXnKPvtrkpU) | 2:19 |
 | 263 | [Smoke and Mirrors](https://open.spotify.com/track/2Cfu668N7GcfOXFsiywKbA) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Smoke and Mirrors](https://open.spotify.com/album/0L7hSCIV6Ub8sbm4PhPReF) | 2:55 |
 | 264 | [Flood](https://open.spotify.com/track/1jWZwW6SAFcvVIFP13AC00) | [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Flood](https://open.spotify.com/album/69K6WHvuNi8RhN9SedHaIl) | 1:57 |

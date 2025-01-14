@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY MASON RAMSEY\-\- these are his  country essentials!  Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,089 likes - 66 songs - 3 hr 41 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,088 likes - 66 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 | 65 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 66 | [Sweetheart from the Trailer Park](https://open.spotify.com/track/5t4j5WGwWoh6Ykjr8rdR6E) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Sweetheart from the Trailer Park](https://open.spotify.com/album/6grCXmDPRDUe71hQ6llCBU) | 2:20 |
 
-Snapshot ID: `AAADwGdciEmFcB2J42gWoAiZ2+GhFoRS`
+Snapshot ID: `AAADwpN75pgBtbHivr/om6c/5gmTPJvo`

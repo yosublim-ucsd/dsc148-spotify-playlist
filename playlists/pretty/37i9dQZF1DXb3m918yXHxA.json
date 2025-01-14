@@ -1,388 +1,44 @@
 {
-  "description": "Cruise to the tunes that inspired Michael McDonald + Christopher Cross to celebrate Yacht Rock: A Dockumentary coming to Max.",
-  "num_followers": 1642813,
-  "original_name": "Yacht Rock: Michael McDonald & Christopher Cross Takeover",
+  "description": "Cruise to the smooth grooves of these yacht rock tunes.",
+  "num_followers": 1642775,
+  "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0eeGwAAAADQ2qQumg6MQNPWwjtEo5fX",
+  "snapshot_id": "Z4UcjQAAAAAs+7W9kaa6u8aCP3isgKbg",
   "tracks": [
     {
-      "added_at": "2024-11-27 19:09:47",
+      "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Beatles For Sale (Remastered)",
-        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 136066,
-      "name": "No Reply - Remastered 2009",
-      "url": "https://open.spotify.com/track/4ltC6PrqkTtpcRNi5lvS4z"
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
-      "added_at": "2024-11-27 19:09:47",
+      "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Singles 1963-1965",
-        "url": "https://open.spotify.com/album/5po3XeTxZ1Oy9xMX62daWm"
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 221533,
-      "name": "The Last Time - (Original Single Mono Version)",
-      "url": "https://open.spotify.com/track/5l7bd81MKwsV99RwJWi8pk"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Turn On Your Love Light: The Duke Recordings Volume 2",
-        "url": "https://open.spotify.com/album/4WXvyEElk3VmCCx03cC1UO"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Turn On Your Love Light",
-      "url": "https://open.spotify.com/track/0BhtcoMmv2ifcPQJv0edSy"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Soul Master",
-        "url": "https://open.spotify.com/album/6ykBvhWnoeLoT4991LwUeL"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 138280,
-      "name": "Stop Her On The Sight (S.O.S.)",
-      "url": "https://open.spotify.com/track/3uqOlJiDgYcikQ1cH6ACIm"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2mws4tIE5QT2b345hoCe0x"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Pure Genius: The Complete Atlantic Recordings 1952-1959",
-        "url": "https://open.spotify.com/album/2qB2quIVnA9ip3wv8tDewn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Tell the Truth - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3k7KcgJjMVNggPx6M9UpWN"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Don't Let the Sun Catch You Crying (Main) - Mono",
-      "url": "https://open.spotify.com/track/5WK2srLxBE7aCxg1Zt8GIe"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Holland (Remastered 2000)",
-        "url": "https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Sail On, Sailor - Remastered 2000",
-      "url": "https://open.spotify.com/track/3U4hSjTlK6WU0wORlAne9H"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/6RTvHeP6ZD3bbMoz6xe1S2"
-      },
-      "artists": [
-        {
-          "name": "Dylan McDonald and the Avians",
-          "url": "https://open.spotify.com/artist/4Ega7QAC4DXCrcZRGq5ESI"
-        }
-      ],
-      "duration_ms": 306613,
-      "name": "Hot and Cold",
-      "url": "https://open.spotify.com/track/0ff5H7VXxqQGN6WJgb2qoi"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/3DfJIkZx34132XJ7j1L43O"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Leon Fleisher",
-          "url": "https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Jesu, Joy of Man's Desiring",
-      "url": "https://open.spotify.com/track/12CTlzIdtin6UJfE1ToePm"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Found Love",
-        "url": "https://open.spotify.com/album/1SMNcFSyp8Rp2bLhl1GSvt"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "Big Boss Man",
-      "url": "https://open.spotify.com/track/7LhYCokNBDYsVF0A0x95Pc"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Randy Newman",
-        "url": "https://open.spotify.com/album/4PAO6s25pG36fXO3xf1hf5"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Up From The Skies",
-      "url": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Hejira",
-        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "Coyote",
-      "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 335037,
-      "name": "Home At Last",
-      "url": "https://open.spotify.com/track/4rJMVlcWta53qxlr4b5zrF"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "The Heart Of Saturday Night (Remastered)",
-        "url": "https://open.spotify.com/album/2fnWxy7UoIazBiewjgchvm"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "New Coat Of Paint",
-      "url": "https://open.spotify.com/track/62p2iNQRUoZfHfbZIYUZMI"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Nearly Human",
-        "url": "https://open.spotify.com/album/3CDJlbrCjmplCxA0oVd8Em"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Parallel Lines - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0dA07BGEvOzJHny3lyeYXQ"
-    },
-    {
-      "added_at": "2024-11-27 19:09:47",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -487,22 +143,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "The Very Best of Suzi Quatro",
         "url": "https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb"
       },
@@ -535,22 +175,6 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -2509,6 +2133,6 @@
       "url": "https://open.spotify.com/track/0ZG9iIsbVacqjyQNnrCosi"
     }
   ],
-  "unique_name": "Yacht Rock: Michael McDonald & Christopher Cross Takeover",
+  "unique_name": "Yacht Rock",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb3m918yXHxA"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,379 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,377 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 51 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 | 52 | [El Santo Cachón](https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Éxitos \- Los Embajadores Vallenatos](https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM) | 4:26 |
 | 53 | [Sombra Perdida](https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:24 |
-| 54 | [Volveré](https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Siempre Peleando](https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR) | 4:19 |
-| 55 | [Amaneci Contigo](https://open.spotify.com/track/6sjGn6jDmt8v1zTi7Naqrs) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Exitos Romaticos De Salsa](https://open.spotify.com/album/5fdL0838EsULjyNWfG9goE) | 4:11 |
+| 54 | [Amaneci Contigo](https://open.spotify.com/track/6sjGn6jDmt8v1zTi7Naqrs) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Exitos Romaticos De Salsa](https://open.spotify.com/album/5fdL0838EsULjyNWfG9goE) | 4:11 |
+| 55 | [El Mochuelo](https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo) | 4:57 |
 | 56 | [Pa Que No Me Anden Contando](https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Pa Que No Me Anden Contando](https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u) | 2:09 |
-| 57 | [El Mochuelo](https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo) | 4:57 |
-| 58 | [Me Tocó Perderte](https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV) | [Osmar Pérez](https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD), [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Una Leyenda \- Los Chiches Vallenatos](https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw) | 4:19 |
-| 59 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 |
-| 60 | [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 |
+| 57 | [Me Tocó Perderte](https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV) | [Osmar Pérez](https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD), [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Una Leyenda \- Los Chiches Vallenatos](https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw) | 4:19 |
+| 58 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 |
+| 59 | [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 |
+| 60 | [Volveré](https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Siempre Peleando](https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR) | 4:19 |
 
 Snapshot ID: `Znrt4gAAAAB6o34lQjzSVvW+1t1vyACF`

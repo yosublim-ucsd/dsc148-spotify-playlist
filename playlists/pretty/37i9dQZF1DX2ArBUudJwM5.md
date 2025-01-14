@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Juana Molina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,675 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,672 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 34 | [La madrina](https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Shima](https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl) | 3:08 |
 | 35 | [MUJERES](https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [RAÍZ](https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C) | 5:14 |
 | 36 | [Mantis](https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 2:46 |
-| 37 | [Helix](https://open.spotify.com/track/1Xf5nB7xeB5xVoCmivZ661) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Posible](https://open.spotify.com/album/32bUZaU0ffEvgnEkNW7jrd) | 4:17 |
-| 38 | [Si no estás \- Live Set](https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [Manzana de las Luces \(Live Set\)](https://open.spotify.com/album/6RkMSiwDsnh3Ei7wJuQVy1) | 3:49 |
-| 39 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
+| 37 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
+| 38 | [Helix](https://open.spotify.com/track/1Xf5nB7xeB5xVoCmivZ661) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Posible](https://open.spotify.com/album/32bUZaU0ffEvgnEkNW7jrd) | 4:17 |
+| 39 | [Yo Lloré Porque Usted Lloró \(Banda de Sonido Original\)](https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [Yo Lloré Porque Usted Lloró \(Banda de Sonido Original\)](https://open.spotify.com/album/4fGQZTO2a9PbSzI7SGRZxG) | 3:03 |
 | 40 | [Intermitente](https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [El bosque del recuerdo](https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj) | 3:40 |
-| 41 | [Yo Lloré Porque Usted Lloró \(Banda de Sonido Original\)](https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [Yo Lloré Porque Usted Lloró \(Banda de Sonido Original\)](https://open.spotify.com/album/4fGQZTO2a9PbSzI7SGRZxG) | 3:03 |
+| 41 | [Si no estás \- Live Set](https://open.spotify.com/track/2qyrA448NcSiIe49Yf3sxD) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [Manzana de las Luces \(Live Set\)](https://open.spotify.com/album/6RkMSiwDsnh3Ei7wJuQVy1) | 3:49 |
 | 42 | [Hipnosis](https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz) | [Imán](https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8) | [Imán](https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR) | 4:10 |
 | 43 | [Termina el día cuando empieza](https://open.spotify.com/track/0nVUrihk1BDb3fU587fACz) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5), [Sara Mamani](https://open.spotify.com/artist/0MbaYsHJ6jDTHjTaLMSabZ) | [Shima](https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl) | 3:55 |
 | 44 | [¿Qué Hago Con la Noche?](https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb) | [Las Escuchas](https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq) | [El Funeral de Cenicienta](https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0) | 3:32 |
 | 45 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 |
 | 46 | [Venus en Latex](https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 3:54 |
-| 47 | [No Tengo Salida](https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [No Tengo Salida](https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf) | 3:24 |
-| 48 | [No Pasa Nada](https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU) | [Jimena Roig](https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm), [Lucas Basualdo](https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK) | [No Pasa Nada](https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl) | 1:01 |
+| 47 | [No Pasa Nada](https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU) | [Jimena Roig](https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm), [Lucas Basualdo](https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK) | [No Pasa Nada](https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl) | 1:01 |
+| 48 | [No Tengo Salida](https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760) | [LISA SCHA](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [No Tengo Salida](https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf) | 3:24 |
 | 49 | [GRITO](https://open.spotify.com/track/7xqhXlh82o01zJLZ9xQUXY) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [GRITO](https://open.spotify.com/album/2BpvJcmZIY9Ru3zsFyME8K) | 4:44 |
 | 50 | [ME FUI Y VINE](https://open.spotify.com/track/6EKLxsIr3rp4HxYMMQgRj9) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [ME FUI Y VINE](https://open.spotify.com/album/2dz9DHdcqGQzuE2AiWlKDl) | 3:06 |
 

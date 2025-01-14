@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-267 songs - 15 hr 16 min
+268 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Sol, vind och vatten](https://open.spotify.com/track/0Dl6aAece1roeWExwDV6Xs) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1) | [Sol, vind och vatten](https://open.spotify.com/album/2tKNEji5t3NPjriC1WXijr) | 3:16 | 2024-06-27 | 2024-08-09 |
 | [Sol, vind och vatten](https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Sol, vind och vatten](https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg) | 3:38 | 2024-06-27 | 2024-08-30 |
 | [Solen går aldrig ner](https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Solen går aldrig ner](https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT) | 2:40 | 2024-06-27 | 2024-08-16 |
-| [Solen i den vänstra](https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Solen i den vänstra](https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q) | 4:53 | 2024-09-06 |  |
+| [Solen i den vänstra](https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Solen i den vänstra](https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q) | 4:53 | 2024-09-06 | 2025-01-14 |
 | [Som att jag bryr mig](https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Som att jag bryr mig](https://open.spotify.com/album/14C1eFILphO24CKmlKNJcE) | 3:02 | 2025-01-09 |  |
 | [Som en sprucken mandolin](https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Alla kan dansa](https://open.spotify.com/album/7iCxq3oFrvvFV2ojh0vaHA) | 3:40 | 2024-09-26 | 2024-11-08 |
 | [Som jag har längtat](https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Som jag har längtat](https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG) | 3:26 | 2024-06-27 | 2024-08-09 |
@@ -245,6 +245,7 @@
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-27 | 2024-08-09 |
 | [Vi andra \(feat\. Victoria Nilas\)](https://open.spotify.com/track/2h36AjdVbDmssWQI1u5gjw) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Victoria Nilas](https://open.spotify.com/artist/51GCt6NtSa0VZPO6b8VDNe) | [Tjejdikter](https://open.spotify.com/album/3D7jgC2xV8GIoZnm1SzwbC) | 3:06 | 2024-09-26 | 2024-10-25 |
 | [Vi kommer aldrig](https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Vi kommer aldrig](https://open.spotify.com/album/5ey4CjvDR571IBBvhyRQew) | 3:13 | 2024-06-27 | 2024-08-16 |
+| [Vi lämnar det så](https://open.spotify.com/track/4ubcbAoGBNg3oS1JQBwtD7) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [Vi lämnar det så](https://open.spotify.com/album/6ojlFDERZgValMPokz2ulK) | 3:03 | 2025-01-09 |  |
 | [Vi står inte ut](https://open.spotify.com/track/79SPnz1ts8Qky3HrWxj3YA) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Den klarnande april](https://open.spotify.com/album/5XpmuYfcGCz2P8k73UCnGG) | 3:17 | 2024-09-12 | 2024-09-20 |
 | [Viker inte ner mig än](https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Viker inte ner mig än](https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2) | 3:47 | 2024-06-27 | 2024-10-25 |
 | [Vill ha mer \- 2024 Version](https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN) | [Vill ha mer \(2024 Version\)](https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl) | 2:44 | 2024-08-08 | 2024-10-13 |

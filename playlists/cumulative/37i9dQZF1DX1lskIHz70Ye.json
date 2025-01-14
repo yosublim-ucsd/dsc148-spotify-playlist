@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 188331,
       "name": "Augusto Caliente",
       "url": "https://open.spotify.com/track/0TMULfbEnuUoOytRvWcLMI"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
@@ -732,6 +732,24 @@
       "duration_ms": 191187,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/3FVjQ0xvY0egkX73XwR5KF"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Day of the Dead",
+      "url": "https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T"
     },
     {
       "album": {
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 156960,
       "name": "Gipsy Sister",
       "url": "https://open.spotify.com/track/7L9Y5i00XIU2l3JO2vfig8"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 178393,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP"
@@ -3208,6 +3226,24 @@
       "duration_ms": 295278,
       "name": "Una Luz en el Silencio",
       "url": "https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu"
+    },
+    {
+      "album": {
+        "name": "Una Vela Encendida",
+        "url": "https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh"
+      },
+      "artists": [
+        {
+          "name": "Isaac Valero",
+          "url": "https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Una Vela Encendida",
+      "url": "https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx"
     },
     {
       "album": {

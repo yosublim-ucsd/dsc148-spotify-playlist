@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,415 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,405 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 77 | [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 |
 | 78 | [PELADA](https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PELADA](https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW) | 2:50 |
 | 79 | [Bora pra praia](https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [BORABAEZ](https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj) | [Bora pra praia](https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa) | 3:48 |
-| 80 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 |
-| 81 | [Encontros](https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp) | [C.L](https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq), [Karol Fernandez](https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP) | [Encontros](https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj) | 3:21 |
+| 80 | [Encontros](https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp) | [C.L](https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq), [Karol Fernandez](https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP) | [Encontros](https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj) | 3:21 |
+| 81 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 |
 | 82 | [Maresia](https://open.spotify.com/track/64qtQNzG1jnbQ1f4oYw2z4) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Maresia](https://open.spotify.com/album/3mzRiSYaX1VOIznQOwf79J) | 2:15 |
 | 83 | [A GENTE SE FERRA JUNTO](https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [TEORIA DO CAOS](https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD) | 3:25 |
 | 84 | [Divino](https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Divino](https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu) | 2:48 |

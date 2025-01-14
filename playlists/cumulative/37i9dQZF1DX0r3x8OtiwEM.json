@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 269752,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
@@ -6466,6 +6466,28 @@
       "duration_ms": 402040,
       "name": "Les Orangers",
       "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178442,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
     },
     {
       "album": {

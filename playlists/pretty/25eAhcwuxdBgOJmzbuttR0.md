@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 357 songs - 1 day 0 hr 14 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 358 songs - 1 day 0 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,5 +365,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 355 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/5CyQqecCvDfCa8hYMlxNfV) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 4:09 |
 | 356 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 |
 | 357 | [Welcome to the Family](https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 4:05 |
+| 358 | [Band Aid Covers the Bullet Hole](https://open.spotify.com/track/6G8kUNcXkqN3hKfWINCz3C) | [Scarling.](https://open.spotify.com/artist/1jYc7PCW9UmZkY4v2YTEbF) | [Sweet Heart Dealer](https://open.spotify.com/album/4BV6sn55qvur7orFEq8q0G) | 3:26 |
 
-Snapshot ID: `AAABbbUPzMv7Y5sBtm/JT8PdWgWo5gBv`
+Snapshot ID: `AAABbhY6H0qHlsI3FeTNVpexw/ZjWxw1`

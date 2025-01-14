@@ -1366,10 +1366,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 184993,
       "name": "Llorar Por Ti",
       "url": "https://open.spotify.com/track/5oj3i46lvxcGO2vE04fmFY"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Llorar Por Ti",
+      "url": "https://open.spotify.com/track/3gSntLCvur21cSaWjTWDqS"
     },
     {
       "album": {

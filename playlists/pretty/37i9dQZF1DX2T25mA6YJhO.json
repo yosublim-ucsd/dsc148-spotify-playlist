@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Vicente Calder\u00f3n, Samantha Hudson.",
-  "num_followers": 23527,
+  "num_followers": 23544,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,22 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Gran Hostal",
-        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+        "name": "Intemperie",
+        "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+          "name": "Noche",
+          "url": "https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR"
         },
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "Mala Gesti\u00f3n",
+          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
         }
       ],
-      "duration_ms": 238964,
-      "name": "Combusti\u00f3n",
-      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
+      "duration_ms": 171428,
+      "name": "Intemperie",
+      "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -675,22 +675,22 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Intemperie",
-        "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
+        "name": "Gran Hostal",
+        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
       },
       "artists": [
         {
-          "name": "Noche",
-          "url": "https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR"
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
         },
         {
-          "name": "Mala Gesti\u00f3n",
-          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Intemperie",
-      "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
+      "duration_ms": 238964,
+      "name": "Combusti\u00f3n",
+      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Gran Hostal",
         "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 167354,
       "name": "1900",
       "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Club Social",
-        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Yo-me-mi",
-      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "A\u00f1o de mierda",
         "url": "https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160924,
       "name": "A\u00f1o de mierda",
       "url": "https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "Club Social",
+        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Yo-me-mi",
+      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 141023,
       "name": "De aqu\u00ed a un mes",
       "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "El Final",
-        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "el beso que nunca nos dimos",
         "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 183264,
       "name": "el beso que nunca nos dimos",
       "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "yo s\u00ed te quer\u00eda",
+        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 152282,
+      "name": "yo s\u00ed te quer\u00eda",
+      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "yo s\u00ed te quer\u00eda",
-        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 152282,
-      "name": "yo s\u00ed te quer\u00eda",
-      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
+      "duration_ms": 196629,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
-      },
-      "artists": [
-        {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
-        }
-      ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Dos De Cal",
-        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
       },
       "artists": [
         {
-          "name": "LOS VALIENTES",
-          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
         }
       ],
-      "duration_ms": 181558,
-      "name": "A\u00fan Quedan Sensaciones",
-      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Cada instante",
-        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+        "name": "Dos De Cal",
+        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
       },
       "artists": [
         {
-          "name": "\u00c1rtico",
-          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+          "name": "LOS VALIENTES",
+          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Cada instante",
-      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+      "duration_ms": 181558,
+      "name": "A\u00fan Quedan Sensaciones",
+      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
     },
     {
       "added_at": "2025-01-09 23:00:09",

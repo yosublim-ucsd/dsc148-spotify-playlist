@@ -3353,6 +3353,28 @@
     },
     {
       "album": {
+        "name": "Duckstep",
+        "url": "https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr"
+      },
+      "artists": [
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Duckstep",
+      "url": "https://open.spotify.com/track/0ZR8mLmdbqHZQrilm5lpBZ"
+    },
+    {
+      "album": {
         "name": "Dum Dum",
         "url": "https://open.spotify.com/album/5QjP2SGYlzyRuM32Wtx8ck"
       },
@@ -4918,6 +4940,24 @@
       "duration_ms": 177777,
       "name": "From The Top",
       "url": "https://open.spotify.com/track/6VyLyu1gHjr6P3Kjy5ImP9"
+    },
+    {
+      "album": {
+        "name": "Funk It",
+        "url": "https://open.spotify.com/album/2M8c3XJgVUNuu1sc0d0oXj"
+      },
+      "artists": [
+        {
+          "name": "Tobu",
+          "url": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Funk It",
+      "url": "https://open.spotify.com/track/5UxqThkJZYyOHZZ8ovBKzU"
     },
     {
       "album": {

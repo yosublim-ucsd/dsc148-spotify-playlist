@@ -25074,24 +25074,6 @@
     {
       "album": {
         "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/2y2dWBsbaIAXVbyCIMp6p9"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "date_added": "2024-09-19",
-      "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
-      "duration_ms": 216385,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/3xwBd5amAcGgrPAxVDDkqa"
-    },
-    {
-      "album": {
-        "name": "Hypnotized (feat. Ellie Goulding)",
         "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
       },
       "artists": [
@@ -25108,8 +25090,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180540,
-      "name": "Hypnotized (feat. Ellie Goulding)",
+      "name": "Hypnotized",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2y2dWBsbaIAXVbyCIMp6p9"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-10-04",
+      "duration_ms": 216385,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3xwBd5amAcGgrPAxVDDkqa"
     },
     {
       "album": {
@@ -30674,7 +30674,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153207,
-      "name": "Last Song feat Faouzia",
+      "name": "Last Song (feat. Faouzia)",
       "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
     },
     {

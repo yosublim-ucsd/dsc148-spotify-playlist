@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6Z0nWFAx7KL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Z0nWFAx7KL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Z0nWFAx7KL)
 
-### [Dance Chill](https://open.spotify.com/playlist/37i9dQZF1DX6Z0nWFAx7KL)
+### [Chill Dance](https://open.spotify.com/playlist/37i9dQZF1DX6Z0nWFAx7KL)
 
-> easy and breezy
+> easy breezy dance music
 
 285 songs - 14 hr 13 min
 

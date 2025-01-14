@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-3,032 songs - 6 day 17 hr 12 min
+3,033 songs - 6 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 | 2024-09-06 | 2024-10-26 |
 | [BRILLES](https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BRILLES](https://open.spotify.com/album/0XTugJmLUDOFHGR5Aw9J6b) | 2:14 | 2023-06-16 | 2023-06-24 |
 | [Brooklyn n'est pas assez grande](https://open.spotify.com/track/5PqC5NINZFp5DkEeJsApwM) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Brooklyn n'est pas assez grande](https://open.spotify.com/album/5IZORf8wozp9heXJX7GiAT) | 3:45 | 2023-01-27 | 2023-02-04 |
+| [Brrr](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 | 2025-01-10 |  |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2022-09-23 | 2022-10-08 |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-02-04 | 2022-02-19 |
 | [Bulletproof](https://open.spotify.com/track/7bHdCsoQTOn7Hd5r5wKTKm) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Brasco](https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Bulletproof](https://open.spotify.com/album/0aDr8UBbaSXDFziZvCrRpo) | 5:04 | 2022-12-16 | 2023-01-21 |
@@ -3035,7 +3036,7 @@
 | [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-17 | 2022-06-25 |
 | [Étrangère](https://open.spotify.com/track/6nYtXitgswiQqKT5H6i0TP) | [Liana Adam](https://open.spotify.com/artist/2Y5P8oGy4p3Rv5ANFoRACX) | [Étrangère](https://open.spotify.com/album/0M3ngovg6otMnKIJjhRUNZ) | 3:01 | 2021-12-31 | 2022-01-22 |
 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 | 2022-09-02 | 2022-09-17 |
-| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-08 |  |
+| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-08 | 2025-01-14 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-02-24 | 2023-03-11 |
 | [Évidemment](https://open.spotify.com/track/3vKUDkHunP2wapm3ZjQIh5) | [Rip Pop Mutant](https://open.spotify.com/artist/0Fkytt8xfwUxXZztw9UD58) | [Évidemment](https://open.spotify.com/album/5Wp2IwCFhXLg6t88JPEZgk) | 2:57 | 2022-03-04 | 2022-03-12 |
 | [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-01-26 | 2024-02-03 |

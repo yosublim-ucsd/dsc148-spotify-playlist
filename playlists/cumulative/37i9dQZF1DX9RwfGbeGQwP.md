@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,521 songs - 2 day 9 hr 18 min
+1,523 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-03-18 | 2023-06-06 |
 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 | 2022-09-09 | 2023-04-28 |
 | [magnolia](https://open.spotify.com/track/4Uarh7qmq8Irt4xbECXF1Q) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [magnolia](https://open.spotify.com/album/1ExdDj1kdicsO5xDFizeSB) | 2:18 | 2024-10-04 |  |
+| [mai tai](https://open.spotify.com/track/378RulUBZId4zHC5p84vm3) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [mai tai](https://open.spotify.com/album/5FeC962XxEloI9xg2HStHy) | 2:02 | 2025-01-10 |  |
 | [Make a Wish](https://open.spotify.com/track/05SkefJZoT2gKvIuzdvCEn) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Make a Wish](https://open.spotify.com/album/1d7zcjhUURKwUtPlHBIwqy) | 2:48 | 2024-03-22 | 2024-04-11 |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 |  |
 | [Makeshift](https://open.spotify.com/track/5QLqKnaiL8qaAxiudjShMg) | [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Makeshift](https://open.spotify.com/album/6C9EiBaQNCe3hdiMs6nVS6) | 2:30 | 2022-10-28 | 2023-09-29 |
@@ -909,6 +910,7 @@
 | [newton photographs.](https://open.spotify.com/track/5rXLp36x4fIeyvxRLO5Zzz) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [newton photographs.](https://open.spotify.com/album/1b52CvnaTEWegZejdI276b) | 1:52 | 2023-05-19 | 2023-11-08 |
 | [Next Chapter](https://open.spotify.com/track/1iPLQ6VARP7lFaE45ezw3W) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Next Chapter](https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS) | 1:36 | 2022-01-27 | 2022-06-10 |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-01-27 | 2023-05-20 |
+| [Nicosia](https://open.spotify.com/track/52g1AKlXLq3lHnE7ZlsVlq) | [Onyx Value](https://open.spotify.com/artist/5Efar71Lbvxm2HjDpl45b4) | [Nicosia](https://open.spotify.com/album/71WJXEyMnjkEephI5ONKpI) | 2:31 | 2025-01-10 |  |
 | [Night Cafe](https://open.spotify.com/track/6ZvDVvzD7W02NIKebeS7he) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Night Cafe](https://open.spotify.com/album/61Ke3OFMYte9aaKgj4ljYI) | 2:24 | 2022-05-13 | 2022-11-26 |
 | [Night Drive](https://open.spotify.com/track/3HpxScbsqFaFm1Zf1ZYRBm) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Night Drive](https://open.spotify.com/album/7JYgG86oK5DFMiSp6jHhFr) | 1:45 | 2022-08-12 | 2022-10-09 |
 | [Night Fall](https://open.spotify.com/track/5VoNMQnReFhac59idZ1lNS) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Night Fall](https://open.spotify.com/album/0enjpcBfAWYIk4hwQqYwDP) | 1:58 | 2024-12-13 |  |
@@ -1228,7 +1230,7 @@
 | [Spinach](https://open.spotify.com/track/3fhiTiCkp2Vb2T5bpNsopZ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [GRN](https://open.spotify.com/album/6gVEbL9Gpyx2oYIcNAdr7N) | 2:37 | 2022-01-27 | 2022-09-03 |
 | [Spiritual State](https://open.spotify.com/track/5JrPCcTiJMNvQmZ3OAiHNf) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Spiritual State](https://open.spotify.com/album/1IO6AGIqlwckR4lWUGaVSR) | 1:14 | 2022-11-11 | 2023-09-29 |
 | [springfeel](https://open.spotify.com/track/3tiJSouABGhdavwAdtxaoS) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [springfeel](https://open.spotify.com/album/5B5FChuXQYXVZHXeidfbGM) | 2:12 | 2023-07-13 | 2024-05-14 |
-| [Square](https://open.spotify.com/track/3fRppxMcSzxXIvQwEuMtV4) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Square](https://open.spotify.com/album/7A5kZKRWSNSW3NN16e52da) | 2:04 | 2023-04-11 |  |
+| [Square](https://open.spotify.com/track/3fRppxMcSzxXIvQwEuMtV4) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Square](https://open.spotify.com/album/7A5kZKRWSNSW3NN16e52da) | 2:04 | 2023-04-11 | 2025-01-14 |
 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 | 2024-09-13 |  |
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [Stargazing](https://open.spotify.com/track/2LoG2hHYfOchc1DknWJ74n) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [francis neverfrozen](https://open.spotify.com/artist/7AwYggzFDddHG7tC7nVdbr) | [Stargazing](https://open.spotify.com/album/3YBxjT1HmhFt07jVSCnaJD) | 3:01 | 2024-12-13 | 2025-01-02 |
@@ -1470,7 +1472,7 @@
 | [Wednesdays](https://open.spotify.com/track/1C1yKiloy8hIcAtVT6d9KS) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Wednesdays](https://open.spotify.com/album/40If2gI2bSpZiaUTcIQUKV) | 2:44 | 2023-05-19 | 2023-06-06 |
 | [Weightless](https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Weightless](https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK) | 2:34 | 2023-10-27 |  |
 | [What's For Dessert?](https://open.spotify.com/track/3yGIwZB68iW9gjK0ggNG7S) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [What's For Dessert?](https://open.spotify.com/album/2F7iRgvwoFXOvgpK4tCNNZ) | 2:43 | 2022-06-03 |  |
-| [what's left?](https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [what's left?](https://open.spotify.com/album/6PsJM4y6a9f57wrhRaMwXh) | 2:01 | 2023-02-24 |  |
+| [what's left?](https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [what's left?](https://open.spotify.com/album/6PsJM4y6a9f57wrhRaMwXh) | 2:01 | 2023-02-24 | 2025-01-14 |
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-06 |  |
 | [wheel2wheel](https://open.spotify.com/track/0TfKydTLI9ZZt0rPjiAZZa) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [wheel2wheel](https://open.spotify.com/album/7jcbLFAhki4ph2lTLB8fgL) | 2:46 | 2024-02-02 |  |
 | [Whelve](https://open.spotify.com/track/1vjYMAt9cUzr2oMbAR94lT) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Whelve](https://open.spotify.com/album/7MQ7vF6UYsB900kxaSjUPs) | 1:53 | 2022-04-15 | 2022-10-29 |

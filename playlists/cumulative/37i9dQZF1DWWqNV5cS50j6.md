@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,781 songs - 3 day 13 hr 30 min
+1,782 songs - 3 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -990,6 +990,7 @@
 | [Metal Wings](https://open.spotify.com/track/2lY7DpTKGfBZQihvvqJ0Pg) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Metal Wings](https://open.spotify.com/album/7pK3uwwn6UwGfSqxLxJWs5) | 2:42 | 2020-10-13\* | 2021-01-23 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2021-05-08 | 2021-10-13 |
 | [Mi Amor](https://open.spotify.com/track/24HSfFvHV5JBBqKCugBjdL) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Mi Amor](https://open.spotify.com/album/03b21NzcAhKoKKx32OWjSJ) | 1:59 | 2022-12-16 | 2023-01-12 |
+| [mice band](https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [mice band](https://open.spotify.com/album/4UH7rJDKBJu36MyzCeGTtr) | 1:28 | 2025-01-13 |  |
 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 | 2022-07-18 | 2022-11-17 |
 | [Mickey Mantle](https://open.spotify.com/track/6Si88LOpqlrH03AsPDdjlk) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Mickey Mantle](https://open.spotify.com/album/50SRRUNa2X2xm4pkbAVUET) | 2:19 | 2024-03-14 | 2024-03-20 |
 | [Midnight](https://open.spotify.com/track/5swOvt1IP61rzmBDSuUgL7) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Good Shot](https://open.spotify.com/album/6QGDcuKvellnJ05A0FboXL) | 1:24 | 2023-06-16 | 2023-07-22 |

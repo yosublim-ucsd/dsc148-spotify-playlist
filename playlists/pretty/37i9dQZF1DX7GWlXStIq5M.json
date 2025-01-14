@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372415,
+  "num_followers": 372405,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2025-01-10 03:25:44",
       "album": {
+        "name": "Encontros",
+        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
+      },
+      "artists": [
+        {
+          "name": "C.L",
+          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
+        },
+        {
+          "name": "Karol Fernandez",
+          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Encontros",
+      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "added_at": "2025-01-10 03:25:44",
+      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2025-01-10 03:25:44",
-      "album": {
-        "name": "Encontros",
-        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
-      },
-      "artists": [
-        {
-          "name": "C.L",
-          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
-        },
-        {
-          "name": "Karol Fernandez",
-          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Encontros",
-      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
     },
     {
       "added_at": "2025-01-10 03:25:44",

@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAAtDk3xhX3S+sUwjjCkUFiL6r8IVK6",
+  "snapshot_id": "AAAAtm1VRANk2eL/+wl0d/IO88kFWovl",
   "tracks": [
     {
       "added_at": "2021-12-01 17:59:34",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa"
     },
     {
-      "added_at": "2025-01-11 16:39:37",
-      "album": {
-        "name": "Deep Down Happy",
-        "url": "https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 175092,
-      "name": "Here's The Thing",
-      "url": "https://open.spotify.com/track/08WlCqv58b7ivVAHcOygTp"
-    },
-    {
       "added_at": "2025-01-11 16:39:43",
       "album": {
         "name": "Deep Down Happy",
@@ -1287,6 +1271,22 @@
       "duration_ms": 213626,
       "name": "Camel Crew",
       "url": "https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF"
+    },
+    {
+      "added_at": "2025-01-13 15:53:09",
+      "album": {
+        "name": "Keep Walking!",
+        "url": "https://open.spotify.com/album/1LcZ72USC40lsFSjKfoSqu"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 217798,
+      "name": "M5",
+      "url": "https://open.spotify.com/track/20Bb5TgjHcEgSDYi7H697D"
     }
   ],
   "unique_name": "very famous white girl songs",

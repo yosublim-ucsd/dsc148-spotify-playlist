@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 180000,
       "name": "\u05d0\u05d9\u05df \u05de\u05e8\u05d7\u05e7 \u05d1\u05d9\u05e0\u05d9\u05e0\u05d5",
       "url": "https://open.spotify.com/track/5vrzcGVyLeru7vHm89EvRr"
@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d3\u05e8\u05da \u05dc\u05e9\u05d1\u05d9\u05dc \u05d4\u05d6\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy"
+      },
+      "artists": [
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/4WbQaxKI0R0SmWNZvgUDNz"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
         "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 187179,
       "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
       "url": "https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze"
@@ -1550,6 +1568,24 @@
       "duration_ms": 182439,
       "name": "\u05e2\u05d5\u05d1\u05d3 \u05d1\u05db\u05e4\u05e8",
       "url": "https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR"
+    },
+    {
+      "album": {
+        "name": "\u05e2\u05d5\u05d3 \u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/4MKFSpjafLqBkzJuyhLkVJ"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "\u05e2\u05d5\u05d3 \u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/15leAeXFh1WX1QOxp1LnOS"
     },
     {
       "album": {

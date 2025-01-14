@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36936,
+  "num_followers": 36938,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "cry no more",
-        "url": "https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 196929,
-      "name": "cry no more",
-      "url": "https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Dein Herz",
         "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "cry no more",
+        "url": "https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 196929,
+      "name": "cry no more",
+      "url": "https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -371,22 +387,6 @@
       "duration_ms": 151845,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Ein bisschen Frieden",
-        "url": "https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ"
-      },
-      "artists": [
-        {
-          "name": "San Silvan",
-          "url": "https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT"
-        },
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 232405,
-      "name": "Ein bisschen Frieden",
-      "url": "https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Descontrol",
         "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Ein bisschen Frieden",
+        "url": "https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ"
+      },
+      "artists": [
+        {
+          "name": "San Silvan",
+          "url": "https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT"
+        },
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 232405,
+      "name": "Ein bisschen Frieden",
+      "url": "https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "I'll Never Tire of Loving You",
+        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "I'll Never Tire of Loving You",
+      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Ehrlich",
         "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "I'll Never Tire of Loving You",
-        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "I'll Never Tire of Loving You",
-      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "I Hate The Sun",
-        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 202623,
-      "name": "I Hate The Sun",
-      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "I Hate The Sun",
+        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 202623,
+      "name": "I Hate The Sun",
+      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
     },
     {
       "added_at": "2025-01-10 03:33:11",

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23630,
+  "num_followers": 23632,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-06 S.E.M",
+        "url": "https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH"
+      },
+      "artists": [
+        {
+          "name": "S.E.M",
+          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
+        }
+      ],
+      "duration_ms": 291146,
+      "name": "\u221e Possibilities",
+      "url": "https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 07",
         "url": "https://open.spotify.com/album/3EC0iMsWrwHzZxL2LoRDuM"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
-      },
-      "artists": [
-        {
-          "name": "THE \u864e\u7259\u9053",
-          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "PROOF OF ONESELF",
-      "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
         "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 301426,
       "name": "\u60f3\u3044\u306fETERNITY",
       "url": "https://open.spotify.com/track/6dxGtSsLh5i5KUUmkIe9UI"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+      },
+      "artists": [
+        {
+          "name": "THE \u864e\u7259\u9053",
+          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
+        }
+      ],
+      "duration_ms": 260820,
+      "name": "PROOF OF ONESELF",
+      "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
-        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
-      },
-      "artists": [
-        {
-          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
-          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Cherish BOUQUET",
-      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
         "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
+        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
+          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Cherish BOUQUET",
+      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a04 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 247573,
       "name": "Delicious Delivery",
       "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
-        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
-      },
-      "artists": [
-        {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Make New Legend",
-      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1163,6 +1163,22 @@
       "duration_ms": 281334,
       "name": "OUR SONG -\u305d\u308c\u306f\u4e16\u754c\u3067\u3072\u3068\u3064\u3060\u3051-",
       "url": "https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
+        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Make New Legend",
+      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 305186,
       "name": "Never end \"Opus\"",
       "url": "https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M",
-        "url": "https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE"
-      },
-      "artists": [
-        {
-          "name": "S.E.M",
-          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Multiple Entertainment Show!",
-      "url": "https://open.spotify.com/track/2TntR07b85I4VG8htD397u"
     },
     {
       "added_at": "2024-12-10 15:00:00",

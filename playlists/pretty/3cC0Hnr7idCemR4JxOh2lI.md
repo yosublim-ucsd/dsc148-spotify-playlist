@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/3cC0Hnr7idCemR4JxOh2lI.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shake, Rattle And Roll](https://open.spotify.com/track/5lYlyFZkOEVVVPnYIaOtlG) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/6XWnPrt3YxHCGeM5VXEjMJ) | 3:26 |
-| 2 | [She's A Waitress \(And I'm In Love\)](https://open.spotify.com/track/2miOGLe6Yf3bPWasoULAt4) | [5 Chinese Brothers](https://open.spotify.com/artist/1R4pmPwtqtSXgdEdGy3xyS) | [Singer Songwriter Beggarman Thief](https://open.spotify.com/album/0leEQeMFIRoBqvzlAtKzhK) | 3:49 |
+| 2 | [She's a Waitress \(And I'm in Love\)](https://open.spotify.com/track/2miOGLe6Yf3bPWasoULAt4) | [5 Chinese Brothers](https://open.spotify.com/artist/1R4pmPwtqtSXgdEdGy3xyS) | [Singer Songwriter Beggarman Thief](https://open.spotify.com/album/0leEQeMFIRoBqvzlAtKzhK) | 3:49 |
 | 3 | [Dark As a Dungeon](https://open.spotify.com/track/0WWCQxTh47eazoYbGhXq2A) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Many Moods Of Belafonte/ Ballads, Blues & Boasters](https://open.spotify.com/album/7J7Zeb5GL7oBkhgIQ2D0do) | 4:07 |
 | 4 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
 | 5 | [This And That](https://open.spotify.com/track/3E1PEeT4YrRZOYRuUpmR4Q) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Legendary Tom Jones \- 30th Anniversary Album](https://open.spotify.com/album/5gRIM2aYU6IW1oCij8r1pK) | 3:02 |

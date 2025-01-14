@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-221 songs - 17 hr 54 min
+222 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Khalinahalkom](https://open.spotify.com/track/4aKGsTXCnWaQbizUAzm79Z) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Akil Sghir](https://open.spotify.com/artist/0yY561ap6MKDzXlCf07O4p) | [Khalinahalkom](https://open.spotify.com/album/76nZsAEWzZRo3riJWGigqz) | 4:15 | 2021-10-19 | 2023-01-07 |
 | [Khalini Khalini \- Remix](https://open.spotify.com/track/0iUkqgXwK50tprCzFwsrKL) | [Cheb Midou](https://open.spotify.com/artist/79rdsoSMXU2asEnE50Qtol), [DJ Psyico](https://open.spotify.com/artist/7KrPKqkApWnECIUoouaQxY) | [Khalini Khalini \(Remix\)](https://open.spotify.com/album/49bqbVlUrDRPOgHIfwYe9Z) | 3:24 | 2021-10-19 | 2022-09-21 |
 | [Khatira Khatira](https://open.spotify.com/track/1ANh0Pyrr6axtL5PhoRqPh) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Halaou Laou](https://open.spotify.com/album/6lFGyoekQTFfltRpxY7Bpd) | 9:42 | 2022-10-25 | 2024-02-13 |
+| [Khatra Trouh Khatra Tji](https://open.spotify.com/track/5Q9jPMLj8BVPQwhqjyHsnx) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Khatra Trouh Khatra Tji](https://open.spotify.com/album/7A4BBjY47n9sFWvxNczrhU) | 5:34 | 2025-01-13 |  |
 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 | 2021-10-19 | 2022-12-07 |
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [Ki telfetlah bgha ykatefna](https://open.spotify.com/track/1XAwe7TX1iSlVBB0U2tNyl) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Ki telfetlah bgha ykatefna](https://open.spotify.com/album/3ZjkQpXeOF0weNHOyMUFtF) | 4:26 | 2024-02-05 |  |
@@ -209,7 +210,7 @@
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2024-06-01 |
 | [رڨصيلي كي شابة شوشو](https://open.spotify.com/track/4iGQQ8qFVv40cAWfMXHhxZ) | [Cheb Fatah Sghir](https://open.spotify.com/artist/1H57SKDukOD5AEpQkBkeyO) | [رڨصيلي كي شابة شوشو](https://open.spotify.com/album/6zzNV2C7hhBeRY1ndwtFnZ) | 2:56 | 2024-09-01 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 | 2024-07-17 |
-| [شراب الويدان](https://open.spotify.com/track/1otNyAT6Af7ilamYB4xdId) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/605uxuCJibXdgmzAKxdj8B) | 5:49 | 2024-11-19 |  |
+| [شراب الويدان](https://open.spotify.com/track/1otNyAT6Af7ilamYB4xdId) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/605uxuCJibXdgmzAKxdj8B) | 5:49 | 2024-11-19 | 2025-01-14 |
 | [شراب الويدان](https://open.spotify.com/track/7Chv3BRGYqKzYM7GdP5DSV) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/003tEy6YSd9JLCpyaPyJP0) | 5:49 | 2025-01-05 |  |
 | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/album/1TvQ3FKMchGMi67E2uYYrP) | 8:40 | 2023-12-28 |  |
 | [شكون لي دارلي](https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [شكون لي دارلي](https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g) | 1:40 | 2024-03-16 | 2024-05-14 |

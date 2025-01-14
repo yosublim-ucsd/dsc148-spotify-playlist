@@ -4,7 +4,7 @@
 
 > Hindi hip hop hits, fiery bars, and killer beats\. Cover: Paradox
 
-211 songs - 10 hr 52 min
+212 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [MISFIT](https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [MISFIT](https://open.spotify.com/album/6rJeuCqFpo3YB8s6j4cHvt) | 2:35 | 2024-06-28 |  |
 | [MOOSA](https://open.spotify.com/track/3FNHdfTPtmxlalX7NtNhoP) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [MOOSA](https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX) | 2:34 | 2023-03-10 | 2023-04-22 |
 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2025-01-06 |  |
-| [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 | 2025-01-06 |  |
+| [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 | 2025-01-06 | 2025-01-14 |
 | [Nahi Hai Woh](https://open.spotify.com/track/5ABFNlJxjH3fgI41ePqgZd) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Nahi Hai Woh](https://open.spotify.com/album/08ZMnNLFa5lDq08HzUJ4v1) | 4:20 | 2023-03-10 | 2023-10-12 |
 | [Naksha](https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:26 | 2024-08-26 | 2025-01-07 |
 | [Nanchaku](https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nanchaku](https://open.spotify.com/album/4cniRITVrmzAABlGgNv6k4) | 3:13 | 2023-03-10 | 2024-08-27 |
@@ -156,6 +156,7 @@
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-09-01 |  |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 |  |
 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-03-10 | 2024-10-01 |
+| [RAAT KHATAM](https://open.spotify.com/track/5ouEJmTeRmpnE3jDcUalQ4) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [POLARIS](https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o) | 3:16 | 2025-01-13 |  |
 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 | 2024-08-26 |  |
 | [RED](https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hisab](https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 5:03 | 2024-12-14 |  |
 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 | 2023-03-10 | 2023-11-07 |

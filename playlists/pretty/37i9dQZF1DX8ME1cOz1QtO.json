@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 101911,
+  "num_followers": 101970,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Judith Tripp",
-          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
-        }
-      ],
-      "duration_ms": 399560,
-      "name": "Li Sun",
-      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
         "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 455333,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Judith Tripp",
+          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
+        }
+      ],
+      "duration_ms": 399560,
+      "name": "Li Sun",
+      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
     },
     {
       "added_at": "2023-08-18 14:02:54",

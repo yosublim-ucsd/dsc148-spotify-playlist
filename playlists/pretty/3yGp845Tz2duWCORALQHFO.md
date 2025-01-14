@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,830 likes - 47 songs - 2 hr 32 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,832 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 1 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 2 | [Act a Fool](https://open.spotify.com/track/6TFNFOLS48wPXKSkReDbDd) | [Truth Is](https://open.spotify.com/artist/5IevTLPkOgpw5aE2JTgW8U) | [Act a Fool](https://open.spotify.com/album/4d86JwdWCGr625IA9loeDA) | 3:28 |
 | 3 | [Come to My Life](https://open.spotify.com/track/2myUkzhScpsWBUjagyfi6i) | [Alex Helder](https://open.spotify.com/artist/6cbXILecQo6SFQMLQF6SD4) | [Come to My Life](https://open.spotify.com/album/0Q828T1PmUhRknWc61TRnP) | 2:50 |
 | 4 | [Lost In Loving You](https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Lost In Loving You](https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO) | 2:35 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 6 | [Resonance \- Protoculture Remix](https://open.spotify.com/track/7llqewLsbKqFX96fypENsb) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [LK](https://open.spotify.com/artist/2elbMDQdGCUjl9TXuJxYDY), [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Resonance](https://open.spotify.com/album/5AMiSfue86HRwDMrlYSwra) | 4:07 |
 | 7 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
 | 8 | [Bounce It](https://open.spotify.com/track/2nDW6RRvpzsC6vBgBatwTf) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Bae & Bounce It](https://open.spotify.com/album/2wvFnq1M01S8leQAGpZkJG) | 4:36 |
-| 9 | [Last Song feat Faouzia](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
+| 9 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 10 | [Without Me](https://open.spotify.com/track/0fPToGi0oEi64ocyXgI0WN) | [Aldor](https://open.spotify.com/artist/2prRkk6DdBRZ8QbDQdslE4), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv) | [Without Me](https://open.spotify.com/album/2ItNl6fOFp9R6nSGxR0kkU) | 3:09 |
 | 11 | [Miracle](https://open.spotify.com/track/196vYOLRFZbyUYXlIjDHf8) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Miracle](https://open.spotify.com/album/5FNVIQiCLGT9oCQPT2lfIt) | 3:30 |
 | 12 | [The Edge \(of the End\)](https://open.spotify.com/track/0DlHcmxGyzgXKiiLrb2Lhu) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [The Edge \(of the End\)](https://open.spotify.com/album/0IuZGAGfcajSUvyP5I9G36) | 2:55 |

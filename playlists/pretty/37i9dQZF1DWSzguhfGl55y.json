@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 640273,
+  "num_followers": 640321,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -586,6 +586,14 @@
         {
           "name": "Max Herre",
           "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        },
+        {
+          "name": "Don Philippe",
+          "url": "https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU"
+        },
+        {
+          "name": "DJ Friction",
+          "url": "https://open.spotify.com/artist/3uLb8nsdXtUHeO1ns9HobZ"
         }
       ],
       "duration_ms": 366133,
@@ -899,18 +907,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "#Beste",
-        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
+        "name": "German Dream Allstars",
+        "url": "https://open.spotify.com/album/0I3oXP3UnoBGzKAsyPpvxi"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Eko Fresh",
+          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
+        },
+        {
+          "name": "German Dream Allstars",
+          "url": "https://open.spotify.com/artist/4v4APTxh7SMlIW7kshRjc5"
         }
       ],
-      "duration_ms": 250680,
-      "name": "Hey Du!",
-      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
+      "duration_ms": 301373,
+      "name": "Die Abrechnung",
+      "url": "https://open.spotify.com/track/3fGDoRUzlcfbawlW6aCXlz"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

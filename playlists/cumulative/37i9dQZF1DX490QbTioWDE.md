@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Yami Safdie & Q´ Lokura.
 
-513 songs - 1 day 7 hr 40 min
+514 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 | 2023-04-07 | 2024-06-17 |
 | [En Eso No Quedamos](https://open.spotify.com/track/4qtoQsIlmCeyNgAEYwxTsv) | [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [En Eso No Quedamos](https://open.spotify.com/album/1xwFg2YGtumMe9NimRouHE) | 2:38 | 2022-01-10 | 2022-06-03 |
 | [En Esta Boca](https://open.spotify.com/track/2qoViFH47tZDwL86vBOKyL) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez) | [En Esta Boca](https://open.spotify.com/album/0cD8iuFFMVEOpYhpImvyiq) | 3:24 | 2024-03-22 | 2024-07-03 |
-| [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \(En Vivo\)](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 | 2024-09-13 |  |
+| [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \(En Vivo\)](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 | 2024-09-13 | 2025-01-14 |
 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 | 2024-08-20 |  |
 | [En Mi Cama una Cualquiera](https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 3:43 | 2021-12-24 | 2022-07-29 |
 | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA) | 2:28 | 2024-12-13 |  |
@@ -461,6 +461,7 @@
 | [Tiburona](https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Tiburona](https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw) | 3:33 | 2023-01-27 | 2023-03-04 |
 | [Tinta China \- En Vivo](https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Magia de La Mona \(En Vivo '92\)](https://open.spotify.com/album/0ZfDwnnPHU8GHUZ7GhVcY2) | 3:20 | 2021-12-24 | 2022-07-24 |
 | [Tiroteo](https://open.spotify.com/track/1tBVgpPIp4JzLwsQwefgn9) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Tiroteo](https://open.spotify.com/album/1PUQVzxwTvCy6nk1fhCSEi) | 3:04 | 2022-08-12 | 2022-08-27 |
+| [Todavia voy bien \- En Vivo](https://open.spotify.com/track/0WLdVvEvYTyoMu429NUHpS) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Todavia voy bien \(En Vivo\)](https://open.spotify.com/album/2a0KHfUSRJ8EZuKZVP7bfz) | 2:45 | 2025-01-10 |  |
 | [Todo de Ti](https://open.spotify.com/track/5lB6Mw0tzPPuMSNW4ugVtV) | [Pablo David Ortíz](https://open.spotify.com/artist/3EC3hWUFF9Z9aLweuY5Zrm), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Todo de Ti](https://open.spotify.com/album/49msWjpNAw9RtfCuh6nBnB) | 2:52 | 2022-02-18 | 2022-07-12 |
 | [Todo de Tí](https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [El Joaco](https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA) | [Todo de Tí](https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4) | 2:59 | 2022-07-22 | 2023-05-12 |
 | [Todo de Tí](https://open.spotify.com/track/27kCWTL6PxG7tDghvRmRaU) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [El Joaco](https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA) | [Todo de Tí](https://open.spotify.com/album/48rfGjtK1o7k8f6hcnSbbY) | 2:59 | 2021-12-24 | 2022-07-29 |

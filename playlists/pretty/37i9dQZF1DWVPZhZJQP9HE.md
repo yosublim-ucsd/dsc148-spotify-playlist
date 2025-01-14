@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,386 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,397 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 4 | [60 FRAMES](https://open.spotify.com/track/5L9hCrIExtWkPVytrD9uOi) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [60 FRAMES](https://open.spotify.com/album/7kiQxQIrpqCMczjW9LuYAh) | 2:34 |
 | 5 | [Thodarum Intha Payanam](https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm) | [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx), [Sahul](https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO) | [Thodarum Intha Payanam](https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7) | 4:40 |
 | 6 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 |
-| 7 | [Yendhizhaye](https://open.spotify.com/track/3nLXHO8Mkv3gSQGatuOKUk) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Soundararajan K](https://open.spotify.com/artist/71pwW7cVZxIz3MEnqZHqwQ) | [Yendhizhaye](https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V) | 3:58 |
+| 7 | [Yendhizhaye](https://open.spotify.com/track/3nLXHO8Mkv3gSQGatuOKUk) | [Ashwath](https://open.spotify.com/artist/0ZME1dtaOU96fNDeTTAnnM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Soundararajan K](https://open.spotify.com/artist/71pwW7cVZxIz3MEnqZHqwQ) | [Yendhizhaye](https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V) | 3:58 |
 | 8 | [Aiyanar Kudurai \- From "Raushan"](https://open.spotify.com/track/7hgKKVqJYdRs3SQtLLZWkz) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aiyanar Kudurai \(From "Raushan"\)](https://open.spotify.com/album/6INfnfKlxeNzFuqZeHG9EA) | 4:13 |
 | 9 | [Kadhal AI](https://open.spotify.com/track/0JTvL42E0RkcFN29Sybgl5) | [Guru B](https://open.spotify.com/artist/42J6TeraKObd9lXzqbH7sp), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Kadhal AI](https://open.spotify.com/album/5uygOxwin4fXQgKuC9jNjT) | 3:32 |
 | 10 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |

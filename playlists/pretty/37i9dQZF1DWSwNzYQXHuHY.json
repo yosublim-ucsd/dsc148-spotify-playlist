@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10507,
+  "num_followers": 10514,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
-      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "something between us (Romance 101 X george)",
         "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 248076,
       "name": "something between us (Romance 101 X george)",
       "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "how can i do",
-        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        },
-        {
-          "name": "YooJeong",
-          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
-        }
-      ],
-      "duration_ms": 169599,
-      "name": "how can i do (Feat. YooJeong)",
-      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -859,18 +839,38 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa"
+        "name": "how can i do",
+        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
       },
       "artists": [
         {
-          "name": "Song Youjin",
-          "url": "https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga"
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
         }
       ],
-      "duration_ms": 204306,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
+      "duration_ms": 169599,
+      "name": "how can i do (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     }
   ],
   "unique_name": "\uc378 (Something)",

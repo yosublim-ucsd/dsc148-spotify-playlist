@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-368 songs - 16 hr 38 min
+369 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-04-28 | 2023-09-01 |
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 | 2023-06-23 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
+| [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 | 2025-01-13 |  |
 | [Aarhus](https://open.spotify.com/track/3EtQMeQ0OizN22bky9Nvyn) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Aarhus](https://open.spotify.com/album/5NFP5utJIVAevIcCl2Qh5X) | 2:37 | 2024-08-20 |  |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 | 2023-02-25 |
 | [Across A Meadow](https://open.spotify.com/track/3RpkQpRRqEXeMGjrEUcBtd) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Across A Meadow](https://open.spotify.com/album/6PI4DxEtl5CokXt2ytYrHv) | 2:32 | 2024-05-10 |  |

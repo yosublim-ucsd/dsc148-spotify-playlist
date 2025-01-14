@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 177508,
       "name": "En la cara - En Vivo",
       "url": "https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY"
@@ -8876,6 +8876,28 @@
       "duration_ms": 184465,
       "name": "Tiroteo",
       "url": "https://open.spotify.com/track/1tBVgpPIp4JzLwsQwefgn9"
+    },
+    {
+      "album": {
+        "name": "Todavia voy bien (En Vivo)",
+        "url": "https://open.spotify.com/album/2a0KHfUSRJ8EZuKZVP7bfz"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165499,
+      "name": "Todavia voy bien - En Vivo",
+      "url": "https://open.spotify.com/track/0WLdVvEvYTyoMu429NUHpS"
     },
     {
       "album": {

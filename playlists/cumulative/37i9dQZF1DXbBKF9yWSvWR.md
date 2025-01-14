@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Hiqpy
 
-237 songs - 13 hr 45 min
+238 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-24 | 2024-10-04 |
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-23 | 2025-01-08 |
 | [Back Again](https://open.spotify.com/track/4cOoQ3HjF2bwnDOJvhxOKg) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Back Again](https://open.spotify.com/album/2OetjekECC900yqLwMGRfH) | 3:17 | 2024-09-05 | 2024-11-15 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-01-13 |  |
 | [Bad Dream](https://open.spotify.com/track/23zZSl1IfP6SOz11OQiQBl) | [KAT SKILLS](https://open.spotify.com/artist/2nWGw8Lc84s7mukYgFCFAN) | [Bad Dream](https://open.spotify.com/album/2JX7wJv4XVlXolWqdV3TKW) | 2:35 | 2024-10-23 | 2024-12-19 |
 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP), [onzekere guy](https://open.spotify.com/artist/3a5u8lJqeBPWSc1jCWfhbF) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 | 2024-12-18 |  |
 | [Better, I Swear](https://open.spotify.com/track/74rfrufWL0TF6ORmled9w8) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF), [Lara Chedraoui](https://open.spotify.com/artist/5IChSgxJI43mKPYp6S34Jx) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 4:03 | 2024-10-23 | 2024-12-19 |
@@ -103,7 +104,7 @@
 | [I Guess I Just Feel Like](https://open.spotify.com/track/2j2Ff4Tl9WNvkeey3ChP7k) | [HEBE](https://open.spotify.com/artist/1MRHpcPa6DxFio08LUpuFJ) | [I Guess I Just Feel Like](https://open.spotify.com/album/7lyKRWnqVdzhj6AXVX9qfV) | 3:06 | 2024-06-24 | 2024-07-16 |
 | [I Wanna Know](https://open.spotify.com/track/5V8vO1h5HJAcwt1INaK4LA) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [I Wanna Know](https://open.spotify.com/album/4ESDAKoD962Ung9T8UlrbL) | 2:18 | 2024-07-09 | 2024-10-04 |
 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 | 2024-06-24 | 2024-08-31 |
-| [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2024-11-06 |  |
+| [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2024-11-06 | 2025-01-14 |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-09-05 | 2024-11-15 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-08-01 | 2024-10-24 |
 | [In My House](https://open.spotify.com/track/29IImCkTjioBd7YEDmvQDS) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House](https://open.spotify.com/album/2VLG0K4y9i7eTeaNOzuYXb) | 3:03 | 2024-09-05 | 2024-12-03 |

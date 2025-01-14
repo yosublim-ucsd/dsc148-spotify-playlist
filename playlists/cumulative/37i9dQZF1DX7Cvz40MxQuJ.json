@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za"
+      },
+      "artists": [
+        {
+          "name": "Richard Armitage",
+          "url": "https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb"
+        },
+        {
+          "name": "The Dwarf Cast",
+          "url": "https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102740,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/4Ma4BH61aVbTpl0LMyArCy"
+    },
+    {
+      "album": {
         "name": "Crossing the Stone",
         "url": "https://open.spotify.com/album/3BgV8IdbhEKFeitGfUcNVm"
       },

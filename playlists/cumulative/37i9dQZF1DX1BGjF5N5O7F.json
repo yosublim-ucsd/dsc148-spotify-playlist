@@ -1691,6 +1691,32 @@
     },
     {
       "album": {
+        "name": "Sex & Rage",
+        "url": "https://open.spotify.com/album/1JdVm6awAfqiS8SPDpRf2S"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Sex & Rage",
+      "url": "https://open.spotify.com/track/7jv1PP8qBwHjEx8GQhhsCz"
+    },
+    {
+      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -2134,7 +2160,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 357773,
       "name": "Too Repressed - Explicit",
       "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"

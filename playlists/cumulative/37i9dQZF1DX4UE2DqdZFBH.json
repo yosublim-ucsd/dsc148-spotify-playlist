@@ -1575,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "AZAADI",
+        "url": "https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz"
+      },
+      "artists": [
+        {
+          "name": "Susmit Sen",
+          "url": "https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s"
+        },
+        {
+          "name": "Gayathri Natarajan",
+          "url": "https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577294,
+      "name": "Mazaar",
+      "url": "https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc"
+    },
+    {
+      "album": {
         "name": "The Lost Cause",
         "url": "https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i"
       },
@@ -2258,7 +2280,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-14",
       "duration_ms": 309818,
       "name": "So\u2026Now Hear This",
       "url": "https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx"

@@ -2,7 +2,7 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> bands and tracks on the rise in heavy music\. Cover: CANDY
+> bands and tracks on the rise in heavy music\. Cover: Knosis
 
 253 songs - 14 hr 39 min
 
