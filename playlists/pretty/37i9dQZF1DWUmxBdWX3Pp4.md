@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del trap latino con Arcangel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,791 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,912 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 10 | [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 |
 | 11 | [DUELE](https://open.spotify.com/track/6CzozhzNVBfxmUthlZiYm4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:25 |
 | 12 | [Ruleta](https://open.spotify.com/track/3Vv3mvIbY45MFMowOz4odr) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Ruleta](https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0) | 2:21 |
-| 13 | [Heavyweight Pt\. 2](https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Heavyweight Pt\. 2](https://open.spotify.com/album/7ucHFWkHT4HSI14Ht0wz4X) | 2:04 |
+| 13 | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/album/7ucHFWkHT4HSI14Ht0wz4X) | 2:04 |
 | 14 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 |
 | 15 | [Wake Up & Bake Up](https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:26 |
 | 16 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 |

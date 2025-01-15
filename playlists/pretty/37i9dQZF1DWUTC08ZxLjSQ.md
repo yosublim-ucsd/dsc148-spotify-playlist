@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain](/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUTC08ZxLjSQ)
 
-### [Fresh Finds Saudi: Class 2k24](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
+### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Seera Band, Kali\-B, Brownmusic, & Grzzlee\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,497 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,502 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Lost It All =○<](https://open.spotify.com/track/7lpzWhFCuerdiELZS7yvBO) | [Hadi X](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Lost It All =○<](https://open.spotify.com/album/2eka10ou8E4rqTaT1mJy65) | 3:10 |
 | 50 | [Salam aleykoum](https://open.spotify.com/track/5YBYZlNvyikesrSmpDSOpX) | [Driss Lahlou](https://open.spotify.com/artist/2ubqk2IdJTM5QUhuskBjp9), [Amanar](https://open.spotify.com/artist/2LW1fReOfFs7DTz55eNR6E) | [Salam Aleykum](https://open.spotify.com/album/0gW4OVmh63retRi8vSINHZ) | 3:48 |
 
-Snapshot ID: `Z0ZLfwAAAAAZbITdXPJ8Ycb0PcmLyKVo`
+Snapshot ID: `Z4aTewAAAADETTJqFlQF7W/wc5ERwDG1`

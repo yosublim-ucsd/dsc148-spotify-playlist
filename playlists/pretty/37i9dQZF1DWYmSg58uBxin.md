@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,208 likes - 142 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,326 likes - 142 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 |
 | 2 | [Beyond The Glimmering Light](https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Beyond The Glimmering Light](https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN) | 2:39 |
 | 3 | [Invitation](https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Invitation](https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx) | 2:54 |
-| 4 | [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 |
-| 5 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
-| 6 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 |
-| 7 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
-| 8 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
-| 9 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
+| 4 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
+| 5 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 |
+| 6 | [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 |
+| 7 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
+| 8 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
+| 9 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
 | 10 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
 | 11 | [Summer Breeze](https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Summer Breeze](https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd) | 2:18 |
 | 12 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 141 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 |
 | 142 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 |
 
-Snapshot ID: `Z30U0wAAAADLzmsFZvEZfF3mM+m6dvSn`
+Snapshot ID: `Z4Y2vAAAAAABs/ukMCIkGkcEPj3p3qRD`

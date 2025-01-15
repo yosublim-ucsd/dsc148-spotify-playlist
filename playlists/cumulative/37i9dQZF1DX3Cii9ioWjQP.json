@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: JEZZ)",
+  "description": "All about Korean Jazz hits & new (Cover: parksanga quintet(\ubc15\uc0c1\uc544 \ud038\ud15f)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -572,6 +572,24 @@
       "duration_ms": 160800,
       "name": "Breezy Night",
       "url": "https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx"
+    },
+    {
+      "album": {
+        "name": "JAZZ CATS",
+        "url": "https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG"
+      },
+      "artists": [
+        {
+          "name": "Park Sang A",
+          "url": "https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bull vs Bear",
+      "url": "https://open.spotify.com/track/4yN9VWrEjSea3wOaFxOt0W"
     },
     {
       "album": {
@@ -1718,6 +1736,24 @@
       "duration_ms": 186343,
       "name": "It\u2019s Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8"
+    },
+    {
+      "album": {
+        "name": "JAZZ CATS",
+        "url": "https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG"
+      },
+      "artists": [
+        {
+          "name": "Park Sang A",
+          "url": "https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Jazz Cats",
+      "url": "https://open.spotify.com/track/6xtFuRnxG73wkslu4Lzt6C"
     },
     {
       "album": {

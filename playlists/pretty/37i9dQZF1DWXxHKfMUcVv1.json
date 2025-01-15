@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 120919,
+  "num_followers": 120945,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Verano \u00b499",
+        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
+      },
+      "artists": [
+        {
+          "name": "VILLAGR\u00c1N",
+          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
+        },
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 163494,
+      "name": "Verano \u00b499",
+      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Ac\u00fastico en Paraguay (En Vivo)",
         "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 248164,
       "name": "Si T\u00fa Te Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Verano \u00b499",
-        "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
-      },
-      "artists": [
-        {
-          "name": "VILLAGR\u00c1N",
-          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
-        },
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 163494,
-      "name": "Verano \u00b499",
-      "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
     },
     {
       "added_at": "2024-06-13 21:06:26",

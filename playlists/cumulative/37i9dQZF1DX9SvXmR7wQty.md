@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-3,033 songs - 6 day 17 hr 14 min
+3,034 songs - 6 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-04-19 | 2024-04-27 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2023-10-20 | 2023-10-30 |
 | [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 | 2024-09-20 | 2024-11-09 |
-| [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 | 2024-11-08 |  |
+| [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 | 2024-11-08 | 2025-01-15 |
 | [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 | 2023-10-30 |
 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 | 2024-08-09 | 2024-09-14 |
 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 | 2024-05-17 | 2024-05-25 |
@@ -1972,6 +1972,7 @@
 | [O H N A](https://open.spotify.com/track/5FCqxCBtKuHSVn8UBaQ5cn) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [O H N A](https://open.spotify.com/album/4GS5hqmVK3qJmTr22KHNea) | 3:20 | 2022-07-01 | 2022-07-16 |
 | [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-02 | 2024-08-10 |
 | [Obrigado](https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Obrigado](https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz) | 2:19 | 2024-11-15 | 2024-12-19 |
+| [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 | 2025-01-10 |  |
 | [Océane](https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Bushi Tape 3](https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf) | 3:04 | 2024-03-29 | 2024-05-25 |
 | [OG Gang](https://open.spotify.com/track/6U8gy0hqd1kF53sILUYFPS) | [MonMon](https://open.spotify.com/artist/2MUhto1HVbmHfpVKwRPwlZ), [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [Caya](https://open.spotify.com/artist/23vve81LSeTNBa0QtzI0nY), [Nordiqc](https://open.spotify.com/artist/33eVpx3Jm3YbG2Bf5utbVn) | [OG Gang](https://open.spotify.com/album/444efVgrIdTMZXrKqjgfH7) | 3:26 | 2022-12-02 | 2023-01-06 |
 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-09-01 | 2023-10-30 |

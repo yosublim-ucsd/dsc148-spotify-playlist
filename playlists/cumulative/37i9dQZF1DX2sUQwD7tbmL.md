@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-722 songs - 1 day 16 hr 47 min
+723 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2022-04-13 |  |
 | [Barbara Ann](https://open.spotify.com/track/4dbi2vb0iGOyGcNuryUvLt) | [Rosie Tucker](https://open.spotify.com/artist/21IgTzfAyrn8DJpEY7F4DM) | [Barbara Ann](https://open.spotify.com/album/49NlN8tH3vCVB20sfzhcnH) | 3:15 | 2021-05-01 | 2022-01-06 |
 | [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 | 2021-05-01 |  |
-| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-09-20 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-09-20 | 2025-01-15 |
 | [Begin Again](https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Begin Again](https://open.spotify.com/album/2V3TNPXvdNjqXAHPKYXUAT) | 3:46 | 2021-05-01 | 2022-07-29 |
 | [Best Life](https://open.spotify.com/track/28iK43ARX3yTiPtqJACq8q) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Best Life](https://open.spotify.com/album/4GazguxmEp7xECnvJJJXrO) | 3:14 | 2022-03-07 | 2022-04-17 |
 | [Better off Alone](https://open.spotify.com/track/5v2Abx4cG0ficwE2hQgKUv) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Better off Alone](https://open.spotify.com/album/5fvpmXNBEOdgxP6ZoOlYlZ) | 4:00 | 2021-05-01 | 2021-12-31 |
@@ -214,6 +214,7 @@
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-22 | 2023-03-25 |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-11 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-04-13 |  |
+| [Feel This Way](https://open.spotify.com/track/0g2guI0ri5KieHyFonEYyu) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Prima/Vera](https://open.spotify.com/album/28LByta0Al2dciYEizVytX) | 4:17 | 2024-11-22 |  |
 | [Feels Good](https://open.spotify.com/track/7xSOihDdVPJiAD3dZXSzIj) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Feels Good](https://open.spotify.com/album/4hQAYNBhZZIq8M6Tic4a5j) | 4:07 | 2021-05-01 | 2022-04-13 |
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2021-05-01 | 2022-07-27 |
 | [Fire Escape](https://open.spotify.com/track/5ekucJquBlWaZojC2oNZHU) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Fire Escape](https://open.spotify.com/album/1plhDjFN42Ah25BnKImEhm) | 2:20 | 2022-04-13 | 2022-07-03 |

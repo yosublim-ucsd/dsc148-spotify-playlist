@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 262056,
       "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
       "url": "https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE"
@@ -1816,6 +1816,24 @@
       "duration_ms": 301870,
       "name": "\u59cb\u307e\u308a\u306f\u541b\u306e\u7a7a",
       "url": "https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM"
+    },
+    {
+      "album": {
+        "name": "\u59cb\u307e\u308a\u306f\u541b\u306e\u7a7a \uff5e11 Ver.\uff5e",
+        "url": "https://open.spotify.com/album/0iqLWerg8laMQ0JF10Wlon"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323650,
+      "name": "\u59cb\u307e\u308a\u306f\u541b\u306e\u7a7a \uff5e11 Ver.\uff5e",
+      "url": "https://open.spotify.com/track/54tnQylYoVgaGWjtZ5txxg"
     },
     {
       "album": {

@@ -36656,7 +36656,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 131165,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/4tRa3UrTEfuiwpTdsRSqDP"
@@ -42238,7 +42238,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 117337,
       "name": "Floor 5",
       "url": "https://open.spotify.com/track/2IEJDnXmqa2QEkcUureE1p"
@@ -90958,7 +90958,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 136097,
       "name": "Paralized",
       "url": "https://open.spotify.com/track/0uysLSYAkvapieJYKTvQTp"
@@ -100715,6 +100715,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/07BnZeGBwpCJ53CwUsKNj6"
+      },
+      "artists": [
+        {
+          "name": "Jazza Mazza",
+          "url": "https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7Im1vmqr67pYDEVGg5C8JO"
+    },
+    {
+      "album": {
         "name": "Romantic Space Journey",
         "url": "https://open.spotify.com/album/6eaqYFShUU0shvIqX6NAwB"
       },
@@ -106290,7 +106308,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 110000,
       "name": "Silver Apples",
       "url": "https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i"
@@ -106352,7 +106370,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 154690,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG"
@@ -112137,6 +112155,24 @@
     },
     {
       "album": {
+        "name": "Spikes",
+        "url": "https://open.spotify.com/album/089BNS2vIXOO7ZKcuJgU2v"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Spikes",
+      "url": "https://open.spotify.com/track/73JxBWQnLBc5tYeXtYC1kB"
+    },
+    {
+      "album": {
         "name": "Spinning",
         "url": "https://open.spotify.com/album/4m1yEq5dvPQIXmHapABnL8"
       },
@@ -116352,7 +116388,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 105388,
       "name": "sunday session",
       "url": "https://open.spotify.com/track/4ESXI7aayDsRnMLL4MZPeG"

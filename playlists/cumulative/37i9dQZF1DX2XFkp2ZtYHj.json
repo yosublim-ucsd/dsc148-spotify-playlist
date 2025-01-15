@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Glass Maze",
+        "url": "https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231980,
+      "name": "Glass Maze",
+      "url": "https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu"
+    },
+    {
+      "album": {
         "name": "Hammock",
         "url": "https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr"
       },
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 149125,
       "name": "Hjemme",
       "url": "https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ"

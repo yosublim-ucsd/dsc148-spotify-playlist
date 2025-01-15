@@ -8909,6 +8909,24 @@
     },
     {
       "album": {
+        "name": "Everything's Going to be OK",
+        "url": "https://open.spotify.com/album/7qZU1bsFZ0cUSAJydmABDv"
+      },
+      "artists": [
+        {
+          "name": "Ouai St\u00e9phane",
+          "url": "https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333977,
+      "name": "Everything's Going to be OK",
+      "url": "https://open.spotify.com/track/34eWjp2K5hJ7SxuVIvRHzK"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
       },
@@ -29770,7 +29788,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 261111,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ"

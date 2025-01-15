@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Tokischa & NATHY PELUSO
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,994 likes - 169 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,016 likes - 169 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

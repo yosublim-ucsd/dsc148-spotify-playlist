@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,365 songs - 5 day 5 hr 9 min
+2,366 songs - 5 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-14 | 2024-09-16 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-06 | 2024-12-27 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 | 2024-12-02 | 2024-12-28 |
-| [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 | 2024-05-25 |  |
+| [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 | 2024-05-25 | 2025-01-15 |
 | [Itke sit](https://open.spotify.com/track/5HlCvsft3oLyM6vjNYHW5h) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Itke sit](https://open.spotify.com/album/52OzJXp4vHcECK9M45rNbK) | 3:02 | 2024-01-20 | 2024-02-11 |
 | [itsekäs](https://open.spotify.com/track/4I38OUcJlKJtlBxzpwI1yx) | [Sebastian Noto](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [itsekäs](https://open.spotify.com/album/04GCYQh7ybc3MD7OHsrzcx) | 4:12 | 2021-06-13 | 2021-06-20 |
 | [Iäisyys](https://open.spotify.com/track/62vAMU7rPPJNxUMKPmmGzS) | [Raappana](https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0) | [Iäisyys](https://open.spotify.com/album/0Q3ZCmfpAMweBRtWCQOZsR) | 2:39 | 2022-01-15 | 2022-01-17 |
@@ -1757,6 +1757,7 @@
 | [Se ois ollu siin](https://open.spotify.com/track/1lONpRFOwYQMWgwgsn3w5k) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Vastustamaton](https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7) | 6:12 | 2022-11-05 | 2022-11-19 |
 | [Seireeni](https://open.spotify.com/track/2Ug8JxGX2SIRfsYogycZJc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:42 | 2024-11-02 |  |
 | [Seitsemän päivää selvinpäin \- 40 versio](https://open.spotify.com/track/0ZhvwUhqehBYvnQIif75Iq) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv), [Neljä Ruusua](https://open.spotify.com/artist/77ZNPUSoDjoqlD44N0yETT) | [Seitsemän päivää selvinpäin \(40 versio\)](https://open.spotify.com/album/0tXVcRXbma4behQJV5ucQu) | 3:04 | 2022-11-26 | 2022-12-03 |
+| [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 | 2025-01-14 |  |
 | [SEKASI](https://open.spotify.com/track/6haO1uTVb6F3mEvxiePKR3) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [VALLANKUMOUS](https://open.spotify.com/album/0ahwAjfNogrOTT4lFyt0IG) | 2:58 | 2024-03-16 | 2024-03-18 |
 | [Sekasin](https://open.spotify.com/track/16PuZ41gLitc7vL0d08KOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Sekasin](https://open.spotify.com/album/2A4W4MnNVxdXT44exG9VcL) | 2:32 | 2024-04-27 | 2024-06-09 |
 | [Sekavaa ja hiton vaikeet](https://open.spotify.com/track/2FPwC4rksUi29SmF4z3n9d) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:59 | 2023-01-07 | 2023-01-16 |

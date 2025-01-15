@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-253 songs - 16 hr 17 min
+254 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 | 2024-07-05 | 2024-08-24 |
 | [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 |  |
 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 | 2024-10-04 | 2025-01-14 |
-| [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 |  |
+| [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 | 2025-01-15 |
 | [Falling](https://open.spotify.com/track/6wFLsyOl73n5elnJ9iYsXg) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Falling](https://open.spotify.com/album/43COS5Xp6jfJpW3S6Slq8C) | 3:49 | 2024-11-15 | 2024-11-23 |
 | [Falls Of Avich](https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 1:49 | 2023-12-08 | 2024-03-09 |
 | [Feel This \(How Long Will I\)](https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Feel This \(How Long Will I\)](https://open.spotify.com/album/7tJGLUwFnzo9ibvwy0H3xt) | 2:50 | 2023-12-08 | 2024-01-20 |
@@ -200,6 +200,7 @@
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2024-10-18 |  |
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 |  |
 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
+| [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-14 |  |
 | [shimmering like you taught me](https://open.spotify.com/track/2mAj7esKn9QtZwjzKKAyow) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [shimmering like you taught me](https://open.spotify.com/album/1eBMSN2GVwskDKeBKUcuYa) | 2:44 | 2024-07-19 | 2024-08-17 |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 | 2024-01-20 |
 | [Show Me How](https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt) | [Sean Blanc](https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt) | [Show Me How](https://open.spotify.com/album/4RSRc0uKcujiW0Xesvriz5) | 4:03 | 2024-06-19 | 2024-06-22 |

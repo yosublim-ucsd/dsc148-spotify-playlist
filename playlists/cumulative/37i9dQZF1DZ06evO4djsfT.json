@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38706,
+      "name": "(9 Am)",
+      "url": "https://open.spotify.com/track/7LUgv3Nyuxi2j1G7OWHElI"
+    },
+    {
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 259615,
       "name": "Smoke Free",
       "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"

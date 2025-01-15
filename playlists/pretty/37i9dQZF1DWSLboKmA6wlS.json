@@ -1,6 +1,6 @@
 {
   "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE. Artwork: Isu Kim",
-  "num_followers": 8816,
+  "num_followers": 8817,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
+        "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
+        "url": "https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo"
+      },
+      "artists": [
+        {
+          "name": "SYDNEYS",
+          "url": "https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8"
+        }
+      ],
+      "duration_ms": 227619,
+      "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
+      "url": "https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
         "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e04\u0e19\u0e42\u0e14\u0e19\u0e40\u0e0a\u0e34\u0e0d",
         "url": "https://open.spotify.com/album/6DxsJsSvPwBHHVKc93hjjQ"
       },
@@ -223,34 +239,18 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
-        "url": "https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo"
+        "name": "Lost.",
+        "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
       },
       "artists": [
         {
-          "name": "SYDNEYS",
-          "url": "https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8"
+          "name": "Intoverse",
+          "url": "https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk"
         }
       ],
-      "duration_ms": 227619,
-      "name": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e17\u0e23\u0e32\u0e22 (Sand Castle)",
-      "url": "https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
-        "url": "https://open.spotify.com/album/12yy7hyQFfcNpuaYFv7fbr"
-      },
-      "artists": [
-        {
-          "name": "REDBONEZ",
-          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
-        }
-      ],
-      "duration_ms": 236103,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
-      "url": "https://open.spotify.com/track/6Fe4pi68WZDZDqnBf6hI57"
+      "duration_ms": 240821,
+      "name": "Lost.",
+      "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
+        "url": "https://open.spotify.com/album/12yy7hyQFfcNpuaYFv7fbr"
+      },
+      "artists": [
+        {
+          "name": "REDBONEZ",
+          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
+        }
+      ],
+      "duration_ms": 236103,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32",
+      "url": "https://open.spotify.com/track/6Fe4pi68WZDZDqnBf6hI57"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
         "name": "\u0e08\u0e32\u0e01\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e25\u0e32 (YT-1300)",
         "url": "https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "Lost.",
-        "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
+        "url": "https://open.spotify.com/album/3MCECfaTGH2bURQertUwAC"
       },
       "artists": [
         {
-          "name": "Intoverse",
-          "url": "https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk"
+          "name": "OCD",
+          "url": "https://open.spotify.com/artist/0eYxMYMXZjPPELmQ4AuFZS"
         }
       ],
-      "duration_ms": 240821,
-      "name": "Lost.",
-      "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
+      "duration_ms": 270166,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
+      "url": "https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -351,22 +367,6 @@
       "duration_ms": 227500,
       "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
       "url": "https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
-        "url": "https://open.spotify.com/album/3MCECfaTGH2bURQertUwAC"
-      },
-      "artists": [
-        {
-          "name": "OCD",
-          "url": "https://open.spotify.com/artist/0eYxMYMXZjPPELmQ4AuFZS"
-        }
-      ],
-      "duration_ms": 270166,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
-      "url": "https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
+        "name": "\u0e22\u0e2d\u0e21",
+        "url": "https://open.spotify.com/album/4zkG8nL98tqnv6WuJZ6RuL"
+      },
+      "artists": [
+        {
+          "name": "Cake Keeratirat",
+          "url": "https://open.spotify.com/artist/6cAZvK6kxmFEMlpfx66ZV3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e22\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/5QzQAdZELx0auTL3l7LECH"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
         "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
         "url": "https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL"
       },
@@ -435,38 +451,6 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
-        "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp"
-      },
-      "artists": [
-        {
-          "name": "Driver Boy",
-          "url": "https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi"
-        }
-      ],
-      "duration_ms": 279757,
-      "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e22\u0e2d\u0e21",
-        "url": "https://open.spotify.com/album/4zkG8nL98tqnv6WuJZ6RuL"
-      },
-      "artists": [
-        {
-          "name": "Cake Keeratirat",
-          "url": "https://open.spotify.com/artist/6cAZvK6kxmFEMlpfx66ZV3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0e22\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/5QzQAdZELx0auTL3l7LECH"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
         "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19..\u0e2b\u0e32\u0e22\u0e44\u0e1b (\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19)",
         "url": "https://open.spotify.com/album/0gB0gFE0aaRZ6izmYtoz4J"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 313012,
       "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19..\u0e2b\u0e32\u0e22\u0e44\u0e1b (\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19)",
       "url": "https://open.spotify.com/track/5tvrACCoHESfnpFOj94PmN"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
+        "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp"
+      },
+      "artists": [
+        {
+          "name": "Driver Boy",
+          "url": "https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi"
+        }
+      ],
+      "duration_ms": 279757,
+      "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -519,6 +519,22 @@
       "duration_ms": 175500,
       "name": "\u0e1c\u0e21\u0e2d\u0e48\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e0b\u0e31\u0e19 ( I\u2019m the sun )",
       "url": "https://open.spotify.com/track/3x8ACXET5AGVQDXcvs0cVS"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e30\u0e25\u0e32\u0e22 (OH MY HEART!)",
+        "url": "https://open.spotify.com/album/4LforSahoXArSIrO6Dd5s5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saharat",
+          "url": "https://open.spotify.com/artist/4ELMlQXf8xqCNFuXjXrP7p"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "\u0e43\u0e08\u0e25\u0e30\u0e25\u0e32\u0e22 (OH MY HEART!)",
+      "url": "https://open.spotify.com/track/4IywmfaUxnP2vGmgDQGh7y"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -583,22 +599,6 @@
       "duration_ms": 318378,
       "name": "\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e01\u0e35\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e01\u0e47\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32 (Say goodbye)",
       "url": "https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e43\u0e08\u0e25\u0e30\u0e25\u0e32\u0e22 (OH MY HEART!)",
-        "url": "https://open.spotify.com/album/4LforSahoXArSIrO6Dd5s5"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saharat",
-          "url": "https://open.spotify.com/artist/4ELMlQXf8xqCNFuXjXrP7p"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "\u0e43\u0e08\u0e25\u0e30\u0e25\u0e32\u0e22 (OH MY HEART!)",
-      "url": "https://open.spotify.com/track/4IywmfaUxnP2vGmgDQGh7y"
     },
     {
       "added_at": "2025-01-09 19:48:51",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-01-09 19:48:51",
       "album": {
+        "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 (The Happiness)",
+        "url": "https://open.spotify.com/album/6pQviZqfy7TRhH2cWIseIm"
+      },
+      "artists": [
+        {
+          "name": "bluemarlin",
+          "url": "https://open.spotify.com/artist/17m2Fu9gye7fkcSjtVEdPr"
+        }
+      ],
+      "duration_ms": 281750,
+      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 (The Happiness)",
+      "url": "https://open.spotify.com/track/4uSTp3u7aWMqM3imdrSNzI"
+    },
+    {
+      "added_at": "2025-01-09 19:48:51",
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
         "url": "https://open.spotify.com/album/4iAgQogboRb3ahlw9v6IiQ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 200727,
       "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e01\u0e31\u0e19\u0e2b\u0e19\u0e32\u0e27",
       "url": "https://open.spotify.com/track/3G3RRVifZuFgVMNJguZP3f"
-    },
-    {
-      "added_at": "2025-01-09 19:48:51",
-      "album": {
-        "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 (The Happiness)",
-        "url": "https://open.spotify.com/album/6pQviZqfy7TRhH2cWIseIm"
-      },
-      "artists": [
-        {
-          "name": "bluemarlin",
-          "url": "https://open.spotify.com/artist/17m2Fu9gye7fkcSjtVEdPr"
-        }
-      ],
-      "duration_ms": 281750,
-      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 (The Happiness)",
-      "url": "https://open.spotify.com/track/4uSTp3u7aWMqM3imdrSNzI"
     },
     {
       "added_at": "2025-01-09 19:48:51",

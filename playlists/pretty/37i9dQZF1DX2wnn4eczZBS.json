@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: S10",
-  "num_followers": 9787,
+  "num_followers": 9791,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Vlinder",
-        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 169604,
-      "name": "Vlinder",
-      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Wolken",
         "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 205758,
       "name": "Wolken",
       "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Vlinder",
+        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 169604,
+      "name": "Vlinder",
+      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Heilige Nacht",
-        "url": "https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Heilige Nacht",
-      "url": "https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "platland",
         "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 228813,
       "name": "Altijd Anders",
       "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Heilige Nacht",
+        "url": "https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Heilige Nacht",
+      "url": "https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -359,6 +359,26 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Shirt Uit (feat. Sef)",
+        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
+      },
+      "artists": [
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Shirt Uit (feat. Sef)",
+      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Kinderboerderij (Keiblij)",
         "url": "https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9"
       },
@@ -391,26 +411,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Shirt Uit (feat. Sef)",
-        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
-      },
-      "artists": [
-        {
-          "name": "Jungle by Night",
-          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Shirt Uit (feat. Sef)",
-      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Het Outro",
         "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 200223,
       "name": "Het Outro",
       "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "David Bowie/Beckham",
+        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 156112,
+      "name": "David Bowie/Beckham",
+      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -479,22 +495,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "David Bowie/Beckham",
-        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 156112,
-      "name": "David Bowie/Beckham",
-      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Privilege",
         "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Dwars",
-        "url": "https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 176041,
-      "name": "Dwars",
-      "url": "https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Symptomen",
         "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 212091,
       "name": "alsof",
       "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Dwars",
+        "url": "https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 176041,
+      "name": "Dwars",
+      "url": "https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "BOM",
-        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
-      },
-      "artists": [
-        {
-          "name": "Hang Youth",
-          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
-        }
-      ],
-      "duration_ms": 126902,
-      "name": "BOM",
-      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Doe Eens Raar",
         "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
       },
@@ -667,6 +651,38 @@
       "duration_ms": 227320,
       "name": "Doe Eens Raar",
       "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Als Ik Verdwaal",
+        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Als Ik Verdwaal",
+      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "BOM",
+        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
+      },
+      "artists": [
+        {
+          "name": "Hang Youth",
+          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "BOM",
+      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -687,22 +703,6 @@
       "duration_ms": 347546,
       "name": "Amerika + Bang zullen ze leven",
       "url": "https://open.spotify.com/track/4EXpcNXlT7Mdakwn3F95i5"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Als Ik Verdwaal",
-        "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Als Ik Verdwaal",
-      "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -739,38 +739,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Zo Licht Als een Veertje",
-        "url": "https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii"
-      },
-      "artists": [
-        {
-          "name": "Rens, Ja\u00efr & Ome Uncle",
-          "url": "https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Zo Licht Als Een Veertje",
-      "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "Koortsdroom",
-        "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
-      },
-      "artists": [
-        {
-          "name": "Vic Willems",
-          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
-        }
-      ],
-      "duration_ms": 162039,
-      "name": "Koortsdroom (Nooit Spijt)",
-      "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Een Filosofie Van Het Riool",
         "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
       },
@@ -787,6 +755,22 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Zo Licht Als een Veertje",
+        "url": "https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii"
+      },
+      "artists": [
+        {
+          "name": "Rens, Ja\u00efr & Ome Uncle",
+          "url": "https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "Zo Licht Als Een Veertje",
+      "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Starstruck (Celebrity)",
         "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231676,
       "name": "Starstruck (Celebrity)",
       "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Koortsdroom",
+        "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
+      },
+      "artists": [
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        }
+      ],
+      "duration_ms": 162039,
+      "name": "Koortsdroom (Nooit Spijt)",
+      "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
     },
     {
       "added_at": "2025-01-10 06:52:42",

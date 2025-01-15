@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-142 songs - 10 hr 56 min
+144 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [I Shall Be Released \(with Fleet Foxes\) \- Live](https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Alpha Mike Foxtrot: Rare Tracks 1994 \- 2014](https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M) | 3:33 | 2018-08-02 |  |
 | [I Want You](https://open.spotify.com/track/2jW3SWNVnqmv2U5n0CxE55) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Listen To Bob Dylan \- A Tribute](https://open.spotify.com/album/1lkp6bU55AW0FjGvmCr5bI) | 2:41 | 2018-08-02 |  |
 | [I Want You](https://open.spotify.com/track/0KCdk9pI0pRCABKs3sU2G7) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Listen to Bob Dylan: A Tribute](https://open.spotify.com/album/2k4b6SP5UFZ6SfW3n7CY6z) | 2:42 | 2018-08-02 | 2024-04-19 |
+| [I Was Young When I Left Home](https://open.spotify.com/track/0S1H3LH0tusB9raE8s2B5B) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 2:04 | 2025-01-14 |  |
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/0QicMFiH82PB8oTPH7sGuy) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Live in London \(Live\)](https://open.spotify.com/album/4gM5z3V8hh4I5qnMpzbbde) | 3:30 | 2018-08-02 |  |
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 | 2023-07-27 |  |
 | [I'll Keep It With Mine](https://open.spotify.com/track/1QIEPuMvIJP5zJPLgwPL88) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/48F2kUB0xFkajs3zKUEzHv) | 3:17 | 2018-08-02 |  |
@@ -62,6 +63,7 @@
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2018-08-02 |  |
 | [If You've Gotta Go, Go Now \- Bonus Track](https://open.spotify.com/track/51jy98I9q9Nk1xyA0W4ZBg) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Subterranean Homesick Blues: A Tribute to Bob Dylan's 'Bringing It All Back Home'](https://open.spotify.com/album/6BpBxbGy2JgkkxiVoLDQg4) | 3:45 | 2018-08-02 |  |
 | [It Ain't Me Babe](https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 3:03 | 2018-02-08 |  |
+| [It Ain't Me, Babe](https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [Monica Barbaro](https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:37 | 2025-01-14 |  |
 | [It's All Over Now, Baby Blue \(feat\. Van Morrison\)](https://open.spotify.com/track/6p0PlK8KoSERN4LX0bIq9u) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 3:47 | 2018-08-02 |  |
 | [Just Like a Woman](https://open.spotify.com/track/2Jo0Yp0OcxlDyLxVGQazYC) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I](https://open.spotify.com/album/6XLWjo1tddkGvNVGJ2kxgm) | 6:28 | 2018-08-02 |  |
 | [Just Like a Woman](https://open.spotify.com/track/3bOrKW9lmZwDboxrJ7zDdE) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Extended Edition\)](https://open.spotify.com/album/2PPqAPDd9E6TpdxGG530Yn) | 6:28 | 2018-08-02 | 2022-11-13 |

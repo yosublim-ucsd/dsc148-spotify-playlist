@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 189257,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 205619,
       "name": "EYES ON ME - Sped Up",
       "url": "https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4"
@@ -7468,6 +7468,28 @@
       "duration_ms": 174193,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg"
     },
     {
       "album": {

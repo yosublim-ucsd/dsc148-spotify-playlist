@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 143287,
+  "num_followers": 143306,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 254062,
-      "name": "Por Enquanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "No Small Thing",
         "url": "https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 282093,
       "name": "No Small Thing",
       "url": "https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 254062,
+      "name": "Por Enquanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -423,6 +423,26 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
+        "name": "Amor Em V\u00e3o",
+        "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 211254,
+      "name": "Amor Em V\u00e3o",
+      "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
         "name": "N\u00e3o Vou Me Adaptar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30"
       },
@@ -463,26 +483,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Amor Em V\u00e3o",
-        "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        },
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 211254,
-      "name": "Amor Em V\u00e3o",
-      "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "S\u00f3 n\u00f3s 2",
         "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 266326,
-      "name": "Not the One",
-      "url": "https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 149646,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 266326,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Marvin (Microfonado)",
-        "url": "https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Marvin - Microfonado",
-      "url": "https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "O Verso",
         "url": "https://open.spotify.com/album/57B7GM6qlCkWpAKrreOFN7"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 209552,
       "name": "O Verso",
       "url": "https://open.spotify.com/track/7pXTeKmUbEpZoIDDyW1nVm"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "Marvin (Microfonado)",
+        "url": "https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Marvin - Microfonado",
+      "url": "https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 299778,
       "name": "Pra Voc\u00ea Guardei o Amor",
       "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "Rotorquestra de Liquidificafu",
         "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
         "name": "Outro Mundo, Outro Lugar",
         "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 226186,
       "name": "Outro Mundo, Outro Lugar",
       "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
-        "name": "Tudo Fica Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
-      },
-      "artists": [
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 165489,
-      "name": "Tudo Fica Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -1079,6 +1063,22 @@
       "duration_ms": 273089,
       "name": "Sweet Virginia",
       "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "Tudo Fica Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 165489,
+      "name": "Tudo Fica Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
     },
     {
       "added_at": "2025-01-10 03:00:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-10 03:00:27",
       "album": {
-        "name": "DAVI",
-        "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 164675,
-      "name": "A Gente Sabe Se Amar",
-      "url": "https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC"
-    },
-    {
-      "added_at": "2025-01-10 03:00:27",
-      "album": {
         "name": "Vamos Fingir",
         "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 266726,
       "name": "Vamos Fingir",
       "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
+    },
+    {
+      "added_at": "2025-01-10 03:00:27",
+      "album": {
+        "name": "DAVI",
+        "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "A Gente Sabe Se Amar",
+      "url": "https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC"
     },
     {
       "added_at": "2025-01-10 03:00:27",

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Doechii",
-  "num_followers": 1591681,
+  "num_followers": 1591712,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -803,38 +803,6 @@
     {
       "added_at": "2025-01-03 20:51:12",
       "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Brick Fees",
-      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
-    },
-    {
-      "added_at": "2025-01-03 20:51:12",
-      "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
-    },
-    {
-      "added_at": "2025-01-03 20:51:12",
-      "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "added_at": "2025-01-03 20:51:12",
+      "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "added_at": "2025-01-03 20:51:12",
+      "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Brick Fees",
+      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
     },
     {
       "added_at": "2025-01-03 20:51:12",

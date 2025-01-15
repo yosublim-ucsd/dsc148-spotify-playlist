@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,163 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,160 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [El Corrido De Manuel](https://open.spotify.com/track/7CfvkrTF0ceWUw83Oabp8D) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Samuel Sarmiento](https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR) | [El Corrido De Manuel](https://open.spotify.com/album/174HyCRunSgjTEeA10jMlQ) | 2:13 |
 | 50 | [Juan Colorado \(En Vivo\)](https://open.spotify.com/track/5OBhWFGXpI1l9IhOMdntzb) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 1:56 |
 
-Snapshot ID: `Z4MGAAAAAAAOwuWVKUiWI67RF5ZbcNPO`
+Snapshot ID: `Z4RXgAAAAAA7BHwr+DkGS3OWHUHeat7h`

@@ -106,10 +106,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 189386,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug"
+    },
+    {
+      "album": {
+        "name": "Prohom",
+        "url": "https://open.spotify.com/album/6CAinvyRxEVk5ARdaHtGEh"
+      },
+      "artists": [
+        {
+          "name": "Prohom",
+          "url": "https://open.spotify.com/artist/2oJhMFkmKwLkTDJlAYs23u"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Ca Oublie D'Aimer",
+      "url": "https://open.spotify.com/track/4cCSn4Pj0f2npuxs3vBGGF"
     },
     {
       "album": {

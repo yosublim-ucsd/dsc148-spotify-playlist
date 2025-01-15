@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2kf10b2iZ8o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2kf10b2iZ8o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2kf10b2iZ8o)
 
-### [THE IDOLM@STER SideM アイドルマスター SideM](https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o)
+### [THE IDOLM@STER SideM](https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o)
 
-> Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 199 songs - 14 hr 40 min
 

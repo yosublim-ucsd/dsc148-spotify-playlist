@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 197488,
       "name": "A Future With You",
       "url": "https://open.spotify.com/track/1ndjWsO1Ft9kY6bqOTngmI"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 167785,
       "name": "Close Enough",
       "url": "https://open.spotify.com/track/58bd0hNn1LYG6jSNE9WeM6"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 160000,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/22Boj3xlWhTJeoE2UdWCzH"
@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Driving Towards the Horizon",
+        "url": "https://open.spotify.com/album/4hQtPxJbJtDRG5xZlzcL04"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163356,
+      "name": "Driving Towards the Horizon",
+      "url": "https://open.spotify.com/track/0EgnaF7lItClyEvg3THtIH"
+    },
+    {
+      "album": {
         "name": "Duero",
         "url": "https://open.spotify.com/album/1aI7HeoLOS1UyFroeRGNGk"
       },
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 173279,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 171316,
       "name": "Flowers in You Hair",
       "url": "https://open.spotify.com/track/0qd8BQpIyY1P1IdKapDAzd"
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 166669,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/1COenIO3ak9ffIDzwvO1Ts"
@@ -4552,7 +4570,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 146146,
       "name": "In the Morning Sun",
       "url": "https://open.spotify.com/track/0hjDKlHWRRKbzAWv80nMUr"
@@ -4574,6 +4592,24 @@
       "duration_ms": 139159,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3"
+    },
+    {
+      "album": {
+        "name": "In the Wee Small Hours",
+        "url": "https://open.spotify.com/album/0gJbr7tNtNuPc6FEczncTk"
+      },
+      "artists": [
+        {
+          "name": "Elliot Baxter",
+          "url": "https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "In the Wee Small Hours",
+      "url": "https://open.spotify.com/track/60pqzTrDy6JXji8GShLTph"
     },
     {
       "album": {

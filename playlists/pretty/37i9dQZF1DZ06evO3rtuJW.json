@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33415,
+  "num_followers": 33416,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABKcTcofRJm8EKD+28fJiHe",
+  "snapshot_id": "Z4RXgAAAAABgQ9sGrb4aj36zGlm6zDxP",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rookie Of The Year",
         "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Drench Gang (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
       "artists": [
         {
@@ -564,13 +564,17 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Play Your Part (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
+      "duration_ms": 221815,
+      "name": "Cry No More",
+      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
     },
     {
       "added_at": null,
@@ -595,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [
         {
@@ -604,17 +608,13 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 221815,
-      "name": "Cry No More",
-      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+      "duration_ms": 183600,
+      "name": "Play Your Part (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUST RE'D UP 3",
         "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
@@ -723,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+        "name": "BIG SCOOM (Vol. 1)",
+        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
       },
       "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+      "duration_ms": 173565,
+      "name": "Throw (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 190511,
       "name": "U Know Dat (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIG SCOOM (Vol. 1)",
-        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173565,
-      "name": "Throw (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
     },
     {
       "added_at": null,

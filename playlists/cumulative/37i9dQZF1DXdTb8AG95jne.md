@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-856 songs - 2 day 4 hr 21 min
+857 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Daydream](https://open.spotify.com/track/7yYNkLrgGlWN4OnXNira9S) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Daydream](https://open.spotify.com/album/0wuCxwXVDmDh52qiBsGa9I) | 4:10 | 2022-03-31 | 2022-04-16 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2021-12-21 | 2022-04-22 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2022-12-29 | 2024-11-07 |
-| [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-30 |  |
+| [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-30 | 2025-01-15 |
 | [December](https://open.spotify.com/track/7hlJPqGPSdf9Ss76Do54zf) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [December](https://open.spotify.com/album/5KpmOvSlSMUyyuSMK1eAdy) | 3:44 | 2022-03-31 | 2022-04-21 |
 | [deep water](https://open.spotify.com/track/3ToLIuUHoaedt4cagzX41J) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 3:16 | 2022-03-31 | 2022-04-14 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-20 | 2024-05-10 |
@@ -613,6 +613,7 @@
 | [Say Love You \(Feat\. ROWHA\)](https://open.spotify.com/track/3hxlG3quduNPP65izlxJk8) | [Yang Hyeok](https://open.spotify.com/artist/69Im5J7ohSoJz8gfz28ggn), [로화 \(ROWHA\)](https://open.spotify.com/artist/477P2jSzGHZw6QQf7MWRKW) | [Say Love You](https://open.spotify.com/album/0vkAq4sglApo7mUdq6safb) | 3:36 | 2022-03-31 | 2022-04-18 |
 | [Scarlet youth](https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Scarlet youth in Nomadic daybreak](https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA) | 2:55 | 2024-01-05 | 2024-05-10 |
 | [Schadenfreude](https://open.spotify.com/track/5kLLcku7bnYYzGrzH1aRzQ) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Schadenfreude](https://open.spotify.com/album/3o2kTeka6t3MLWSZHfjU4t) | 4:28 | 2022-06-09 | 2022-07-15 |
+| [School Day Nostalgia](https://open.spotify.com/track/5UGIaoiIUbQBNqoRhXVCAb) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [School Day Nostalgia](https://open.spotify.com/album/2XfFXZaYjsAoHwJZxkHG8r) | 3:21 | 2025-01-14 |  |
 | [Sea](https://open.spotify.com/track/5la8ECy76bV0Meh8d5wiZg) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Sea](https://open.spotify.com/album/4zC2lB85NNMiHOUQjItOhQ) | 2:05 | 2022-01-27 | 2022-02-02 |
 | [season of ours](https://open.spotify.com/track/4gbxZGNDhSg3qlUtJEUrTe) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [EP.2 Season of ours](https://open.spotify.com/album/4Ot4ze0iWOv7SCyWaqFA5k) | 3:27 | 2022-03-31 | 2022-04-25 |
 | [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 |  |

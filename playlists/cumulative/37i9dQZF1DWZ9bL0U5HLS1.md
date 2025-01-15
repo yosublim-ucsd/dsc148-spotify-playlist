@@ -4,15 +4,16 @@
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-143 songs - 9 hr 4 min
+144 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 | 2024-11-04 |  |
+| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 | 2024-11-04 | 2025-01-15 |
 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 | 2024-11-10 | 2024-12-07 |
 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2023-01-17 |  |
 | [Aamun Kuiskaus](https://open.spotify.com/track/4WqsrF7TJMNcXpALt6amw6) | [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d) | [Kuuntelija](https://open.spotify.com/album/2bklFJA9lIoKW3d5Wjsxeq) | 3:55 | 2023-09-15 | 2024-04-10 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2023-01-17 |  |
+| [Aina](https://open.spotify.com/track/0uBQFamFpphOS27wIXPeiT) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Aina](https://open.spotify.com/album/1nMxRHOzJL8bUz0oB52RVT) | 3:02 | 2025-01-14 |  |
 | [All I Ask](https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:31 | 2023-01-17 | 2023-10-26 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2023-01-17 |  |
 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 | 2023-01-17 | 2023-05-24 |
@@ -64,7 +65,7 @@
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2023-01-17 | 2023-09-29 |
 | [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 | 2023-09-15 |  |
 | [If Tomorrow Never Comes](https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Destination](https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X) | 3:34 | 2024-11-10 |  |
-| [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2023-01-17 |  |
+| [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2023-01-17 | 2025-01-15 |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2023-01-17 |  |
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2024-02-13 | 2024-04-10 |
 | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7) | 3:21 | 2024-05-17 | 2024-09-07 |
@@ -106,7 +107,7 @@
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2023-01-17 | 2024-07-04 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-01-17 |  |
 | [Päätepysäkki](https://open.spotify.com/track/6DC2FZkCBpjng0n1NHYRm0) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Päätepysäkki](https://open.spotify.com/album/7ckTupGlL5Ng87F7afO4LN) | 2:31 | 2023-09-15 | 2023-11-17 |
-| [Rakkauslaulu](https://open.spotify.com/track/7FxkSkSgmkotdUBQtNK7x0) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rakkauslaulu](https://open.spotify.com/album/7xXjExLtUtaEvXP6DTdvYJ) | 3:34 | 2023-11-25 | 2024-04-10 |
+| [Rakkauslaulu](https://open.spotify.com/track/7FxkSkSgmkotdUBQtNK7x0) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rakkauslaulu](https://open.spotify.com/album/7xXjExLtUtaEvXP6DTdvYJ) | 3:34 | 2023-11-25 |  |
 | [Sata vuotta](https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:32 | 2024-01-10 |  |
 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 | 2024-04-09 |  |
 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 | 2024-04-09 |  |

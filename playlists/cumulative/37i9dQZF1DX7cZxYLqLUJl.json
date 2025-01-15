@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Room With A View",
+        "url": "https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140105,
+      "name": "A Room With A View",
+      "url": "https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo"
+    },
+    {
+      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 34399,
+  "num_followers": 34404,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
+        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
         "name": "\u0417\u0438\u043c\u0430",
         "url": "https://open.spotify.com/album/1ExExrSUVv4K6gHFaabw16"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 221249,
       "name": "\u0417\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/6mzxy1vLZfP1D1Yi6fgyIC"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
-        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
     },
     {
       "added_at": "2024-12-20 16:20:39",

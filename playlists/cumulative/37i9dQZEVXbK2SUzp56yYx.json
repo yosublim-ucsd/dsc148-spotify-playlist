@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 84104,
       "name": "Boy's Interface - Dark Headz Refix - Slowed Version",
       "url": "https://open.spotify.com/track/5Rk3bx0dnaFwcGJ2IWuC9i"
@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 136370,
       "name": "Ela Vira Mortal",
       "url": "https://open.spotify.com/track/28Qri8CIMxJUQauS8YOR7o"
@@ -3479,6 +3479,28 @@
     },
     {
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ"
+      },
+      "artists": [
+        {
+          "name": "Chico Pablo",
+          "url": "https://open.spotify.com/artist/6tYzySFGReUDHtq3aTTIHQ"
+        },
+        {
+          "name": "Chico Blanco",
+          "url": "https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282694,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/5CToP4zkykujDhW9841aGO"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -3512,7 +3534,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -3810,6 +3832,24 @@
       "duration_ms": 123888,
       "name": "Florida 2009",
       "url": "https://open.spotify.com/track/23M2pHxtt3QACQJKSYd69Y"
+    },
+    {
+      "album": {
+        "name": "Fly Me To The Moon (Remix)",
+        "url": "https://open.spotify.com/album/6yjoXKVJoCqLAFyE9WBKED"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Fly Me To The Moon - Remix",
+      "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
     },
     {
       "album": {
@@ -5701,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "PSY 8th 4X2=8",
+        "url": "https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "I LUV IT",
+      "url": "https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb"
+    },
+    {
+      "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
       },
@@ -5950,7 +6008,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -7180,7 +7238,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -7210,7 +7268,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -7228,7 +7286,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 142222,
       "name": "Madam",
       "url": "https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj"
@@ -9761,6 +9819,24 @@
     },
     {
       "album": {
+        "name": "PUSSY",
+        "url": "https://open.spotify.com/album/7fXdRwpydDgbSMBzVdLO5I"
+      },
+      "artists": [
+        {
+          "name": "Nikitsunami",
+          "url": "https://open.spotify.com/artist/4c3MW0zXRdPk3mu5TmEH4z"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94777,
+      "name": "PUSSY",
+      "url": "https://open.spotify.com/track/5lCBVhOPjQ4zrn3aLt28Rm"
+    },
+    {
+      "album": {
         "name": "PYTHON FUNK",
         "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
       },
@@ -10530,10 +10606,32 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 187389,
       "name": "Scissorhands",
       "url": "https://open.spotify.com/track/5PldHs83FjoH0kyTZw75yI"
+    },
+    {
+      "album": {
+        "name": "Scissorhands",
+        "url": "https://open.spotify.com/album/0YZVKK12NjJnZzpZXg1BQb"
+      },
+      "artists": [
+        {
+          "name": "Trekkrrholymountain",
+          "url": "https://open.spotify.com/artist/7IJOUNB6zXM6rhvx9XxXgJ"
+        },
+        {
+          "name": "Weeping Wi11ow",
+          "url": "https://open.spotify.com/artist/5rqdvsF1ot630GkEapHenJ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187389,
+      "name": "Scissorhands",
+      "url": "https://open.spotify.com/track/6wh2OPTCmqIO9Nay9hMBUR"
     },
     {
       "album": {
@@ -10686,7 +10784,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 144525,
       "name": "shock",
       "url": "https://open.spotify.com/track/1NTtKSuwMuoObgfxmegugd"
@@ -12184,7 +12282,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -12558,10 +12656,28 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
     },
     {
       "album": {
@@ -14162,7 +14278,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 75465,
       "name": "z-alpha 2",
       "url": "https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1"
@@ -14548,6 +14664,24 @@
       "duration_ms": 194027,
       "name": "\u0411\u0435\u0437 \u0434\u0435\u043b",
       "url": "https://open.spotify.com/track/5nSppQsPog2Ue67dqaoqPi"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0441\u0431 \u043c\u0443\u0437\u0438\u043a 3",
+        "url": "https://open.spotify.com/album/1nPxMleEP7A3juIN1OrX5m"
+      },
+      "artists": [
+        {
+          "name": "KSB muzic",
+          "url": "https://open.spotify.com/artist/7MC56NMQNbDk2Xwwc9Wt4p"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135939,
+      "name": "\u0411\u0435\u043b\u043e\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/47Y0NrNMAPdl00HWIrZyRO"
     },
     {
       "album": {
@@ -17116,7 +17250,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 168228,
       "name": "\u041a\u043b\u0430\u043d\u043e\u0432\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
       "url": "https://open.spotify.com/track/2SoPP5d6pOjzKWbWF0LFma"
@@ -17344,6 +17478,24 @@
       "duration_ms": 208000,
       "name": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0428\u0430\u043f\u043e\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/3c6gco1k6kdntI3EZoiS7Y"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
+        "url": "https://open.spotify.com/album/2jQTqAFvQBTQqK2iOQZOLY"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+          "url": "https://open.spotify.com/artist/4z4SKDJwgb8HRjgp64iGR8"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98093,
+      "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
+      "url": "https://open.spotify.com/track/6fMlu4DJfudfAe5z0vKQbl"
     },
     {
       "album": {
@@ -18592,7 +18744,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 196935,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/6hCZqjIrd68aT1Ce9lpF8e"
@@ -18842,6 +18994,24 @@
       "duration_ms": 130123,
       "name": "\u041d\u043e\u0447\u044c",
       "url": "https://open.spotify.com/track/7aDNtWLnSSqU7gaEFZMvhv"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0441\u0430 \u0438 \u0411\u0430\u0431\u0430 \u042f\u0433\u0430 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1cXqKRLOUWJ9DUvZnIwaMt"
+      },
+      "artists": [
+        {
+          "name": "Baba Yaga Team",
+          "url": "https://open.spotify.com/artist/0P8nBHVHkHeP54P6MRqYm2"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182415,
+      "name": "\u041d\u043e\u0447\u044c \u0442\u0435\u043c\u043d\u0430",
+      "url": "https://open.spotify.com/track/2UTpZhFg9tnzChSHHcoqBq"
     },
     {
       "album": {
@@ -22040,7 +22210,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 132480,
       "name": "\u0424\u0443\u0431\u043b\u044f",
       "url": "https://open.spotify.com/track/3wY7F7TJ4hrLhrrMhMbR7o"

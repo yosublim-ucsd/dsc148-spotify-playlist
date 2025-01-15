@@ -1,6 +1,6 @@
 {
   "description": "a unique mix of rock, punk, alt & indie. Cover: Pixies",
-  "num_followers": 284280,
+  "num_followers": 284291,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5"
     },
     {
-      "added_at": "2024-11-05 14:09:39",
+      "added_at": "2024-10-25 19:42:16",
       "album": {
-        "name": "Farfalla / Schmetterling",
-        "url": "https://open.spotify.com/album/0oJoLsoo91hJ2EhgFqz2Et"
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
       "artists": [
         {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Schmetterling",
-      "url": "https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N"
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2024-10-25 19:42:16",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9"
     },
     {
-      "added_at": "2024-10-25 19:42:16",
+      "added_at": "2024-11-05 14:09:39",
       "album": {
-        "name": "On the Intricate Inner Workings of the System",
-        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
+        "name": "Farfalla / Schmetterling",
+        "url": "https://open.spotify.com/album/0oJoLsoo91hJ2EhgFqz2Et"
       },
       "artists": [
         {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 266986,
-      "name": "We Don't Care About That",
-      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+      "duration_ms": 257000,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N"
     },
     {
       "added_at": "2024-10-25 19:42:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-25 19:42:16",
       "album": {
-        "name": "FIX ME / GET OFF MY WAVE",
-        "url": "https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "GET OFF MY WAVE",
-      "url": "https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD"
-    },
-    {
-      "added_at": "2024-10-25 19:42:16",
-      "album": {
         "name": "Super Mega Ultra",
         "url": "https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 184031,
       "name": "Stimulation",
       "url": "https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX"
+    },
+    {
+      "added_at": "2024-10-25 19:42:16",
+      "album": {
+        "name": "FIX ME / GET OFF MY WAVE",
+        "url": "https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "GET OFF MY WAVE",
+      "url": "https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD"
     },
     {
       "added_at": "2024-10-25 19:42:16",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-25 19:42:16",
       "album": {
-        "name": "El Que",
-        "url": "https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Garcia",
-          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
-        }
-      ],
-      "duration_ms": 325695,
-      "name": "El Que",
-      "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
-    },
-    {
-      "added_at": "2024-10-25 19:42:16",
-      "album": {
         "name": "Cockpit",
         "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 256799,
       "name": "Cockpit",
       "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2024-10-25 19:42:16",
+      "album": {
+        "name": "El Que",
+        "url": "https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "duration_ms": 325695,
+      "name": "El Que",
+      "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
     },
     {
       "added_at": "2024-10-25 19:42:16",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-10-25 19:42:16",
       "album": {
-        "name": "A Hole In The Ground",
-        "url": "https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "A Hole In The Ground",
-      "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
-    },
-    {
-      "added_at": "2024-10-25 19:42:16",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/6r0e9t80tlT8jLRfYvKLRT"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 336341,
       "name": "Tongues ii",
       "url": "https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O"
+    },
+    {
+      "added_at": "2024-10-25 19:42:16",
+      "album": {
+        "name": "A Hole In The Ground",
+        "url": "https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "A Hole In The Ground",
+      "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
     },
     {
       "added_at": "2024-10-25 19:42:16",

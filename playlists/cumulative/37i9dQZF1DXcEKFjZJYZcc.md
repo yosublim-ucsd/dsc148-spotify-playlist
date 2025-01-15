@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-320 songs - 13 hr 6 min
+321 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 | 2024-07-23 |  |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 | 2023-09-19 |
 | [Empty Pews](https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Empty Pews](https://open.spotify.com/album/2KzoXF3GQ7XnqyUIcpPBwf) | 2:36 | 2021-12-14 | 2023-11-11 |
+| [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 | 2025-01-14 |  |
 | [Entre les Lignes](https://open.spotify.com/track/0v8Qxq3gLumQvLyJE2AhXR) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Entre les Lignes](https://open.spotify.com/album/51WQ52JifiEhQ8QPjqQHJz) | 2:03 | 2022-12-21 |  |
 | [Equus](https://open.spotify.com/track/7BbUNLqsUWQAM0QUNoFZWs) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aldebaran](https://open.spotify.com/album/4O4wtNtbrhX90609vI1IzN) | 2:14 | 2021-12-14 | 2024-10-02 |
 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 | 2024-04-17 |  |

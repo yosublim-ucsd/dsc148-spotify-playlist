@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Arjun Bajwa",
+  "description": "Discover the future of Punjabi Pop! Cover: Opinder Dhillon",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 189333,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 189714,
       "name": "Belle",
       "url": "https://open.spotify.com/track/0yvVlqvgnB3fuwdYjLMRp3"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 169629,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/3LPWunwDs0gx6Ex79Ohgpu"
@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1UjFH8I5wpZEBDeBD2716S"
+      },
+      "artists": [
+        {
+          "name": "Mananveer Singh",
+          "url": "https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG"
+        },
+        {
+          "name": "Gurman Singh",
+          "url": "https://open.spotify.com/artist/2dL7hO5aHsjv2TOD0HLKww"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5zQFa7QEb0jrqvoLyvY0vj"
+    },
+    {
+      "album": {
         "name": "Dil Leja",
         "url": "https://open.spotify.com/album/7sT40bcb1cheOkGPrngt9c"
       },
@@ -922,7 +944,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 149929,
       "name": "Double R",
       "url": "https://open.spotify.com/track/0MF149ChYfSbmtXTUb45S2"
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 166546,
       "name": "G 63",
       "url": "https://open.spotify.com/track/0TRCcR150yHzGbWNBymr1g"
@@ -1156,6 +1178,24 @@
       "duration_ms": 248181,
       "name": "Gairaan Nal",
       "url": "https://open.spotify.com/track/0PMsB7a6YlxOHz30j2jdmz"
+    },
+    {
+      "album": {
+        "name": "Gal Kar",
+        "url": "https://open.spotify.com/album/0gYg3xg79VMJiD8eyUXsrg"
+      },
+      "artists": [
+        {
+          "name": "Safar",
+          "url": "https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214597,
+      "name": "Gal Kar",
+      "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
     },
     {
       "album": {
@@ -1469,6 +1509,50 @@
     },
     {
       "album": {
+        "name": "In Belive",
+        "url": "https://open.spotify.com/album/1p0wJ2PGizecfbQzb40IIm"
+      },
+      "artists": [
+        {
+          "name": "Kaiffi Khan",
+          "url": "https://open.spotify.com/artist/6GuZhq044hHi2b8LGckxIp"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "In Belive",
+      "url": "https://open.spotify.com/track/4HT0Q53tRehhcBEKeA8Kaa"
+    },
+    {
+      "album": {
+        "name": "Intezaar",
+        "url": "https://open.spotify.com/album/2FD2RTq4q6g2bawUWs08qR"
+      },
+      "artists": [
+        {
+          "name": "Baaz Sekhon",
+          "url": "https://open.spotify.com/artist/0iamOS7uPEx0nttclXuqzd"
+        },
+        {
+          "name": "SKXTRAP",
+          "url": "https://open.spotify.com/artist/5YD0hcVuXyOhlL5cuv95hP"
+        },
+        {
+          "name": "Ishan Johar",
+          "url": "https://open.spotify.com/artist/21Nkz5eY80eZkv2DX8qnv5"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/00lBiOlh76eH95mjG0Tp2k"
+    },
+    {
+      "album": {
         "name": "Ishq Mareez",
         "url": "https://open.spotify.com/album/7zxdng2WO3XfAawo5JXnpn"
       },
@@ -1506,6 +1590,40 @@
       "duration_ms": 185322,
       "name": "Jadunagri",
       "url": "https://open.spotify.com/track/6iAVJrfxbbddOnzFepUeJ8"
+    },
+    {
+      "album": {
+        "name": "Jatt Bari Hogaya",
+        "url": "https://open.spotify.com/album/1vf6jEhNvpYo31Efv0C2L5"
+      },
+      "artists": [
+        {
+          "name": "Gurmukh Jatt",
+          "url": "https://open.spotify.com/artist/4SZ6Mp2cX4mGxKvh3oZoxc"
+        },
+        {
+          "name": "Suman Bhatti",
+          "url": "https://open.spotify.com/artist/3eJEh3ib7pvJHvGIyMHhl2"
+        },
+        {
+          "name": "RP Swag DK",
+          "url": "https://open.spotify.com/artist/0eKcyxOljAa6i1C7EMsCP9"
+        },
+        {
+          "name": "Amrinder Kahlon",
+          "url": "https://open.spotify.com/artist/7ezej74K9lAUv6Od6BLW79"
+        },
+        {
+          "name": "Jatt Katto Wal",
+          "url": "https://open.spotify.com/artist/2ibhnJSE2EEay3lAerHpiw"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Jatt Bari Hogaya",
+      "url": "https://open.spotify.com/track/5FmqYmiGfbl3ZkeLpH9zES"
     },
     {
       "album": {
@@ -1732,6 +1850,24 @@
       "duration_ms": 114181,
       "name": "Keep It Hundo",
       "url": "https://open.spotify.com/track/2DdHsOXcs49IRdIMU6rwaq"
+    },
+    {
+      "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/1ivL8sK2C2rwk7PHSbDl7i"
+      },
+      "artists": [
+        {
+          "name": "Shubh Goraya",
+          "url": "https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124210,
+      "name": "Kehri Gal Da Raula",
+      "url": "https://open.spotify.com/track/2BLr0GM8PXfxU8uZOinwnL"
     },
     {
       "album": {
@@ -2434,7 +2570,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 185538,
       "name": "Patt Honeya",
       "url": "https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv"
@@ -2684,7 +2820,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 170640,
       "name": "Secret Weapon",
       "url": "https://open.spotify.com/track/5UrlMtT9vsBkHIEL8G8731"
@@ -3392,6 +3528,24 @@
       "duration_ms": 144712,
       "name": "Well Off",
       "url": "https://open.spotify.com/track/25E2REAAzyZqPSU7suoRtn"
+    },
+    {
+      "album": {
+        "name": "Winning Folk's",
+        "url": "https://open.spotify.com/album/26dWlC6ggVJSAVwE24afvP"
+      },
+      "artists": [
+        {
+          "name": "Opinder Dhillon",
+          "url": "https://open.spotify.com/artist/4EzDYRmwrNVuHLYdCw7eFW"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147242,
+      "name": "Winning Folk's",
+      "url": "https://open.spotify.com/track/3iipYe0AbbjWYpa8Y05cO1"
     },
     {
       "album": {

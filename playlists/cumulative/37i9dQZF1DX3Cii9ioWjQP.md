@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: JEZZ\)
+> All about Korean Jazz hits & new \(Cover: parksanga quintet\(박상아 퀸텟\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-234 songs - 16 hr 36 min
+236 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Breeze](https://open.spotify.com/track/5XhtsFFa0x6T68RU228Eql) | [sangjun kim](https://open.spotify.com/artist/5ActYrw5XC68RWkNGXrysv) | [Breeze](https://open.spotify.com/album/4cGVSpkczCuwfsbLNjbx7v) | 3:08 | 2023-07-24 | 2024-04-19 |
 | [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 | 2023-02-07 | 2024-11-07 |
 | [Breezy Night](https://open.spotify.com/track/78ORvyLRxXyH553djGx6tx) | [Mind Nook](https://open.spotify.com/artist/3y71oigavnqzw1D3bFpuSf) | [On the Way Home](https://open.spotify.com/album/5vlDbrQPuOXA5FdGnE634D) | 2:40 | 2024-04-18 |  |
+| [Bull vs Bear](https://open.spotify.com/track/4yN9VWrEjSea3wOaFxOt0W) | [Park Sang A](https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD) | [JAZZ CATS](https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG) | 4:07 | 2025-01-14 |  |
 | [bye summer](https://open.spotify.com/track/61CZH3oXQ7pkcTCwo1MoXa) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [bye summer](https://open.spotify.com/album/3zWePPmeOOZVOjLMWsPqRv) | 3:02 | 2024-09-19 |  |
 | [Caterpillar \(feat\. Rob Christian\)](https://open.spotify.com/track/6HUODKj1h2VofvTHNdBoLa) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Rob Christian](https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W) | [Caterpillar](https://open.spotify.com/album/3G6PJpsgX2sVFqMsQwmKz6) | 4:22 | 2022-05-03 | 2022-05-19 |
 | [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 | 2022-05-03 | 2022-12-03 |
@@ -100,6 +101,7 @@
 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 | 2024-04-19 |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/5gxMOLVDelN4hepAI2SJde), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-20 | 2024-09-20 |
 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/7lbY854EPMs6Py64XcEZN8) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/3juUkvOjeWbjsHsaIq4Dl2) | 3:06 | 2023-12-05 | 2024-04-19 |
+| [Jazz Cats](https://open.spotify.com/track/6xtFuRnxG73wkslu4Lzt6C) | [Park Sang A](https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD) | [JAZZ CATS](https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG) | 3:40 | 2025-01-14 |  |
 | [Jeannine \(feat\. Benny Benack III\)](https://open.spotify.com/track/118mcL5m0P2Ve2Gietl36B) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 5:36 | 2024-07-09 |  |
 | [Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-02-15 | 2024-12-18 |
 | [Koi's Kingdom](https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Koi's Kingdom](https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF) | 3:07 | 2023-12-12 | 2024-11-07 |

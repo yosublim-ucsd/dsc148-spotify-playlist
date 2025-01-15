@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3157,
+  "num_followers": 3162,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAAKh5G1G0Rpnfnns2oNW06N",
+  "snapshot_id": "Z4RXgAAAAACAx5MXuMfEb/uPpQCSUU4B",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "POSTURADA",
+        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "POSTURADA",
+      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POSTURADA",
-        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "POSTURADA",
-      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downhill Domination - SECOND EDITION",
-        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
-      },
-      "artists": [
-        {
-          "name": "NIKITO Labrae",
-          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
-        },
-        {
-          "name": "BPP Tan",
-          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Bizarro",
-      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downhill Domination - SECOND EDITION",
+        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
+      },
+      "artists": [
+        {
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "BPP Tan",
+          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Bizarro",
+      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
     },
     {
       "added_at": null,

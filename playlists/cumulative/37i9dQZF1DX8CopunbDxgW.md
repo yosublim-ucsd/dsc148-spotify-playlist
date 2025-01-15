@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment 🧠 with Mild Minds
 
-1,638 songs - 4 day 5 hr 6 min
+1,639 songs - 4 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Everything Is Everything](https://open.spotify.com/track/1CWG6auQo6ctDPt6wXXHy2) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Raving Dahlia](https://open.spotify.com/album/5DC6XLIcCL7VqCq9LYyuVn) | 3:49 | 2022-02-25 | 2022-04-21 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2021-12-17 | 2022-02-12 |
 | [Everything We Tried \(feat\. valentina cy\)](https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Pointillism / Everything We Tried](https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK) | 3:28 | 2024-02-23 | 2024-04-13 |
+| [Everything's Going to be OK](https://open.spotify.com/track/34eWjp2K5hJ7SxuVIvRHzK) | [Ouai Stéphane](https://open.spotify.com/artist/2PLiFvOw5jPlHoGoxjeeaf) | [Everything's Going to be OK](https://open.spotify.com/album/7qZU1bsFZ0cUSAJydmABDv) | 5:33 | 2025-01-14 |  |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-01-20 | 2023-04-09 |
 | [Evolve](https://open.spotify.com/track/6hAhLp5sHItLXj1Qcp3eWU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Evolve](https://open.spotify.com/album/4tUHtE595cOKUWY59IMDB5) | 5:58 | 2022-04-08 | 2022-04-14 |
 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 | 2022-09-09 | 2023-07-29 |
@@ -1489,7 +1490,7 @@
 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 | 2022-03-18 | 2022-07-28 |
 | [Too Long](https://open.spotify.com/track/2UbcxMwKhJkMWjZhK8LNUH) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Too Long](https://open.spotify.com/album/6XRxElFCoPMCJ5mchJftwU) | 3:26 | 2021-10-15 | 2022-01-31 |
 | [Totem](https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Infinite Health](https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW) | 3:43 | 2024-08-30 | 2024-12-07 |
-| [Touch](https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Hiding](https://open.spotify.com/album/1LDEPbaGv4HgFoviWNUcXi) | 4:21 | 2024-09-27 |  |
+| [Touch](https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Hiding](https://open.spotify.com/album/1LDEPbaGv4HgFoviWNUcXi) | 4:21 | 2024-09-27 | 2025-01-15 |
 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 | 2023-08-25 | 2024-01-13 |
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-10 | 2024-06-08 |
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-03 |  |

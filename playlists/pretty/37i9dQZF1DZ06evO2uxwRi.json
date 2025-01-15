@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 40978,
+  "num_followers": 40984,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAADhfPAI5Cvj8slf36+kHkab",
+  "snapshot_id": "Z4RXgAAAAADbcfQxpUOUM84/I+yLH64b",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Don't Let Her Pull You Down",
-      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makes Me Sick",
         "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 180655,
       "name": "Happy Being Miserable",
       "url": "https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Don't Let Her Pull You Down",
+      "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
     },
     {
       "added_at": null,

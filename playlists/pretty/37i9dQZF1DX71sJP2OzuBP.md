@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,148 likes - 115 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,161 likes - 115 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 11 | [是愛還是惡作劇](https://open.spotify.com/track/27CXSPjOGgCvO7Ea4kLHDF) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [是愛還是惡作劇](https://open.spotify.com/album/1ikYh9kIQcOgzqzXX7wz4b) | 2:58 |
 | 12 | [我的愛在遺落的銀河](https://open.spotify.com/track/3L6MJx8lI8hiDcb7WdxyWo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [我的愛在遺落的銀河](https://open.spotify.com/album/0vAf76LcvsLzR6JpAo02L1) | 3:28 |
 | 13 | [好風起](https://open.spotify.com/track/1uVXoUaqk2rdZTj2CtQBu9) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [好風起](https://open.spotify.com/album/2IPSb8jifjXHxe87NO233I) | 4:25 |
-| 14 | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
+| 14 | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
 | 15 | [TTYL](https://open.spotify.com/track/6ZNCCEHyU70fSeWZJtp1Ok) | [史斯宇](https://open.spotify.com/artist/5KFPBuZ5A3eHa3PHZVD2cx) | [柔韌有餘 Gentle Armor](https://open.spotify.com/album/5B8QQIdDrP7ehoM0KIFULd) | 4:35 |
 | 16 | [初心](https://open.spotify.com/track/3qERzYNLArHAZXxYbTVojm) | [郭欣瑜](https://open.spotify.com/artist/6iNNIxt6euZuN7h9fjcOZ8) | [初心](https://open.spotify.com/album/3xDtgeU5HhUFR0cJieX8jS) | 3:50 |
 | 17 | [趕路的蝴蝶](https://open.spotify.com/track/4s71TaD93ieBhmuTBscIWR) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD), [李佳隆](https://open.spotify.com/artist/2QK3cWfiTfJ8mpefEGeJwm) | [趕路的蝴蝶](https://open.spotify.com/album/0yXpzRkCFuyxcsxJajaNrf) | 3:48 |

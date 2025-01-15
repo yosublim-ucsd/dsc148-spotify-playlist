@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 404666,
+  "num_followers": 404735,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "V\u00e1monos De Viaje",
-      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Santacruz",
         "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 286920,
       "name": "De las Dudas Infinitas",
       "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "V\u00e1monos De Viaje",
+      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 237786,
       "name": "Popscuro",
       "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Departamento",
         "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
       },
@@ -1163,34 +1179,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+        "name": "Bailar y Llorar",
+        "url": "https://open.spotify.com/album/4vgLqKLiIcGGVpEpHomfa0"
       },
       "artists": [
         {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+          "name": "Teleradio Donoso",
+          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
         }
       ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Azules Turquesas",
-        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Tu Nombre y el M\u00edo",
-      "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
+      "duration_ms": 237800,
+      "name": "Amar en el Campo",
+      "url": "https://open.spotify.com/track/3Dnn4G9z0VqWksQye13Cqe"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1211,34 +1211,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Bailar y Llorar",
-        "url": "https://open.spotify.com/album/4vgLqKLiIcGGVpEpHomfa0"
+        "name": "Azules Turquesas",
+        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
       "artists": [
         {
-          "name": "Teleradio Donoso",
-          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Amar en el Campo",
-      "url": "https://open.spotify.com/track/3Dnn4G9z0VqWksQye13Cqe"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "El Big Blue",
-        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Mi Fiesta",
-      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
+      "duration_ms": 162160,
+      "name": "Tu Nombre y el M\u00edo",
+      "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Cripta y Vida",
-        "url": "https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Vacaciones en el M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
       },
@@ -1327,18 +1295,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Las Cr\u00f3nicas del Viento",
-        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
+        "name": "Cripta y Vida",
+        "url": "https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 216226,
-      "name": "Az\u00facar del Estero",
-      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
+      "duration_ms": 232560,
+      "name": "Vacaciones en el M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1359,6 +1327,38 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Big Blue",
+        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Mi Fiesta",
+      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Las Cr\u00f3nicas del Viento",
+        "url": "https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Az\u00facar del Estero",
+      "url": "https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 244979,
-      "name": "Otra Era",
-      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 234566,
       "name": "Mango",
       "url": "https://open.spotify.com/track/15QTKrbWHY653qgiKbfS16"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 244979,
+      "name": "Otra Era",
+      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Canciones Sin Ropa",
-        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
-      },
-      "artists": [
-        {
-          "name": "Pedrina y Rio",
-          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
-        }
-      ],
-      "duration_ms": 213487,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "La Gran Esfera",
         "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Esquemas Juveniles",
-        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
+        "name": "Canciones Sin Ropa",
+        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Pedrina y Rio",
+          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
         }
       ],
-      "duration_ms": 223027,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
+      "duration_ms": 213487,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 211491,
       "name": "Te debo una canci\u00f3n",
       "url": "https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Esquemas Juveniles",
+        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 223027,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/3AZR34qL28NdrSUUXEeU8h"
-        }
-      ],
-      "duration_ms": 119632,
-      "name": "Pel\u00edcula",
-      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 180200,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/3AZR34qL28NdrSUUXEeU8h"
+        }
+      ],
+      "duration_ms": 119632,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "La Polinesia Meridional",
-        "url": "https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG"
-      },
-      "artists": [
-        {
-          "name": "La Casa Azul",
-          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Los Chicos Hoy Saltar\u00e1n A La Pista",
-      "url": "https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pol\u00edtico",
         "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 226742,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "La Polinesia Meridional",
+        "url": "https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG"
+      },
+      "artists": [
+        {
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Los Chicos Hoy Saltar\u00e1n A La Pista",
+      "url": "https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

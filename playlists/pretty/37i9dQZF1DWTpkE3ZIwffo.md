@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 
 > Las canciones más escuchadas del género\.  Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,072 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,208 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 | 34 | [Con Tu Amiga](https://open.spotify.com/track/7EvbmV5YDLpQoUNo12m54G) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/0TRENNocpVdJGGwFObxJLb) | 3:01 |
 | 35 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 |
 | 36 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
-| 37 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/1jnMbefDo8mg5ve5gctgDR) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |
+| 37 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |
 | 38 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:16 |
 | 39 | [DISCULPE OFICIAL](https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju) | [DISCULPE OFICIAL](https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg) | 2:02 |
 | 40 | [El Motorcito \- Remix](https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [El Motorcito \(Remix\)](https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk) | 3:02 |

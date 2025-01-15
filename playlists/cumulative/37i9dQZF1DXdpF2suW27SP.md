@@ -4,7 +4,7 @@
 
 > LON3R JOHNY & ProfJam entram na zona.
 
-700 songs - 1 day 13 hr 6 min
+701 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Luz Vermelha](https://open.spotify.com/track/1jD1WyibGUdVWRW4ZtzRf0) | [Yung Juse](https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ) | [Rio Tinto, Porto, Portugal](https://open.spotify.com/album/0SaCM8Z7xvwrg0mml7N2I5) | 2:25 | 2023-03-24 | 2023-04-21 |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-16 | 2022-11-18 |
 | [Ma Boo](https://open.spotify.com/track/1sazGKK94pXnyd4iNaigcj) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 | 2023-12-08 | 2024-01-12 |
+| [Macaco Velho](https://open.spotify.com/track/7a1bGbMSfj7128pcNTXmYR) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Macaco Velho](https://open.spotify.com/album/4999WyrM7EgKN2DPqrnheq) | 3:59 | 2025-01-10 |  |
 | [Made in West](https://open.spotify.com/track/0zY7a8uVvqAJGkOq0Lx3VR) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Feaz](https://open.spotify.com/artist/3gSAlIj8nDOcrmPZ5vaCo6), [Sketteer](https://open.spotify.com/artist/4Uh0SSSN4D6wNoUE0J9550) | [Made in West](https://open.spotify.com/album/2EbisW5bGVU1EGJlfKY2qy) | 2:50 | 2024-03-15 | 2024-04-19 |
 | [Madrugada](https://open.spotify.com/track/5L7leP8iaXPtOLHy4dH2HM) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p) | [Madrugada](https://open.spotify.com/album/5Xluhbh56PDiXrlPXkx1lQ) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Magia](https://open.spotify.com/track/7D6vr0BLYUoxumyckR4ZJy) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0), [N Fly](https://open.spotify.com/artist/0OakNsnVlzuZuDuz6jPyEd) | [Magia](https://open.spotify.com/album/1R3IUSqqHWJmBlPQRjQvRO) | 3:13 | 2024-03-29 | 2024-04-12 |

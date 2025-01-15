@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-2,636 songs - 6 day 1 hr 33 min
+2,637 songs - 6 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1623,6 +1623,7 @@
 | [No me duele](https://open.spotify.com/track/0He74nJo5sa28ONW1J7KrR) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No me duele](https://open.spotify.com/album/5tp3ALCbxJuAJFUHv5XmeN) | 4:13 | 2024-10-11 | 2024-10-19 |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2024-12-20 | 2025-01-11 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-08-15 | 2024-08-24 |
+| [No One Leaves This Discotheque Alive](https://open.spotify.com/track/0pzrzrzE0dTlBRZ1XHAYVW) | [Rialto](https://open.spotify.com/artist/3JEZFF5iZhEtpeTTGSzWid) | [No One Leaves This Discotheque Alive](https://open.spotify.com/album/65cIVm3FdCzGApFfVApeR8) | 3:31 | 2025-01-14 |  |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 | 2024-05-18 |
 | [No One's Gonna Love You Like I Can](https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [No One’s Gonna Love You Like I Can](https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu) | 2:02 | 2024-08-23 | 2024-08-31 |
 | [No Puede Ser](https://open.spotify.com/track/6SLzDi4oyKhhKNJdc8aqSD) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [No Puede Ser](https://open.spotify.com/album/4r6WDMflB5Q5K54uZWAOhi) | 2:26 | 2024-05-17 | 2024-05-25 |

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-268 songs - 15 hr 19 min
+269 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Endless Road](https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Endless Road](https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv) | 2:43 | 2024-06-27 | 2024-09-06 |
 | [Enkelhet](https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Enkelhet](https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt) | 3:55 | 2024-12-05 |  |
 | [Ett Glas Till](https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Dom Sa – Ett glas till](https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74) | 4:25 | 2024-06-27 | 2024-08-16 |
-| [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 |  |
+| [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-15 |
 | [Fading Like A Rose \(Original +2 bpm\)](https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [ROX RMX Vol\. 1 \(Remixes From The Roxette Vaults\)](https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S) | 3:59 | 2024-09-06 | 2024-12-24 |
 | [Fan för dig](https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [Caroline](https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe) | [Fan för dig](https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask) | 2:46 | 2024-10-24 |  |
 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 | 2024-10-24 |  |
@@ -265,6 +265,7 @@
 | [When The Time Is Right](https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [When The Time Is Right](https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY) | 4:45 | 2024-10-03 | 2025-01-12 |
 | [Whenever Until Forever](https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Whenever Until Forever](https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH) | 3:44 | 2024-06-27 | 2024-08-30 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-22 |  |
+| [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 |  |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 |  |
 | [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 133017,
+  "num_followers": 132981,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Attack Of The Ghost Riders",
         "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
       },
       "artists": [
         {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
         }
       ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 175500,
       "name": "Little Vampire",
       "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 285920,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2024-11-14 23:00:00",

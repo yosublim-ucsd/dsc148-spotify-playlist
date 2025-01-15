@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,338 likes - 103 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 103 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 9 | [Toscali](https://open.spotify.com/track/51nl15CGPLhbcR25zawzg6) | [Makemba](https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4), [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y), [Mosii](https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz) | [Toscali](https://open.spotify.com/album/2GwT1vJhinoHfStwEAx0La) | 2:28 |
 | 10 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 11 | [Legion](https://open.spotify.com/track/3zWiwM4jf8Mqzv6a5TklJ7) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Legion](https://open.spotify.com/album/4OHhb3FA3DX5LNe3hbCVZu) | 3:40 |
-| 12 | [Chabakrou](https://open.spotify.com/track/13MJ5AQO1S3RGrZZxRObO6) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Chabakrou](https://open.spotify.com/album/0c7peyrpXpDVx0bCBCXhLv) | 5:29 |
+| 12 | [Chabakrou](https://open.spotify.com/track/13MJ5AQO1S3RGrZZxRObO6) | [Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Chabakrou](https://open.spotify.com/album/0c7peyrpXpDVx0bCBCXhLv) | 5:29 |
 | 13 | [Khuluma Nami](https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:45 |
 | 14 | [Night Shadows](https://open.spotify.com/track/14FFWnwbtJeDNdZpUoo8ju) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Night Shadows](https://open.spotify.com/album/1C8Y9qMqLiBiIiALLytYYT) | 3:15 |
 | 15 | [Dangalua](https://open.spotify.com/track/2ozDVt4RIwunG78HL7tS2a) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD), [NSI](https://open.spotify.com/artist/4uNLthBXcuFFUoGPCi2kVT), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dangalua](https://open.spotify.com/album/5kCIWCU6lNVUuRWMuVCQ6A) | 2:44 |

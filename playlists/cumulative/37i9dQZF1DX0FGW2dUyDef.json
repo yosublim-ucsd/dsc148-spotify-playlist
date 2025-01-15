@@ -14,16 +14,16 @@
           "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
         },
         {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         },
         {
           "name": "EGE!",
           "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
         },
         {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
         }
       ],
       "date_added": "2024-12-16",
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Kufi",
+        "url": "https://open.spotify.com/album/5Y2a9iCvO8nflR7838wkrz"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265364,
+      "name": "Kufi",
+      "url": "https://open.spotify.com/track/7AbbuiP5vKiuyFl47Z5jY3"
+    },
+    {
+      "album": {
         "name": "K\u00f6m\u00fcr",
         "url": "https://open.spotify.com/album/1Cbcf1YvsNrMZs3pxYLHoD"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 211682,
       "name": "Sana El Pen\u00e7e Durmam",
       "url": "https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ"

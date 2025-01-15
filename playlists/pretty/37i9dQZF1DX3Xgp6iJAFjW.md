@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,663 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,653 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 37 | [Arbolito](https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 4:43 |
 | 38 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 |
 | 39 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 |
-| 40 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 |
+| 40 | [El 5 de Enero](https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP) | [La Nueva Patrulla 15](https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 4:00 |
 | 41 | [Arbolito](https://open.spotify.com/track/3jOl0qRSfT1KkMd4pPLmeS) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño, Vol\. II](https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm) | 4:58 |
-| 42 | [El 5 de Enero](https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP) | [La Nueva Patrulla 15](https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 4:00 |
-| 43 | [Cascabel](https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ) | [Felix Del Rosario](https://open.spotify.com/artist/4MhqOdhxf64xRZSTOB8RoE) | [Navidad En Las Antillas](https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg) | 2:36 |
-| 44 | [El Arbolito](https://open.spotify.com/track/4dPDyWW4jv1DCwf54a0Oql) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 4:09 |
+| 42 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 |
+| 43 | [El Arbolito](https://open.spotify.com/track/4dPDyWW4jv1DCwf54a0Oql) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 4:09 |
+| 44 | [Cascabel](https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ) | [Felix Del Rosario](https://open.spotify.com/artist/4MhqOdhxf64xRZSTOB8RoE) | [Navidad En Las Antillas](https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg) | 2:36 |
 | 45 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:52 |
 | 46 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 |
 | 47 | [Esta Parranda Te la Debía](https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 78 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 | 79 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
 | 80 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 |
-| 81 | [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 |
-| 82 | [Mapeye 2022](https://open.spotify.com/track/2nY6sEywqui9MCg6cCNcWT) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Mapeye 2022](https://open.spotify.com/album/4YuxK37EcMa4Xhp48Ko4HJ) | 4:48 |
+| 81 | [Mapeye 2022](https://open.spotify.com/track/2nY6sEywqui9MCg6cCNcWT) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Mapeye 2022](https://open.spotify.com/album/4YuxK37EcMa4Xhp48Ko4HJ) | 4:48 |
+| 82 | [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 |
 | 83 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
 | 84 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 85 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 |

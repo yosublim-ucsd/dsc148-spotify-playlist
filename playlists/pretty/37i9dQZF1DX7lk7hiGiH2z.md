@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,173 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,163 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 42 | [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 |
 | 43 | [Heut Nacht hat's geschneit](https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:48 |
 | 44 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
-| 45 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
+| 45 | [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 |
 | 46 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
 | 47 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 |
 | 48 | [Winterzeit](https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29) | 2:02 |
 | 49 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Feste feiern auf dem singenden Bauernhof](https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9) | 2:33 |
-| 50 | [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 |
+| 50 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
 | 51 | [Winterkinder](https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:18 |
 
 Snapshot ID: `Z4UjdQAAAAANJuE9dhAnfddVRY2nUxsG`

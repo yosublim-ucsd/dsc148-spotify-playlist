@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 14951,
+  "num_followers": 14952,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABw0p++tOlzUdgFWcOsggK+",
+  "snapshot_id": "Z4RXgAAAAAAAqcJPerS0DwG0c6Owea9Z",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elaine Martins Live Session",
-        "url": "https://open.spotify.com/album/4TQPjpUrKPa7ZsZuiXecGP"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 290295,
-      "name": "Sei \u00c9 Bem Assim",
-      "url": "https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
       },
@@ -119,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elaine Martins Live Session",
+        "url": "https://open.spotify.com/album/4TQPjpUrKPa7ZsZuiXecGP"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 290295,
+      "name": "Sei \u00c9 Bem Assim",
+      "url": "https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "H\u00e1 um Deus no C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 235973,
       "name": "H\u00e1 um Deus no C\u00e9u (Ao Vivo)",
       "url": "https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agrade\u00e7o ao Senhor",
+        "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 199273,
+      "name": "Agrade\u00e7o ao Senhor",
+      "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
     },
     {
       "added_at": null,
@@ -179,22 +195,6 @@
       "duration_ms": 232146,
       "name": "Deus Tremendo (feat. Vanilda Bordieri, Eliane Silva, Lydia Mois\u00e9s, Suelen de Jesus, C\u00e9lia Sakamoto, Elaine Martins & Shirley Carvalhaes) - Ao Vivo",
       "url": "https://open.spotify.com/track/3DpGyWrBsi29h0ee7KldAe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agrade\u00e7o ao Senhor",
-        "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 199273,
-      "name": "Agrade\u00e7o ao Senhor",
-      "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 268710,
-      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Senha",
         "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 263613,
       "name": "A Senha",
       "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 268710,
+      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 303020,
+      "name": "\u00daltimos Dias",
+      "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samba Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 217640,
       "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
       "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 303020,
-      "name": "\u00daltimos Dias",
-      "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
     },
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumpra o Seu Chamado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 309150,
       "name": "Muda o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crian\u00e7a Nota 10",
-        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Coral de Crian\u00e7as",
-          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Crian\u00e7a Nota 10",
-      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Raridade - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumpra o Seu Chamado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 258670,
       "name": "O Reino (Ao Vivo)",
       "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Raridade - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
     },
     {
       "added_at": null,

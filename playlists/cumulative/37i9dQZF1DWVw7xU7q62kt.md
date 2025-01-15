@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-364 songs - 17 hr 42 min
+365 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [High Stakes](https://open.spotify.com/track/6kURl2z8oL9QPeFH4GlKhd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [High Stakes](https://open.spotify.com/album/5Ji2T3G9TQIB7jiP5TT8Kc) | 1:46 | 2024-09-20 | 2024-12-06 |
 | [Hit the Lights](https://open.spotify.com/track/4InFEKneua0HUGrwHuZ78h) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv) | [Hit the Lights](https://open.spotify.com/album/6hESTwKEAi1Qacec4JSuxy) | 2:06 | 2024-09-06 |  |
 | [Hot Chocolate](https://open.spotify.com/track/3KJjC8jdh3afiVrySsryWS) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Hot Chocolate](https://open.spotify.com/album/56aSaoHmpIh5eV95eLAeoJ) | 2:12 | 2024-11-08 |  |
-| [Household](https://open.spotify.com/track/5dRj6Gevj4UKpWkIu0INIe) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Household](https://open.spotify.com/album/7qFXrncXQT6MWKtF7sSRNw) | 2:09 | 2024-10-18 |  |
+| [Household](https://open.spotify.com/track/5dRj6Gevj4UKpWkIu0INIe) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Household](https://open.spotify.com/album/7qFXrncXQT6MWKtF7sSRNw) | 2:09 | 2024-10-18 | 2025-01-15 |
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
 | [I Don’t Want Love \- SwuM Remix](https://open.spotify.com/track/7BdUbHTfVwu2d6v9kM8VI1) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [I Don’t Want Love \(SwuM Remix\)](https://open.spotify.com/album/0qU2uou1nUrCv9nbmhI7K1) | 2:05 | 2024-11-29 |  |
 | [i remember this picture](https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 3:33 | 2024-03-20 | 2024-04-19 |
@@ -238,6 +238,7 @@
 | [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |
 | [OLDRICH](https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx) | [OLDRICH](https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl) | 2:21 | 2023-08-22 |  |
 | [Omen](https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2) | [RuiijiKun](https://open.spotify.com/artist/34Kex8JSfMcDFqILq2vX0x) | [Omen](https://open.spotify.com/album/0zQQuUOZGdU4XKC7GXpJlB) | 2:49 | 2024-10-11 |  |
+| [One Step Ahead](https://open.spotify.com/track/3JEEEyro5VLuwgz1gV7P0e) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Schematics](https://open.spotify.com/album/228bJhLYXUokuq7eYEQDnf) | 1:48 | 2025-01-10 |  |
 | [Onsen](https://open.spotify.com/track/51G6wkfxXtqEpRC6CFwZXg) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [JTS.sax](https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H), [Chris Duke](https://open.spotify.com/artist/6EaOHR3AowFCbhk2sOS2ML) | [Onsen](https://open.spotify.com/album/7yJOBinqazhov3sjFZgVq0) | 2:36 | 2024-11-08 | 2024-11-29 |
 | [Our Roots](https://open.spotify.com/track/5hyiQ4AumhGO8aRQkAelVl) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Our Roots](https://open.spotify.com/album/5ZWzcsoDKr9s5KUW30BAv1) | 1:39 | 2024-11-08 | 2024-12-02 |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2023-08-22 |  |

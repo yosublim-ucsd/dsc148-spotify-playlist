@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1262,6 +1284,28 @@
       "duration_ms": 310066,
       "name": "CHROMA 005 A.L.O.E",
       "url": "https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if"
+    },
+    {
+      "album": {
+        "name": "CHROMA 008",
+        "url": "https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312307,
+      "name": "CHROMA 008 TANGZ",
+      "url": "https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b"
     },
     {
       "album": {
@@ -7096,7 +7140,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 177909,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"

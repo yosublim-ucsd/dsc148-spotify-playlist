@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-525 songs - 1 day 2 hr 57 min
+526 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [5th Avenue](https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [5th Avenue](https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl) | 2:26 | 2023-09-08 |  |
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-09 |  |
 | [A Favorite Song](https://open.spotify.com/track/4UWncXK8hLTErhTxKPolo2) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [A Favorite Song](https://open.spotify.com/album/45S8G3m4yS40xNqsXCBJAG) | 2:13 | 2023-06-15 |  |
-| [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-13 |  |
+| [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-13 | 2025-01-15 |
 | [A Foggy Day \- Live: Solo Piano](https://open.spotify.com/track/55uDGKhnSZUKkkksEG5mRl) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Rolling Stone Original](https://open.spotify.com/album/1CuLna022h4RkyQpd5CMDP) | 2:18 | 2021-12-14 | 2022-11-18 |
 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 | 2023-11-17 |  |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
@@ -50,6 +50,7 @@
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-14 | 2022-11-18 |
+| [Autumn Leaves](https://open.spotify.com/track/52sYugipgbmWYF178BHIWm) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Autumn Leaves](https://open.spotify.com/album/3yJbSFAutEkZHfNdbtrO18) | 2:40 | 2025-01-14 |  |
 | [Autumn nocturne](https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Autumn nocturne](https://open.spotify.com/album/74GNqzlT1Jh72qXGqGqQ0Q) | 2:35 | 2023-12-08 |  |
 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2023-11-17 |  |
 | [Backwards era](https://open.spotify.com/track/42I2pIhLglLv0La7ubo2U4) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Backwards era](https://open.spotify.com/album/5V8wQwPdd4uZjEo6OhBP3Z) | 2:24 | 2023-08-11 |  |
@@ -244,7 +245,7 @@
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2022-08-17 |  |
 | [Jupiter](https://open.spotify.com/track/4hjTtZqxYQpCkSKuVqLooh) | [John Dex](https://open.spotify.com/artist/06o4m4w6dY2vZ0dQteGlub) | [Jupiter](https://open.spotify.com/album/06C9y2qAK0pW7y0HoB9MLF) | 2:16 | 2024-02-02 |  |
 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 | 2024-02-23 |  |
-| [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-29 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-29 | 2025-01-15 |
 | [Just Friends](https://open.spotify.com/track/2YsdjtklZEjBXgovsaKFpm) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Just Friends](https://open.spotify.com/album/6zcCzNrc6e9NDKLMvMgKUm) | 3:45 | 2022-08-31 | 2024-05-25 |
 | [Just One More](https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Just One More](https://open.spotify.com/album/3191PgCVvNGrFrQsuBODno) | 3:16 | 2024-03-22 |  |
 | [Knowing Myself](https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Knowing Myself](https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB) | 2:22 | 2023-08-11 |  |
@@ -284,7 +285,7 @@
 | [Lover´s Lullaby](https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Lover´s Lullaby](https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC) | 3:03 | 2023-10-13 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2022-10-06 | 2023-03-03 |
 | [Mademoiselle](https://open.spotify.com/track/3rG8628IHuYUTbjFHoT1Rm) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Mademoiselle](https://open.spotify.com/album/2JMZHzAkjIVkNlBWqMBT6X) | 2:52 | 2023-11-17 |  |
-| [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 |  |
+| [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 | 2025-01-15 |
 | [Madison Avenue](https://open.spotify.com/track/04oey4VksjOx3oLQ5jRX0b) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Madison Avenue](https://open.spotify.com/album/2NUUhds2mneVXC8rsCpoqG) | 3:00 | 2024-01-05 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 |  |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
@@ -309,7 +310,7 @@
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2022-08-11 |  |
 | [My Confidant](https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [My Confidant](https://open.spotify.com/album/5j4kWDbtE1ImHbXjKViBPH) | 3:00 | 2023-08-11 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-05 | 2023-09-01 |
-| [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-08-11 |  |
+| [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-08-11 | 2025-01-15 |
 | [My Foolishness](https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [My Foolishness](https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ) | 2:46 | 2023-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/2A6qg2En98HEsRYEOk51fi) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [My Funny Valentine](https://open.spotify.com/album/0MhVtAsuAec2fIiiX7XBHB) | 2:49 | 2021-12-14 | 2023-05-05 |
 | [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2022-08-11 |  |

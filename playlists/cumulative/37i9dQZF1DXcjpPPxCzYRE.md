@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-331 songs - 19 hr 6 min
+332 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 | 2024-10-25 |
 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 | 2024-10-20 |
+| [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 |  |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-10-16 | 2023-12-30 |
 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 | 2024-04-11 |  |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 | 2022-11-11 | 2024-02-09 |
@@ -292,7 +293,7 @@
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-11-11 | 2023-03-01 |
 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 | 2024-04-11 |  |
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-03-22 | 2024-05-03 |
-| [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 | 2024-10-01 |  |
+| [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 | 2024-10-01 | 2025-01-15 |
 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 | 2023-08-18 |  |
 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 | 2024-04-11 |  |
 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 | 2024-04-11 | 2024-06-17 |

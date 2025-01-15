@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 346277,
+  "num_followers": 346302,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABLI/gRVRobv2Stll7+GvpG",
+  "snapshot_id": "Z4RXgAAAAAAYwEKgeq79ta5wuQH8hzrb",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 239773,
       "name": "Destino",
       "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
     },
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conquistando Corazones",
-        "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conquistando Corazones",
+        "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 508133,
-      "name": "Popurr\u00ed Ranchero - En Vivo",
-      "url": "https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Amores, un Amante",
         "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
+        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 235026,
-      "name": "En la Oscuridad",
-      "url": "https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN"
+      "duration_ms": 508133,
+      "name": "Popurr\u00ed Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/7xWUtjDA5NSBVpKKnz8ff4"
+      "duration_ms": 235026,
+      "name": "En la Oscuridad",
+      "url": "https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 194853,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/7xWUtjDA5NSBVpKKnz8ff4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e \ud83e\udd94",
-  "num_followers": 185409,
+  "num_followers": 185559,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/0KRYCBwIpWYFNrXOmXbyUh"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Vanille fraise",
         "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 238183,
       "name": "Vanille fraise",
       "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/0KRYCBwIpWYFNrXOmXbyUh"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Le sud",
-        "url": "https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 225061,
-      "name": "Le sud",
-      "url": "https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Laissez-moi danser",
         "url": "https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 172360,
       "name": "Laissez-moi danser",
       "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Le sud",
+        "url": "https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 225061,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
-      },
-      "artists": [
-        {
-          "name": "Anwar",
-          "url": "https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud"
-        }
-      ],
-      "duration_ms": 295493,
-      "name": "How Can I Do",
-      "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
+      },
+      "artists": [
+        {
+          "name": "Anwar",
+          "url": "https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud"
+        }
+      ],
+      "duration_ms": 295493,
+      "name": "How Can I Do",
+      "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Listener's Digest",
-        "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
-      },
-      "artists": [
-        {
-          "name": "Roudoudou",
-          "url": "https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL"
-        }
-      ],
-      "duration_ms": 253706,
-      "name": "Peace and Tranquility to Earth",
-      "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Double Shifts",
         "url": "https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 208448,
       "name": "Double Shifts",
       "url": "https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Listener's Digest",
+        "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
+      },
+      "artists": [
+        {
+          "name": "Roudoudou",
+          "url": "https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL"
+        }
+      ],
+      "duration_ms": 253706,
+      "name": "Peace and Tranquility to Earth",
+      "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Feu de paille",
-        "url": "https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Feu de paille",
-      "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Keep Running",
         "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 174706,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Feu de paille",
+        "url": "https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Feu de paille",
+      "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
     },
     {
       "added_at": "2025-01-09 23:00:10",

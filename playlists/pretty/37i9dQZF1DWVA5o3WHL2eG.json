@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 36905,
+  "num_followers": 36902,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "stunde null",
         "url": "https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 121186,
       "name": "petrichor",
       "url": "https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Wir sehen uns wieder",
-        "url": "https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB"
-      },
-      "artists": [
-        {
-          "name": "Paula Douglas",
-          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Wir sehen uns wieder",
-      "url": "https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "1000 KLEINE TODE",
         "url": "https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192622,
       "name": "1000 KLEINE TODE",
       "url": "https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Wir sehen uns wieder",
+        "url": "https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB"
+      },
+      "artists": [
+        {
+          "name": "Paula Douglas",
+          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Wir sehen uns wieder",
+      "url": "https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Hand",
-        "url": "https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5"
-      },
-      "artists": [
-        {
-          "name": "MARYAM.fyi",
-          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Hand",
-      "url": "https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "drive song",
         "url": "https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 207008,
       "name": "drive song",
       "url": "https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Hand",
+        "url": "https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Hand",
+      "url": "https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul"
-      },
-      "artists": [
-        {
-          "name": "DIVES",
-          "url": "https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0"
-        }
-      ],
-      "duration_ms": 178078,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Wir sind echt",
         "url": "https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 112626,
       "name": "Wir sind echt",
       "url": "https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul"
+      },
+      "artists": [
+        {
+          "name": "DIVES",
+          "url": "https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0"
+        }
+      ],
+      "duration_ms": 178078,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6"
     },
     {
       "added_at": "2025-01-07 23:00:01",

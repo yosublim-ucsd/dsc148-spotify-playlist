@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Malcolm Todd
+> a little indie, a little pop\.  Cover: IDER
 
-1,209 songs - 2 day 12 hr 11 min
+1,210 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [ASHED US OUT](https://open.spotify.com/track/1QcVUxIZ9LNvpYbVaMzJxP) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [ASHED US OUT](https://open.spotify.com/album/4miL6vINwLZQJ2dbABzDrP) | 2:20 | 2024-03-22 | 2024-04-27 |
 | [Asking for a Friend](https://open.spotify.com/track/3v5CpMjk04RODucheegsnm) | [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [S3](https://open.spotify.com/album/4xSi4wMxTSvvr8UnDnJT5R) | 2:32 | 2023-06-16 | 2023-07-29 |
 | [At the End of the Day](https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:53 | 2022-03-04 | 2022-05-28 |
+| [Attachment Theory](https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Attachment Theory](https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8) | 2:48 | 2025-01-14 |  |
 | [Attention](https://open.spotify.com/track/3BUdokVE5IgrAmwCz5D3et) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Seventeen](https://open.spotify.com/album/5hJM5UqLfZlZjgvDdO8d0i) | 2:41 | 2024-03-29 | 2024-06-01 |
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2023-09-22 | 2023-11-25 |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-02-23 | 2024-03-30 |
@@ -254,7 +255,7 @@
 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 | 2024-09-19 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2024-08-17 |
 | [daisies](https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [daisies](https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx) | 2:04 | 2023-08-11 | 2023-11-25 |
-| [DAMAGE](https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [DAMAGE](https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j) | 3:21 | 2024-09-27 |  |
+| [DAMAGE](https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [DAMAGE](https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j) | 3:21 | 2024-09-27 | 2025-01-15 |
 | [Damn, I miss you](https://open.spotify.com/track/0U5ok644ffKGSKW8HaaZsX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Damn, I miss you](https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ) | 2:40 | 2023-10-20 | 2024-01-05 |
 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 | 2024-03-08 | 2024-05-18 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-10-29 | 2022-03-18 |

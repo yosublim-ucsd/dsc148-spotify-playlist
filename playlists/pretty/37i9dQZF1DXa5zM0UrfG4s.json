@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112669,
+  "num_followers": 112683,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Dum i haue",
-        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 144808,
-      "name": "Dum i haue",
-      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Dum i haue",
+        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 144808,
+      "name": "Dum i haue",
+      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
         }
       ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
       "artists": [
         {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+      "duration_ms": 167980,
+      "name": "Zetor\u2019n",
+      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+        "name": "B\u00f8gda (Remix)",
+        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 127037,
-      "name": "Digge gutta",
-      "url": "https://open.spotify.com/track/64LmSaPo5ZdoWRt711Akgi"
+      "duration_ms": 171938,
+      "name": "B\u00f8gda - Remix",
+      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "B\u00f8gda (Remix)",
-        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 171938,
-      "name": "B\u00f8gda - Remix",
-      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
+      "duration_ms": 127037,
+      "name": "Digge gutta",
+      "url": "https://open.spotify.com/track/64LmSaPo5ZdoWRt711Akgi"
     },
     {
       "added_at": "2024-10-31 23:00:00",

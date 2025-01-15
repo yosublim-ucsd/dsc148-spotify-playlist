@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Queens everywhere - givin' us life. ",
-  "name": "Fierce",
+  "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
+  "name": "FIERCE",
   "tracks": [
     {
       "album": {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Bitch On Heels",
+        "url": "https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd"
+      },
+      "artists": [
+        {
+          "name": "The Vivienne",
+          "url": "https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190572,
+      "name": "Bitch On Heels",
+      "url": "https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT"
+    },
+    {
+      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 246506,
       "name": "Call My Life",
       "url": "https://open.spotify.com/track/7biy6dfLU3CPSkhIYl3aDj"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "We Werk Together",
       "url": "https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 235530,
       "name": "Work Mommi Work (feat. Spankrock)",
       "url": "https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3"

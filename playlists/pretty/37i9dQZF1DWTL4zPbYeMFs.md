@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,218 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,330 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 12 | [Guzarish](https://open.spotify.com/track/2MvCNH9ua0CeOgUQfZf56z) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 5:27 |
 | 13 | [Shayad](https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:07 |
 | 14 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 |
-| 15 | [Sawaar Loon](https://open.spotify.com/track/29YePgOxuPLfU7uZKxKf6w) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Lootera](https://open.spotify.com/album/3VrQeNAFHS4Vjl4uspl1s3) | 4:14 |
-| 16 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |
+| 15 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |
+| 16 | [Sawaar Loon](https://open.spotify.com/track/29YePgOxuPLfU7uZKxKf6w) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Lootera](https://open.spotify.com/album/3VrQeNAFHS4Vjl4uspl1s3) | 4:14 |
 | 17 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 |
 | 18 | [Tujh Mein Rab Dikhta Hai](https://open.spotify.com/track/2LcXJP95e4HKydTZ2mYfrx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:41 |
 | 19 | [Pee Loon](https://open.spotify.com/track/52itZ0w0CydihB2JCZEIft) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Once Upon A Time In Mumbaai](https://open.spotify.com/album/4ceWEQarPyTyeb9TUeyLOG) | 4:45 |

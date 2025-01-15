@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11824,
+  "num_followers": 11823,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Ney Taksimleri",
+        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
+      },
+      "artists": [
+        {
+          "name": "Murat Akman",
+          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
+        }
+      ],
+      "duration_ms": 110493,
+      "name": "Ney'le Zalimsin Hicazkar Taksim",
+      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Neva",
         "url": "https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C"
       },
@@ -139,38 +155,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Ney Taksimleri",
-        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
+        "name": "Sufi, Vol. 4 (Ney & Bendir)",
+        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
       },
       "artists": [
         {
-          "name": "Murat Akman",
-          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
+          "name": "An\u0131l \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
         }
       ],
-      "duration_ms": 110493,
-      "name": "Ney'le Zalimsin Hicazkar Taksim",
-      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Kandil 2 Ney & Ud",
-        "url": "https://open.spotify.com/album/2DfVKzTfSjfcHpEHxitJVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00fcleyman Yard\u0131m",
-          "url": "https://open.spotify.com/artist/5VwrOti5uGssmr8KOrFSB9"
-        },
-        {
-          "name": "Mehmet U\u00e7ak",
-          "url": "https://open.spotify.com/artist/4F0KK8MFGuIB6mzoaeMd8m"
-        }
-      ],
-      "duration_ms": 312253,
-      "name": "H\u00fcseyni Saz Semaisi",
-      "url": "https://open.spotify.com/track/6kyKxCLATMgXi0zDBuoW8S"
+      "duration_ms": 117120,
+      "name": "G\u00f6\u011fe A\u00e7\u0131lan Eller",
+      "url": "https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -211,18 +207,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Sufi, Vol. 4 (Ney & Bendir)",
-        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
+        "name": "Kandil 2 Ney & Ud",
+        "url": "https://open.spotify.com/album/2DfVKzTfSjfcHpEHxitJVX"
       },
       "artists": [
         {
-          "name": "An\u0131l \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
+          "name": "S\u00fcleyman Yard\u0131m",
+          "url": "https://open.spotify.com/artist/5VwrOti5uGssmr8KOrFSB9"
+        },
+        {
+          "name": "Mehmet U\u00e7ak",
+          "url": "https://open.spotify.com/artist/4F0KK8MFGuIB6mzoaeMd8m"
         }
       ],
-      "duration_ms": 117120,
-      "name": "G\u00f6\u011fe A\u00e7\u0131lan Eller",
-      "url": "https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ"
+      "duration_ms": 312253,
+      "name": "H\u00fcseyni Saz Semaisi",
+      "url": "https://open.spotify.com/track/6kyKxCLATMgXi0zDBuoW8S"
     },
     {
       "added_at": "2024-03-05 11:27:00",

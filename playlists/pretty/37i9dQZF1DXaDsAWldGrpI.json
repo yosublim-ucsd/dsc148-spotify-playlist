@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 135597,
+  "num_followers": 135650,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 374400,
-      "name": "Stay A Little Longer - Live",
-      "url": "https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 211706,
       "name": "Write This Down - Live",
       "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 374400,
+      "name": "Stay A Little Longer - Live",
+      "url": "https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
-      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Written in the Sand (Live)",
-        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Written in the Sand - Live",
-      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1631,18 +1631,34 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+        "name": "Written in the Sand (Live)",
+        "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
       },
       "artists": [
         {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
+      "duration_ms": 196173,
+      "name": "Written in the Sand - Live",
+      "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 291213,
+      "name": "Fast Cars And Freedom - Live In Concert",
+      "url": "https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "The Vault",
-        "url": "https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 291213,
-      "name": "Fast Cars And Freedom - Live In Concert",
-      "url": "https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "One More For The Fans (Live)",
         "url": "https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi"
       },
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Fishin' In The Dark - Live At The Red Deer Fine Arts Center, Canada/1991",
-      "url": "https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "Live at Church Street Station",
         "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 149309,
       "name": "D.I.V.O.R.C.E",
       "url": "https://open.spotify.com/track/6Rmg5joHkL2dRrXa8m1oGq"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Fishin' In The Dark - Live At The Red Deer Fine Arts Center, Canada/1991",
+      "url": "https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv"
     },
     {
       "added_at": "2024-12-20 05:00:38",

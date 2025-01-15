@@ -5845,6 +5845,32 @@
     },
     {
       "album": {
+        "name": "Moon Calling (Feat. Neha Kakkar)",
+        "url": "https://open.spotify.com/album/3hNvvGf8nk3WwUY75IgmNR"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Moon Calling (Feat. Neha Kakkar)",
+      "url": "https://open.spotify.com/track/0cesEdJqdjP1ONo2Wy6BnJ"
+    },
+    {
+      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE"
       },

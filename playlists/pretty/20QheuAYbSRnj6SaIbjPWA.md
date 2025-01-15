@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 82 songs - 5 hr 21 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 84 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 80 | [take it away](https://open.spotify.com/track/2A4HxXDATkfT6GJYF2nNaF) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [Below The Waste](https://open.spotify.com/album/1Jyr6ZID2DRvvj4FLQ7Sxa) | 2:30 |
 | 81 | [Heaven](https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 4:36 |
 | 82 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
+| 83 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
+| 84 | [Face In The Picture](https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Face In the Picture](https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K) | 2:44 |
 
-Snapshot ID: `AAAAx0FEsTWu72+8MUP0AVWf5TJsttm0`
+Snapshot ID: `AAAAybWWtmDo99TdrHzLXwAgOU/R9Ogv`

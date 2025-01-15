@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: M.anifest",
+  "description": "The big Hip-Life hits rn. Cover: Joey B",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 183260,
       "name": "More Money",
       "url": "https://open.spotify.com/track/2hF2Rv9c4tZXtTy1J1proB"
@@ -3592,6 +3592,24 @@
       "duration_ms": 308688,
       "name": "Police Abaa",
       "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
+    },
+    {
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97550,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
     },
     {
       "album": {

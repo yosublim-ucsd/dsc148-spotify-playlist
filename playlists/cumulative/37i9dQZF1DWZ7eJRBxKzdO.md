@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ7eJRBxKzdO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ7eJRBxKzdO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7eJRBxKzdO)
 
-### [Summer Dance Hits 2024](https://open.spotify.com/playlist/37i9dQZF1DWZ7eJRBxKzdO)
+### [Summer Dance Hits 2025](https://open.spotify.com/playlist/37i9dQZF1DWZ7eJRBxKzdO)
 
 > The summer needs dance hits 😎☀️
 

@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop.  Cover: Malcolm Todd",
+  "description": "a little indie, a little pop.  Cover: IDER",
   "num_followers": 216663,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpkgAAAADgsGUxf6n6Dsi0BbQI7Ecv",
+  "snapshot_id": "Z4a8FwAAAABxWdJSQpLi6llY/Bc+AH5b",
   "tracks": [
+    {
+      "added_at": "2025-01-14 19:33:43",
+      "album": {
+        "name": "Attachment Theory",
+        "url": "https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Attachment Theory",
+      "url": "https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT"
+    },
     {
       "added_at": "2025-01-03 05:00:25",
       "album": {
@@ -1211,22 +1227,6 @@
       "duration_ms": 161828,
       "name": "heartbodymindsoul",
       "url": "https://open.spotify.com/track/3jYnrUml3eWrtvcF1kmThi"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/4omVNZeB8EhBJKOVwntP3j"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 201217,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak"
     }
   ],
   "unique_name": "soda",

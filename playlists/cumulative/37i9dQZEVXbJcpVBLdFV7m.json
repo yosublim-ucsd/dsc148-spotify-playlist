@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 184675,
       "name": "BESHE MI PRIYATNO",
       "url": "https://open.spotify.com/track/5ZBeHVHIpqfdMzO5sGPCoi"
@@ -9014,7 +9014,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 190673,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/5pcNhJuNfOHYG7PFHJCQdU"
@@ -13146,7 +13146,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -17920,10 +17920,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "album": {
+        "name": "two",
+        "url": "https://open.spotify.com/album/5yc8yPsnUud3i8v9Ran8oQ"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135212,
+      "name": "two",
+      "url": "https://open.spotify.com/track/6DRZmJa38MaMNthwG3fCBD"
     },
     {
       "album": {
@@ -20157,6 +20175,32 @@
     },
     {
       "album": {
+        "name": "\u0410\u0437 \u0438 \u0422\u0438",
+        "url": "https://open.spotify.com/album/4qj8c0fRwAyP3eRelGEyom"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Asparuhov",
+          "url": "https://open.spotify.com/artist/6Wlt87XH5gU4ZeKpR2kQ7J"
+        },
+        {
+          "name": "Evi Asparuhov",
+          "url": "https://open.spotify.com/artist/72qDIvKIHrYlw9WudY4jNE"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250980,
+      "name": "\u0410\u0437 \u0438 \u0422\u0438",
+      "url": "https://open.spotify.com/track/1NHusfJNvc3HrMz0zLWp57"
+    },
+    {
+      "album": {
         "name": "\u0410\u0437 \u0438\u0441\u043a\u0430\u043c",
         "url": "https://open.spotify.com/album/0qfemT4XjfPvCDpwHXW3wi"
       },
@@ -21250,6 +21294,28 @@
       "duration_ms": 114580,
       "name": "\u041a\u0440\u0430\u0432\u0430\u0442\u0430 \u043b\u043e\u043b\u0430",
       "url": "https://open.spotify.com/track/1qP3wpqTCuiC7XGBaxhWPA"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0440\u0430\u0441\u0438\u0432\u0430 \u0446\u0438\u0433\u0430\u043d\u043a\u043e",
+        "url": "https://open.spotify.com/album/6SofmAaHvkXBZCNNNhKQfs"
+      },
+      "artists": [
+        {
+          "name": "Roksana",
+          "url": "https://open.spotify.com/artist/1uaFY3HeD17DQJvR2m8ZMd"
+        },
+        {
+          "name": "Georgi Markov",
+          "url": "https://open.spotify.com/artist/6a388CWMUn0R2jqA3UdTdB"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "\u041a\u0440\u0430\u0441\u0438\u0432\u0430 \u0446\u0438\u0433\u0430\u043d\u043a\u043e",
+      "url": "https://open.spotify.com/track/36Ggi7WiXAPPshPMo5XecZ"
     },
     {
       "album": {
@@ -22858,7 +22924,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 205263,
       "name": "\u0427\u0435\u0441\u0442\u0438\u0442\u043e, \u0441\u043a\u044a\u043f\u0438!",
       "url": "https://open.spotify.com/track/6eACv4nBj96TX5OjJW5QkO"

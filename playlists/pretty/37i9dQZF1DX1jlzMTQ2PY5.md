@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,778 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,837 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 25 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
 | 26 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
 | 27 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 |
-| 28 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
-| 29 | [High & Low \- Zero T Remix](https://open.spotify.com/track/77Ai4rVwMPKoBbGHyCPVG9) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [High & Low \(Zero T Remix\)](https://open.spotify.com/album/6ZBQwPQrQITwmBI7lv0ouY) | 4:26 |
+| 28 | [High & Low \- Zero T Remix](https://open.spotify.com/track/77Ai4rVwMPKoBbGHyCPVG9) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [High & Low \(Zero T Remix\)](https://open.spotify.com/album/6ZBQwPQrQITwmBI7lv0ouY) | 4:26 |
+| 29 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 30 | [Where The Flowers Grow](https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Where The Flowers Grow](https://open.spotify.com/album/2mICl0woSF5tieybH5Theo) | 3:53 |
 | 31 | [Smashed Lies](https://open.spotify.com/track/6S5XgvlxcMQtZj1xFQVdc8) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me / Smashed Lies](https://open.spotify.com/album/58TNPOAoE9KZ5XJPISGKPq) | 4:08 |
 | 32 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 44 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
 | 45 | [Love Me, Haunt Me](https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me](https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye) | 4:09 |
 | 46 | [I’ll Come Back To You](https://open.spotify.com/track/4E3JfEbKFboCPXyTXjNtlk) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Holly Rolfe](https://open.spotify.com/artist/77rK7tE9ouhFQmHo0nrzoN) | [I'll Come Back to You](https://open.spotify.com/album/3VkRY63RXbeThFeLFA8T48) | 3:02 |
-| 47 | [Waiting](https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Losing Balance](https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN) | 2:48 |
-| 48 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 47 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 48 | [Waiting](https://open.spotify.com/track/6H8YJ7IHiAEqTWPV5opclB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Losing Balance](https://open.spotify.com/album/1VwP5dm8dPqgNHJlvVtduN) | 2:48 |
 | 49 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 |
 | 50 | [Bloomsbury](https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Bloomsbury](https://open.spotify.com/album/0CkkEvImWBgGUObR3wcVdA) | 4:30 |
 

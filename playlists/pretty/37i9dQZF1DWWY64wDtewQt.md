@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,424,186 likes - 100 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,427,702 likes - 100 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 89 | [BLOODY BRAZIL \(Slowed\)](https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz) | [TENZOO](https://open.spotify.com/artist/4MT1nqv9uda3Z6d8ycM3xl) | [BLOODY BRAZIL \(Slowed\)](https://open.spotify.com/album/0J4MthqeDLd1vVhLRYlE0A) | 2:01 |
 | 90 | [EL QUE LA DEBE FUNK \- SLOWED](https://open.spotify.com/track/5PHdyF0lk5ZWzow4aUSfPL) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [DJ MILLYANN](https://open.spotify.com/artist/1um8FQQ62RO4ecSx5g3A2E), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [EL QUE LA DEBE FUNK](https://open.spotify.com/album/2i9lYE2CWNBLmDiXwJ884n) | 1:48 |
 | 91 | [robot rock \(funk\)](https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [robot rock \(funk\)](https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4) | 2:33 |
-| 92 | [z\-alpha 2](https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [SoulFusi](https://open.spotify.com/artist/1WptJcbTMCn53nGP8HMAg2), [WXRTNAX](https://open.spotify.com/artist/2Ytgz8jqYULfKBtQCNrihy) | [z\-alpha 2](https://open.spotify.com/album/2H5ysZmO4OKxPPRQKDJZDK) | 1:15 |
+| 92 | [z\-alpha 2](https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [SoulFusi](https://open.spotify.com/artist/1WptJcbTMCn53nGP8HMAg2), [WXRTNAX](https://open.spotify.com/artist/2Ytgz8jqYULfKBtQCNrihy) | [z\-alpha 2](https://open.spotify.com/album/2H5ysZmO4OKxPPRQKDJZDK) | 1:13 |
 | 93 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 94 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 |
 | 95 | [FUNK INFERNAL](https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7), [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3) | [FUNK INFERNAL](https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W) | 1:30 |

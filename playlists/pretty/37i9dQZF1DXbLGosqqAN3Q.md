@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLGosqqAN3Q.md) - [plain]
 
 > Music From "Genesis of Aquarion"!\(C\)2004 河森正治・サテライト/Project AQUARION
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,292 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,297 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 2 | [Kokuhaku](https://open.spotify.com/track/6fRg8NJCM5x73BVXWA91Mh) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd) | [Kokuhaku](https://open.spotify.com/album/6FIRSr3PGANcWH5vB1tiCp) | 4:11 |
-| 3 | [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/track/4QEbKsh9obULVHFdokmrVa) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd), [Yoshiki Fukuyama](https://open.spotify.com/artist/2f0GgEXy1Yzapzsat45lHH) | [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/album/1M4oMeMg7jqJeYpLBv8WXD) | 4:35 |
+| 3 | [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/track/4QEbKsh9obULVHFdokmrVa) | [AKINO from bless4](https://open.spotify.com/artist/20RpnyBvpyBQVSABHEokTd), [福山芳樹](https://open.spotify.com/artist/5prZMLWMrc5TwTJ1dGylBM) | [Genesis of Aquarion Myth of Emotions Ver.](https://open.spotify.com/album/1M4oMeMg7jqJeYpLBv8WXD) | 4:35 |
 | 4 | [Go Tight！](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　Go Tight！](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
 | 5 | [オムナ　マグニ](https://open.spotify.com/track/4u5uK5CTiz71l1ufJezBc1) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [「創聖のアクエリオン」オープニングテーマ　Go Tight！](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 1:36 |
 | 6 | [プライド～嘆きの旅](https://open.spotify.com/track/72SahxiauEolgozbrgqzpp) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ　創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:35 |

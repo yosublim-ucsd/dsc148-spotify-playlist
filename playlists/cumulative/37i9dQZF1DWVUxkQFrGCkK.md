@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-778 songs - 2 day 7 hr 22 min
+779 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [summer on the inside](https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa) | 3:25 | 2023-09-14 | 2023-10-13 |
 | [Summertime](https://open.spotify.com/track/0bBiA8KX2V8DRU850nkhEN) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [DreamySpaceyBlue](https://open.spotify.com/album/4U0pwwxuvYHaoH71qD6N8c) | 4:16 | 2024-02-08 | 2024-04-19 |
 | [Summertime feat\. Venus Anon](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-07 | 2025-01-10 |
+| [Sweet Cuddles \- Dennis Cruz Remix](https://open.spotify.com/track/1TUsVN2ev9kr2PWnxXcjql) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 5:37 | 2025-01-14 |  |
 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 | 2024-09-05 |  |
 | [Sweet Summer Dreams \- Remix](https://open.spotify.com/track/1ZHWY5QGBNmPAh22YowK36) | [TTeo](https://open.spotify.com/artist/6p0eFk6CWrdj52NxRdyqFa), [Noraa](https://open.spotify.com/artist/3TB54cQWdcg0uDjBoTu6S2), [ADH](https://open.spotify.com/artist/4k99IWQOcwyNhLJMBMU6wh) | [Sweet Summer Dreams \(Remix\)](https://open.spotify.com/album/053Jz5GwwMBKXodk2REwLi) | 3:32 | 2023-06-29 | 2023-08-02 |
 | [Switch](https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Switch](https://open.spotify.com/album/7gBiw8viPA2iL0cxcm2iHv) | 4:07 | 2024-08-22 |  |

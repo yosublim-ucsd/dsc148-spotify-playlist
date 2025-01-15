@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Jan 23:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Jan 19:03 UTC.
 
-3,925 songs - 9 day 2 hr 9 min
+3,927 songs - 9 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Black Notes](https://open.spotify.com/track/6lgWk8DvKYhvpwYZlEMIoW) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Black Notes](https://open.spotify.com/album/59MIt0VSCMEzTUEzpVfCqi) | 4:32 | 2024-08-13 | 2024-08-16 |
 | [Black Sheep](https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Black Sheep](https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs) | 2:54 | 2024-09-18 | 2024-09-21 |
 | [Black: SSD](https://open.spotify.com/track/4XObmkDnabiBdWqkAvLUGM) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [Black: SSD](https://open.spotify.com/album/4ggVSNSMWBF3ovgF4NCrjd) | 4:42 | 2024-10-16 | 2024-10-19 |
+| [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-14 |  |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-01 | 2024-08-03 |
 | [BlackSabbath](https://open.spotify.com/track/2XZ9PsN24za6WhNbeCieG6) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [BlackSabbath](https://open.spotify.com/album/24ITli2wJIsvRCR0JhfSaE) | 1:49 | 2024-05-24 | 2024-05-26 |
 | [Blast Beats and Melodies](https://open.spotify.com/track/5LleaepHuSsuXUrAjfGXoR) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts) | [Blast Beats and Melodies](https://open.spotify.com/album/7zPFb3LZ0RFcKJyAJs97rs) | 3:27 | 2024-09-14 | 2024-09-19 |
@@ -471,6 +472,7 @@
 | [BOTTLE POP](https://open.spotify.com/track/60xTV829FKAb5ZEBxI7jat) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [BOTTLE POP](https://open.spotify.com/album/0UBxtltxveij1SiDq21qlV) | 2:22 | 2024-05-22 | 2024-05-25 |
 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2024-12-10 | 2024-12-14 |
 | [Bounce Out Muzik](https://open.spotify.com/track/5gwSsTb0fDZuatAaQ1ee0O) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Bounce Out Muzik](https://open.spotify.com/album/347tf7QN1kifYOyFTuFGce) | 1:48 | 2024-12-11 | 2024-12-14 |
+| [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-14 |  |
 | [Boy Comics](https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.1](https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh) | 3:14 | 2024-06-03 | 2024-06-06 |
 | [Boy who cried art](https://open.spotify.com/track/5FyZgcoOJpwT5I2CFtwcOD) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Boy who cried art](https://open.spotify.com/album/1LNX1uy5ebPV871XvWlkDu) | 2:18 | 2024-06-19 | 2024-06-21 |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-06-09 |
@@ -1742,7 +1744,7 @@
 | [Ingo Swann](https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Ingo Swann](https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r) | 3:37 | 2024-10-08 | 2024-10-11 |
 | [Insanium](https://open.spotify.com/track/5nukIG524dZy2jmU5PfVkj) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Insanium](https://open.spotify.com/album/3vJDzTb8gOw2ipTGYQY4t5) | 2:38 | 2024-09-13 | 2024-09-18 |
 | [Inside](https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Eklipse](https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID), [Niceboy](https://open.spotify.com/artist/6ITQCtp87jIWIrHDBdkJm6) | [Inside](https://open.spotify.com/album/7BcRTefPbw55v2rfOjEio0) | 2:28 | 2024-11-29 | 2024-12-04 |
-| [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-05 |  |
+| [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-05 | 2025-01-15 |
 | [INSTAGRAM BANNED ME AT 200K WTF](https://open.spotify.com/track/0GYEjdcSHYwKE2Lg1MAfyj) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [INSTAGRAM BANNED ME AT 200K WTF](https://open.spotify.com/album/5AfSdARR4YYaWqVWALgfPI) | 2:18 | 2024-08-09 | 2024-08-14 |
 | [INSTANT TRANSFER](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 | 2024-08-07 | 2024-08-09 |
 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 | 2024-09-09 | 2024-09-13 |
@@ -3808,7 +3810,7 @@
 | [Years Ago](https://open.spotify.com/track/4ByOmboQ0f9cDFyA1VPfC5) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [Years Ago](https://open.spotify.com/album/3T3Fb6pq21AEMJ0rNlVINo) | 5:14 | 2024-07-10 | 2024-07-12 |
 | [Yes \- Mind Games Meditation Mix](https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Yes \- Mind Games Meditation Mix](https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14) | 6:03 | 2024-08-14 | 2024-08-17 |
 | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/track/7j2rcM90Df70Jyv96LBbjw) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/album/0Pzv5KkesWsdMZvvCKrXJk) | 1:51 | 2024-07-10 | 2024-07-12 |
-| [Yes I Can](https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Yes I Can](https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM) | 3:35 | 2025-01-08 |  |
+| [Yes I Can](https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Yes I Can](https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM) | 3:35 | 2025-01-08 | 2025-01-15 |
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2024-09-27 | 2024-10-01 |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-13 | 2024-08-17 |
 | [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 | 2024-07-30 | 2024-08-01 |

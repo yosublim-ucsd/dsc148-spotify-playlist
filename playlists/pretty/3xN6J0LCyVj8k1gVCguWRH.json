@@ -1,13 +1,29 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Obama&#x27;s Favorite Music of 2024.",
-  "num_followers": 131806,
+  "num_followers": 131798,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAsXLK0yxeDctr9yYU0mbaMKqay6CiB",
+  "snapshot_id": "AAAsbSp0tkxjn9XoXi5glm8YOZZlPBav",
   "tracks": [
+    {
+      "added_at": "2025-01-14 23:29:18",
+      "album": {
+        "name": "Light in the Shadow",
+        "url": "https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih"
+      },
+      "artists": [
+        {
+          "name": "BAYWUD",
+          "url": "https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "Light in the Shadow",
+      "url": "https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa"
+    },
     {
       "added_at": "2024-12-21 00:28:10",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
-    },
-    {
-      "added_at": "2025-01-13 23:02:07",
-      "album": {
-        "name": "Peace Train",
-        "url": "https://open.spotify.com/album/4OdpdxTz1Fe4zd3MxzaQMz"
-      },
-      "artists": [
-        {
-          "name": "Alexander Cardinale",
-          "url": "https://open.spotify.com/artist/1w9xONedSs7QY93KlJXK6b"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Peace Train",
-      "url": "https://open.spotify.com/track/6tz5J5JoQjdR79Yl8MM1k5"
     },
     {
       "added_at": "2024-12-21 00:28:10",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/3k057uh5tFgAbWPrQJOTrI"
     },
     {
-      "added_at": "2025-01-13 06:01:41",
-      "album": {
-        "name": "Done Believing",
-        "url": "https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb"
-      },
-      "artists": [
-        {
-          "name": "Snapdibz",
-          "url": "https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK"
-        }
-      ],
-      "duration_ms": 204982,
-      "name": "Done Believing",
-      "url": "https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN"
-    },
-    {
       "added_at": "2024-12-21 00:28:10",
       "album": {
         "name": "Romance",
@@ -183,26 +167,6 @@
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
-    },
-    {
-      "added_at": "2025-01-13 23:01:37",
-      "album": {
-        "name": "Can't stop thinking",
-        "url": "https://open.spotify.com/album/3ufuBf5AH4NEaJSXOD4ojY"
-      },
-      "artists": [
-        {
-          "name": "Blaqk Van",
-          "url": "https://open.spotify.com/artist/5SaLSMriVjdtAWMiG0zRbM"
-        },
-        {
-          "name": "Billy the Kid",
-          "url": "https://open.spotify.com/artist/53thNGMpf565Q60Vvt5Uox"
-        }
-      ],
-      "duration_ms": 233020,
-      "name": "Can't stop thinking",
-      "url": "https://open.spotify.com/track/7tsBlxI6OYbplEeCHxQjXo"
     },
     {
       "added_at": "2024-12-21 00:28:10",
@@ -437,6 +401,22 @@
       "url": "https://open.spotify.com/track/0x9HV8jQKUDLaDdfbo4kZI"
     },
     {
+      "added_at": "2025-01-14 23:25:10",
+      "album": {
+        "name": "All You Really Need is Already Here (Radio Edit)",
+        "url": "https://open.spotify.com/album/3bcSpOTLTWwUKXtHOc5y6t"
+      },
+      "artists": [
+        {
+          "name": "The Held",
+          "url": "https://open.spotify.com/artist/0Fo5CfXuaXbGWo3GqoQ60i"
+        }
+      ],
+      "duration_ms": 256540,
+      "name": "All You Really Need is Already Here - Radio Edit",
+      "url": "https://open.spotify.com/track/3JeKi2TsCEy0Gi26cRCWbV"
+    },
+    {
       "added_at": "2024-12-21 00:28:10",
       "album": {
         "name": "No Name",
@@ -537,6 +517,22 @@
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
+      "added_at": "2025-01-14 23:28:49",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5zXlGdiMzY4VtlRsfb1I0X"
+      },
+      "artists": [
+        {
+          "name": "Leo Anderson",
+          "url": "https://open.spotify.com/artist/67yuIEeLJTS6LziVqM4xGv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6Zdm28ZO91Pvs5Nscdg3Ut"
+    },
+    {
       "added_at": "2024-08-12 20:20:33",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -599,6 +595,22 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "added_at": "2025-01-14 23:26:21",
+      "album": {
+        "name": "MOON ALT",
+        "url": "https://open.spotify.com/album/2R9hIgLyeDEDvoszQyL7fF"
+      },
+      "artists": [
+        {
+          "name": "Chris Moon",
+          "url": "https://open.spotify.com/artist/1tmw62GAgKdABKvQSwQYfF"
+        }
+      ],
+      "duration_ms": 142705,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/4Xa3grF0NkoR3EX93m8UNM"
     },
     {
       "added_at": "2024-08-12 20:22:20",
@@ -725,6 +737,22 @@
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
     },
     {
+      "added_at": "2025-01-14 23:23:30",
+      "album": {
+        "name": "Skeptical",
+        "url": "https://open.spotify.com/album/5hHkijxg9HICw15ciAAsEv"
+      },
+      "artists": [
+        {
+          "name": "The Active Set",
+          "url": "https://open.spotify.com/artist/0WucsHpocbdOmgk4LuRCXO"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Skeptical",
+      "url": "https://open.spotify.com/track/2bTxWZMcOAbpfQRD0anbrc"
+    },
+    {
       "added_at": "2024-08-12 20:27:59",
       "album": {
         "name": "Greatest Hits: From The Beginning",
@@ -823,6 +851,22 @@
       "duration_ms": 340360,
       "name": "Unsuffer Me",
       "url": "https://open.spotify.com/track/3tJvIep0xivOdA6xCjGVQS"
+    },
+    {
+      "added_at": "2025-01-14 23:38:56",
+      "album": {
+        "name": "Trying to Keep My Toes",
+        "url": "https://open.spotify.com/album/1VSAtAAtDpIcYEWSuLBi7t"
+      },
+      "artists": [
+        {
+          "name": "Naomi Yanos",
+          "url": "https://open.spotify.com/artist/6eCReEuVa650ZuotJvKksc"
+        }
+      ],
+      "duration_ms": 258874,
+      "name": "Hurt Aagain",
+      "url": "https://open.spotify.com/track/5q2OmTIERXXvksnwxTWxbc"
     },
     {
       "added_at": "2024-08-12 20:30:11",
@@ -2049,6 +2093,22 @@
       "url": "https://open.spotify.com/track/7jxRXONOkeVaXoZXdlOx91"
     },
     {
+      "added_at": "2025-01-14 13:22:30",
+      "album": {
+        "name": "waiting on time",
+        "url": "https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL"
+      },
+      "artists": [
+        {
+          "name": "better joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "waiting on time",
+      "url": "https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M"
+    },
+    {
       "added_at": "2025-01-03 15:33:10",
       "album": {
         "name": "Drowning",
@@ -2133,6 +2193,58 @@
       "url": "https://open.spotify.com/track/1t5LMEizmipvfcaj09CoyN"
     },
     {
+      "added_at": "2025-01-13 23:02:07",
+      "album": {
+        "name": "Peace Train",
+        "url": "https://open.spotify.com/album/4OdpdxTz1Fe4zd3MxzaQMz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Cardinale",
+          "url": "https://open.spotify.com/artist/1w9xONedSs7QY93KlJXK6b"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Peace Train",
+      "url": "https://open.spotify.com/track/6tz5J5JoQjdR79Yl8MM1k5"
+    },
+    {
+      "added_at": "2025-01-13 23:01:37",
+      "album": {
+        "name": "Can't stop thinking",
+        "url": "https://open.spotify.com/album/3ufuBf5AH4NEaJSXOD4ojY"
+      },
+      "artists": [
+        {
+          "name": "Blaqk Van",
+          "url": "https://open.spotify.com/artist/5SaLSMriVjdtAWMiG0zRbM"
+        },
+        {
+          "name": "Billy the Kid",
+          "url": "https://open.spotify.com/artist/53thNGMpf565Q60Vvt5Uox"
+        }
+      ],
+      "duration_ms": 233020,
+      "name": "Can't stop thinking",
+      "url": "https://open.spotify.com/track/7tsBlxI6OYbplEeCHxQjXo"
+    },
+    {
+      "added_at": "2025-01-13 06:01:41",
+      "album": {
+        "name": "Done Believing",
+        "url": "https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb"
+      },
+      "artists": [
+        {
+          "name": "Snapdibz",
+          "url": "https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK"
+        }
+      ],
+      "duration_ms": 204982,
+      "name": "Done Believing",
+      "url": "https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN"
+    },
+    {
       "added_at": "2025-01-10 14:36:44",
       "album": {
         "name": "Touch",
@@ -2147,22 +2259,6 @@
       "duration_ms": 259746,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1KRrPwF725EsTOnz942sSy"
-    },
-    {
-      "added_at": "2024-12-21 14:15:09",
-      "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/22dDEqMJm9CjVcGe2858Ik"
-      },
-      "artists": [
-        {
-          "name": "Tala Silva",
-          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
-        }
-      ],
-      "duration_ms": 204571,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/65rjwLmHhM2MvSFxKw4WI7"
     },
     {
       "added_at": "2025-01-04 14:25:39",
@@ -2211,58 +2307,6 @@
       "duration_ms": 150374,
       "name": "MAIN CHARACTER ENERGY",
       "url": "https://open.spotify.com/track/2BRkBHmffDa79diDbvUGIQ"
-    },
-    {
-      "added_at": "2025-01-03 06:01:56",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/6BLhEsPGI0mkKo1Upumcew"
-      },
-      "artists": [
-        {
-          "name": "T billion",
-          "url": "https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi"
-        }
-      ],
-      "duration_ms": 169898,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP"
-    },
-    {
-      "added_at": "2025-01-03 12:01:47",
-      "album": {
-        "name": "Roots Reggae Vibration",
-        "url": "https://open.spotify.com/album/34JgbeIw8ebZLZ7rnR17Js"
-      },
-      "artists": [
-        {
-          "name": "Tropical Dubwise",
-          "url": "https://open.spotify.com/artist/4xzXm4Rw2m1IrkECwD1IOp"
-        },
-        {
-          "name": "Robbie Lyn",
-          "url": "https://open.spotify.com/artist/4qsWdxjfbquNlTZF1kF0nt"
-        },
-        {
-          "name": "Sly Dunbar",
-          "url": "https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8"
-        },
-        {
-          "name": "Earl \"Chinna\" Smith",
-          "url": "https://open.spotify.com/artist/7qe5mAZ8x1nggNd4JiyMCj"
-        },
-        {
-          "name": "Lloyd Parks",
-          "url": "https://open.spotify.com/artist/5zMTlxel5De0bMLNXRjZH8"
-        },
-        {
-          "name": "The Disciples",
-          "url": "https://open.spotify.com/artist/7L2y8SR4LabyPFmPQf3HPr"
-        }
-      ],
-      "duration_ms": 276671,
-      "name": "Roots Reggae Vibration",
-      "url": "https://open.spotify.com/track/32QfLFqJjeqA4xl0r5MVLz"
     },
     {
       "added_at": "2025-01-12 23:05:46",
@@ -2327,22 +2371,6 @@
       "duration_ms": 187789,
       "name": "Shame",
       "url": "https://open.spotify.com/track/3pmRXRKEpgdKYuS5YSkVPV"
-    },
-    {
-      "added_at": "2025-01-03 06:01:41",
-      "album": {
-        "name": "Safe in Sound",
-        "url": "https://open.spotify.com/album/0bRaQBUCxI5nq0OTOfQJqc"
-      },
-      "artists": [
-        {
-          "name": "Josh Holtzclaw",
-          "url": "https://open.spotify.com/artist/51kchU3EMNfo0dfbqQddPZ"
-        }
-      ],
-      "duration_ms": 187420,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2qeqd6zsYPgJY7HUcQiWmH"
     },
     {
       "added_at": "2025-01-05 12:00:29",
@@ -2641,22 +2669,6 @@
       "url": "https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4"
     },
     {
-      "added_at": "2025-01-03 23:14:24",
-      "album": {
-        "name": "Glisten",
-        "url": "https://open.spotify.com/album/6pIDTXeY8gilcDtQeTwOn7"
-      },
-      "artists": [
-        {
-          "name": "Azora\u00ea",
-          "url": "https://open.spotify.com/artist/6zHcQu3DMruPjgDUvcO1mK"
-        }
-      ],
-      "duration_ms": 136870,
-      "name": "Glisten",
-      "url": "https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD"
-    },
-    {
       "added_at": "2025-01-04 06:00:55",
       "album": {
         "name": "Go Ahead",
@@ -2671,86 +2683,6 @@
       "duration_ms": 224608,
       "name": "Talkin'",
       "url": "https://open.spotify.com/track/0isrmlSCQXjqODHAmWxZhm"
-    },
-    {
-      "added_at": "2025-01-03 23:12:23",
-      "album": {
-        "name": "She A City Girl",
-        "url": "https://open.spotify.com/album/0jWI7I4VNB6hbdTAdbrzky"
-      },
-      "artists": [
-        {
-          "name": "aboutlastnight",
-          "url": "https://open.spotify.com/artist/6rU78y3Kzm9puAIUznTd5e"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "She A City Girl",
-      "url": "https://open.spotify.com/track/1lWhSpYcuXsmBwg4Z0MgDb"
-    },
-    {
-      "added_at": "2025-01-03 23:14:45",
-      "album": {
-        "name": "Demonstrous, Vol. 2 (Acoustified)",
-        "url": "https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc"
-      },
-      "artists": [
-        {
-          "name": "JV Altharas",
-          "url": "https://open.spotify.com/artist/6eBEjfPn9jZAIjhOlh2E7F"
-        }
-      ],
-      "duration_ms": 260340,
-      "name": "Can't Stop Wanting You (Acoustified)",
-      "url": "https://open.spotify.com/track/3WjWCA4BQvj1phCByGKZCe"
-    },
-    {
-      "added_at": "2025-01-03 23:12:39",
-      "album": {
-        "name": "I Wish I Forgot",
-        "url": "https://open.spotify.com/album/4QlnFr07fUdAsGvM2DKbwX"
-      },
-      "artists": [
-        {
-          "name": "Justin Versluis",
-          "url": "https://open.spotify.com/artist/7JOTs5hljkkE7rSdm0mPSU"
-        }
-      ],
-      "duration_ms": 113068,
-      "name": "I Wish I Forgot",
-      "url": "https://open.spotify.com/track/1RpzHNoqYPvnpuGOYYPPgy"
-    },
-    {
-      "added_at": "2025-01-03 23:15:49",
-      "album": {
-        "name": "Not Leaving",
-        "url": "https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS"
-      },
-      "artists": [
-        {
-          "name": "Eli ALXNDR",
-          "url": "https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU"
-        }
-      ],
-      "duration_ms": 173856,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
-    },
-    {
-      "added_at": "2025-01-03 23:14:36",
-      "album": {
-        "name": "Sheesh (Radio Edit)",
-        "url": "https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT"
-      },
-      "artists": [
-        {
-          "name": "Adam Ford",
-          "url": "https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Sheesh - Radio Edit",
-      "url": "https://open.spotify.com/track/3UayrrhZabQopysb16raI8"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

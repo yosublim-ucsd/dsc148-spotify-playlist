@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-176 songs - 9 hr 2 min
+177 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 | 2024-08-28 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 | 2023-11-22 |
 | [Diwaane](https://open.spotify.com/track/63rDH882LRDY1HEGNDkW42) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Diwaane](https://open.spotify.com/album/2vvJYR6gsRnHTJMSF5oHT1) | 3:25 | 2024-11-25 |  |
-| [Doonghe Nain](https://open.spotify.com/track/7ugbFVZe9heX2YO7rV7DKz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Doonghe Nain](https://open.spotify.com/album/7l6KRIi6nYbdgcB3kRq5lO) | 3:08 | 2024-12-11 |  |
+| [Doonghe Nain](https://open.spotify.com/track/7ugbFVZe9heX2YO7rV7DKz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Doonghe Nain](https://open.spotify.com/album/7l6KRIi6nYbdgcB3kRq5lO) | 3:08 | 2024-12-11 | 2025-01-15 |
 | [Door Door](https://open.spotify.com/track/1exPCMH8g9oZLMRH6neVG1) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 3:32 | 2023-10-12 | 2024-09-12 |
 | [Doubts](https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:29 | 2024-09-11 | 2025-01-07 |
 | [Duhai](https://open.spotify.com/track/6ETXqHQspCg58MedFnCnSi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Kala Nizampuri](https://open.spotify.com/artist/3xIfVA4SJfOhSAE615HStb) | [Duhai](https://open.spotify.com/album/2kFyyT7zmjKzX9YlSzM7nn) | 3:25 | 2024-10-01 | 2024-11-16 |
@@ -148,6 +148,7 @@
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
+| [Sheesha](https://open.spotify.com/track/72KGgCY0BIPupLNvnYDNIR) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Geet](https://open.spotify.com/artist/611iMDwmj2x1wHVq0896Zi) | [Sheesha](https://open.spotify.com/album/0R6gtv0SzfiNv8pumliPmr) | 2:46 | 2025-01-14 |  |
 | [Sheesha](https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Sheesha](https://open.spotify.com/album/1cUkKKUDmycMkQhA88gyLG) | 3:15 | 2024-09-06 | 2024-10-09 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 | 2024-12-03 |
 | [So Toxic](https://open.spotify.com/track/3Hdy2hhpz7oRPJ6keQbslz) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [So Toxic](https://open.spotify.com/album/04e1U06TRC5ZecmA4hwbUL) | 3:32 | 2024-11-22 |  |

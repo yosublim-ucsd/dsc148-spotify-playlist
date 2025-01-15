@@ -12604,7 +12604,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 152679,
       "name": "Dans ma bulle",
       "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
@@ -38274,6 +38274,28 @@
       "duration_ms": 139416,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
+    },
+    {
+      "album": {
+        "name": "SURVIVAL MODE",
+        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
     },
     {
       "album": {

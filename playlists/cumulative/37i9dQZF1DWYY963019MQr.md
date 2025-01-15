@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-102 songs - 5 hr 36 min
+103 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Day and Age](https://open.spotify.com/track/6dYMhDVzfJYxlP3Hoa7ipt) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:41 | 2022-10-13 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/0A7ZVOJgVkNzMyGGzuB2Sb) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 3:25 | 2022-10-13 |  |
 | [Don't Know Why](https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 3:07 | 2022-10-13 |  |
+| [Down by the riverside](https://open.spotify.com/track/52jLngTSe3hZaI7Trl4DXX) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Down by the riverside](https://open.spotify.com/album/2gyTnIkpU9KKalqSP9PLz8) | 2:28 | 2025-01-14 |  |
 | [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 | 2023-02-23 |  |
 | [Etude](https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 2:27 | 2022-10-13 |  |
 | [Eye of the Beholder](https://open.spotify.com/track/1YzAdjRV5vZFLkCqPS86I5) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Eye of the Beholder](https://open.spotify.com/album/6UexEudGbmVE1YjxSXwjhH) | 2:16 | 2024-09-09 |  |

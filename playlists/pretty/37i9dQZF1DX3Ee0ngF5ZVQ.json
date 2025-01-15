@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410735,
+  "num_followers": 410753,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+        "name": "Haggard Blues",
+        "url": "https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+      "duration_ms": 187758,
+      "name": "Haggard Blues",
+      "url": "https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -911,6 +911,22 @@
       "duration_ms": 200766,
       "name": "Never Not Love You",
       "url": "https://open.spotify.com/track/1WteuqfEN6UvvD4xhUcjPN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Mobile",
+        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 256588,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -1031,18 +1031,34 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Haggard Blues",
-        "url": "https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 187758,
-      "name": "Haggard Blues",
-      "url": "https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
-    },
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
         "name": "Hell of a Life",
         "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 195401,
       "name": "Hell of a Life",
       "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Denver to Dallas",
-        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
-      },
-      "artists": [
-        {
-          "name": "Wynn Williams",
-          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
-        }
-      ],
-      "duration_ms": 208618,
-      "name": "Denver to Dallas",
-      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
-    },
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
         "name": "Coulda Been Love",
         "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Mobile",
-        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
+        "name": "Denver to Dallas",
+        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
       },
       "artists": [
         {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+          "name": "Wynn Williams",
+          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
         }
       ],
-      "duration_ms": 256588,
-      "name": "Mobile",
-      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
+      "duration_ms": 208618,
+      "name": "Denver to Dallas",
+      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Rodeo Clown",
-        "url": "https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 225161,
-      "name": "Rodeo Clown",
-      "url": "https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7"
-    },
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
+        "name": "Rodeo Clown",
+        "url": "https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 225161,
+      "name": "Rodeo Clown",
+      "url": "https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
         "name": "Country Round Here Tonight (feat. Justin Moore)",
         "url": "https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-01-10 05:00:18",
       "album": {
-        "name": "Angels & Heathens",
-        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 198089,
-      "name": "Angels & Heathens",
-      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
-    },
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
         "name": "Green in Colorado",
         "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 196833,
       "name": "Green in Colorado",
       "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
+        "name": "Angels & Heathens",
+        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 198089,
+      "name": "Angels & Heathens",
+      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
     },
     {
       "added_at": "2025-01-10 05:00:18",

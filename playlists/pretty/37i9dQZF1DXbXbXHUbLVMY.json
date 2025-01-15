@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28385,
+  "num_followers": 28382,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2025-01-09 23:00:08",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+    },
+    {
+      "added_at": "2025-01-09 23:00:08",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2025-01-09 23:00:08",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2025-01-09 23:00:08",
+      "album": {
         "name": "Souljaboii Remixxx",
         "url": "https://open.spotify.com/album/6zobC136l4USs0YOARFGzX"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 190062,
       "name": "Souljaboii Remixxx",
       "url": "https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp"
-    },
-    {
-      "added_at": "2025-01-09 23:00:08",
-      "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
     },
     {
       "added_at": "2025-01-09 23:00:08",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "I Care",
-        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 139764,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
-    },
-    {
-      "added_at": "2025-01-09 23:00:08",
-      "album": {
         "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
         "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 140775,
       "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
+    },
+    {
+      "added_at": "2025-01-09 23:00:08",
+      "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
     },
     {
       "added_at": "2025-01-09 23:00:08",
@@ -1147,6 +1147,34 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
+        "name": "Bad B**** (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
+      },
+      "artists": [
+        {
+          "name": "Benocchio",
+          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
+        },
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 164354,
+      "name": "Bad B**** (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
+    },
+    {
+      "added_at": "2025-01-09 23:00:08",
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1191,34 +1219,6 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "Bad B**** (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
-      },
-      "artists": [
-        {
-          "name": "Benocchio",
-          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
-        },
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Bad B**** (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
-    },
-    {
-      "added_at": "2025-01-09 23:00:08",
-      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2025-01-09 23:00:08",
-      "album": {
         "name": "Ambassador",
         "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+    },
+    {
+      "added_at": "2025-01-09 23:00:08",
+      "album": {
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2025-01-09 23:00:08",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "Varig m\u00e9n",
-        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+        "name": "Real Life (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
       },
       "artists": [
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 151121,
-      "name": "Varig m\u00e9n",
-      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
+      "duration_ms": 151897,
+      "name": "Real Life (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
     },
     {
       "added_at": "2025-01-09 23:00:08",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2025-01-09 23:00:08",
       "album": {
-        "name": "Real Life (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 151897,
-      "name": "Real Life (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
     }
   ],
   "unique_name": "100 (2)",

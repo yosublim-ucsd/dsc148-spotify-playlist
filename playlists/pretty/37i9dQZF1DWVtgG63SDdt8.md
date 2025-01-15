@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,935 likes - 99 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,079 likes - 99 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 45 | [WHY???](https://open.spotify.com/track/01KrMqJGTf1e2ey7OwWnsS) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [WHY???](https://open.spotify.com/album/6MOywNg7CONipjpAza8ePY) | 3:33 |
 | 46 | [CIEN DOCENAS](https://open.spotify.com/track/1mL3MVPYMXMXx8vB93ytTP) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [CIEN DOCENAS](https://open.spotify.com/album/214kpXDzUalwu5xyogaDYr) | 1:38 |
 | 47 | [Annie](https://open.spotify.com/track/6lVoT7EJBZb1RAKHA0VhEs) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Annie](https://open.spotify.com/album/4kYtqCKaCEMTvv5osIJ997) | 2:32 |
-| 48 | [POP OFF](https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm) | [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Petrina Delacy](https://open.spotify.com/artist/31OwRnV5G6RFpuGKc4z35T) | [POP OFF](https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs) | 3:29 |
+| 48 | [POP OFF](https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm) | [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [POP OFF](https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs) | 3:29 |
 | 49 | [Limitless III](https://open.spotify.com/track/0oHvjrh9VjeC7tbGQzeLTu) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3), [VI Seconds](https://open.spotify.com/artist/0WGAC29pTpw0xMliJ32OkB) | [Limitless III](https://open.spotify.com/album/5vYmQGkwpwAgTjK0Xkx57i) | 3:38 |
 | 50 | [40](https://open.spotify.com/track/7Jqx0q9f7hV1fezwrX7m69) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [40](https://open.spotify.com/album/0vLTX2Zriv4IoEsrMEXV3o) | 3:01 |
 | 51 | [LIGHT UP](https://open.spotify.com/track/1wpeMHRtPzlGUzUWfxf7rB) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp) | [LIGHT UP](https://open.spotify.com/album/3n50pOOzKTpEfSdT5jL6ex) | 2:43 |

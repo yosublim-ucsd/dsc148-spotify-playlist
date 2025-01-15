@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABsqcoI+BBnno35nq2xsoqr",
+  "snapshot_id": "Z4RXgAAAAAD5o5qeTCyGvo08Ezt2J5xX",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103866,
-      "name": "Science Project",
-      "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"
+      "duration_ms": 132906,
+      "name": "Moon Phases",
+      "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 132906,
-      "name": "Moon Phases",
-      "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
+      "duration_ms": 103866,
+      "name": "Science Project",
+      "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "A Sparrowhawk's Tale",
-      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolphin Reef (Original Soundtrack)",
         "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
@@ -659,22 +643,6 @@
       "duration_ms": 141400,
       "name": "A Different Set of Rules",
       "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -695,6 +663,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "A Sparrowhawk's Tale",
+      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 99546,
       "name": "Nighttime Conversation",
       "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 84733,
+      "name": "First Of Many",
+      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
     },
     {
       "added_at": null,
@@ -736,25 +752,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66280,
-      "name": "Beauty Turns Men to Beasts",
-      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 69800,
-      "name": "They Are Always Beautiful",
-      "url": "https://open.spotify.com/track/7kv1RwOpJP8BbGPUnrHylC"
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
       "duration_ms": 202373,
       "name": "It's Good to Meet New People",
       "url": "https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 69800,
+      "name": "They Are Always Beautiful",
+      "url": "https://open.spotify.com/track/7kv1RwOpJP8BbGPUnrHylC"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 240146,
       "name": "The Age of Giants",
       "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 84733,
-      "name": "First Of Many",
-      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
     }
   ],
   "unique_name": "This Is Steven Price",

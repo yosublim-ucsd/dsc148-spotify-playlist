@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: JADE
 
-1,160 songs - 2 day 10 hr 10 min
+1,161 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-08-20 |
 | [Dance Forever](https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Dance Forever](https://open.spotify.com/album/20MjX7BdygnjgtQSSUKdqG) | 3:32 | 2022-04-15 | 2022-04-29 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 | 2023-10-14 |
-| [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 | 2024-07-12 |  |
+| [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 | 2024-07-12 | 2025-01-15 |
 | [Dance Til Forever](https://open.spotify.com/track/3p3pCKIXnOxqrqpYJejris) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Dance Til Forever](https://open.spotify.com/album/4eOwFeAxACC7NNB23EuIWI) | 2:32 | 2024-03-08 | 2024-06-08 |
 | [Dance With Me \- Edit](https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Dance With Me \(Edit\)](https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u) | 3:06 | 2022-04-22 | 2022-07-23 |
 | [Dancing and Crying](https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying](https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd) | 3:17 | 2024-02-23 | 2024-03-30 |
@@ -523,6 +523,7 @@
 | [I Wrote A Song](https://open.spotify.com/track/7J6ZI2YKLJ8DUY2XFREHvL) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 2:45 | 2023-06-09 | 2023-08-19 |
 | [I Wrote A Song \(feat\. Vendredi sur Mer\)](https://open.spotify.com/track/3Us6ao4g3k4Kt4vvGJGCrR) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 2:45 | 2023-06-02 | 2023-06-11 |
 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 | 2022-04-15 | 2022-08-20 |
+| [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2025-01-14 |  |
 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 | 2024-06-21 | 2024-08-17 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-26 | 2023-05-13 |
 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3) | 3:18 | 2024-09-13 | 2024-09-21 |

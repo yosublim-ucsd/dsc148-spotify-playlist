@@ -1,13 +1,61 @@
 {
-  "description": "Discover the future of Punjabi Pop! Cover: Arjun Bajwa",
-  "num_followers": 3600,
+  "description": "Discover the future of Punjabi Pop! Cover: Opinder Dhillon",
+  "num_followers": 3615,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z34TkgAAAAAd5RWtdOvzXOGDYw0hvRWz",
+  "snapshot_id": "Z4cPswAAAACGgvH5soGiJSiy4QVXas+y",
   "tracks": [
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "Winning Folk's",
+        "url": "https://open.spotify.com/album/26dWlC6ggVJSAVwE24afvP"
+      },
+      "artists": [
+        {
+          "name": "Opinder Dhillon",
+          "url": "https://open.spotify.com/artist/4EzDYRmwrNVuHLYdCw7eFW"
+        }
+      ],
+      "duration_ms": 147242,
+      "name": "Winning Folk's",
+      "url": "https://open.spotify.com/track/3iipYe0AbbjWYpa8Y05cO1"
+    },
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "Jatt Bari Hogaya",
+        "url": "https://open.spotify.com/album/1vf6jEhNvpYo31Efv0C2L5"
+      },
+      "artists": [
+        {
+          "name": "Gurmukh Jatt",
+          "url": "https://open.spotify.com/artist/4SZ6Mp2cX4mGxKvh3oZoxc"
+        },
+        {
+          "name": "Suman Bhatti",
+          "url": "https://open.spotify.com/artist/3eJEh3ib7pvJHvGIyMHhl2"
+        },
+        {
+          "name": "RP Swag DK",
+          "url": "https://open.spotify.com/artist/0eKcyxOljAa6i1C7EMsCP9"
+        },
+        {
+          "name": "Amrinder Kahlon",
+          "url": "https://open.spotify.com/artist/7ezej74K9lAUv6Od6BLW79"
+        },
+        {
+          "name": "Jatt Katto Wal",
+          "url": "https://open.spotify.com/artist/2ibhnJSE2EEay3lAerHpiw"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Jatt Bari Hogaya",
+      "url": "https://open.spotify.com/track/5FmqYmiGfbl3ZkeLpH9zES"
+    },
     {
       "added_at": "2025-01-08 05:56:34",
       "album": {
@@ -31,6 +79,62 @@
       "duration_ms": 179058,
       "name": "Parda",
       "url": "https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV"
+    },
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/1ivL8sK2C2rwk7PHSbDl7i"
+      },
+      "artists": [
+        {
+          "name": "Shubh Goraya",
+          "url": "https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ"
+        }
+      ],
+      "duration_ms": 124210,
+      "name": "Kehri Gal Da Raula",
+      "url": "https://open.spotify.com/track/2BLr0GM8PXfxU8uZOinwnL"
+    },
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "In Belive",
+        "url": "https://open.spotify.com/album/1p0wJ2PGizecfbQzb40IIm"
+      },
+      "artists": [
+        {
+          "name": "Kaiffi Khan",
+          "url": "https://open.spotify.com/artist/6GuZhq044hHi2b8LGckxIp"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "In Belive",
+      "url": "https://open.spotify.com/track/4HT0Q53tRehhcBEKeA8Kaa"
+    },
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "Intezaar",
+        "url": "https://open.spotify.com/album/2FD2RTq4q6g2bawUWs08qR"
+      },
+      "artists": [
+        {
+          "name": "Baaz Sekhon",
+          "url": "https://open.spotify.com/artist/0iamOS7uPEx0nttclXuqzd"
+        },
+        {
+          "name": "SKXTRAP",
+          "url": "https://open.spotify.com/artist/5YD0hcVuXyOhlL5cuv95hP"
+        },
+        {
+          "name": "Ishan Johar",
+          "url": "https://open.spotify.com/artist/21Nkz5eY80eZkv2DX8qnv5"
+        }
+      ],
+      "duration_ms": 191996,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/00lBiOlh76eH95mjG0Tp2k"
     },
     {
       "added_at": "2025-01-08 05:56:34",
@@ -77,24 +181,40 @@
       "url": "https://open.spotify.com/track/6su3PzBYLu6375XwUf9xry"
     },
     {
-      "added_at": "2025-01-08 05:56:34",
+      "added_at": "2025-01-15 01:30:27",
       "album": {
-        "name": "Patt Honeya",
-        "url": "https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY"
+        "name": "Gal Kar",
+        "url": "https://open.spotify.com/album/0gYg3xg79VMJiD8eyUXsrg"
       },
       "artists": [
         {
-          "name": "Sona Walia",
-          "url": "https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX"
-        },
-        {
-          "name": "Jaya Rohilla",
-          "url": "https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH"
+          "name": "Safar",
+          "url": "https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Patt Honeya",
-      "url": "https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv"
+      "duration_ms": 214597,
+      "name": "Gal Kar",
+      "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
+    },
+    {
+      "added_at": "2025-01-15 01:30:27",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1UjFH8I5wpZEBDeBD2716S"
+      },
+      "artists": [
+        {
+          "name": "Mananveer Singh",
+          "url": "https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG"
+        },
+        {
+          "name": "Gurman Singh",
+          "url": "https://open.spotify.com/artist/2dL7hO5aHsjv2TOD0HLKww"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5zQFa7QEb0jrqvoLyvY0vj"
     },
     {
       "added_at": "2025-01-08 05:56:34",
@@ -811,26 +931,6 @@
     {
       "added_at": "2025-01-08 05:56:34",
       "album": {
-        "name": "G 63",
-        "url": "https://open.spotify.com/album/7MvOnpoBtLSHLMVbzg6DXe"
-      },
-      "artists": [
-        {
-          "name": "Opinder",
-          "url": "https://open.spotify.com/artist/6Lv0Ri7LyxuroFX2eipgH6"
-        },
-        {
-          "name": "Binner",
-          "url": "https://open.spotify.com/artist/0ch1aUFYRO1IaPbIhfNKIS"
-        }
-      ],
-      "duration_ms": 166546,
-      "name": "G 63",
-      "url": "https://open.spotify.com/track/0TRCcR150yHzGbWNBymr1g"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
         "name": "Dear Brother",
         "url": "https://open.spotify.com/album/7i3nRNa0cDdKIg7ReZei1v"
       },
@@ -843,94 +943,6 @@
       "duration_ms": 152692,
       "name": "Dear Brother",
       "url": "https://open.spotify.com/track/16rCo9vtSAGFce8ZqVuBZt"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
-        "name": "Belle",
-        "url": "https://open.spotify.com/album/0syqXKnXhN44IM8P59Ir45"
-      },
-      "artists": [
-        {
-          "name": "D Hans",
-          "url": "https://open.spotify.com/artist/1RAOUJeDIypipfnlJ7LDU3"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "Belle",
-      "url": "https://open.spotify.com/track/0yvVlqvgnB3fuwdYjLMRp3"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
-        "name": "Blaze",
-        "url": "https://open.spotify.com/album/4kd679DK5PJHDeDLPEwjqZ"
-      },
-      "artists": [
-        {
-          "name": "Rihaan",
-          "url": "https://open.spotify.com/artist/6hHdhPGGmjdgoAUk4LQ0e4"
-        },
-        {
-          "name": "WakeUpParth",
-          "url": "https://open.spotify.com/artist/43n4ElrWXCATSSoACychZE"
-        },
-        {
-          "name": "Shayar Sadeek",
-          "url": "https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Secret Weapon",
-      "url": "https://open.spotify.com/track/5UrlMtT9vsBkHIEL8G8731"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
-        "name": "Double R",
-        "url": "https://open.spotify.com/album/7nSXfG2RBjH7rN7BjTk9vB"
-      },
-      "artists": [
-        {
-          "name": "Mny Deep",
-          "url": "https://open.spotify.com/artist/3UdKotGfHi8C7k8xsRi4a4"
-        }
-      ],
-      "duration_ms": 149929,
-      "name": "Double R",
-      "url": "https://open.spotify.com/track/0MF149ChYfSbmtXTUb45S2"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
-        "name": "Behind Me",
-        "url": "https://open.spotify.com/album/1prdHbdr4ESh9zVc8Epwb3"
-      },
-      "artists": [
-        {
-          "name": "Aftab",
-          "url": "https://open.spotify.com/artist/0DIdN3GjBs85uHaBzamAeL"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Behind Me",
-      "url": "https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB"
-    },
-    {
-      "added_at": "2025-01-08 05:56:34",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4EyoAKM7q2hcQrhnBdXyHn"
-      },
-      "artists": [
-        {
-          "name": "Fatehjit",
-          "url": "https://open.spotify.com/artist/4mWb5waebEeACv4F66MlXy"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/3LPWunwDs0gx6Ex79Ohgpu"
     },
     {
       "added_at": "2025-01-08 05:56:34",

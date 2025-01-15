@@ -1,13 +1,33 @@
 {
   "description": "Fresh takes\u2014from new revisions and iconic covers to unexpected versions and the songwriter's own covers. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
-  "num_followers": 132190,
+  "num_followers": 132200,
   "original_name": "Bob Dylan: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohjAQAAAAAxRjOo7sy/ZGoNUlS1og0P",
+  "snapshot_id": "Z4aV5AAAAAB3kPRi80I5HIxLkDAB9wX/",
   "tracks": [
+    {
+      "added_at": "2025-01-14 16:50:44",
+      "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        },
+        {
+          "name": "Monica Barbaro",
+          "url": "https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "It Ain't Me, Babe",
+      "url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
+    },
     {
       "added_at": "2023-09-22 19:03:26",
       "album": {
@@ -207,6 +227,22 @@
       "duration_ms": 325546,
       "name": "Every Grain Of Sand (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/1cTcORJA3vffSzDF3enY3M"
+    },
+    {
+      "added_at": "2025-01-14 16:50:44",
+      "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 124066,
+      "name": "I Was Young When I Left Home",
+      "url": "https://open.spotify.com/track/0S1H3LH0tusB9raE8s2B5B"
     },
     {
       "added_at": "2023-09-22 19:03:26",

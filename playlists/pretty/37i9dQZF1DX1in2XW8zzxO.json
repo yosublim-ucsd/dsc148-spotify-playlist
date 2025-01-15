@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 80232,
+  "num_followers": 80275,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1119,34 +1119,6 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
-        "url": "https://open.spotify.com/album/6nGmHmof2Zhm9WL36saQN9"
-      },
-      "artists": [
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Sfarzo Rtee",
-          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
-        },
-        {
-          "name": "Wonder Flawz",
-          "url": "https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702"
-        },
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        }
-      ],
-      "duration_ms": 382334,
-      "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
-      "url": "https://open.spotify.com/track/1yoomI2efiMQCmAHr2LjWx"
-    },
-    {
-      "added_at": "2024-10-24 23:12:14",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
       },
@@ -1171,6 +1143,34 @@
       "duration_ms": 351450,
       "name": "Groove",
       "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
+    },
+    {
+      "added_at": "2024-10-24 23:12:14",
+      "album": {
+        "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
+        "url": "https://open.spotify.com/album/6nGmHmof2Zhm9WL36saQN9"
+      },
+      "artists": [
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "Wonder Flawz",
+          "url": "https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        }
+      ],
+      "duration_ms": 382334,
+      "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
+      "url": "https://open.spotify.com/track/1yoomI2efiMQCmAHr2LjWx"
     },
     {
       "added_at": "2024-10-24 23:12:14",
@@ -1291,30 +1291,30 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Shuffle",
-        "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
+        "name": "Ngeke",
+        "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
       },
       "artists": [
         {
-          "name": "Shuffle Muzik",
-          "url": "https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x"
+          "name": "Calvin Shaw",
+          "url": "https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x"
         },
         {
-          "name": "Fire",
-          "url": "https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN"
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
         },
         {
-          "name": "Lynden X",
-          "url": "https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
         },
         {
-          "name": "Thabsoul",
-          "url": "https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT"
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         }
       ],
-      "duration_ms": 375530,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
+      "duration_ms": 234466,
+      "name": "Ngeke - Radio Edit",
+      "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Sufian Suhaimi, Sarah Suhairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,981 likes - 86 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,979 likes - 86 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 |
 | 2 | [Six Degrees](https://open.spotify.com/track/6tI4KMRvGThjCIJyxxMozt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/7w9LIYtTvYdySDGYwW2VPA) | 3:14 |
-| 3 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/4g0yJrjRI8Zmouy6ZVzXu8), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
+| 3 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
 | 4 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 |
 | 5 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 6 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 42 | [CHATBOT](https://open.spotify.com/track/0hCCVr3FUrNMUe3axgWz2i) | [Angstvels](https://open.spotify.com/artist/1ENuX4m3xfae82njSKCD1q), [Strawberry Girl](https://open.spotify.com/artist/4pp4E8HSvMsz9vkOUlcnXr) | [CHATBOT](https://open.spotify.com/album/1vxKCk7pWeyDYxnBjdRRxU) | 3:15 |
 | 43 | [unfair](https://open.spotify.com/track/2s9Bg5mMeI4wv9VgSkyrvF) | [Adam Imanullah](https://open.spotify.com/artist/5cKDx7hnwYXC4TtlaaFhgK) | [metaconscious](https://open.spotify.com/album/08Aje2deA6GYzeN7jlKHZq) | 2:57 |
 | 44 | [Hmm?](https://open.spotify.com/track/2hKrQnJyVgWZt9pMgYkhRb) | [EMI CHEOW](https://open.spotify.com/artist/2Aq7MZEBSyd9EPADwqHurs) | [Hmm?](https://open.spotify.com/album/3rbDbbQJ8KVnlLWv5BRWPg) | 2:37 |
-| 45 | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
+| 45 | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/track/3tu8LbvneoY4HhBdXof4fv) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [归零 \(新传媒电视剧《人生酱美味》插曲\)](https://open.spotify.com/album/6R6sQCzMLTkh5ojpEjjfTQ) | 4:37 |
 | 46 | [摘下面具](https://open.spotify.com/track/6VFqY7ZeZYmyuCGCfWii9V) | [Candida\|\|:X](https://open.spotify.com/artist/3dhw3t8QR0eTShRrB1FDaM) | [摘下面具](https://open.spotify.com/album/2ADKaRyirCMU0FAA30EPfX) | 2:53 |
 | 47 | [愛恨你](https://open.spotify.com/track/60aS6rcxGKVXAW9B91Lnti) | [Kai 陳奕凱](https://open.spotify.com/artist/2ZNICYKd2cdZDpTcwI74Ch) | [愛恨你](https://open.spotify.com/album/0Ip5Eup2wcfVwAGPntEcJK) | 5:12 |
 | 48 | [淋湿的翅膀](https://open.spotify.com/track/5jHrPvaXTqjRKK3xqdnzv2) | [Poh Yin](https://open.spotify.com/artist/5BSEmEvpX28swwgpFuRrPw) | [淋湿的翅膀](https://open.spotify.com/album/0UMZnqHMKxbpJz7nMSH020) | 4:30 |

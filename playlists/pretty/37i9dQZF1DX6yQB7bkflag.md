@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,594 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,619 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 22 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 |
 | 23 | [Memori Baik](https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT), [Aishameglio](https://open.spotify.com/artist/3ma4EaXmEoQuzr5UNygA9Q) | [Memori Baik](https://open.spotify.com/album/4pgRr87CxG6A3eVFv9I5fT) | 4:23 |
 | 24 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 |
-| 25 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/4g0yJrjRI8Zmouy6ZVzXu8), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
+| 25 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
 | 26 | [aku sorang](https://open.spotify.com/track/0E7etbeEEkEnvACqf7PzTy) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [aku sorang](https://open.spotify.com/album/3KKIZMVtlP5DjJwa6eTEK5) | 3:06 |
 | 27 | [Kamu Tak Sendiri](https://open.spotify.com/track/0SQnaRBCYYnGOCFu8zulgM) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kamu Tak Sendiri](https://open.spotify.com/album/191UHeJM1r2tNbi7N7rs99) | 3:35 |
 | 28 | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/track/3bphySkjkljOezDbBaFvSE) | [PIA](https://open.spotify.com/artist/3bsEuIabAFloXLKLudBEJp), [Farhan](https://open.spotify.com/artist/2Lwb1HOXNhspsjAiLyJ32q) | [Karena Aku Berharga \(feat\. Farhan\)](https://open.spotify.com/album/1Rrv27JdGd9t3BQZFVdhRE) | 4:58 |

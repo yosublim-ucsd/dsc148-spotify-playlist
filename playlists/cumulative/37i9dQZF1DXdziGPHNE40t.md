@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-657 songs - 1 day 15 hr 5 min
+658 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Lately](https://open.spotify.com/track/2Yv5PViJgDuusnrMNh8DA0) | [Thomas Bennett](https://open.spotify.com/artist/5GuqShztxJJiHn0YWjjtyh) | [Lately](https://open.spotify.com/album/0gUm4JyHLjyIaXTDLJkveo) | 2:51 | 2024-08-26 |  |
 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 | 2023-12-08 | 2024-07-16 |
 | [Lawncrest](https://open.spotify.com/track/7GtIlcedoCC27tfrQKiMjW) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Lawncrest](https://open.spotify.com/album/6L7ok32BZjfUYhpyVLY5OH) | 3:57 | 2024-02-09 | 2024-10-08 |
-| [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 |  |
+| [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 | 2025-01-15 |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 |  |
 | [Let it speak](https://open.spotify.com/track/3Cc66ZcXbbGumKkHKKtIt7) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Let it speak](https://open.spotify.com/album/74XjC5kOChZdYZckuMCMUC) | 2:20 | 2024-06-24 |  |
@@ -337,7 +337,7 @@
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 | 2023-12-14 |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 | 2023-02-24 |
 | [Margot In May](https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Margot In May](https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su) | 3:46 | 2024-04-23 | 2024-09-10 |
-| [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 |  |
+| [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 | 2025-01-15 |
 | [Maywood In My Heart](https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:44 | 2023-04-13 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 | 2024-08-20 |
 | [Me And You](https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Me And You](https://open.spotify.com/album/6IxkLoGdCNVD2pKLI7F6Uq) | 3:28 | 2023-04-13 | 2024-07-02 |
@@ -392,7 +392,8 @@
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-05-17 |  |
 | [Nights in Montauk](https://open.spotify.com/track/5jD5xLt3rtreHpDcTcib3n) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Nights in Montauk](https://open.spotify.com/album/5tS8xLDFN2Y0iBjqv5lKpJ) | 3:56 | 2024-06-24 |  |
 | [No Going Back](https://open.spotify.com/track/7MvtrMDN692nEhBBQiEPJx) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [No Going Back](https://open.spotify.com/album/5oeHg9rGj4rvC3wcgRNVww) | 3:05 | 2023-10-27 | 2024-08-07 |
-| [Nobody's Darling](https://open.spotify.com/track/0W4NNnvJgFcWYW3Tmp8pP5) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Nobody's Darling](https://open.spotify.com/album/5UdjszhOeIQb0j6HTtZZZy) | 3:11 | 2024-02-09 |  |
+| [Nobody's Darling](https://open.spotify.com/track/0W4NNnvJgFcWYW3Tmp8pP5) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Nobody's Darling](https://open.spotify.com/album/5UdjszhOeIQb0j6HTtZZZy) | 3:11 | 2024-02-09 | 2025-01-15 |
+| [Nod in Agreement](https://open.spotify.com/track/1Gt3b2N5sq9NWhyyZkEOer) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Nod in Agreement](https://open.spotify.com/album/67JFlBc2nMkaOgRE5HsYJc) | 3:23 | 2025-01-14 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-16 | 2024-08-20 |
 | [Not About That](https://open.spotify.com/track/71TNaQoForBRrgDavHCAzr) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Not About That](https://open.spotify.com/album/4qoTyKAwkt0pUYXH17ew25) | 3:19 | 2024-04-23 | 2024-08-20 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
@@ -493,7 +494,7 @@
 | [Something Is Off](https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Something Is Off](https://open.spotify.com/album/46tskQAFmLIuN7IQVyTmAC) | 3:55 | 2024-04-10 |  |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-16 | 2024-09-03 |
 | [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 | 2023-12-22 | 2025-01-08 |
-| [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-01-05 |  |
+| [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-01-05 | 2025-01-15 |
 | [Song For You](https://open.spotify.com/track/7M4FUbBC6zkefpbcukBmfI) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Song For You](https://open.spotify.com/album/5DoZVQQee73F8s5P0PzILC) | 3:20 | 2024-04-02 | 2024-08-13 |
 | [Sooner or Later](https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Sooner or Later](https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs) | 3:25 | 2023-10-06 |  |
 | [Sophisticated Is Cool](https://open.spotify.com/track/0iFv7r0ANkjeSumplKMJzw) | [Trio Sonoro](https://open.spotify.com/artist/5eywpGwjtNctkXge310fvs) | [Sophisticated Is Cool](https://open.spotify.com/album/4CfZZz7EVhqHw67JlWUGGS) | 3:37 | 2024-11-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 88232,
+  "num_followers": 88278,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAACMbAkwu1XV2KZlGf1MDomI",
+  "snapshot_id": "Z4RXgAAAAAAjdNy0+6HMrviq0m0ElzFA",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 204277,
-      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
+      "duration_ms": 176470,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
     },
     {
       "added_at": null,
@@ -523,18 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
       },
       "artists": [
         {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+      "duration_ms": 204277,
+      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
     },
     {
       "added_at": null,

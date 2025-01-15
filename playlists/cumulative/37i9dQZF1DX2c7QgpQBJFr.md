@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana ✨ cover: SARAFINE
 
-346 songs - 16 hr 29 min
+348 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,11 +72,12 @@
 | [Cologne](https://open.spotify.com/track/2bmVP9vehYs7Ft2EVGyKbd) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Cologne](https://open.spotify.com/album/23s9sXIWjec7ejQEOCCG50) | 2:07 | 2024-10-17 | 2024-12-06 |
 | [Come Stai?](https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Come Stai?](https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2) | 2:34 | 2024-09-12 | 2024-11-08 |
 | [Complici](https://open.spotify.com/track/2pfHwRtJJfqBhpPQDLH244) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/4RczpFb6idMcXELvvLEtnT) | 2:53 | 2024-06-27 | 2024-07-05 |
+| [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 | 2025-01-14 |  |
 | [Confine](https://open.spotify.com/track/5sTNaylsQ7im9ixODCJ3GD) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [Confine](https://open.spotify.com/album/6YFlmQhpwVbdYbwNJ03GU2) | 3:10 | 2024-09-12 | 2024-11-08 |
 | [CONTROL FREAK](https://open.spotify.com/track/3HeFjCgaylYfd6moLPlH7a) | [SARAFINE](https://open.spotify.com/artist/6uejEU9tKd16IvCqvf2n5E) | [CONTROL FREAK](https://open.spotify.com/album/2xtVbLziXe3L25Xf3cL0IY) | 2:23 | 2024-11-14 |  |
 | [Converse / Nike \(feat.Tancredi\)](https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Cupido Senza Ali](https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx) | 2:28 | 2024-07-04 | 2024-08-23 |
 | [Cose che non hai detto](https://open.spotify.com/track/5ts6bgafEMqJXlQacKsgaX) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [Cose che non hai detto](https://open.spotify.com/album/3MuCzplgnRJZ1mpvf36MpO) | 3:26 | 2025-01-09 |  |
-| [COSE DA NON FARE MAI:](https://open.spotify.com/track/6E84CSTbmwEJ0orkVbpcCV) | [ryel](https://open.spotify.com/artist/6pzPq4qQnjswqcVoX9JYyn) | [COSE DA NON FARE MAI:](https://open.spotify.com/album/0TuClq80NjxI2Ao9UuBs8b) | 2:28 | 2025-01-09 |  |
+| [COSE DA NON FARE MAI:](https://open.spotify.com/track/6E84CSTbmwEJ0orkVbpcCV) | [RYEL](https://open.spotify.com/artist/38Xj1qE3vKhHTLk6hvoo8w) | [COSE DA NON FARE MAI:](https://open.spotify.com/album/0TuClq80NjxI2Ao9UuBs8b) | 2:28 | 2025-01-09 |  |
 | [cose un po' scontate](https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [cose un po' scontate](https://open.spotify.com/album/4tdx6A1dKAEkwbmDfmYIed) | 2:47 | 2024-09-12 | 2024-11-13 |
 | [croci \(feat\. Sally Cruz\)](https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [tutti i colori del buio](https://open.spotify.com/album/278YwMUlBJkd2Pj1YmCsQY) | 3:04 | 2024-07-11 | 2024-11-08 |
 | [crush](https://open.spotify.com/track/0evHbtc2spfyNIODfG7Cxa) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:32 | 2024-06-27 | 2024-07-05 |
@@ -231,6 +232,7 @@
 | [NOTRE\-DAME](https://open.spotify.com/track/14TGHLk71qfAez0F1Gqc3T) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm), [Raffucs](https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo) | [ISTINTO ANIMALE](https://open.spotify.com/album/6OddaItV5WZhEPr4kXl1jr) | 3:00 | 2024-06-27 | 2024-08-02 |
 | [NULLA \(non ci ho capito\)](https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [NULLA \(non ci ho capito\)](https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj) | 3:30 | 2024-07-04 | 2024-08-30 |
 | [O.G.](https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu) | [O.G.](https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT) | 4:33 | 2024-07-18 | 2024-08-23 |
+| [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 | 2025-01-14 |  |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 |  |
 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 | 2024-09-12 | 2024-11-13 |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-10-03 | 2024-11-22 |
@@ -247,7 +249,7 @@
 | [PENSIERI](https://open.spotify.com/track/2IGMlmFBHag4HCaZXqUMtu) | [Maila](https://open.spotify.com/artist/0NNujaYdlC9nvCbZFUfvEx) | [PENSIERI](https://open.spotify.com/album/0zEypSZSSBgsNnGguO1AGR) | 2:29 | 2024-11-21 | 2025-01-10 |
 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 | 2024-09-12 | 2025-01-10 |
 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 | 2024-10-03 | 2024-11-22 |
-| [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |
+| [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 | 2025-01-15 |
 | [Perdonarci](https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Perdonarci](https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb) | 2:38 | 2024-09-26 | 2024-11-22 |
 | [PERDONIAMOCI LO STESSO](https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [PERDONIAMOCI LO STESSO](https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08) | 3:11 | 2024-08-01 | 2024-09-27 |
 | [piacere, Sofia](https://open.spotify.com/track/05VUuvOiUaG3aNHW9eqnRd) | [acquachiara](https://open.spotify.com/artist/6U9FOduQDzwl0Uh9CQSiOi) | [piacere, Sofia](https://open.spotify.com/album/3980PgofuSQdmas85Wyq8B) | 3:00 | 2024-11-21 |  |
@@ -318,7 +320,7 @@
 | [Spazio](https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk) | [Lova](https://open.spotify.com/album/4GEvFSRH5JBbLFS3yydXaP) | 3:12 | 2024-10-17 | 2024-11-22 |
 | [Speciali +](https://open.spotify.com/track/0UwZWPgwJMvdstEZUTEaMl) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Speciali +](https://open.spotify.com/album/5qLvhBeNHl6FgWfSKk7eMn) | 2:58 | 2024-12-10 |  |
 | [SPUNTA BLU](https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [The Ceasars](https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [SPUNTA BLU](https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu) | 2:46 | 2024-06-27 | 2024-07-12 |
-| [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-12 |  |
+| [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 | 2024-11-12 | 2025-01-15 |
 | [Stanza 107](https://open.spotify.com/track/3p3y4h9Sth0Bh27u9g97lm) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Stanza 107](https://open.spotify.com/album/22kyL2qwMpmzhFeg7TPChd) | 2:17 | 2024-07-11 | 2024-09-27 |
 | [staserasole](https://open.spotify.com/track/1O4e3OQFgDlLQ2jCtdBuYX) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [staserasole](https://open.spotify.com/album/1b8YP0zvpXXX9MnYLwDm4S) | 2:54 | 2024-10-17 | 2025-01-10 |
 | [Stato d’allerta](https://open.spotify.com/track/4r5nCkpjsR0PG1RXcpKxmL) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Stato d'allerta](https://open.spotify.com/album/1OWUggbU62MCFfL1AFikyu) | 2:13 | 2025-01-09 |  |

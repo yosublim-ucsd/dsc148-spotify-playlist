@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Half Of My Soul",
+        "url": "https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "Half Of My Soul",
+      "url": "https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs"
+    },
+    {
+      "album": {
         "name": "Hammock",
         "url": "https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr"
       },

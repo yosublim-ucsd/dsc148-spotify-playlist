@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,414 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,415 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 47 | [K\-FLIP](https://open.spotify.com/track/4uWSHrerTTNjDoDSYl2jyv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [K\-FLIP](https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N) | 2:18 |
 | 48 | [NORI \(Feat\. SINCE, Ash\-B, Polodared\) \- Remix](https://open.spotify.com/track/0fNcxzErmEUnQ1ROjG0FCg) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [NORI \(Remix\)](https://open.spotify.com/album/3c7kFKFgs8otYp0i3Y6t8j) | 4:09 |
 | 49 | [贏者全拿](https://open.spotify.com/track/0DL97cckd9yqnR6JXBIjvs) | [AMINATO](https://open.spotify.com/artist/5FzIy4CNwQu5Gpgfb7zNXX), [2CHANGE](https://open.spotify.com/artist/5EJ5TTpIgJqzboMNbGb48G), [KNOWTIS](https://open.spotify.com/artist/2jKpRyJAY8BCqYkuTRYnZu) | [KNOWT!S](https://open.spotify.com/album/3XoRKgHnHcVx3HEdQTSBUA) | 3:19 |
-| 50 | [隠れ里～sanctuary～](https://open.spotify.com/track/68kekT7Ye39MBQ5MvWZo1E) | [Junior Hsus](https://open.spotify.com/artist/4fadsxO0924bSJqRc3loXp), [ISIDOR](https://open.spotify.com/artist/5tvUO48BSbb5AYq5Bm0eoA) | [sanctuary](https://open.spotify.com/album/0Qhz7qEH0KND5zyqQujVX2) | 3:45 |
+| 50 | [隠れ里～sanctuary～](https://open.spotify.com/track/68kekT7Ye39MBQ5MvWZo1E) | [Junior Hsus](https://open.spotify.com/artist/4fadsxO0924bSJqRc3loXp), [ISIDOR](https://open.spotify.com/artist/1araW5Hq6lDcesjArbZaL8) | [sanctuary](https://open.spotify.com/album/0Qhz7qEH0KND5zyqQujVX2) | 3:45 |
 | 51 | [Just Do It.](https://open.spotify.com/track/2JwkVJl3apzzLvvdGsqxNt) | [BEREAL](https://open.spotify.com/artist/4zS9VfkSxfca3uCLdhfzsQ), [shumax](https://open.spotify.com/artist/4nabeOgowMWq5dqqvy5e0n) | [Just Do It.](https://open.spotify.com/album/0zB9JLYgEgOVU5q4kS2C1i) | 2:10 |
 | 52 | [INERTIA\. \(feat\. FOREIGN RYUU & Giraffa\)](https://open.spotify.com/track/5XSMaAxJsCz6ZToBg2IbXR) | [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD), [FOREIGN RYUU](https://open.spotify.com/artist/5bGebQ79aYJxs45rhJZ8Sj), [Giraffa](https://open.spotify.com/artist/18Ha6CgduXMEMyOsXXncm7) | [mindbox1.5](https://open.spotify.com/album/4w7bfwcNJW0sD0jEQ0wkF7) | 3:55 |
 | 53 | [Brother](https://open.spotify.com/track/6HN6tWSV6ACvM1LLuIk8p9) | [Karavi Roushi](https://open.spotify.com/artist/7mOHM74LA2x4vPHPC29H02), [Aquadab](https://open.spotify.com/artist/5kOzGke7HozOIoEQLj6ZUn) | [Brother](https://open.spotify.com/album/47RsACpbNek9O9N6ZWoSsg) | 3:17 |

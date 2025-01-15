@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Down by the riverside",
+        "url": "https://open.spotify.com/album/2gyTnIkpU9KKalqSP9PLz8"
+      },
+      "artists": [
+        {
+          "name": "Manja Sj\u00f6gren",
+          "url": "https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Down by the riverside",
+      "url": "https://open.spotify.com/track/52jLngTSe3hZaI7Trl4DXX"
+    },
+    {
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G"
       },

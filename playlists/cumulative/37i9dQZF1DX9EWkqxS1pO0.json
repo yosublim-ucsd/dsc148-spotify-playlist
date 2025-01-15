@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ah Hayat",
+        "url": "https://open.spotify.com/album/6LGomfYzV4lciqUgOMTMKb"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Ah Hayat",
+      "url": "https://open.spotify.com/track/0UEPNzxRn0ky9MHzHuifWk"
+    },
+    {
+      "album": {
         "name": "Alaaddin",
         "url": "https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n"
       },
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 181619,
       "name": "Karag\u00f6zler",
       "url": "https://open.spotify.com/track/72ABqzsSx86xLNo1qi2QSs"

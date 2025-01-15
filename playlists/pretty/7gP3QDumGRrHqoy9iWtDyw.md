@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,503 likes - 231 songs - 14 hr 41 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,505 likes - 233 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,5 +239,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 229 | [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 |
 | 230 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 |
 | 231 | [Show Me A Love](https://open.spotify.com/track/6BJq2hkx8OjyuKkXSJpwsE) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V) | [Show Me A Love](https://open.spotify.com/album/6ttij5FtIxgHHKEyFV1mle) | 2:44 |
+| 232 | [Do You Believe](https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Do You Believe](https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln) | 2:27 |
+| 233 | [All In](https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [All In](https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot) | 2:57 |
 
-Snapshot ID: `AAAJVd7tndydRHMrriTpQ3PdVHXHntAO`
+Snapshot ID: `AAAJVxi7qlR9ITed+NTq7+lqnUy9JciG`

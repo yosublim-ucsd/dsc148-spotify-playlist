@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 363780,
+  "num_followers": 363796,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAC6Rsa1+nqLQLU5K6r/2hXf",
+  "snapshot_id": "Z4RXgAAAAABrbpxByLzUH6om6fTK3aqa",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Wordless - Bonus Track",
+      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canto Della Terra (feat. Lauren Daigle)",
         "url": "https://open.spotify.com/album/4PgBGxC2dSWSTn90lUpf0r"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 241933,
       "name": "Canto Della Terra (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/4OhUVpDdEsIHKL1t3KfkEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Wordless - Bonus Track",
-      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
     }
   ],
   "unique_name": "This Is Lauren Daigle",

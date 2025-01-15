@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 465811,
+  "num_followers": 465839,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "The Essential",
         "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 162360,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bloco do Silva (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215493,
       "name": "Beleza Rara - Ao Vivo",
       "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
       },
       "artists": [
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Faixa Amarela",
-      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     }
   ],
   "unique_name": "Festa Brasileira",

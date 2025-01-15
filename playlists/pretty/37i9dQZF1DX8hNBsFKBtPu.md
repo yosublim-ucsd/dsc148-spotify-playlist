@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 🖤 Caroline Dubois
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,749 likes - 154 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,745 likes - 154 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

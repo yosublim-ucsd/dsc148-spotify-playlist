@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWYnfT1sbdZv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWYnfT1sbdZv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWYnfT1sbdZv)
 
-### [THE IDOLM@STER CINDERELLA GIRLS　アイドルマスター シンデレラガールズ](https://open.spotify.com/playlist/37i9dQZF1DWWYnfT1sbdZv)
+### [THE IDOLM@STER CINDERELLA GIRLS](https://open.spotify.com/playlist/37i9dQZF1DWWYnfT1sbdZv)
 
-> Music from "THE IDOLM@STER CINDERELLA GIRLS"\. アイドルマスター シンデレラガールズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "THE IDOLM@STER CINDERELLA GIRLS"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 188 songs - 7 hr 41 min
 

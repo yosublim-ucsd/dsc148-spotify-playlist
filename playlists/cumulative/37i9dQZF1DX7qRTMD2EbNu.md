@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Sarkodie
+> Hottest bars coming live from the 233\.  Cover: Joey b
 
-658 songs - 1 day 9 hr 4 min
+659 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [ENERGY](https://open.spotify.com/track/58EgRKCh9xH2mNn9bG1dxt) | [Ms Fu](https://open.spotify.com/artist/2njSiQMLmmRraZe45lRSzF) | [Note 2 Self Vol.ii](https://open.spotify.com/album/3crArivrHITXpjHViZ5qL1) | 2:31 | 2023-06-22 | 2023-07-21 |
 | [Enjoyment](https://open.spotify.com/track/7iZOXGM1m8KuUsGwmuVXGa) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 2:34 | 2023-09-14 | 2024-01-05 |
 | [Esther](https://open.spotify.com/track/1xi70NUo25ueU7PEV4NiIy) | [DJ Carcious](https://open.spotify.com/artist/41EdZdiWbxOlJ0g6Ox2ydu), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Bogo Blay](https://open.spotify.com/artist/1ur3wHE5Js1T0VJPvkOVxY) | [Esther](https://open.spotify.com/album/3yQZRO3XNA2DtfFNLcsZHM) | 2:21 | 2023-09-09 | 2023-09-22 |
-| [Eye Clear](https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Da Yanney](https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP) | [Eye Clear](https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z) | 1:46 | 2024-07-19 |  |
+| [Eye Clear](https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Da Yanney](https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP) | [Eye Clear](https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z) | 1:46 | 2024-07-19 | 2025-01-15 |
 | [Fa Me Saa](https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fa Me Saa](https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4) | 3:05 | 2023-04-14 | 2023-08-11 |
 | [Fall](https://open.spotify.com/track/1uCi9k8sclPF2fuYUibvC7) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Fall](https://open.spotify.com/album/5jXqCTDGfgOQ0XbSxDoV3W) | 2:31 | 2022-09-08 | 2022-11-04 |
 | [Fall](https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Fall](https://open.spotify.com/album/5C26tljU3oYAkLBqh6mNMi) | 2:39 | 2023-03-02 | 2023-03-31 |
@@ -482,6 +482,7 @@
 | [Pray For Me](https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [Pray For Me](https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4) | 3:19 | 2024-06-07 | 2024-06-28 |
 | [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 | 2023-08-25 |
 | [Presidential Flow](https://open.spotify.com/track/0T7RP4RexQAzcJEH3zEmun) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Presidential Flow](https://open.spotify.com/album/75BOIUImVfqmTO0Nc1ZVnP) | 2:55 | 2024-01-19 | 2024-03-08 |
+| [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 |  |
 | [Problem](https://open.spotify.com/track/1ap13V0TDN8mn99eaaWEcd) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Problem](https://open.spotify.com/album/23XTTIJBevXciIi6ywpOvV) | 2:34 | 2024-07-26 | 2024-08-30 |
 | [Problem No Dey Finish](https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Problem No Dey Finish](https://open.spotify.com/album/59LCfOZU4rPfSa08GVGvQ2) | 2:01 | 2022-06-24 | 2023-04-15 |
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2023-01-20 |
@@ -524,7 +525,7 @@
 | [Savage Flow](https://open.spotify.com/track/5Z5Bl3hHAM3N0rpN8QqxAP) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Savage Flow](https://open.spotify.com/album/22fYL3f8XHo5uVloGDbSSQ) | 2:17 | 2024-07-12 |  |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-06-21 |
 | [Scary](https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Scary](https://open.spotify.com/album/5LLwIc70eeUjHynOpd1CH9) | 2:41 | 2022-10-28 | 2022-11-26 |
-| [Scheaming](https://open.spotify.com/track/701OiMaLFtpE4Zjo5mVkkp) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Kratafa Mienu](https://open.spotify.com/album/0mEspXzdmOa1Jj4b8NLZtq) | 2:41 | 2024-10-18 |  |
+| [Scheaming](https://open.spotify.com/track/701OiMaLFtpE4Zjo5mVkkp) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Kratafa Mienu](https://open.spotify.com/album/0mEspXzdmOa1Jj4b8NLZtq) | 2:41 | 2024-10-18 | 2025-01-15 |
 | [Scorpio Flow](https://open.spotify.com/track/7DHnchdhSiTSPSfbO26qZb) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Scorpio Flow](https://open.spotify.com/album/6V67KpnN7CD192CcMMBRqz) | 2:43 | 2022-06-24 | 2023-07-01 |
 | [SDW FLOW](https://open.spotify.com/track/719PgmRswbrcaaBmej2fcT) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk), [Santha Maria SDW](https://open.spotify.com/artist/5hCvzBLrAzt2ynKY7vsOM0), [Myron SDW](https://open.spotify.com/artist/2ezbSvAJ08bVGV2xVxeL6F), [Dhope Sdw](https://open.spotify.com/artist/29biEOpHKZcUg3W82KKwxp), [Richie Scott SDW](https://open.spotify.com/artist/25YQS8HSFgtyPKoVtU39Pg), [Zuzu SDW](https://open.spotify.com/artist/2E4ZfDAIEIuCu2vNSjQQeY), [Yaway SDW](https://open.spotify.com/artist/4A8v3WnrShEtps1lrMIJFE) | [THE MENACE II](https://open.spotify.com/album/6KArq6S6oonCN2lCps9KLL) | 2:54 | 2024-06-14 | 2024-08-09 |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-24 | 2023-11-03 |

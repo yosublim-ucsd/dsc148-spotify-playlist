@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 318902,
+  "num_followers": 318980,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABriqk3WTD51jT1QwlEzJ+l",
+  "snapshot_id": "Z4RXgAAAAAAIm80fqWaD48HIqBBF6CnP",
   "tracks": [
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Ramiro Sierra",
-      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
+      "duration_ms": 201340,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
     },
     {
       "added_at": null,
@@ -459,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 201340,
-      "name": "Ignacio Parra",
-      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
+      "duration_ms": 191000,
+      "name": "Ramiro Sierra",
+      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
     },
     {
       "added_at": null,

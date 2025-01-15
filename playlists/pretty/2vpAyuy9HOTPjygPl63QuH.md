@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,813 likes - 56 songs - 3 hr 6 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,816 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 47 | [Trust Me](https://open.spotify.com/track/7qcBWoReOG59Pan9UFXW7v) | [Julio Bravo](https://open.spotify.com/artist/2xENmdo7oEaFrxPWFin702), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [The Factory VA, Vol\. 1](https://open.spotify.com/album/3V0XYNqYIDbu6JoGeG0oiL) | 5:57 |
 | 48 | [1995](https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Bishop Snow](https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF) | [CHICAGO ON TOP](https://open.spotify.com/album/0LQdMCHd0k90pNhrwtDW0C) | 2:19 |
 | 49 | [Call Me Up](https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [Call Me Up](https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI) | 3:02 |
-| 50 | [KMS](https://open.spotify.com/track/7k08iOwFlXhQUmq9e4yDII) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [KMS](https://open.spotify.com/album/1uW6mdVhKPEzR4mDkEQqgW) | 4:59 |
+| 50 | [KMS](https://open.spotify.com/track/7k08iOwFlXhQUmq9e4yDII) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [KMS](https://open.spotify.com/album/1uW6mdVhKPEzR4mDkEQqgW) | 4:59 |
 | 51 | [Toro Loco \- Original Mix](https://open.spotify.com/track/7vDFkKOBHlB163wnJIpwcE) | [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Cion Daddy](https://open.spotify.com/artist/30eyXwvifdiwjh2exXJw6h) | [Toro Loco](https://open.spotify.com/album/2R21Qz8bKxvRFQ5Gdr7Wss) | 5:02 |
 | 52 | [Fiendin'](https://open.spotify.com/track/10FDBWTBkFXcAD0HrcIAPe) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Fiendin'](https://open.spotify.com/album/7qcOh52r2cu5bPMkrCkn4r) | 3:15 |
 | 53 | [Beats Keep Rockin' \- Edit](https://open.spotify.com/track/7GDBm3a49RNgL7EpdWtUh7) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Beats Keep Rockin'](https://open.spotify.com/album/0RAPLDYHhVTaSYUTKUvGgf) | 2:26 |

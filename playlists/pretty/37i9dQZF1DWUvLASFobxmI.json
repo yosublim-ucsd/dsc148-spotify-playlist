@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta, El Frizian en portada.",
-  "num_followers": 495491,
+  "num_followers": 495776,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "Los Brothers 2",
+        "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 238464,
+      "name": "Los Brothers 2",
+      "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 240561,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
-        "name": "Los Brothers 2",
-        "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 238464,
-      "name": "Los Brothers 2",
-      "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "Inconcluso",
+      "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
-        "name": "B.M.T",
-        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "Inconcluso",
-      "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Tenis Jordan",
-        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 149962,
-      "name": "Tenis Jordan",
-      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Baby (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 198639,
       "name": "Baby (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "Tenis Jordan",
+        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 149962,
+      "name": "Tenis Jordan",
+      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Paz en Este Amor",
-        "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 202385,
-      "name": "Paz en Este Amor",
-      "url": "https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -1759,22 +1739,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164680,
-      "name": "Neta Que No",
-      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },
@@ -1791,6 +1755,42 @@
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "Paz en Este Amor",
+        "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 202385,
+      "name": "Paz en Este Amor",
+      "url": "https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd"
     },
     {
       "added_at": "2025-01-05 18:40:12",

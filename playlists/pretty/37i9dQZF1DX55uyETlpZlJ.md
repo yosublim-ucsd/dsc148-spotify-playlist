@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,249 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,253 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 2 | [Beauty](https://open.spotify.com/track/34TonGz5g4F0ZQ2fWPGNG6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Meghana Kulkarni](https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs) | [Beauty](https://open.spotify.com/album/6S9gwDfmsjMrZRApoQvwTQ) | 5:02 |
 | 3 | [Cotton Candy](https://open.spotify.com/track/2LjbQqa8DW8Zw1NSOMbIQ5) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Cotton Candy](https://open.spotify.com/album/6GQDke7RJSemiACQQyiKWy) | 3:12 |
 | 4 | [Jolly Jolly](https://open.spotify.com/track/6lr8AKxmDniETfPEhezrSY) | [Viraj](https://open.spotify.com/artist/50pXnrPQzX4pF1QiKXvnIK) | [Jolly Jolly](https://open.spotify.com/album/7BvprRs0Qjum74sY0QQGMH) | 3:43 |
-| 5 | [Hrudayave](https://open.spotify.com/track/6ZffSuCnZXaT94V5oYV4QZ) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N), [Darshan Sutar](https://open.spotify.com/artist/6dDNyn95OJvM5F8QwVq6bU) | [Hrudhayave](https://open.spotify.com/album/43JgbZfphTgFl6MOVrKKSM) | 5:17 |
+| 5 | [Hrudhayave](https://open.spotify.com/track/6ZffSuCnZXaT94V5oYV4QZ) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N), [Darshan Sutar](https://open.spotify.com/artist/6dDNyn95OJvM5F8QwVq6bU) | [Hrudhayave](https://open.spotify.com/album/43JgbZfphTgFl6MOVrKKSM) | 5:17 |
 | 6 | [Mayavi \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5FpUYrZWcFcuQMX4lDQqrf) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Mayavi \(From "Bhoomi 2024"\)](https://open.spotify.com/album/12WRdvgLyCdAZJXOw1xQxs) | 4:18 |
 | 7 | [Mandahaasa](https://open.spotify.com/track/5e6VuOglQBXXeSSYJJA7uc) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Sunjuice](https://open.spotify.com/album/3PDKQGvu0U5ibKqVGIQmQq) | 3:40 |
 | 8 | [Nillabeda](https://open.spotify.com/track/7qVi80lroccYuNZc6KVDPR) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Nillabeda](https://open.spotify.com/album/4B9MrDD7PSJPcaniCbUPce) | 3:39 |

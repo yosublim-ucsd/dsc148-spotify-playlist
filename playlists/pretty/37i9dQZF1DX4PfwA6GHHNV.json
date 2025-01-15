@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19850,
+  "num_followers": 19854,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "Deixa Eu Te Contar",
+        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Deixa Eu Te Contar",
+      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Deixa Eu Te Contar",
-        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Deixa Eu Te Contar",
-      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -663,8 +663,8 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Pu'ce",
-        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
+        "name": "1 a 1.",
+        "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
       "artists": [
         {
@@ -672,17 +672,17 @@
           "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
         }
       ],
-      "duration_ms": 165309,
-      "name": "Pu'ce",
-      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
+      "duration_ms": 197103,
+      "name": "1 a 1.",
+      "url": "https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -871,8 +871,8 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "1 a 1.",
-        "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
+        "name": "Pu'ce",
+        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
       "artists": [
         {
@@ -880,17 +880,17 @@
           "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
         },
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 197103,
-      "name": "1 a 1.",
-      "url": "https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU"
+      "duration_ms": 165309,
+      "name": "Pu'ce",
+      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
     },
     {
       "added_at": "2024-12-13 16:52:11",

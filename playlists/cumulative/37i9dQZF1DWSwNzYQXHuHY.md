@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-241 songs - 13 hr 30 min
+242 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Fairy of Shampoo](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 4:27 | 2022-07-08 | 2024-03-09 |
 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 | 2022-07-08 | 2024-03-09 |
 | [Feel Like Falling In Love](https://open.spotify.com/track/6rmDUUHmyzOpBWtGdEXHpj) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Tv Soundtrack\) Part 3](https://open.spotify.com/album/1HQQArdmzudGSPjxxhCct9) | 3:14 | 2022-05-11 | 2022-07-29 |
-| [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-11 |  |
+| [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-11 | 2025-01-15 |
 | [First 처음](https://open.spotify.com/track/4X7jxAG8hVhL6VGoFZfD9A) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7oIyZIfqaOu2uF2QGtB28i) | 4:16 | 2022-05-11 | 2022-06-28 |
 | [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 | 2023-05-05 | 2024-03-09 |
 | [Fly to me](https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4) | [CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Fly to me](https://open.spotify.com/album/2Jo2mvplm5HgWP81gsXsSc) | 3:01 | 2022-05-11 | 2022-07-29 |
@@ -172,6 +172,7 @@
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 | 2022-05-11 | 2023-08-06 |
 | [See You Again](https://open.spotify.com/track/27cNK2poLalhyeWJbxQq5q) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:47 | 2023-07-17 | 2024-03-09 |
+| [Serenade](https://open.spotify.com/track/0mJohf6KCgFeCWbMBAS8RL) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 3:03 | 2025-01-14 |  |
 | [SHIT SHOW \(feat\. Leellamarz\)](https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:14 | 2024-03-21 | 2024-08-11 |
 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 |  |
 | [Should not love you \(Part.2\)](https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Should not love you \(Part.2\)](https://open.spotify.com/album/7kvX7N3RNIJlBbuUvP92n2) | 2:42 | 2022-06-18 | 2022-07-29 |

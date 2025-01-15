@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,179 songs - 6 day 5 hr 13 min
+2,180 songs - 6 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Bad Man \- Kordhell Remix](https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Bad Man \(Kordhell Remix\)](https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE) | 2:33 | 2023-03-03 | 2023-03-11 |
 | [Badlands \- Live at Capitol Theatre, Passaic, NJ \- 9/19/1978](https://open.spotify.com/track/3ATwNopieLhHvem7FEW7C4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band \- The Darkness Tour '78](https://open.spotify.com/album/09rNh6weVS43LVc4sRt5WV) | 5:26 | 2023-06-02 | 2023-07-02 |
 | [Bailando Con Tu Sombra](https://open.spotify.com/track/7qK8TNOfbFz56niplqdDhZ) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Bailando Con Tu Sombra](https://open.spotify.com/album/1MzQUDd2NYkdu92IbdlAqU) | 5:09 | 2024-11-15 | 2024-12-01 |
+| [Bailando Solo, Heart of Glass \- MTV Unplugged](https://open.spotify.com/track/5f2uXduzShvF39MOZpdWFn) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 7:41 | 2025-01-10 |  |
 | [Bailas? \- Remaster](https://open.spotify.com/track/6l5QAwyxEXMN2JbA66FIns) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Jesteinritmos](https://open.spotify.com/artist/3ui11f5hyaFWgBjEkZxDak), [WH](https://open.spotify.com/artist/1hITVmmhaAwtRCQYsV6j77) | [Bailas?](https://open.spotify.com/album/0dovs8nhZj57dnRARTZdrQ) | 4:13 | 2023-03-03 | 2023-03-12 |
 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 | 2023-05-21 |
 | [Bama\-Lama Bama\-Loo \- Remastered](https://open.spotify.com/track/73EzDT5sDUUOKQSHdI7bSa) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Well Alright! \(Remastered 2024\)](https://open.spotify.com/album/47GxL9FLBMyFhGabm4cmq0) | 2:11 | 2024-11-29 | 2024-12-14 |
@@ -1270,7 +1271,7 @@
 | [No es fácil](https://open.spotify.com/track/7CXXsjiY1fMO1ryUoB2OiE) | [Vicente Feliú Miranda](https://open.spotify.com/artist/2vcROKPkhfUQwgg4yj3Akx), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [No es fácil](https://open.spotify.com/album/6fBpxd8IE62HrCiCReBo1L) | 3:41 | 2024-11-08 | 2024-11-16 |
 | [No Es un Adiós](https://open.spotify.com/track/1IYRVzamwUW2V4vDT9ONTs) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Me Permito Sentir](https://open.spotify.com/album/7KuTQuLMhec9sj3RE3w89E) | 6:03 | 2024-03-01 | 2024-03-08 |
 | [No Fun \- ADF30 Rework](https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [No Fun \(ADF30 Rework\)](https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo) | 4:18 | 2024-05-24 | 2024-06-23 |
-| [No Me Hables de Sufrir \- MTV Unplugged](https://open.spotify.com/track/7DiWiKo1ATj5hSKlKPGw2b) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:17 | 2025-01-10 |  |
+| [No Me Hables de Sufrir \- MTV Unplugged](https://open.spotify.com/track/7DiWiKo1ATj5hSKlKPGw2b) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 4:17 | 2025-01-10 | 2025-01-15 |
 | [No Nos Encontrarán](https://open.spotify.com/track/3froYwOJees9keYu5Z0MkG) | [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [Bufalo Dit](https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK), [Terrible](https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9) | [La Dieta del Murciélago \(Instrumentales\)](https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC) | 4:11 | 2024-06-28 | 2024-07-09 |
 | [No Pido Mucho](https://open.spotify.com/track/4eajko0uHHHnxd7gYjVUgL) | [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N) | [La Gran Masacre Vol.2](https://open.spotify.com/album/0tej1idxDtzam4WRMzAASt) | 3:13 | 2024-02-16 | 2024-02-18 |
 | [No Te Pases](https://open.spotify.com/track/3PzVTVMVGrOPRkNQXQOb20) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [No Te Pases](https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW) | 2:23 | 2024-03-01 | 2024-03-16 |

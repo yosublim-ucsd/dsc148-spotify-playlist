@@ -5719,6 +5719,32 @@
     },
     {
       "album": {
+        "name": "Tu Ru Ruu",
+        "url": "https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Tu Ru Ruu",
+      "url": "https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO"
+    },
+    {
+      "album": {
         "name": "Tujhe Kaise, Pata Na Chala",
         "url": "https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 271495,
+  "num_followers": 271648,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAD8obcilZqY4OEzirsr1fVA",
+  "snapshot_id": "Z4RXgAAAAABFu7cyqIiAWZKIHFz9b0Lr",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hurt (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 156813,
       "name": "Hurt (with Jelly Roll)",
       "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapeutic Music 5",
-        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
     },
     {
       "added_at": null,

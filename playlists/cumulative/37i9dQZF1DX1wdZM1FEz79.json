@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 266146,
       "name": "My Ultimate First Love",
       "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
@@ -8214,6 +8214,24 @@
       "duration_ms": 267548,
       "name": "To All \uc11c\ub978\uc5d0\uac8c - Guitar Ver",
       "url": "https://open.spotify.com/track/5ssqQrQJMNCXhp6F1gXd6r"
+    },
+    {
+      "album": {
+        "name": "To Love You More",
+        "url": "https://open.spotify.com/album/7Kkti9u35dqFzI9rhqTLJn"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246649,
+      "name": "To Love You More",
+      "url": "https://open.spotify.com/track/0wnFLe7zakzjBcw12cuyyP"
     },
     {
       "album": {

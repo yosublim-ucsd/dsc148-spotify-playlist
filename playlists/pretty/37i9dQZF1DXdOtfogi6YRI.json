@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Fisz Emade Tworzywo",
-  "num_followers": 18295,
+  "num_followers": 18297,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
+        "name": "Ale Boli!",
+        "url": "https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Ale Boli!",
+      "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
         "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
         "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 226303,
       "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
       "url": "https://open.spotify.com/track/2TrCHAIp8m2JrQMKd4P3GU"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
-        "name": "Ale Boli!",
-        "url": "https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Anio\u0142",
-          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Ale Boli!",
-      "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
+        "name": "Dla siebie",
+        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
+      },
+      "artists": [
+        {
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        }
+      ],
+      "duration_ms": 135041,
+      "name": "Dla siebie",
+      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
         "name": "ACID MORO AFTERGLOW",
         "url": "https://open.spotify.com/album/628qTbHKYJCeatPUkyHFrp"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 174857,
       "name": "FULL TIME RAVER - LOUD ABOUT US! REMIX",
       "url": "https://open.spotify.com/track/30xmFBFVKpRLvQazLPqdE8"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
-        "name": "Dla siebie",
-        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
-      },
-      "artists": [
-        {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
-        }
-      ],
-      "duration_ms": 135041,
-      "name": "Dla siebie",
-      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
-      },
-      "artists": [
-        {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "WE ALL ARE FCKED UP",
         "url": "https://open.spotify.com/album/1aROBOCJ6LtbTorlXG0oJd"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 135857,
       "name": "WE ALL ARE FCKED UP",
       "url": "https://open.spotify.com/track/3yK3nm8J37ICtkVnZHq4Qf"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
+      },
+      "artists": [
+        {
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
+        }
+      ],
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "Strach",
-        "url": "https://open.spotify.com/album/6lEC7jalZkPqTxohKnnH4p"
-      },
-      "artists": [
-        {
-          "name": "Monika Fortuniak",
-          "url": "https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2"
-        },
-        {
-          "name": "Bisz",
-          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
-        }
-      ],
-      "duration_ms": 251786,
-      "name": "Strach",
-      "url": "https://open.spotify.com/track/7EtgTcSNPsQ7I4r4TsqFJd"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "CHRUST",
         "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 186352,
       "name": "CHRUST",
       "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Strach",
+        "url": "https://open.spotify.com/album/6lEC7jalZkPqTxohKnnH4p"
+      },
+      "artists": [
+        {
+          "name": "Monika Fortuniak",
+          "url": "https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2"
+        },
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        }
+      ],
+      "duration_ms": 251786,
+      "name": "Strach",
+      "url": "https://open.spotify.com/track/7EtgTcSNPsQ7I4r4TsqFJd"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -1363,42 +1363,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "Jacht",
-        "url": "https://open.spotify.com/album/32kKnsrJkMTjlJeqEIUyHb"
-      },
-      "artists": [
-        {
-          "name": "Tropiki",
-          "url": "https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw"
-        },
-        {
-          "name": "Jakub Jan Bryndal",
-          "url": "https://open.spotify.com/artist/5aZnt2OoRIvauleYkWcUAF"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Jacht",
-      "url": "https://open.spotify.com/track/0YfhqSHrAsLt0Vfdu0xHv9"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "B\u0119dzie dobrze",
         "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
       },
@@ -1419,6 +1383,42 @@
       "duration_ms": 232258,
       "name": "B\u0119dzie dobrze",
       "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Jacht",
+        "url": "https://open.spotify.com/album/32kKnsrJkMTjlJeqEIUyHb"
+      },
+      "artists": [
+        {
+          "name": "Tropiki",
+          "url": "https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw"
+        },
+        {
+          "name": "Jakub Jan Bryndal",
+          "url": "https://open.spotify.com/artist/5aZnt2OoRIvauleYkWcUAF"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Jacht",
+      "url": "https://open.spotify.com/track/0YfhqSHrAsLt0Vfdu0xHv9"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "Miasta",
-        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
-      },
-      "artists": [
-        {
-          "name": "Jakub Chrzan",
-          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Miasta",
-      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "RODOPSYNA",
         "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 174787,
       "name": "WEMBY",
       "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Miasta",
+        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
+      },
+      "artists": [
+        {
+          "name": "Jakub Chrzan",
+          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Miasta",
+      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
-      },
-      "artists": [
-        {
-          "name": "SEVN LEONE",
-          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
-        }
-      ],
-      "duration_ms": 163587,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
+      },
+      "artists": [
+        {
+          "name": "SEVN LEONE",
+          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
+        }
+      ],
+      "duration_ms": 163587,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
         "name": "Pozdrawiam S\u0105siad\u00f3w",
         "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
       },
@@ -1815,26 +1815,6 @@
       "duration_ms": 205969,
       "name": "Pozdrawiam S\u0105siad\u00f3w",
       "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
-        "name": "Jak Wiatr",
-        "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
-      },
-      "artists": [
-        {
-          "name": "Matis",
-          "url": "https://open.spotify.com/artist/7qQkuQHrvcfSoMkx0pkHoF"
-        },
-        {
-          "name": "BRK",
-          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Jak Wiatr",
-      "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -1891,6 +1871,26 @@
       "duration_ms": 189767,
       "name": "NOWY WOKAL",
       "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Jak Wiatr",
+        "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
+      },
+      "artists": [
+        {
+          "name": "Matis",
+          "url": "https://open.spotify.com/artist/7qQkuQHrvcfSoMkx0pkHoF"
+        },
+        {
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Jak Wiatr",
+      "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
     },
     {
       "added_at": "2025-01-10 16:20:36",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2025-01-10 16:20:36",
       "album": {
-        "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
-        "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
-      },
-      "artists": [
-        {
-          "name": "Sensi",
-          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        }
-      ],
-      "duration_ms": 120940,
-      "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
-      "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
-    },
-    {
-      "added_at": "2025-01-10 16:20:36",
-      "album": {
         "name": "sour",
         "url": "https://open.spotify.com/album/0dzHRruvC3u8MhMfW6Cr7I"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 116000,
       "name": "Carrera",
       "url": "https://open.spotify.com/track/7JaoAFQzDs4wlRrgwn0yPw"
+    },
+    {
+      "added_at": "2025-01-10 16:20:36",
+      "album": {
+        "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+        "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
+      },
+      "artists": [
+        {
+          "name": "Sensi",
+          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        }
+      ],
+      "duration_ms": 120940,
+      "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+      "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
     },
     {
       "added_at": "2025-01-10 16:20:36",

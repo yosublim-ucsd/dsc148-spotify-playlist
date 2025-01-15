@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Taaza Hip Hop Hindi\. Cover: Yashraj
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,129 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,159 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 23 | [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 |
 | 24 | [This Is Me](https://open.spotify.com/track/3sFVhGQGpIB3pixbANTUwg) | [Akash Rajwanshi](https://open.spotify.com/artist/2x5ajUCReZtOYfANvPKury) | [This Is Me](https://open.spotify.com/album/12gbm2q7tDlJnHjIxHThRU) | 1:38 |
 | 25 | [TEJI](https://open.spotify.com/track/5rMArknJ3HLIETReN6tE8I) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB \(DIRECTOR's CUT\)](https://open.spotify.com/album/0qgwm14ol8RcBzJOGuQmGh) | 2:34 |
-| 26 | [Lakshman Parshuram](https://open.spotify.com/track/48EPhPeqfYlU9MHzlDqeKt) | [Raanjha](https://open.spotify.com/artist/7pqzMLbLDB5UFg9LM0y9im) | [Lakshman Parshuram](https://open.spotify.com/album/6uAzRzNFNQktx6HwVxumuJ) | 6:07 |
+| 26 | [Lakshman Parshuram](https://open.spotify.com/track/48EPhPeqfYlU9MHzlDqeKt) | [Raanjha](https://open.spotify.com/artist/7pqzMLbLDB5UFg9LM0y9im), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Lakshman Parshuram](https://open.spotify.com/album/6uAzRzNFNQktx6HwVxumuJ) | 6:07 |
 | 27 | [Munda on the Rise](https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Munda on the Rise](https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso) | 3:33 |
 | 28 | [Ate](https://open.spotify.com/track/0gkfAhRpyvAv7ex4h2Okdp) | [TeraVamp](https://open.spotify.com/artist/4NJhRfCULUNpMCrCt52Zp7) | [I Lost Interest](https://open.spotify.com/album/6gNaRgFXJEH6okLS3NHoq3) | 2:17 |
 | 29 | [Nazare](https://open.spotify.com/track/0hmDNLZlEHS7GL1Es38bcE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Northern Nights](https://open.spotify.com/album/1O1QvxhWr8eDP8q5FUwbKc) | 2:21 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 543782,
+  "num_followers": 543789,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Road to Ruin (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "I Wanna Be Sedated - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "When Your Heart Stops Beating",
         "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Road to Ruin (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Playing Dead",
+      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Four Year Strong",
         "url": "https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 199589,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
       "artists": [
         {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Playing Dead",
-      "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
+      "duration_ms": 199589,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 200660,
       "name": "Bored of Being Sad",
       "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+        "name": "A Long Time Ago In A Galaxy Called LA",
+        "url": "https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB"
       },
       "artists": [
         {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
+      "duration_ms": 207000,
+      "name": "A Long Time Ago In A Galaxy Called LA",
+      "url": "https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "A Long Time Ago In A Galaxy Called LA",
-        "url": "https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB"
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
         }
       ],
-      "duration_ms": 207000,
-      "name": "A Long Time Ago In A Galaxy Called LA",
-      "url": "https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ"
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "In Spite of Me",
-        "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
         {
-          "name": "Like Pacific",
-          "url": "https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Self Defeated",
-      "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+        "name": "In Spite of Me",
+        "url": "https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Like Pacific",
+          "url": "https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH"
         }
       ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+      "duration_ms": 177280,
+      "name": "Self Defeated",
+      "url": "https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt"
     },
     {
       "added_at": "2024-07-19 11:53:42",

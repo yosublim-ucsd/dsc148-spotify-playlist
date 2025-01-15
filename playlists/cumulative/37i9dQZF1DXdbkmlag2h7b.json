@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Aurora Sky",
+        "url": "https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Aurora Sky",
+      "url": "https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 163730,
       "name": "Chapters",
       "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
@@ -1223,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Gentle Hues",
+        "url": "https://open.spotify.com/album/6UBtey8p9rG8KzXfQWy7Dn"
+      },
+      "artists": [
+        {
+          "name": "Shibuki",
+          "url": "https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Gentle Hues",
+      "url": "https://open.spotify.com/track/708b9RwAjOqnt5AFN7lKfZ"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -1472,6 +1508,24 @@
       "duration_ms": 192000,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/391sFoHJYJrb4vjgp5xRxd"
+    },
+    {
+      "album": {
+        "name": "Infusion",
+        "url": "https://open.spotify.com/album/6dSISAglhffSmE0kpEzGVL"
+      },
+      "artists": [
+        {
+          "name": "Mont Real",
+          "url": "https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236088,
+      "name": "Infusion",
+      "url": "https://open.spotify.com/track/5HIY7NFEpNHBtoEgtpW6Re"
     },
     {
       "album": {
@@ -2084,7 +2138,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 205505,
       "name": "Oriental Journey",
       "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
@@ -2524,7 +2578,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
@@ -2708,6 +2762,24 @@
       "duration_ms": 172373,
       "name": "Sketches",
       "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
+    },
+    {
+      "album": {
+        "name": "Soft Red Bunk",
+        "url": "https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "Soft Red Bunk",
+      "url": "https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB"
     },
     {
       "album": {

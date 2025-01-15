@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa Metallica.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa One Morning Left.
 
-152 songs - 10 hr 4 min
+154 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Lanternlight](https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:06 | 2024-09-19 | 2025-01-10 |
 | [Last Call for Alcohol](https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo) | [Hardcore Superstar](https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq) | [Split Your Lip](https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq) | 3:24 | 2024-09-11 |  |
 | [Leave A Mark](https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Leave A Mark](https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr) | 5:21 | 2024-11-14 | 2024-12-13 |
+| [Little Lies](https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Little Lies](https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O) | 3:36 | 2025-01-14 |  |
 | [Living in America](https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Living in America \(US version\)](https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5) | 3:28 | 2024-09-11 |  |
 | [Lola Montez](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies \(Deluxe Version\)](https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX) | 4:27 | 2024-09-11 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-09-11 | 2024-09-27 |
@@ -103,6 +104,7 @@
 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 | 2024-09-11 | 2024-11-08 |
 | [Prty Till The End Of The World](https://open.spotify.com/track/4Q5KSpuSVgZLWOfdrbTQFo) | [Stereo Terror](https://open.spotify.com/artist/5bVlFc0dTBJM87T4Z0djch) | [Prty Till The End Of The World](https://open.spotify.com/album/2Vlme3iynKizn8w61Hste5) | 3:00 | 2024-12-12 |  |
 | [Pulssi](https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Pulssi](https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7) | 3:39 | 2024-10-03 | 2024-10-25 |
+| [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-14 |  |
 | [Rebel of the North](https://open.spotify.com/track/1pIhkbe9kU999KS16h03kp) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Rebel of the North](https://open.spotify.com/album/2CBX2zP8fLEI6T15p5aH5E) | 4:00 | 2025-01-09 |  |
 | [Rest In Pieces](https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Rest In Pieces](https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq) | 2:56 | 2024-10-24 |  |
 | [Retrospectator](https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 2:57 | 2024-09-19 |  |

@@ -3496,7 +3496,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
@@ -5834,6 +5834,24 @@
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
     },
     {
       "album": {
@@ -7504,6 +7522,24 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
+        "name": "Fly Me To The Moon (Remix)",
+        "url": "https://open.spotify.com/album/6yjoXKVJoCqLAFyE9WBKED"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Fly Me To The Moon - Remix",
+      "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
     },
     {
       "album": {
@@ -9231,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "He/Him",
+        "url": "https://open.spotify.com/album/1fcGlATBTIbIkeujeCcB9V"
+      },
+      "artists": [
+        {
+          "name": "knive \u2671",
+          "url": "https://open.spotify.com/artist/1GObeSDClpbDDNqi6g7oTP"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92689,
+      "name": "He/Him",
+      "url": "https://open.spotify.com/track/5P7zRxnZqGVrY60V5MbLcZ"
+    },
+    {
+      "album": {
         "name": "Head n' Shoulders",
         "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
       },
@@ -9680,6 +9734,24 @@
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
+    },
+    {
+      "album": {
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
     },
     {
       "album": {
@@ -11939,6 +12011,28 @@
     },
     {
       "album": {
+        "name": "J\u00c4GERMEISTER (300 dB Edit)",
+        "url": "https://open.spotify.com/album/4qR0vbodb3F5GaDJEoQT9F"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143936,
+      "name": "J\u00c4GERMEISTER - 300 dB Edit",
+      "url": "https://open.spotify.com/track/43vVYiRe3jl7z9BmD1TQON"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
       },
@@ -12590,7 +12684,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -15829,6 +15923,32 @@
     },
     {
       "album": {
+        "name": "Muh M\u00e4h",
+        "url": "https://open.spotify.com/album/6YTWVO9o9ArHDg93Lz5hQ0"
+      },
+      "artists": [
+        {
+          "name": "Danny The Delta Mode",
+          "url": "https://open.spotify.com/artist/7blafvZgKmDFbjsuGBobiY"
+        },
+        {
+          "name": "Rammschtein",
+          "url": "https://open.spotify.com/artist/4AdvM4aPb9WmVEmY0s3lQs"
+        },
+        {
+          "name": "She / Akku",
+          "url": "https://open.spotify.com/artist/0lw0fcSrWet0hkgEUzbtco"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Muh M\u00e4h",
+      "url": "https://open.spotify.com/track/40wy4ZsoNVhBBbpzvDpq7c"
+    },
+    {
+      "album": {
         "name": "MURAKAMI",
         "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
       },
@@ -17440,7 +17560,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 164250,
       "name": "Party in Billstedt",
       "url": "https://open.spotify.com/track/09MUcej3BQqz4AetYwT3wb"
@@ -18172,7 +18292,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 149440,
       "name": "PORNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -19787,6 +19907,28 @@
     },
     {
       "album": {
+        "name": "Schau mal herein",
+        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        },
+        {
+          "name": "Florian Silbereisen",
+          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Schau mal herein",
+      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
+    },
+    {
+      "album": {
         "name": "Scheiss Egal (District Red Remix)",
         "url": "https://open.spotify.com/album/6woxa538xNTSkN1gUHZUjp"
       },
@@ -21386,7 +21528,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
@@ -21540,6 +21682,32 @@
       "duration_ms": 202061,
       "name": "Strip That Down (feat. Quavo)",
       "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
+    },
+    {
+      "album": {
+        "name": "Stroboparty",
+        "url": "https://open.spotify.com/album/3KljxzVsh1QequFmKqkJ7o"
+      },
+      "artists": [
+        {
+          "name": "nocashfromparents",
+          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Stroboparty",
+      "url": "https://open.spotify.com/track/0Ne6d3k9zcUcHsaG6zelFD"
     },
     {
       "album": {
@@ -22558,7 +22726,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -23386,6 +23554,24 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
+        "name": "Toyota (2016)",
+        "url": "https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159907,
+      "name": "Toyota (2016)",
+      "url": "https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY"
     },
     {
       "album": {
@@ -24722,7 +24908,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 151999,
       "name": "Weg zu weit",
       "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
@@ -24840,6 +25026,32 @@
       "duration_ms": 119160,
       "name": "What Have They Done To Us (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/5G6QBfcTbR4Jqs3zeacHLJ"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Thabza De Soul",
+          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"
     },
     {
       "album": {
@@ -25308,6 +25520,28 @@
       "duration_ms": 256822,
       "name": "Woops - Original Remastered Mix",
       "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
+    },
+    {
+      "album": {
+        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Anna Lea",
+          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345812,
+      "name": "Would You Fall in Love with Me Again",
+      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > เพลย์ลิสต์พิเศษวันเด็ก เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: เล็ก รัชเมศฐ์
 
-292 songs - 17 hr 46 min
+293 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-08-09 |  |
 | [ละลาย \(LaLaLye\)](https://open.spotify.com/track/0sGRwyZJH9lRft6hoNWDPU) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [ละลาย \(LaLaLye\) \- Single](https://open.spotify.com/album/1aWimcmep85JiuUE2shfny) | 3:43 | 2024-12-06 | 2024-12-21 |
 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 | 2024-06-27 |  |
+| [ล้มแชมป์ \(Only You Can\)](https://open.spotify.com/track/3dKiS7M3Rkqtj9dsOkvzW6) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ล้มแชมป์ \(Only You Can\) \- Single](https://open.spotify.com/album/3iTtuuLmUWLN8nZ9GBkhhk) | 3:28 | 2025-01-14 |  |
 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 | 2024-08-27 |  |
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-06-27 |  |
 | [วาสนาผู้ใด](https://open.spotify.com/track/3skwZnq1wGOaBvniFLZjGo) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/21KFJc9i08LxmFt1zP74vo) | 3:15 | 2024-06-27 | 2024-07-13 |
@@ -243,7 +244,7 @@
 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 | 2024-11-01 | 2024-11-16 |
 | [เกือบปี](https://open.spotify.com/track/6MzhHnoFxlfEvGM7XR80DH) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เกือบปี \- Single](https://open.spotify.com/album/3jPEnDvogvQfyUdGaUvkcG) | 4:31 | 2024-11-29 | 2024-12-21 |
 | [เก่งแต่ลับหลัง](https://open.spotify.com/track/5JmP1f56boflkB8xPbfz2t) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Punch 4EVE](https://open.spotify.com/artist/0JKSJyrrVddQhK4qJXvHkE) | [เก่งแต่ลับหลัง](https://open.spotify.com/album/0LNl7udObdHyH8Kg9JxHuO) | 3:03 | 2024-06-27 | 2024-07-06 |
-| [เข้าใจว่าไม่เข้าใจ \(INVERTED\)](https://open.spotify.com/track/2phhqdmCi0p8XFVFJZ4Tju) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [เข้าใจว่าไม่เข้าใจ \(INVERTED\) \- Single](https://open.spotify.com/album/1OHOyC5QsRdRIhg6VVg9sD) | 4:26 | 2024-06-27 |  |
+| [เข้าใจว่าไม่เข้าใจ \(INVERTED\)](https://open.spotify.com/track/2phhqdmCi0p8XFVFJZ4Tju) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [เข้าใจว่าไม่เข้าใจ \(INVERTED\) \- Single](https://open.spotify.com/album/1OHOyC5QsRdRIhg6VVg9sD) | 4:26 | 2024-06-27 | 2025-01-15 |
 | [เจ็บแล้วช่วยจำ](https://open.spotify.com/track/6S9GIUA6QQQdun9SGQt338) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [เจ็บแล้วช่วยจำ](https://open.spotify.com/album/0g1DORmV2JYixtOi4TBHMs) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [เจ้ากระต่ายน้อย \(Tale of the bunny\)](https://open.spotify.com/track/5kZzlvjtudtTHqymKdXONT) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Is there anything on the Moon?](https://open.spotify.com/album/1xYl1AYBf7ivH0z37MhhUg) | 3:41 | 2024-09-19 | 2024-10-05 |
 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2024-12-26 |  |

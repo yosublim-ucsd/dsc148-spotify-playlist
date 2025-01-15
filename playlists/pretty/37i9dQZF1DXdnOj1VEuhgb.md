@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Batuflex x SNOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,235 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,331 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 |
 | 2 | [Gibi](https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [2024 Bootleg](https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo) | 3:21 |
-| 3 | [CEHENNEM](https://open.spotify.com/track/75F98UloIQNefISkNRqGcG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [CEHENNEM](https://open.spotify.com/album/7pTmbuPzNiK7ekP1dKVxgF) | 2:01 |
+| 3 | [CEHENNEM](https://open.spotify.com/track/75F98UloIQNefISkNRqGcG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [CEHENNEM](https://open.spotify.com/album/7pTmbuPzNiK7ekP1dKVxgF) | 2:01 |
 | 4 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
 | 5 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
 | 6 | [SEVGİ](https://open.spotify.com/track/4UHqIAacNKHUq1yYv5Xfob) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [SEVGİ](https://open.spotify.com/album/0uuodlzRuwI7wmlyQ3m9C9) | 3:18 |
 | 7 | [Balmumu \(Seri Katiller 6\)](https://open.spotify.com/track/5S4WzyzBdSlqInBSjWJSop) | [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Balmumu \(Seri Katiller 6\)](https://open.spotify.com/album/64yW8Iv6VMQEmtQZDuJIgS) | 2:45 |
-| 8 | [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 |
+| 8 | [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 |
 | 9 | [Prime](https://open.spotify.com/track/1r5aWDA9N2AgG5S0J0TL8Z) | [TCT](https://open.spotify.com/artist/3joaxx2fs2glNEPZaXGove), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [Prime](https://open.spotify.com/album/6hcRJmJN8TqQxDKI2Xpx95) | 3:50 |
 | 10 | [12'lik Verse](https://open.spotify.com/track/1yG12cLbis6k7R6CXw8mvY) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Ados](https://open.spotify.com/artist/4jtv7mIerRdHNQOkFtKyDW) | [12'lik Verse](https://open.spotify.com/album/4nIeCT4llwtHWNgCsa3LOQ) | 3:17 |
 | 11 | [KBR](https://open.spotify.com/track/3riHsraRxIFfLLy7n3T8mq) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [KBR](https://open.spotify.com/album/2mUZZJGMOMvL5IUIqD5anA) | 2:23 |

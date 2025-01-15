@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,907 likes - 152 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,919 likes - 152 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

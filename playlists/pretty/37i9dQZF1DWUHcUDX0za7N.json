@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Antiworld Gangsters ",
-  "num_followers": 58378,
+  "num_followers": 58411,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "W\u00e0s\u00e9r\u00e8",
-        "url": "https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE"
-      },
-      "artists": [
-        {
-          "name": "Shakez Baba",
-          "url": "https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky"
-        },
-        {
-          "name": "Jamz FR",
-          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "W\u00e0s\u00e9r\u00e8",
-      "url": "https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
         "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
         "url": "https://open.spotify.com/album/2ukShFKYrJOb91a6MTOHY1"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 204216,
       "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
       "url": "https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
+        "name": "W\u00e0s\u00e9r\u00e8",
+        "url": "https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE"
+      },
+      "artists": [
+        {
+          "name": "Shakez Baba",
+          "url": "https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky"
+        },
+        {
+          "name": "Jamz FR",
+          "url": "https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "W\u00e0s\u00e9r\u00e8",
+      "url": "https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "On Boiz",
-        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
-      },
-      "artists": [
-        {
-          "name": "Aj\u00e9 (The Realest)",
-          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
-        }
-      ],
-      "duration_ms": 143408,
-      "name": "On Boiz",
-      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
         "name": "Year of the Underdogs",
         "url": "https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "Yolo",
-        "url": "https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A"
+        "name": "On Boiz",
+        "url": "https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm"
       },
       "artists": [
         {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Aj\u00e9 (The Realest)",
+          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Yolo",
-      "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
+      "duration_ms": 143408,
+      "name": "On Boiz",
+      "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1215,6 +1195,26 @@
       "duration_ms": 176898,
       "name": "Te Button",
       "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Yolo",
+      "url": "https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
+        "name": "Astaghfirullah",
+        "url": "https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw"
+      },
+      "artists": [
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "Astaghfirullah",
+      "url": "https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 208432,
       "name": "BETELGEUSE",
       "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
-        "name": "Astaghfirullah",
-        "url": "https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Astaghfirullah",
-      "url": "https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "In Bils We Trust",
-        "url": "https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN"
-      },
-      "artists": [
-        {
-          "name": "Bils",
-          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Influencer Girl",
-      "url": "https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
         "name": "Make It Out",
         "url": "https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL"
       },
@@ -1403,22 +1387,34 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
-        "name": "Escober (feat. Superwozzy)",
-        "url": "https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC"
+        "name": "In Bils We Trust",
+        "url": "https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN"
       },
       "artists": [
         {
-          "name": "Tobless",
-          "url": "https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk"
-        },
-        {
-          "name": "SuperWozzy",
-          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+          "name": "Bils",
+          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
         }
       ],
-      "duration_ms": 164623,
-      "name": "Escober (feat. Superwozzy)",
-      "url": "https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP"
+      "duration_ms": 120750,
+      "name": "Influencer Girl",
+      "url": "https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        }
+      ],
+      "duration_ms": 86557,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ"
     }
   ],
   "unique_name": "Naija Bars ",

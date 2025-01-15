@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348059,
+  "num_followers": 348049,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "I can always find You",
-        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
+        "name": "Sabbath",
+        "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
       },
       "artists": [
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Watobi",
+          "url": "https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj"
         }
       ],
-      "duration_ms": 226063,
-      "name": "I can always find You",
-      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
+      "duration_ms": 212133,
+      "name": "Sabbath",
+      "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -275,22 +279,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sabbath",
-        "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
+        "name": "I can always find You",
+        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
       "artists": [
         {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Watobi",
-          "url": "https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj"
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 212133,
-      "name": "Sabbath",
-      "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
+      "duration_ms": 226063,
+      "name": "I can always find You",
+      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "You Are My Salvation",
         "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 182437,
       "name": "You Are My Salvation",
       "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 378379,
-      "name": "Providence",
-      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Weight of Your Glory",
         "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 248105,
       "name": "Weight of Your Glory",
       "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 378379,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Like A Kid",
+      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "prove it",
         "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Like A Kid",
-      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Simple as That",
         "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+        "name": "The Joy of Being Together (Live)",
+        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
       },
       "artists": [
         {
-          "name": "M\u014cRIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
+      "duration_ms": 309360,
+      "name": "Altogether Good - Live",
+      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1127,22 +1143,6 @@
       "duration_ms": 259875,
       "name": "I Don't Have Much - Acoustic",
       "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "The Joy of Being Together (Live)",
-        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Altogether Good - Live",
-      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 235254,
-      "name": "Hallelujah (In Your Arms)",
-      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 197500,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 235254,
+      "name": "Hallelujah (In Your Arms)",
+      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Worship Anywhere: Live from Camp NewBreed",
-        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Certainly (Live)",
-      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "For The Ones We Love",
         "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Worship Anywhere: Live from Camp NewBreed",
+        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Certainly (Live)",
+      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "What I Wish For You",
         "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 231402,
       "name": "What I Wish For You",
       "url": "https://open.spotify.com/track/1aLe9jNRjc27rOZYUBVY8n"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
-        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Nothing but the Blood of Jesus",
-        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
+        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
+        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
       },
       "artists": [
         {
-          "name": "Lou Fellingham",
-          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
         }
       ],
-      "duration_ms": 313146,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
+      "duration_ms": 169846,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1371,26 +1355,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
+        "name": "Nothing but the Blood of Jesus",
+        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
       },
       "artists": [
         {
-          "name": "FAITHFUL",
-          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
-        },
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        },
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Lou Fellingham",
+          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
         }
       ],
-      "duration_ms": 263089,
-      "name": "Harbor",
-      "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
+      "duration_ms": 313146,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1415,6 +1391,30 @@
       "duration_ms": 254007,
       "name": "Sing Over Me",
       "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
+      },
+      "artists": [
+        {
+          "name": "FAITHFUL",
+          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
+        },
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 263089,
+      "name": "Harbor",
+      "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz"
-      },
-      "artists": [
-        {
-          "name": "Madison Hamm",
-          "url": "https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 182070,
       "name": "There Will Be A Light Again",
       "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz"
+      },
+      "artists": [
+        {
+          "name": "Madison Hamm",
+          "url": "https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R"
     },
     {
       "added_at": "2024-07-26 09:52:44",

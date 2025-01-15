@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Cole Knight \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 642628,
+  "num_followers": 642717,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -88,12 +88,12 @@
       },
       "artists": [
         {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        },
-        {
           "name": "Draxx (ITA)",
           "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
         }
       ],
       "duration_ms": 299076,
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Still My Baby",
@@ -1227,22 +1243,6 @@
       "duration_ms": 191233,
       "name": "Still My Baby",
       "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "In The Streets",
-        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "In The Streets",
-      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Snus (Tony Romera Remix)",
@@ -1395,6 +1379,22 @@
       "duration_ms": 179047,
       "name": "Snus - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Mercy",
@@ -1543,6 +1527,22 @@
       "duration_ms": 193432,
       "name": "Saving Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1953,6 +1953,22 @@
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 183234,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Mezcal Bounce",
@@ -1971,22 +1987,6 @@
       "duration_ms": 210909,
       "name": "Mezcal Bounce",
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Let The Bassline",
-        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 183234,
-      "name": "Let The Bassline",
-      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2117,26 +2117,6 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/3aDdLz2Tx2RSoVCCS0Aviw"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "ATI\u00d8PE",
-          "url": "https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "To The Club",
@@ -2199,6 +2179,26 @@
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/3aDdLz2Tx2RSoVCCS0Aviw"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "ATI\u00d8PE",
+          "url": "https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2269,22 +2269,6 @@
       "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Carry Out",
-        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Carry Out",
-      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "212",
@@ -2307,6 +2291,22 @@
       "duration_ms": 138750,
       "name": "212",
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "added_at": "2024-11-29 05:26:04",

@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Delilah en portada.",
-  "num_followers": 74738,
+  "num_followers": 74753,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+        "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica (En Las Nubes)",
+        "url": "https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+      "duration_ms": 194866,
+      "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
+      "url": "https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica (En Las Nubes)",
-        "url": "https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD"
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
-      "url": "https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6"
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Lo Que Mis Ojos Ven",
-        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 207224,
-      "name": "Lo Que Mis Ojos Ven",
-      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 205744,
       "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
       "url": "https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Lo Que Mis Ojos Ven",
+        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 207224,
+      "name": "Lo Que Mis Ojos Ven",
+      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
+        "name": "La vida pasa",
+        "url": "https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "La vida pasa",
+      "url": "https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
-        "name": "La vida pasa",
-        "url": "https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "La vida pasa",
-      "url": "https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Canci\u00f3n de Cuna Para mi Amor",
-        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Canci\u00f3n de Cuna Para mi Amor",
-      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 165960,
       "name": "Qu\u00e9 Suerte",
       "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Canci\u00f3n de Cuna Para mi Amor",
+        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Canci\u00f3n de Cuna Para mi Amor",
+      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
         "name": "Solo Los Amantes Sobreviven",
         "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 174651,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g"
     }
   ],
   "unique_name": "Cantamores",

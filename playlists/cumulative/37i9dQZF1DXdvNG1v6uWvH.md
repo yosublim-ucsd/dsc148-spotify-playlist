@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-3,925 songs - 8 day 17 hr 27 min
+3,926 songs - 8 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2908,6 +2908,7 @@
 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 | 2024-10-11 | 2024-10-12 |
 | [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-25 | 2024-11-01 |
 | [San Antonio](https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [San Antonio](https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS) | 3:03 | 2024-05-24 | 2024-06-01 |
+| [San Miguel](https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp) | [Van Dame](https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC) | [San Miguel](https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc) | 3:54 | 2025-01-10 |  |
 | [Sangen fra Shangri Lalalu](https://open.spotify.com/track/7l2Li4kuGtR3QUgKr52fyT) | [Klói](https://open.spotify.com/artist/2hfKLRFq5PdjIAoMseKlIo) | [Sangen fra Shangri Lalalu](https://open.spotify.com/album/20sze5LfGg6yoYk4OGbnAA) | 3:46 | 2024-08-02 | 2024-08-09 |
 | [Santa Baby](https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp) | 3:02 | 2024-11-01 | 2024-11-08 |
 | [Santa Is Me](https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:41 | 2024-11-22 | 2024-11-29 |
@@ -3304,7 +3305,7 @@
 | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/track/2aquitej8IO7a0hfKBjzdK) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Take Care \(feat\. Stevie Appleton\)](https://open.spotify.com/album/2ll505QGpNKTeIGYmnJsAh) | 2:47 | 2024-09-06 | 2024-09-13 |
 | [Take Kare \(feat\. Rich Gang & Lil Wayne\)](https://open.spotify.com/track/6vjmAbHHdXDSGz3Di6RmVC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 4:28 | 2025-01-03 | 2025-01-10 |
 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 | 2024-06-28 | 2024-07-05 |
-| [Take me high](https://open.spotify.com/track/2DkIs0w42rrMmpKU52PtSv) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [Take me high](https://open.spotify.com/album/1kknGqeFeuZQBek8qiprqh) | 3:26 | 2025-01-10 |  |
+| [Take me high](https://open.spotify.com/track/2DkIs0w42rrMmpKU52PtSv) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [Take me high](https://open.spotify.com/album/1kknGqeFeuZQBek8qiprqh) | 3:26 | 2025-01-10 | 2025-01-15 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-06 | 2024-09-13 |
 | [Take Me To America \- Stuzzi Remix](https://open.spotify.com/track/2JAlP7vy7OoGMc6eWrXskM) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Take Me To America \(Stuzzi Remix\)](https://open.spotify.com/album/0rt5q4jo5izn8C70dLdALr) | 4:00 | 2024-05-31 | 2024-06-07 |
 | [Take Me to My Destiny](https://open.spotify.com/track/5rhLAQjsgVdHlFsqAoqnQZ) | [Synthea Starlight](https://open.spotify.com/artist/2wdZsM5glB0zn6VwcpF6Lx), [Thoracius Appotite](https://open.spotify.com/artist/4c8kzvcEdqUMMqApnI0Cdm), [Jara](https://open.spotify.com/artist/734qzSCeccIO8fYNTOjcqM) | [The Synthea Starlight Album](https://open.spotify.com/album/2boJU4u1RUFFMuSuX0sKnB) | 4:56 | 2024-11-29 | 2024-12-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,832 likes - 47 songs - 2 hr 32 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,834 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 14 | [See Me](https://open.spotify.com/track/301nz9hDV9OQ3JfjOHJLMd) | [Viddsan](https://open.spotify.com/artist/0qKnzhd8Oiw0cwwrneG0ak) | [See Me](https://open.spotify.com/album/0TcXmpshhFGqOiSu1o7gEw) | 3:31 |
 | 15 | [Be Loved](https://open.spotify.com/track/0GOowdUNfSlircrKpfuk82) | [George.Alexander](https://open.spotify.com/artist/4T5rksB6FI1h0m66PoUBo9) | [Be Loved](https://open.spotify.com/album/05zNGc3OEMDPWFVqOaVuTU) | 3:21 |
 | 16 | [Falling For You](https://open.spotify.com/track/6ZRamwr3EPAPLijxZN2FOG) | [Vareso](https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l) | [Falling For You](https://open.spotify.com/album/7jrhkhbo0uiVHM4CqtMYjc) | 3:18 |
-| 17 | [Not To Be Bad](https://open.spotify.com/track/7BDjGbD9R3G5rFQFrBwYIS) | [Bassium](https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc) | [Not What We Have](https://open.spotify.com/album/2aS4ZZuXNmvZ0BLnKhYs4O) | 2:58 |
+| 17 | [Not To Be Bad](https://open.spotify.com/track/7BDjGbD9R3G5rFQFrBwYIS) | [Bassium](https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc) | [Not To Be Bad](https://open.spotify.com/album/2aS4ZZuXNmvZ0BLnKhYs4O) | 2:58 |
 | 18 | [Blow My Mind](https://open.spotify.com/track/0JIL3ePvUkZHCBcamWk0bl) | [Ben Renna](https://open.spotify.com/artist/5r6JYWpMM18hqLYIXtdM8p) | [Blow My Mind](https://open.spotify.com/album/5cRalSqm2Q4o5TJ29GR674) | 3:12 |
 | 19 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 |
 | 20 | [Lose It All](https://open.spotify.com/track/72MxuPaKKJodN2LyjornGc) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [Lose It All](https://open.spotify.com/album/4OKUqMTwMxwh18IDjls9fx) | 4:11 |

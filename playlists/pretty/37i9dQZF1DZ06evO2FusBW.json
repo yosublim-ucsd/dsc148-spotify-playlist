@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10482,
+  "num_followers": 10500,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABOzWE4WpD8bLRToVV4fDbJ",
+  "snapshot_id": "Z4RXgAAAAAANr2gSWQLAgPFXiQci0oUg",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Light",
-        "url": "https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 132546,
       "name": "Bee",
       "url": "https://open.spotify.com/track/77Xd7aikO9NRmzC6ISXIvY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essence of Light",
+        "url": "https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+        "name": "Hintergrundmusik zum Lesen",
+        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
+      "duration_ms": 206760,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hintergrundmusik zum Lesen",
-        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 206760,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT"
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 137213,
-      "name": "Memory of Water",
-      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 144725,
       "name": "Habibi (Love)",
       "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+      "duration_ms": 209826,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/698yyux04kySM0ezqzIQhD"
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 277208,
-      "name": "POWER OF THE SEA",
-      "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 153137,
       "name": "Evolving Memories",
       "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 277208,
+      "name": "POWER OF THE SEA",
+      "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 640321,
+  "num_followers": 640380,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2024-12-09 12:11:36",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
-        "name": "Zur\u00fcck nach R\u00f6delheim (3p Master Edition)",
-        "url": "https://open.spotify.com/album/3Rx70sfKqGTwnUwCSLciRb"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6delheim Hartreim Projekt",
-          "url": "https://open.spotify.com/artist/40VZtOKdJ2J5KzjCBUhQpJ"
-        },
-        {
-          "name": "Moses Pelham",
-          "url": "https://open.spotify.com/artist/00DSCauOVv9bIKe8bGWSTG"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "H\u00f6ha, schnella, weita",
-      "url": "https://open.spotify.com/track/5YUNatsZEDeY3SYPEaFjs3"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
         "name": "German Dream Allstars",
         "url": "https://open.spotify.com/album/0I3oXP3UnoBGzKAsyPpvxi"
       },
@@ -923,6 +903,22 @@
       "duration_ms": 301373,
       "name": "Die Abrechnung",
       "url": "https://open.spotify.com/track/3fGDoRUzlcfbawlW6aCXlz"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
+        "name": "#Beste",
+        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

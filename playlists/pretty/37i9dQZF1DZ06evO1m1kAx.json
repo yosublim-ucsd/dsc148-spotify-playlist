@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6686,
+  "num_followers": 6692,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAAgfyWWPx/KCZU04JYslkYD",
+  "snapshot_id": "Z4RXgAAAAAC8IukRGYjJr8vZ+mRYpvf5",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
-      },
-      "artists": [
-        {
-          "name": "Yokinto",
-          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 167669,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 288114,
       "name": "Street Credibility",
       "url": "https://open.spotify.com/track/74BCbm03x3JamvFUAEcVGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
+      },
+      "artists": [
+        {
+          "name": "Yokinto",
+          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 167669,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
     },
     {
       "added_at": null,

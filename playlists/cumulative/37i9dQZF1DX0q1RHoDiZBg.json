@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124066,
+      "name": "I Was Young When I Left Home",
+      "url": "https://open.spotify.com/track/0S1H3LH0tusB9raE8s2B5B"
+    },
+    {
+      "album": {
         "name": "Live in London (Live)",
         "url": "https://open.spotify.com/album/4gM5z3V8hh4I5qnMpzbbde"
       },
@@ -1042,6 +1060,28 @@
       "duration_ms": 183800,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b"
+    },
+    {
+      "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        },
+        {
+          "name": "Monica Barbaro",
+          "url": "https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "It Ain't Me, Babe",
+      "url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
     },
     {
       "album": {

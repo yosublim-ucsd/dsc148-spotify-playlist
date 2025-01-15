@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 975646,
+  "num_followers": 975860,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 338210,
       "name": "Amana",
       "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
-        "name": "Wacuka",
-        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Wacuka",
-      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
         "name": "Indulgence",
         "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 269508,
       "name": "Indulgence",
       "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
-        "name": "Verbier",
-        "url": "https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        }
-      ],
-      "duration_ms": 206054,
-      "name": "Verbier",
-      "url": "https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 263250,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
+        "name": "Verbier",
+        "url": "https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "duration_ms": 206054,
+      "name": "Verbier",
+      "url": "https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 228496,
       "name": "Where's The Music Gone",
       "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
         }
       ],
-      "duration_ms": 344369,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
+      "duration_ms": 178442,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -1103,22 +1107,6 @@
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
-        "name": "Calmy / Slowly",
-        "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
-      },
-      "artists": [
-        {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        }
-      ],
-      "duration_ms": 208690,
-      "name": "Calmy",
-      "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
     },
     {
       "added_at": "2025-01-10 05:00:15",
@@ -1143,6 +1131,38 @@
     {
       "added_at": "2025-01-10 05:00:15",
       "album": {
+        "name": "Calmy / Slowly",
+        "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        }
+      ],
+      "duration_ms": 208690,
+      "name": "Calmy",
+      "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 344369,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
+    },
+    {
+      "added_at": "2025-01-10 05:00:15",
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 254395,
       "name": "Too Far Down The Trap - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:15",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj"
-      },
-      "artists": [
-        {
-          "name": "Refeci",
-          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
-        },
-        {
-          "name": "Ren Ocean",
-          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
-        }
-      ],
-      "duration_ms": 178442,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
     },
     {
       "added_at": "2025-01-10 05:00:15",

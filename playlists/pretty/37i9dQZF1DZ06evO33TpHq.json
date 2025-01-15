@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 50551,
+  "num_followers": 50579,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAAj9S0zasRuTVpExUDHccwL",
+  "snapshot_id": "Z4RXgAAAAADBUXZzX4KdPmsP7Au/Bl1c",
   "tracks": [
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phil Wickham",
-        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 298026,
-      "name": "Divine Romance",
-      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Phil Wickham",
+        "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+      "duration_ms": 298026,
+      "name": "Divine Romance",
+      "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
     },
     {
       "added_at": null,

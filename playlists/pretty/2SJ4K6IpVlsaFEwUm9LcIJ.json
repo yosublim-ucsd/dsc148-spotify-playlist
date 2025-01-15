@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22568,
+  "num_followers": 22577,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALqaHjRRMiLD2voTecFeHe2Lz6c4Gb",
+  "snapshot_id": "AAALrqm+1Ti2JrOYl32JouV90k10Qa9G",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -75,22 +75,6 @@
       "duration_ms": 440933,
       "name": "Abstract Of Expression",
       "url": "https://open.spotify.com/track/779isqr6HQU4eGWvL8Lt59"
-    },
-    {
-      "added_at": "2025-01-11 22:36:19",
-      "album": {
-        "name": "\u00c9 Preciso Cantar",
-        "url": "https://open.spotify.com/album/6zfWPb8XtsYo2GN7pklbmm"
-      },
-      "artists": [
-        {
-          "name": "Os Originais Do Samba",
-          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Falador Passa Mal",
-      "url": "https://open.spotify.com/track/2bKOB6DLw8inrQC8UmghQN"
     },
     {
       "added_at": "2025-01-11 22:36:19",
@@ -239,6 +223,74 @@
       "duration_ms": 166906,
       "name": "Olha\u00ed",
       "url": "https://open.spotify.com/track/3KXFc8Zlr5ydDf8BzBzdVw"
+    },
+    {
+      "added_at": "2025-01-14 17:21:17",
+      "album": {
+        "name": "My Ancestors",
+        "url": "https://open.spotify.com/album/7gOFGkKA8Yxx9v0LGt7xJR"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Zebby Tembo",
+          "url": "https://open.spotify.com/artist/3I8R11HYhjJIKERAUSNXM0"
+        },
+        {
+          "name": "Ngozi Family",
+          "url": "https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Coffin Maker",
+      "url": "https://open.spotify.com/track/63KqbrdlCqaNZXXPRSwBnE"
+    },
+    {
+      "added_at": "2025-01-14 17:27:19",
+      "album": {
+        "name": "Moon Safari Rarities (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 195612,
+      "name": "Ce matin-l\u00e0 - Demo 2",
+      "url": "https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt"
+    },
+    {
+      "added_at": "2025-01-14 18:13:54",
+      "album": {
+        "name": "Early",
+        "url": "https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1"
+      },
+      "artists": [
+        {
+          "name": "Scritti Politti",
+          "url": "https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "The \"Sweetest Girl\"",
+      "url": "https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA"
+    },
+    {
+      "added_at": "2025-01-14 18:20:24",
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Love Song for Someone",
+      "url": "https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L"
     }
   ],
   "unique_name": "something new",

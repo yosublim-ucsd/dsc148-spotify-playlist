@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3064920,
+  "num_followers": 3065360,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Total Reggae: Classic Roots",
-        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
-      },
-      "artists": [
-        {
-          "name": "Sugar Minott",
-          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
         "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 175360,
       "name": "Dr. Dekker",
       "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Total Reggae: Classic Roots",
+        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
+      },
+      "artists": [
+        {
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Definitive Collection: You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Israelites",
-      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 266986,
       "name": "Love Has Found Its Way",
       "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Definitive Collection: You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
     },
     {
       "added_at": "2024-01-29 05:18:16",

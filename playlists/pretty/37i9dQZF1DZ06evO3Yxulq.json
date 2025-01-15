@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40334,
+  "num_followers": 40339,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAB/YmDbZK0MVtdyz8ccz8Cb",
+  "snapshot_id": "Z4RXgAAAAAC+zuoXkCVWxMLCers/Al+X",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 339673,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 335528,
       "name": "El Shaddai - Live",
       "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 339673,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 458993,
       "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
       "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
     },
     {
       "added_at": null,
@@ -771,42 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVANGELIO (En Vivo)",
-        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Josh Morales",
-          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        },
-        {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        },
-        {
-          "name": "Becky Collazos",
-          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
         }
       ],
-      "duration_ms": 494415,
-      "name": "Danzando (En Vivo)",
-      "url": "https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2"
+      "duration_ms": 346071,
+      "name": "Respirar del Cielo",
+      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
     },
     {
       "added_at": null,
@@ -847,6 +823,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        }
+      ],
+      "duration_ms": 494415,
+      "name": "Danzando (En Vivo)",
+      "url": "https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco Amor (Spanish Version)",
         "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 303373,
       "name": "Loco Amor - Spanish Version",
       "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 346071,
-      "name": "Respirar del Cielo",
-      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
     },
     {
       "added_at": null,

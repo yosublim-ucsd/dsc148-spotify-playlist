@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-755 songs - 1 day 8 hr 12 min
+757 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-04-22 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-04-21 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-07-15 | 2023-04-22 |
-| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 |  |
+| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 | 2025-01-15 |
 | [Before We Go](https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:49 | 2024-02-02 |  |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-04-22 |
 | [Believer](https://open.spotify.com/track/3mA4fggOpZDCXfJ9cRZ4Gu) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/3MxRSWPr4OfBtPGUgImiUq) | 2:11 | 2023-04-21 | 2023-10-31 |
@@ -226,6 +226,7 @@
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2023-04-21 | 2023-08-26 |
 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 | 2022-07-15 | 2022-10-29 |
+| [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 | 2025-01-13 |  |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2023-04-21 |  |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2023-04-21 | 2023-06-23 |
 | [Fading Daylight](https://open.spotify.com/track/2wgl16cBADyWzzRVpwd919) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Fading Daylight](https://open.spotify.com/album/1PF8aTQ7u5DiOywsUFUJSB) | 2:55 | 2023-03-31 | 2023-04-22 |
@@ -245,6 +246,7 @@
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-26 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-07-15 | 2023-04-22 |
 | [Finally Home](https://open.spotify.com/track/3pnosLGt9HFkwCCSrP3SvV) | [Matteo Palmer](https://open.spotify.com/artist/4eOsxaC4lj75U7Qtcbxwn8) | [Finally Home](https://open.spotify.com/album/7p32mbdnUWUY50DzktIjzw) | 1:51 | 2023-04-21 | 2023-06-09 |
+| [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-13 |  |
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 | 2023-08-26 |
 | [First Summer](https://open.spotify.com/track/5CN8PwywMgClQGFVARHVLa) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [First Summer](https://open.spotify.com/album/6iPLLciakfCdwUj7KReQZJ) | 3:02 | 2024-06-07 |  |
 | [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 | 2023-03-03 |
@@ -287,7 +289,7 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 | 2023-06-03 |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2023-04-21 | 2023-05-13 |
-| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 |  |
+| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 | 2025-01-15 |
 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 | 2023-04-28 |
 | [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 | 2023-04-21 | 2024-04-19 |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2023-04-21 |  |

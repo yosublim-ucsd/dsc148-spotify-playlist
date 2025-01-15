@@ -9111,6 +9111,24 @@
     },
     {
       "album": {
+        "name": "eYeSiGht",
+        "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "eYeSiGht",
+      "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
+    },
+    {
+      "album": {
         "name": "Factory",
         "url": "https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u"
       },

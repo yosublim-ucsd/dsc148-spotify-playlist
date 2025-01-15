@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Catchy Love",
+        "url": "https://open.spotify.com/album/2rM1cO5kYKd8DBToKgIY5v"
+      },
+      "artists": [
+        {
+          "name": "Chops & Coda",
+          "url": "https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Catchy Love",
+      "url": "https://open.spotify.com/track/4lL9ndZad8q5IwyoZgR8nt"
+    },
+    {
+      "album": {
         "name": "Central Park West",
         "url": "https://open.spotify.com/album/1Xd4fshsUde1v2UWCLLLMa"
       },
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 158500,
       "name": "For Jan",
       "url": "https://open.spotify.com/track/5NG4mBMnXbStVPm8eWydDy"
@@ -7510,7 +7528,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 263530,
       "name": "Le jardin de l'espoir",
       "url": "https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN"
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 210960,
       "name": "Little Bell",
       "url": "https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng"
@@ -10480,7 +10498,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 190168,
       "name": "Perception Through A Crystal Orb",
       "url": "https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK"
@@ -13034,7 +13052,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 200751,
       "name": "The Art of Letting Go",
       "url": "https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8"
@@ -14031,6 +14049,24 @@
     },
     {
       "album": {
+        "name": "Through Times",
+        "url": "https://open.spotify.com/album/6oqPm8bjYO7yhh2tShCPgm"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232407,
+      "name": "Through Times",
+      "url": "https://open.spotify.com/track/75pGCO1kZ1n5t59uwehhQi"
+    },
+    {
+      "album": {
         "name": "Thursday Afternoon",
         "url": "https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1"
       },
@@ -14834,7 +14870,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 152099,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c"
@@ -14978,7 +15014,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 192329,
       "name": "What A Lovely Day",
       "url": "https://open.spotify.com/track/3D1jCXLmt2EMpNUjYS3pl8"
@@ -15392,7 +15428,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 179424,
       "name": "Whitehall Gardens",
       "url": "https://open.spotify.com/track/1TUqjCJdD9GvReZr3IpOkl"
@@ -15990,6 +16026,24 @@
       "duration_ms": 162769,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/03M7H0z2xqFrcHhohJUGoC"
+    },
+    {
+      "album": {
+        "name": "You, in the Sunlight",
+        "url": "https://open.spotify.com/album/5hdG3zNAjg9lT1HZbg7ggD"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236509,
+      "name": "You, in the Sunlight",
+      "url": "https://open.spotify.com/track/1HWpBHzzL472I3He0xmyEf"
     },
     {
       "album": {

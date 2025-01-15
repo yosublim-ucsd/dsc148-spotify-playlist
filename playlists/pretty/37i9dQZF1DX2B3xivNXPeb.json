@@ -1,6 +1,6 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 48291,
+  "num_followers": 48293,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Tears For Fun",
-      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "Our Way",
         "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
       },
@@ -719,38 +703,6 @@
       "duration_ms": 185552,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -771,18 +723,50 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+      "duration_ms": 196363,
+      "name": "Tears For Fun",
+      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -799,6 +783,22 @@
       "duration_ms": 155761,
       "name": "Betting on Us",
       "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Make It Up To You (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Make It Up To You (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Still The Same",
-        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "Still The Same",
-      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "Alienated",
         "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 247613,
       "name": "Alienated",
       "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Falling Into Place (ft. Debbie)",
-        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Falling Into Place (ft. Debbie)",
-      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 262000,
       "name": "Bet On Beauty",
       "url": "https://open.spotify.com/track/2oX4mCEcN2oV6F48gtcHMe"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Falling Into Place (ft. Debbie)",
+        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Falling Into Place (ft. Debbie)",
+      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "end game",
-        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "end game",
-      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "I'm Not Gonna Cry",
         "url": "https://open.spotify.com/album/6ksCmxzTjmJcRKWMwbMQpy"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 164646,
       "name": "I'm Not Gonna Cry",
       "url": "https://open.spotify.com/track/01A1pyqiQN7eCt25ZVClKz"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "end game",
+        "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "end game",
+      "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI"
-      },
-      "artists": [
-        {
-          "name": "Fordo",
-          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
-        }
-      ],
-      "duration_ms": 158019,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "When You Were Mine",
         "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "duration_ms": 158019,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "Parked Car Conversations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4NT4YMnOYMc29uJqQjgS1p"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Natural Disaster",
-      "url": "https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "30 Degrees",
         "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 188164,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "Parked Car Conversations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4NT4YMnOYMc29uJqQjgS1p"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B"
     },
     {
       "added_at": "2024-12-20 14:56:16",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-12-20 14:56:16",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-12-20 14:56:16",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 231325,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj"
+    },
+    {
+      "added_at": "2024-12-20 14:56:16",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2024-12-20 14:56:16",

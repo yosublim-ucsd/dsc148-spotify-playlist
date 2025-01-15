@@ -1,13 +1,53 @@
 {
   "description": "",
-  "num_followers": 30728,
+  "num_followers": 30738,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPwVu7/g8dNGXC0byTAHSIJWtVREo9",
+  "snapshot_id": "AAAPypBXCtHfLJqFzaehf20ItbQ3STDz",
   "tracks": [
+    {
+      "added_at": "2025-01-14 12:23:39",
+      "album": {
+        "name": "CHROMA 008",
+        "url": "https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 312307,
+      "name": "CHROMA 008 TANGZ",
+      "url": "https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b"
+    },
+    {
+      "added_at": "2025-01-14 12:23:14",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
     {
       "added_at": "2024-11-26 10:34:33",
       "album": {
@@ -763,22 +803,6 @@
       "duration_ms": 177770,
       "name": "I Have Nothing More To Tell You",
       "url": "https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW"
-    },
-    {
-      "added_at": "2024-11-29 09:27:43",
-      "album": {
-        "name": "Wonderful Christmastime",
-        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: JADE",
-  "num_followers": 195977,
+  "num_followers": 196289,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpeAAAAADjnHRHwnNf6CYIuP5270FG",
+  "snapshot_id": "Z4XoSAAAAADSN79Ooku2jZdqt3mPuLY5",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:40",
@@ -23,6 +23,22 @@
       "duration_ms": 153718,
       "name": "IT girl",
       "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "added_at": "2025-01-14 04:30:00",
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1427,30 +1443,6 @@
       "duration_ms": 187683,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "DANCE THROUGH THE NIGHT (with Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "DANCE THROUGH THE NIGHT (with Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX"
     },
     {
       "added_at": "2024-08-18 21:26:47",

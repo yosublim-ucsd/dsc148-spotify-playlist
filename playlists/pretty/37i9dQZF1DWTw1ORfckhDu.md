@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SHRTY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,727 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,751 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 13 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
 | 14 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
 | 15 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 16 | [Hellcat](https://open.spotify.com/track/1h5PLDRhFtTo1RqEj1nx3w) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [Hellcat](https://open.spotify.com/album/2IE8s3W5UUk3uVk3qDbg6B) | 2:34 |
-| 17 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
+| 16 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
+| 17 | [Hellcat](https://open.spotify.com/track/1h5PLDRhFtTo1RqEj1nx3w) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [Hellcat](https://open.spotify.com/album/2IE8s3W5UUk3uVk3qDbg6B) | 2:34 |
 | 18 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 19 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 |
 | 20 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Sut](https://open.spotify.com/track/0tf1KvEZyNBh7P84KVIcV2) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [houseparty](https://open.spotify.com/album/0wA2eLyY8Y3S8eR65lkK15) | 2:52 |
 | 50 | [Bite \(feat\. Stafa\)](https://open.spotify.com/track/099wTMXZWRPMAouf9F46KO) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Bite \(feat\. Stafa\)](https://open.spotify.com/album/5LXIn85yzAwCSCpcq9RNe9) | 2:05 |
 
-Snapshot ID: `Z4S6gQAAAACemqbjuolTxPZVS2KSB2kM`
+Snapshot ID: `Z4aJCwAAAABhReQZglQGxTzBy6ya50cX`

@@ -4,7 +4,7 @@
 
 > Baustelle in cover della playlist con il meglio dell’indie italiano 🔥
 
-180 songs - 9 hr 21 min
+181 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Vele Spiegate](https://open.spotify.com/track/3LVDkHER2X6n0xIIN8E6b3) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [A Vele Spiegate](https://open.spotify.com/album/4FO5fjqOFxSH7wP5DOQ8l0) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Alaska](https://open.spotify.com/track/2rUvFkePq1K0WbW9uZ64oY) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Alaska](https://open.spotify.com/album/2I5DAwuxdzjCaTI1gvdtWH) | 2:26 | 2024-11-07 |  |
-| [Alta marea](https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Alta marea](https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x) | 2:51 | 2024-06-27 |  |
+| [Alta marea](https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Alta marea](https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x) | 2:51 | 2024-06-27 | 2025-01-15 |
 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 | 2024-12-05 |  |
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-07 |  |
 | [Ammore Pe Na Sera](https://open.spotify.com/track/5DsuqCkFb3V2PNN1qAzHGN) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Ammore Pe Na Sera](https://open.spotify.com/album/01mSfOLM1Wm0eAZWxfg3kD) | 3:30 | 2024-06-27 | 2024-07-27 |
@@ -116,6 +116,7 @@
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 |  |
 | [Non mi scorderò mai](https://open.spotify.com/track/1DYiPoPpdw05UhF1XCKg7s) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Non mi scorderò mai](https://open.spotify.com/album/1yxkuzMamnrOFqDzYaF6ft) | 2:19 | 2024-10-24 | 2025-01-10 |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-06-27 | 2024-08-23 |
+| [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 | 2025-01-14 |  |
 | [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [occhisalsadisoia](https://open.spotify.com/track/5GGONR3S3gJtarebmj2ISa) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [occhisalsadisoia](https://open.spotify.com/album/45vBnHTbeRody869Dgz3hH) | 2:34 | 2024-12-05 |  |
 | [Oh No \(feat\. Lamante\)](https://open.spotify.com/track/37uonfB3PWieMnGtySRZIo) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:43 | 2024-12-19 | 2024-12-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 28542,
+  "num_followers": 28543,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAABgQUicpTQ0SubB9LfcP0bm",
+  "snapshot_id": "Z4RXgAAAAAAl6RQtOw10KXrlQMY1lTzT",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 147493,
-      "name": "Bring Me Home",
-      "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
+      "duration_ms": 199589,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 199589,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
+      "duration_ms": 147493,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     },
     {
       "added_at": null,

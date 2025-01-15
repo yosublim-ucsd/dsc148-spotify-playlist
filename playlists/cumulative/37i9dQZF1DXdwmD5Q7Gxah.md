@@ -4,7 +4,7 @@
 
 > japanese breakfast 🕯️🎀✨🍇
 
-3,128 songs - 7 day 1 hr 44 min
+3,129 songs - 7 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-11-03 | 2024-01-11 |
 | [Alone At Last](https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:57 | 2024-02-27 | 2024-08-24 |
 | [Alone in My Room](https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 4:41 | 2023-10-11 | 2023-11-11 |
-| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-07-12 |  |
+| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-07-12 | 2025-01-15 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 |  |
 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 | 2022-04-08 | 2022-04-22 |
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2021-11-13 |
@@ -288,6 +288,7 @@
 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 | 2022-08-24 | 2022-10-26 |
 | [Behind The Curtain](https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Behind The Curtain](https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM) | 2:37 | 2024-09-06 | 2024-10-26 |
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2022-04-12 | 2022-12-24 |
+| [Bel Air](https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Paradise](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) | 3:57 | 2025-01-14 |  |
 | [Believe](https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Believe](https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ) | 3:44 | 2024-05-10 | 2024-08-24 |
 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-07-21 | 2022-07-30 |
 | [Believe That](https://open.spotify.com/track/3jk0Bu14ZXXdd5z6PhpIiw) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:53 | 2021-05-15 | 2021-05-22 |

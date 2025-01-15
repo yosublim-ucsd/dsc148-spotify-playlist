@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Adnan Dhool
 
-290 songs - 15 hr 39 min
+291 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2022-07-18 |  |
 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 | 2024-01-03 | 2024-04-19 |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2024-01-03 | 2024-02-23 |
+| [Tu Ru Ruu](https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Ru Ruu](https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG) | 3:05 | 2025-01-14 |  |
 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 | 2024-08-09 |  |
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2021-11-11 | 2022-07-19 |
 | [Turri Jandi](https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Turri Jandi](https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU) | 4:26 | 2024-06-21 |  |

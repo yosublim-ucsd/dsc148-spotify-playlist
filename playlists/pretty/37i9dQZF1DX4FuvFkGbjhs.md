@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,352 likes - 124 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,339 likes - 124 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

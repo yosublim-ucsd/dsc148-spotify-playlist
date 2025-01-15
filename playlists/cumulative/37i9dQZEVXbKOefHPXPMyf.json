@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 291063,
       "name": "20 Veces",
       "url": "https://open.spotify.com/track/44yf1tgi5vg8lR2EULi1gs"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 206492,
       "name": "5 Years Of Finder - Carl Cox Remix Edit",
       "url": "https://open.spotify.com/track/5O5Dw4CfzDt1aV6UKq5xpk"
@@ -5750,7 +5750,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -5768,7 +5768,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -14128,7 +14128,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 195293,
       "name": "Deportivo",
       "url": "https://open.spotify.com/track/5uYAJlNp8ZmGPdkrhMwmLM"
@@ -16451,6 +16451,28 @@
     },
     {
       "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146857,
+      "name": "el ingeniero",
+      "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
+    },
+    {
+      "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
       },
@@ -17446,7 +17468,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -19684,7 +19706,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 206492,
       "name": "Finder - Carl Cox Remix Edit",
       "url": "https://open.spotify.com/track/58aSEVveLPGAGoyzYNgUHt"
@@ -19992,6 +20014,24 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
+        "name": "Fly Me To The Moon (Remix)",
+        "url": "https://open.spotify.com/album/6yjoXKVJoCqLAFyE9WBKED"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Fly Me To The Moon - Remix",
+      "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
     },
     {
       "album": {
@@ -25356,7 +25396,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 416071,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/2ETQwLrANRZgSANB5vS8ks"
@@ -30574,10 +30614,28 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "LUCETE (EL JAY x EL YEYO PP)",
       "url": "https://open.spotify.com/track/5GH8Hrm6abcX9AFUTExX2f"
+    },
+    {
+      "album": {
+        "name": "LUCETE RMX (EL JAY-YEYOPP-VALENTINO-LADELE-ELTY-EL ZETA-DON PABLO MURES)",
+        "url": "https://open.spotify.com/album/3Q53xBpMAEXM8wtWQuTz1r"
+      },
+      "artists": [
+        {
+          "name": "FKNR",
+          "url": "https://open.spotify.com/artist/7kXPp6rf4OqG2nyZaNMzMG"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349233,
+      "name": "LUCETE RMX (EL JAY-YEYOPP-VALENTINO-LADELE-ELTY-EL ZETA-DON PABLO MURES)",
+      "url": "https://open.spotify.com/track/7o3dhes7nBkOAjUfdoptTi"
     },
     {
       "album": {
@@ -30724,7 +30782,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -30922,7 +30980,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -30952,7 +31010,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -32484,7 +32542,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -39642,7 +39700,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 215327,
       "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
       "url": "https://open.spotify.com/track/2qfwJirVvrA8bVvq9zH7yB"
@@ -40632,7 +40690,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 185834,
       "name": "Pero Te Quiero",
       "url": "https://open.spotify.com/track/2BPqm5yVZhXpQmZhoAw6Ql"
@@ -41116,6 +41174,24 @@
       "duration_ms": 305571,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/04we6bkRB2aRfmfNbf1Jc3"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/14QaXYIK3K3QPtezqxRRPN"
     },
     {
       "album": {
@@ -43143,6 +43219,28 @@
     },
     {
       "album": {
+        "name": "Quiero Contarte (from the Prime Video Original Movie CULPA TUYA)",
+        "url": "https://open.spotify.com/album/57cxuiuQ81uxedApVcbit1"
+      },
+      "artists": [
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "Quiero Contarte (from the Prime Video Original Movie CULPA TUYA)",
+      "url": "https://open.spotify.com/track/3rS46EYsF234vb3QM2iT2N"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
         "url": "https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw"
       },
@@ -43352,7 +43450,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -53827,6 +53925,28 @@
     },
     {
       "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "tranqui, te puedes enamorar",
+      "url": "https://open.spotify.com/track/5L7Cj7HFf7YcCb9GU1ySDt"
+    },
+    {
+      "album": {
         "name": "El 6EI66EI6",
         "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
       },
@@ -53952,7 +54072,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -55002,7 +55122,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 171958,
       "name": "ultravioleta",
       "url": "https://open.spotify.com/track/46NLD3Ob73bKRZoCh2xmEz"
@@ -55402,6 +55522,28 @@
       "duration_ms": 284421,
       "name": "Una Hoja en Blanco",
       "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "una noche",
+      "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
     },
     {
       "album": {
@@ -56428,7 +56570,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 366514,
       "name": "VEN DEVORAME OTRA VEZ",
       "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
@@ -57784,6 +57926,24 @@
       "duration_ms": 252920,
       "name": "We Still Don't Trust You",
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
+    },
+    {
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "album": {

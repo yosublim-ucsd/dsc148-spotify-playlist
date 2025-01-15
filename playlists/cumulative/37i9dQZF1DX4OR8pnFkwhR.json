@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "\u4eca\u5e74\u98db\u8e8d\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2025\u300d\u3092\u767a\u8868\uff01 Cover: 7co",
+  "description": "\u4eca\u5e74\u98db\u8e8d\u3092\u671f\u5f85\u3059\u308b\u6b21\u4e16\u4ee3\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u300cRADAR: Early Noise 2025\u300d\u3092\u767a\u8868\uff01 Cover: \u4e43\u7d2b",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "WiND",
+        "url": "https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "CALL, CALL",
+      "url": "https://open.spotify.com/track/4pXiT1DrnAz48GdmtitnWv"
+    },
+    {
+      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 239819,
       "name": "Clock Hands",
       "url": "https://open.spotify.com/track/0UM1h6MsQbDkA6qc1h6h39"
@@ -11613,6 +11631,28 @@
     },
     {
       "album": {
+        "name": "Nightglow Dreamer",
+        "url": "https://open.spotify.com/album/4KGHyHDeaPt8Ee9BOS9DAD"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269516,
+      "name": "Nightglow Dreamer",
+      "url": "https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr"
+    },
+    {
+      "album": {
         "name": "nitari",
         "url": "https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE"
       },
@@ -18450,7 +18490,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 228625,
       "name": "Windy You",
       "url": "https://open.spotify.com/track/18wbmQvRyObnoxpiyxAOE0"

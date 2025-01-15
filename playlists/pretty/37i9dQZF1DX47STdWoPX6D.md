@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Trip Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,550 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,573 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 33 | [Anointed](https://open.spotify.com/track/6V9fLB9uDbacLCqg3Bwz0A) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Young C](https://open.spotify.com/artist/3jTD8sMuIA35Rw9PRrOE5L), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR) | [Anointed](https://open.spotify.com/album/65YOR163Z3fnH9JZbhVt1n) | 2:41 |
 | 34 | [RIO](https://open.spotify.com/track/2Q1bfpjE2DwKnn6yLIYZdZ) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [RIO](https://open.spotify.com/album/3Mwopb9Q2Sf0vks90nd4uw) | 2:56 |
 | 35 | [UNDO](https://open.spotify.com/track/0G0R90gEITnIwlCrIM2VuU) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [UNDO](https://open.spotify.com/album/4MjKrHApY7M2ZeeCqjlQEP) | 3:07 |
-| 36 | [POP OFF](https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm) | [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Petrina Delacy](https://open.spotify.com/artist/31OwRnV5G6RFpuGKc4z35T) | [POP OFF](https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs) | 3:29 |
+| 36 | [POP OFF](https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm) | [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [POP OFF](https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs) | 3:29 |
 | 37 | [Never Change Freestyle](https://open.spotify.com/track/6PxbVDlzof61pJC22vkhP4) | [Cellus Hamilton](https://open.spotify.com/artist/5NwZi7VTgJ1nQ0FLkrNuuT) | [Never Change Freestyle](https://open.spotify.com/album/433ahLCCdZDowh14H3OZPz) | 3:12 |
 | 38 | [Not One](https://open.spotify.com/track/2oy7FQhsjhwdcegJ1dagcA) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Not One](https://open.spotify.com/album/1k1PSqQeK7qHKNnlAqLVRG) | 2:29 |
 | 39 | [FR \(Fo'Real\)](https://open.spotify.com/track/5tDAICqIsHqL3iJkabzA5d) | [Jaye Newton](https://open.spotify.com/artist/0jyLAdlvH1S5AZOly5c6TL) | [FR \(Fo'Real\)](https://open.spotify.com/album/4ZNm3HQscMsx9osd8EKUg5) | 3:27 |

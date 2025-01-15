@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-892 songs - 2 day 2 hr 40 min
+893 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 | 2023-04-25 |
 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-14 | 2024-01-11 |
-| [Bunny Hop](https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bunny Hop](https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4) | 3:09 | 2024-10-07 |  |
+| [Bunny Hop](https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bunny Hop](https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4) | 3:09 | 2024-10-07 | 2025-01-15 |
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
@@ -241,7 +241,7 @@
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [EXHALE](https://open.spotify.com/track/2HpWscyVyXAeiSbEa9SVkS) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EXHALE](https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA) | 2:59 | 2024-10-15 |  |
 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 | 2024-09-12 |
-| [EYES ON ME \- Sped Up](https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME \(Sped Up\)](https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF) | 3:25 | 2024-10-07 |  |
+| [EYES ON ME \- Sped Up](https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME \(Sped Up\)](https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF) | 3:25 | 2024-10-07 | 2025-01-15 |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
@@ -371,6 +371,7 @@
 | [i can feel your eyes on me](https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:23 | 2022-12-03 | 2023-02-25 |
 | [I Don't Mind](https://open.spotify.com/track/1qZaxI41cw3Px4UpJlB5CU) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3) | [I Don't Mind](https://open.spotify.com/album/4gMm64L99dgOqHqHiBxjyb) | 3:33 | 2024-06-04 | 2024-08-27 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
+| [I Know](https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [I Know](https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj) | 3:26 | 2025-01-14 |  |
 | [I Love You](https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [I Love You](https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs) | 3:02 | 2022-09-16 | 2022-11-15 |
 | [I Walk This Earth All By Myself](https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [I Walk This Earth All By Myself](https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo) | 4:31 | 2023-07-14 | 2023-12-14 |
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |

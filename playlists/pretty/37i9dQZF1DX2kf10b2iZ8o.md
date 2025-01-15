@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain](/playlists/plain/37i9dQZF1DX2kf10b2iZ8o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2kf10b2iZ8o)
 
-### [THE IDOLM@STER SideM アイドルマスター SideM](https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o)
+### [THE IDOLM@STER SideM](https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o)
 
-> Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
+> Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,632 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,634 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [DRIVE A LIVE](https://open.spotify.com/track/7KSn84SXhLWyibpChERxyq) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR](https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz) | 4:44 |
 | 75 | [Café Parade!](https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM ST@RTING LINE\-10 Café Parade](https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f) | 4:44 |
 
-Snapshot ID: `Z1hXcAAAAABdGvDBjA4pUt134WcwZ9Qg`
+Snapshot ID: `Z4aJSQAAAACJgUeAiYQ3UkARmmBHTJS3`

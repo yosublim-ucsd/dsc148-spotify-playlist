@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista. Kannessa Metallica.",
+  "description": "Suomen suurin ja paras rock-soittolista. Kannessa One Morning Left.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O"
+      },
+      "artists": [
+        {
+          "name": "Living in Fiction",
+          "url": "https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU"
+    },
+    {
+      "album": {
         "name": "Living in America (US version)",
         "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
       },
@@ -1760,6 +1778,24 @@
       "duration_ms": 219805,
       "name": "Pulssi",
       "url": "https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160737,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Laundry Day
 
-2,019 songs - 4 day 10 hr 50 min
+2,020 songs - 4 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-07 | 2022-12-10 |
 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-08 | 2024-01-27 |
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2022-10-07 | 2022-10-22 |
+| [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-12 |  |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2020-10-16 | 2022-06-15 |
 | [Adult Movies](https://open.spotify.com/track/5k3bwPbg6Kiz4bz76vRnyZ) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Adult Movies](https://open.spotify.com/album/4z4K18jaiyHHjSUthRrPC9) | 3:15 | 2021-08-13 | 2022-07-02 |
@@ -209,7 +210,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-21 |  |
 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 | 2021-09-07 | 2021-09-08 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2022-04-02 |
-| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 |  |
+| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 | 2025-01-15 |
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-04 | 2022-04-21 |
 | [bittersweet](https://open.spotify.com/track/4tMx9TwsMwvPKJKpQZcxDV) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [bittersweet](https://open.spotify.com/album/4uoI23bnRkWOMWg3N2kOQk) | 2:39 | 2020-12-12 | 2021-05-22 |
 | [Bittersweet](https://open.spotify.com/track/4ta3ER79lukFz9hlXWXi1T) | [Sam Soto](https://open.spotify.com/artist/6akrLhq0XQbqmnZHNveotT) | [Bittersweet](https://open.spotify.com/album/5iB4qrVCjjAJLS3ZEqa1CH) | 3:40 | 2020-10-13\* | 2020-11-10 |

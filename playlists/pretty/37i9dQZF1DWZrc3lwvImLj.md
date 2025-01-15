@@ -4,37 +4,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,704 likes - 192 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,796 likes - 192 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two birds](https://open.spotify.com/track/66s4fv5w7UUF3mF78bsxTX) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Two birds](https://open.spotify.com/album/2wE6gH2DFlaP0mEEUZcU4M) | 2:33 |
 | 2 | [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 |
 | 3 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
-| 4 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
-| 5 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
+| 4 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
+| 5 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
 | 6 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 7 | [If We Ever Meet](https://open.spotify.com/track/2QVXJu9tVTz8lsQ2Ht3m0s) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [If We Ever Meet](https://open.spotify.com/album/45HfYhWidhCh79nKsklHQL) | 2:20 |
-| 8 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
-| 9 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
-| 10 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
-| 11 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 7 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 8 | [If We Ever Meet](https://open.spotify.com/track/2QVXJu9tVTz8lsQ2Ht3m0s) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [If We Ever Meet](https://open.spotify.com/album/45HfYhWidhCh79nKsklHQL) | 2:20 |
+| 9 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
+| 10 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
+| 11 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
 | 12 | [Ma Dette Envers Toi](https://open.spotify.com/track/7A92FFdkNRvdXiYgI5Ohgr) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Ma Dette Envers Toi](https://open.spotify.com/album/233emtLMcu5tl9chdIbThW) | 3:49 |
 | 13 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 |
 | 14 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
-| 15 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 |
-| 16 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 |
-| 17 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
-| 18 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
-| 19 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
-| 20 | [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 |
-| 21 | [Soon](https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u) | [Mischa](https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU) | [Soon](https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu) | 2:06 |
-| 22 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
-| 23 | [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 |
-| 24 | [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 |
-| 25 | [Endless Sky](https://open.spotify.com/track/4rsY7jFszjXimu33ADbCCq) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Endless Sky](https://open.spotify.com/album/6dSr4FlZ4WECgPfS3KKtoo) | 2:50 |
-| 26 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
-| 27 | [Dreams of a Silent Fjord](https://open.spotify.com/track/1VcE5vUj3cVzhWKWufB7V8) | [Ely Ève](https://open.spotify.com/artist/4tcvZoHbBrHpRZMhL8E9ku) | [Dreams of a Silent Fjord](https://open.spotify.com/album/4HP1M85hC3a7WBjKDwwDOX) | 2:10 |
+| 15 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
+| 16 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 |
+| 17 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 |
+| 18 | [Soon](https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u) | [Mischa](https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU) | [Soon](https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu) | 2:06 |
+| 19 | [Endless Sky](https://open.spotify.com/track/4rsY7jFszjXimu33ADbCCq) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Endless Sky](https://open.spotify.com/album/6dSr4FlZ4WECgPfS3KKtoo) | 2:50 |
+| 20 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
+| 21 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
+| 22 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
+| 23 | [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 |
+| 24 | [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 |
+| 25 | [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 |
+| 26 | [Dreams of a Silent Fjord](https://open.spotify.com/track/1VcE5vUj3cVzhWKWufB7V8) | [Ely Ève](https://open.spotify.com/artist/4tcvZoHbBrHpRZMhL8E9ku) | [Dreams of a Silent Fjord](https://open.spotify.com/album/4HP1M85hC3a7WBjKDwwDOX) | 2:10 |
+| 27 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
 | 28 | [No borders](https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [No borders](https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi) | 2:36 |
 | 29 | [Healing a Wing](https://open.spotify.com/track/5zZPRScC5O9ygYRZJJitVJ) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Healing a Wing](https://open.spotify.com/album/1wbXWuLylQrPKdpGauLt8C) | 2:20 |
 | 30 | [Skyfall](https://open.spotify.com/track/4JzVjv7Sx2suKR6S2zx1uJ) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Skyfall](https://open.spotify.com/album/0g2d58nz0FQr8ZfLILpfb4) | 2:25 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 191 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 | 192 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 |
 
-Snapshot ID: `Z30IyAAAAAAekLJ7GPs+z6aHHz1cBLpG`
+Snapshot ID: `Z4Y6OwAAAAC09arZuH/FHUKC6HnWVIDd`

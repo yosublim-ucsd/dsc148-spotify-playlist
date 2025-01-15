@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7142,
+  "num_followers": 7148,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "No Room For Love",
-        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "No Room For Love",
-      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 218454,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "No Room For Love",
+        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "No Room For Love",
+      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -587,8 +587,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+        "name": "I Turn To You",
+        "url": "https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
         }
       ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+      "duration_ms": 176435,
+      "name": "I Turn To You",
+      "url": "https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -683,8 +683,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "I Turn To You",
-        "url": "https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg"
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
         }
       ],
-      "duration_ms": 176435,
-      "name": "I Turn To You",
-      "url": "https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI"
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "I\u2019ll Think of You",
-      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Should\u2019ve Danced More",
         "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 201026,
       "name": "I Should\u2019ve Danced More",
       "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "I\u2019ll Think of You",
+      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "I Don't Know Love",
+        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "I Don\u2019t Know Love",
+      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
@@ -879,38 +895,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "I Don't Know Love",
-        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "I Don\u2019t Know Love",
-      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Rear View",
         "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "THE ONE AFTER ME",
-        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 147859,
-      "name": "COFFEE REMIX",
-      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "glued to the floor",
         "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 138953,
       "name": "glued to the floor",
       "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "THE ONE AFTER ME",
+        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 147859,
+      "name": "COFFEE REMIX",
+      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
     },
     {
       "added_at": "2024-02-08 23:00:00",

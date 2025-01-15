@@ -3543,6 +3543,32 @@
     },
     {
       "album": {
+        "name": "Chin Chan Chon",
+        "url": "https://open.spotify.com/album/4NC8qDQo2gdBV1B7STADAX"
+      },
+      "artists": [
+        {
+          "name": "Mala Santa",
+          "url": "https://open.spotify.com/artist/26IeIGjoYZ4QOLFY3TWyve"
+        },
+        {
+          "name": "Alan Marcos",
+          "url": "https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t"
+        },
+        {
+          "name": "Falsetto",
+          "url": "https://open.spotify.com/artist/0D32yLpOpAgkcrGs4C14LO"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237473,
+      "name": "Chin Chan Chon",
+      "url": "https://open.spotify.com/track/4eFlZPv1mbhwGcXM03Qfok"
+    },
+    {
+      "album": {
         "name": "Chingar (Remix)",
         "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
       },
@@ -6868,7 +6894,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 120000,
       "name": "Faldita ALO",
       "url": "https://open.spotify.com/track/6PI2ixIOiD6OkAm214UirV"
@@ -9187,6 +9213,32 @@
     },
     {
       "album": {
+        "name": "La Chinita de los Ojos Caf\u00e9s (Remix)",
+        "url": "https://open.spotify.com/album/6caKnOZanBPl74YHKnDjC1"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279130,
+      "name": "La Chinita de los Ojos Caf\u00e9s - Remix",
+      "url": "https://open.spotify.com/track/51evcf64CFRXKBlTN8bT80"
+    },
+    {
+      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -10346,7 +10398,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 156631,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/3Y3aU99NXGwT9oLkwAXJGG"
@@ -16058,7 +16110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 138167,
       "name": "PTLM",
       "url": "https://open.spotify.com/track/1QmoQc8Zzu4hzcIBPA1Li6"
@@ -16378,7 +16430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 171061,
       "name": "Que Haces Hoy",
       "url": "https://open.spotify.com/track/3KBXMH1QJPgB5ulcct75Ft"
@@ -17330,7 +17382,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 171340,
       "name": "Robarte",
       "url": "https://open.spotify.com/track/2JFL27DakpH47L9QOPOn1m"
@@ -18693,6 +18745,28 @@
     },
     {
       "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/2763GPh6sRpKLmNnCGqsI4"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5qR6uVPoKeSnc2KEBRzNaw"
+    },
+    {
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -18760,7 +18834,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 228888,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/6yOQcRKYZsiv67ddil2gf5"
@@ -19126,6 +19200,36 @@
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
+    },
+    {
+      "album": {
+        "name": "TE COMO TOA (feat. Matt Hunter)",
+        "url": "https://open.spotify.com/album/6ouDd9ZRWwHW4aYSNp8Abm"
+      },
+      "artists": [
+        {
+          "name": "CRISMOLAVISION",
+          "url": "https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "TE COMO TOA (feat. Matt Hunter)",
+      "url": "https://open.spotify.com/track/71dUQtqnhVDwixg3tg70O3"
     },
     {
       "album": {
@@ -20803,6 +20907,32 @@
     },
     {
       "album": {
+        "name": "VOLTIOS",
+        "url": "https://open.spotify.com/album/2D33Z54IlB6XaUKj5kfIeZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Estefo",
+          "url": "https://open.spotify.com/artist/5UV7gxFbFD7lnWJWhjTRxc"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Hazyy",
+          "url": "https://open.spotify.com/artist/5v7oa7SNQ0MGYJYxrNqien"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "VOLTIOS",
+      "url": "https://open.spotify.com/track/2z9blaqjMM5lXHg4oe3dXe"
+    },
+    {
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -20822,6 +20952,24 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156364,
+      "name": "VOY A LLeVARTE PA PR",
+      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
     },
     {
       "album": {

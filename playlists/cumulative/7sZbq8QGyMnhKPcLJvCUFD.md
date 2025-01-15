@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-654 songs - 1 day 9 hr 11 min
+655 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [More](https://open.spotify.com/track/01eUcUUfmt69IpEGGVZCAH) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [More](https://open.spotify.com/album/3N3hF12L5Jo51eZulkniES) | 2:29 | 2023-08-25 | 2023-12-14 |
 | [Morning Drift](https://open.spotify.com/track/7ysODkt3SLz9zLfo9yy2LJ) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Morning Drift](https://open.spotify.com/album/42XNg9HHKO2XlsJ503JELj) | 3:55 | 2023-12-26 | 2024-07-19 |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2023-08-08 |  |
-| [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \(Sped Up/Slowed\)](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
+| [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \(Sped Up/Slowed\)](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
 | [Move Your Body](https://open.spotify.com/track/1E0PKMOhTg2nWK7ifIbmen) | [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM) | [Move Your Body](https://open.spotify.com/album/55H4HshD6Jw9r5N1323b7J) | 1:55 | 2024-02-29 | 2024-09-29 |
 | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/2RpT6tu1l0TxoWqxT4auQl) | 4:26 | 2023-08-08 | 2023-12-14 |
 | [my heart is broken](https://open.spotify.com/track/5nsipPb0ex6kKTTcnTmjcU) | [Neyvo](https://open.spotify.com/artist/2hoNqBOIPGztCNSNZEwMQE) | [my heart is broken](https://open.spotify.com/album/44avVnEbkqE3x1oS038Mvt) | 3:30 | 2024-07-30 | 2025-01-08 |
@@ -445,6 +445,7 @@
 | [Overcome](https://open.spotify.com/track/4hJ9GlqWQKgEU24yUbqDZB) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 2:49 | 2023-06-21 | 2023-08-10 |
 | [Overdose](https://open.spotify.com/track/7pEO3MdT6X2MRUHzeLH2XR) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose](https://open.spotify.com/album/2Vd2ZArU5bvDhmhjYEqJQY) | 2:51 | 2024-07-12 |  |
 | [Overdose \- Tatsunoshin Remix](https://open.spotify.com/track/0iQCOjsrWC7JL7dQSUH1FH) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose \(Remixes\)](https://open.spotify.com/album/4p3dVr8xYrBj1Mo0tVFD7t) | 2:50 | 2024-07-26 |  |
+| [Overdrive](https://open.spotify.com/track/2rYf9wTfwynIGAhAInlnWp) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Overdrive](https://open.spotify.com/album/65aPHPKXu9PjsR7tOAWd8I) | 2:43 | 2025-01-14 |  |
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 | 2023-08-10 |
 | [Paper Walls](https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV) | [Elliot Kings](https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm), [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Paper Walls](https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9) | 2:46 | 2023-04-11 | 2023-08-10 |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 | 2023-08-10 |

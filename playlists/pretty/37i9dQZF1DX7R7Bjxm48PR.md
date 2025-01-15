@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,052 likes - 102 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,086 likes - 102 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 |
-| 2 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
+| 1 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
+| 2 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 |
 | 3 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
 | 4 | [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 |
 | 5 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 101 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 |
 | 102 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 
-Snapshot ID: `Z30YFgAAAAAFILI88ogfVQV9PobKXg0K`
+Snapshot ID: `Z4YvYQAAAAA8KKCB8nTE2PdWzzJIjyBq`

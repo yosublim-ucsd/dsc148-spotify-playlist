@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-267 songs - 14 hr 47 min
+268 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Kiss From a Rose](https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding Forever, Vol\. 3](https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u) | 4:47 | 2022-11-18 | 2022-11-26 |
 | [Let It Be](https://open.spotify.com/track/13cbzpde3MdxuL3rphl8ar) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Let It Be](https://open.spotify.com/album/6SQXcGqLblWlV1YZqu55cT) | 3:32 | 2024-10-01 |  |
 | [Let It Go](https://open.spotify.com/track/1pQtiUNaBpjcspLcqetigX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 4:20 | 2022-11-18 | 2022-11-26 |
-| [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 | 2021-11-25 |  |
+| [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 | 2021-11-25 | 2025-01-15 |
 | [Life on Mars?](https://open.spotify.com/track/6HoVFd8SJYyxD5cRUVD56M) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Music from the Films of Wes Anderson](https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd) | 3:39 | 2022-11-18 | 2022-11-26 |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2WU5ezRzy3mJO4d9MdqW5X) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 3](https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD) | 3:44 | 2022-11-18 | 2022-11-26 |
 | [Love Me Like You Do](https://open.spotify.com/track/1D7gsXVvw3TShPsODTbYmZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 1](https://open.spotify.com/album/60cEfy1gNvNLktg5UAlf36) | 3:17 | 2022-11-18 | 2022-11-26 |
@@ -170,6 +170,7 @@
 | [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 | 2024-07-16 |  |
 | [More Than A Feeling \- Guitar Version](https://open.spotify.com/track/1vUA2IyTkmXcI9rfdS9kvW) | [Purple Lions](https://open.spotify.com/artist/5e6l2ue9kA8MNkch1M8OYn) | [More Than A Feeling \(Guitar Version\)](https://open.spotify.com/album/4vyP5IdLb333rig61yVuFg) | 3:51 | 2025-01-07 |  |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:42 | 2022-11-18 | 2022-11-26 |
+| [Mr Brightside \- Cover](https://open.spotify.com/track/2Zvx48hDcNviwOwvzuh1sb) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Mr Brightside \(Cover\)](https://open.spotify.com/album/1eBmSEvhldtMxylXTwgXxy) | 2:41 | 2025-01-14 |  |
 | [My Favorite Things](https://open.spotify.com/track/2sO7nF36wGywzAlM8mNsjM) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [My Favorite Things](https://open.spotify.com/album/0ssAbPbkdrAfNPMySXK3Xv) | 2:42 | 2022-09-09 |  |
 | [My Girl](https://open.spotify.com/track/6BsWHJA06ALokAqKmTUlKl) | [Brendon Callahan](https://open.spotify.com/artist/1rCBYZa4pWYwFHSqA0Pxvh) | [My Girl](https://open.spotify.com/album/0IZseHnV7sGq1fuicvGlgJ) | 1:59 | 2024-12-19 |  |
 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 | 2021-11-25 | 2024-04-19 |
@@ -198,7 +199,7 @@
 | [Sailing](https://open.spotify.com/track/1rt2VVHzUfrYqD9HGY0jGg) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sailing](https://open.spotify.com/album/1gmD0abuhaunLrRRVMpFYY) | 2:18 | 2024-04-17 |  |
 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 | 2023-10-17 |
 | [Samson](https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Regina Spektor](https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb) | 2:58 | 2022-11-18 | 2022-11-26 |
-| [Santa Tell Me](https://open.spotify.com/track/6vZcMoD5JVz2xC7WkKU8Vi) | [Penny Lanegan](https://open.spotify.com/artist/7bsYtGwA2k9Xt84WJT8lBY) | [Santa Tell Me](https://open.spotify.com/album/18uTr2S7O7Ipl1Qp4Kvqck) | 2:50 | 2024-11-19 |  |
+| [Santa Tell Me](https://open.spotify.com/track/6vZcMoD5JVz2xC7WkKU8Vi) | [Penny Lanegan](https://open.spotify.com/artist/7bsYtGwA2k9Xt84WJT8lBY) | [Santa Tell Me](https://open.spotify.com/album/18uTr2S7O7Ipl1Qp4Kvqck) | 2:50 | 2024-11-19 | 2025-01-15 |
 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 | 2022-11-18 | 2022-11-26 |
 | [Save Your Tears](https://open.spotify.com/track/1C6bOXVk1aha0QJigVidNT) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [Save Your Tears](https://open.spotify.com/album/4zNi7sHAx8xFH0XvG2BuOO) | 2:15 | 2024-10-08 |  |
 | [Say Something](https://open.spotify.com/track/3lDVrC13oxt1IMvBbqT1Es) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 1](https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9) | 3:50 | 2022-11-18 | 2022-11-26 |

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A Lotus Life",
+        "url": "https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX"
+      },
+      "artists": [
+        {
+          "name": "Oceanic Voices",
+          "url": "https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "A Lotus Life",
+      "url": "https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn"
+    },
+    {
+      "album": {
         "name": "A Mirror Appears",
         "url": "https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 289512,
       "name": "A Rising Wind (Instrumental)",
       "url": "https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 153600,
       "name": "Breathing Space",
       "url": "https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 213741,
       "name": "Daphine",
       "url": "https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB"
@@ -1514,6 +1532,24 @@
       "duration_ms": 158000,
       "name": "distant star",
       "url": "https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt"
+    },
+    {
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
     },
     {
       "album": {
@@ -1748,6 +1784,32 @@
       "duration_ms": 231333,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd"
+        },
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Feel Good (feat. myndstream)",
+      "url": "https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl"
     },
     {
       "album": {
@@ -2896,7 +2958,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 173944,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ"
@@ -2972,6 +3034,24 @@
       "duration_ms": 210600,
       "name": "Mist",
       "url": "https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN"
+    },
+    {
+      "album": {
+        "name": "Morning Song",
+        "url": "https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc"
+      },
+      "artists": [
+        {
+          "name": "Cijon",
+          "url": "https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157409,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j"
     },
     {
       "album": {
@@ -3494,7 +3574,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 214698,
       "name": "Pan Serenade",
       "url": "https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx"
@@ -3700,7 +3780,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 178719,
       "name": "Prism",
       "url": "https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN"
@@ -3776,6 +3856,24 @@
       "duration_ms": 159013,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq"
+    },
+    {
+      "album": {
+        "name": "Rain in Paris",
+        "url": "https://open.spotify.com/album/06LFI5hWMwC0DkT4cde7fd"
+      },
+      "artists": [
+        {
+          "name": "Nolan West",
+          "url": "https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155565,
+      "name": "Rain in Paris",
+      "url": "https://open.spotify.com/track/6iEtymzAWM4ZYABwihVkTY"
     },
     {
       "album": {
@@ -4222,7 +4320,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 232500,
       "name": "Slow Wave",
       "url": "https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H"
@@ -5219,6 +5317,24 @@
     },
     {
       "album": {
+        "name": "We Come and We Go",
+        "url": "https://open.spotify.com/album/6EZNjD3i26f7ODIz42ymim"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155517,
+      "name": "We Come and We Go",
+      "url": "https://open.spotify.com/track/1mBz7t3HGqDWZ5Wo5IEmDx"
+    },
+    {
+      "album": {
         "name": "Weave Of Dreams",
         "url": "https://open.spotify.com/album/0nMZ0q6ssZV679M2zZzoXN"
       },
@@ -5324,6 +5440,32 @@
       "duration_ms": 280625,
       "name": "Who Tends a Garden",
       "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd"
+        },
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Winds of Change (feat. myndstream)",
+      "url": "https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG"
     },
     {
       "album": {

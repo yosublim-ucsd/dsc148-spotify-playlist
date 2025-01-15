@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,639 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,723 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 28 | [SOLTERO](https://open.spotify.com/track/7ytAHohytO1TxO9yF5vn7d) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [SOLTERO](https://open.spotify.com/album/1QGuXd9G1ymlQMq50ofEek) | 2:25 |
 | 29 | [Para el Tiktok](https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [Para el Tiktok](https://open.spotify.com/album/6N92O2oINCkzp5qwKLSIWt) | 1:59 |
 | 30 | [MAS LENTITO RKT](https://open.spotify.com/track/2K1VdnrPKRQCzLT5EjLwJ9) | [djsantaa](https://open.spotify.com/artist/068E65n4GrnZLh7vEJtxqS), [Bruno Chavez Dj](https://open.spotify.com/artist/6pf1Aic1aYncmOxV1D9gh5) | [MAS LENTITO RKT](https://open.spotify.com/album/69n7QKDtjFcunerQJk4Wr2) | 3:02 |
-| 31 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/1jnMbefDo8mg5ve5gctgDR) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |
+| 31 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |
 | 32 | [Azote \- Remix](https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Azote \(Remix\)](https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y) | 3:46 |
 | 33 | [SOLARI RKT](https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [SOLARI RKT](https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y) | 2:27 |
 | 34 | [Pusieron RKT Punky \- Remix](https://open.spotify.com/track/2SMOc3XFpuhUOAJReX4qKX) | [Tomy DJ](https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z), [DJ Pirata](https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh), [El Kaio](https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y) | [Pusieron RKT Punky \(Remix\)](https://open.spotify.com/album/2MeZsLoru0w1mzsI2Tyfz2) | 2:21 |

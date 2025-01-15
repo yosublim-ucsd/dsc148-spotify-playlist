@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 102042,
+  "num_followers": 102254,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "MANGO (feat. Adi Oasis)",
-        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 245994,
-      "name": "MANGO (feat. Adi Oasis)",
-      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "MANGO (feat. Adi Oasis)",
+        "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 245994,
+      "name": "MANGO (feat. Adi Oasis)",
+      "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
     },
     {
       "added_at": "2024-11-25 23:21:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 217240,
       "name": "Bonita Applebum",
       "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Untitled (Rise)",
-        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 305829,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Soul Trash",
         "url": "https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Untitled (Rise)",
+        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 305829,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 229685,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        },
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Bonnie And Clyde",
+      "url": "https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1475,26 +1495,6 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        },
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Bonnie And Clyde",
-      "url": "https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j"
     },
     {
       "added_at": "2024-10-04 17:28:20",

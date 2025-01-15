@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,764 songs - 3 day 6 hr 18 min
+1,767 songs - 3 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [A quiet river](https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A quiet river](https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk) | 2:02 | 2024-03-18 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2020-10-13 | 2022-05-27 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-09-01 | 2022-12-06 |
+| [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 | 2025-01-14 |  |
 | [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 | 2024-02-19 |  |
 | [A Secret Within](https://open.spotify.com/track/0xIdhwtIiUcA9IJXJjiWYS) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [A Secret Within](https://open.spotify.com/album/2ZC5VlvFDg6ePLkPkGzicH) | 2:43 | 2020-06-24 | 2021-02-09 |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2019-08-02 | 2020-04-21 |
@@ -471,6 +472,7 @@
 | [Falling Rain](https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Falling Rain](https://open.spotify.com/album/7pd29NkHnAS6cOJDlNOSTc) | 2:38 | 2024-08-12 |  |
 | [Familiar Grounds](https://open.spotify.com/track/0XmzqchrogvmI01Bo7xtLG) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Familiar Grounds](https://open.spotify.com/album/1mnr05Zq0I3QtYuxziqGjj) | 3:57 | 2020-08-04 | 2021-04-14 |
 | [Far and Beyond](https://open.spotify.com/track/3tbVwFLSct63LhbI2mU50s) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Charles Bolt](https://open.spotify.com/album/3j0aL8TLtJ43y0Yd2gGz7O) | 3:17 | 2019-05-26\* | 2020-05-26 |
+| [Far away fields](https://open.spotify.com/track/1oDHRSJcxyZa2yKcxUtNX3) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Far away fields](https://open.spotify.com/album/4DWu8Gy5UQ4OhuPT6eN9oX) | 2:29 | 2025-01-14 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-02-02 | 2022-09-24 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2021-12-08 | 2022-08-27 |
 | [Felt Improv No\. 3](https://open.spotify.com/track/4mUEjeo70EeAq2ARJySrj6) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 3](https://open.spotify.com/album/1cseVonhcrCKoxuNDGY6T8) | 3:01 | 2020-06-16 | 2021-08-12 |
@@ -554,6 +556,7 @@
 | [Gently falling rain](https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Gently falling rain](https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c) | 2:07 | 2023-03-27 |  |
 | [Giuoco Piano](https://open.spotify.com/track/6Uk13zgb5WGAm44OpM2FXX) | [Uno Conte](https://open.spotify.com/artist/259PkwoDlbW9KUQMPhWnxi) | [Giuoco Piano](https://open.spotify.com/album/3Bps7quQzAirtS9iasIPHh) | 2:20 | 2020-08-04 | 2022-04-15 |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-02-03 |  |
+| [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-14 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2021-09-09 | 2022-07-07 |
 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 | 2022-10-24 | 2024-10-01 |
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2020-08-04 | 2020-09-28 |

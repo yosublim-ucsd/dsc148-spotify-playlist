@@ -1,37 +1,13 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1379856,
+  "num_followers": 1380326,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4DtpAAAAAApKbrTeCEgWdEPS91xD5gF",
+  "snapshot_id": "Z4ZkzwAAAAAA2BUUHiP0lDlsZlbRHLBE",
   "tracks": [
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/3z0yCqptabHnxTY3ZrpP2N"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 217128,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5UPrayer3S1fV6hGEN1RVa"
-    },
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
@@ -75,6 +51,30 @@
       "duration_ms": 215000,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3z0yCqptabHnxTY3ZrpP2N"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 217128,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5UPrayer3S1fV6hGEN1RVa"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "ZAAG IN PARIS",
-        "url": "https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "ZAAG IN PARIS",
-      "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 169500,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "ZAAG IN PARIS",
+        "url": "https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "ZAAG IN PARIS",
+      "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 223213,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -939,30 +939,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Now We Are Free",
-        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -987,26 +963,26 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
       "artists": [
         {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
         }
       ],
-      "duration_ms": 177750,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
+      "duration_ms": 190600,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1047,6 +1023,30 @@
       "duration_ms": 217503,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1235,26 +1235,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "YEAHBOIII",
-        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+        "name": "Boulevard Of Broken Dreams",
+        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
       },
       "artists": [
         {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
         },
         {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 204000,
-      "name": "YEAHBOIII",
-      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
+      "duration_ms": 183529,
+      "name": "Boulevard Of Broken Dreams",
+      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1295,26 +1291,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Boulevard Of Broken Dreams",
-        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Boulevard Of Broken Dreams",
-      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Don't Stop Believin' (Felix Harrer Remix)",
         "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 207061,
       "name": "Don't Stop Believin' - Felix Harrer Remix",
       "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "YEAHBOIII",
+        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "YEAHBOIII",
+      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Waste Your Youth",
+        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Waste Your Youth",
+      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 158007,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Waste Your Youth",
-        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Waste Your Youth",
-      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Make That Body Move (Warrior Workout 2024 OST)",
+        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Make That Body Move (Warrior Workout 2024 OST)",
+      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Make That Body Move (Warrior Workout 2024 OST)",
-        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "Make That Body Move (Warrior Workout 2024 OST)",
-      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 314348,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Redemption & Rage",
         "url": "https://open.spotify.com/album/6BLiwYm4QL6Ke6s4y3S15T"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 140506,
       "name": "Redemption & Rage",
       "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 314348,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Off My Face",
         "url": "https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 167225,
       "name": "Off My Face",
       "url": "https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "New Perspective",
-        "url": "https://open.spotify.com/album/6C2YhbY9uFaR3ImduCYljs"
-      },
-      "artists": [
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        },
-        {
-          "name": "The Prophet",
-          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
-        }
-      ],
-      "duration_ms": 152399,
-      "name": "New Perspective",
-      "url": "https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Digital Domination",
         "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 127503,
       "name": "Digital Domination",
       "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
-      },
-      "artists": [
-        {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -2243,6 +2223,26 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+        "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+      "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2271,22 +2271,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
-        "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
+        "name": "New Perspective",
+        "url": "https://open.spotify.com/album/6C2YhbY9uFaR3ImduCYljs"
       },
       "artists": [
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
         },
         {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
         }
       ],
-      "duration_ms": 212500,
-      "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
-      "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
+      "duration_ms": 152399,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Drop That",
-        "url": "https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 124540,
-      "name": "Drop That",
-      "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Crank It Loud",
         "url": "https://open.spotify.com/album/1V0ThDNbu07m4mppr4GFdv"
       },
@@ -2379,22 +2363,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Another MF",
-        "url": "https://open.spotify.com/album/0L6YAPZ8mBc6fj28J3DpFv"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 196304,
-      "name": "Another MF",
-      "url": "https://open.spotify.com/track/5dtesMqVRtemAjDSoFH1k9"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
       },
@@ -2415,6 +2383,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Drop That",
+        "url": "https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 124540,
+      "name": "Drop That",
+      "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "Het Ergste Moet Nog Komen",
         "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 211144,
       "name": "Justify",
       "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "Another MF",
+        "url": "https://open.spotify.com/album/0L6YAPZ8mBc6fj28J3DpFv"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "Another MF",
+      "url": "https://open.spotify.com/track/5dtesMqVRtemAjDSoFH1k9"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2447,6 +2447,22 @@
       "duration_ms": 158000,
       "name": "Project X",
       "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2479,18 +2495,18 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
       },
       "artists": [
         {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2515,18 +2531,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
       "artists": [
         {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         }
       ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2551,26 +2571,6 @@
       "duration_ms": 163500,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Sin City",
-        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 257364,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Do Whatcha Say",
         "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 164300,
       "name": "Do Whatcha Say",
       "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "Sin City",
+        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 257364,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2819,26 +2819,6 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "DEFAULT DAMAGER",
-        "url": "https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 147558,
-      "name": "DEFAULT DAMAGER",
-      "url": "https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX"
       },
@@ -2855,6 +2835,26 @@
       "duration_ms": 210196,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
+        "name": "DEFAULT DAMAGER",
+        "url": "https://open.spotify.com/album/7tQPAbuclDfur3s39BDttD"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 147558,
+      "name": "DEFAULT DAMAGER",
+      "url": "https://open.spotify.com/track/4CKQnxHlMgDwyHAcnnOnjp"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2955,18 +2955,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
       "artists": [
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
         }
       ],
-      "duration_ms": 188774,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+      "duration_ms": 174400,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
     },
     {
       "added_at": "2025-01-10 09:51:32",
@@ -2991,6 +2995,22 @@
     {
       "added_at": "2025-01-10 09:51:32",
       "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+    },
+    {
+      "added_at": "2025-01-10 09:51:32",
+      "album": {
         "name": "The Flame Inside",
         "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
       },
@@ -3003,26 +3023,6 @@
       "duration_ms": 256258,
       "name": "The Flame Inside",
       "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
-    },
-    {
-      "added_at": "2025-01-10 09:51:32",
-      "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        },
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
     },
     {
       "added_at": "2025-01-10 09:51:32",

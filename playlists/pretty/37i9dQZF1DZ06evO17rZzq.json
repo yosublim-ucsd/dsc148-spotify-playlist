@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4169,
+  "num_followers": 4170,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAACMmydBLaiCA6MnzckKJJk4",
+  "snapshot_id": "Z4RXgAAAAAA1JtJH454XtI3leqiAx2cw",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OOP",
+        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 130813,
+      "name": "OOP",
+      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chainzzz (feat. Muni Long)",
         "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 153847,
       "name": "Chainzzz (feat. Muni Long)",
       "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OOP",
-        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 130813,
-      "name": "OOP",
-      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
     },
     {
       "added_at": null,

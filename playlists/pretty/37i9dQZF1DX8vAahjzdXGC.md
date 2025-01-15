@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,374 likes - 78 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,412 likes - 78 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 20 | [Kembalilah](https://open.spotify.com/track/5QsEBDvwOBvRFRSIgVmD0i) | [Jelita Tobing](https://open.spotify.com/artist/4t7oBqRaNXJqx3pJa5Nj5E) | [Kembalilah](https://open.spotify.com/album/4NhyRvFyCdaoGba8TEEkma) | 4:17 |
 | 21 | [Tak Biasa](https://open.spotify.com/track/0eOERo9bi3NKqaFz4zz4II) | [Jaz Rowe](https://open.spotify.com/artist/5OawJtVhHaAxoXkotlKpbI) | [Tak Biasa](https://open.spotify.com/album/3Wq5E0BDvyKL2glh1mHfRq) | 3:24 |
 | 22 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 |
-| 23 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/4g0yJrjRI8Zmouy6ZVzXu8), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
+| 23 | [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 |
 | 24 | [aku sorang](https://open.spotify.com/track/0E7etbeEEkEnvACqf7PzTy) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [aku sorang](https://open.spotify.com/album/3KKIZMVtlP5DjJwa6eTEK5) | 3:06 |
 | 25 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 |
 | 26 | [Tak Pernah Satu](https://open.spotify.com/track/7A02VsaJnIC0c2B2BxGT7T) | [Raynaldo Wijaya](https://open.spotify.com/artist/1tA4MwL0SWuQjiwxYYspCZ) | [Tak Pernah Satu](https://open.spotify.com/album/7e5Wdnrj4gM09crcUVgnHI) | 3:06 |

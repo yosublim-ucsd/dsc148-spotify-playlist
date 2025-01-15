@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 39930,
+  "num_followers": 39938,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4DDoQAAAABhTq+C3GZgIpe/7ZMOSfSZ",
+  "snapshot_id": "Z4ZSgwAAAAB1yzQ4A+YbEsxaiHWSe1V0",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -67,6 +67,34 @@
       "duration_ms": 163031,
       "name": "BREAKUP ANTHEM (Telugu)",
       "url": "https://open.spotify.com/track/5CxU3JekhthyBQ31EhO5b3"
+    },
+    {
+      "added_at": "2025-01-14 12:03:15",
+      "album": {
+        "name": "Fariyaa",
+        "url": "https://open.spotify.com/album/16gKWBvfwMSaunSv3svJOC"
+      },
+      "artists": [
+        {
+          "name": "Mohan Nani Karra",
+          "url": "https://open.spotify.com/artist/7qdbYGVQzLmwBGDAgGMQRj"
+        },
+        {
+          "name": "Akhil Sanjoy",
+          "url": "https://open.spotify.com/artist/5Onpy6DbXWxtslm5B3ekPk"
+        },
+        {
+          "name": "Keerthana Srinivas",
+          "url": "https://open.spotify.com/artist/6StgZvDOkg3r9d4gV30zzX"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 276019,
+      "name": "Fariyaa",
+      "url": "https://open.spotify.com/track/2ur9h7KSNPLFVCV2czUgJD"
     },
     {
       "added_at": "2025-01-07 09:13:09",

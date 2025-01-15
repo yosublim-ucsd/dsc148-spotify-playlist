@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,156 likes - 60 songs - 2 hr 54 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,154 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

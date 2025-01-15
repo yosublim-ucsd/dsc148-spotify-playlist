@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: J.Eskine
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,028 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,252 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 47 | [Medleys Dos Medleys \- O Barraco Dela Lá / Eu Vou Pro Baile Eu Vou Pro Bega / Ela Não Presta](https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ao After e Além, Pt.2](https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu) | 4:05 |
 | 48 | [Tu Xera](https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Tu Xera](https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff) | 2:38 |
 | 49 | [Maravilhosa \- Ao Vivo](https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Maravilhosa \(Ao Vivo\)](https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa) | 1:55 |
-| 50 | [Menina do Job X Viciada em Sentar](https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ) | [Dj Junior Sales](https://open.spotify.com/artist/0nVx67ccaVKabUD03FBrZU), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Menina do Job X Viciada em Sentar](https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb) | 1:55 |
-| 51 | [A Gente Se Entrega](https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pra Quebrar a Cara](https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W) | 2:43 |
+| 50 | [A Gente Se Entrega](https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pra Quebrar a Cara](https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W) | 2:43 |
+| 51 | [Menina do Job X Viciada em Sentar](https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ) | [Dj Junior Sales](https://open.spotify.com/artist/0nVx67ccaVKabUD03FBrZU), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Menina do Job X Viciada em Sentar](https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb) | 1:55 |
 | 52 | [Lugar Perfeito](https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:32 |
 | 53 | [5 Da Manhã \- Ao Vivo](https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [5 Da Manhã \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU) | 2:27 |
 | 54 | [Eu Tô Sozinho, Tô Solteiro](https://open.spotify.com/track/1jihHPjnDlipkT1iSXwEio) | [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Bonde do gato preto](https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei) | [Eu Tô Sozinho, Tô Solteiro](https://open.spotify.com/album/3lDVqMcILrZuluTmF6bz96) | 2:46 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de enero 2025. Cover: KHEA, Sebastian Yatra",
+  "description": "Lo mejor de enero 2025. Cover: Kapo",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 192933,
       "name": "a los 20",
       "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
@@ -1012,6 +1012,24 @@
       "duration_ms": 95798,
       "name": "ALI",
       "url": "https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N"
+    },
+    {
+      "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "album": {
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 213085,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/3xhPGomtecEzMqEnHSA5qz"
@@ -6583,6 +6601,32 @@
     },
     {
       "album": {
+        "name": "En Otra Vida - Con Carin Leon",
+        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150974,
+      "name": "En Otra Vida - Con Carin Leon",
+      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
+    },
+    {
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/4fOXqhaQQCAx4qtLSJkwC7"
       },
@@ -11232,7 +11276,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 191282,
       "name": "lo que dura la canci\u00f3n",
       "url": "https://open.spotify.com/track/0Tn2iauUDbOKWpP3et4Wuz"
@@ -18182,6 +18226,24 @@
       "duration_ms": 196133,
       "name": "Se Acaba Todo",
       "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
+    },
+    {
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/612fj3QrB4483OomTwgmnH"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "SE BUSCA",
+      "url": "https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7"
     },
     {
       "album": {

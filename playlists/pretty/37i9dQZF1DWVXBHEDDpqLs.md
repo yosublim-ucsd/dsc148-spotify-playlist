@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,702 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,736 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 17 | [New Patterns](https://open.spotify.com/track/4hZ60kAX4dO1tCy2SsQGHe) | [Machine Dion](https://open.spotify.com/artist/4cr8ZFz48eK0A23u4kNU2J) | [New Patterns](https://open.spotify.com/album/1rrlvWlonpuNYpSqN2sPQ3) | 4:17 |
 | 18 | [Bonk](https://open.spotify.com/track/6yfbkg6QT1XkJZnWW2gEbj) | [PLUS ONE](https://open.spotify.com/artist/3mKAVq1GsEjcDLrvGKZKxP) | [Ar Ais Arís Compilation 001](https://open.spotify.com/album/4sAQfC72u8uTz7k7zAZXKx) | 5:29 |
 | 19 | [You're Making My Teeth Grow Longer](https://open.spotify.com/track/1vIGL0NArt8HD1hkVLnYed) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [You're Making My Teeth Grow Longer](https://open.spotify.com/album/2tYflDvgtNH9N38KuKjUMQ) | 6:00 |
-| 20 | [Close To You \- Octo Octa’s Voices Reaching Out Full On Remix](https://open.spotify.com/track/75Hcu4hKfTTESvRWXLys53) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Close To You \(Octo Octa’s Voices Reaching Out Full On Remix\)](https://open.spotify.com/album/4SSHU8XWCumtBjZp8x02sO) | 6:20 |
+| 20 | [Close To You \- Octo Octa’s Voices Reaching Out Remix](https://open.spotify.com/track/75Hcu4hKfTTESvRWXLys53) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Close To You \(Octo Octa’s Voices Reaching Out Full On Remix\)](https://open.spotify.com/album/4SSHU8XWCumtBjZp8x02sO) | 6:20 |
 | 21 | [Kaleidoscopic](https://open.spotify.com/track/6YO4TnVoR39LHySyDAn77M) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Kaleidoscopic](https://open.spotify.com/album/5kHJTViXs2lYECkWUoQIGe) | 5:02 |
 | 22 | [MEET ME AT THE TEMPLE](https://open.spotify.com/track/68L0K7SulwNR6ycmdWrDib) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [MEET ME AT THE TEMPLE](https://open.spotify.com/album/2ccNs12BJ1r0V2p9veFuIg) | 4:57 |
 | 23 | [Rezz](https://open.spotify.com/track/3HMcEI4GikdE1Xj9X0zBXl) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Yiu](https://open.spotify.com/album/1JZBmCiCFtZB6Fs3HxFMnx) | 6:39 |

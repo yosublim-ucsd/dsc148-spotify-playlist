@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,721 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,740 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 27 | [Cuanto Más Me Rindo](https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 6:16 |
 | 28 | [Es por Fe](https://open.spotify.com/track/08TSCtVrDwbShoX72DOG23) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 5:41 |
 | 29 | [Si Tú Estás Conmigo](https://open.spotify.com/track/2yuOHTcU0O3XJqXWm7KLsz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:05 |
-| 30 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 |
-| 31 | [Él Me Amó Primero](https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 10:16 |
+| 30 | [Él Me Amó Primero](https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 10:16 |
+| 31 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 |
 | 32 | [Somos Tu Iglesia](https://open.spotify.com/track/3SEOCoySutuNM3ErXmPTnP) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Jr.](https://open.spotify.com/artist/6RgPTfxsFtycQgzm9rLOU5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Julian Gamba](https://open.spotify.com/artist/10a3kp2IK6PTgCAYH6BuSh) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 7:52 |
 | 33 | [Tu Nombre Santo Es](https://open.spotify.com/track/6q4pu6sxXBRst4nvYbdf56) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 7:49 |
 | 34 | [Mejores Tiempos](https://open.spotify.com/track/2mxkTXQqJWpuAo0oZPhcQh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mejores Tiempos](https://open.spotify.com/album/4lLOWl526AEjbpvFi87NPJ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Encuentro Glorioso](https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:49 |
 | 50 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 
-Snapshot ID: `Z4MGAAAAAAAG2h4OLZsmj6reLMOPCgAc`
+Snapshot ID: `Z4RXgAAAAABrhjBn9N/7SphIyuXJsvHZ`

@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Entre arboles",
+        "url": "https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119153,
+      "name": "Entre arboles",
+      "url": "https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq"
+    },
+    {
+      "album": {
         "name": "Entre les Lignes",
         "url": "https://open.spotify.com/album/51WQ52JifiEhQ8QPjqQHJz"
       },

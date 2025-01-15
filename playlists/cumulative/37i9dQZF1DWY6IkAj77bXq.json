@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 188893,
       "name": "A Silent Moon",
       "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168958,
+      "name": "Bare",
+      "url": "https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc"
+    },
+    {
+      "album": {
         "name": "Bare dreams",
         "url": "https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 162000,
       "name": "Circle Of Everything",
       "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
+    },
+    {
+      "album": {
+        "name": "Circuits",
+        "url": "https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0"
+      },
+      "artists": [
+        {
+          "name": "Nelumbo Lutea",
+          "url": "https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160783,
+      "name": "Circuits",
+      "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
     },
     {
       "album": {
@@ -1276,7 +1312,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
@@ -1841,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Interlock",
+        "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Interlock",
+      "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
+    },
+    {
+      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
       },
@@ -1996,7 +2050,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 155571,
       "name": "Lost City",
       "url": "https://open.spotify.com/track/06Abg0WqRt5zIeYX3d73qB"
@@ -2512,6 +2566,24 @@
       "duration_ms": 176807,
       "name": "Onement",
       "url": "https://open.spotify.com/track/4aDxzWpnKl9wkZmwdqPl2w"
+    },
+    {
+      "album": {
+        "name": "Opaque",
+        "url": "https://open.spotify.com/album/226NWzxnTuE8IeVl1bVgp7"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "Opaque",
+      "url": "https://open.spotify.com/track/0n7cjB7t74Vq7l0gXBmfH8"
     },
     {
       "album": {
@@ -3066,7 +3138,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 184250,
       "name": "Sea Of Colors",
       "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
@@ -3372,7 +3444,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 214330,
       "name": "Slowly Flying",
       "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
@@ -3444,7 +3516,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 304952,
       "name": "Solace - Meditation",
       "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
@@ -3552,7 +3624,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
@@ -3750,7 +3822,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 142595,
       "name": "The Sun Will Rise Again",
       "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
@@ -3901,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Twilight Reverie",
+        "url": "https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Twilight Reverie",
+      "url": "https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx"
+    },
+    {
+      "album": {
         "name": "Unawareness",
         "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
       },
@@ -3966,7 +4056,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 165000,
       "name": "Vishram - Yoga Version",
       "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"

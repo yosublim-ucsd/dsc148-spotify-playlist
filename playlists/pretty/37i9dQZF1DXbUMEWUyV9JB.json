@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Oscar Ortiz y Los Primos del Este ",
-  "num_followers": 273856,
+  "num_followers": 273871,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "PA'L CORA EP. 01",
-        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 184864,
-      "name": "Un Besito M\u00e1s",
-      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -767,6 +747,26 @@
       "duration_ms": 277028,
       "name": "El Amor de la Nena",
       "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
+        "name": "PA'L CORA EP. 01",
+        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
+        "name": "No Hay Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "No Hay Vida Sin Ti",
+      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
-        "name": "No Hay Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "No Hay Vida Sin Ti",
-      "url": "https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "De aqui para siempre",
-        "url": "https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
-        }
-      ],
-      "duration_ms": 157931,
-      "name": "De aqui para siempre",
-      "url": "https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
         "name": "Besar Tu Piel (Con Buenos Aires) [En Vivo]",
         "url": "https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 192500,
       "name": "Besar Tu Piel (Con Buenos Aires) - En Vivo",
       "url": "https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
+        "name": "De aqui para siempre",
+        "url": "https://open.spotify.com/album/21DHxGNZBb3pRc7qDRRo9p"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 157931,
+      "name": "De aqui para siempre",
+      "url": "https://open.spotify.com/track/6VfdXl0d29QlfEzyHkTJTI"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "Pedazo de papel",
-        "url": "https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa"
+        "name": "Amores Como el Nuestro",
+        "url": "https://open.spotify.com/album/1676169Nezgo33tdsUOdIe"
       },
       "artists": [
         {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        },
+        {
+          "name": "Flor De Cumbia",
+          "url": "https://open.spotify.com/artist/0vU2vjB0JnqPkuYV7zkYtW"
         }
       ],
-      "duration_ms": 236703,
-      "name": "Pedazo de papel",
-      "url": "https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs"
+      "duration_ms": 199520,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ"
     }
   ],
   "unique_name": "Super Cumbias",

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 352764,
+  "num_followers": 353021,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -807,22 +807,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+        "name": "Vou Agradecer",
+        "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
       "artists": [
         {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+          "name": "Gabriel Carmo",
+          "url": "https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc"
         },
         {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+          "name": "Manu Testa",
+          "url": "https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+      "duration_ms": 219538,
+      "name": "Vou Agradecer",
+      "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -843,22 +843,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Vou Agradecer",
-        "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
       "artists": [
         {
-          "name": "Gabriel Carmo",
-          "url": "https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc"
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
         },
         {
-          "name": "Manu Testa",
-          "url": "https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ"
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
         }
       ],
-      "duration_ms": 219538,
-      "name": "Vou Agradecer",
-      "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Terra do Sol",
-        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
-      },
-      "artists": [
-        {
-          "name": "Calm\u00f4",
-          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
-        },
-        {
-          "name": "Tupi Machine",
-          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Terra do Sol",
-      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Terra do Sol",
+        "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
+      },
+      "artists": [
+        {
+          "name": "Calm\u00f4",
+          "url": "https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy"
+        },
+        {
+          "name": "Tupi Machine",
+          "url": "https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Terra do Sol",
+      "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
       "added_at": "2025-01-10 03:00:26",

@@ -1,6 +1,6 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 66631,
+  "num_followers": 66657,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
-      "added_at": "2022-02-11 00:27:46",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "R\u00fambala",
@@ -343,6 +327,22 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2022-02-11 00:27:46",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "La Cumbia Del Cafe Martinez",
+      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
         "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "La Cumbia Del Cafe Martinez",
-      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
     },
     {
-      "added_at": "2022-03-18 03:46:18",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
       "added_at": "2022-03-30 01:48:29",
       "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
@@ -771,6 +755,22 @@
       "duration_ms": 263253,
       "name": "Danza de Gardenias (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
+    },
+    {
+      "added_at": "2022-03-18 03:46:18",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -937,20 +937,20 @@
       "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-01-21 18:59:13",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 6",
-        "url": "https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV"
+        "name": "Instantes Decisivos Edici\u00f3n Deluxe",
+        "url": "https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w"
       },
       "artists": [
         {
-          "name": "Hugo Blanco y su Conjunto",
-          "url": "https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Cumbia Con Arpa",
-      "url": "https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5"
+      "duration_ms": 166172,
+      "name": "Supersticioso",
+      "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
     },
     {
       "added_at": "2023-04-01 01:18:58",
@@ -969,20 +969,20 @@
       "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
     },
     {
-      "added_at": "2022-01-21 18:59:13",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Instantes Decisivos Edici\u00f3n Deluxe",
-        "url": "https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w"
+        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 6",
+        "url": "https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV"
       },
       "artists": [
         {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+          "name": "Hugo Blanco y su Conjunto",
+          "url": "https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz"
         }
       ],
-      "duration_ms": 166172,
-      "name": "Supersticioso",
-      "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
+      "duration_ms": 189813,
+      "name": "Cumbia Con Arpa",
+      "url": "https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5"
     },
     {
       "added_at": "2022-04-01 20:16:53",

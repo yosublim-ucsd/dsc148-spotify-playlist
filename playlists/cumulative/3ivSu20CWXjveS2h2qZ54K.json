@@ -31111,6 +31111,24 @@
     },
     {
       "album": {
+        "name": "No One Leaves This Discotheque Alive",
+        "url": "https://open.spotify.com/album/65cIVm3FdCzGApFfVApeR8"
+      },
+      "artists": [
+        {
+          "name": "Rialto",
+          "url": "https://open.spotify.com/artist/3JEZFF5iZhEtpeTTGSzWid"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "No One Leaves This Discotheque Alive",
+      "url": "https://open.spotify.com/track/0pzrzrzE0dTlBRZ1XHAYVW"
+    },
+    {
+      "album": {
         "name": "If Only + No One Noticed",
         "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },

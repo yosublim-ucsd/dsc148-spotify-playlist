@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-455 songs - 22 hr 44 min
+456 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 | 2024-07-04 | 2024-08-16 |
 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 | 2024-10-24 | 2024-12-03 |
 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 | 2024-11-28 |  |
+| [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-14 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-01-09 |  |
 | [Put A Little Hurt On Me](https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 2:47 | 2024-10-17 | 2024-11-29 |
 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 | 2024-08-01 | 2024-10-04 |

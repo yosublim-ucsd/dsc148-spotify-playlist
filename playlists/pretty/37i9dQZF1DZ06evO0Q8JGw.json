@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 771271,
+  "num_followers": 771372,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAARrBP1XfpZJ8ocvBOHrzAe",
+  "snapshot_id": "Z4RXgAAAAACW6Jf+NPnXKRS6ZzfUaA/2",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 274440,
-      "name": "Nothingman",
-      "url": "https://open.spotify.com/track/74kd56Y1oNbQVEQnMdO9LH"
+      "duration_ms": 318066,
+      "name": "Immortality",
+      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 318066,
-      "name": "Immortality",
-      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
+      "duration_ms": 274440,
+      "name": "Nothingman",
+      "url": "https://open.spotify.com/track/74kd56Y1oNbQVEQnMdO9LH"
     },
     {
       "added_at": null,

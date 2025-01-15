@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-260 songs - 11 hr 0 min
+261 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,13 +107,14 @@
 | [Friedliebend](https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Friedliebend](https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy) | 2:12 | 2023-10-18 | 2024-10-02 |
 | [From the Seas and the Streams](https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [From the Seas and the Streams](https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc) | 2:29 | 2023-11-08 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-10-18 | 2024-10-02 |
+| [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-14 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-10-18 |  |
 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 | 2023-10-18 |  |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-10-18 | 2024-12-14 |
 | [Heron](https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Heron](https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN) | 2:14 | 2024-01-09 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-10-18 | 2024-10-02 |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-10-18 | 2024-10-02 |
-| [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 |  |
+| [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 | 2025-01-15 |
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-10-18 | 2024-10-02 |
 | [Hymns of Light](https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Hymns of Light](https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4) | 2:37 | 2024-11-19 |  |
 | [Idyllic garden](https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Idyllic garden](https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF) | 2:04 | 2023-10-18 |  |

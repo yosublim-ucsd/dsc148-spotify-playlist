@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Cosmic Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,076 likes - 89 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,238 likes - 89 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Second Time Around](https://open.spotify.com/track/4IQoDnw3hQgWYofQXXBVe7) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Second Time Around / Epos](https://open.spotify.com/album/0QaCUVUwkAw9ZxPVo8l0Jf) | 4:01 |
 | 7 | [Dancing](https://open.spotify.com/track/2diQBz4AN2j33MdIAciVeV) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2) | [Dancing](https://open.spotify.com/album/2HBsYxMkmNEJiFTKIrQoQU) | 5:50 |
 | 8 | [Alpha](https://open.spotify.com/track/0Q248mQL10yQ0TO0eff5Yw) | [Prilho](https://open.spotify.com/artist/1F1MraLAdnpa7Pqg5K3Eg8) | [Alpha](https://open.spotify.com/album/3SYdFfRax0CsdQ2XXMOmxi) | 2:56 |
-| 9 | [Hyper Loose \- Remix](https://open.spotify.com/track/49JN08NPsZdbMk0uLtrRfr) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw), [EESE](https://open.spotify.com/artist/0zKErS536kHek5gMJPEx8v) | [Hyper Loose \(Remix\)](https://open.spotify.com/album/0g8wzPAwlvV6TWNpn0uRIL) | 2:53 |
+| 9 | [Hyper Loose \- EESE Remix](https://open.spotify.com/track/49JN08NPsZdbMk0uLtrRfr) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw), [EESE](https://open.spotify.com/artist/0zKErS536kHek5gMJPEx8v) | [Hyper Loose \(EESE Remix\)](https://open.spotify.com/album/0g8wzPAwlvV6TWNpn0uRIL) | 2:53 |
 | 10 | [Body Goes Bonkers](https://open.spotify.com/track/1S6z9AFDYxlWgkeIRGiSv4) | [Konfusia](https://open.spotify.com/artist/5mnMQBnFtHsevCjxlEc73f) | [Body Goes Bonkers](https://open.spotify.com/album/0PjYF6HUpdJhMzVPJTq3hx) | 6:10 |
 | 11 | [Believe](https://open.spotify.com/track/1btn8GHiJgXBFOMCK0NJON) | [AAD \(DE\)](https://open.spotify.com/artist/1iQt6buljlclV4Xgiyamfm), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Believe](https://open.spotify.com/album/6YTGJoE1eHH6BhyfXu1wsS) | 5:04 |
 | 12 | [Amado](https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Amado](https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 754288,
+  "num_followers": 754390,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Lancaster Nights",
-        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 190469,
-      "name": "Lancaster Nights",
-      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Lancaster Nights",
+        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 190469,
+      "name": "Lancaster Nights",
+      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "to be held",
-        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 234742,
-      "name": "to be held",
-      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Don't Let Me Down (Demo)",
         "url": "https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 195535,
       "name": "Don't Let Me Down - Demo",
       "url": "https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Sexy Weekend EP",
-        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
-      },
-      "artists": [
-        {
-          "name": "Scoundrels",
-          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
-        }
-      ],
-      "duration_ms": 251255,
-      "name": "Sexy Weekend",
-      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Sexy Weekend EP",
+        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
+      },
+      "artists": [
+        {
+          "name": "Scoundrels",
+          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
+        }
+      ],
+      "duration_ms": 251255,
+      "name": "Sexy Weekend",
+      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 179074,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 141236,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
-        "name": "Candy / How many miles",
-        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 141236,
-      "name": "How many miles",
-      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Paradise Pop. 10",
-        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 276946,
-      "name": "Carousel Horses",
-      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Home For The Moment",
         "url": "https://open.spotify.com/album/3XhjUt3J8GT3iCsfJkuDmp"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 183731,
       "name": "Home For The Moment",
       "url": "https://open.spotify.com/track/168ZaDRINZlBY2PaYRBdCz"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 276946,
+      "name": "Carousel Horses",
+      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
     },
     {
       "added_at": "2025-01-08 17:31:38",

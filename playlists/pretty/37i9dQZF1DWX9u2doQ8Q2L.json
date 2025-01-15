@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 390076,
+  "num_followers": 390113,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
         "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
         "url": "https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 227575,
       "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
       "url": "https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -803,22 +803,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "KAWASAKI (with Big Sean)",
-        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
+        "name": "Danger Danger",
+        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
       "artists": [
         {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "icy",
+          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
         }
       ],
-      "duration_ms": 126935,
-      "name": "KAWASAKI (with Big Sean)",
-      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
+      "duration_ms": 221000,
+      "name": "Danger Danger",
+      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -843,22 +843,22 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "Danger Danger",
-        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
+        "name": "KAWASAKI (with Big Sean)",
+        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
       },
       "artists": [
         {
-          "name": "FZMZ",
-          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
         },
         {
-          "name": "icy",
-          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Danger Danger",
-      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+      "duration_ms": 126935,
+      "name": "KAWASAKI (with Big Sean)",
+      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u4eca\u591c\u306f\u541b\u3068",
-        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
       "artists": [
         {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 232134,
-      "name": "\u4eca\u591c\u306f\u541b\u3068",
-      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+        "name": "\u4eca\u591c\u306f\u541b\u3068",
+        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
         }
       ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+      "duration_ms": 232134,
+      "name": "\u4eca\u591c\u306f\u541b\u3068",
+      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 197904,
-      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "\u5305\u5e2f",
         "url": "https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 215315,
       "name": "\u5305\u5e2f",
       "url": "https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 197904,
+      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
-        "url": "https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
-      "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 236626,
       "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
+        "url": "https://open.spotify.com/album/0PDx6CYUwXxQo2i6iwFb1x"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "\u30c1\u30fc\u30e0\u53cb\u9054",
+      "url": "https://open.spotify.com/track/36gWxkPpsHBF5SUhW3EGaA"
     },
     {
       "added_at": "2025-01-08 09:47:05",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2025-01-08 09:47:05",
       "album": {
-        "name": "CHEESE CAKE",
-        "url": "https://open.spotify.com/album/5bCs6T5NIVD23cUC7tKiPg"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 124933,
-      "name": "CHEESE CAKE",
-      "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
-    },
-    {
-      "added_at": "2025-01-08 09:47:05",
-      "album": {
         "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
         "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "added_at": "2025-01-08 09:47:05",
+      "album": {
+        "name": "CHEESE CAKE",
+        "url": "https://open.spotify.com/album/5bCs6T5NIVD23cUC7tKiPg"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 124933,
+      "name": "CHEESE CAKE",
+      "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
     },
     {
       "added_at": "2025-01-08 09:47:05",

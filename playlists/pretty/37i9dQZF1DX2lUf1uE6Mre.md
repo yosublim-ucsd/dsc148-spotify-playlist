@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,122 likes - 79 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,146 likes - 79 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

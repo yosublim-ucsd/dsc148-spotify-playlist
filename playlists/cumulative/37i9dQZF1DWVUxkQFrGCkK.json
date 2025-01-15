@@ -13967,6 +13967,32 @@
     },
     {
       "album": {
+        "name": "Kiss & Forget Remixes",
+        "url": "https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        },
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337427,
+      "name": "Sweet Cuddles - Dennis Cruz Remix",
+      "url": "https://open.spotify.com/track/1TUsVN2ev9kr2PWnxXcjql"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams (Radio Edit)",
         "url": "https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd"
       },

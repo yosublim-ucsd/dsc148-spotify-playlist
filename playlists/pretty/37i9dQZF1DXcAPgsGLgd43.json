@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 64046,
+  "num_followers": 64235,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
-        "name": "Ando High",
-        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "Ando High",
-      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
         "name": "Cuando Fue (feat. Jay Wheeler)",
         "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 183310,
       "name": "Cuando Fue (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
+        "name": "Pasto Y Perico (feat Jay Vazquez)",
+        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Hotel Dieu",
+          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
+        },
+        {
+          "name": "Jay V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Pasto Y Perico",
+      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
         "name": "Lindos Ojos",
         "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
       },
@@ -1499,30 +1523,6 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
-        "name": "Pasto Y Perico (feat Jay Vazquez)",
-        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Hotel Dieu",
-          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
-        },
-        {
-          "name": "Jay V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Pasto Y Perico",
-      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -1539,26 +1539,6 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        },
-        {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1583,6 +1563,26 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
         "name": "Bidi Bam",
         "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 217500,
       "name": "OBSESION",
       "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
-        "name": "Hola Venga",
-        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Hola Venga",
-      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
+        "name": "Vamo Que Vamo",
+        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Vamo Que Vamo",
+      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+    },
+    {
+      "added_at": "2025-01-10 05:00:31",
+      "album": {
         "name": "rosa blanca",
         "url": "https://open.spotify.com/album/4NGRy9UvvUGKhdwCGlis7k"
       },
@@ -1943,18 +1959,18 @@
     {
       "added_at": "2025-01-10 05:00:31",
       "album": {
-        "name": "Vamo Que Vamo",
-        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
+        "name": "Alterego",
+        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Vamo Que Vamo",
-      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
     },
     {
       "added_at": "2025-01-10 05:00:31",
@@ -1975,22 +1991,6 @@
       "duration_ms": 175357,
       "name": "Tu Sabor",
       "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2025-01-10 05:00:31",
-      "album": {
-        "name": "Alterego",
-        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Benjam\u00edn Carri\u00f3n",
-      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
     },
     {
       "added_at": "2025-01-10 05:00:31",

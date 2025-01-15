@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 544471,
+  "num_followers": 544717,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Serie 32: Yndio",
+        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+      },
+      "artists": [
+        {
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Dame Un Beso Y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 193880,
       "name": "Amor Sin Palabras",
       "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Serie 32: Yndio",
-        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
       "artists": [
         {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Dame Un Beso Y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225653,
       "name": "Doy La Vida Por Un Beso",
       "url": "https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "En Su Punto",
+        "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "En Su Punto",
-        "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 181586,
       "name": "Quien",
       "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "Separados",
-      "url": "https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 213600,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Separados",
+      "url": "https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Dulcemente Enamorada",
-      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Pero No Me Dejes",
         "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186026,
       "name": "T\u00edtere",
       "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
+        "name": "Tesoros De Coleccion - Los Chicanos",
+        "url": "https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u"
       },
       "artists": [
         {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+          "name": "Los Chicanos",
+          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
         }
       ],
-      "duration_ms": 188906,
-      "name": "Se Fue Mi Paloma",
-      "url": "https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I"
+      "duration_ms": 220866,
+      "name": "El Puente de Piedra",
+      "url": "https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Tesoros De Coleccion - Los Chicanos",
-        "url": "https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u"
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
       "artists": [
         {
-          "name": "Los Chicanos",
-          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 220866,
-      "name": "El Puente de Piedra",
-      "url": "https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S"
+      "duration_ms": 188906,
+      "name": "Se Fue Mi Paloma",
+      "url": "https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "El Golpe Traidor",
-        "url": "https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo"
-      },
-      "artists": [
-        {
-          "name": "Los Saylors",
-          "url": "https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Album de Platino... 20 Super Exitos",
         "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 174853,
       "name": "Una Lagrima y un Recuerdo",
       "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "El Golpe Traidor",
+        "url": "https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo"
+      },
+      "artists": [
+        {
+          "name": "Los Saylors",
+          "url": "https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U"
     },
     {
       "added_at": "2024-08-28 00:51:57",

@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 193398,
       "name": "3korty",
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Doktor - Torz",
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
@@ -6176,6 +6176,24 @@
       "duration_ms": 163055,
       "name": "Drogba",
       "url": "https://open.spotify.com/track/4QVAQwgq6JB7DNk1MG8EAG"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -10444,7 +10462,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -12530,7 +12548,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -12552,7 +12570,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -13924,7 +13942,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13980,7 +13998,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -15179,7 +15197,7 @@
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 142703,
+      "duration_ms": 141726,
       "name": "Mindenen t\u00fal",
       "url": "https://open.spotify.com/track/4QUEpIpyYXJhk8LB2js3Vy"
     },
@@ -17273,7 +17291,7 @@
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 215396,
+      "duration_ms": 215596,
       "name": "Orgonabokor",
       "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
     },
@@ -19575,7 +19593,7 @@
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 193142,
+      "duration_ms": 190428,
       "name": "Ringass el",
       "url": "https://open.spotify.com/track/5M5Rt2u2ct3IBgXHp5tfao"
     },
@@ -23448,7 +23466,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -25044,7 +25062,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
@@ -25604,7 +25622,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"

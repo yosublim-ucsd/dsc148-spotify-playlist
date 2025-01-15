@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34754,
+  "num_followers": 34763,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAAThO0CYFK4SIl01n4pQT0t",
+  "snapshot_id": "Z4RXgAAAAACT2NYETb6GkF5+SzCfynWR",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 241777,
       "name": "Mochila nas Costas / Empurra Empurra",
       "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -951,34 +951,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mega Da Rainha",
-        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+        "name": "Festa Linda 2",
+        "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
       "artists": [
+        {
+          "name": "MC Kapela",
+          "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         },
         {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         },
         {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
         }
       ],
-      "duration_ms": 125769,
-      "name": "Quer Sair Da Minha Vida, Pode Sair",
-      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
+      "duration_ms": 435565,
+      "name": "Festa Linda 2",
+      "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
     },
     {
       "added_at": null,
@@ -1035,78 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa Linda 2",
-        "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
-      },
-      "artists": [
-        {
-          "name": "MC Kapela",
-          "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        }
-      ],
-      "duration_ms": 435565,
-      "name": "Festa Linda 2",
-      "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nois Bate com a Polpa da Bunda",
-        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Nois Bate com a Polpa da Bunda",
-      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PANCADA",
         "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
       },
@@ -1131,6 +1079,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nois Bate com a Polpa da Bunda",
+        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Nois Bate com a Polpa da Bunda",
+      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sentando no Pula Pula",
         "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
       },
@@ -1147,6 +1115,38 @@
       "duration_ms": 174962,
       "name": "Sentando no Pula Pula",
       "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mega Da Rainha",
+        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 125769,
+      "name": "Quer Sair Da Minha Vida, Pode Sair",
+      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
     },
     {
       "added_at": null,
@@ -1235,34 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca Com Press\u00e3o",
-        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
-      },
-      "artists": [
-        {
-          "name": "Mc Troia",
-          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
-        },
-        {
-          "name": "Mc Terror",
-          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 140231,
-      "name": "Soca Com Press\u00e3o",
-      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rel\u00edquias da Marketada",
         "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 241899,
       "name": "Rel\u00edquias da Marketada",
       "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+      },
+      "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
     },
     {
       "added_at": null,
@@ -1491,6 +1491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
+      },
+      "artists": [
+        {
+          "name": "DJ Gabriel",
+          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/4oYIGuipaeOKiLrqy6OVjs"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Festa na Marina",
+      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rickweek",
         "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
       },
@@ -1507,30 +1531,6 @@
       "duration_ms": 126511,
       "name": "Vagabunda do Caralho",
       "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
-      },
-      "artists": [
-        {
-          "name": "DJ Gabriel",
-          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
-        },
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Festa na Marina",
-      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
     },
     {
       "added_at": null,

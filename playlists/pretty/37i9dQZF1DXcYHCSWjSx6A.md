@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,630 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,647 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 30 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 |
 | 31 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 |
 | 32 | [Singam Singam](https://open.spotify.com/track/11ZwdRgBn43d5H8iUn0NKj) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Megha](https://open.spotify.com/artist/4C93poAbsEf1Fvl3c30XKM) | [Singam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ohjDk7P8EaMERRY82Z9l5) | 4:21 |
-| 33 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
-| 34 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 |
+| 33 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 |
+| 34 | [Kutti Puli Kootam](https://open.spotify.com/track/5ofC5Bkx59uOWCG3gJnQy2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 6:08 |
 | 35 | [Mavane \(From "Pattas"\)](https://open.spotify.com/track/6ffEHNJBFnr68xNVoRwPf2) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Mavane \(From "Pattas"\)](https://open.spotify.com/album/1GYOC0lb0qiE8iyXyJHzrs) | 3:51 |
 | 36 | [Varavaa Varavaa](https://open.spotify.com/track/7IPRyJWp0i9vgE2mDZ8kvk) | [Anirudh Ravichander,Vignesh Shivan](https://open.spotify.com/artist/51JNE3tEZCBbwogHG5FSgQ) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 3:22 |
 | 37 | [Kadhal Yaanai](https://open.spotify.com/track/2EmoaXUqkNFzIj6L9Oy0uy) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Harini](https://open.spotify.com/artist/1pnRoXjrOiEtxcTxJPBJKH) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jVAsnneh2gwlQRfbJ5M13) | 5:48 |

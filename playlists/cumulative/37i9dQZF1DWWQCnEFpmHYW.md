@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-158 songs - 7 hr 29 min
+159 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Delicate Rain](https://open.spotify.com/track/5yj0oLWldSqf7XPydYMuOQ) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Clouds Above](https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE) | 2:46 | 2022-11-21 |  |
 | [Dragonflies](https://open.spotify.com/track/0rCLlfy2i0eMLmtVfiWXsd) | [Tom D\. Waters](https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh) | [Dragonflies](https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS) | 2:32 | 2023-02-13 |  |
 | [Dreaming Of Rain](https://open.spotify.com/track/20E1lEQfXnFeU2CcFYmcOE) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Dreaming Of Rain](https://open.spotify.com/album/1qnxqmSsWprO3QvmjIwlf6) | 3:05 | 2023-10-11 |  |
-| [Dreamy Rainfall Sanctuary](https://open.spotify.com/track/3N7ULf1gblZ4a5vPgKkrfF) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 |  |
+| [Dreamy Rainfall Sanctuary](https://open.spotify.com/track/3N7ULf1gblZ4a5vPgKkrfF) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 | 2025-01-15 |
 | [Dreary Weather](https://open.spotify.com/track/6DAspKyJW32ShusALvQqFu) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Dreary Weather](https://open.spotify.com/album/26G4udMHPZWF3C6PkqVR5G) | 3:14 | 2023-02-13 |  |
 | [Drenched in Rain](https://open.spotify.com/track/4i2VVGBH376FkZOlYXnnlX) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [Drenched In Night's Embrace](https://open.spotify.com/album/0fkIeNmkrKitbNez1LPfyf) | 2:31 | 2024-03-11 |  |
 | [Dripping Rain on Garden Stones](https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:28 | 2022-11-21 |  |
@@ -75,6 +75,7 @@
 | [Light Airy Rain](https://open.spotify.com/track/29ztwJlRRsaolUGZg2W6pc) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Light Airy Rain](https://open.spotify.com/album/74M1Rr63fwYx1kEqqHxzlR) | 3:16 | 2023-10-11 | 2024-12-19 |
 | [Light Midday Rain](https://open.spotify.com/track/0cCB3UK7HZ1WlRo9L5CJx1) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Light Midday Rain](https://open.spotify.com/album/3yrdWiExqMLI3GNF1Rppjl) | 3:20 | 2024-03-11 |  |
 | [Light Night Rain](https://open.spotify.com/track/4RAPlesKcPmpHLYoWKjL4o) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Night Rain In The Forest](https://open.spotify.com/album/26AaQKKSGH3SoRkQzJgbZO) | 3:07 | 2023-10-11 |  |
+| [Light Rain & Thunder](https://open.spotify.com/track/6iS63rb0qhmZN1tXo7NbP2) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain & Thunder](https://open.spotify.com/album/0DZKxabmesNm3liwpYOgRd) | 3:28 | 2024-08-23 |  |
 | [Light Steady Rain \(Nature\)](https://open.spotify.com/track/5a8pa3Jtnb3O8eaym8hZ7n) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 3:16 | 2022-11-21 |  |
 | [Lightning In The Sky](https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Llovizna](https://open.spotify.com/track/712yV4g1ZG1gQIAVnFiZAR) | [Inunda el Alma](https://open.spotify.com/artist/1zerdBaGrzSOlS5WCmsjAb) | [Deja Caer](https://open.spotify.com/album/5K77WUwN3klqTlsVyo6NRV) | 3:25 | 2023-10-11 | 2025-01-10 |

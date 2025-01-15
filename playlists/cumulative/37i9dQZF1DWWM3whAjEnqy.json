@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295266,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
+    },
+    {
+      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
       },
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"

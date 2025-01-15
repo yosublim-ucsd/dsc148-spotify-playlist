@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 53312,
+  "num_followers": 53322,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAD37OX/TnScX3E+DdscBuVe",
+  "snapshot_id": "Z4RXgAAAAAD+xxOF7E++tEsofSagDC1y",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guadalajara",
-        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
       "duration_ms": 204000,
       "name": "Pura Borrachera",
       "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alguien Que Me Cure",
-        "url": "https://open.spotify.com/album/3d8QWdjqxTBcQO0iJ6lFmD"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/5FDmrEfagyjBmiCrgymXiB"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alguien Que Me Cure",
+        "url": "https://open.spotify.com/album/3d8QWdjqxTBcQO0iJ6lFmD"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/5FDmrEfagyjBmiCrgymXiB"
     },
     {
       "added_at": null,
@@ -1131,22 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/5vbSnDXVHU2hiPwvARCp8P"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 242571,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carita de Santa",
         "url": "https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/5vbSnDXVHU2hiPwvARCp8P"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 242571,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirando Al Cielo",
         "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
       },
@@ -1179,6 +1179,30 @@
       "duration_ms": 196666,
       "name": "Mirando Al Cielo",
       "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed Estoy Yo",
+        "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Aqu\u00ed Estoy Yo",
+      "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
     },
     {
       "added_at": null,
@@ -1207,30 +1231,6 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aqu\u00ed Estoy Yo",
-        "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Aqu\u00ed Estoy Yo",
-      "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
     },
     {
       "added_at": null,
@@ -1315,26 +1315,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Perd\u00ed",
-        "url": "https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu"
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
       },
       "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Jon Jams",
-          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 169142,
-      "name": "Me Perd\u00ed",
-      "url": "https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc"
+      "duration_ms": 186374,
+      "name": "Ni Rey, Ni Corona",
+      "url": "https://open.spotify.com/track/2yNbAet0LRJrpYWenxWi20"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

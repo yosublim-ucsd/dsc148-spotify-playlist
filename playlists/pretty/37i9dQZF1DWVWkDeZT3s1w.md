@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,914 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,970 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 72 | [Helarte](https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Helarte](https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT) | 3:23 |
 | 73 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
 | 74 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 |
-| 75 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
-| 76 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
+| 75 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
+| 76 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
 | 77 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |
 | 78 | [Shhh](https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Shhh](https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5) | 2:25 |
 | 79 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 |

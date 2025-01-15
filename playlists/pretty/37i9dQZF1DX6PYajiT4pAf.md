@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Kapo y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,657 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,669 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 7 | [Veneno](https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Veneno](https://open.spotify.com/album/17rC9nsqSsJkHeT04DPi8E) | 3:48 |
 | 8 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 9 | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/track/5sH0eeQR4CY2U4oNK3HZd2) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/album/2N3lSXfdnvC10lkPre0wFS) | 3:20 |
-| 10 | [Heavyweight Pt\. 2](https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Heavyweight Pt\. 2](https://open.spotify.com/album/7ucHFWkHT4HSI14Ht0wz4X) | 2:04 |
+| 10 | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/album/7ucHFWkHT4HSI14Ht0wz4X) | 2:04 |
 | 11 | [DR\. SKINNY](https://open.spotify.com/track/5SnWH4ZV6DjONdl97NEF7f) | [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [DR\. SKINNY](https://open.spotify.com/album/3VR6Itiuf0SZyqLcMQ7FVz) | 2:16 |
 | 12 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
 | 13 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |

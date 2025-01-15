@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 131290,
+  "num_followers": 131382,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 208316,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 211880,
       "name": "Silhouettes - Original Radio Edit",
       "url": "https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Clarity (Deluxe)",
-        "url": "https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "url": "https://open.spotify.com/track/4bT2zLVv2T4GiK9q9KtI0v"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Calling (Lose My Mind)",
         "url": "https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 205440,
       "name": "Calling (Lose My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/1trC8L8YpawkU553ymy2zC"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Clarity (Deluxe)",
+        "url": "https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "url": "https://open.spotify.com/track/4bT2zLVv2T4GiK9q9KtI0v"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 181626,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS"
     },
     {
       "added_at": "2022-10-14 00:00:00",

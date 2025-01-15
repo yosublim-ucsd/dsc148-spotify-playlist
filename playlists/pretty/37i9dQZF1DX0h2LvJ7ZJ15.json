@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1467146,
+  "num_followers": 1467678,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 161765,
-      "name": "Fluxxwave (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "ICEWHORE!",
         "url": "https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 123062,
       "name": "ICEWHORE! - slowed",
       "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 161765,
+      "name": "Fluxxwave (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -439,42 +439,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "NO GOING BACK",
-        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "BAIXO - slowed",
-      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "SMOKE IT OFF!",
-        "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "SMOKE IT OFF - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/5zZl85FZc5wQsItOOnVpTE"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 214371,
       "name": "It's Ok - Slowed",
       "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "SMOKE IT OFF!",
+        "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 133173,
+      "name": "SMOKE IT OFF - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5zZl85FZc5wQsItOOnVpTE"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "NO GOING BACK",
+        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "BAIXO - slowed",
+      "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CRYSTALS (Remixes)",
-        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
-      },
-      "artists": [
-        {
-          "name": "PR1SVX",
-          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
-        }
-      ],
-      "duration_ms": 75833,
-      "name": "CRYSTALS (Slowed)",
-      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Swing Lynn (Slowed Version)",
         "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 448000,
       "name": "Swing Lynn - Slowed Version",
       "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CRYSTALS (Remixes)",
+        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "duration_ms": 75833,
+      "name": "CRYSTALS (Slowed)",
+      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
     },
     {
       "added_at": "2024-05-24 04:38:40",

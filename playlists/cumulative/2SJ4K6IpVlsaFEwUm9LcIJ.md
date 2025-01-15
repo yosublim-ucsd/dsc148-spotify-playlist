@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-420 songs - 23 hr 18 min
+424 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-07-16 | 2024-09-08 |
+| [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 | 2025-01-14 |  |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 | 2025-01-12 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
@@ -71,6 +72,7 @@
 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 | 2024-10-18 | 2024-11-14 |
 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 | 2024-04-10 | 2024-05-16 |
 | [Coasting](https://open.spotify.com/track/4xghRTAU6Hqjyf4MO1gr6w) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Coasting](https://open.spotify.com/album/1I3J7u3YpMetkahBFQoICw) | 2:50 | 2024-05-16 | 2024-07-12 |
+| [Coffin Maker](https://open.spotify.com/track/63KqbrdlCqaNZXXPRSwBnE) | [Chrissy Zebby Tembo](https://open.spotify.com/artist/3I8R11HYhjJIKERAUSNXM0), [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [My Ancestors](https://open.spotify.com/album/7gOFGkKA8Yxx9v0LGt7xJR) | 3:46 | 2025-01-14 |  |
 | [Cold War](https://open.spotify.com/track/6sgWlYPMTsQbPxcK8PE3Qs) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:31 | 2024-02-27 | 2024-03-10 |
 | [Colour Me In \[Demo\]](https://open.spotify.com/track/3H4pBp3l3DcNvmWX0hxdw3) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 2:20 | 2024-11-13 | 2025-01-12 |
 | [Come On](https://open.spotify.com/track/0t7tkh7EW6F8PYMMiTure3) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Cindy](https://open.spotify.com/album/2AijscEztvxZ1LKgha3hgb) | 6:00 | 2024-07-12 | 2024-09-08 |
@@ -113,7 +115,7 @@
 | [Extended Stay](https://open.spotify.com/track/2McIIeblzOucJCdqKUCeZ7) | [African\-American Sound Recordings](https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz) | [Tamika's Lodge](https://open.spotify.com/album/3hrGKo1YpKMkaTGHWkhLhj) | 1:46 | 2024-04-01 | 2024-05-16 |
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2024-02-24 | 2024-03-10 |
 | [Factory Direct](https://open.spotify.com/track/7dQ7yIBoSQjDVEt31G0nEF) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:00 | 2024-05-30 | 2024-07-12 |
-| [Falador Passa Mal](https://open.spotify.com/track/2bKOB6DLw8inrQC8UmghQN) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [É Preciso Cantar](https://open.spotify.com/album/6zfWPb8XtsYo2GN7pklbmm) | 3:10 | 2025-01-11 |  |
+| [Falador Passa Mal](https://open.spotify.com/track/2bKOB6DLw8inrQC8UmghQN) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [É Preciso Cantar](https://open.spotify.com/album/6zfWPb8XtsYo2GN7pklbmm) | 3:10 | 2025-01-11 | 2025-01-15 |
 | [Fall](https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD) | [Sway](https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS) | [The Millia Pink And Green](https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h) | 6:35 | 2024-11-29 | 2024-12-04 |
 | [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 | 2024-12-27 | 2025-01-12 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
@@ -226,6 +228,7 @@
 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 | 2024-06-08 | 2024-07-12 |
 | [Lip Reader](https://open.spotify.com/track/7ooMmZLFTrbHW0jZK97DsB) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 2:31 | 2024-09-08 | 2024-11-14 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-09-07 | 2024-11-14 |
+| [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 | 2025-01-14 |  |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
 | [Lux Radio Theatre](https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:44 | 2024-02-13 | 2024-03-10 |
 | [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 | 2024-06-26 | 2024-07-12 |
@@ -364,6 +367,7 @@
 | [Tattler](https://open.spotify.com/track/0Z8PnlfoTklzYEvFEsWlEc) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 4:19 | 2024-07-12 | 2024-09-08 |
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
+| [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 | 2025-01-14 |  |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 | 2024-07-27 | 2024-09-08 |
 | [The Circumstance](https://open.spotify.com/track/1tGhcq2wFfz0AKc7YGjyBb) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Precious Thing](https://open.spotify.com/album/6qLKWuaXghs1wpMCpX3Q8g) | 2:49 | 2024-11-13 | 2025-01-12 |

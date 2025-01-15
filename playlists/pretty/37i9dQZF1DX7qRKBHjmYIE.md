@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,101 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,086 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 44 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
 | 45 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
 | 46 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
-| 47 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
-| 48 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 47 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 48 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
 | 49 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
 | 50 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 |
 | 51 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 54 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
 | 55 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
 | 56 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [para siempre\(｡>﹏<\)](https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi) | 2:30 |
-| 57 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
-| 58 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 |
+| 57 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 |
+| 58 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 | 59 | [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 |
 | 60 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 61 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |

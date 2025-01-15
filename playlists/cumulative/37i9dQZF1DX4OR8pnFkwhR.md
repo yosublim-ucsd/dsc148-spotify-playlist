@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: 7co
+> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: 乃紫
 
-1,759 songs - 4 day 10 hr 56 min
+1,761 songs - 4 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Bジャンプ](https://open.spotify.com/track/4srFT0JT4zcoPv7YFfd53J) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Bジャンプ](https://open.spotify.com/album/4gx6cVuTGWieuv6KlyucEj) | 3:32 | 2022-04-05 | 2022-05-18 |
 | [Call Center](https://open.spotify.com/track/49hsrqDA4uRLFqkrXPfsKR) | [ヨルガヲ](https://open.spotify.com/artist/5Didow9VrdyAn3On2AA5DB) | [Call Center](https://open.spotify.com/album/1qGSBYpUhhDsA34KBioqqD) | 3:18 | 2022-05-24 | 2022-07-06 |
 | [Call me](https://open.spotify.com/track/1yU0p61KLPg36rMKbDT5TE) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Call me](https://open.spotify.com/album/4Sa87grU9iP961pLuFc0qL) | 4:05 | 2023-04-11 | 2023-06-21 |
+| [CALL, CALL](https://open.spotify.com/track/4pXiT1DrnAz48GdmtitnWv) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:22 | 2025-01-14 |  |
 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-29 | 2024-01-11 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-03-08 | 2023-02-02 |
 | [Can’t resist](https://open.spotify.com/track/4G8VTSoNLaAWsSzAPyrG9D) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Can’t resist](https://open.spotify.com/album/4gLdmQtAg7HjsJnVHvRrTV) | 3:04 | 2022-07-05 | 2022-07-20 |
@@ -188,7 +189,7 @@
 | [CINEMA](https://open.spotify.com/track/06oegyTaD09yOOy3kR0PFn) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [CINEMA](https://open.spotify.com/album/4mx7Oh2UAGhqSZB8s3gbHp) | 2:48 | 2023-07-11 | 2023-09-20 |
 | [City Light,Konya](https://open.spotify.com/track/3FAg9ucNICMj9x34VkzNQy) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [City Light,Konya](https://open.spotify.com/album/63JCLnZJ7Hcba0noNaqXIt) | 4:15 | 2023-12-19 | 2024-01-11 |
 | [Clair de Lune](https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Clair de Lune](https://open.spotify.com/album/76COmJUn5hbDl9a33aQCzL) | 3:35 | 2023-12-05 | 2023-12-20 |
-| [Clock Hands](https://open.spotify.com/track/0UM1h6MsQbDkA6qc1h6h39) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:59 | 2025-01-09 |  |
+| [Clock Hands](https://open.spotify.com/track/0UM1h6MsQbDkA6qc1h6h39) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:59 | 2025-01-09 | 2025-01-15 |
 | [Clock Hands](https://open.spotify.com/track/3Ub3oRQAqLZnbhmgKlSpsu) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/5IrgyaalaogMONs3YRbiGs) | 3:59 | 2024-09-24 | 2024-12-04 |
 | [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 | 2023-07-18 | 2023-09-07 |
 | [Coin Laundry](https://open.spotify.com/track/1qvK4SiFWA2wKKyPF6RR32) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:42 | 2023-03-22 | 2023-04-19 |
@@ -632,6 +633,7 @@
 | [Night Out](https://open.spotify.com/track/0qO3nh7giIoryNbhpkA52V) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Night Out](https://open.spotify.com/album/3M5Zug7kp9osZEXxUBgLix) | 4:24 | 2022-12-06 | 2022-12-21 |
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-02-17 | 2022-03-23 |
 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-03 | 2025-01-10 |
+| [Nightglow Dreamer](https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/4KGHyHDeaPt8Ee9BOS9DAD) | 4:29 | 2025-01-14 |  |
 | [nitari](https://open.spotify.com/track/1ZKoFnft58Ak3jujRlUGJQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [nitari](https://open.spotify.com/album/17ecQayWxTwcz9o25u8HHE) | 2:43 | 2024-02-06 | 2024-04-10 |
 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 | 2023-09-08 |
 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
@@ -999,7 +1001,7 @@
 | [WILD](https://open.spotify.com/track/1UiehiP8oINZzEbyuafNuv) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [WILD](https://open.spotify.com/album/26eluELAmbngGNrvH1dkv3) | 3:37 | 2024-12-10 | 2025-01-10 |
 | [Window](https://open.spotify.com/track/4ycontXqdHvbzGMc93hkxv) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:47 | 2023-09-28 | 2023-10-04 |
 | [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 | 2024-03-13 |
-| [Windy You](https://open.spotify.com/track/18wbmQvRyObnoxpiyxAOE0) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:48 | 2025-01-09 |  |
+| [Windy You](https://open.spotify.com/track/18wbmQvRyObnoxpiyxAOE0) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:48 | 2025-01-09 | 2025-01-15 |
 | [Windy You](https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Windy You](https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp) | 3:50 | 2024-05-28 | 2024-07-24 |
 | [Wish upon the Summer](https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Wish upon the Summer](https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe) | 3:01 | 2023-07-11 | 2023-10-04 |
 | [Wishing](https://open.spotify.com/track/1VfdAoxCRpZce6H1Er7EUa) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5YcBwWlQmOm6Hd3VqohUsC) | 2:49 | 2023-12-12 | 2024-01-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\. Cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,278 likes - 126 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,475 likes - 126 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

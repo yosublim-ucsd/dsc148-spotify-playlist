@@ -1297,6 +1297,36 @@
     },
     {
       "album": {
+        "name": "Fariyaa",
+        "url": "https://open.spotify.com/album/16gKWBvfwMSaunSv3svJOC"
+      },
+      "artists": [
+        {
+          "name": "Mohan Nani Karra",
+          "url": "https://open.spotify.com/artist/7qdbYGVQzLmwBGDAgGMQRj"
+        },
+        {
+          "name": "Akhil Sanjoy",
+          "url": "https://open.spotify.com/artist/5Onpy6DbXWxtslm5B3ekPk"
+        },
+        {
+          "name": "Keerthana Srinivas",
+          "url": "https://open.spotify.com/artist/6StgZvDOkg3r9d4gV30zzX"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276019,
+      "name": "Fariyaa",
+      "url": "https://open.spotify.com/track/2ur9h7KSNPLFVCV2czUgJD"
+    },
+    {
+      "album": {
         "name": "FLYHIGH",
         "url": "https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR"
       },

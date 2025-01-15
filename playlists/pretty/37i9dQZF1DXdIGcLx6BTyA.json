@@ -311,18 +311,22 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+        "name": "Evergreen (feat. Caamp)",
+        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
       },
       "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
         {
           "name": "Caamp",
           "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 129463,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+      "duration_ms": 177512,
+      "name": "Evergreen (feat. Caamp)",
+      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -343,22 +347,18 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Evergreen (feat. Caamp)",
-        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
       },
       "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        },
         {
           "name": "Caamp",
           "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 177512,
-      "name": "Evergreen (feat. Caamp)",
-      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+      "duration_ms": 129463,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "The Frost",
-      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 567906,
       "name": "Thoroughfare",
       "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "The Frost",
+      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Daytona Sand",
-      "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Daytona Sand",
+      "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
     },
     {
       "added_at": "2024-11-12 18:01:47",

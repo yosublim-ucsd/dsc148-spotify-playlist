@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94479,
+  "num_followers": 94475,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "Pelele",
         "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "MAFIA",
-      "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "MAFIA",
+      "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 160051,
-      "name": "Alleluia (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 160051,
+      "name": "Alleluia (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Take 5",
-        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 191856,
-      "name": "Take 5",
-      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Gully (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "BETRAYED",
+      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "23 6451",
         "url": "https://open.spotify.com/album/2zBib5x7l1D5KPXPEePOab"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 201094,
       "name": "0ffline (feat. bbno$)",
       "url": "https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Gully (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 192203,
-      "name": "BETRAYED",
-      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1551,26 +1535,38 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Fastlife 4",
-        "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
+        "name": "Moonwalking in Calabasas (feat. Blueface) [Remix]",
+        "url": "https://open.spotify.com/album/1z02WpEdAuImwfySk43owY"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "Dj Harsh",
-          "url": "https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
         }
       ],
-      "duration_ms": 130434,
-      "name": "Smith & Wesson Freestyle (feat. Marracash)",
-      "url": "https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM"
+      "duration_ms": 170232,
+      "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
+      "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "Take 5",
+        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 191856,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
     }
   ],
   "unique_name": "GOOD GAME",

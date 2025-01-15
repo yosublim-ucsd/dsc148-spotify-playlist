@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Awich",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: YZERR",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -1647,6 +1647,32 @@
     },
     {
       "album": {
+        "name": "DAYS B4 THE LIGHTS",
+        "url": "https://open.spotify.com/album/0TIYoO6nUSXVPPrbN8GyQL"
+      },
+      "artists": [
+        {
+          "name": "AIRIE",
+          "url": "https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py"
+        },
+        {
+          "name": "REVE",
+          "url": "https://open.spotify.com/artist/4wJheZiJhGcDde8o0lQFp3"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179218,
+      "name": "Another (feat. REVE & Tade dust)",
+      "url": "https://open.spotify.com/track/5C6H2ti9JULJuYczuMV7wE"
+    },
+    {
+      "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/2MuyNjWV4SDFCudotZyNnW"
       },
@@ -2826,7 +2852,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 270734,
       "name": "Be Myself",
       "url": "https://open.spotify.com/track/0nb59pe2awtBKta064QUkb"
@@ -3371,6 +3397,28 @@
     },
     {
       "album": {
+        "name": "BIOHARDZA (feat. CYBER RUI)",
+        "url": "https://open.spotify.com/album/7Gh7XtLc0W9O6UelhOD1wI"
+      },
+      "artists": [
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        },
+        {
+          "name": "CYBER RUI",
+          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "BIOHARDZA (feat. CYBER RUI)",
+      "url": "https://open.spotify.com/track/4SZHaRSUHzFEqynFPKehpg"
+    },
+    {
+      "album": {
         "name": "Bitches Outside",
         "url": "https://open.spotify.com/album/5MRcORRHdZVHYHpO8W5rRc"
       },
@@ -3601,6 +3649,28 @@
     },
     {
       "album": {
+        "name": "iNNER FLAMES",
+        "url": "https://open.spotify.com/album/2GcEopbRuRGNLK7G7IbhAx"
+      },
+      "artists": [
+        {
+          "name": "MONJU",
+          "url": "https://open.spotify.com/artist/58HRcNNiwUJKSe2dExrgEm"
+        },
+        {
+          "name": "BudaMunk",
+          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Born and Raised",
+      "url": "https://open.spotify.com/track/6GZZLv0uVbQ4s9dTfcvwjF"
+    },
+    {
+      "album": {
         "name": "BORRACHO (Prod.\u8d77\u4e00)",
         "url": "https://open.spotify.com/album/527BSngbTkKkr9Q9xVk95o"
       },
@@ -3738,6 +3808,28 @@
       "duration_ms": 196343,
       "name": "Bounce!",
       "url": "https://open.spotify.com/track/20UyJviDVa4CUWpn12rChM"
+    },
+    {
+      "album": {
+        "name": "BOVA",
+        "url": "https://open.spotify.com/album/4Ek8qUAox294tkWzg7gOSk"
+      },
+      "artists": [
+        {
+          "name": "VIGOR MAN",
+          "url": "https://open.spotify.com/artist/3expK8GzSFWORVEFnKq8h1"
+        },
+        {
+          "name": "LIFE STYLE",
+          "url": "https://open.spotify.com/artist/4yTlkvMq4KzvvkvlF5qnyJ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194367,
+      "name": "BOVA",
+      "url": "https://open.spotify.com/track/7srVxvgqQetGNgjWxLfk4f"
     },
     {
       "album": {
@@ -4174,7 +4266,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 180000,
       "name": "Career High",
       "url": "https://open.spotify.com/track/6C95MDvt5aqVTQpYS4wyeg"
@@ -4304,6 +4396,36 @@
       "duration_ms": 231739,
       "name": "Certified (feat. 5lack)",
       "url": "https://open.spotify.com/track/0FvwGZ15JAhiQ6lqjzrxDW"
+    },
+    {
+      "album": {
+        "name": "CHA CHA \u611b",
+        "url": "https://open.spotify.com/album/5fbcRlQBjheUPCLfbK0FXk"
+      },
+      "artists": [
+        {
+          "name": "Issei Uno Fifth",
+          "url": "https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246827,
+      "name": "CHA CHA \u611b",
+      "url": "https://open.spotify.com/track/0xUlzv4pnxwaecooxhIhHJ"
     },
     {
       "album": {
@@ -5378,7 +5500,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 139800,
       "name": "Dappi",
       "url": "https://open.spotify.com/track/6MW7XGfsskNpEs4cq9BMjG"
@@ -5738,7 +5860,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 230182,
       "name": "Devil (feat. X 1ark & Pxrge Trxxxper)",
       "url": "https://open.spotify.com/track/2VtLntbUTqSwMg0RJXJd6R"
@@ -7653,6 +7775,28 @@
     },
     {
       "album": {
+        "name": "FAFJUNK",
+        "url": "https://open.spotify.com/album/6NwUKjHHOKexOfOpsbqRS7"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        },
+        {
+          "name": "ILLJUNK",
+          "url": "https://open.spotify.com/artist/7IV6cDdnJGSd0kgaGNckHo"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "FAFJUNK",
+      "url": "https://open.spotify.com/track/3yH1cPk86ZJXyIptRBNgIr"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/25eKwymy6EyUyRbPjOzVPM"
       },
@@ -8478,7 +8622,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 174056,
       "name": "Freestyle (feat. SMILEE & P-Free)",
       "url": "https://open.spotify.com/track/0vvSyjgikPgEMv6jd4YzTN"
@@ -10564,7 +10708,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 171418,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6nCY6DDM02Ka3cwLY8l5iS"
@@ -10626,7 +10770,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 207142,
       "name": "HONNE",
       "url": "https://open.spotify.com/track/6th22FgUb3DrzwqeWChRx2"
@@ -11060,7 +11204,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 184290,
       "name": "i like it (feat. Yo-Sea, LEX & IO)",
       "url": "https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5"
@@ -11244,6 +11388,28 @@
       "duration_ms": 176263,
       "name": "ICEY - Remix",
       "url": "https://open.spotify.com/track/7iE5uhQk8kvmOkDLiBQ2Gm"
+    },
+    {
+      "album": {
+        "name": "Walk the Walk",
+        "url": "https://open.spotify.com/album/4bAYRopzGSipileTYERVtc"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123853,
+      "name": "ICOCA",
+      "url": "https://open.spotify.com/track/5fdaLga4W1xSJf3tmjmuIY"
     },
     {
       "album": {
@@ -11828,7 +11994,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 154749,
       "name": "Jerry",
       "url": "https://open.spotify.com/track/70BKywjW6yUcgKacS5D5K6"
@@ -11922,7 +12088,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 132131,
       "name": "join my band - feat. Skaai",
       "url": "https://open.spotify.com/track/4kXPHQ9ortwiLHywFPM2T3"
@@ -12042,6 +12208,28 @@
       "duration_ms": 186298,
       "name": "JUST DO IT",
       "url": "https://open.spotify.com/track/7pbfGiDkPOziik6gPMb9gn"
+    },
+    {
+      "album": {
+        "name": "K.O. (Tru Master)",
+        "url": "https://open.spotify.com/album/0uKWgCdyakXIa0oFvAL1f9"
+      },
+      "artists": [
+        {
+          "name": "Kowree",
+          "url": "https://open.spotify.com/artist/0dTD1vduOYidhrWW8iSyek"
+        },
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183123,
+      "name": "K.O. (Tru Master)",
+      "url": "https://open.spotify.com/track/3DEk8IlyJBEqb7fOrSBIRR"
     },
     {
       "album": {
@@ -12172,6 +12360,24 @@
       "duration_ms": 190888,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/2eDB6uccsr3tkfL8TnOE7n"
+    },
+    {
+      "album": {
+        "name": "The Only Way",
+        "url": "https://open.spotify.com/album/4C3O9QJRSrTecBtsHHEimg"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Kawai!",
+      "url": "https://open.spotify.com/track/3LCVJX1UaoM5zHsqbwYXZh"
     },
     {
       "album": {
@@ -14400,7 +14606,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 178000,
       "name": "Me & My Musik (feat. JJJ)",
       "url": "https://open.spotify.com/track/0jYU5Tq5KWFriOG1kYX2Ui"
@@ -15541,6 +15747,28 @@
     },
     {
       "album": {
+        "name": "My Village",
+        "url": "https://open.spotify.com/album/2dQ3mGDgiun1AdBg8KL9XN"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Village",
+      "url": "https://open.spotify.com/track/3vamGAFq3y2191k6DliaRH"
+    },
+    {
+      "album": {
         "name": "N64",
         "url": "https://open.spotify.com/album/67hqEMyPxnIVgmFDHXZJgn"
       },
@@ -15822,7 +16050,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 148000,
       "name": "Neet tokyo freestyle (feat. SEEDA)",
       "url": "https://open.spotify.com/track/4udfLv4bJwmCayqkznikFA"
@@ -16687,6 +16915,28 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/135Vc6lX1BUhxMdTBTtSxM"
+      },
+      "artists": [
+        {
+          "name": "AZU",
+          "url": "https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "No Follow (feat. DADA)",
+      "url": "https://open.spotify.com/track/4DBZjUJJIvvtPCA4Msg7ff"
+    },
+    {
+      "album": {
         "name": "The Biography",
         "url": "https://open.spotify.com/album/7DRiHtfpOKE9H59VLdBHfd"
       },
@@ -16710,6 +16960,28 @@
       "duration_ms": 174120,
       "name": "No Hook (044 Freestyle)",
       "url": "https://open.spotify.com/track/0PSVvrz99pPEDeXHmvXk2z"
+    },
+    {
+      "album": {
+        "name": "No Hook (feat. TAKER SMOKE) [Remix] [044 Freestyle]",
+        "url": "https://open.spotify.com/album/41s1ZKC9rxPixqDSpxpcCM"
+      },
+      "artists": [
+        {
+          "name": "ERASER",
+          "url": "https://open.spotify.com/artist/0zEupgZ6k1jzJuEYazpyTr"
+        },
+        {
+          "name": "TAKER SMOKE",
+          "url": "https://open.spotify.com/artist/6XVOHc61kaFrVpJadnRB2F"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174947,
+      "name": "No Hook - Remix - 044 Freestyle",
+      "url": "https://open.spotify.com/track/48xQshXSe4rSJZm5CTaDY5"
     },
     {
       "album": {
@@ -17740,7 +18012,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 164680,
       "name": "Only One For Me (feat. Skaai)",
       "url": "https://open.spotify.com/track/2nRsHNSlD0ycaecn4zGec7"
@@ -19826,7 +20098,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 166022,
       "name": "Requiem (feat. STICKY BUDS)",
       "url": "https://open.spotify.com/track/0LlmNIxHLTIXPsWTc9KTVV"
@@ -20614,6 +20886,24 @@
       "duration_ms": 178200,
       "name": "Runner's high",
       "url": "https://open.spotify.com/track/3htFZN7Sq8YYFdMsgBOFf7"
+    },
+    {
+      "album": {
+        "name": "Runnnn",
+        "url": "https://open.spotify.com/album/7GbYQ6gUXh2BEVQVBsoBbc"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186898,
+      "name": "Runnnn",
+      "url": "https://open.spotify.com/track/2Ki8MunX9DWnDpIjvjOs2w"
     },
     {
       "album": {
@@ -23743,6 +24033,28 @@
     },
     {
       "album": {
+        "name": "Thru the night",
+        "url": "https://open.spotify.com/album/05rUpCEtFf6U1vt2rt4aQM"
+      },
+      "artists": [
+        {
+          "name": "LIL SOFT TENNIS",
+          "url": "https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ"
+        },
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138653,
+      "name": "Thru the night",
+      "url": "https://open.spotify.com/track/6PXwCHwKYa6XBmuejjLQgD"
+    },
+    {
+      "album": {
         "name": "Till I Die",
         "url": "https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130"
       },
@@ -23780,7 +24092,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 174400,
       "name": "Time (feat. Tade Dust)",
       "url": "https://open.spotify.com/track/5XPvqUjBuMjcPAVBaoXbyo"
@@ -25499,6 +25811,32 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2oofWtpRPuzR30vIZBL1ZU"
+      },
+      "artists": [
+        {
+          "name": "Dry Echoes",
+          "url": "https://open.spotify.com/artist/4yV4Hu7Kbq9S1sLOyfOJVE"
+        },
+        {
+          "name": "\u7530\u4e2d\u5149",
+          "url": "https://open.spotify.com/artist/1nqpivf0d5c7uPUjZE9LeM"
+        },
+        {
+          "name": "FKD",
+          "url": "https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156496,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6c9RdGTDAAn6rQCoB0yryZ"
+    },
+    {
+      "album": {
         "name": "Welcome 2 Wakayama",
         "url": "https://open.spotify.com/album/18XwjrIqp95TsYbRNnjcDd"
       },
@@ -26018,7 +26356,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 294681,
       "name": "Working Class King",
       "url": "https://open.spotify.com/track/17Ypcbt0VoqFLCJcX1Pxo5"
@@ -28860,6 +29198,28 @@
       "duration_ms": 189459,
       "name": "\u6eba\u308c\u305d\u3046\u306a\u307b\u3069",
       "url": "https://open.spotify.com/track/0lk4Zb73iItdr70qv9P94p"
+    },
+    {
+      "album": {
+        "name": "sanctuary",
+        "url": "https://open.spotify.com/album/0Qhz7qEH0KND5zyqQujVX2"
+      },
+      "artists": [
+        {
+          "name": "Junior Hsus",
+          "url": "https://open.spotify.com/artist/4fadsxO0924bSJqRc3loXp"
+        },
+        {
+          "name": "ISIDOR",
+          "url": "https://open.spotify.com/artist/1araW5Hq6lDcesjArbZaL8"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211568,
+      "name": "\u7121\u539f\u7f6a\u58ca\u80ce",
+      "url": "https://open.spotify.com/track/30mbaKLUdLoaCZcMmCbFao"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,520 likes - 154 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,527 likes - 154 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 5 | [En av En](https://open.spotify.com/track/25gpMBmBl7NirmrPNCCejo) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [En av En](https://open.spotify.com/album/2gwH6ZL3Y1eJtOABL5Lely) | 1:58 |
 | 6 | [G & P](https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [G & P](https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY) | 1:51 |
 | 7 | [Tack mitt \(X\)](https://open.spotify.com/track/122f2GTwtButQFALowd18H) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Tack mitt \(X\)](https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE) | 2:08 |
-| 8 | [Reminisce](https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:03 |
+| 8 | [Reminisce](https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Lost Tapes](https://open.spotify.com/album/0jpkN3FgA9PVKagrcKOpos) | 2:03 |
 | 9 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 | 10 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 |
 | 11 | [PICASSO](https://open.spotify.com/track/5FMWYAjbeDQj3os2WGQs5E) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PICASSO](https://open.spotify.com/album/5HQxmiimIqUv8l9rg6babh) | 2:19 |

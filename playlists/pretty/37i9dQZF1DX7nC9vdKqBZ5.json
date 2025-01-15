@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514618,
+  "num_followers": 1514660,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "ciumeira",
-      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Casa de Praia 2 (ac\u00fastico)",
         "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 175086,
       "name": "Pijama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "ciumeira",
+      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        }
-      ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00f3s 3 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
       },
@@ -1267,6 +1243,30 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Sutileza",
         "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "J\u00fapiter (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 136208,
       "name": "J\u00fapiter - Ao Vivo",
       "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ainda Bem Que Chegou (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Ainda Bem Que Chegou (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Ainda Bem Que Chegou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Ainda Bem Que Chegou (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
-      },
-      "artists": [
-        {
-          "name": "Eu, Trovador",
-          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 203625,
       "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 216336,
       "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
         "url": "https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
+        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 148669,
-      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
         }
       ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
+      "duration_ms": 148669,
+      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
     }
   ],
   "unique_name": "Desplugado",

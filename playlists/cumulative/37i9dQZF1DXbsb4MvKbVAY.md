@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa NEEA RIVER.
 
-728 songs - 1 day 12 hr 11 min
+729 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-10 | 2024-10-18 |
 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-07-02 | 2024-07-19 |
 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 | 2024-11-28 | 2025-01-03 |
+| [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-14 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-10 |  |
 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 | 2024-08-01 | 2024-08-09 |
 | [Pyydän valmiiks jo anteeks](https://open.spotify.com/track/2kqoy8XVUtWIzAEtLSHceR) | [PAMELA](https://open.spotify.com/artist/41VOUHoAL2PjvmmkcvyAZO) | [Pyydän valmiiks jo anteeks](https://open.spotify.com/album/1K3WPCJ8uH43AHtQpfV0Qn) | 2:45 | 2024-09-19 | 2024-09-27 |
@@ -565,7 +566,7 @@
 | [Seuraa](https://open.spotify.com/track/3qRR8uVp0CrDtaDxH0mj3E) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Seuraa](https://open.spotify.com/album/6ChVDZ5P3XLDqOax8lunym) | 3:36 | 2024-11-28 | 2024-12-06 |
 | [Sex = Money](https://open.spotify.com/track/628gpiZGfGTFt6shikJclc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sex = Money](https://open.spotify.com/album/2ZcQdeB6HuLYtcnR4o00x4) | 2:53 | 2024-10-10 | 2024-10-18 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-07-02 | 2024-08-30 |
-| [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/track/0m6bjOwA8lLNdb2Eo00I2B) | [pins.ku](https://open.spotify.com/artist/2NPJuEmN4HqJ89SHO99x1w), [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/album/71dRsvmIWXvH6IVJorGzli) | 3:13 | 2024-12-12 |  |
+| [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/track/0m6bjOwA8lLNdb2Eo00I2B) | [pins.ku](https://open.spotify.com/artist/2NPJuEmN4HqJ89SHO99x1w), [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/album/71dRsvmIWXvH6IVJorGzli) | 3:13 | 2024-12-12 | 2025-01-15 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2024-12-03 |
 | [Sinilevä](https://open.spotify.com/track/2x7jDG4VYwbNDr0Yyvho1P) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Sinilevä](https://open.spotify.com/album/755dC9Fq9chBrDlJ9QvpvC) | 2:17 | 2025-01-02 | 2025-01-10 |
 | [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-07-02 | 2024-07-23 |

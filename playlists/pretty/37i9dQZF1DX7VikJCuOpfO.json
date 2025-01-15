@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 207054,
+  "num_followers": 207050,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "\u00bfSer\u00e1 Prudente?",
         "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 226906,
       "name": "\u00bfSer\u00e1 Prudente?",
       "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -819,18 +819,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Inexperto En Olvidarte",
-        "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
+        "name": "Te Llevo En La Sangre",
+        "url": "https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU"
       },
       "artists": [
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 185213,
-      "name": "Inexperto En Olvidarte",
-      "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
+      "duration_ms": 160280,
+      "name": "Cobijas Ajenas",
+      "url": "https://open.spotify.com/track/5DelZl3SKdPLBSA8Ovhydk"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -919,6 +923,22 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
+        "name": "Pal Barrio",
+        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 185118,
+      "name": "Cuando Un Amor Se Va",
+      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
         "name": "Lo Que No Sirve, Estorba",
         "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 156640,
       "name": "Lo Que No Sirve, Estorba",
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
-        "name": "Pal Barrio",
-        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 185118,
-      "name": "Cuando Un Amor Se Va",
-      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1027,22 +1031,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "Ojo Por Ojo",
-        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 181614,
-      "name": "Ojo Por Ojo",
-      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Peca de Bonita",
         "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
@@ -1071,6 +1059,22 @@
       "duration_ms": 169440,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "Ojo Por Ojo",
+        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 181614,
+      "name": "Ojo Por Ojo",
+      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
     },
     {
       "added_at": "2025-01-05 18:34:10",
@@ -1483,22 +1487,6 @@
     {
       "added_at": "2025-01-05 18:34:10",
       "album": {
-        "name": "H\u00e1gale",
-        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Navarrete",
-          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "H\u00e1gale",
-      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
-    },
-    {
-      "added_at": "2025-01-05 18:34:10",
-      "album": {
         "name": "Antes De Que Te Vayas",
         "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
       },
@@ -1511,6 +1499,22 @@
       "duration_ms": 271967,
       "name": "Antes De Que Te Vayas",
       "url": "https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS"
+    },
+    {
+      "added_at": "2025-01-05 18:34:10",
+      "album": {
+        "name": "H\u00e1gale",
+        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "H\u00e1gale",
+      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
     },
     {
       "added_at": "2025-01-05 18:34:10",

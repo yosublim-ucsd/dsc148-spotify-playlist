@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25966,
+  "num_followers": 25981,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAAC+xP8xwc2CLkBoyexwYvu9",
+  "snapshot_id": "Z4RXgAAAAADW1UWe8eAO//7Ec3eLnee2",
   "tracks": [
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Messenger 4: Independents Day",
-        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 259615,
-      "name": "Smoke Free",
-      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
+      "duration_ms": 38706,
+      "name": "(9 Am)",
+      "url": "https://open.spotify.com/track/7LUgv3Nyuxi2j1G7OWHElI"
     }
   ],
   "unique_name": "This Is KB",

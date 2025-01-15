@@ -1,12 +1,12 @@
 {
   "description": "songs voor je playlist! #fyp",
-  "num_followers": 39452,
+  "num_followers": 39474,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4S4LgAAAACX3UsrUrwXMLYcgxjR7aAn",
+  "snapshot_id": "Z4Z7VQAAAADebzFAsLLKfLj8eA82FnRN",
   "tracks": [
     {
       "added_at": "2025-01-13 06:52:30",
@@ -47,6 +47,22 @@
       "duration_ms": 134400,
       "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "Dammie",
+        "url": "https://open.spotify.com/album/4kLGo8swLJ6P1k9PQ03TXj"
+      },
+      "artists": [
+        {
+          "name": "Dubbel R",
+          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Dammie",
+      "url": "https://open.spotify.com/track/2eaJthrWWG0v0TSvCL4E32"
     },
     {
       "added_at": "2025-01-13 06:52:30",
@@ -159,54 +175,6 @@
     {
       "added_at": "2025-01-13 06:52:30",
       "album": {
-        "name": "Dammie",
-        "url": "https://open.spotify.com/album/4kLGo8swLJ6P1k9PQ03TXj"
-      },
-      "artists": [
-        {
-          "name": "Dubbel R",
-          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Dammie",
-      "url": "https://open.spotify.com/track/2eaJthrWWG0v0TSvCL4E32"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
         "name": "Lady Killers II (Christoph Andersson Remix)",
         "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
       },
@@ -227,34 +195,18 @@
     {
       "added_at": "2025-01-13 06:52:30",
       "album": {
-        "name": "Holiday Dance Wave",
-        "url": "https://open.spotify.com/album/1u3GhpiuFUOP9igHxVe5cl"
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
       "artists": [
         {
-          "name": "Moai",
-          "url": "https://open.spotify.com/artist/55zJGyCsiETTrBaXbHoGZn"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 175673,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/3MvfsNpNDCKlu7RkYioz9U"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "duration_ms": 149440,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2025-01-13 06:52:30",
@@ -271,6 +223,70 @@
       "duration_ms": 249866,
       "name": "J'me tire",
       "url": "https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "Holiday Dance Wave",
+        "url": "https://open.spotify.com/album/1u3GhpiuFUOP9igHxVe5cl"
+      },
+      "artists": [
+        {
+          "name": "Moai",
+          "url": "https://open.spotify.com/artist/55zJGyCsiETTrBaXbHoGZn"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3MvfsNpNDCKlu7RkYioz9U"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+      },
+      "artists": [
+        {
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
       "added_at": "2025-01-13 06:52:30",
@@ -379,22 +395,6 @@
     {
       "added_at": "2025-01-13 06:52:30",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
         "name": "Fly Kid (Remix)",
         "url": "https://open.spotify.com/album/55o4vCtbUrtXXlwU1aiMHx"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 80500,
       "name": "Waka",
       "url": "https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx"
-    },
-    {
-      "added_at": "2025-01-13 06:52:30",
-      "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
-      },
-      "artists": [
-        {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
     },
     {
       "added_at": "2025-01-13 06:52:30",
@@ -767,6 +751,22 @@
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2025-01-13 06:52:30",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "added_at": "2025-01-13 06:52:30",

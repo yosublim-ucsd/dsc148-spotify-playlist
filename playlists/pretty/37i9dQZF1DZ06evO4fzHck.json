@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 560739,
+  "num_followers": 560832,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAADyCP45o/gtcVNIhy1vSsmK",
+  "snapshot_id": "Z4RXgAAAAAAvu1EQl8pMu+oBhLaJKryB",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 363460,
-      "name": "I Can Never Say Goodbye",
-      "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 321101,
-      "name": "All I Ever Am",
-      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
+      "duration_ms": 363460,
+      "name": "I Can Never Say Goodbye",
+      "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
     },
     {
       "added_at": null,

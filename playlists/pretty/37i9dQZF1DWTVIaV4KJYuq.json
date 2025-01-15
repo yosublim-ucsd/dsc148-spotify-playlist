@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 702433,
+  "num_followers": 702570,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -79,22 +83,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 217873,
-      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 212157,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
+        "name": "Love Goes: Live at Abbey Road Studios",
+        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+      "duration_ms": 232128,
+      "name": "Time After Time - Live At Abbey Road Studios",
+      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -431,18 +431,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Love Goes: Live at Abbey Road Studios",
-        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 232128,
-      "name": "Time After Time - Live At Abbey Road Studios",
-      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -463,22 +467,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Forever Young (From NBC's Parenthood)",
-        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 261370,
-      "name": "Forever Young - From NBC's Parenthood",
-      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+      "duration_ms": 241960,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Leclerc",
-          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "What's up",
-      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Leclerc",
+          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
+      },
+      "artists": [
+        {
+          "name": "Noah Chenfeld",
+          "url": "https://open.spotify.com/artist/3dVlgSRdeIxsvE0ALIJ7TW"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Born To Run",
+      "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Don't Think Twice, It's All Right",
         "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 200432,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
-      },
-      "artists": [
-        {
-          "name": "Noah Chenfeld",
-          "url": "https://open.spotify.com/artist/3dVlgSRdeIxsvE0ALIJ7TW"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Born To Run",
-      "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Stranger In A Strange Land",
-        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
+        "name": "Didn't Want to Have to Do It",
+        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Lady Apple Tree",
+          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
         }
       ],
-      "duration_ms": 288618,
-      "name": "Stranger In A Strange Land",
-      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
+      "duration_ms": 264362,
+      "name": "Didn't Want to Have to Do It",
+      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Didn't Want to Have to Do It",
-        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
+        "name": "Stranger In A Strange Land",
+        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
       },
       "artists": [
         {
-          "name": "Lady Apple Tree",
-          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 264362,
-      "name": "Didn't Want to Have to Do It",
-      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
+      "duration_ms": 288618,
+      "name": "Stranger In A Strange Land",
+      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
     },
     {
       "added_at": "2024-10-18 04:00:00",

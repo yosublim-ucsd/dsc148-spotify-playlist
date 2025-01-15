@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Cover: Soolking & GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,843 likes - 65 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,852 likes - 65 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

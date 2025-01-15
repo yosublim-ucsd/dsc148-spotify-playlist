@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ?si=nXDyADFFR5Cd_waLOSAXrA\">Panda Bear</a>",
-  "num_followers": 67512,
+  "num_followers": 67507,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQXtopTRsxYaHfYWB3W2EtivhkxPj5",
+  "snapshot_id": "AAAQYPJKt7jUHUMgIXD6Qa318HfviuDO",
   "tracks": [
+    {
+      "added_at": "2025-01-14 16:11:02",
+      "album": {
+        "name": "QQQQ",
+        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 203601,
+      "name": "QQQQ",
+      "url": "https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda"
+    },
     {
       "added_at": "2025-01-08 12:28:54",
       "album": {

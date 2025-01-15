@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\.  en portada\. Juan Freer, miguel cornejo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,202 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,499 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 87 | [El Equipo Del 08](https://open.spotify.com/track/6ALiOE20fBw7Esx3vE3mRf) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Equipo Del 08](https://open.spotify.com/album/66OZ2i2kaIuF24PKEwWtzE) | 2:50 |
 | 88 | [El R1](https://open.spotify.com/track/02D4KZ5RVrkbLFKWMvPU1R) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [El R1](https://open.spotify.com/album/7dhrNfxgoKNVyo15VFqQCx) | 4:08 |
 | 89 | [La Meta](https://open.spotify.com/track/60J52I2dRWoc5K3KbN2Hx6) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Meta](https://open.spotify.com/album/5uDrnKMg7tuWB5AzVGStQ7) | 2:35 |
-| 90 | [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:54 |
+| 90 | [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:46 |
 | 91 | [Eddiecho Adios](https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Eddiecho Adios](https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81) | 4:00 |
 | 92 | [Por Clave P1](https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Por Clave P1](https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo) | 3:07 |
 | 93 | [El Tarasco](https://open.spotify.com/track/4ocz1XshZmLKI4hhX7n56k) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [El Tarasco](https://open.spotify.com/album/6DvuanEXRcHjYT8a1i9q5P) | 3:23 |

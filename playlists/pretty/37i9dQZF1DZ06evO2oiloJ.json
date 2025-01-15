@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 222818,
+  "num_followers": 222967,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4MGAAAAAADJD0LAbbE3pOTmF5S7sdv4",
+  "snapshot_id": "Z4RXgAAAAADTHG8XslT1DT3P1cOxgDqh",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM",
-        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 197400,
-      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/6zrCf0MGof32vwLPZIZY2S"
+      "duration_ms": 178677,
+      "name": "Sky Priority",
+      "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
     },
     {
       "added_at": null,
@@ -263,18 +255,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
       "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 178677,
-      "name": "Sky Priority",
-      "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
+      "duration_ms": 197400,
+      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/6zrCf0MGof32vwLPZIZY2S"
     },
     {
       "added_at": null,

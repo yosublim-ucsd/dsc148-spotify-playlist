@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: Malcolm Todd",
+  "description": "a little indie, a little pop.  Cover: IDER",
   "name": "soda",
   "tracks": [
     {
@@ -1342,6 +1342,24 @@
       "duration_ms": 233466,
       "name": "At the End of the Day",
       "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
+    },
+    {
+      "album": {
+        "name": "Attachment Theory",
+        "url": "https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Attachment Theory",
+      "url": "https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT"
     },
     {
       "album": {
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 201217,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/5x7Xv7v0UO5BPDGas3Zyak"

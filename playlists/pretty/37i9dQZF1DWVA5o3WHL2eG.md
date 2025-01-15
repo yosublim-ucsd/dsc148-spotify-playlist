@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,905 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,902 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 21 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
-| 23 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
-| 24 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 23 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 24 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
 | 25 | [ubahn oder uber](https://open.spotify.com/track/6J95N9nUV5QUXhLAwKAOvU) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ubahn oder uber](https://open.spotify.com/album/5kT7viGhEOMYSHU7BjIk10) | 2:18 |
-| 26 | [Wir sehen uns wieder](https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Wir sehen uns wieder](https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB) | 2:30 |
-| 27 | [1000 KLEINE TODE](https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [1000 KLEINE TODE](https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ) | 3:12 |
+| 26 | [1000 KLEINE TODE](https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [1000 KLEINE TODE](https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ) | 3:12 |
+| 27 | [Wir sehen uns wieder](https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Wir sehen uns wieder](https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB) | 2:30 |
 | 28 | [Vagabund](https://open.spotify.com/track/3TexmyJ4AW17QrRgHN3AXO) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq) | [Vagabund](https://open.spotify.com/album/1Gh8VCZns55jh3A2x40UPn) | 2:32 |
 | 29 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 30 | [Anders](https://open.spotify.com/track/4OCZWQ3sHNlseBXfq6fzLq) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Anders](https://open.spotify.com/album/2ieG8qc4ZhfD25spJoqcdL) | 2:26 |
 | 31 | [So Dope](https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 3:41 |
-| 32 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
-| 33 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
+| 32 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
+| 33 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
 | 34 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 |
 | 35 | [irgendwer](https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [irgendwer](https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y) | 2:48 |
 | 36 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [F.u.K.](https://open.spotify.com/track/7uFQeCq21HqvO9aZTw5Soz) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [X\-RATED feelings](https://open.spotify.com/album/6P5qJlQ5ToYafABrTVGhmt) | 2:12 |
 | 39 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
 | 40 | [NaNa](https://open.spotify.com/track/4pSZYGmnsjcLEniwabBIWh) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [MAILAN](https://open.spotify.com/album/2y6FwrOK0kzJmSJCcyf6ud) | 2:21 |
-| 41 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 |
-| 42 | [Wir sind echt](https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Wir sind echt](https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV) | 1:52 |
+| 41 | [Wir sind echt](https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Wir sind echt](https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV) | 1:52 |
+| 42 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 |
 | 43 | [Toxic](https://open.spotify.com/track/3EYYbBB5CLsKKRqpXX89zI) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Lavender](https://open.spotify.com/album/2RL1a7v0ArbtsKRdwnrwKX) | 3:38 |
 | 44 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
 | 45 | [Sailor Moon](https://open.spotify.com/track/1n6wX18QCB6Lv6EgnorRkz) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sailor Moon](https://open.spotify.com/album/7c35rbKlLuKrsvLtu3L39x) | 2:39 |

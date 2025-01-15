@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-972 songs - 2 day 4 hr 26 min
+973 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,7 @@
 | [Pippal Da Patta](https://open.spotify.com/track/4cQDm8B7JxO0HDkhjSRCFC) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/767hmpll8oTyXk0ElCmdmD) | 3:55 | 2024-11-04 | 2024-11-20 |
 | [Poora Chann](https://open.spotify.com/track/62cosUXsAaysvUJTIOWGzJ) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [Poora Chann](https://open.spotify.com/album/1JqXcDVTpMFrxw05z2hHi4) | 2:20 | 2022-07-25 | 2022-08-18 |
 | [Positivity](https://open.spotify.com/track/4Wy1PEoKfF3wPikE3GcWLl) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Positivity](https://open.spotify.com/album/1TMrvJJPk0MO3tvKEHAM7u) | 2:50 | 2022-05-10 | 2023-02-04 |
-| [Possessive](https://open.spotify.com/track/48VkZK0b7YDFP94dbj19L1) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:25 | 2024-12-06 |  |
+| [Possessive](https://open.spotify.com/track/48VkZK0b7YDFP94dbj19L1) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:25 | 2024-12-06 | 2025-01-15 |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 | 2022-12-16 |
 | [Precious](https://open.spotify.com/track/2VHEiOqgiJpeXZkArZfSJx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [No Limit](https://open.spotify.com/album/1AKXje51TkC8qrPH3BG6Gt) | 2:38 | 2022-09-02 | 2022-12-16 |
 | [Privacy](https://open.spotify.com/track/3eCjCQ9ByfgJrkTwOBZdqc) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Jannat](https://open.spotify.com/album/4FBpYgUuTATkO3mPDFh5QW) | 4:33 | 2023-01-09 | 2023-02-02 |
@@ -821,6 +821,7 @@
 | [Supna](https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 3:30 | 2023-02-03 | 2024-04-19 |
 | [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 | 2024-10-01 |
 | [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 | 2023-02-02 |
+| [Supna](https://open.spotify.com/track/3UJYZG5lJXHajdHeRhLOdi) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4) | [Supna](https://open.spotify.com/album/2tue99kjJMojUgyCFj7T2R) | 3:06 | 2025-01-14 |  |
 | [Surma](https://open.spotify.com/track/2DBaGfuoLB7GJpTKJpLO5P) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu), [Arsh Sarpal](https://open.spotify.com/artist/3CCMpMo6uEI0RiHOlcosz3) | [First Draft](https://open.spotify.com/album/6rPNjEczANskt3rINL8Ijl) | 2:04 | 2022-12-05 | 2022-12-24 |
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 | 2022-12-16 |
 | [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 | 2022-12-16 |

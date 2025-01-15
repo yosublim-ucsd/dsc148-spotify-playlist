@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,652 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,617 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 97 | [Wrap Me Up in Your Love](https://open.spotify.com/track/5zCHMBOItuzWvGAJRl0vnc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas \(Super Deluxe\)](https://open.spotify.com/album/7pm8YR7cEh5i0nRoqEutzd) | 3:45 |
 | 98 | [Christmastime is here](https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Christmastime is here](https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO) | 5:17 |
 | 99 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
-| 100 | [This Christmas](https://open.spotify.com/track/2RYS5X6HQ13lwJUmXnSNMC) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 5:07 |
+| 100 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 |
 
 Snapshot ID: `Z2WoEAAAAABIW5Vw+qHxYvNOmrKWvViJ`

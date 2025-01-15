@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Ilan
 
-589 songs - 1 day 3 hr 19 min
+596 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Come l'Italia e l'America](https://open.spotify.com/track/4KSby5Kv4rxDB2SS3SFaE7) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Come l'Italia e l'America](https://open.spotify.com/album/1x7TOON5RFwhDHcMY3AjBv) | 2:45 | 2024-05-31 | 2024-06-21 |
 | [Come Marilyn](https://open.spotify.com/track/0omRmMj87tSJhmggf4cWo1) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Come Marilyn](https://open.spotify.com/album/6lqeWrraxv3mCVWytlzBT0) | 2:58 | 2023-04-20 | 2023-05-19 |
 | [COME MI VUOI](https://open.spotify.com/track/5WbSZn7otHiZRaIJM8xYnc) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [COME MI VUOI](https://open.spotify.com/album/4tTQLe59Wj4IHtXid17dtH) | 2:24 | 2023-06-22 | 2023-09-22 |
+| [COMPLICI](https://open.spotify.com/track/4mXxduWkCzPG5Fk6wqg2G7) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [COMPLICI](https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e) | 3:08 | 2025-01-14 |  |
 | [CONCERTO](https://open.spotify.com/track/2ysCFTZocsMr672oxUUsAl) | [Calma](https://open.spotify.com/artist/56sJBZ0NubEJ6Y6QOldl1T), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [CONCERTO](https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr) | 2:28 | 2023-05-18 | 2023-06-09 |
 | [Conosciuti ad una festa](https://open.spotify.com/track/6FdzapNtOI7AwSqV3N6yKX) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Conosciuti ad una festa](https://open.spotify.com/album/1rKyOWRJqsskIkiW8RYIN6) | 2:36 | 2023-05-25 | 2023-06-30 |
 | [Contro Corrente](https://open.spotify.com/track/5iI9da3MXSRmMmA2JBzWHu) | [Marquisslove](https://open.spotify.com/artist/2OtLUQ1TBgbtR2BCqnANWd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Contro Corrente](https://open.spotify.com/album/5szQXnNjtUmInWTZPhj8ZW) | 2:02 | 2023-06-15 | 2023-07-07 |
@@ -160,6 +161,7 @@
 | [dormirai.](https://open.spotify.com/track/4oO7QcBjW8EvDOvTl6rmLE) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [dormirai.](https://open.spotify.com/album/1ZSL82TDpcHjBvbcIMsrUQ) | 2:29 | 2024-12-19 | 2025-01-10 |
 | [DORMIVEGLIA](https://open.spotify.com/track/2NfilNriFp7SJjOF6n6N3L) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:54 | 2023-09-21 | 2023-10-20 |
 | [Dove nessuno vede](https://open.spotify.com/track/6XvZ60jz3PeN2PwT31A1oC) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [Dove nessuno vede](https://open.spotify.com/album/4DqRhxCXcq9c5V5iGtQCfi) | 2:32 | 2023-03-23 | 2023-03-31 |
+| [DOVE TI TROVI TU](https://open.spotify.com/track/7nmgB57lnBQ2cmk3TFXseY) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [DOVE TI TROVI TU](https://open.spotify.com/album/1iYQ3bXd1fj9LVPukNf9KE) | 3:57 | 2025-01-14 |  |
 | [DUE ALTALENE](https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [DUE ALTALENE](https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl) | 3:17 | 2024-02-07 | 2024-06-01 |
 | [E LA TESTA GIRA \(Devastante\)](https://open.spotify.com/track/1lXwIAOoKmxn1nCZbQoNpR) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [E LA TESTA GIRA \(Devastante\)](https://open.spotify.com/album/3EjnSZE9vQMmTx184wpwpW) | 2:33 | 2023-07-13 | 2023-09-15 |
 | [Eden](https://open.spotify.com/track/5g4T5isfIVXluT1waVljLv) | [MURWI](https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Eden](https://open.spotify.com/album/1x7yiMfx90DawzXL0sqhZi) | 1:56 | 2023-03-30 | 2023-04-07 |
@@ -299,6 +301,7 @@
 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 | 2023-05-04 | 2023-05-19 |
 | [male male male](https://open.spotify.com/track/7iHXVknSLpTVrN9CE1vdAf) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [male male male](https://open.spotify.com/album/6IMbwfYhTxxVP5tvAuKapw) | 3:10 | 2024-12-19 |  |
 | [Maledetta felicità](https://open.spotify.com/track/2aTpiwxYbeF9osGFHXaf3I) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [Maledetta felicità](https://open.spotify.com/album/6kdDr1ySf73Zw1TEoRaef5) | 2:55 | 2023-03-23 | 2023-04-07 |
+| [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 | 2025-01-14 |  |
 | [Maledetto Mare](https://open.spotify.com/track/1aAE9RmUjVWacJjOEIL7aK) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Maledetto Mare](https://open.spotify.com/album/1wZTLd6eaksA667mDCFbXr) | 2:40 | 2023-06-22 | 2023-09-22 |
 | [MAMACITA](https://open.spotify.com/track/2HUc5pGypKfaXefHvDBodM) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:32 | 2024-10-07 | 2024-12-20 |
 | [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-04-29 | 2024-10-11 |
@@ -371,6 +374,7 @@
 | [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica](https://open.spotify.com/artist/4r5rICegCnoo3MD8ucZiFg) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 | 2024-11-21 | 2025-01-10 |
 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 | 2023-12-12 | 2024-06-21 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2023-03-23 | 2023-05-05 |
+| [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 | 2025-01-14 |  |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-17 |  |
 | [ODIAMI](https://open.spotify.com/track/2e8mCMd3Dihg0EkFzeRS61) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [ODIAMI](https://open.spotify.com/album/02kvSxum7hIbUSSmmc3qxh) | 2:48 | 2024-01-18 | 2024-02-23 |
 | [Odio = Amore = Odio](https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Odio = Amore = Odio](https://open.spotify.com/album/7pgcQo9sr2qGvw8oR0THxu) | 2:50 | 2023-10-05 | 2023-11-10 |
@@ -404,6 +408,7 @@
 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |
 | [PERDONIAMOCI LO STESSO](https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [PERDONIAMOCI LO STESSO](https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08) | 3:11 | 2024-08-01 | 2024-10-08 |
 | [PERICOLOSA](https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [PERICOLOSA](https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG) | 2:40 | 2024-11-21 |  |
+| [PERIFERIA](https://open.spotify.com/track/2A2hnGyNL6XAPzQdfB7BBY) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PERIFERIA](https://open.spotify.com/album/47a1bfygUymRWWw3G7gdHF) | 2:44 | 2025-01-14 |  |
 | [PERLE](https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PERLE](https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf) | 3:10 | 2023-12-07 | 2024-02-07 |
 | [Persi per niente](https://open.spotify.com/track/7Cb4kwCTNKG0myTbARa6if) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Persi per niente](https://open.spotify.com/album/0XK1pERvepV7TQCT2e9UBy) | 2:54 | 2024-09-26 | 2024-11-29 |
 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 | 2023-10-27 |
@@ -549,6 +554,7 @@
 | [Tutta Roma a piedi](https://open.spotify.com/track/4pcbLkCCVMRkZEo3rMd4SD) | [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Tutta Roma a piedi](https://open.spotify.com/album/1f1NfHnvtq8BG1Hb6eFeoA) | 2:51 | 2023-06-08 | 2023-07-14 |
 | [TUTTA ROSA](https://open.spotify.com/track/1bcOhOnjx5qfQsT96wjDZt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [TUTTA ROSA](https://open.spotify.com/album/62bhoMTFJHeHqUT0dlxahp) | 2:48 | 2024-06-06 | 2024-07-05 |
 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 | 2023-06-08 | 2024-07-05 |
+| [TUTTO L’ODIO](https://open.spotify.com/track/510kRcg1GpYJUYaHlDG8yi) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [TUTTO L’ODIO](https://open.spotify.com/album/0l885K2W8kJ1fDXIBpxE8I) | 2:32 | 2025-01-14 |  |
 | [Ultimo addio](https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [Ultimo addio](https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb) | 2:35 | 2024-07-11 | 2024-10-25 |
 | [ULTRAS](https://open.spotify.com/track/2yQ0sTyePbwZrMBCSNnIGN) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [ULTRAS](https://open.spotify.com/album/0hQNb6VoV23XmGVjLdogIJ) | 3:02 | 2023-11-30 | 2023-12-13 |
 | [un <3 in due](https://open.spotify.com/track/722fnHldLfC5ZI4QWdT3ak) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [un <3 in due](https://open.spotify.com/album/7IczajoDqLhhoQut0uFoR6) | 2:43 | 2023-05-25 | 2023-06-09 |
@@ -571,6 +577,7 @@
 | [Urlare](https://open.spotify.com/track/1SZH869hNrHGJTKo7LMCzW) | [Fra Melito](https://open.spotify.com/artist/7jADIGDmEXtQaVxUtOgw5Z) | [Urlare](https://open.spotify.com/album/2euJgTBFjT5YPXL0hPM9v3) | 3:16 | 2023-09-14 | 2023-10-06 |
 | [vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-02-15 |  |
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-02-07 | 2024-07-05 |
+| [VALENTINE](https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [VALENTINE](https://open.spotify.com/album/2P797s7JPzhhepZId6WySP) | 2:38 | 2025-01-14 |  |
 | [vecchio spettro](https://open.spotify.com/track/02F4KHu9cxVHwrgpy33qoW) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [vecchio spettro](https://open.spotify.com/album/0FzxEgJtf0Q9nepyUme6Z2) | 2:41 | 2023-07-13 | 2023-09-15 |
 | [vedo un mostro o vedo me](https://open.spotify.com/track/4uoK4Y6afYn7ryZ4N6eZgV) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [vedo un mostro o vedo me](https://open.spotify.com/album/4sZrwlUpqe5dgCo92FAn6e) | 2:06 | 2023-06-29 | 2023-07-28 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-03-14 | 2024-07-05 |

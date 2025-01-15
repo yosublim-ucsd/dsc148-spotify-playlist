@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,009 likes - 194 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,083 likes - 194 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 11 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 |
 | 12 | [Remain](https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Remain](https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho) | 2:05 |
 | 13 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 |
-| 14 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 |
-| 15 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 |
-| 16 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 |
-| 17 | [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 |
-| 18 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
-| 19 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
-| 20 | [Evening Kiss](https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Evening Kiss](https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR) | 3:16 |
-| 21 | [Trinity's Tears](https://open.spotify.com/track/56n46IJIz5ToaFJBxy3Y5B) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Trinity's Tears](https://open.spotify.com/album/7aB70ESTbXVRpVHEn3eDD1) | 2:17 |
-| 22 | [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 |
-| 23 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 |
-| 24 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 |
-| 25 | [Auburn Dawn](https://open.spotify.com/track/215IRTja2ijaQM3fa4m03M) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Auburn Dawn](https://open.spotify.com/album/3llmpEDSHUJmkrPomgOjEc) | 2:52 |
+| 14 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
+| 15 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 |
+| 16 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 |
+| 17 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 |
+| 18 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 |
+| 19 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 |
+| 20 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
+| 21 | [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 |
+| 22 | [Auburn Dawn](https://open.spotify.com/track/215IRTja2ijaQM3fa4m03M) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Auburn Dawn](https://open.spotify.com/album/3llmpEDSHUJmkrPomgOjEc) | 2:52 |
+| 23 | [Evening Kiss](https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Evening Kiss](https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR) | 3:16 |
+| 24 | [Trinity's Tears](https://open.spotify.com/track/56n46IJIz5ToaFJBxy3Y5B) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Trinity's Tears](https://open.spotify.com/album/7aB70ESTbXVRpVHEn3eDD1) | 2:17 |
+| 25 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 |
 | 26 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 |
 | 27 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 |
 | 28 | [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 193 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 |
 | 194 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 |
 
-Snapshot ID: `Z30WewAAAACJsuFuY1ZaPfN8EbwNWkN6`
+Snapshot ID: `Z4YyAgAAAACzF0MqAAt7ylxFMRJC8xAy`

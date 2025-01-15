@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Beneath the Paris Sky",
+        "url": "https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e"
+      },
+      "artists": [
+        {
+          "name": "Nimelle",
+          "url": "https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168047,
+      "name": "Beneath the Paris Sky",
+      "url": "https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W"
+    },
+    {
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 227750,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs"
@@ -3821,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "How Should I Know",
+        "url": "https://open.spotify.com/album/1kgaRh1UG0wVAsroy0xWFO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Meir",
+          "url": "https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167870,
+      "name": "How Should I Know",
+      "url": "https://open.spotify.com/track/0D3KPdUM0rYY455Lg6pnId"
+    },
+    {
+      "album": {
         "name": "Hoy Como Ayer?",
         "url": "https://open.spotify.com/album/20aD9JR438fFl7GfcVW2Wk"
       },
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 193613,
       "name": "I Cover the Waterfront",
       "url": "https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne"
@@ -6107,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Marais Morning",
+        "url": "https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN"
+      },
+      "artists": [
+        {
+          "name": "James Auren",
+          "url": "https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206843,
+      "name": "Marais Morning",
+      "url": "https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO"
+    },
+    {
+      "album": {
         "name": "Marianne",
         "url": "https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N"
       },
@@ -6212,6 +6266,24 @@
       "duration_ms": 155849,
       "name": "Midnight Promises",
       "url": "https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF"
+    },
+    {
+      "album": {
+        "name": "Midnight Stroll",
+        "url": "https://open.spotify.com/album/3oqLJBIC8Yf6vSgFRjEE7V"
+      },
+      "artists": [
+        {
+          "name": "Miles Hartfield",
+          "url": "https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197243,
+      "name": "Midnight Stroll",
+      "url": "https://open.spotify.com/track/00uBWrCNKvMfHNvgBIaU29"
     },
     {
       "album": {
@@ -6658,7 +6730,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 186557,
       "name": "My World",
       "url": "https://open.spotify.com/track/0CNwwdWrJPiYuNzgXMXoce"
@@ -7058,6 +7130,24 @@
       "duration_ms": 202395,
       "name": "On a Slow Boat to China",
       "url": "https://open.spotify.com/track/5n9PdWYQcdMVS7XpySQuFx"
+    },
+    {
+      "album": {
+        "name": "On the Road Again",
+        "url": "https://open.spotify.com/album/2nibwPlq5KEcfk1Cg291dM"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169024,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/19OP4q4InqMlF06ANhsREi"
     },
     {
       "album": {
@@ -9848,7 +9938,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 183803,
       "name": "The Snows Of Yesteryear",
       "url": "https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD"
@@ -10478,7 +10568,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 166939,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/3rZ0Si8Hadvn7cpV5UJTuG"

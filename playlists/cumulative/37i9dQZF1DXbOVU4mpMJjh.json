@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9"
@@ -6204,6 +6204,24 @@
       "duration_ms": 321840,
       "name": "First Star",
       "url": "https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I"
+    },
+    {
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/0EaGakTJCQdenyrQnmjpmt"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/0sJNygfrqrAWhYZgYzUXyd"
     },
     {
       "album": {
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 325656,
       "name": "Honest Waltz",
       "url": "https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV"
@@ -9710,7 +9728,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 173000,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/0ubtLy1QIbY5rxNxGveZbo"
@@ -13754,7 +13772,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 323184,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra"
@@ -15066,7 +15084,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 276670,
       "name": "Parole Parole",
       "url": "https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2"
@@ -17022,7 +17040,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 224197,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/5X7GoPJvTxS5TcjF21oskS"
@@ -19586,7 +19604,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 440513,
       "name": "The Winter of My Discontent",
       "url": "https://open.spotify.com/track/2ovibjyd0xaW7HvfGvx0Qe"
@@ -19694,7 +19712,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 189864,
       "name": "Then You Spoke",
       "url": "https://open.spotify.com/track/5Q1pJ2MCj4FlcDf6TCsL9Y"
@@ -20048,6 +20066,24 @@
       "duration_ms": 176124,
       "name": "Thoughts Of You",
       "url": "https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N"
+    },
+    {
+      "album": {
+        "name": "Through Silence",
+        "url": "https://open.spotify.com/album/0cAL2PBX3IRh6bm5C5kiip"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158581,
+      "name": "Through Silence",
+      "url": "https://open.spotify.com/track/7zKgBZ0O97OFSJ9fIjPHgS"
     },
     {
       "album": {
@@ -21182,7 +21218,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 324075,
       "name": "Watching the World Walk by",
       "url": "https://open.spotify.com/track/0qR5RaRlfepIZMySNeQSVV"
@@ -22512,7 +22548,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 248213,
       "name": "You Were Waiting for Me",
       "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"

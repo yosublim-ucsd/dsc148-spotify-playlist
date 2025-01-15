@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,105 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 114 | [What's Mine \(feat\. Mick Jenkins\) \[Remix\]](https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe) | [Ridgio](https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What's Mine \(feat\. Mick Jenkins\) \[Remix\]](https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8) | 2:47 |
 | 115 | [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 |
 | 116 | [Nikes on My Feet](https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Nikes on My Feet](https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL) | 2:44 |
-| 117 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 |
-| 118 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 |
+| 117 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 |
+| 118 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 |
 | 119 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 120 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 |
 

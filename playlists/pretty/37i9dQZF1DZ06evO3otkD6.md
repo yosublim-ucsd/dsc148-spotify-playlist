@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,195 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,212 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 41 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
 | 42 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
 | 43 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
-| 44 | [Donde Está el Amor](https://open.spotify.com/track/2zgqg6VP23XElZosH6f87V) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 3:13 |
-| 45 | [Alguien Mas](https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:13 |
-| 46 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
-| 47 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 |
+| 44 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 |
+| 45 | [Donde Está el Amor](https://open.spotify.com/track/2zgqg6VP23XElZosH6f87V) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 3:13 |
+| 46 | [Alguien Mas](https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:13 |
+| 47 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
 | 48 | [Te Quiero \(feat\. Belinda\) \- Spanglish](https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Quiero Maxi Single](https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H) | 3:25 |
 | 49 | [Translation](https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg) | [Vein](https://open.spotify.com/artist/3BnF35ARlp8mMeyXTjUZsr), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Translation](https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB) | 3:39 |
-| 50 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 |
+| 50 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
 
-Snapshot ID: `Z4MGAAAAAAD/ZKrsJbbD+NZZubxLptv3`
+Snapshot ID: `Z4RXgAAAAAAlAJvtAlcfx1uv0F7Uk3J0`

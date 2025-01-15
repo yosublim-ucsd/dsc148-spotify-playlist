@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -13865,6 +13865,28 @@
     },
     {
       "album": {
+        "name": "FWTIA",
+        "url": "https://open.spotify.com/album/1fB4wEiDkqDdJaTrKnNRKp"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "FWTIA",
+      "url": "https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC"
+    },
+    {
+      "album": {
         "name": "Reworks",
         "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
       },
@@ -15336,7 +15358,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 172816,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/72F8Vzk3VP5VjnKD6xNwFF"
@@ -15596,7 +15618,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 188852,
       "name": "GUZMAN",
       "url": "https://open.spotify.com/track/265p7dXIc7D7TUBqmXmN4B"
@@ -23750,7 +23772,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 182376,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
@@ -27610,7 +27632,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
@@ -29472,7 +29494,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 153750,
       "name": "PERIPOLIKO",
       "url": "https://open.spotify.com/track/6uqPiwfxAH9aUtnJzomaX2"
@@ -37408,7 +37430,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 207556,
       "name": "To Vale",
       "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"
@@ -40736,7 +40758,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

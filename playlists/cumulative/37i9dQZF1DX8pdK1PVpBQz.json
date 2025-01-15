@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: MELODOWNZ",
+  "description": "The best new music by independent artists and labels. \nCover: Gloria Laing",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -2101,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/1mVMGJawjS3KttEchhqI1G"
+      },
+      "artists": [
+        {
+          "name": "Pleasant Michelle",
+          "url": "https://open.spotify.com/artist/5OuuiX2AnnLwzKdhOtFBkZ"
+        },
+        {
+          "name": "Brent Honey",
+          "url": "https://open.spotify.com/artist/0UQQORhMGFClKpoARZLTP9"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243272,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/20udUahbsS6LlnOmtHR7ZN"
+    },
+    {
+      "album": {
         "name": "All In Place",
         "url": "https://open.spotify.com/album/5Jkcs2WoO1mkEAUFGrQBAN"
       },
@@ -3088,7 +3110,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 190935,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/50rhuuvzmC7KXqehhxbNL2"
@@ -7294,6 +7316,28 @@
       "duration_ms": 181967,
       "name": "Body Beat",
       "url": "https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu"
+    },
+    {
+      "album": {
+        "name": "Body Electric",
+        "url": "https://open.spotify.com/album/2bWqmBshwF6rdm7Noh3Btl"
+      },
+      "artists": [
+        {
+          "name": "Junus Orca",
+          "url": "https://open.spotify.com/artist/6FOHPBlEEJnIWiShmioUPq"
+        },
+        {
+          "name": "Jaz Paterson",
+          "url": "https://open.spotify.com/artist/5iLjZUPG66SIQx9sTjSxp5"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145368,
+      "name": "Body Electric",
+      "url": "https://open.spotify.com/track/37gvXmRdis7kEdkPRlQtMM"
     },
     {
       "album": {
@@ -11713,6 +11757,24 @@
     },
     {
       "album": {
+        "name": "Cold to the Touch",
+        "url": "https://open.spotify.com/album/0p88OW2xWXsgFcnA8y3ijB"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159889,
+      "name": "Cold to the Touch",
+      "url": "https://open.spotify.com/track/3Zh7XVfN7f2H8eVqKdUUfJ"
+    },
+    {
+      "album": {
         "name": "Cold With You",
         "url": "https://open.spotify.com/album/3uPqde1GYQssM6A6hNnwNv"
       },
@@ -12082,6 +12144,24 @@
       "duration_ms": 170979,
       "name": "Competition",
       "url": "https://open.spotify.com/track/1yj0pgJ3amKMJdZPWK4vNt"
+    },
+    {
+      "album": {
+        "name": "complex",
+        "url": "https://open.spotify.com/album/5AE94llJW4f2G2GLBjH9Cg"
+      },
+      "artists": [
+        {
+          "name": "itsjames",
+          "url": "https://open.spotify.com/artist/1W6A7uFQ3onn0QLlMty6kN"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "complex",
+      "url": "https://open.spotify.com/track/41pTVd5WX75VWzC2YbUeeI"
     },
     {
       "album": {
@@ -14339,6 +14419,24 @@
     },
     {
       "album": {
+        "name": "Deadlines",
+        "url": "https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Deadlines",
+      "url": "https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH"
+    },
+    {
+      "album": {
         "name": "Deadman",
         "url": "https://open.spotify.com/album/79GjjoJ6Caz42sGe0GGLCo"
       },
@@ -14394,6 +14492,24 @@
       "duration_ms": 195373,
       "name": "Death By Duty",
       "url": "https://open.spotify.com/track/6xBLtOBj4DKd44K8oYDrRs"
+    },
+    {
+      "album": {
+        "name": "Debugger",
+        "url": "https://open.spotify.com/album/4UwXu65QYExznS7jppROfs"
+      },
+      "artists": [
+        {
+          "name": "Ripship",
+          "url": "https://open.spotify.com/artist/1yx7HUETsdOE9oP6ISSVSX"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272186,
+      "name": "Debugger",
+      "url": "https://open.spotify.com/track/38bQZzy0ENspCAKYzzTanc"
     },
     {
       "album": {
@@ -19837,6 +19953,24 @@
     },
     {
       "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/4tFtYbG00DjzL1nhZOkGuO"
+      },
+      "artists": [
+        {
+          "name": "Fever Pitch",
+          "url": "https://open.spotify.com/artist/4CjdIrW7d1MTVC1RVbupwR"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/45e7TKWcYH9HcBkWFn4oUi"
+    },
+    {
+      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/3BlRvMH5sgXg6OU3pxN7mY"
       },
@@ -21194,7 +21328,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 195616,
       "name": "flood",
       "url": "https://open.spotify.com/track/41Pn0bj8sB5GAzpImm2Sg7"
@@ -22752,7 +22886,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 195698,
       "name": "GAENARI",
       "url": "https://open.spotify.com/track/20P6kC3qBe1vQn1F7tmKDd"
@@ -30364,7 +30498,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 165105,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/5TLAck8U700ijGNtk9JODK"
@@ -30600,7 +30734,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 180970,
       "name": "If He Wanted To",
       "url": "https://open.spotify.com/track/7hA7mjXdCoLUWttOeVyQdz"
@@ -31218,6 +31352,24 @@
       "duration_ms": 212093,
       "name": "In The Darkness",
       "url": "https://open.spotify.com/track/4OpNBybcQK6lGIRKIJ7lE0"
+    },
+    {
+      "album": {
+        "name": "In The Garden",
+        "url": "https://open.spotify.com/album/2hjsTKJDILYWYZ2RyQ1OmE"
+      },
+      "artists": [
+        {
+          "name": "Aloe Vera",
+          "url": "https://open.spotify.com/artist/6FVEH6CSRyJv1A0hwMntTg"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158236,
+      "name": "In The Garden",
+      "url": "https://open.spotify.com/track/3FSiIYUyTLVqF32ngACZGW"
     },
     {
       "album": {
@@ -32882,7 +33034,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 178164,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/3UKwqIVcoow5Zn5ouCFNVe"
@@ -33989,6 +34141,24 @@
     },
     {
       "album": {
+        "name": "Last To Admit",
+        "url": "https://open.spotify.com/album/6whiCHI626WN822V20t77T"
+      },
+      "artists": [
+        {
+          "name": "Lottie",
+          "url": "https://open.spotify.com/artist/4E6BZQvE45nfy5h60pYFBn"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212673,
+      "name": "Last To Admit",
+      "url": "https://open.spotify.com/track/3aqkLgX6Xoyjga2EOEQiRW"
+    },
+    {
+      "album": {
         "name": "Late",
         "url": "https://open.spotify.com/album/2z4hrWpF6tKwxSmx0TOV8k"
       },
@@ -34182,6 +34352,28 @@
       "duration_ms": 120340,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/5DyzbSp1JRdBhCKzpheAw5"
+    },
+    {
+      "album": {
+        "name": "Lead You On",
+        "url": "https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        },
+        {
+          "name": "Jvyden",
+          "url": "https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253951,
+      "name": "Lead You On",
+      "url": "https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L"
     },
     {
       "album": {
@@ -38784,7 +38976,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 193875,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/5RSTw5tbWTBLdwOFduwoXD"
@@ -41210,6 +41402,24 @@
       "duration_ms": 151119,
       "name": "Need It",
       "url": "https://open.spotify.com/track/0ZZ5SOY9v0dJrCEBzRKYny"
+    },
+    {
+      "album": {
+        "name": "need u worse",
+        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225073,
+      "name": "need u worse",
+      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
     },
     {
       "album": {
@@ -43988,7 +44198,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 194534,
       "name": "Okay LA",
       "url": "https://open.spotify.com/track/0oKC2985SLYjcmQ3kEJYYD"
@@ -45302,7 +45512,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 220965,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/02SGUjIZ98nO02FSoYIHMt"
@@ -53630,7 +53840,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 242317,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/10A91wt9wYyK2jBDNI4D6a"
@@ -60590,7 +60800,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 238800,
       "name": "The Lawn",
       "url": "https://open.spotify.com/track/3NfOkOWIqDTD2IubvHihUH"
@@ -60612,6 +60822,24 @@
       "duration_ms": 271697,
       "name": "The Lead",
       "url": "https://open.spotify.com/track/7HpBHY0JcsGpuJqoZRZwDX"
+    },
+    {
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/4Dv9aiuJfsYnwOnawMFNnf"
+      },
+      "artists": [
+        {
+          "name": "Vanessa",
+          "url": "https://open.spotify.com/artist/28DKVtCElWEV5wCoWZtCuG"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3nsHLuq0qYzheq850Fw5qF"
     },
     {
       "album": {
@@ -66618,7 +66846,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 172991,
       "name": "Weather's Better",
       "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
@@ -66734,6 +66962,24 @@
       "duration_ms": 231799,
       "name": "Weightless (feat. Wallace)",
       "url": "https://open.spotify.com/track/6dnEf5tKdKACRrFC9wa6Hy"
+    },
+    {
+      "album": {
+        "name": "Welcome To The New World",
+        "url": "https://open.spotify.com/album/3eVZdxt14mTMZnSVv8p9em"
+      },
+      "artists": [
+        {
+          "name": "Logan Priest",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "Welcome To The New World",
+      "url": "https://open.spotify.com/track/5WlaRNc0zP2CqFOpbUfsxo"
     },
     {
       "album": {
@@ -69720,7 +69966,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-15",
       "duration_ms": 119615,
       "name": "Young Men",
       "url": "https://open.spotify.com/track/5XlRbUkXfhTDJ4RW7WFENU"
